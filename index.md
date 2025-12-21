@@ -1,9 +1,9 @@
-# [2025-12-21 14:12 updated](2025_12_21.md)
+# [2025-12-21 14:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> Looking back on a year of AI blunders ft.trib.al/v0c6S4V  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mahx6clw3224" target="_blank">financialtimes.com</a> (2025-12-21 14:07:12)</span><span style="padding-right:50px;"> In praise of male courage ft.trib.al/iYLl3Py  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mahx6c5rsd2y" target="_blank">financialtimes.com</a> (2025-12-21 14:07:11)</span><span style="padding-right:50px;">【速報中】全国高校駅伝 学法石川 大会記録更新ペースで6区へ https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahx4ciktn2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 14:06:03)</span><span style="padding-right:50px;">「炭酸ハミガキ」口内で一気に発泡　マズさの壁超え200万本ヒット www.nikkei.com/article/DGXZQO...  「ピュオーラ　炭酸ハミガキ」の開発チームは炭酸泡が隙間に入り込みやすいという特性に注目。  入浴剤の「バブ」などを開発してきた花王には炭酸研究の知見がありました。  炭酸は水分に触れると反応が進んでしまうため、口に入れてから反応が始まるようクエン酸をコーティング。  次の課題は味。重曹は苦味が、クエン酸は酸味が強く「初期の試作はマズすぎて……」。 <a href="https://bsky.app/profile/nikkei.com/post/3mahwswfrgs2i" target="_blank">nikkei.com</a> (2025-12-21 14:00:50)</span><span style="padding-right:50px;">England's Ashes dream is over but Stokes vows to fight on reut.rs/4p4rAus <a href="https://bsky.app/profile/reuters.com/post/3mahwsbdptr2i" target="_blank">reuters.com</a> (2025-12-21 14:00:28)</span>
+<span style="padding-right:50px;">Revolut clashes with former staff over tax on share awards ft.trib.al/eZSfBJo <a href="https://bsky.app/profile/financialtimes.com/post/3mahy5zsr6i24" target="_blank">financialtimes.com</a> (2025-12-21 14:24:56)</span><span style="padding-right:50px;">【速報中】全国高校駅伝 学法石川 トップ守り最終7区へ https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahxx4yrig2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 14:21:03)</span><span style="padding-right:50px;">Fidelity pledges crackdown on excessive corporate pay ft.trib.al/Rc6P3l1 <a href="https://bsky.app/profile/financialtimes.com/post/3mahxry5use2o" target="_blank">financialtimes.com</a> (2025-12-21 14:18:12)</span><span style="padding-right:50px;">Role reversal: how foot-dragging France blindsided newly assertive Berlin ft.trib.al/a381eTM <a href="https://bsky.app/profile/financialtimes.com/post/3mahxo2xz2n25" target="_blank">financialtimes.com</a> (2025-12-21 14:16:01)</span><span style="padding-right:50px;">フィギュア 全日本選手権“りくりゅう”ペア 後半のフリー棄権 https://news.web.nhk/newsweb/na/na-k10015009691000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahxmk5fyj2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 14:15:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.75 (➖0.00 : 2025-12-20)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.75 (➖0.00 : 2025-12-21)</span>
   </div>
 </div>
 
@@ -27,6 +27,85 @@
   100% { transform: translateX(-100%); }
 }
 </style>
+
+---
+
+## News Headlines
+
+- Revolut clashes with former staff over tax on share awards
+  - Revolutと元従業員が株式報酬の税金について対立
+- England's Ashes dream is over but Stokes vows to fight on
+  - 英国のアッシュズの夢は終わりだがストークスは戦いを続ける
+- Ukraine's Zelensky proposes joint talks on Ukraine, US, Russia
+  - ウクライナのゼレンスキー大統領が米国・ウクライナ・ロシアによる高官会談の提案
+- Dhanbad: India's coal town struggles to break free from dirty fuel
+  - インドのダナバード：黒鉱を捨てようとする町
+- Brandon Bradshaw, the 'Manhole Michelangelo', lands in jail for turning sewer covers into art
+  - ブランドン・ブラッドショー：下水道のカバーを美しいものに変える奇跡の男
+- BREAKING: Australia retains Ashes with two tests to spare
+  - 【速報】オーストラリアがアッシュズを制し、残り2試合で
+- 5.2-magnitude earthquake hits off eastern coast of Hokkaido, Japan
+  - 北海道東方沖でマグニチュード5.2の地震
+
+
+----
+
+@financialtimes.com
+
+Revolut clashes with former staff over tax on share awards ft.trib.al/eZSfBJo
+
+[2025-12-21 14:24:56](https://bsky.app/profile/financialtimes.com/post/3mahy5zsr6i24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【速報中】全国高校駅伝 学法石川 トップ守り最終7区へ
+https://news.web.nhk/newsweb/na/na-k10015007911000
+
+[2025-12-21 14:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahxx4yrig2b)
+
+---
+
+@financialtimes.com
+
+Fidelity pledges crackdown on excessive corporate pay ft.trib.al/Rc6P3l1
+
+[2025-12-21 14:18:12](https://bsky.app/profile/financialtimes.com/post/3mahxry5use2o)
+
+---
+
+@financialtimes.com
+
+Role reversal: how foot-dragging France blindsided newly assertive Berlin ft.trib.al/a381eTM
+
+[2025-12-21 14:16:01](https://bsky.app/profile/financialtimes.com/post/3mahxo2xz2n25)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+フィギュア 全日本選手権“りくりゅう”ペア 後半のフリー棄権
+https://news.web.nhk/newsweb/na/na-k10015009691000
+
+[2025-12-21 14:15:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahxmk5fyj2d)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+米メディア“富豪エプスタイン氏めぐる捜査資料公開”連日報道
+https://news.web.nhk/newsweb/na/na-k10015009701000
+
+[2025-12-21 14:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahxmfelb224)
+
+---
+
+@japan.reuters.com
+
+米情報機関がまとめた報告によると、ロシアのプーチン大統領はウクライナ全土のほか、旧ソ連に属していた欧州の一部地域を占領する目標をなお放棄していないという。事情に詳しい関係者６人が明らかにした。 bit.ly/493syRT
+
+[2025-12-21 14:12:32](https://bsky.app/profile/japan.reuters.com/post/3mahxhtnosd26)
 
 ---
 
@@ -52,72 +131,6 @@
 https://news.web.nhk/newsweb/na/na-k10015007911000
 
 [2025-12-21 14:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahx4ciktn2y)
-
----
-
-@nikkei.com
-
-「炭酸ハミガキ」口内で一気に発泡　マズさの壁超え200万本ヒット
-www.nikkei.com/article/DGXZQO...
-
-「ピュオーラ　炭酸ハミガキ」の開発チームは炭酸泡が隙間に入り込みやすいという特性に注目。
-
-入浴剤の「バブ」などを開発してきた花王には炭酸研究の知見がありました。
-
-炭酸は水分に触れると反応が進んでしまうため、口に入れてから反応が始まるようクエン酸をコーティング。
-
-次の課題は味。重曹は苦味が、クエン酸は酸味が強く「初期の試作はマズすぎて……」。
-
-[2025-12-21 14:00:50](https://bsky.app/profile/nikkei.com/post/3mahwswfrgs2i)
-
----
-
-@reuters.com
-
-England's Ashes dream is over but Stokes vows to fight on reut.rs/4p4rAus
-
-[2025-12-21 14:00:28](https://bsky.app/profile/reuters.com/post/3mahwsbdptr2i)
-
----
-
-@washingtonpost.com
-
-As we barrel toward the coldest part of the year, so, too, we enter the season of comforting stews. Simmer one of these stew recipes — starring beef, chicken, seafood and vegetables — to warm your belly and home.
-
-[2025-12-21 14:00:07](https://bsky.app/profile/washingtonpost.com/post/3mahwrmsxsy2g)
-
----
-
-@apnews.com
-
-Dante Moore threw four touchdown passes and ran for another score, and No. 5 Oregon beat No. 19 James Madison 51-34 in a College Football Playoff opener. The Ducks advanced to face Texas Tech in a quarterfinal game at the Orange Bowl on Jan. 1.
-
-[2025-12-21 13:57:33](https://bsky.app/profile/apnews.com/post/3mahwn2cy4w2x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【速報中】全国高校駅伝 学法石川 大会記録更新ペースで5区へ
-https://news.web.nhk/newsweb/na/na-k10015007911000
-
-[2025-12-21 13:57:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahwm7fazf2y)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Australian PM announces intelligence review as country mourns Bondi attack
-
-[2025-12-21 13:55:56](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mahwk6gaws2x)
-
----
-
-@wsj.com
-
-“There are 10 main characters in this film, and nine of them are detestable.” Hate-watching this Christmas movie has become a tradition. 🔗 on.wsj.com/4rVYiRD
-
-[2025-12-21 13:52:47](https://bsky.app/profile/wsj.com/post/3mahwejmc5y2u)
 
 ---
 
