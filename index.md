@@ -1,9 +1,9 @@
-# [2025-12-22 08:10 updated](2025_12_22.md)
+# [2025-12-22 08:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】国道2号 船坂山トンネル付近で大型トラック2台が絡む事故 現場通行止め【岡山】 (2025-12-22 08:04:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3majtlbodnu2b" target="_blank">sokuho.news</a> (2025-12-22 08:08:12)</span><span style="padding-right:50px;">ASEAN to seek resolution to Thailand-Cambodia conflict with Malaysia meeting reut.rs/4j97ePv <a href="https://bsky.app/profile/reuters.com/post/3majtfrvhkb2i" target="_blank">reuters.com</a> (2025-12-22 08:05:07)</span><span style="padding-right:50px;">Samsung Biologics to buy U.S. drug production facility from GSK for $280 mln reut.rs/48S0xha <a href="https://bsky.app/profile/reuters.com/post/3majt6lfl7w2y" target="_blank">reuters.com</a> (2025-12-22 08:01:06)</span><span style="padding-right:50px;">米政権のウィットコフ特使は２１日、ウクライナ戦争終結に向けてフロリダで過去３日間に行われた米・欧州・ウクライナ当局者間の協議について、生産的だったと評価し、立場の調整に重点が置かれたと明らかにした。 bit.ly/4antjaF <a href="https://bsky.app/profile/japan.reuters.com/post/3majt5ut3cd25" target="_blank">japan.reuters.com</a> (2025-12-22 08:00:42)</span><span style="padding-right:50px;">日銀が３０年ぶりの高水準となる０．７５％への利上げを決定した。植田和男総裁は会見で、実質金利はまだ極めて低いところにあるとして、利上げ継続の方針を示す一方、今後の利上げペースについて具体的な示唆を与えなかった。日銀では、今回の利上げの影響をつぶさに点検しながら、追加利上げのタイミングは慎重に探るべきだとの声がある。ただ、円安への懸念は政策委員の間でも強く、状況次第では調整が速まる可能性もある。 bit.ly/495imIC <a href="https://bsky.app/profile/japan.reuters.com/post/3majt5ow4qh2q" target="_blank">japan.reuters.com</a> (2025-12-22 08:00:36)</span>
+<span style="padding-right:50px;">埼玉 狭山 車にはねられ25歳男性死亡 ひき逃げ事件として捜査 https://news.web.nhk/newsweb/na/na-k10015010171000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majumzmlux2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 08:27:01)</span><span style="padding-right:50px;">米カリフォルニア州サンフランシスコ市の緊急管理当局と同州の主要電力会社ＰＧ＆Ｅは２１日、市内で２０日に発生した大規模停電について、約１１万件の顧客の電力が復旧したと発表した。 bit.ly/4j6BV7L <a href="https://bsky.app/profile/japan.reuters.com/post/3majumo5yol25" target="_blank">japan.reuters.com</a> (2025-12-22 08:26:52)</span><span style="padding-right:50px;">Justice Department restores Trump photo to public database of Epstein files reut.rs/4sai5wG <a href="https://bsky.app/profile/reuters.com/post/3majujj2iwx2r" target="_blank">reuters.com</a> (2025-12-22 08:25:06)</span><span style="padding-right:50px;">フィギュアスケートのミラノ・コルティナ冬季五輪代表最終選考会を兼ねる全日本選手権は２１日、東京・国立代々木競技場で競技を行い、女子では坂本花織が５連覇を達成し、３大会連続となる五輪代表に決まった。 bit.ly/3YEMGot <a href="https://bsky.app/profile/japan.reuters.com/post/3majud6ghbz2f" target="_blank">japan.reuters.com</a> (2025-12-22 08:21:34)</span><span style="padding-right:50px;">With retro packaging and Pete Davidson as an investor, Norms is destigmatizing a once-embarrassing affliction. <a href="https://bsky.app/profile/wsj.com/post/3maju4qdgd32k" target="_blank">wsj.com</a> (2025-12-22 08:17:58)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.59 (🔻0.16 : 2025-12-21)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.61 (🔻0.14 : 2025-12-21)</span>
   </div>
 </div>
 
@@ -32,101 +32,97 @@
 
 ## News Headlines
 
-- Two large trucks collide in Japan's Okayama Prefecture, causing traffic congestion
-- ASEAN to seek resolution to Thailand-Cambodia conflict with Malaysia meeting
-- Samsung Biologics to acquire US drug production facility from GSK for $280 million
-- Bank of Japan raises interest rates to 0.75% for first time in 30 years
-- US seeks to board third oil tanker linked to Venezuela
-- Powerball jackpot grows to estimated $1.6 billion after another drawing passes without a winner
+- 25-Year-Old Man Dies in Car Accident in Saitama Prefecture, Japan
+- Power Restored to Majority of San Francisco Homes Affected by Massive Outage
+- US Justice Department Restores Trump Photo to Public Database of Epstein Files
+- Sakamoto Mai Wins Fifth Consecutive Title at All-Japan Figure Skating Championships
+- Norms Aims to Destigmatize Mental Health with Retro Packaging and Pete Davidson as Investor
+- Battery Demand Surges as China's Power Reforms and Global Data Center Buildout Drive Growth
 
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️JNNより【速報】です。
+埼玉 狭山 車にはねられ25歳男性死亡 ひき逃げ事件として捜査
+https://news.web.nhk/newsweb/na/na-k10015010171000
 
-【速報】国道2号 船坂山トンネル付近で大型トラック2台が絡む事故 現場通行止め【岡山】
-(2025-12-22 08:04:00) #ニュース
-
-[2025-12-22 08:08:12](https://bsky.app/profile/sokuho.news/post/3majtlbodnu2b)
-
----
-
-@reuters.com
-
-ASEAN to seek resolution to Thailand-Cambodia conflict with Malaysia meeting reut.rs/4j97ePv
-
-[2025-12-22 08:05:07](https://bsky.app/profile/reuters.com/post/3majtfrvhkb2i)
-
----
-
-@reuters.com
-
-Samsung Biologics to buy U.S. drug production facility from GSK for $280 mln reut.rs/48S0xha
-
-[2025-12-22 08:01:06](https://bsky.app/profile/reuters.com/post/3majt6lfl7w2y)
+[2025-12-22 08:27:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majumzmlux2b)
 
 ---
 
 @japan.reuters.com
 
-米政権のウィットコフ特使は２１日、ウクライナ戦争終結に向けてフロリダで過去３日間に行われた米・欧州・ウクライナ当局者間の協議について、生産的だったと評価し、立場の調整に重点が置かれたと明らかにした。 bit.ly/4antjaF
+米カリフォルニア州サンフランシスコ市の緊急管理当局と同州の主要電力会社ＰＧ＆Ｅは２１日、市内で２０日に発生した大規模停電について、約１１万件の顧客の電力が復旧したと発表した。 bit.ly/4j6BV7L
 
-[2025-12-22 08:00:42](https://bsky.app/profile/japan.reuters.com/post/3majt5ut3cd25)
+[2025-12-22 08:26:52](https://bsky.app/profile/japan.reuters.com/post/3majumo5yol25)
+
+---
+
+@reuters.com
+
+Justice Department restores Trump photo to public database of Epstein files reut.rs/4sai5wG
+
+[2025-12-22 08:25:06](https://bsky.app/profile/reuters.com/post/3majujj2iwx2r)
 
 ---
 
 @japan.reuters.com
 
-日銀が３０年ぶりの高水準となる０．７５％への利上げを決定した。植田和男総裁は会見で、実質金利はまだ極めて低いところにあるとして、利上げ継続の方針を示す一方、今後の利上げペースについて具体的な示唆を与えなかった。日銀では、今回の利上げの影響をつぶさに点検しながら、追加利上げのタイミングは慎重に探るべきだとの声がある。ただ、円安への懸念は政策委員の間でも強く、状況次第では調整が速まる可能性もある。 bit.ly/495imIC
+フィギュアスケートのミラノ・コルティナ冬季五輪代表最終選考会を兼ねる全日本選手権は２１日、東京・国立代々木競技場で競技を行い、女子では坂本花織が５連覇を達成し、３大会連続となる五輪代表に決まった。 bit.ly/3YEMGot
 
-[2025-12-22 08:00:36](https://bsky.app/profile/japan.reuters.com/post/3majt5ow4qh2q)
+[2025-12-22 08:21:34](https://bsky.app/profile/japan.reuters.com/post/3majud6ghbz2f)
+
+---
+
+@wsj.com
+
+With retro packaging and Pete Davidson as an investor, Norms is destigmatizing a once-embarrassing affliction.
+
+[2025-12-22 08:17:58](https://bsky.app/profile/wsj.com/post/3maju4qdgd32k)
 
 ---
 
 @cnbc.com
 
-Ashley Peters fell in love with anime during the pandemic. 
+UK stocks outperformed Wall Street this year — and investors see more upside ahead in 2026
 
-Shortly after graduating from UC Irvine, she boarded a flight to move to Japan. 
-
-"Being here has freed up not just money, but mental space," said Peters.
-
-[2025-12-22 08:00:30](https://bsky.app/profile/cnbc.com/post/3majt5j7hig2x)
+[2025-12-22 08:16:16](https://bsky.app/profile/cnbc.com/post/3majtzp4ufc2i)
 
 ---
 
-@usatoday.com
+@reuters.com
 
-Georgetown suspended men's basketball coach Ed Cooley, who threw his water bottle into the home crowd, which appeared to hit a child.
+China's power reforms, global data centre buildout usher in battery boom reut.rs/3L3106Y
 
-[2025-12-22 08:00:25](https://bsky.app/profile/usatoday.com/post/3majt5ea4dr2c)
-
----
-
-@cnn.com
-
-Power was restored Sunday morning to the bulk of the 130,000 homes and businesses in San Francisco impacted by a massive outage on Saturday that caused major disruptions in the city.
-https://cnn.it/4qdcdkg
-
-[2025-12-22 08:00:11](https://bsky.app/profile/cnn.com/post/3majt4wy3a62x)
+[2025-12-22 08:15:11](https://bsky.app/profile/reuters.com/post/3majtxrzbru2k)
 
 ---
 
-@washingtonpost.com
+@sokuho.news
 
-This year, millions of American families that have relied on Obamacare are being squeezed on multiple sides: Premiums are rising, covid-era subsidies are shrinking, and there are fewer choices with insurers pulling out of some markets.
+🔔ANNより【速報】です。
 
-[2025-12-22 08:00:09](https://bsky.app/profile/washingtonpost.com/post/3majt4vm2vd2m)
+【速報】店舗兼住宅で1000万円奪い逃走 静岡
+(08:13) #ニュース
+
+[2025-12-22 08:14:20](https://bsky.app/profile/sokuho.news/post/3majtwb6tpn25)
 
 ---
 
-@apnews.com
+@cnbc.com
 
-A spectacular bicycle kick has earned royal approval for Ayoub El Kaabi as host Morocco opened the 35th Africa Cup of Nations with a 2-0 win over Comoros.
+Why the chocolate in your holiday candy could be ‘fake’ this year
 
-[2025-12-22 08:00:07](https://bsky.app/profile/apnews.com/post/3majt4tqlqc22)
+[2025-12-22 08:14:06](https://bsky.app/profile/cnbc.com/post/3majtvtrgkt2x)
+
+---
+
+@cnbc.com
+
+Stock futures rise as traders look ahead to holiday-shortened week: Live updates
+
+[2025-12-22 08:13:02](https://bsky.app/profile/cnbc.com/post/3majttw2www24)
 
 ---
 
