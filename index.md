@@ -1,9 +1,9 @@
-# [2025-12-21 22:30 updated](2025_12_21.md)
+# [2025-12-21 22:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Cuba’s economy is nearing collapse as the result of the U.S. oil blockade and military buildup against Venezuela. <a href="https://bsky.app/profile/wsj.com/post/3mait5i67nf2c" target="_blank">wsj.com</a> (2025-12-21 22:27:49)</span><span style="padding-right:50px;">Once symbols of abundance, the  Tigris and Euphrates rivers, which both originate in Turkey, have become the focus of a struggle forcing Iraq to use its most lucrative asset – oil – to secure its water. <a href="https://bsky.app/profile/cnn.com/post/3mait2bpcqx26" target="_blank">cnn.com</a> (2025-12-21 22:26:02)</span><span style="padding-right:50px;">Why British Jews are experiencing their biggest change in 60 years <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maiszj7ptg2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-21 22:25:35)</span><span style="padding-right:50px;">【地震情報】鹿児島 十島村で震度3 津波の心配なし(22:03) https://news.web.nhk/newsweb/na/na-k10015010091000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maisrfsmal2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 22:21:02)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】M-1グランプリ21代王者は「たくろう」 (2025-12-21 22:09:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maisiq26wv2a" target="_blank">sokuho.news</a> (2025-12-21 22:16:13)</span>
+<span style="padding-right:50px;">The electric F-150 was an impressive pickup but failed one important test: the expectations game, Tim Higgins writes. <a href="https://bsky.app/profile/wsj.com/post/3maiubwtcuz2u" target="_blank">wsj.com</a> (2025-12-21 22:48:12)</span><span style="padding-right:50px;">African teams strengthening their chances with Europe-born players reut.rs/4s5Olkm <a href="https://bsky.app/profile/reuters.com/post/3maittrb3cd2s" target="_blank">reuters.com</a> (2025-12-21 22:40:17)</span><span style="padding-right:50px;">🔊 In this special episode of On Assignment, Reuters Editor-in-Chief Alessandra Galloni discusses the challenges of covering Trump’s second term, keeping journalists safe in war zones, and how AI is changing newsrooms. Listen here reut.rs/4p6zLXh <a href="https://bsky.app/profile/reuters.com/post/3maitr2ijxk27" target="_blank">reuters.com</a> (2025-12-21 22:38:46)</span><span style="padding-right:50px;">スキージャンプ女子W杯個人第10戦 勢藤優花 今季自身最高の5位 https://news.web.nhk/newsweb/na/na-k10015010081000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maitmbttx62s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 22:36:03)</span><span style="padding-right:50px;">大阪万博の人工サンゴを海へ移植　サウジ産、再生に挑戦（無料記事） www.nikkei.com/article/DGXZQO...  サウジアラビアの人工サンゴは天然と同じ炭酸カルシウムが主成分で、付着した天然サンゴが成長しやすいとされます。  3Dプリンターを使って万博会期中に1日1個制作し、サウジアラビア館の壁に展示していました。  琉球大学と関西大学が引き継いで沖縄県や鹿児島県の近海に移植。サンゴ礁や生態系の研究を進めています。 <a href="https://bsky.app/profile/nikkei.com/post/3maitclz3di2x" target="_blank">nikkei.com</a> (2025-12-21 22:30:41)</span>
   </div>
 </div>
 
@@ -32,15 +32,87 @@
 
 ## News Headlines
 
-- Cuba's economy nears collapse due to US oil blockade and Venezuela military buildup
-- Iraq uses oil to secure water supply from Tigris and Euphrates rivers
-- British Jews experience biggest change in 60 years
-- 3.3-magnitude earthquake hits Toquara Islands in Japan
-- Xbox losing console market share to Microsoft's gaming pivot
-- Sweden seizes Russian vessel off its coast under sanctions
+- African teams strengthening their chances with Europe-born players
+- A new maritime security architecture for the UK and her neighbours
+- Colin Jost and Michael Che bring back joke swap segment on SNL Christmas episode
+- Iraq uses oil to secure its water as Tigris and Euphrates rivers become a struggle
+- Sweden boards sanctioned Russian vessel off its coast
+- These are the world's most important stocks heading into 2026, according to Bank of America
 
 
 ----
+
+@wsj.com
+
+The electric F-150 was an impressive pickup but failed one important test: the expectations game, Tim Higgins writes.
+
+[2025-12-21 22:48:12](https://bsky.app/profile/wsj.com/post/3maiubwtcuz2u)
+
+---
+
+@reuters.com
+
+African teams strengthening their chances with Europe-born players reut.rs/4s5Olkm
+
+[2025-12-21 22:40:17](https://bsky.app/profile/reuters.com/post/3maittrb3cd2s)
+
+---
+
+@reuters.com
+
+🔊 In this special episode of On Assignment, Reuters Editor-in-Chief Alessandra Galloni discusses the challenges of covering Trump’s second term, keeping journalists safe in war zones, and how AI is changing newsrooms. Listen here reut.rs/4p6zLXh
+
+[2025-12-21 22:38:46](https://bsky.app/profile/reuters.com/post/3maitr2ijxk27)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+スキージャンプ女子W杯個人第10戦 勢藤優花 今季自身最高の5位
+https://news.web.nhk/newsweb/na/na-k10015010081000
+
+[2025-12-21 22:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maitmbttx62s)
+
+---
+
+@nikkei.com
+
+大阪万博の人工サンゴを海へ移植　サウジ産、再生に挑戦（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+サウジアラビアの人工サンゴは天然と同じ炭酸カルシウムが主成分で、付着した天然サンゴが成長しやすいとされます。
+
+3Dプリンターを使って万博会期中に1日1個制作し、サウジアラビア館の壁に展示していました。
+
+琉球大学と関西大学が引き継いで沖縄県や鹿児島県の近海に移植。サンゴ礁や生態系の研究を進めています。
+
+[2025-12-21 22:30:41](https://bsky.app/profile/nikkei.com/post/3maitclz3di2x)
+
+---
+
+@usatoday.com
+
+Colin Jost and Michael Che brought back their fan-favorite joke swap segment on the "SNL" Christmas episode, but with a twist.
+
+[2025-12-21 22:30:37](https://bsky.app/profile/usatoday.com/post/3maitcim6zv25)
+
+---
+
+@reuters.com
+
+Most Gulf markets gain on oil, US rate cut bets reut.rs/4qkXHHd
+
+[2025-12-21 22:30:23](https://bsky.app/profile/reuters.com/post/3maitc2suwn2y)
+
+---
+
+@aljazeera.com
+
+Israel kills two Palestinians, including 16 year-old, in West Bank https://aje.io/z3xen7
+
+[2025-12-21 22:30:04](https://bsky.app/profile/aljazeera.com/post/3maitbir6p22i)
+
+---
 
 @wsj.com
 
@@ -55,84 +127,6 @@ Cuba’s economy is nearing collapse as the result of the U.S. oil blockade and 
 Once symbols of abundance, the  Tigris and Euphrates rivers, which both originate in Turkey, have become the focus of a struggle forcing Iraq to use its most lucrative asset – oil – to secure its water.
 
 [2025-12-21 22:26:02](https://bsky.app/profile/cnn.com/post/3mait2bpcqx26)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Why British Jews are experiencing their biggest change in 60 years
-
-[2025-12-21 22:25:35](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maiszj7ptg2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震情報】鹿児島 十島村で震度3 津波の心配なし(22:03)
-https://news.web.nhk/newsweb/na/na-k10015010091000
-
-[2025-12-21 22:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maisrfsmal2d)
-
----
-
-@sokuho.news
-
-🛎️ANNより【速報】です。
-
-【速報】M-1グランプリ21代王者は「たくろう」
-(2025-12-21 22:09:00) #ニュース
-
-[2025-12-21 22:16:13](https://bsky.app/profile/sokuho.news/post/3maisiq26wv2a)
-
----
-
-@cnbc.com
-
-Xbox is losing the console race by miles. It's part of Microsoft's big gaming pivot
-
-[2025-12-21 22:12:49](https://bsky.app/profile/cnbc.com/post/3maiscoaijj2e)
-
----
-
-@financialtimes.com
-
- A new maritime security architecture for the UK and her neighbours ft.trib.al/1jcOKOt  | opinion
-
-[2025-12-21 22:12:46](https://bsky.app/profile/financialtimes.com/post/3maisclfdwf2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震速報】鹿児島 十島村で震度3 津波の心配なし
-https://news.web.nhk/newsweb/na/na-k10015010091000
-
-[2025-12-21 22:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maisbcmrdd2v)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:トカラ列島近海, 深さ:20km
-マグニチュード:3.3, 最大震度:3
-📍https://www.google.com/maps?q=29.6,129.6&ll=29.6,129.6&z=7&t=h
-地震発生日時:2025-12-21 22:03頃
-(10倍速▶150s→15s) #地震
-
-[2025-12-21 22:07:28](https://bsky.app/profile/sokuho.news/post/3mairz4apu42y)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】平川市長選挙は新人の工藤氏が当選 青森県
-(2025-12-21 22:02:00) #ニュース
-
-[2025-12-21 22:06:59](https://bsky.app/profile/sokuho.news/post/3mairyaeomj2z)
 
 ---
 
