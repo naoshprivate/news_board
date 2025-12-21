@@ -1,9 +1,9 @@
-# [2025-12-22 05:30 updated](2025_12_22.md)
+# [2025-12-22 05:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">JUST IN: The US was pursuing an oil tanker in international waters near Venezuela after attempting to intercept it, a US official said. https://cnn.it/4jc7ltJ <a href="https://bsky.app/profile/cnn.com/post/3majjzvzgvn2c" target="_blank">cnn.com</a> (2025-12-22 05:17:25)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】MLBホワイトソックス 村上宗隆選手と契約合意を発表 (2025年12月22日 05:16) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3majjy5dvel27" target="_blank">sokuho.news</a> (2025-12-22 05:16:26)</span><span style="padding-right:50px;">来年度予算案 一般会計総額 120兆円超で過去最大となる見通し https://news.web.nhk/newsweb/na/na-k10015009911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majjvpmui42s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 05:15:02)</span><span style="padding-right:50px;">2025 has been filled with delicious recipes, and these are our biggest hits published this year. nyti.ms/48YYRkO <a href="https://bsky.app/profile/nytimes.com/post/3majjtvlcc62b" target="_blank">nytimes.com</a> (2025-12-22 05:14:04)</span><span style="padding-right:50px;">New Zealand court declines airport group's appeal on pricing rules reut.rs/44GM9G9 <a href="https://bsky.app/profile/reuters.com/post/3majjdxjwsk2x" target="_blank">reuters.com</a> (2025-12-22 05:05:09)</span>
+<span style="padding-right:50px;">Georgetown coach Ed Cooley apologizes for water bottle throw reut.rs/3YCxqsb <a href="https://bsky.app/profile/reuters.com/post/3majllkzhzz2y" target="_blank">reuters.com</a> (2025-12-22 05:45:11)</span><span style="padding-right:50px;">Opinion: Despite fears about what Zohran Mamdani might do, if you want to know where business really stands on New York, follow the money. JPMorgan Chase is spending $3bn on a Park Avenue tower. Google is completing its multibillion dollar Hudson Square campus ft.trib.al/4Pq6kKN <a href="https://bsky.app/profile/financialtimes.com/post/3majlcgxmd22f" target="_blank">financialtimes.com</a> (2025-12-22 05:40:05)</span><span style="padding-right:50px;">村上宗隆 大リーグホワイトソックスと契約合意“2年53億円余” https://news.web.nhk/newsweb/na/na-k10015009981000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majlanul3z2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 05:39:03)</span><span style="padding-right:50px;">ロシア ウクライナ双方が和平案めぐりアメリカと協議 https://news.web.nhk/newsweb/na/na-k10015010151000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majl3b6mgl2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 05:36:02)</span><span style="padding-right:50px;">U.S. strikes against Islamic State in Syria highlight the difficulty in fully suppressing a foe that was declared militarily defeated half a decade ago. <a href="https://bsky.app/profile/wsj.com/post/3majkrkahmt2h" target="_blank">wsj.com</a> (2025-12-22 05:30:38)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.70 (🔻0.05 : 2025-12-21)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.67 (🔻0.08 : 2025-12-21)</span>
   </div>
 </div>
 
@@ -32,99 +32,99 @@
 
 ## News Headlines
 
+- Georgetown Coach Apologizes for Water Bottle Throw
+- US Spending $3bn on New York Tower Amid Business Concerns
+- Japan's Ariranga Signs 2-Year Contract with White Sox
+- US and Russia Discuss Peace Plan for Ukraine Conflict
+- Colombian Mercenaries Found Dead in Sudan War
 - US Pursues Venezuela-Linked Oil Tanker in International Waters
-- MLB's White Sox Signs Japanese Player Tomoyuki Sugano to Contract
-- Japan's FY 2024 Budget to Exceed 120 Trillion Yen for First Time
-- New Zealand Court Rejects Airport Group's Appeal on Pricing Rules
-- Woman Finds Financial Solution in Dog's Potty Break
-- Federal Government Transformation: A Look into the Merger of DOGE and White House Agencies
 
 
 ----
+
+@reuters.com
+
+Georgetown coach Ed Cooley apologizes for water bottle throw reut.rs/3YCxqsb
+
+[2025-12-22 05:45:11](https://bsky.app/profile/reuters.com/post/3majllkzhzz2y)
+
+---
+
+@financialtimes.com
+
+Opinion: Despite fears about what Zohran Mamdani might do, if you want to know where business really stands on New York, follow the money. JPMorgan Chase is spending $3bn on a Park Avenue tower. Google is completing its multibillion dollar Hudson Square campus ft.trib.al/4Pq6kKN
+
+[2025-12-22 05:40:05](https://bsky.app/profile/financialtimes.com/post/3majlcgxmd22f)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+村上宗隆 大リーグホワイトソックスと契約合意“2年53億円余”
+https://news.web.nhk/newsweb/na/na-k10015009981000
+
+[2025-12-22 05:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majlanul3z2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ロシア ウクライナ双方が和平案めぐりアメリカと協議
+https://news.web.nhk/newsweb/na/na-k10015010151000
+
+[2025-12-22 05:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majl3b6mgl2u)
+
+---
+
+@wsj.com
+
+U.S. strikes against Islamic State in Syria highlight the difficulty in fully suppressing a foe that was declared militarily defeated half a decade ago.
+
+[2025-12-22 05:30:38](https://bsky.app/profile/wsj.com/post/3majkrkahmt2h)
+
+---
+
+@bloomberg.com
+
+Tourists look past Guyana. It's ready to change their minds. The world's fastest-growing economy is using its oil wealth to develop its ecotourism options.
+
+[2025-12-22 05:30:25](https://bsky.app/profile/bloomberg.com/post/3majkr5qdau2x)
+
+---
+
+@usatoday.com
+
+Indiana Fever guard Sophie Cunningham shares her love for wrestling and teases a WWE career in her latest podcast episode of "Show Me Something."
+
+[2025-12-22 05:30:24](https://bsky.app/profile/usatoday.com/post/3majkr4xvsz2h)
+
+---
+
+@en.afp.com
+
+Hundreds of Colombian ex-soldiers have been drawn to Sudan with the promise of a big payday. What many found instead was death in a faraway war.
+
+An AFP investigation has uncovered how Colombian mercenaries ended up on the other side of the world.
+
+u.afp.com/S8Tt
+
+[2025-12-22 05:30:14](https://bsky.app/profile/en.afp.com/post/3majkqsveto2f)
+
+---
+
+@aljazeera.com
+
+The vessel was flying a false flag and under a judicial seizure order, according to US officials cited by US media.
+
+[2025-12-22 05:30:02](https://bsky.app/profile/aljazeera.com/post/3majkqhcld22z)
+
+---
 
 @cnn.com
 
 <strong><span style="color: red;">JUST IN:</span> The US was pursuing an oil tanker in international waters near Venezuela after attempting to intercept it, a US official said. https://cnn.it/4jc7ltJ</strong>
 
 [2025-12-22 05:17:25](https://bsky.app/profile/cnn.com/post/3majjzvzgvn2c)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】MLBホワイトソックス 村上宗隆選手と契約合意を発表
-(2025年12月22日 05:16) #ニュース
-
-[2025-12-22 05:16:26](https://bsky.app/profile/sokuho.news/post/3majjy5dvel27)
-
----
-
-@nhknewsunofficial.bsky.social
-
-来年度予算案 一般会計総額 120兆円超で過去最大となる見通し
-https://news.web.nhk/newsweb/na/na-k10015009911000
-
-[2025-12-22 05:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majjvpmui42s)
-
----
-
-@nytimes.com
-
-2025 has been filled with delicious recipes, and these are our biggest hits published this year. nyti.ms/48YYRkO
-
-[2025-12-22 05:14:04](https://bsky.app/profile/nytimes.com/post/3majjtvlcc62b)
-
----
-
-@reuters.com
-
-New Zealand court declines airport group's appeal on pricing rules reut.rs/44GM9G9
-
-[2025-12-22 05:05:09](https://bsky.app/profile/reuters.com/post/3majjdxjwsk2x)
-
----
-
-@cnn.com
-
-It seemed like the solution to Elaine Traverse’s financial problems, and a dog desperately needing a potty break led her to it. https://cnn.it/496hGCy
-
-[2025-12-22 05:00:15](https://bsky.app/profile/cnn.com/post/3majj36yans2k)
-
----
-
-@washingtonpost.com
-
-Missions were shattered. Entire agencies were deleted. Nearly 300,000 employees were forced out of the federal workforce.  
-
-Here’s a look into how DOGE and the White House carried out a once-unthinkable transformation of the federal government: 
-
-[2025-12-22 05:00:13](https://bsky.app/profile/washingtonpost.com/post/3majj35lna22d)
-
----
-
-@usatoday.com
-
-The first round of the College Football Playoff is complete and the quarterfinals are set. Who were the winners from the weekend? We break them down.
-
-[2025-12-22 05:00:11](https://bsky.app/profile/usatoday.com/post/3majj33uo7t25)
-
----
-
-@nytimes.com
-
-The proliferation of illegal firearms from the U.S. has fueled a spike in gun violence in Canada, where most guns used in crimes are smuggled across the border.
-
-[2025-12-22 05:00:08](https://bsky.app/profile/nytimes.com/post/3majj2ydafn2b)
-
----
-
-@apnews.com
-
-“Kablooey!” That’s the word U.S. Geological Survey volcanic experts used to describe a muddy eruption at Black Diamond Pool in Yellowstone National Park. 
-
-[2025-12-22 05:00:08](https://bsky.app/profile/apnews.com/post/3majj2z3ynx2k)
 
 ---
 
