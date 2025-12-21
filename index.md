@@ -1,9 +1,9 @@
-# [2025-12-21 18:32 updated](2025_12_21.md)
+# [2025-12-21 18:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">イスラエルが今年６月に攻撃したイランの弾道ミサイル施設における生産拡大に懸念を強めており、ネタニヤフ首相がトランプ米大統領との会談で再攻撃の可能性について説明する準備を進めていると、米ＮＢＣテレビが２０日報じた。 bit.ly/3YF2Kqg <a href="https://bsky.app/profile/japan.reuters.com/post/3maiezpher72v" target="_blank">japan.reuters.com</a> (2025-12-21 18:15:10)</span><span style="padding-right:50px;">横浜 泉区の工場で火事 https://news.web.nhk/newsweb/na/na-k10015009891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiezjmach2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 18:15:02)</span><span style="padding-right:50px;">自民 古屋選対委員長“衆院解散時期 あらゆる可能性備え準備” https://news.web.nhk/newsweb/na/na-k10015009861000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiejgu2mx2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 18:06:02)</span><span style="padding-right:50px;">フィギュア 全日本選手権 長岡 森口ペア優勝 代表内定が有力に https://news.web.nhk/newsweb/na/na-k10015009881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maieeay2c52l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 18:03:08)</span><span style="padding-right:50px;">自民 鈴木幹事長“医療機関への支援必要 診療報酬引き上げへ” https://news.web.nhk/newsweb/na/na-k10015009851000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiee3piq62b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 18:03:03)</span>
+<span style="padding-right:50px;">横浜 泉区の工場で火災 1人けがとの情報 https://news.web.nhk/newsweb/na/na-k10015009891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maigujrhfz2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 18:48:02)</span><span style="padding-right:50px;">米情報機関がまとめた報告によると、ロシアのプーチン大統領はウクライナ全土のほか、旧ソ連に属していた欧州の一部地域を占領する目標をなお放棄していないという。事情に詳しい関係者６人が明らかにした。 bit.ly/4pRLxGe <a href="https://bsky.app/profile/japan.reuters.com/post/3maigpjfcnz2q" target="_blank">japan.reuters.com</a> (2025-12-21 18:45:16)</span><span style="padding-right:50px;">How Bill Clinton became the focus of the Epstein files ft.trib.al/cY941ff <a href="https://bsky.app/profile/financialtimes.com/post/3maigp6xndg2p" target="_blank">financialtimes.com</a> (2025-12-21 18:45:05)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「府民の皆さま、府連の再生のために、働いて、働いて、働いてまいりたい」大阪自民の復活へ導けるか 松川るい参院議員が府連会長に正式に就任 (2025-12-21 18:15:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maiggdu2lx2v" target="_blank">sokuho.news</a> (2025-12-21 18:40:08)</span><span style="padding-right:50px;">🇦🇺 People in Australia fell silent in flickering candlelight on Sunday to honour the Bondi Beach shooting victims, marking one week since gunmen fired into crowds at a Jewish festival ➡️ u.afp.com/S8SE <a href="https://bsky.app/profile/en.afp.com/post/3maigbtxxr426" target="_blank">en.afp.com</a> (2025-12-21 18:37:37)</span>
   </div>
 </div>
 
@@ -30,6 +30,99 @@
 
 ---
 
+## News Headlines
+
+- 1 injured in factory fire in Yokohama
+  - 横浜 泉区の工場で火災 1人けがとの情報
+- Putin's goal to occupy parts of Europe still exists, US intel reveals
+  - 米情報機関がまとめた報告によると、ロシアのプーチン大統領はウクライナ全土のほか、旧ソ連に属していた欧州の一部地域を占領する目標をなお放棄していないという。
+- Bill Clinton's Epstein scandal connection
+  - How Bill Clinton became the focus of the Epstein files
+- Osaka LDP revives with new leader
+  - 【速報】大阪自民の復活へ導けるか 松川るい参院議員が府連会長に正式に就任
+- Australia pays tribute to Bondi Beach shooting victims
+  - ✌サンクバサンスャドウサンターヤアングウサユアシャアインケウサンター
+- Texas Tech stuns No. 3 Duke in basketball
+  - Down 17 in 2nd half, No. 19 Texas Tech stuns No. 3 Duke
+
+
+----
+
+@nhknewsunofficial.bsky.social
+
+横浜 泉区の工場で火災 1人けがとの情報
+https://news.web.nhk/newsweb/na/na-k10015009891000
+
+[2025-12-21 18:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maigujrhfz2s)
+
+---
+
+@japan.reuters.com
+
+米情報機関がまとめた報告によると、ロシアのプーチン大統領はウクライナ全土のほか、旧ソ連に属していた欧州の一部地域を占領する目標をなお放棄していないという。事情に詳しい関係者６人が明らかにした。 bit.ly/4pRLxGe
+
+[2025-12-21 18:45:16](https://bsky.app/profile/japan.reuters.com/post/3maigpjfcnz2q)
+
+---
+
+@financialtimes.com
+
+How Bill Clinton became the focus of the Epstein files ft.trib.al/cY941ff
+
+[2025-12-21 18:45:05](https://bsky.app/profile/financialtimes.com/post/3maigp6xndg2p)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】「府民の皆さま、府連の再生のために、働いて、働いて、働いてまいりたい」大阪自民の復活へ導けるか 松川るい参院議員が府連会長に正式に就任
+(2025-12-21 18:15:00) #ニュース
+
+[2025-12-21 18:40:08](https://bsky.app/profile/sokuho.news/post/3maiggdu2lx2v)
+
+---
+
+@en.afp.com
+
+🇦🇺 People in Australia fell silent in flickering candlelight on Sunday to honour the Bondi Beach shooting victims, marking one week since gunmen fired into crowds at a Jewish festival ➡️ u.afp.com/S8SE
+
+[2025-12-21 18:37:37](https://bsky.app/profile/en.afp.com/post/3maigbtxxr426)
+
+---
+
+@reuters.com
+
+Down 17 in 2nd half, No. 19 Texas Tech stuns No. 3 Duke reut.rs/4arFX8H
+
+[2025-12-21 18:35:07](https://bsky.app/profile/reuters.com/post/3maig5fitko2b)
+
+---
+
+@nikkei.com
+
+パスタやベーグルに「つけてみそ」　名古屋名物が異色コラボ
+www.nikkei.com/article/DGXZQO...
+
+老舗のみそメーカー、ナカモの主力の調味料「つけてみそかけてみそ」。
+
+ベーグル専門店「べーグルアンドベーグル」の「大葉香るみそチーズ味」など、名古屋パルコの12店でコラボメニューが登場しました。
+
+テレビCMが流れる中部地方では有名ですが、主な購入者層は50〜60代。パルコでの催しで若年層にも魅力を伝えます。
+
+[2025-12-21 18:30:40](https://bsky.app/profile/nikkei.com/post/3maifvg6cpz2g)
+
+---
+
+@reuters.com
+
+Top 25 roundup: No. 19 Texas Tech rallies to hand No. 3 Duke first loss reut.rs/49kFQdU
+
+[2025-12-21 18:30:26](https://bsky.app/profile/reuters.com/post/3maifuyzreq2b)
+
+---
+
 @japan.reuters.com
 
 イスラエルが今年６月に攻撃したイランの弾道ミサイル施設における生産拡大に懸念を強めており、ネタニヤフ首相がトランプ米大統領との会談で再攻撃の可能性について説明する準備を進めていると、米ＮＢＣテレビが２０日報じた。 bit.ly/3YF2Kqg
@@ -44,85 +137,6 @@
 https://news.web.nhk/newsweb/na/na-k10015009891000
 
 [2025-12-21 18:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiezjmach2u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民 古屋選対委員長“衆院解散時期 あらゆる可能性備え準備”
-https://news.web.nhk/newsweb/na/na-k10015009861000
-
-[2025-12-21 18:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiejgu2mx2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-フィギュア 全日本選手権 長岡 森口ペア優勝 代表内定が有力に
-https://news.web.nhk/newsweb/na/na-k10015009881000
-
-[2025-12-21 18:03:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maieeay2c52l)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民 鈴木幹事長“医療機関への支援必要 診療報酬引き上げへ”
-https://news.web.nhk/newsweb/na/na-k10015009851000
-
-[2025-12-21 18:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiee3piq62b)
-
----
-
-@cnn.com
-
-The Russian economy has been dealing with growing headwinds this year: unruly inflation, a ballooning budget deficit and shrinking energy revenues. But analysts say the Kremlin could weather the storm for many more years. | Analysis
-
-[2025-12-21 18:03:01](https://bsky.app/profile/cnn.com/post/3maiedy6le32k)
-
----
-
-@nikkei.com
-
-英才教育では世界トップに立てない？　ドイツの大学など、3万人データ分析
-www.nikkei.com/article/DGXZQO...
-
-研究チームはスポーツ、学術、音楽などの分野で、世界トップで活躍する人を含むデータベースを作成し、技能が習熟する経過を分析。
-
-・世界トップクラスで活躍する人の約9割が、若い頃は目立つ存在ではなかった
-・若くして注目された人のうち、成人期も第一線で活躍する人は1割程度だった
-といった点が複数の分野で共通していました。
-
-[2025-12-21 18:00:40](https://bsky.app/profile/nikkei.com/post/3maie7rwrwk2i)
-
----
-
-@washingtonpost.com
-
-Plenty of people still think that boxes are synonymous with low-caliber wine, but quality and cardboard aren’t mutually exclusive.
-
-Here are 8 boxed wines we love:
-
-[2025-12-21 18:00:12](https://bsky.app/profile/washingtonpost.com/post/3maie6xc5tl2p)
-
----
-
-@cnbc.com
-
-Recently, those looking for love are signaling that current economic uncertainty is raising a new concern: unemployment.
-
-A recent survey of over 1,000 U.S. adults by matchmaking company Tawkify found that 29% of Americans say unemployment is a red flag.
-
-[2025-12-21 18:00:11](https://bsky.app/profile/cnbc.com/post/3maie6weljy2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-台湾 3人死亡殺傷事件 現場周辺では商業施設再開や追悼続く
-https://news.web.nhk/newsweb/na/na-k10015009871000
-
-[2025-12-21 18:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maie6pwasx2u)
 
 ---
 
