@@ -1,9 +1,9 @@
-# [2025-12-22 08:30 updated](2025_12_22.md)
+# [2025-12-22 08:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">埼玉 狭山 車にはねられ25歳男性死亡 ひき逃げ事件として捜査 https://news.web.nhk/newsweb/na/na-k10015010171000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majumzmlux2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 08:27:01)</span><span style="padding-right:50px;">米カリフォルニア州サンフランシスコ市の緊急管理当局と同州の主要電力会社ＰＧ＆Ｅは２１日、市内で２０日に発生した大規模停電について、約１１万件の顧客の電力が復旧したと発表した。 bit.ly/4j6BV7L <a href="https://bsky.app/profile/japan.reuters.com/post/3majumo5yol25" target="_blank">japan.reuters.com</a> (2025-12-22 08:26:52)</span><span style="padding-right:50px;">Justice Department restores Trump photo to public database of Epstein files reut.rs/4sai5wG <a href="https://bsky.app/profile/reuters.com/post/3majujj2iwx2r" target="_blank">reuters.com</a> (2025-12-22 08:25:06)</span><span style="padding-right:50px;">フィギュアスケートのミラノ・コルティナ冬季五輪代表最終選考会を兼ねる全日本選手権は２１日、東京・国立代々木競技場で競技を行い、女子では坂本花織が５連覇を達成し、３大会連続となる五輪代表に決まった。 bit.ly/3YEMGot <a href="https://bsky.app/profile/japan.reuters.com/post/3majud6ghbz2f" target="_blank">japan.reuters.com</a> (2025-12-22 08:21:34)</span><span style="padding-right:50px;">With retro packaging and Pete Davidson as an investor, Norms is destigmatizing a once-embarrassing affliction. <a href="https://bsky.app/profile/wsj.com/post/3maju4qdgd32k" target="_blank">wsj.com</a> (2025-12-22 08:17:58)</span>
+<span style="padding-right:50px;">The future of AI is dividing the Democratic Party, as potential 2028 presidential candidates and key stakeholders stake out clashing positions in what's already shaping up as a major policy battle in the primary. <a href="https://bsky.app/profile/axios.com/post/3majvu44yek2l" target="_blank">axios.com</a> (2025-12-22 08:48:55)</span><span style="padding-right:50px;">Oil price gains after US interception of Venezuelan oil tanker over weekend reut.rs/49m1Ox3 <a href="https://bsky.app/profile/reuters.com/post/3majvneypgr2i" target="_blank">reuters.com</a> (2025-12-22 08:45:10)</span><span style="padding-right:50px;">A man was arrested on Sunday after a bizarre killing with a bow and arrow, an hourslong standoff and an early-morning fire that shut down a street in a New Jersey suburb. <a href="https://bsky.app/profile/nytimes.com/post/3majvna4x2e25" target="_blank">nytimes.com</a> (2025-12-22 08:45:05)</span><span style="padding-right:50px;">【地震速報】岩手 宮古市で震度3 津波の心配なし https://news.web.nhk/newsweb/na/na-k10015009651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majvn7lpj32b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 08:45:02)</span><span style="padding-right:50px;">In a country once known for its factory workforce, some 200 million people are turning to food delivery and other informal roles as job creation slows. <a href="https://bsky.app/profile/wsj.com/post/3majvmhq66r2s" target="_blank">wsj.com</a> (2025-12-22 08:44:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.61 (🔻0.14 : 2025-12-21)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.66 (🔻0.09 : 2025-12-21)</span>
   </div>
 </div>
 
@@ -32,97 +32,111 @@
 
 ## News Headlines
 
-- 25-Year-Old Man Dies in Car Accident in Saitama Prefecture, Japan
-- Power Restored to Majority of San Francisco Homes Affected by Massive Outage
-- US Justice Department Restores Trump Photo to Public Database of Epstein Files
-- Sakamoto Mai Wins Fifth Consecutive Title at All-Japan Figure Skating Championships
-- Norms Aims to Destigmatize Mental Health with Retro Packaging and Pete Davidson as Investor
-- Battery Demand Surges as China's Power Reforms and Global Data Center Buildout Drive Growth
+- US Intercepts Venezuelan Oil Tanker, Oil Prices Rise
+- Man Arrested After Bizarre Bow and Arrow Killing in New Jersey
+- Japan Hit by Magnitude 4.2 Earthquake, No Tsunami Expected
+- Japan's Job Market Slows, 200 Million People Turn to Informal Work
+- MLB's White Sox Sign Japanese Player Kaito Yuki from Yakult
+- Nordic Skiing World Cup: Japan's Kobayashi Wins Second Win of the Season
+- UK Chefs Turn to Venison as a Greener Option
+- Georgetown Men's Basketball Coach Suspended After Throwing Water Bottle at Fan
+- California City's Power Outage Restored After 100,000 Customers Affected
+- Justice Department Restores Trump Photo to Public Database of Epstein Files
+- Figure Skating: Japan's Sakamoto Wins National Championships, Secures Olympic Spot
+- US Stocks Outperform Wall Street, Investors See More Upside Ahead
+- China's Power Reforms and Global Data Centre Buildout Drive Battery Boom
+- Truck Collision Causes Traffic Jam on National Highway in Japan
+- Massive Die-Off of Fish in Norway Due to Climate Change-Related Algal Bloom
+- Shipping Company Seatrium and Maersk Settle Dispute Over Offshore Wind Vessel Contract
 
 
 ----
 
-@nhknewsunofficial.bsky.social
+@axios.com
 
-埼玉 狭山 車にはねられ25歳男性死亡 ひき逃げ事件として捜査
-https://news.web.nhk/newsweb/na/na-k10015010171000
+The future of AI is dividing the Democratic Party, as potential 2028 presidential candidates and key stakeholders stake out clashing positions in what's already shaping up as a major policy battle in the primary.
 
-[2025-12-22 08:27:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majumzmlux2b)
-
----
-
-@japan.reuters.com
-
-米カリフォルニア州サンフランシスコ市の緊急管理当局と同州の主要電力会社ＰＧ＆Ｅは２１日、市内で２０日に発生した大規模停電について、約１１万件の顧客の電力が復旧したと発表した。 bit.ly/4j6BV7L
-
-[2025-12-22 08:26:52](https://bsky.app/profile/japan.reuters.com/post/3majumo5yol25)
+[2025-12-22 08:48:55](https://bsky.app/profile/axios.com/post/3majvu44yek2l)
 
 ---
 
 @reuters.com
 
-Justice Department restores Trump photo to public database of Epstein files reut.rs/4sai5wG
+Oil price gains after US interception of Venezuelan oil tanker over weekend reut.rs/49m1Ox3
 
-[2025-12-22 08:25:06](https://bsky.app/profile/reuters.com/post/3majujj2iwx2r)
+[2025-12-22 08:45:10](https://bsky.app/profile/reuters.com/post/3majvneypgr2i)
 
 ---
 
-@japan.reuters.com
+@nytimes.com
 
-フィギュアスケートのミラノ・コルティナ冬季五輪代表最終選考会を兼ねる全日本選手権は２１日、東京・国立代々木競技場で競技を行い、女子では坂本花織が５連覇を達成し、３大会連続となる五輪代表に決まった。 bit.ly/3YEMGot
+A man was arrested on Sunday after a bizarre killing with a bow and arrow, an hourslong standoff and an early-morning fire that shut down a street in a New Jersey suburb.
 
-[2025-12-22 08:21:34](https://bsky.app/profile/japan.reuters.com/post/3majud6ghbz2f)
+[2025-12-22 08:45:05](https://bsky.app/profile/nytimes.com/post/3majvna4x2e25)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震速報】岩手 宮古市で震度3 津波の心配なし
+https://news.web.nhk/newsweb/na/na-k10015009651000
+
+[2025-12-22 08:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majvn7lpj32b)
 
 ---
 
 @wsj.com
 
-With retro packaging and Pete Davidson as an investor, Norms is destigmatizing a once-embarrassing affliction.
+In a country once known for its factory workforce, some 200 million people are turning to food delivery and other informal roles as job creation slows.
 
-[2025-12-22 08:17:58](https://bsky.app/profile/wsj.com/post/3maju4qdgd32k)
+[2025-12-22 08:44:39](https://bsky.app/profile/wsj.com/post/3majvmhq66r2s)
 
 ---
 
 @cnbc.com
 
-UK stocks outperformed Wall Street this year — and investors see more upside ahead in 2026
+Asia-Pacific markets poised for gains ahead of China's key lending rate decision
 
-[2025-12-22 08:16:16](https://bsky.app/profile/cnbc.com/post/3majtzp4ufc2i)
+[2025-12-22 08:42:46](https://bsky.app/profile/cnbc.com/post/3majvj46qgn2p)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-China's power reforms, global data centre buildout usher in battery boom reut.rs/3L3106Y
+【地震速報】岩手県で震度3 津波の心配なし
+https://news.web.nhk/newsweb/na/na-k10015009651000
 
-[2025-12-22 08:15:11](https://bsky.app/profile/reuters.com/post/3majtxrzbru2k)
+[2025-12-22 08:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majvhtrsjv24)
+
+---
+
+@japan.reuters.com
+
+米大リーグ（ＭＬＢ）ホワイトソックスは２１日、プロ野球ヤクルトからポスティングシステム（入札制度）を利用してＭＬＢ移籍を目指していた村上宗隆内野手（２５）と２年総額３４００万ドル（約５３億６０００万円）で契約を結んだことを発表した。 bit.ly/3YDB6Kb
+
+[2025-12-22 08:39:34](https://bsky.app/profile/japan.reuters.com/post/3majvded5bn2c)
+
+---
+
+@japan.reuters.com
+
+＜０８：２１＞　寄り前の板状況、日本空調サービスが買い優勢　ＦＰＧは売り優勢 bit.ly/3MM7oQF
+
+[2025-12-22 08:38:31](https://bsky.app/profile/japan.reuters.com/post/3majvbijybj2q)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🔔防災科研より【強震モニタ】動画です。
 
-【速報】店舗兼住宅で1000万円奪い逃走 静岡
-(08:13) #ニュース
+震源:岩手県沖, 深さ:50km
+マグニチュード:4.2, 最大震度:3
+📍https://www.google.com/maps?q=39.6,142.1&ll=39.6,142.1&z=7&t=h
+地震発生日時:2025-12-22 08:33頃
+(10倍速▶180s→18s) #地震
 
-[2025-12-22 08:14:20](https://bsky.app/profile/sokuho.news/post/3majtwb6tpn25)
-
----
-
-@cnbc.com
-
-Why the chocolate in your holiday candy could be ‘fake’ this year
-
-[2025-12-22 08:14:06](https://bsky.app/profile/cnbc.com/post/3majtvtrgkt2x)
-
----
-
-@cnbc.com
-
-Stock futures rise as traders look ahead to holiday-shortened week: Live updates
-
-[2025-12-22 08:13:02](https://bsky.app/profile/cnbc.com/post/3majttw2www24)
+[2025-12-22 08:37:22](https://bsky.app/profile/sokuho.news/post/3majv7h6gxm2b)
 
 ---
 
