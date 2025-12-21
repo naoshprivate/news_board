@@ -1,9 +1,9 @@
-# [2025-12-21 20:30 updated](2025_12_21.md)
+# [2025-12-21 20:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🇺🇸 🇻🇪 The United States "apprehended" an oil tanker off Venezuela on Saturday, a move Caracas deemed a "theft and kidnapping," in the latest salvo of a pressure campaign by Washington, the US government said ➡️ u.afp.com/S8Tk <a href="https://bsky.app/profile/en.afp.com/post/3maimhanph42q" target="_blank">en.afp.com</a> (2025-12-21 20:28:01)</span><span style="padding-right:50px;">Minute's silence held on Bondi beach to mark week since terror attack <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maimb2bshg2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-21 20:24:32)</span><span style="padding-right:50px;">バレーボール 全日本選手権 男子はウルフドッグス名古屋が優勝 https://news.web.nhk/newsweb/na/na-k10015010031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maimaewvus2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 20:24:08)</span><span style="padding-right:50px;">小泉防衛相 離島防衛 水陸機動団視察“南西地域の防衛強化を” https://news.web.nhk/newsweb/na/na-k10015010021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maima7tydd2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 20:24:02)</span><span style="padding-right:50px;">入社1年目で知りたかった国の予算の基礎　5分動画でわかる www.nikkei.com/article/DGXZQO...  この時期よく出てくるのが国の予算に関するニュース。  どういう仕組みで決まり、何にお金を使っているのでしょうか。動画で解説します。 <a href="https://bsky.app/profile/nikkei.com/post/3mailsyc55c2y" target="_blank">nikkei.com</a> (2025-12-21 20:16:41)</span>
+<span style="padding-right:50px;">Schaper wins back-to-back DP World Tour titles after playoff eagles reut.rs/4paaxaD <a href="https://bsky.app/profile/reuters.com/post/3mainfvew332k" target="_blank">reuters.com</a> (2025-12-21 20:45:09)</span><span style="padding-right:50px;">ラグビー リーグワン 第2節 東芝ブレイブルーパスが今季初勝利 https://news.web.nhk/newsweb/na/na-k10015010011000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mainfryyu626" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 20:45:03)</span><span style="padding-right:50px;">イスラエルが今年６月に攻撃したイランの弾道ミサイル施設における生産拡大に懸念を強めており、ネタニヤフ首相がトランプ米大統領との会談で再攻撃の可能性について説明する準備を進めていると、米ＮＢＣテレビが２０日報じた。 bit.ly/3MMG4lk <a href="https://bsky.app/profile/japan.reuters.com/post/3maimlnlwhu2c" target="_blank">japan.reuters.com</a> (2025-12-21 20:30:28)</span><span style="padding-right:50px;">Trump set to expand immigration crackdown in 2026 despite brewing backlash reut.rs/3MMG44O <a href="https://bsky.app/profile/reuters.com/post/3maimlk2bzp23" target="_blank">reuters.com</a> (2025-12-21 20:30:24)</span><span style="padding-right:50px;">World War II Navy veteran Ira “Ike” Schab, one of the dwindling number of survivors of the 1941 Japanese bombing of Pearl Harbor, has died. He was 105. <a href="https://bsky.app/profile/apnews.com/post/3maimlg465x23" target="_blank">apnews.com</a> (2025-12-21 20:30:20)</span>
   </div>
 </div>
 
@@ -32,20 +32,65 @@
 
 ## News Headlines
 
-[{"en": "US "apprehended" oil tanker off Venezuela, Caracas calls it "theft and kidnapping""}, 
-{"en": "Minute's silence held on Bondi beach to mark week since terror attack"}, 
-{"en": "Japanese volleyball team Wolf Dogs Nagoya wins All Japan Championship"}, 
-{"en": "Japan's defense minister visits island defense unit, vows to strengthen defense in southwest region"}, 
-{"en": "Japan's new hires learn the basics of the country's budget in just 5 minutes"}, 
-{"en": "Congress wraps up the year with few legislative accomplishments and a growing list of retiring lawmakers"}, 
-{"en": "Kremlin denies plans for three-way talks between Ukraine, Russia, and the US"}, 
-{"en": "Asian Football Confederation to launch Nations League competition"}, 
-{"en": "Australia wins Ashes in just 11 days, England's tail-end resistance falls short"}, 
-{"en": "Swedish customs board Russian ship in Swedish waters for inspection"}, 
-{"en": "Australian people hold candlelight vigil for Bondi Beach shooting victims"}, 
-{"en": "Texas Tech stuns No. 3 Duke in second half comeback"}]
+- Schaper wins back-to-back DP World Tour titles after playoff eagles
+- Israel prepares to expand immigration crackdown in 2026 despite brewing backlash
+- World War II veteran Ira “Ike” Schab, Pearl Harbor survivor, dies at 105
+- US “apprehends” oil tanker off Venezuela, Caracas calls it “theft and kidnapping”
+- Breaking: Israel’s Cabinet approves proposal for 19 new settlements in occupied West Bank
+- South Korea's An wins World Tour Finals to equal calendar year title record
+- England's Ben Stokes vows to bounce back after Ashes loss in just 11 days
+
 
 ----
+
+@reuters.com
+
+Schaper wins back-to-back DP World Tour titles after playoff eagles reut.rs/4paaxaD
+
+[2025-12-21 20:45:09](https://bsky.app/profile/reuters.com/post/3mainfvew332k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ラグビー リーグワン 第2節 東芝ブレイブルーパスが今季初勝利
+https://news.web.nhk/newsweb/na/na-k10015010011000
+
+[2025-12-21 20:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mainfryyu626)
+
+---
+
+@japan.reuters.com
+
+イスラエルが今年６月に攻撃したイランの弾道ミサイル施設における生産拡大に懸念を強めており、ネタニヤフ首相がトランプ米大統領との会談で再攻撃の可能性について説明する準備を進めていると、米ＮＢＣテレビが２０日報じた。 bit.ly/3MMG4lk
+
+[2025-12-21 20:30:28](https://bsky.app/profile/japan.reuters.com/post/3maimlnlwhu2c)
+
+---
+
+@reuters.com
+
+Trump set to expand immigration crackdown in 2026 despite brewing backlash reut.rs/3MMG44O
+
+[2025-12-21 20:30:24](https://bsky.app/profile/reuters.com/post/3maimlk2bzp23)
+
+---
+
+@apnews.com
+
+World War II Navy veteran Ira “Ike” Schab, one of the dwindling number of survivors of the 1941 Japanese bombing of Pearl Harbor, has died. He was 105.
+
+[2025-12-21 20:30:20](https://bsky.app/profile/apnews.com/post/3maimlg465x23)
+
+---
+
+@aljazeera.com
+
+Algerian parliament is set to vote on Wednesday on the draft law, which speaker calls a 'defining milestone'.
+
+[2025-12-21 20:30:03](https://bsky.app/profile/aljazeera.com/post/3maimkvjj2z2p)
+
+---
 
 @en.afp.com
 
@@ -78,61 +123,6 @@ https://news.web.nhk/newsweb/na/na-k10015010031000
 https://news.web.nhk/newsweb/na/na-k10015010021000
 
 [2025-12-21 20:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maima7tydd2u)
-
----
-
-@nikkei.com
-
-入社1年目で知りたかった国の予算の基礎　5分動画でわかる
-www.nikkei.com/article/DGXZQO...
-
-この時期よく出てくるのが国の予算に関するニュース。
-
-どういう仕組みで決まり、何にお金を使っているのでしょうか。動画で解説します。
-
-[2025-12-21 20:16:41](https://bsky.app/profile/nikkei.com/post/3mailsyc55c2y)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Israel’s Cabinet has approved a proposal for 19 new settlements in the occupied West Bank, the far-right finance minister says.</strong>
-
-[2025-12-21 20:11:02](https://bsky.app/profile/apnews.com/post/3mailivhoon2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-レスリング全日本選手権 藤波朱理 57キロ級に変更後 初の優勝
-https://news.web.nhk/newsweb/na/na-k10015010001000
-
-[2025-12-21 20:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mailfjxswf2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-“巨大地震” 100年に満たない間隔で起きてしまう可能性も
-https://news.web.nhk/newsweb/na/na-k10015009711000
-
-[2025-12-21 20:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mailfeqy2n2b)
-
----
-
-@reuters.com
-
-South Korea's An wins World Tour Finals to equal calendar year title record reut.rs/49j9tMJ
-
-[2025-12-21 20:05:11](https://bsky.app/profile/reuters.com/post/3mail6gh2e52y)
-
----
-
-@en.afp.com
-
-🇦🇺 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England skipper Ben Stokes said on Sunday it "sucks" to lose the Ashes inside 11 days but vowed his side would bounce back as a more consistent unit in the final two Tests in Melbourne and Sydney ➡️ u.afp.com/S8SF
-
-[2025-12-21 20:05:01](https://bsky.app/profile/en.afp.com/post/3mail652ke42q)
 
 ---
 
