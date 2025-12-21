@@ -1,9 +1,9 @@
-# [2025-12-22 01:30 updated](2025_12_22.md)
+# [2025-12-22 01:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Cartagena, Colombia, is set to ban its iconic horse-drawn carriages, replacing them with electric buggies — a move dividing the historic city over tradition, tourism, and animal welfare. n.pr/3Y6VIdG <a href="https://bsky.app/profile/npr.org/post/3maj53pggsg2i" target="_blank">npr.org</a> (2025-12-22 01:25:47)</span><span style="padding-right:50px;">Serbia's students protest against university pressure after railway station tragedy reut.rs/45mOztE <a href="https://bsky.app/profile/reuters.com/post/3maj52ngeyp2x" target="_blank">reuters.com</a> (2025-12-22 01:25:11)</span><span style="padding-right:50px;">Angela Hartnett's secret to a Christmas roast? 'Less is more'. She talks taste with HTSI ft.trib.al/UZTBlEv <a href="https://bsky.app/profile/financialtimes.com/post/3maj4zxesg623" target="_blank">financialtimes.com</a> (2025-12-22 01:24:48)</span><span style="padding-right:50px;">エプスタイン文書サイト、トランプ氏関連資料消える（無料記事） www.nikkei.com/article/DGXZQO...  トランプ氏とエプスタイン氏らが一緒に納まった写真などが公開翌日の12月20日、閲覧できなくなりました。  司法省からの説明がなく、ネット上では消えた理由を巡り疑惑が広がっています。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3maj4ujf4bu2g" target="_blank">nikkei.com</a> (2025-12-22 01:21:46)</span><span style="padding-right:50px;">The Shanghai ship that never sails is the work of Pietro Beccari, who likes to tell his staff "Don’t think big, think huge." <a href="https://bsky.app/profile/wsj.com/post/3maj4q6jww42t" target="_blank">wsj.com</a> (2025-12-22 01:19:20)</span>
+<span style="padding-right:50px;">'Hubris has taken over': England's McCullum under fire after Ashes defeat reut.rs/493VE3v <a href="https://bsky.app/profile/reuters.com/post/3maj5vhahhh2b" target="_blank">reuters.com</a> (2025-12-22 01:40:11)</span><span style="padding-right:50px;">Third 'Avatar' film lights up box offices with $345 million opening reut.rs/3LeyWO6 <a href="https://bsky.app/profile/reuters.com/post/3maj5mf2hla2i" target="_blank">reuters.com</a> (2025-12-22 01:35:06)</span><span style="padding-right:50px;">The stand-off between the two European leaders ahead of last week's summit to decide on Russia's frozen assets underscores a new dynamic between Europe’s two largest powers: an initiative-driven Germany and a foot-dragging France ft.trib.al/3n5xe45 <a href="https://bsky.app/profile/financialtimes.com/post/3maj5gwzucb24" target="_blank">financialtimes.com</a> (2025-12-22 01:32:04)</span><span style="padding-right:50px;">Michaela Benthaus, a 33-year-old German aerospace and mechatronics engineer, made history as the first wheelchair user to travel past the Kármán Line, a common marker for outer space. Her voyage on a Blue Origin New Shepard capsule launched Saturday morning in West Texas. <a href="https://bsky.app/profile/cnn.com/post/3maj5fmmzmk2q" target="_blank">cnn.com</a> (2025-12-22 01:31:19)</span><span style="padding-right:50px;">Experts caution those using these services to be careful, as you may not always get what you want from biological relatives. <a href="https://bsky.app/profile/usatoday.com/post/3maj5dnhrfu2h" target="_blank">usatoday.com</a> (2025-12-22 01:30:13)</span>
   </div>
 </div>
 
@@ -32,101 +32,95 @@
 
 ## News Headlines
 
-- Cartagena to Ban Horse-Drawn Carriages, Replace Them with Electric Buggies
-- Serbia's Students Protest Against University Pressure After Railway Tragedy
-- Angela Hartnett Reveals the Secret to a Perfect Christmas Roast
-- Trump Administration Purges Content from Smithsonian After Request
-- 200-Million-Year-Old Dinosaur Footprints Found in Italy
-- US Air-Traffic Controllers Flee to Australia for Safer Work Environment
+- England's Cricket Coach McCullum Under Fire After Ashes Defeat
+- Third 'Avatar' Film Lights Up Box Offices with $345 Million Opening
+- Germany and France Embroiled in Standoff Over Russia's Frozen Assets
+- Woman Becomes First Wheelchair User to Travel to Outer Space
+- US Supreme Court Ruling on Trump's Tariffs Creates 'Administrative Problem'
+- San Francisco Power Outage Affects Tens of Thousands of Residents
 
 
 ----
 
-@npr.org
+@reuters.com
 
-Cartagena, Colombia, is set to ban its iconic horse-drawn carriages, replacing them with electric buggies — a move dividing the historic city over tradition, tourism, and animal welfare. n.pr/3Y6VIdG
+'Hubris has taken over': England's McCullum under fire after Ashes defeat reut.rs/493VE3v
 
-[2025-12-22 01:25:47](https://bsky.app/profile/npr.org/post/3maj53pggsg2i)
+[2025-12-22 01:40:11](https://bsky.app/profile/reuters.com/post/3maj5vhahhh2b)
 
 ---
 
 @reuters.com
 
-Serbia's students protest against university pressure after railway station tragedy reut.rs/45mOztE
+Third 'Avatar' film lights up box offices with $345 million opening reut.rs/3LeyWO6
 
-[2025-12-22 01:25:11](https://bsky.app/profile/reuters.com/post/3maj52ngeyp2x)
+[2025-12-22 01:35:06](https://bsky.app/profile/reuters.com/post/3maj5mf2hla2i)
 
 ---
 
 @financialtimes.com
 
-Angela Hartnett's secret to a Christmas roast? 'Less is more'. She talks taste with HTSI ft.trib.al/UZTBlEv
+The stand-off between the two European leaders ahead of last week's summit to decide on Russia's frozen assets underscores a new dynamic between Europe’s two largest powers: an initiative-driven Germany and a foot-dragging France ft.trib.al/3n5xe45
 
-[2025-12-22 01:24:48](https://bsky.app/profile/financialtimes.com/post/3maj4zxesg623)
-
----
-
-@nikkei.com
-
-エプスタイン文書サイト、トランプ氏関連資料消える（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-トランプ氏とエプスタイン氏らが一緒に納まった写真などが公開翌日の12月20日、閲覧できなくなりました。
-
-司法省からの説明がなく、ネット上では消えた理由を巡り疑惑が広がっています。
-
-#ニュース
-
-[2025-12-22 01:21:46](https://bsky.app/profile/nikkei.com/post/3maj4ujf4bu2g)
+[2025-12-22 01:32:04](https://bsky.app/profile/financialtimes.com/post/3maj5gwzucb24)
 
 ---
 
-@wsj.com
+@cnn.com
 
-The Shanghai ship that never sails is the work of Pietro Beccari, who likes to tell his staff "Don’t think big, think huge."
+Michaela Benthaus, a 33-year-old German aerospace and mechatronics engineer, made history as the first wheelchair user to travel past the Kármán Line, a common marker for outer space. Her voyage on a Blue Origin New Shepard capsule launched Saturday morning in West Texas.
 
-[2025-12-22 01:19:20](https://bsky.app/profile/wsj.com/post/3maj4q6jww42t)
-
----
-
-@nhknewsunofficial.bsky.social
-
-村上宗隆 大リーグ ホワイトソックスと契約合意 米メディア
-https://news.web.nhk/newsweb/na/na-k10015009981000
-
-[2025-12-22 01:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maj4daabcq2b)
+[2025-12-22 01:31:19](https://bsky.app/profile/cnn.com/post/3maj5fmmzmk2q)
 
 ---
 
-@yahoofinance.com
+@usatoday.com
 
-How Oracle became a ‘poster child’ for AI bubble fears
+Experts caution those using these services to be careful, as you may not always get what you want from biological relatives.
 
-[2025-12-22 01:06:06](https://bsky.app/profile/yahoofinance.com/post/3maj3yjfvpo2q)
+[2025-12-22 01:30:13](https://bsky.app/profile/usatoday.com/post/3maj5dnhrfu2h)
 
 ---
 
-@npr.org
+@bloomberg.com
 
-Managing a full December calendar can quickly take you from festive to frazzled. Psychotherapist Niro Feliciano shares advice on reducing stress and increasing joy this season.
+A Supreme Court ruling that scraps Donald Trump’s tariffs would create a major “administrative problem,” the president’s top economic adviser said Sunday.
 
-[2025-12-22 01:05:39](https://bsky.app/profile/npr.org/post/3maj3xpnfys2b)
+[2025-12-22 01:30:10](https://bsky.app/profile/bloomberg.com/post/3maj5dl34my2z)
+
+---
+
+@washingtonpost.com
+
+The Post examined the bright skyline around Reagan National Airport and whether it may have been a factor in the January plane crash, which killed 67 people.
+
+To see the full reconstruction, watch the video on this page: 
+
+[2025-12-22 01:30:07](https://bsky.app/profile/washingtonpost.com/post/3maj5dhstyq24)
 
 ---
 
 @nytimes.com
 
-This Roasted Beef Tenderloin recipe is a holiday splurge that comes together quickly but still feels festive. nyti.ms/48Wk8LT
+Power was restored for tens of thousands of electricity customers in San Francisco late Saturday, after an hourslong outage affecting nearly a third of the city left many neighborhoods in darkness by nightfall.
 
-[2025-12-22 01:03:04](https://bsky.app/profile/nytimes.com/post/3maj3t3vle72e)
+[2025-12-22 01:30:07](https://bsky.app/profile/nytimes.com/post/3maj5dh6d5u2x)
 
 ---
 
-@wsj.com
+@forbes.com
 
-Some U.S. air-traffic controllers are taking the equivalent jobs in Australia, lured by "gorgeous beaches" and the prospects of a less stressful work environment.
+Solar winds could impact the aurora early on Monday morning, forecasters said.
 
-[2025-12-22 01:02:42](https://bsky.app/profile/wsj.com/post/3maj3sgr7gf2o)
+[2025-12-22 01:30:04](https://bsky.app/profile/forbes.com/post/3maj5dezhz72g)
+
+---
+
+@cbsnews.com
+
+Bowen Yang performed a holiday duet with Ariana Grande for his final act on "Saturday Night Live," as the actor and comedian bid farewell to the sketch comedy show that launched his career. 
+
+[2025-12-22 01:30:01](https://bsky.app/profile/cbsnews.com/post/3maj5dbrgqm2p)
 
 ---
 
