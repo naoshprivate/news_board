@@ -1,9 +1,9 @@
-# [2025-12-22 02:50 updated](2025_12_22.md)
+# [2025-12-22 03:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Bissouma to miss Mali’s Cup of Nations opener reut.rs/48RMOa8 <a href="https://bsky.app/profile/reuters.com/post/3majbjoqpqj2x" target="_blank">reuters.com</a> (2025-12-22 02:45:11)</span><span style="padding-right:50px;">Rosemary Westwood from member station WWNO asked a few of New Orlean's favorite musicians about the songs they like to listen to around Christmas. n.pr/4p5Oqly <a href="https://bsky.app/profile/npr.org/post/3majbfhttvw23" target="_blank">npr.org</a> (2025-12-22 02:42:49)</span><span style="padding-right:50px;">Yamal strikes as Barcelona punish 10-man Villarreal reut.rs/496LpLW <a href="https://bsky.app/profile/reuters.com/post/3majaxo66y62c" target="_blank">reuters.com</a> (2025-12-22 02:35:06)</span><span style="padding-right:50px;">Britons are drinking less alcohol than before, as financial pressures, health concerns and an ageing population lead to cutbacks in consumption ft.trib.al/rad0Hny <a href="https://bsky.app/profile/financialtimes.com/post/3majas7fei22q" target="_blank">financialtimes.com</a> (2025-12-22 02:32:03)</span><span style="padding-right:50px;">For two decades, he’s fought wildfires for the U.S. government, often doing the most toxic work. Now, this undocumented firefighter is facing cancer, the threat of ICE and the prospect of not being around for his 11-year-old. trib.al/oFVlAPB <a href="https://bsky.app/profile/nytimes.com/post/3majapsew322c" target="_blank">nytimes.com</a> (2025-12-22 02:30:42)</span>
+<span style="padding-right:50px;">8 lessons for investors from 2025 <a href="https://bsky.app/profile/yahoofinance.com/post/3majcp3faai2q" target="_blank">yahoofinance.com</a> (2025-12-22 03:06:06)</span><span style="padding-right:50px;">Austrian painter Arnulf Rainer dies at 96 reut.rs/3Nau650 <a href="https://bsky.app/profile/reuters.com/post/3majcfqn2l72r" target="_blank">reuters.com</a> (2025-12-22 03:00:52)</span><span style="padding-right:50px;">Dominique Dawes, who won gymnastics gold with Team USA in the 1996 Olympics, confirmed the family's loss in a social media post. <a href="https://bsky.app/profile/usatoday.com/post/3majcfjnp2i2z" target="_blank">usatoday.com</a> (2025-12-22 03:00:45)</span><span style="padding-right:50px;">Thousands of mourners gathered under tight police security at Sydney’s iconic Bondi Beach to mark a week since two gunmen targeting a Jewish festival killed 15 people. https://cnn.it/3KUiOkT <a href="https://bsky.app/profile/cnn.com/post/3majcet3pj32b" target="_blank">cnn.com</a> (2025-12-22 03:00:21)</span><span style="padding-right:50px;">President Trump said this week that the expropriation of American oil company assets justified a “total and complete blockade” of oil tankers arriving and leaving Venezuela.   Here’s a timeline of the exchange between the countries: <a href="https://bsky.app/profile/washingtonpost.com/post/3majcesc2ie2b" target="_blank">washingtonpost.com</a> (2025-12-22 03:00:21)</span>
   </div>
 </div>
 
@@ -32,96 +32,96 @@
 
 ## News Headlines
 
-- Bissouma to miss Mali’s Cup of Nations opener
-- New Orlean's Musicians Share Their Favorite Christmas Songs
-- Barcelona Punish 10-man Villarreal with Yamal Strike
-- Britons Drink Less Alcohol Due to Financial Pressures and Health Concerns
-- Undocumented Firefighter Battles Cancer and ICE Threats
-- Tigers Sign RHP Kyle Finnegan to 2-year, $19M Contract
+- Austrian Painter Arnulf Rainer Dies at 96
+- Thousands Gather to Mourn Victims of Jewish Festival Attack
+- President Trump Threatens Venezuela with Total Blockade
+- Russia Criticizes European Moves to End Ukraine War
+- Disney's Avatar: The Way of Water Disappoints with Weak Opening
+- Thousands Cheer at Winter Solstice at Stonehenge
 
 
 ----
+
+@yahoofinance.com
+
+8 lessons for investors from 2025
+
+[2025-12-22 03:06:06](https://bsky.app/profile/yahoofinance.com/post/3majcp3faai2q)
+
+---
+
+@reuters.com
+
+Austrian painter Arnulf Rainer dies at 96 reut.rs/3Nau650
+
+[2025-12-22 03:00:52](https://bsky.app/profile/reuters.com/post/3majcfqn2l72r)
+
+---
+
+@usatoday.com
+
+Dominique Dawes, who won gymnastics gold with Team USA in the 1996 Olympics, confirmed the family's loss in a social media post.
+
+[2025-12-22 03:00:45](https://bsky.app/profile/usatoday.com/post/3majcfjnp2i2z)
+
+---
+
+@cnn.com
+
+Thousands of mourners gathered under tight police security at Sydney’s iconic Bondi Beach to mark a week since two gunmen targeting a Jewish festival killed 15 people. https://cnn.it/3KUiOkT
+
+[2025-12-22 03:00:21](https://bsky.app/profile/cnn.com/post/3majcet3pj32b)
+
+---
+
+@washingtonpost.com
+
+President Trump said this week that the expropriation of American oil company assets justified a “total and complete blockade” of oil tankers arriving and leaving Venezuela. 
+
+Here’s a timeline of the exchange between the countries:
+
+[2025-12-22 03:00:21](https://bsky.app/profile/washingtonpost.com/post/3majcesc2ie2b)
+
+---
+
+@apnews.com
+
+Marco Schwarz took a big lead in the first run of a World Cup giant slalom with Marco Odermatt far from contention after a tough three-day program of speed races. 
+
+[2025-12-22 03:00:13](https://bsky.app/profile/apnews.com/post/3majcekqkw72q)
+
+---
+
+@aljazeera.com
+
+Russia criticises European moves to amend US plan to end Ukraine war https://aje.io/1g4eg5
+
+[2025-12-22 03:00:04](https://bsky.app/profile/aljazeera.com/post/3majcecjxan2p)
+
+---
+
+@cbsnews.com
+
+The Monastery of Christ in the Desert, in Northern New Mexico, is home to 15 Benedictine monks, some livestock, and a guesthouse for people looking for a little quiet in this turbulent world. "Sunday Morning" pays a visit.
+
+
+[2025-12-22 03:00:01](https://bsky.app/profile/cbsnews.com/post/3majce737n42g)
+
+---
+
+@wsj.com
+
+Exclusive: Cleveland Fed President Beth Hammack said she doesn’t see any need to change interest rates for several months after the central bank cut rates at its last three meetings.
+
+[2025-12-22 02:54:57](https://bsky.app/profile/wsj.com/post/3majc36en5n2g)
+
+---
 
 @reuters.com
 
 Bissouma to miss Mali’s Cup of Nations opener reut.rs/48RMOa8
 
 [2025-12-22 02:45:11](https://bsky.app/profile/reuters.com/post/3majbjoqpqj2x)
-
----
-
-@npr.org
-
-Rosemary Westwood from member station WWNO asked a few of New Orlean's favorite musicians about the songs they like to listen to around Christmas. n.pr/4p5Oqly
-
-[2025-12-22 02:42:49](https://bsky.app/profile/npr.org/post/3majbfhttvw23)
-
----
-
-@reuters.com
-
-Yamal strikes as Barcelona punish 10-man Villarreal reut.rs/496LpLW
-
-[2025-12-22 02:35:06](https://bsky.app/profile/reuters.com/post/3majaxo66y62c)
-
----
-
-@financialtimes.com
-
-Britons are drinking less alcohol than before, as financial pressures, health concerns and an ageing population lead to cutbacks in consumption ft.trib.al/rad0Hny
-
-[2025-12-22 02:32:03](https://bsky.app/profile/financialtimes.com/post/3majas7fei22q)
-
----
-
-@nytimes.com
-
-For two decades, he’s fought wildfires for the U.S. government, often doing the most toxic work. Now, this undocumented firefighter is facing cancer, the threat of ICE and the prospect of not being around for his 11-year-old. trib.al/oFVlAPB
-
-[2025-12-22 02:30:42](https://bsky.app/profile/nytimes.com/post/3majapsew322c)
-
----
-
-@bloomberg.com
-
-Would you eat an antelope? A 12-hour hunt for an invasive species shows how America’s appetite for wild meat is reshaping conservation and culture.
-
-[2025-12-22 02:30:23](https://bsky.app/profile/bloomberg.com/post/3majap7l4j523)
-
----
-
-@usatoday.com
-
-Jordan Firstman has never shied away from controversy. But with "I Love LA" and a "very emotional" new movie, the viral comedian is growing up.
-
-[2025-12-22 02:30:14](https://bsky.app/profile/usatoday.com/post/3majaowwy2525)
-
----
-
-@reuters.com
-
-🔊 The news cycle of 2025 was lot to keep up with. But if you’re Alessandra Galloni, that’s the gig. Our editor-in-chief joins this week’s On Assignment podcast to discuss the year that was and the year to come. Listen here reut.rs/4p6zLXh
-
-[2025-12-22 02:30:06](https://bsky.app/profile/reuters.com/post/3majaopph5c2q)
-
----
-
-@en.afp.com
-
-Allegations of a fresh cover-up over the Jeffrey Epstein files grew Sunday, as Democrats accused President Donald Trump of trying to protect himself by defying an order to release all files on the convicted sex offender.
-
-u.afp.com/S8TH
-
-[2025-12-22 02:30:04](https://bsky.app/profile/en.afp.com/post/3majaonwevb2d)
-
----
-
-@cbsnews.com
-
-Turner Classic Movies host Ben Mankiewicz looks back at the work of actor and director Rob Reiner, whose films became part of our shared cinematic language because of their humor, drama, and aching belief in humanity.
-
-
-[2025-12-22 02:30:01](https://bsky.app/profile/cbsnews.com/post/3majaokzn3o2i)
 
 ---
 
