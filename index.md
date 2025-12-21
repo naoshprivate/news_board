@@ -1,9 +1,9 @@
-# [2025-12-21 20:50 updated](2025_12_21.md)
+# [2025-12-21 21:10 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Schaper wins back-to-back DP World Tour titles after playoff eagles reut.rs/4paaxaD <a href="https://bsky.app/profile/reuters.com/post/3mainfvew332k" target="_blank">reuters.com</a> (2025-12-21 20:45:09)</span><span style="padding-right:50px;">ラグビー リーグワン 第2節 東芝ブレイブルーパスが今季初勝利 https://news.web.nhk/newsweb/na/na-k10015010011000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mainfryyu626" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 20:45:03)</span><span style="padding-right:50px;">イスラエルが今年６月に攻撃したイランの弾道ミサイル施設における生産拡大に懸念を強めており、ネタニヤフ首相がトランプ米大統領との会談で再攻撃の可能性について説明する準備を進めていると、米ＮＢＣテレビが２０日報じた。 bit.ly/3MMG4lk <a href="https://bsky.app/profile/japan.reuters.com/post/3maimlnlwhu2c" target="_blank">japan.reuters.com</a> (2025-12-21 20:30:28)</span><span style="padding-right:50px;">Trump set to expand immigration crackdown in 2026 despite brewing backlash reut.rs/3MMG44O <a href="https://bsky.app/profile/reuters.com/post/3maimlk2bzp23" target="_blank">reuters.com</a> (2025-12-21 20:30:24)</span><span style="padding-right:50px;">World War II Navy veteran Ira “Ike” Schab, one of the dwindling number of survivors of the 1941 Japanese bombing of Pearl Harbor, has died. He was 105. <a href="https://bsky.app/profile/apnews.com/post/3maimlg465x23" target="_blank">apnews.com</a> (2025-12-21 20:30:20)</span>
+<span style="padding-right:50px;">フィギュア全日本選手権 女子S 坂本花織が5連覇 五輪確実に https://news.web.nhk/newsweb/na/na-k10015010071000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maioldteot2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 21:06:03)</span><span style="padding-right:50px;">The couple taught their 14-year-old son to drive a stick shift with the 1951 car. on.wsj.com/45fty3Z <a href="https://bsky.app/profile/wsj.com/post/3maiodlcm7c2c" target="_blank">wsj.com</a> (2025-12-21 21:01:45)</span><span style="padding-right:50px;">Fed's Hammack signals holding rates steady for months, WSJ reports reut.rs/4paIXKi <a href="https://bsky.app/profile/reuters.com/post/3maiobvr7k42y" target="_blank">reuters.com</a> (2025-12-21 21:00:49)</span><span style="padding-right:50px;">「男らしくない男」は歴史から消し去られた　男性の多様性を考える www.nikkei.com/article/DGXZQO...  「男は稼ぎ、女は子育て」「男なら我慢しろ」「弱音を吐くな」  こうした男女の性別役割意識ができたのはいつからでしょうか。  男性史に詳しい早稲田大学の弓削尚子教授に聞きました。  2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3maiobnsdrb2m" target="_blank">nikkei.com</a> (2025-12-21 21:00:40)</span><span style="padding-right:50px;">Review: Kleber Mendonça Filho’s film “The Secret Agent” creates a sense of dread through beguiling uncertainties and a vivid portrayal of urban Brazil under military dictatorship, starring Wagner Moura. https://wapo.st/4jg2nfu <a href="https://bsky.app/profile/washingtonpost.com/post/3maioavvcbb2p" target="_blank">washingtonpost.com</a> (2025-12-21 21:00:15)</span>
   </div>
 </div>
 
@@ -32,97 +32,104 @@
 
 ## News Headlines
 
-- Schaper wins back-to-back DP World Tour titles after playoff eagles
-- Israel prepares to expand immigration crackdown in 2026 despite brewing backlash
-- World War II veteran Ira “Ike” Schab, Pearl Harbor survivor, dies at 105
-- US “apprehends” oil tanker off Venezuela, Caracas calls it “theft and kidnapping”
-- Breaking: Israel’s Cabinet approves proposal for 19 new settlements in occupied West Bank
-- South Korea's An wins World Tour Finals to equal calendar year title record
-- England's Ben Stokes vows to bounce back after Ashes loss in just 11 days
-
+[{"en": "Figure Skating: Sakamoto Wins Fifth Consecutive National Championship, Securing Olympic Berth"}, 
+{"en": "Trump to Expand Immigration Crackdown Despite Backlash"}, 
+{"en": "Veteran World War II Navy Sailor Ira "Ike" Schab Dies at 105"}, 
+{"en": "Algerian Parliament to Vote on Draft Law, Speaker Calls it a 'Defining Milestone'"}, 
+{"en": "US 'Apprehends' Oil Tanker Off Venezuela, Caracas Calls it 'Theft and Kidnapping'"}, 
+{"en": "Israel's Cabinet Approves Proposal for 19 New Settlements in Occupied West Bank"}]
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+フィギュア全日本選手権 女子S 坂本花織が5連覇 五輪確実に
+https://news.web.nhk/newsweb/na/na-k10015010071000
+
+[2025-12-21 21:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maioldteot2d)
+
+---
+
+@wsj.com
+
+The couple taught their 14-year-old son to drive a stick shift with the 1951 car. on.wsj.com/45fty3Z
+
+[2025-12-21 21:01:45](https://bsky.app/profile/wsj.com/post/3maiodlcm7c2c)
+
+---
+
+@reuters.com
+
+Fed's Hammack signals holding rates steady for months, WSJ reports reut.rs/4paIXKi
+
+[2025-12-21 21:00:49](https://bsky.app/profile/reuters.com/post/3maiobvr7k42y)
+
+---
+
+@nikkei.com
+
+「男らしくない男」は歴史から消し去られた　男性の多様性を考える
+www.nikkei.com/article/DGXZQO...
+
+「男は稼ぎ、女は子育て」「男なら我慢しろ」「弱音を吐くな」
+
+こうした男女の性別役割意識ができたのはいつからでしょうか。
+
+男性史に詳しい早稲田大学の弓削尚子教授に聞きました。
+
+2025年11月 #注目された記事
+
+[2025-12-21 21:00:40](https://bsky.app/profile/nikkei.com/post/3maiobnsdrb2m)
+
+---
+
+@washingtonpost.com
+
+Review: Kleber Mendonça Filho’s film “The Secret Agent” creates a sense of dread through beguiling uncertainties and a vivid portrayal of urban Brazil under military dictatorship, starring Wagner Moura. https://wapo.st/4jg2nfu
+
+[2025-12-21 21:00:15](https://bsky.app/profile/washingtonpost.com/post/3maioavvcbb2p)
+
+---
+
+@usatoday.com
+
+In the latest "SNL" cold open, President Trump (James Austin Johnson) delivered a holiday message revealing why he is "inventing my own Hunger Games."
+
+[2025-12-21 21:00:05](https://bsky.app/profile/usatoday.com/post/3maioam7we42z)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+フィギュア全日本選手権 女子シングル 坂本が5連覇 五輪確実に
+https://news.web.nhk/newsweb/na/na-k10015010071000
+
+[2025-12-21 20:57:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maio3eizz72b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+横浜 泉区 自動車整備工場で火事 従業員1人けが 消火活動続く
+https://news.web.nhk/newsweb/na/na-k10015009891000
+
+[2025-12-21 20:57:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maio375d2a2b)
+
+---
+
+@npr.org
+
+Budget cuts threaten the future of Amsterdam-based Radio Dabanga, which has served as an information lifeline for Sudanese people about their war-torn country. n.pr/4saai1J
+
+[2025-12-21 20:55:10](https://bsky.app/profile/npr.org/post/3mainxsgl5j2m)
+
+---
 
 @reuters.com
 
 Schaper wins back-to-back DP World Tour titles after playoff eagles reut.rs/4paaxaD
 
 [2025-12-21 20:45:09](https://bsky.app/profile/reuters.com/post/3mainfvew332k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ラグビー リーグワン 第2節 東芝ブレイブルーパスが今季初勝利
-https://news.web.nhk/newsweb/na/na-k10015010011000
-
-[2025-12-21 20:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mainfryyu626)
-
----
-
-@japan.reuters.com
-
-イスラエルが今年６月に攻撃したイランの弾道ミサイル施設における生産拡大に懸念を強めており、ネタニヤフ首相がトランプ米大統領との会談で再攻撃の可能性について説明する準備を進めていると、米ＮＢＣテレビが２０日報じた。 bit.ly/3MMG4lk
-
-[2025-12-21 20:30:28](https://bsky.app/profile/japan.reuters.com/post/3maimlnlwhu2c)
-
----
-
-@reuters.com
-
-Trump set to expand immigration crackdown in 2026 despite brewing backlash reut.rs/3MMG44O
-
-[2025-12-21 20:30:24](https://bsky.app/profile/reuters.com/post/3maimlk2bzp23)
-
----
-
-@apnews.com
-
-World War II Navy veteran Ira “Ike” Schab, one of the dwindling number of survivors of the 1941 Japanese bombing of Pearl Harbor, has died. He was 105.
-
-[2025-12-21 20:30:20](https://bsky.app/profile/apnews.com/post/3maimlg465x23)
-
----
-
-@aljazeera.com
-
-Algerian parliament is set to vote on Wednesday on the draft law, which speaker calls a 'defining milestone'.
-
-[2025-12-21 20:30:03](https://bsky.app/profile/aljazeera.com/post/3maimkvjj2z2p)
-
----
-
-@en.afp.com
-
-🇺🇸 🇻🇪 The United States "apprehended" an oil tanker off Venezuela on Saturday, a move Caracas deemed a "theft and kidnapping," in the latest salvo of a pressure campaign by Washington, the US government said ➡️ u.afp.com/S8Tk
-
-[2025-12-21 20:28:01](https://bsky.app/profile/en.afp.com/post/3maimhanph42q)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Minute's silence held on Bondi beach to mark week since terror attack
-
-[2025-12-21 20:24:32](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maimb2bshg2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-バレーボール 全日本選手権 男子はウルフドッグス名古屋が優勝
-https://news.web.nhk/newsweb/na/na-k10015010031000
-
-[2025-12-21 20:24:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maimaewvus2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-小泉防衛相 離島防衛 水陸機動団視察“南西地域の防衛強化を”
-https://news.web.nhk/newsweb/na/na-k10015010021000
-
-[2025-12-21 20:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maima7tydd2u)
 
 ---
 
