@@ -1,9 +1,9 @@
-# [2025-12-21 18:10 updated](2025_12_21.md)
+# [2025-12-21 18:32 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">自民 古屋選対委員長“衆院解散時期 あらゆる可能性備え準備” https://news.web.nhk/newsweb/na/na-k10015009861000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiejgu2mx2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 18:06:02)</span><span style="padding-right:50px;">フィギュア 全日本選手権 長岡 森口ペア優勝 代表内定が有力に https://news.web.nhk/newsweb/na/na-k10015009881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maieeay2c52l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 18:03:08)</span><span style="padding-right:50px;">自民 鈴木幹事長“医療機関への支援必要 診療報酬引き上げへ” https://news.web.nhk/newsweb/na/na-k10015009851000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiee3piq62b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 18:03:03)</span><span style="padding-right:50px;">The Russian economy has been dealing with growing headwinds this year: unruly inflation, a ballooning budget deficit and shrinking energy revenues. But analysts say the Kremlin could weather the storm for many more years. | Analysis <a href="https://bsky.app/profile/cnn.com/post/3maiedy6le32k" target="_blank">cnn.com</a> (2025-12-21 18:03:01)</span><span style="padding-right:50px;">英才教育では世界トップに立てない？　ドイツの大学など、3万人データ分析 www.nikkei.com/article/DGXZQO...  研究チームはスポーツ、学術、音楽などの分野で、世界トップで活躍する人を含むデータベースを作成し、技能が習熟する経過を分析。  ・世界トップクラスで活躍する人の約9割が、若い頃は目立つ存在ではなかった ・若くして注目された人のうち、成人期も第一線で活躍する人は1割程度だった といった点が複数の分野で共通していました。 <a href="https://bsky.app/profile/nikkei.com/post/3maie7rwrwk2i" target="_blank">nikkei.com</a> (2025-12-21 18:00:40)</span>
+<span style="padding-right:50px;">イスラエルが今年６月に攻撃したイランの弾道ミサイル施設における生産拡大に懸念を強めており、ネタニヤフ首相がトランプ米大統領との会談で再攻撃の可能性について説明する準備を進めていると、米ＮＢＣテレビが２０日報じた。 bit.ly/3YF2Kqg <a href="https://bsky.app/profile/japan.reuters.com/post/3maiezpher72v" target="_blank">japan.reuters.com</a> (2025-12-21 18:15:10)</span><span style="padding-right:50px;">横浜 泉区の工場で火事 https://news.web.nhk/newsweb/na/na-k10015009891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiezjmach2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 18:15:02)</span><span style="padding-right:50px;">自民 古屋選対委員長“衆院解散時期 あらゆる可能性備え準備” https://news.web.nhk/newsweb/na/na-k10015009861000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiejgu2mx2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 18:06:02)</span><span style="padding-right:50px;">フィギュア 全日本選手権 長岡 森口ペア優勝 代表内定が有力に https://news.web.nhk/newsweb/na/na-k10015009881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maieeay2c52l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 18:03:08)</span><span style="padding-right:50px;">自民 鈴木幹事長“医療機関への支援必要 診療報酬引き上げへ” https://news.web.nhk/newsweb/na/na-k10015009851000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiee3piq62b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 18:03:03)</span>
   </div>
 </div>
 
@@ -30,23 +30,22 @@
 
 ---
 
-## News Headlines
+@japan.reuters.com
 
-- LDP's Gomi to Prepare for House of Representatives Dissolution
-  - 自民の古屋委員長 "衆院解散時期あらゆる可能性を備え準備"
-- Japanese Figure Skating Pair Wins National Championship
-  - フィギュア全日本選手権 長岡森口ペア優勝 代表内定が有力
-- LDP's Suzuki Calls for Increased Medical Support
-  - 自民鈴木幹事長 "医療機関への支援必要 診療報酬引き上げへ"
-- Kremlin Envoy Says Peace Talks in Florida are Proceeding Constructively
-  - ロシア大使館代表「ウクライナ平和交渉はフロリダで議論が進んでいます"
-- Nine Killed in Shooting at South African Pub
-  - 南アフリカのパブで銃撃事件　9人死亡
-- Japan to Consider 1 Trillion Yen in Support for Domestic AI Development
-  - 経産省「来年度から5年間、1兆円規模の国産AI開発支援検討"
+イスラエルが今年６月に攻撃したイランの弾道ミサイル施設における生産拡大に懸念を強めており、ネタニヤフ首相がトランプ米大統領との会談で再攻撃の可能性について説明する準備を進めていると、米ＮＢＣテレビが２０日報じた。 bit.ly/3YF2Kqg
 
+[2025-12-21 18:15:10](https://bsky.app/profile/japan.reuters.com/post/3maiezpher72v)
 
-----
+---
+
+@nhknewsunofficial.bsky.social
+
+横浜 泉区の工場で火事
+https://news.web.nhk/newsweb/na/na-k10015009891000
+
+[2025-12-21 18:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiezjmach2u)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -124,22 +123,6 @@ A recent survey of over 1,000 U.S. adults by matchmaking company Tawkify found t
 https://news.web.nhk/newsweb/na/na-k10015009871000
 
 [2025-12-21 18:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maie6pwasx2u)
-
----
-
-@wsj.com
-
-Mike Huckabee, the U.S. ambassador to Israel, sits on the fault line as the president’s coalition splits over support for the Jewish state.
-
-[2025-12-21 17:52:34](https://bsky.app/profile/wsj.com/post/3maidrcwnu62c)
-
----
-
-@npr.org
-
-A Kremlin envoy says peace talks in Florida on a U.S.-proposed plan to end the war in Ukraine are proceeding constructively, after U.S. meetings with Ukrainian and European officials in Berlin. n.pr/3KHBzYL
-
-[2025-12-21 17:39:55](https://bsky.app/profile/npr.org/post/3maid2oebmy2b)
 
 ---
 
