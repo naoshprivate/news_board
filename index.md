@@ -1,9 +1,9 @@
-# [2025-12-22 00:10 updated](2025_12_22.md)
+# [2025-12-22 00:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🇫🇷 French President Emmanuel Macron said on Sunday he had given the official go-ahead to replace his country's flagship, the nuclear-powered aircraft carrier Charles de Gaulle, with a new carrier ➡️ u.afp.com/S8Tu <a href="https://bsky.app/profile/en.afp.com/post/3maiytclgsd2q" target="_blank">en.afp.com</a> (2025-12-22 00:09:30)</span><span style="padding-right:50px;">Intel stock soared in 2025. But the chipmaker still has a long road ahead. <a href="https://bsky.app/profile/yahoofinance.com/post/3maiynamaxe2j" target="_blank">yahoofinance.com</a> (2025-12-22 00:06:07)</span><span style="padding-right:50px;">Miniaturized versions of sleep lab equipment are revealing the extreme and somewhat quirky ways animals snooze while flying, deep diving or parenting their young. #birding #nature #science  bit.ly/4qnGCMZ <a href="https://bsky.app/profile/apnews.com/post/3maiydg2qyk2x" target="_blank">apnews.com</a> (2025-12-22 00:00:37)</span><span style="padding-right:50px;">Five years before retirement, Bob Schrader bought a Christmas tree farm in Hatfield, Massachusetts.   The farm hadn’t been operational for nearly a decade and was “fairly overgrown” when Bob Schrader bought it in 2010 for $215,000. <a href="https://bsky.app/profile/cnbc.com/post/3maiydf6uus2b" target="_blank">cnbc.com</a> (2025-12-22 00:00:36)</span><span style="padding-right:50px;">Democrats in Washington say primaries are simply part of life in a big-tent party. But privately, many see the surge in far-left challengers as an expensive headache that distracts from the party’s goal of seizing control of Congress next November. https://cnn.it/49nHmvN <a href="https://bsky.app/profile/cnn.com/post/3maiyczzc4223" target="_blank">cnn.com</a> (2025-12-22 00:00:24)</span>
+<span style="padding-right:50px;">Telecom Italia to hold Sunday board meeting on savings share conversion plan reut.rs/3MP5G0S <a href="https://bsky.app/profile/reuters.com/post/3maizp7i4rs2r" target="_blank">reuters.com</a> (2025-12-22 00:25:06)</span><span style="padding-right:50px;">“Theater kid” is the new go-to political put-down, raising the question: What did theater kids do to deserve such scorn? <a href="https://bsky.app/profile/nytimes.com/post/3maizp3t6fm2s" target="_blank">nytimes.com</a> (2025-12-22 00:25:03)</span><span style="padding-right:50px;">The Justice Department released more than 13,000 files on Friday arising from investigations into the convicted sex offender Jeffrey Epstein, and said more documents would be released in the coming weeks. Here are takeaways from the first batch of files. trib.al/8R4L9Ew <a href="https://bsky.app/profile/nytimes.com/post/3maizlw7mdk2y" target="_blank">nytimes.com</a> (2025-12-22 00:23:16)</span><span style="padding-right:50px;">In Kashmir, December 21 is said to mark the start of the 40 harshest days of winter. A woolen robe called a pheran is key to keeping warm — and a reminder of how to face and overcome hardships. n.pr/4q7SLWR <a href="https://bsky.app/profile/npr.org/post/3maizfrk3hn2e" target="_blank">npr.org</a> (2025-12-22 00:19:50)</span><span style="padding-right:50px;">The Powerball jackpot grew to its largest since two winners split a $1.7 billion prize in September. <a href="https://bsky.app/profile/forbes.com/post/3maiz5ez3el2c" target="_blank">forbes.com</a> (2025-12-22 00:15:08)</span>
   </div>
 </div>
 
@@ -32,15 +32,79 @@
 
 ## News Headlines
 
-- France to Replace Flagship Aircraft Carrier with New One
-- Intel Stock Soars Despite Long Road Ahead
-- Research Reveals Quirky Animal Sleep Patterns
-- Far-Left Challengers Pose Expensive Headache for Democrats
-- Penny Era Comes to an End with Final Coin Pressed
-- Son Accused of Killing Parents in Chilling Final Hours
+- Telecom Italia to Hold Board Meeting on Savings Share Conversion Plan
+- Theater Kids Become Unpopular Political Insult
+- Jeffrey Epstein Investigation Documents Released by US Justice Department
+- Winter Arrives in Kashmir with Harsh Weather Conditions
+- Powerball Jackpot Grows to its Largest Since 2024
+- US Intercepts Another Vessel Near Venezuela
 
 
 ----
+
+@reuters.com
+
+Telecom Italia to hold Sunday board meeting on savings share conversion plan reut.rs/3MP5G0S
+
+[2025-12-22 00:25:06](https://bsky.app/profile/reuters.com/post/3maizp7i4rs2r)
+
+---
+
+@nytimes.com
+
+“Theater kid” is the new go-to political put-down, raising the question: What did theater kids do to deserve such scorn?
+
+[2025-12-22 00:25:03](https://bsky.app/profile/nytimes.com/post/3maizp3t6fm2s)
+
+---
+
+@nytimes.com
+
+The Justice Department released more than 13,000 files on Friday arising from investigations into the convicted sex offender Jeffrey Epstein, and said more documents would be released in the coming weeks. Here are takeaways from the first batch of files. trib.al/8R4L9Ew
+
+[2025-12-22 00:23:16](https://bsky.app/profile/nytimes.com/post/3maizlw7mdk2y)
+
+---
+
+@npr.org
+
+In Kashmir, December 21 is said to mark the start of the 40 harshest days of winter. A woolen robe called a pheran is key to keeping warm — and a reminder of how to face and overcome hardships. n.pr/4q7SLWR
+
+[2025-12-22 00:19:50](https://bsky.app/profile/npr.org/post/3maizfrk3hn2e)
+
+---
+
+@forbes.com
+
+The Powerball jackpot grew to its largest since two winners split a $1.7 billion prize in September.
+
+[2025-12-22 00:15:08](https://bsky.app/profile/forbes.com/post/3maiz5ez3el2c)
+
+---
+
+@nytimes.com
+
+Sixteen photos — including one featuring President Trump — were removed without explanation on Saturday from the large collection of files connected to the investigations of Jeffrey Epstein that the Justice Department released on Friday.
+
+[2025-12-22 00:15:04](https://bsky.app/profile/nytimes.com/post/3maiz5bec5h2s)
+
+---
+
+@axios.com
+
+The solve for America's aging crisis: Universal Basic Investment
+
+[2025-12-22 00:12:11](https://bsky.app/profile/axios.com/post/3maiyy3qyqk2n)
+
+---
+
+@reuters.com
+
+US intercepts another vessel near Venezuela, officials say reut.rs/4s8BNbX
+
+[2025-12-22 00:10:09](https://bsky.app/profile/reuters.com/post/3maiyui5hpn2s)
+
+---
 
 @en.afp.com
 
@@ -55,75 +119,6 @@
 Intel stock soared in 2025. But the chipmaker still has a long road ahead.
 
 [2025-12-22 00:06:07](https://bsky.app/profile/yahoofinance.com/post/3maiynamaxe2j)
-
----
-
-@apnews.com
-
-Miniaturized versions of sleep lab equipment are revealing the extreme and somewhat quirky ways animals snooze while flying, deep diving or parenting their young.
-#birding #nature #science 
-bit.ly/4qnGCMZ
-
-[2025-12-22 00:00:37](https://bsky.app/profile/apnews.com/post/3maiydg2qyk2x)
-
----
-
-@cnbc.com
-
-Five years before retirement, Bob Schrader bought a Christmas tree farm in Hatfield, Massachusetts. 
-
-The farm hadn’t been operational for nearly a decade and was “fairly overgrown” when Bob Schrader bought it in 2010 for $215,000.
-
-[2025-12-22 00:00:36](https://bsky.app/profile/cnbc.com/post/3maiydf6uus2b)
-
----
-
-@cnn.com
-
-Democrats in Washington say primaries are simply part of life in a big-tent party. But privately, many see the surge in far-left challengers as an expensive headache that distracts from the party’s goal of seizing control of Congress next November. https://cnn.it/49nHmvN
-
-[2025-12-22 00:00:24](https://bsky.app/profile/cnn.com/post/3maiyczzc4223)
-
----
-
-@washingtonpost.com
-
-Hundreds gathered at the Lincoln Memorial on Saturday afternoon to mark the end of an era for the penny, after the U.S. Mint pressed the final coins last month.
-
-As guests left the funeral, they bid their goodbyes and tossed pennies into the casket. https://wapo.st/3KLIRL4
-
-[2025-12-22 00:00:23](https://bsky.app/profile/washingtonpost.com/post/3maiycz4ffl24)
-
----
-
-@usatoday.com
-
-Rob and Michele Reiner's final hours were spent with their son, Nick, who now is accused of killing them. Inside the final, chilling hours.
-
-[2025-12-22 00:00:07](https://bsky.app/profile/usatoday.com/post/3maiycjtc6e2z)
-
----
-
-@cbsnews.com
-
-Ted Koppel visits Seneca Falls, the Central New York town that's said to have inspired the 1946 Jimmy Stewart classic "It's a Wonderful Life," a film that celebrates smalltown virtues and happy endings, and which still has a powerful hold on our imagination.
-
-
-[2025-12-22 00:00:01](https://bsky.app/profile/cbsnews.com/post/3maiycdlrjg2i)
-
----
-
-@sokuho.news
-
-🔔令和7年12月22日(月)になりました。
-🌀2025年356日目、残り10日(2.74%)
-
-🍀先勝/旧暦11月3日🌒
-🐍巳/平成37年/昭和100年
-
-🌈今日も平穏に過ごせますように✨
-
-[2025-12-22 00:00:00](https://bsky.app/profile/sokuho.news/post/3maiycd7kgm2e)
 
 ---
 
