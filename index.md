@@ -1,9 +1,9 @@
-# [2025-12-22 03:30 updated](2025_12_22.md)
+# [2025-12-22 03:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">スキージャンプ Ｗ杯 個人第11戦 小林陵侑が逆転で今季2勝目 https://news.web.nhk/newsweb/na/na-k10015010131000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majdpadwl72k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 03:24:02)</span><span style="padding-right:50px;">Without a fix from Congress, costs for many people who buy health care on the Affordable Care Act marketplace have gone up. Here's what's to know about cheaper choices  — and pitfalls to be aware of. <a href="https://bsky.app/profile/npr.org/post/3majdhgjrw72g" target="_blank">npr.org</a> (2025-12-22 03:19:43)</span><span style="padding-right:50px;">BREAKING: The U.S. Coast Guard is pursuing another sanctioned oil tanker as the Trump administration steps up pressure on Venezuela-linked vessels. <a href="https://bsky.app/profile/apnews.com/post/3majdfkdg6s26" target="_blank">apnews.com</a> (2025-12-22 03:18:40)</span><span style="padding-right:50px;">Iranians of all religions and walks of life mark the ancient Persian festival of Yalda Sunday, though many say economic hardships fanned by international sanctions will put a damper on this year's celebrations.  u.afp.com/S8Tj <a href="https://bsky.app/profile/en.afp.com/post/3majd73uyhf2h" target="_blank">en.afp.com</a> (2025-12-22 03:15:03)</span><span style="padding-right:50px;">Fraudsters use AI to fake artwork authenticity and ownership ft.trib.al/17zlI0g <a href="https://bsky.app/profile/financialtimes.com/post/3majd36fxou2w" target="_blank">financialtimes.com</a> (2025-12-22 03:12:52)</span>
+<span style="padding-right:50px;">【全国唯一の恐竜学部】 福井県立大学・西弘嗣学部長「恐竜を起点に新たな産業」 www.nikkei.com/article/DGXZQO...  福井県は新種の化石が相次いで見つかる「恐竜王国」。福井県立大学が2025年4月に開設した恐竜学部は、少子化が進む仲で多くの学生をひき付けています。  初年度の手応えや今後の教育研究についてインタビューしました。 <a href="https://bsky.app/profile/nikkei.com/post/3majezimy5q24" target="_blank">nikkei.com</a> (2025-12-22 03:47:43)</span><span style="padding-right:50px;">BREAKING: The Coast Guard is in "active pursuit" of a sanctioned vessel in international waters off the coast of Venezuela, two U.S. officials said. <a href="https://bsky.app/profile/nbcnews.com/post/3majeyzwtil2n" target="_blank">nbcnews.com</a> (2025-12-22 03:47:27)</span><span style="padding-right:50px;">Superb Rogers double gives Aston Villa 2-1 win over Manchester United reut.rs/4pR9GwB <a href="https://bsky.app/profile/reuters.com/post/3majeuyzeju23" target="_blank">reuters.com</a> (2025-12-22 03:45:12)</span><span style="padding-right:50px;">White Sox make unexpected move, sign Japanese star Munetaka Murakami reut.rs/3MSB4LV <a href="https://bsky.app/profile/reuters.com/post/3majelza4ts2x" target="_blank">reuters.com</a> (2025-12-22 03:40:10)</span><span style="padding-right:50px;">Guan Heng sailed to the U.S. by boat from the Bahamas after publishing footage he filmed of purported detention camps in China. He has been held in immigration detention since August. <a href="https://bsky.app/profile/npr.org/post/3majef7tdru2e" target="_blank">npr.org</a> (2025-12-22 03:36:22)</span>
   </div>
 </div>
 
@@ -32,127 +32,101 @@
 
 ## News Headlines
 
-- Japanese Skier Yuto Horigome Wins Season's 11th Event in World Cup
-- Healthcare Costs Rise Without Congressional Fix, Experts Warn
-- US Coast Guard Pursues Sanctioned Oil Tanker as Trump Administration Steps Up Pressure on Venezuela-Linked Vessels
-- Iranians Mark Ancient Festival of Yalda Amid Economic Hardships
-- Art Forgery Using AI on the Rise, Experts Warn
-- Austrian Painter Arnulf Rainer Dies at 96
-- Thousands Gather for Memorial Service at Sydney's Bondi Beach
-- US President Trump Justifies Blockade of Venezuela Oil Tankers
-- Russia Criticizes European Plans to Amend US Peace Plan for Ukraine
-- Exclusive: Cleveland Fed President Sees No Need for Interest Rate Change
-- Bissouma to Miss Mali's Cup of Nations Opener
-- Musicians Share Favorite Christmas Songs from New Orleans
-- Barcelona Punishes 10-Man Villarreal in La Liga Match
-- Britons Drink Less Alcohol Due to Financial Pressures and Health Concerns
-- Undocumented Firefighter Battles Cancer, ICE, and Uncertainty
-- Hunt for Invasive Antelope Species Reshapes Conservation and Culture
-- Comedian Jordan Firstman Talks About Growing Up and Controversy
-- Reut.rs: Editor-in-Chief Discusses 2025 News Cycle
-- Trump Accused of Cover-Up Over Jeffrey Epstein Files
-- TCM Host Ben Mankiewicz Remembers Rob Reiner's Work
-- Tigers Sign RHP Kyle Finnegan to 2-Year, $19M Contract
-- Right-Wing Leaders Insult Each Other at Turning Point USA Gathering
-- Disney's 'Avatar: Fire and Ash' Disappoints at Box Office
-- Washington Commanders Show Fight in Latest Loss to Eagles
-- Italy's Saipem Wins Offshore Contract in Qatar for $4 Billion
-- Trump's Public Presence Lags Behind Predecessors, but He Finds Other Ways to Engage
-- Wall Street Sees AI Stock Trade as Intact
-- Europe Needs Strategic Purpose Matched with Action
-- Smart Gifts Measure Blood Glucose and Gut Microbiomes
-- Thousands Celebrate Winter Solstice at Stonehenge
-- Secret to Maury Povich and Connie Chung's 40-Year Marriage Revealed
-- Research Suggests Gift-Giving Has Beneficial Effects on Mental Health
-- SNL Goes Meta for Bowen Yang's Last Show
-- Justice Department Removes Images from Jeffrey Epstein Files
-- Israel's Defence Exports Reach Record $15bn
+- Venezuela's Oil Tanker Chased by US Coast Guard
+- Aston Villa Defeats Manchester United With 2-1 Win
+- Japanese Star Munetaka Murakami Signs with White Sox
+- Guan Heng Detained in US After Publishing Footage of Chinese Detention Camps
+- Australia Pushes for Tighter Gun Laws After Bondi Beach Attack
+- George Clooney Pays Tribute to Late Sister Adelia Zeidler
 
 
 ----
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-スキージャンプ Ｗ杯 個人第11戦 小林陵侑が逆転で今季2勝目
-https://news.web.nhk/newsweb/na/na-k10015010131000
+【全国唯一の恐竜学部】
+福井県立大学・西弘嗣学部長「恐竜を起点に新たな産業」
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-22 03:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majdpadwl72k)
+福井県は新種の化石が相次いで見つかる「恐竜王国」。福井県立大学が2025年4月に開設した恐竜学部は、少子化が進む仲で多くの学生をひき付けています。
 
----
+初年度の手応えや今後の教育研究についてインタビューしました。
 
-@npr.org
-
-Without a fix from Congress, costs for many people who buy health care on the Affordable Care Act marketplace have gone up. Here's what's to know about cheaper choices  — and pitfalls to be aware of.
-
-[2025-12-22 03:19:43](https://bsky.app/profile/npr.org/post/3majdhgjrw72g)
+[2025-12-22 03:47:43](https://bsky.app/profile/nikkei.com/post/3majezimy5q24)
 
 ---
 
-@apnews.com
+@nbcnews.com
 
-<strong><span style="color: red;">BREAKING:</span> The U.S. Coast Guard is pursuing another sanctioned oil tanker as the Trump administration steps up pressure on Venezuela-linked vessels.</strong>
+<strong><span style="color: red;">BREAKING:</span> The Coast Guard is in "active pursuit" of a sanctioned vessel in international waters off the coast of Venezuela, two U.S. officials said.</strong>
 
-[2025-12-22 03:18:40](https://bsky.app/profile/apnews.com/post/3majdfkdg6s26)
-
----
-
-@en.afp.com
-
-Iranians of all religions and walks of life mark the ancient Persian festival of Yalda Sunday, though many say economic hardships fanned by international sanctions will put a damper on this year's celebrations.
-
-u.afp.com/S8Tj
-
-[2025-12-22 03:15:03](https://bsky.app/profile/en.afp.com/post/3majd73uyhf2h)
-
----
-
-@financialtimes.com
-
-Fraudsters use AI to fake artwork authenticity and ownership ft.trib.al/17zlI0g
-
-[2025-12-22 03:12:52](https://bsky.app/profile/financialtimes.com/post/3majd36fxou2w)
-
----
-
-@yahoofinance.com
-
-8 lessons for investors from 2025
-
-[2025-12-22 03:06:06](https://bsky.app/profile/yahoofinance.com/post/3majcp3faai2q)
+[2025-12-22 03:47:27](https://bsky.app/profile/nbcnews.com/post/3majeyzwtil2n)
 
 ---
 
 @reuters.com
 
-Austrian painter Arnulf Rainer dies at 96 reut.rs/3Nau650
+Superb Rogers double gives Aston Villa 2-1 win over Manchester United reut.rs/4pR9GwB
 
-[2025-12-22 03:00:52](https://bsky.app/profile/reuters.com/post/3majcfqn2l72r)
+[2025-12-22 03:45:12](https://bsky.app/profile/reuters.com/post/3majeuyzeju23)
+
+---
+
+@reuters.com
+
+White Sox make unexpected move, sign Japanese star Munetaka Murakami reut.rs/3MSB4LV
+
+[2025-12-22 03:40:10](https://bsky.app/profile/reuters.com/post/3majelza4ts2x)
+
+---
+
+@npr.org
+
+Guan Heng sailed to the U.S. by boat from the Bahamas after publishing footage he filmed of purported detention camps in China. He has been held in immigration detention since August.
+
+[2025-12-22 03:36:22](https://bsky.app/profile/npr.org/post/3majef7tdru2e)
+
+---
+
+@matthewhaybrown.bsky.social
+
+FACT CHECK American companies never owned oil or land in Venezuela, and officials didn’t kick them out. Venezuela, following Mexico, Brazil and Saudi Arabia, nationalized its most lucrative sector in 1976 and developed mutually beneficial partnerships with American and other firms
+
+wapo.st/4jblLKs
+
+[2025-12-22 03:34:07](https://bsky.app/profile/matthewhaybrown.bsky.social/post/3majeb6kpv22m)
+
+---
+
+@bloomberg.com
+
+A swift push to tighten gun laws following the Bondi Beach terrorist attack underscores how far apart Australia and the US stand on confronting firearm violence.
+
+[2025-12-22 03:30:25](https://bsky.app/profile/bloomberg.com/post/3maje2l76mo23)
 
 ---
 
 @usatoday.com
 
-Dominique Dawes, who won gymnastics gold with Team USA in the 1996 Olympics, confirmed the family's loss in a social media post.
+George Clooney is paying tribute to his "brave" sister Adelia "Ada" Zeidler, who has died at age 65 after a battle with cancer.
 
-[2025-12-22 03:00:45](https://bsky.app/profile/usatoday.com/post/3majcfjnp2i2z)
-
----
-
-@cnn.com
-
-Thousands of mourners gathered under tight police security at Sydney’s iconic Bondi Beach to mark a week since two gunmen targeting a Jewish festival killed 15 people. https://cnn.it/3KUiOkT
-
-[2025-12-22 03:00:21](https://bsky.app/profile/cnn.com/post/3majcet3pj32b)
+[2025-12-22 03:30:17](https://bsky.app/profile/usatoday.com/post/3maje2deb2n2g)
 
 ---
 
-@washingtonpost.com
+@forbes.com
 
-President Trump said this week that the expropriation of American oil company assets justified a “total and complete blockade” of oil tankers arriving and leaving Venezuela. 
+The third “Avatar” movie has also grossed over $257 million in international markets, for a combined total of $345 million.
 
-Here’s a timeline of the exchange between the countries:
+[2025-12-22 03:30:04](https://bsky.app/profile/forbes.com/post/3majdzxh3t22q)
 
-[2025-12-22 03:00:21](https://bsky.app/profile/washingtonpost.com/post/3majcesc2ie2b)
+---
+
+@financialtimes.com
+
+Opinion: Has public debt in the developed world become unmanageable? Recent debt numbers starkly underline how far we have moved beyond the ancient public finance paradigm whereby debt was racked up in wars and paid down in peacetime ft.trib.al/CCWRAox
+
+[2025-12-22 03:30:03](https://bsky.app/profile/financialtimes.com/post/3majdzvofch2b)
 
 ---
 
