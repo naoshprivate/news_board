@@ -1,9 +1,9 @@
-# [2025-12-21 09:11 updated](2025_12_21.md)
+# [2025-12-21 09:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US coastguard boards tanker carrying Venezuelan oil in Caribbean ft.trib.al/KjoFE6k <a href="https://bsky.app/profile/financialtimes.com/post/3mahge2duv42k" target="_blank">financialtimes.com</a> (2025-12-21 09:06:11)</span><span style="padding-right:50px;">The US military is conducting movements and coordinating exercises at José Aponte de la Torre Airport, a former US naval station in Ceiba, Puerto Rico, as part of heightened regional military readiness linked to ongoing tensions with Venezuela <a href="https://bsky.app/profile/en.afp.com/post/3mahgbxmsdt2j" target="_blank">en.afp.com</a> (2025-12-21 09:05:01)</span><span style="padding-right:50px;">ウクライナのゼレンスキー大統領は２０日、米国、ウクライナ、ロシアによる高官会談の提案を米国から受けたと明らかにし、さらなる捕虜交換を促し、各国による会談に道を開くなら提案を支持するとの見解を示した。 bit.ly/3MOlQrp <a href="https://bsky.app/profile/japan.reuters.com/post/3mahg5cbzab2q" target="_blank">japan.reuters.com</a> (2025-12-21 09:02:24)</span><span style="padding-right:50px;">Venezuelan government rejects seizure of new vessel transporting oil reut.rs/3MTmkfO <a href="https://bsky.app/profile/reuters.com/post/3mahg2pkmfc2p" target="_blank">reuters.com</a> (2025-12-21 09:00:58)</span><span style="padding-right:50px;">🛎️NNNより【独自】です。  【独自検証】消防隊員2人が亡くなった道頓堀火災 看板はなぜ燃えた？ビル火災事故の真相と安全対策の課題 (2025-12-21 09:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahg2jwvqk2y" target="_blank">sokuho.news</a> (2025-12-21 09:00:52)</span>
+<span style="padding-right:50px;">島根 江津 住宅全焼2人死亡 高齢夫婦と連絡とれず https://news.web.nhk/newsweb/na/na-k10015009591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahhjff5eh2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 09:27:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】全国高校駅伝（女子）香川の四国学院大香川西 選手体調不良で欠場【香川】 (2025-12-21 09:10) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahhgwf2wp2x" target="_blank">sokuho.news</a> (2025-12-21 09:25:41)</span><span style="padding-right:50px;">Records from closed-door proceedings in Jeffrey Epstein’s sex-trafficking case, as well as that of his co-conspirator Ghislaine Maxwell, were made public as part of the Department of Justice’s release of material from its investigations. The documents added little to what has already been known. <a href="https://bsky.app/profile/nytimes.com/post/3mahh3txrmk2m" target="_blank">nytimes.com</a> (2025-12-21 09:19:30)</span><span style="padding-right:50px;">為替レートは多様な要因によって変動し、しかも主たる要因が局面によって変わることは言うまでもない。また、コロナ禍後の大幅な円安については、経常収支の弱さや多国籍企業による海外収益の現地での再投資、個人投資家が資産運用を積極化する下での対外証券投資の増加といった構造要因の影響が大きいとの見方も強い。 bit.ly/459yMOM <a href="https://bsky.app/profile/japan.reuters.com/post/3mahgu5m5mz2n" target="_blank">japan.reuters.com</a> (2025-12-21 09:15:11)</span><span style="padding-right:50px;">全国高校駅伝 女子【速報予定 10:20】冬の京都で優勝争いは https://news.web.nhk/newsweb/na/na-k10015007901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahgom5jqd2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 09:12:03)</span>
   </div>
 </div>
 
@@ -32,111 +32,86 @@
 
 ## News Headlines
 
-- US Coast Guard Boards Tanker Carrying Venezuelan Oil
-  - ベネズエラ船を米海軍が拿捕
-- US Military Conducts Exercises in Puerto Rico Amid Tensions with Venezuela
-  - 米軍、プエルトリコでベネズエラとの緊張に備え訓練
-- Ukraine President Zelenskyy Accepts US, Ukraine, Russia Peace Talks Proposal
-  - ゼレンスキー大統領、米国・ウクライナ・ロシアによる平和会議参加を承知
-- Venezuela Rebuffs Seizure of Oil Vessel
-  - ベネズエラ、石油タンカー拿捕を拒否
-- Japanese Firefighters' Deaths Raise Questions About Safety Procedures
-  - 消防隊員2人が亡くなった火災、安全対策の懸念
-- US Coast Guard Seizes Venezuelan Oil Vessel
-  - 米海軍、ベネズエラタンカーを拿捕
-- US Military Conducts Exercises in Puerto Rico Amid Tensions with Venezuela
-  - 米軍、プエルトリコでベネズエラとの緊張に備え訓練
-- US Seizes Vessel Carrying Venezuelan Oil
-  - 米海軍、ベネズエラタンカーを拿捕
-- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
-  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
-- Southeast Asian Border Conflict Resumes
-  - 南東アジア国境紛争再燃
-- US Seizes Vessel Carrying Venezuelan Oil
-  - 米海軍、ベネズエラタンカーを拿捕
-- US Coast Guard Seizes Vessel Carrying Venezuelan Oil
-  - 米海軍、ベネズエラタンカーを拿捕
-- US Seizes Vessel Carrying Venezuelan Oil
-  - 米海軍、ベネズエラタンカーを拿捕
-- US Coast Guard Seizes Vessel Carrying Venezuelan Oil
-  - 米海軍、ベネズエラタンカーを拿捕
-- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
-  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
-- Southeast Asian Border Conflict Resumes
-  - 南東アジア国境紛争再燃
-- US Seizes Vessel Carrying Venezuelan Oil
-  - 米海軍、ベネズエラタンカーを拿捕
-- US Coast Guard Boards Tanker Carrying Venezuelan Oil
-  - 米海軍がベネズエラタンカー拿捕
-- US Military Conducts Exercises in Puerto Rico Amid Tensions with Venezuela
-  - 米軍、プエルトリコでベネズエラとの緊張に備え訓練
-- Mass Firings and Uncertainty Drive Federal Worker Exodus
-  - 米国政府職員過半数辞任
-- US Justice Department Under Fire for Removing Trump Image from Epstein Files
-  - 米司法省、EPSTEIN関連文書からトランプ画像を削除
-- US Seizes Vessel Carrying Venezuelan Oil
-  - 米海軍、ベネズエラタンカーを拿捕
-- Italian Police Arrest 384 in Large-Scale Drug Trafficking Operation
-  - イタリア警察、大規模麻薬密売人逮捕
-- Mbappe Equals Ronaldo Record in Real Madrid Win
-  - マッベペ、ロナウドと同等となるレアルマドリードの記録
-- Southeast Asian Border Conflict Resumes
-  - 南東アジア国境紛争再燃
-- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
-  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
-- US Seizes Vessel Carrying Venezuelan Oil
-  - 米海軍、ベネズエラタンカーを拿捕
-- US Coast Guard Seizes Vessel Carrying Venezuelan Oil
-  - 米海軍、ベネズエラタンカーを拿捕
-- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
-  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
-- Italian Police Arrest 384 in Large-Scale Drug Trafficking Operation
-  - イタリア警察、麻薬密売人逮捕
-- US Seizes Vessel Carrying Venezuelan Oil
-  - 米海軍、ベネズエラタンカーを拿捕
-- US Coast Guard Boards Tanker Carrying Venezuelan Oil
-  - 米海軍がベネズエラタンカー拿捕
-- US Military Conducts Exercises in Puerto Rico Amid Tensions with Venezuela
-  - 米軍、プエルトリコでベネズエラとの緊張に備え訓練
-- US Justice Department Under Fire for Removing Trump Image from Epstein Files
-  - 米司法省、EPSTEIN関連文書からトランプ画像を削除
-- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
-  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
-- Southeast Asian Border Conflict Resumes
-  - 南東アジア国境紛争再燃
-- US Seizes Vessel Carrying Venezuelan Oil
-  - 米海軍、ベネズエラタンカーを拿捕
-- US Coast Guard Boards Tanker Carrying Venezuelan Oil
-  - 米海軍がベネズエラタンカー拿捕
-- US Military Conducts Exercises in Puerto Rico Amid Tensions with Venezuela
-  - 米軍、プエルトリコでベネズエラとの緊張に備え訓練
-- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
-  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
-- Italian Police Arrest 384 in Large-Scale Drug Trafficking Operation
-  - イタリア警察、麻薬密売人逮捕
-- US Seizes Vessel Carrying Venezuelan Oil
-  - 米海軍、ベネズエラタンカーを拿捕
-- US Coast Guard Boards Tanker Carrying Venezuelan Oil
-  - 米海軍がベネズエラタンカー拿捕
-- US Military Conducts Exercises in Puerto Rico Amid Tensions with Venezuela
-  - 米軍、プエルトリコでベネズエラとの緊張に備え訓練
-- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
-  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
-- Southeast Asian Border Conflict Resumes
-  - 南東アジア国境紛争再燃
-- US Seizes Vessel Carrying Venezuelan Oil
-  - 米海軍、ベネズエラタンカーを拿捕
-- US Coast Guard Boards Tanker Carrying Venezuelan Oil
-  - 米海軍がベネズエラタンカー拿捕
-- US Military Conducts Exercises in Puerto Rico Amid Tensions with Venezuela
-  - 米軍、プエルトリコでベネズエラとの緊張に備え訓練
-- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
-  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
-- Italian Police Arrest 384 in Large-Scale Drug Trafficking Operation
-  - イタリア警察、麻薬密売人逮捕
+- Island of Shimane: Couple's Home Burns Down, Two Dead
+  - 島根県江津の住宅全焼、２人死亡
+- Kagawa Prefecture's Four National High School Track and Field Championship: Female Athlete from Shikoku University in Kagawa Prefecture Withdraws Due to Poor Health
+  - 香川県の四国学院大香川西高校の女子選手が体調不良で欠場
+- Venezuela Rejects Seizure of Tanker Carrying Oil
+  - ベネズエラ政府が石油輸送タンカーの拿捕を拒否
+- US Coast Guard Boards Tanker Carrying Venezuelan Oil in Caribbean
+  - 米国海岸警備隊がカリブ海でベネズエラの石油輸送タンカーを拿捕
+- Ukraine's Zelensky Announces Proposal for Tripartite Meeting with US, Ukraine, and Russia
+  - ウクライナのゼレンスキー大統領が米国・ウクライナ・ロシアの高官会談の提案
+- Italian Police Arrest 384 People in Large-Scale Anti-Drug Trafficking Operation
+  - イタリア警察が大規模な麻薬密売組織を摘発し384人を逮捕
 
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+島根 江津 住宅全焼2人死亡 高齢夫婦と連絡とれず
+https://news.web.nhk/newsweb/na/na-k10015009591000
+
+[2025-12-21 09:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahhjff5eh2d)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】全国高校駅伝（女子）香川の四国学院大香川西 選手体調不良で欠場【香川】
+(2025-12-21 09:10) #ニュース
+
+[2025-12-21 09:25:41](https://bsky.app/profile/sokuho.news/post/3mahhgwf2wp2x)
+
+---
+
+@nytimes.com
+
+Records from closed-door proceedings in Jeffrey Epstein’s sex-trafficking case, as well as that of his co-conspirator Ghislaine Maxwell, were made public as part of the Department of Justice’s release of material from its investigations. The documents added little to what has already been known.
+
+[2025-12-21 09:19:30](https://bsky.app/profile/nytimes.com/post/3mahh3txrmk2m)
+
+---
+
+@japan.reuters.com
+
+為替レートは多様な要因によって変動し、しかも主たる要因が局面によって変わることは言うまでもない。また、コロナ禍後の大幅な円安については、経常収支の弱さや多国籍企業による海外収益の現地での再投資、個人投資家が資産運用を積極化する下での対外証券投資の増加といった構造要因の影響が大きいとの見方も強い。 bit.ly/459yMOM
+
+[2025-12-21 09:15:11](https://bsky.app/profile/japan.reuters.com/post/3mahgu5m5mz2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+全国高校駅伝 女子【速報予定 10:20】冬の京都で優勝争いは
+https://news.web.nhk/newsweb/na/na-k10015007901000
+
+[2025-12-21 09:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahgom5jqd2w)
+
+---
+
+@cnn.com
+
+For Democrats who are suffering during Trump 2.0, the next presidential election, when the current president is barred from the ballot, can’t come soon enough. | Analysis 
+
+[2025-12-21 09:12:01](https://bsky.app/profile/cnn.com/post/3mahgoikgbm2q)
+
+---
+
+@wsj.com
+
+After nearly five years of high prices, many middle-class earners thought life would be more affordable by now.
+
+Perpetual sticker shock is making many within the group feel worse about both their own finances and the future of the country.
+
+🔗: on.wsj.com/4s3odGQ
+
+[2025-12-21 09:10:33](https://bsky.app/profile/wsj.com/post/3mahgltxmsi2g)
+
+---
 
 @financialtimes.com
 
@@ -159,72 +134,6 @@ The US military is conducting movements and coordinating exercises at José Apon
 ウクライナのゼレンスキー大統領は２０日、米国、ウクライナ、ロシアによる高官会談の提案を米国から受けたと明らかにし、さらなる捕虜交換を促し、各国による会談に道を開くなら提案を支持するとの見解を示した。 bit.ly/3MOlQrp
 
 [2025-12-21 09:02:24](https://bsky.app/profile/japan.reuters.com/post/3mahg5cbzab2q)
-
----
-
-@reuters.com
-
-Venezuelan government rejects seizure of new vessel transporting oil reut.rs/3MTmkfO
-
-[2025-12-21 09:00:58](https://bsky.app/profile/reuters.com/post/3mahg2pkmfc2p)
-
----
-
-@sokuho.news
-
-🛎️NNNより【独自】です。
-
-【独自検証】消防隊員2人が亡くなった道頓堀火災 看板はなぜ燃えた？ビル火災事故の真相と安全対策の課題
-(2025-12-21 09:00) #ニュース
-
-[2025-12-21 09:00:52](https://bsky.app/profile/sokuho.news/post/3mahg2jwvqk2y)
-
----
-
-@nikkei.com
-
-首都直下地震　数字に表れない「連鎖・複合被害」に備えを
-www.nikkei.com/article/DGXZQO...
-
-本来、インフラや生活基盤が整った都市は過疎地などに比べて安全なはず。
-
-しかし専門家は、人口密度が一定のしきい値を超えると、犠牲者が飛躍的に増える現象を指摘します。
-
-[2025-12-21 09:00:40](https://bsky.app/profile/nikkei.com/post/3mahg26otzh2g)
-
----
-
-@apnews.com
-
-Combat training drills are a rite of passage for police recruits nationwide, and an Associated Press investigation finds they've left a trail of deaths and injuries.
-
-[2025-12-21 09:00:38](https://bsky.app/profile/apnews.com/post/3mahg24rnyf2d)
-
----
-
-@bloomberg.com
-
-President Donald Trump endorsed Nassau County Executive Bruce Blakeman for New York governor a day after Republican Representative Elise Stefanik, another long-time ally of the president, dropped out of the race.
-
-[2025-12-21 09:00:31](https://bsky.app/profile/bloomberg.com/post/3mahfzvmsfh23)
-
----
-
-@usatoday.com
-
-Designer David Bromstad revealed he attended a treatment center after a storm destroyed his 'childhood fantasy' dream home in Florida mid-renovation.
-
-[2025-12-21 09:00:23](https://bsky.app/profile/usatoday.com/post/3mahfzouc7z2z)
-
----
-
-@washingtonpost.com
-
-The board of the Kennedy Center announced it had voted to rename the cultural institution in honor of President Trump.
-
-But members of the organization are having a harder time replacing the website domain because a comedian bought it months ago.
-
-[2025-12-21 09:00:14](https://bsky.app/profile/washingtonpost.com/post/3mahfzfrtiv2b)
 
 ---
 
