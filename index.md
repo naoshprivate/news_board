@@ -1,9 +1,9 @@
-# [2025-12-22 05:50 updated](2025_12_22.md)
+# [2025-12-22 06:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Georgetown coach Ed Cooley apologizes for water bottle throw reut.rs/3YCxqsb <a href="https://bsky.app/profile/reuters.com/post/3majllkzhzz2y" target="_blank">reuters.com</a> (2025-12-22 05:45:11)</span><span style="padding-right:50px;">Opinion: Despite fears about what Zohran Mamdani might do, if you want to know where business really stands on New York, follow the money. JPMorgan Chase is spending $3bn on a Park Avenue tower. Google is completing its multibillion dollar Hudson Square campus ft.trib.al/4Pq6kKN <a href="https://bsky.app/profile/financialtimes.com/post/3majlcgxmd22f" target="_blank">financialtimes.com</a> (2025-12-22 05:40:05)</span><span style="padding-right:50px;">村上宗隆 大リーグホワイトソックスと契約合意“2年53億円余” https://news.web.nhk/newsweb/na/na-k10015009981000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majlanul3z2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 05:39:03)</span><span style="padding-right:50px;">ロシア ウクライナ双方が和平案めぐりアメリカと協議 https://news.web.nhk/newsweb/na/na-k10015010151000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majl3b6mgl2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 05:36:02)</span><span style="padding-right:50px;">U.S. strikes against Islamic State in Syria highlight the difficulty in fully suppressing a foe that was declared militarily defeated half a decade ago. <a href="https://bsky.app/profile/wsj.com/post/3majkrkahmt2h" target="_blank">wsj.com</a> (2025-12-22 05:30:38)</span>
+<span style="padding-right:50px;">H3ロケット8号機 みちびき5号機を搭載 きょう午前 打ち上げへ https://news.web.nhk/newsweb/na/na-k10015009941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majmwbl7qw2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 06:09:02)</span><span style="padding-right:50px;">This “Christmas Capital” draws millions of visitors with its reindeer farm, nutcracker museum and half a million lights. Now, businesses are reeling after floods and power outages. <a href="https://bsky.app/profile/wsj.com/post/3majmojebmg2c" target="_blank">wsj.com</a> (2025-12-22 06:04:44)</span><span style="padding-right:50px;">Emilie Nasseh, a 30-year-old living in Manhattan, has made up to $2,000 a month through an unconventional side hustle: renting her clothes and accessories. https://cnn.it/4qgkzYp <a href="https://bsky.app/profile/cnn.com/post/3majmjoffd52v" target="_blank">cnn.com</a> (2025-12-22 06:02:02)</span><span style="padding-right:50px;">Opening weekend numbers are in for "Avatar: Fire and Ash." Is the film making enough at the box office to justify James Cameron's planned sequels? <a href="https://bsky.app/profile/usatoday.com/post/3majmhhsd5w2f" target="_blank">usatoday.com</a> (2025-12-22 06:00:48)</span><span style="padding-right:50px;">Prince William and his son, Prince George, have helped make Christmas lunch at a homeless shelter. They visited The Passage in central London, a charity the Prince of Wales first visited as a child with his mother, Princess Diana. <a href="https://bsky.app/profile/apnews.com/post/3majmhfoyln2q" target="_blank">apnews.com</a> (2025-12-22 06:00:46)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.67 (🔻0.08 : 2025-12-21)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.68 (🔻0.07 : 2025-12-21)</span>
   </div>
 </div>
 
@@ -32,99 +32,97 @@
 
 ## News Headlines
 
-- Georgetown Coach Apologizes for Water Bottle Throw
-- US Spending $3bn on New York Tower Amid Business Concerns
-- Japan's Ariranga Signs 2-Year Contract with White Sox
-- US and Russia Discuss Peace Plan for Ukraine Conflict
-- Colombian Mercenaries Found Dead in Sudan War
-- US Pursues Venezuela-Linked Oil Tanker in International Waters
+- Christmas Capital Reels from Floods and Power Outages
+- New Pill Form of Medicines Excites Patients and Doctors
+- Colombian Mercenaries Found Dead in Sudan's War Zone
+- US Strikes against Islamic State Highlight Difficulty in Suppressing Foe
+- Guyana Aims to Attract Tourists with its Ecotourism Options
+- US Pursues Oil Tanker in International Waters near Venezuela
 
 
 ----
 
-@reuters.com
-
-Georgetown coach Ed Cooley apologizes for water bottle throw reut.rs/3YCxqsb
-
-[2025-12-22 05:45:11](https://bsky.app/profile/reuters.com/post/3majllkzhzz2y)
-
----
-
-@financialtimes.com
-
-Opinion: Despite fears about what Zohran Mamdani might do, if you want to know where business really stands on New York, follow the money. JPMorgan Chase is spending $3bn on a Park Avenue tower. Google is completing its multibillion dollar Hudson Square campus ft.trib.al/4Pq6kKN
-
-[2025-12-22 05:40:05](https://bsky.app/profile/financialtimes.com/post/3majlcgxmd22f)
-
----
-
 @nhknewsunofficial.bsky.social
 
-村上宗隆 大リーグホワイトソックスと契約合意“2年53億円余”
-https://news.web.nhk/newsweb/na/na-k10015009981000
+H3ロケット8号機 みちびき5号機を搭載 きょう午前 打ち上げへ
+https://news.web.nhk/newsweb/na/na-k10015009941000
 
-[2025-12-22 05:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majlanul3z2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ロシア ウクライナ双方が和平案めぐりアメリカと協議
-https://news.web.nhk/newsweb/na/na-k10015010151000
-
-[2025-12-22 05:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majl3b6mgl2u)
+[2025-12-22 06:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majmwbl7qw2v)
 
 ---
 
 @wsj.com
 
-U.S. strikes against Islamic State in Syria highlight the difficulty in fully suppressing a foe that was declared militarily defeated half a decade ago.
+This “Christmas Capital” draws millions of visitors with its reindeer farm, nutcracker museum and half a million lights. Now, businesses are reeling after floods and power outages.
 
-[2025-12-22 05:30:38](https://bsky.app/profile/wsj.com/post/3majkrkahmt2h)
-
----
-
-@bloomberg.com
-
-Tourists look past Guyana. It's ready to change their minds. The world's fastest-growing economy is using its oil wealth to develop its ecotourism options.
-
-[2025-12-22 05:30:25](https://bsky.app/profile/bloomberg.com/post/3majkr5qdau2x)
-
----
-
-@usatoday.com
-
-Indiana Fever guard Sophie Cunningham shares her love for wrestling and teases a WWE career in her latest podcast episode of "Show Me Something."
-
-[2025-12-22 05:30:24](https://bsky.app/profile/usatoday.com/post/3majkr4xvsz2h)
-
----
-
-@en.afp.com
-
-Hundreds of Colombian ex-soldiers have been drawn to Sudan with the promise of a big payday. What many found instead was death in a faraway war.
-
-An AFP investigation has uncovered how Colombian mercenaries ended up on the other side of the world.
-
-u.afp.com/S8Tt
-
-[2025-12-22 05:30:14](https://bsky.app/profile/en.afp.com/post/3majkqsveto2f)
-
----
-
-@aljazeera.com
-
-The vessel was flying a false flag and under a judicial seizure order, according to US officials cited by US media.
-
-[2025-12-22 05:30:02](https://bsky.app/profile/aljazeera.com/post/3majkqhcld22z)
+[2025-12-22 06:04:44](https://bsky.app/profile/wsj.com/post/3majmojebmg2c)
 
 ---
 
 @cnn.com
 
-<strong><span style="color: red;">JUST IN:</span> The US was pursuing an oil tanker in international waters near Venezuela after attempting to intercept it, a US official said. https://cnn.it/4jc7ltJ</strong>
+Emilie Nasseh, a 30-year-old living in Manhattan, has made up to $2,000 a month through an unconventional side hustle: renting her clothes and accessories.
+https://cnn.it/4qgkzYp
 
-[2025-12-22 05:17:25](https://bsky.app/profile/cnn.com/post/3majjzvzgvn2c)
+[2025-12-22 06:02:02](https://bsky.app/profile/cnn.com/post/3majmjoffd52v)
+
+---
+
+@usatoday.com
+
+Opening weekend numbers are in for "Avatar: Fire and Ash." Is the film making enough at the box office to justify James Cameron's planned sequels?
+
+[2025-12-22 06:00:48](https://bsky.app/profile/usatoday.com/post/3majmhhsd5w2f)
+
+---
+
+@apnews.com
+
+Prince William and his son, Prince George, have helped make Christmas lunch at a homeless shelter. They visited The Passage in central London, a charity the Prince of Wales first visited as a child with his mother, Princess Diana.
+
+[2025-12-22 06:00:46](https://bsky.app/profile/apnews.com/post/3majmhfoyln2q)
+
+---
+
+@cnbc.com
+
+Despite months of networking and filling out job applications throughout her senior year, the only offer University of Hawaii at Manoa graduate Ashley Terrell received, she says, was promoting power tool products at a local Home Depot for $25 an hour.  
+
+[2025-12-22 06:00:17](https://bsky.app/profile/cnbc.com/post/3majmgkaoz52d)
+
+---
+
+@washingtonpost.com
+
+The Radio City Rockettes, founded in 1925, are rounding out their 100th season with the annual blockbuster eight-week run of “Christmas Spectacular.
+
+Here’s a look at the most recognizable dance troupe on the planet from the past century:
+
+[2025-12-22 06:00:16](https://bsky.app/profile/washingtonpost.com/post/3majmgjs4i22m)
+
+---
+
+@bloomberg.com
+
+UK Prime Minister Keir Starmer and US President Donald Trump discussed Ukraine and Gaza during a pre-Christmas phone call on Sunday, according to Downing Street.
+
+[2025-12-22 06:00:16](https://bsky.app/profile/bloomberg.com/post/3majmgj44dg23)
+
+---
+
+@npr.org
+
+Right now the medicines involve weekly injections — which can have a sticker price of over $1,000 a month, with hard-to-navigate insurance coverage. So there's a lot of excitement around a new pill form of the drugs.
+
+[2025-12-22 05:57:21](https://bsky.app/profile/npr.org/post/3majmbd2y2a24)
+
+---
+
+@nytimes.com
+
+Videos and photographs show how the Chinese authorities have tried to dismantle one of the country’s biggest underground church networks, in what activists and supporters describe as the most wide-ranging crackdown on Chinese Christians in years.
+
+[2025-12-22 05:56:00](https://bsky.app/profile/nytimes.com/post/3majm6vt2ht2e)
 
 ---
 
