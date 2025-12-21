@@ -1,9 +1,9 @@
-# [2025-12-21 18:50 updated](2025_12_21.md)
+# [2025-12-21 19:10 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">横浜 泉区の工場で火災 1人けがとの情報 https://news.web.nhk/newsweb/na/na-k10015009891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maigujrhfz2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 18:48:02)</span><span style="padding-right:50px;">米情報機関がまとめた報告によると、ロシアのプーチン大統領はウクライナ全土のほか、旧ソ連に属していた欧州の一部地域を占領する目標をなお放棄していないという。事情に詳しい関係者６人が明らかにした。 bit.ly/4pRLxGe <a href="https://bsky.app/profile/japan.reuters.com/post/3maigpjfcnz2q" target="_blank">japan.reuters.com</a> (2025-12-21 18:45:16)</span><span style="padding-right:50px;">How Bill Clinton became the focus of the Epstein files ft.trib.al/cY941ff <a href="https://bsky.app/profile/financialtimes.com/post/3maigp6xndg2p" target="_blank">financialtimes.com</a> (2025-12-21 18:45:05)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「府民の皆さま、府連の再生のために、働いて、働いて、働いてまいりたい」大阪自民の復活へ導けるか 松川るい参院議員が府連会長に正式に就任 (2025-12-21 18:15:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maiggdu2lx2v" target="_blank">sokuho.news</a> (2025-12-21 18:40:08)</span><span style="padding-right:50px;">🇦🇺 People in Australia fell silent in flickering candlelight on Sunday to honour the Bondi Beach shooting victims, marking one week since gunmen fired into crowds at a Jewish festival ➡️ u.afp.com/S8SE <a href="https://bsky.app/profile/en.afp.com/post/3maigbtxxr426" target="_blank">en.afp.com</a> (2025-12-21 18:37:37)</span>
+<span style="padding-right:50px;">立民 吉田代表代行“来年度予算案 物価高対応実効性問われる” https://news.web.nhk/newsweb/na/na-k10015009951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maii24bezp2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 19:09:02)</span><span style="padding-right:50px;">Asian Football Confederation to launch Nations League competition reut.rs/4pPJB0Y <a href="https://bsky.app/profile/reuters.com/post/3maiht2npp42o" target="_blank">reuters.com</a> (2025-12-21 19:05:08)</span><span style="padding-right:50px;">高市内閣、支持率75%で変わらず　日銀の利上げ「評価」55% www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3maihs2wvg52i" target="_blank">nikkei.com</a> (2025-12-21 19:04:35)</span><span style="padding-right:50px;">🇦🇺 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Australia captain Pat Cummins said it felt "pretty awesome" after his dominant team won the third Test in Adelaide to wrap up the Ashes in just 11 days of play after some dogged resistance from England's tail briefly threatened a great escape ➡️ u.afp.com/S8SK <a href="https://bsky.app/profile/en.afp.com/post/3maihr2kqxm2f" target="_blank">en.afp.com</a> (2025-12-21 19:04:01)</span><span style="padding-right:50px;">Hugh Jackman and Kate Hudson cover Neil Diamond in ‘Song Sung Blue,’ Timothée Chalamet plays a ping-pong prodigy in ‘Marty Supreme,’ Kate Winslet makes her directorial debut with ‘Goodbye June,’ and more. on.wsj.com/494Alyy <a href="https://bsky.app/profile/wsj.com/post/3maihn36jtx2c" target="_blank">wsj.com</a> (2025-12-21 19:01:47)</span>
   </div>
 </div>
 
@@ -32,111 +32,110 @@
 
 ## News Headlines
 
-- 1 injured in factory fire in Yokohama
-  - 横浜 泉区の工場で火災 1人けがとの情報
-- Putin's goal to occupy parts of Europe still exists, US intel reveals
-  - 米情報機関がまとめた報告によると、ロシアのプーチン大統領はウクライナ全土のほか、旧ソ連に属していた欧州の一部地域を占領する目標をなお放棄していないという。
-- Bill Clinton's Epstein scandal connection
-  - How Bill Clinton became the focus of the Epstein files
-- Osaka LDP revives with new leader
-  - 【速報】大阪自民の復活へ導けるか 松川るい参院議員が府連会長に正式に就任
-- Australia pays tribute to Bondi Beach shooting victims
-  - ✌サンクバサンスャドウサンターヤアングウサユアシャアインケウサンター
-- Texas Tech stuns No. 3 Duke in basketball
-  - Down 17 in 2nd half, No. 19 Texas Tech stuns No. 3 Duke
+- LDP's New Representative Puts Pressure on Next Year's Budget
+  - 立民吉田代表代行 　来年度予算案　物価高対応実効性問われる
+- Asian Football Confederation to Launch Nations League Competition
+  - アタュンゲーメイントサイン　バタルブトイン　メイングーメイン　メイングルトイン
+- Australia's Support for LDP Remains Steady at 75% Despite Central Bank's Rate Hike
+  - アタョイバト　先よるバースターの使橋一亞はいらですいとバースターを年に上だ、ブイトインを谱るをいらですい
+- Zoff Launches New Brand 'Zolita TOKYO' Featuring Lolita and Glasses
+  - ゴンイエン　ユエエーバースターを使橋　ユエエーバースターバントイン
+- Russian Ship Inspected by Swedish Customs in Swedish Waters
+  - アイブューサン　バートインいに会を完法たる　アイブューサン　バートインが二にそい
+- Jake Paul Suffers Broken Jaw in Loss to Anthony Joshua
+  - トゴンタアファスーン　モータタントインを不ないできべにかたい　メインディコースタートインがおだ
 
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-横浜 泉区の工場で火災 1人けがとの情報
-https://news.web.nhk/newsweb/na/na-k10015009891000
+立民 吉田代表代行“来年度予算案 物価高対応実効性問われる”
+https://news.web.nhk/newsweb/na/na-k10015009951000
 
-[2025-12-21 18:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maigujrhfz2s)
-
----
-
-@japan.reuters.com
-
-米情報機関がまとめた報告によると、ロシアのプーチン大統領はウクライナ全土のほか、旧ソ連に属していた欧州の一部地域を占領する目標をなお放棄していないという。事情に詳しい関係者６人が明らかにした。 bit.ly/4pRLxGe
-
-[2025-12-21 18:45:16](https://bsky.app/profile/japan.reuters.com/post/3maigpjfcnz2q)
-
----
-
-@financialtimes.com
-
-How Bill Clinton became the focus of the Epstein files ft.trib.al/cY941ff
-
-[2025-12-21 18:45:05](https://bsky.app/profile/financialtimes.com/post/3maigp6xndg2p)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】「府民の皆さま、府連の再生のために、働いて、働いて、働いてまいりたい」大阪自民の復活へ導けるか 松川るい参院議員が府連会長に正式に就任
-(2025-12-21 18:15:00) #ニュース
-
-[2025-12-21 18:40:08](https://bsky.app/profile/sokuho.news/post/3maiggdu2lx2v)
-
----
-
-@en.afp.com
-
-🇦🇺 People in Australia fell silent in flickering candlelight on Sunday to honour the Bondi Beach shooting victims, marking one week since gunmen fired into crowds at a Jewish festival ➡️ u.afp.com/S8SE
-
-[2025-12-21 18:37:37](https://bsky.app/profile/en.afp.com/post/3maigbtxxr426)
+[2025-12-21 19:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maii24bezp2l)
 
 ---
 
 @reuters.com
 
-Down 17 in 2nd half, No. 19 Texas Tech stuns No. 3 Duke reut.rs/4arFX8H
+Asian Football Confederation to launch Nations League competition reut.rs/4pPJB0Y
 
-[2025-12-21 18:35:07](https://bsky.app/profile/reuters.com/post/3maig5fitko2b)
+[2025-12-21 19:05:08](https://bsky.app/profile/reuters.com/post/3maiht2npp42o)
 
 ---
 
 @nikkei.com
 
-パスタやベーグルに「つけてみそ」　名古屋名物が異色コラボ
+高市内閣、支持率75%で変わらず　日銀の利上げ「評価」55%
 www.nikkei.com/article/DGXZQO...
 
-老舗のみそメーカー、ナカモの主力の調味料「つけてみそかけてみそ」。
+#ニュース
 
-ベーグル専門店「べーグルアンドベーグル」の「大葉香るみそチーズ味」など、名古屋パルコの12店でコラボメニューが登場しました。
+[2025-12-21 19:04:35](https://bsky.app/profile/nikkei.com/post/3maihs2wvg52i)
 
-テレビCMが流れる中部地方では有名ですが、主な購入者層は50〜60代。パルコでの催しで若年層にも魅力を伝えます。
+---
 
-[2025-12-21 18:30:40](https://bsky.app/profile/nikkei.com/post/3maifvg6cpz2g)
+@en.afp.com
+
+🇦🇺 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Australia captain Pat Cummins said it felt "pretty awesome" after his dominant team won the third Test in Adelaide to wrap up the Ashes in just 11 days of play after some dogged resistance from England's tail briefly threatened a great escape ➡️ u.afp.com/S8SK
+
+[2025-12-21 19:04:01](https://bsky.app/profile/en.afp.com/post/3maihr2kqxm2f)
+
+---
+
+@wsj.com
+
+Hugh Jackman and Kate Hudson cover Neil Diamond in ‘Song Sung Blue,’ Timothée Chalamet plays a ping-pong prodigy in ‘Marty Supreme,’ Kate Winslet makes her directorial debut with ‘Goodbye June,’ and more. on.wsj.com/494Alyy
+
+[2025-12-21 19:01:47](https://bsky.app/profile/wsj.com/post/3maihn36jtx2c)
+
+---
+
+@nikkei.com
+
+Zoff、ロリータ×メガネの新ブランド「Zolita TOKYO」　東京・原宿に
+www.nikkei.com/article/DGXZQO...
+
+メガネに取り付けるチャーム（550円〜）を400種類以上、メガネを首にかけるためのひも状の「グラスコード」を約40種類そろえました。
+
+メガネの柄にはチャームやグラスコードを通せるハート形のデザインが施されており、自分のファッションに合わせてカスタムできます。
+
+#ニュース
+
+[2025-12-21 19:00:40](https://bsky.app/profile/nikkei.com/post/3maihl3ehz52i)
 
 ---
 
 @reuters.com
 
-Top 25 roundup: No. 19 Texas Tech rallies to hand No. 3 Duke first loss reut.rs/49kFQdU
+Swedish customs says it has boarded Russian ship in Swedish waters to conduct inspection reut.rs/4p9AfMe
 
-[2025-12-21 18:30:26](https://bsky.app/profile/reuters.com/post/3maifuyzreq2b)
-
----
-
-@japan.reuters.com
-
-イスラエルが今年６月に攻撃したイランの弾道ミサイル施設における生産拡大に懸念を強めており、ネタニヤフ首相がトランプ米大統領との会談で再攻撃の可能性について説明する準備を進めていると、米ＮＢＣテレビが２０日報じた。 bit.ly/3YF2Kqg
-
-[2025-12-21 18:15:10](https://bsky.app/profile/japan.reuters.com/post/3maiezpher72v)
+[2025-12-21 19:00:22](https://bsky.app/profile/reuters.com/post/3maihkk3yu724)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@apnews.com
 
-横浜 泉区の工場で火事
-https://news.web.nhk/newsweb/na/na-k10015009891000
+Jake Paul’s jaw was broken in two places in his loss to former world heavyweight champion Anthony Joshua in Miami.
 
-[2025-12-21 18:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiezjmach2u)
+[2025-12-21 19:00:13](https://bsky.app/profile/apnews.com/post/3maihkazeco2k)
+
+---
+
+@washingtonpost.com
+
+Column: After a DUI years ago, this letter writer avoids drinking often. How do they respond to questions asking why?
+
+[2025-12-21 19:00:12](https://bsky.app/profile/washingtonpost.com/post/3maihka5ski2i)
+
+---
+
+@wsj.com
+
+Millions of homeowners are still locked into ultralow mortgage rates they don’t want to give up.
+
+[2025-12-21 18:54:43](https://bsky.app/profile/wsj.com/post/3maihagisfa2c)
 
 ---
 
