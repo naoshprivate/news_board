@@ -1,9 +1,9 @@
-# [2025-12-21 16:30 updated](2025_12_21.md)
+# [2025-12-21 16:52 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「平屋の軒から黒煙と火が見える」と通報 北海道室蘭市の平屋住宅で火事 1人負傷 (2025-12-21 15:39:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mai6weedc22b" target="_blank">sokuho.news</a> (2025-12-21 16:25:55)</span><span style="padding-right:50px;">イスラエルが今年６月に攻撃したイランの弾道ミサイル施設における生産拡大に懸念を強めており、ネタニヤフ首相がトランプ米大統領との会談で再攻撃の可能性について説明する準備を進めていると、米ＮＢＣテレビが２０日報じた。 bit.ly/3KIF8hn <a href="https://bsky.app/profile/japan.reuters.com/post/3mai65w2ynz2n" target="_blank">japan.reuters.com</a> (2025-12-21 16:12:15)</span><span style="padding-right:50px;">You don’t need to be Martha Stewart or Ina Garten to make phenomenal jams. All you need is a little bit of fruit, sugar and a clean jar. https://cnn.it/4p6cIMk <a href="https://bsky.app/profile/cnn.com/post/3mai5qyon422v" target="_blank">cnn.com</a> (2025-12-21 16:05:01)</span><span style="padding-right:50px;">Lakers G Luka Doncic (leg contusion) ruled out vs. Clippers reut.rs/4q7HK7X <a href="https://bsky.app/profile/reuters.com/post/3mai5jdr4hi2o" target="_blank">reuters.com</a> (2025-12-21 16:00:45)</span><span style="padding-right:50px;">「きのこの山vsたけのこの里」有名シェフが参戦　明治がコラボ商品 www.nikkei.com/article/DGXZQO...   「クラブハリエ」の山本隆夫シェフと「シェ・シバタ」の柴田武シェフとのコラボ商品を開発。2026年1月16日からバレンタイン期間限定で販売します。   永遠の論争は「MONTAGNE À LA TRUFFE（モンターニュ・ア・ラ・トリュフ）」vs「Ultimate Takenoko（アルティメット　タケノコ）」に。 <a href="https://bsky.app/profile/nikkei.com/post/3mai5j6ynar2x" target="_blank">nikkei.com</a> (2025-12-21 16:00:40)</span>
+<span style="padding-right:50px;">青森 八戸でクリスマスマーケット開催 多くの人でにぎわう https://news.web.nhk/newsweb/na/na-k10015009801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maia5ycnvf2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 16:48:02)</span><span style="padding-right:50px;">京都 「三千院」の僧侶が「托鉢寒行」 新年の家内安全など願う https://news.web.nhk/newsweb/na/na-k10015009771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7tbbkia2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 16:42:02)</span><span style="padding-right:50px;">フィギュア 全日本選手権 アイスダンス 吉田 森田が2連覇 https://news.web.nhk/newsweb/na/na-k10015009791000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7o276iq2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 16:39:08)</span><span style="padding-right:50px;">富山 氷見の神社で宮司が描いた畳4畳分の絵馬 奉納する神事 https://news.web.nhk/newsweb/na/na-k10015009761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7nuxwsj22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 16:39:02)</span><span style="padding-right:50px;">バレーボール 全日本選手権 女子決勝 大阪マーヴェラスが優勝 https://news.web.nhk/newsweb/na/na-k10015009781000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7ijvn5m2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 16:36:03)</span>
   </div>
 </div>
 
@@ -30,23 +30,73 @@
 
 ---
 
-## News Headlines
+@nhknewsunofficial.bsky.social
 
-- Black smoke and fire seen from a one-story house in Hokkaido
-  - 北海道の平屋住宅から黒煙と火が見える
-- Israel Prime Minister weighs possibility of another attack on Iran
-  - イスラエル首相　イランに再攻撃の可能性を考える
-- Jams don't have to be a Martha Stewart dish
-  - マーサ・スチュワートではない人でも、地味なジャムを作ることができる
-- Lakers' Luka Doncic ruled out vs. Clippers
-  - レイカーズのドンチッチ選手　クリッパーズ戦欠場
-- Meiji to release Valentine's Day collaboration product
-  - 明治がバレンタインに有名シェフとコラボ商品をリリース
-- Iraqi political factions maneuver to form alliances after election
-  - イラクの政党連合　総選挙から2か月以上で政権をめぐる攻防始まる
+青森 八戸でクリスマスマーケット開催 多くの人でにぎわう
+https://news.web.nhk/newsweb/na/na-k10015009801000
 
+[2025-12-21 16:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maia5ycnvf2w)
 
-----
+---
+
+@nhknewsunofficial.bsky.social
+
+京都 「三千院」の僧侶が「托鉢寒行」 新年の家内安全など願う
+https://news.web.nhk/newsweb/na/na-k10015009771000
+
+[2025-12-21 16:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7tbbkia2m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+フィギュア 全日本選手権 アイスダンス 吉田 森田が2連覇
+https://news.web.nhk/newsweb/na/na-k10015009791000
+
+[2025-12-21 16:39:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7o276iq2m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+富山 氷見の神社で宮司が描いた畳4畳分の絵馬 奉納する神事
+https://news.web.nhk/newsweb/na/na-k10015009761000
+
+[2025-12-21 16:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7nuxwsj22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+バレーボール 全日本選手権 女子決勝 大阪マーヴェラスが優勝
+https://news.web.nhk/newsweb/na/na-k10015009781000
+
+[2025-12-21 16:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7ijvn5m2s)
+
+---
+
+@nikkei.com
+
+ドイツ、クリスマスマーケットが厳戒態勢
+www.nikkei.com/article/DGXZQO...
+
+会場では車両が進入できないように障害物を置くなど、物々しい警備態勢が敷かれます。
+
+2024年に東部マクデブルクの市場に車が突入して6人が死亡、300人が負傷する事件が発生。2025年も襲撃計画の疑いで逮捕者が出ました。
+
+SNS上では不安に乗じて反移民感情をあおる偽情報も拡散され、混乱が広がります。
+
+[2025-12-21 16:30:40](https://bsky.app/profile/nikkei.com/post/3mai76ttj6v2y)
+
+---
+
+@japan.reuters.com
+
+米情報機関がまとめた報告によると、ロシアのプーチン大統領はウクライナ全土のほか、旧ソ連に属していた欧州の一部地域を占領する目標をなお放棄していないという。事情に詳しい関係者６人が明らかにした。 bit.ly/48P2c7b
+
+[2025-12-21 16:30:20](https://bsky.app/profile/japan.reuters.com/post/3mai76b3syw2s)
+
+---
 
 @sokuho.news
 
@@ -72,69 +122,6 @@
 You don’t need to be Martha Stewart or Ina Garten to make phenomenal jams. All you need is a little bit of fruit, sugar and a clean jar. https://cnn.it/4p6cIMk
 
 [2025-12-21 16:05:01](https://bsky.app/profile/cnn.com/post/3mai5qyon422v)
-
----
-
-@reuters.com
-
-Lakers G Luka Doncic (leg contusion) ruled out vs. Clippers reut.rs/4q7HK7X
-
-[2025-12-21 16:00:45](https://bsky.app/profile/reuters.com/post/3mai5jdr4hi2o)
-
----
-
-@nikkei.com
-
-「きのこの山vsたけのこの里」有名シェフが参戦　明治がコラボ商品
-www.nikkei.com/article/DGXZQO...
- 
-「クラブハリエ」の山本隆夫シェフと「シェ・シバタ」の柴田武シェフとのコラボ商品を開発。2026年1月16日からバレンタイン期間限定で販売します。
- 
-永遠の論争は「MONTAGNE À LA TRUFFE（モンターニュ・ア・ラ・トリュフ）」vs「Ultimate Takenoko（アルティメット　タケノコ）」に。
-
-[2025-12-21 16:00:40](https://bsky.app/profile/nikkei.com/post/3mai5j6ynar2x)
-
----
-
-@apnews.com
-
-Political factions in Iraq have been maneuvering since the parliamentary election more than a month ago to form alliances that will shape the next government. The November election didn’t produce a bloc with a decisive majority, opening the door to a prolonged period of negotiations.
-
-[2025-12-21 16:00:14](https://bsky.app/profile/apnews.com/post/3mai5ig3ywi22)
-
----
-
-@cnbc.com
-
-Glassdoor compared mentions of “fatigue” across the Glassdoor Community from Jan. 1 to Nov. 18, 2025, to mentions from all of 2024 and saw a 41% spike.
-
-Here's why workers are feeling more burnout.
-
-[2025-12-21 16:00:13](https://bsky.app/profile/cnbc.com/post/3mai5ifgs7f25)
-
----
-
-@wsj.com
-
-Heard on the Street: The U.S. got lucky during hurricane season. That could help lower insurance costs next year. But don’t bet on too much.
-
-[2025-12-21 16:00:10](https://bsky.app/profile/wsj.com/post/3mai5id3rzr2r)
-
----
-
-@washingtonpost.com
-
-Advice: Traveling has always come with complications. This column weighs in on your obligations to your partner if they’ve neglected to enroll in a service that speeds up the airport security line. 
-
-[2025-12-21 16:00:08](https://bsky.app/profile/washingtonpost.com/post/3mai5iatcxz2b)
-
----
-
-@aljazeera.com
-
-‘Slap in the face’: Epstein victims slam release of heavily-redacted files https://aje.io/a0ado4
-
-[2025-12-21 16:00:03](https://bsky.app/profile/aljazeera.com/post/3mai5i4jxev2e)
 
 ---
 
