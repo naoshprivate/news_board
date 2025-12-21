@@ -1,9 +1,9 @@
-# [2025-12-21 17:30 updated](2025_12_21.md)
+# [2025-12-21 17:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts <a href="https://bsky.app/profile/cnbc.com/post/3maic3vs7wx2x" target="_blank">cnbc.com</a> (2025-12-21 17:22:43)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大阪自民の復活へ導けるか 松川るい参院議員が府連会長に正式に就任 (2025-12-21 17:08:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maibrioie42v" target="_blank">sokuho.news</a> (2025-12-21 17:16:53)</span><span style="padding-right:50px;">FIS boss Eliasch concerned about venue delays at Milano Cortina Games reut.rs/3Y6OB58 <a href="https://bsky.app/profile/reuters.com/post/3maiboeig7z2b" target="_blank">reuters.com</a> (2025-12-21 17:15:08)</span><span style="padding-right:50px;">長崎 五島 サンタの衣装着て天主堂目指すチャリティーイベント https://news.web.nhk/newsweb/na/na-k10015009821000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maibdo6zyc24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 17:09:07)</span><span style="padding-right:50px;">クリスマス前に親子で“気を遣わずに楽しむ”コンサート 滋賀 https://news.web.nhk/newsweb/na/na-k10015009811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maibdj7noe26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 17:09:02)</span>
+<span style="padding-right:50px;">A Kremlin envoy says peace talks in Florida on a U.S.-proposed plan to end the war in Ukraine are proceeding constructively, after U.S. meetings with Ukrainian and European officials in Berlin. n.pr/3KHBzYL <a href="https://bsky.app/profile/npr.org/post/3maid2oebmy2b" target="_blank">npr.org</a> (2025-12-21 17:39:55)</span><span style="padding-right:50px;">BREAKING: Nine people have died and at least 10 others were wounded after a group of gunmen carried out a shooting at a South African pub, authorities said. <a href="https://bsky.app/profile/apnews.com/post/3maid2j6vrt2p" target="_blank">apnews.com</a> (2025-12-21 17:39:50)</span><span style="padding-right:50px;">経産省 国産AI開発へ 来年度から5年間 1兆円規模の支援検討へ https://news.web.nhk/newsweb/na/na-k10015009831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maicz6po6v2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 17:39:03)</span><span style="padding-right:50px;">吉田正尚 WBCについて「出場があるないにかかわらず 調整」 https://news.web.nhk/newsweb/na/na-k10015009841000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maictt7vb52u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 17:36:03)</span><span style="padding-right:50px;">With its budget deficit worsening, California is pulling back on a policy that extended government-supported healthcare to immigrants living in the country unlawfully. <a href="https://bsky.app/profile/wsj.com/post/3maicpjvl3n2z" target="_blank">wsj.com</a> (2025-12-21 17:33:41)</span>
   </div>
 </div>
 
@@ -32,111 +32,94 @@
 
 ## News Headlines
 
-- AI behind over 50,000 layoffs in 2025, top firms cited
-  - エサインシュイトエントラールに平に一丂为50万にのエサインシュイトエントラール
-- Japan's FIS boss concerned about venue delays at Milano Cortina Games
-  - 私国のFIS詨りのサンタローサインシュイトエントラールに得を定いんするバール
-- US, UK, and Germany condemn Russian invasion of Ukraine
-  - アサインシュイトエントラールにサンタローサインシュイトエントラールに海ただ
-- Israeli PM discusses possible attack on Iran missile facility
-  - アサインシュイトエントラールに巨小を以にからのバールを試しい
-- Japan's high school students participate in charity event dressed as Santa
-  - 私国にサライドタエントラールにサンタローサインシュイトエントラールにバールを定い
-- Japan's NHK reports on Christmas market in Tokyo
-  - 私国にサライドタエントラールにサンタローサインシュイトエントラールにバールを定い
-
+[{"en": "Kremlin envoy says peace talks in Florida on a U.S.-proposed plan to end the war in Ukraine are proceeding constructively", "jp": "\u6771\u4eac\u90fd\u89e3\u3044\u7ba1\u7406\u306b\u72fc\u308b\u6771\u4eac\u90fd\u306e\u5b89\u5168\u8a92\u5927\u306b\u4f50\u306a\u3057\u305f\u3044\u6027\u306b\u529b\u3092\u3044\u308b"}, {"en": "BREAKING: Nine people have died and at least 10 others were wounded after a group of gunmen carried out a shooting at a South African pub", "jp": "\u5b89\u4e84\u3067\u9152\u306e\u4eba\u306b\u5e74\u4e2d\u306a\u4e09\u4eba\u306b\u5f4\u954b\u4e92\u306b\u4e0a\u901f\u304c\u5b8c\u306a"}, {"en": "Japan to consider providing 1 trillion yen in support for domestic AI development over 5 years", "jp": "\u6771\u4eac\u306b\u5e74\u4e2d\u306b1\u4e09\u4eac\u5e01\u524d\u306e\u624b\u672c\u306b\u6d88\u6f38\u3067\u305f\u3044\u6027\u306b\u5c06\u3044\u308b"}, {"en": "Trump's promises at Turning Point's AmericaFest last year remain unfulfilled", "jp": "\u30c8\u30e1\u30a4\u30f3\u30b9\u30bf\u30a2\u30a4\u30a2\u30b5\u30a4\u30b7\u30e7\u30ca\u306e\u30c8\u30e1\u30a4\u30f3\u30b9\u30bf\u30a2\u30a4\u30a2\u30b5\u30a4\u30b7\u30e7\u30ca\u306b\u5f88\u3044\u308b\u3068\u306f\u304d\u3060"}, {"en": "Saudi Arabia quietly expands access to alcohol sales", "jp": "\u30b5\u30a3\u30c7\u30a3\u30b6\u30e6\u304c\u6b39\u3044\u306b\u5d0f\u306a\u3060\u305f\u3044\u672c\u3092\u4e0d\u306a\u3044\u305f\u3044\u60c5\u5834\u3092\u4f1a\u3044\u308b"}, {"en": "AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts", "jp": "\u30a8\u30a4\u3067\u30d2\u30f3\u30b9\u30c8\u30a3\u30b3\u30fc\u306b\u5e74\u4e2d\u306a\u3068\u6b39\u3044\u306a\u4e00\u4e23\u4e01\u4e09\u4e01\u306f\u3068\u3044\u308b\u3067\u5f53\u5e74\u306b\u4e0a\u901f\u304c\u5b8c\u306a"}]
 
 ----
+
+@npr.org
+
+A Kremlin envoy says peace talks in Florida on a U.S.-proposed plan to end the war in Ukraine are proceeding constructively, after U.S. meetings with Ukrainian and European officials in Berlin. n.pr/3KHBzYL
+
+[2025-12-21 17:39:55](https://bsky.app/profile/npr.org/post/3maid2oebmy2b)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Nine people have died and at least 10 others were wounded after a group of gunmen carried out a shooting at a South African pub, authorities said.</strong>
+
+[2025-12-21 17:39:50](https://bsky.app/profile/apnews.com/post/3maid2j6vrt2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+経産省 国産AI開発へ 来年度から5年間 1兆円規模の支援検討へ
+https://news.web.nhk/newsweb/na/na-k10015009831000
+
+[2025-12-21 17:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maicz6po6v2v)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+吉田正尚 WBCについて「出場があるないにかかわらず 調整」
+https://news.web.nhk/newsweb/na/na-k10015009841000
+
+[2025-12-21 17:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maictt7vb52u)
+
+---
+
+@wsj.com
+
+With its budget deficit worsening, California is pulling back on a policy that extended government-supported healthcare to immigrants living in the country unlawfully.
+
+[2025-12-21 17:33:41](https://bsky.app/profile/wsj.com/post/3maicpjvl3n2z)
+
+---
+
+@nikkei.com
+
+アオリイカが複雑に擬態、捕食者の目を欺く（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+左右対称の物体を感知しやすい捕食者の特性を利用し、アオリイカは腕を片方に投げ出す非対称の姿勢を取っていました。
+
+さらに仲間同士で集まって岩に見せかけたり、体の表面に不規則な模様を作ったりすることも分かりました。
+
+[2025-12-21 17:30:40](https://bsky.app/profile/nikkei.com/post/3maick55ut62y)
+
+---
+
+@japan.reuters.com
+
+米誌フォーブスの長者番付によると、米電気自動車（ＥＶ）大手テスラのイーロン・マスク最高経営責任者（ＣＥＯ）の純資産が１９日までに約７４９０億ドルとなり、初めて７０００億ドルを突破した。 bit.ly/3MN4oni
+
+[2025-12-21 17:30:16](https://bsky.app/profile/japan.reuters.com/post/3maicjgmd7z2s)
+
+---
+
+@apnews.com
+
+Saudi Arabia has quietly expanded access to its only store that sells alcohol, allowing wealthy foreign residents to buy booze in the latest step in the once-ultraconservative kingdom’s experiment in liberalization.
+
+[2025-12-21 17:30:08](https://bsky.app/profile/apnews.com/post/3maicj6gaux25)
+
+---
+
+@aljazeera.com
+
+PM Albanese announces review of Australia’s law enforcement and intelligence agencies after deadly Bondi Beach attack.
+
+[2025-12-21 17:30:04](https://bsky.app/profile/aljazeera.com/post/3maicj2samj2e)
+
+---
 
 @cnbc.com
 
 AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts
 
 [2025-12-21 17:22:43](https://bsky.app/profile/cnbc.com/post/3maic3vs7wx2x)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】大阪自民の復活へ導けるか 松川るい参院議員が府連会長に正式に就任
-(2025-12-21 17:08:00) #ニュース
-
-[2025-12-21 17:16:53](https://bsky.app/profile/sokuho.news/post/3maibrioie42v)
-
----
-
-@reuters.com
-
-FIS boss Eliasch concerned about venue delays at Milano Cortina Games reut.rs/3Y6OB58
-
-[2025-12-21 17:15:08](https://bsky.app/profile/reuters.com/post/3maiboeig7z2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-長崎 五島 サンタの衣装着て天主堂目指すチャリティーイベント
-https://news.web.nhk/newsweb/na/na-k10015009821000
-
-[2025-12-21 17:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maibdo6zyc24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-クリスマス前に親子で“気を遣わずに楽しむ”コンサート 滋賀
-https://news.web.nhk/newsweb/na/na-k10015009811000
-
-[2025-12-21 17:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maibdj7noe26)
-
----
-
-@reuters.com
-
-Clippers rout Lakers, halt 3 skids; Luka Doncic injures leg reut.rs/4sfHN2X
-
-[2025-12-21 17:05:08](https://bsky.app/profile/reuters.com/post/3maib4if3z424)
-
----
-
-@cnn.com
-
-Many of the promises Trump made at Turning Point’s AmericaFest last year — including “lower prices,” an end to foreign wars and “generational change” — have yet to materialize. 
-
-[2025-12-21 17:04:01](https://bsky.app/profile/cnn.com/post/3maib2ibt7u23)
-
----
-
-@financialtimes.com
-
-Royal Mail’s new pension scheme falls 5% in first six months ft.trib.al/oCwTUlW
-
-[2025-12-21 17:01:41](https://bsky.app/profile/financialtimes.com/post/3maiawckt6a24)
-
----
-
-@nikkei.com
-
-スーパー総菜「おいしいもの総選挙2025」、最高グランプリはフジ「おばあちゃん巻き」
-www.nikkei.com/article/DGXZQO...
-
-中四国スーパー大手・フジの手巻きずし「十品目のおばあちゃん巻き」は8個入りで753円。
-
-店では20年以上前から売るロングセラーで、手巻きの質にこだわるあまり、社内検定に合格した従業員のみが調理できる仕組みをとっています。
-
-特別賞の「コスパ最強賞」には、2024年に続いて大阪の名物格安店「スーパー玉出」が選ばれました。
-
-[2025-12-21 17:00:56](https://bsky.app/profile/nikkei.com/post/3maiauxlkjy2f)
-
----
-
-@japan.reuters.com
-
-ノーム米国土安全保障省長官は２０日、沿岸警備隊がベネズエラ沖の国際水域で石油タンカーを拿捕（だほ）したと発表した。米国がベネズエラ沖で石油タンカーを拿捕するのは今月１０日に続き２隻目。 bit.ly/4s5Zjq8
-
-[2025-12-21 17:00:24](https://bsky.app/profile/japan.reuters.com/post/3maiatz2tp62q)
 
 ---
 
