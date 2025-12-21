@@ -1,9 +1,9 @@
-# [2025-12-22 02:30 updated](2025_12_22.md)
+# [2025-12-22 02:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Donald Trump is finding the Epstein files are hard to shake. <a href="https://bsky.app/profile/wsj.com/post/3majaioa5nu2h" target="_blank">wsj.com</a> (2025-12-22 02:26:43)</span><span style="padding-right:50px;">Tigers, RHP Kyle Finnegan finalize 2-year, $19M contract reut.rs/3L9RU8C <a href="https://bsky.app/profile/reuters.com/post/3majafsvhqj23" target="_blank">reuters.com</a> (2025-12-22 02:25:07)</span><span style="padding-right:50px;">At Turning Point USA’s annual gathering, speakers scarcely mentioned Democrats and other liberal figures. Instead, some of the most prominent right-wing leaders in the U.S. insulted members of their own movement, revealing serious rifts. <a href="https://bsky.app/profile/nytimes.com/post/3majafnafl32y" target="_blank">nytimes.com</a> (2025-12-22 02:25:01)</span><span style="padding-right:50px;">Disney's 'Avatar: Fire and Ash' disappoints with weak $88 million domestic opening <a href="https://bsky.app/profile/cnbc.com/post/3majaayi3d224" target="_blank">cnbc.com</a> (2025-12-22 02:22:25)</span><span style="padding-right:50px;">Dan Quinn’s Washington Commanders showed more fight after a late 2-point conversion by the Philadelphia Eagles than they have during many plays and games in this 4-11 season filled with lopsided losses. <a href="https://bsky.app/profile/apnews.com/post/3maj7s2scl522" target="_blank">apnews.com</a> (2025-12-22 02:14:05)</span>
+<span style="padding-right:50px;">Bissouma to miss Mali’s Cup of Nations opener reut.rs/48RMOa8 <a href="https://bsky.app/profile/reuters.com/post/3majbjoqpqj2x" target="_blank">reuters.com</a> (2025-12-22 02:45:11)</span><span style="padding-right:50px;">Rosemary Westwood from member station WWNO asked a few of New Orlean's favorite musicians about the songs they like to listen to around Christmas. n.pr/4p5Oqly <a href="https://bsky.app/profile/npr.org/post/3majbfhttvw23" target="_blank">npr.org</a> (2025-12-22 02:42:49)</span><span style="padding-right:50px;">Yamal strikes as Barcelona punish 10-man Villarreal reut.rs/496LpLW <a href="https://bsky.app/profile/reuters.com/post/3majaxo66y62c" target="_blank">reuters.com</a> (2025-12-22 02:35:06)</span><span style="padding-right:50px;">Britons are drinking less alcohol than before, as financial pressures, health concerns and an ageing population lead to cutbacks in consumption ft.trib.al/rad0Hny <a href="https://bsky.app/profile/financialtimes.com/post/3majas7fei22q" target="_blank">financialtimes.com</a> (2025-12-22 02:32:03)</span><span style="padding-right:50px;">For two decades, he’s fought wildfires for the U.S. government, often doing the most toxic work. Now, this undocumented firefighter is facing cancer, the threat of ICE and the prospect of not being around for his 11-year-old. trib.al/oFVlAPB <a href="https://bsky.app/profile/nytimes.com/post/3majapsew322c" target="_blank">nytimes.com</a> (2025-12-22 02:30:42)</span>
   </div>
 </div>
 
@@ -32,93 +32,96 @@
 
 ## News Headlines
 
-- Trump struggles to shake off Epstein files
-- Tigers, RHP Kyle Finnegan finalize $19M contract
-- Turning Point USA leaders clash at annual gathering
-- Disney's 'Avatar: The Way of Water' disappoints with weak opening
-- Italy's Saipem wins $4 billion offshore contract in Qatar
-- Third 'Avatar' film breaks box office records with $345 million opening
+- Bissouma to miss Mali’s Cup of Nations opener
+- New Orlean's Musicians Share Their Favorite Christmas Songs
+- Barcelona Punish 10-man Villarreal with Yamal Strike
+- Britons Drink Less Alcohol Due to Financial Pressures and Health Concerns
+- Undocumented Firefighter Battles Cancer and ICE Threats
+- Tigers Sign RHP Kyle Finnegan to 2-year, $19M Contract
 
 
 ----
 
-@wsj.com
+@reuters.com
 
-Donald Trump is finding the Epstein files are hard to shake.
+Bissouma to miss Mali’s Cup of Nations opener reut.rs/48RMOa8
 
-[2025-12-22 02:26:43](https://bsky.app/profile/wsj.com/post/3majaioa5nu2h)
+[2025-12-22 02:45:11](https://bsky.app/profile/reuters.com/post/3majbjoqpqj2x)
+
+---
+
+@npr.org
+
+Rosemary Westwood from member station WWNO asked a few of New Orlean's favorite musicians about the songs they like to listen to around Christmas. n.pr/4p5Oqly
+
+[2025-12-22 02:42:49](https://bsky.app/profile/npr.org/post/3majbfhttvw23)
 
 ---
 
 @reuters.com
 
-Tigers, RHP Kyle Finnegan finalize 2-year, $19M contract reut.rs/3L9RU8C
+Yamal strikes as Barcelona punish 10-man Villarreal reut.rs/496LpLW
 
-[2025-12-22 02:25:07](https://bsky.app/profile/reuters.com/post/3majafsvhqj23)
-
----
-
-@nytimes.com
-
-At Turning Point USA’s annual gathering, speakers scarcely mentioned Democrats and other liberal figures. Instead, some of the most prominent right-wing leaders in the U.S. insulted members of their own movement, revealing serious rifts.
-
-[2025-12-22 02:25:01](https://bsky.app/profile/nytimes.com/post/3majafnafl32y)
-
----
-
-@cnbc.com
-
-Disney's 'Avatar: Fire and Ash' disappoints with weak $88 million domestic opening
-
-[2025-12-22 02:22:25](https://bsky.app/profile/cnbc.com/post/3majaayi3d224)
-
----
-
-@apnews.com
-
-Dan Quinn’s Washington Commanders showed more fight after a late 2-point conversion by the Philadelphia Eagles than they have during many plays and games in this 4-11 season filled with lopsided losses.
-
-[2025-12-22 02:14:05](https://bsky.app/profile/apnews.com/post/3maj7s2scl522)
-
----
-
-@reuters.com
-
-Italy's Saipem wins offshore contract in Qatar for about $4 billion reut.rs/3MLPjSQ
-
-[2025-12-22 02:10:10](https://bsky.app/profile/reuters.com/post/3maj7l3o5c62r)
-
----
-
-@nytimes.com
-
-While President Trump has lagged behind his predecessors in the number of official appearances in his second term in office, he has relentlessly pursued the public’s attention in other ways on a daily, and sometimes even hourly, basis, a New York Times analysis shows. trib.al/nf83ouc
-
-[2025-12-22 02:09:11](https://bsky.app/profile/nytimes.com/post/3maj7jcpbqk2c)
-
----
-
-@yahoofinance.com
-
-Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact
-
-[2025-12-22 02:06:06](https://bsky.app/profile/yahoofinance.com/post/3maj7dsk2us2j)
+[2025-12-22 02:35:06](https://bsky.app/profile/reuters.com/post/3majaxo66y62c)
 
 ---
 
 @financialtimes.com
 
- Europe needs strategic purpose matched with action ft.trib.al/b1r1nRQ  | opinion
+Britons are drinking less alcohol than before, as financial pressures, health concerns and an ageing population lead to cutbacks in consumption ft.trib.al/rad0Hny
 
-[2025-12-22 02:03:19](https://bsky.app/profile/financialtimes.com/post/3maj76tmgwl2f)
+[2025-12-22 02:32:03](https://bsky.app/profile/financialtimes.com/post/3majas7fei22q)
 
 ---
 
-@wsj.com
+@nytimes.com
 
-Some of this year’s hottest gifts measure blood glucose and gut microbiomes. There is the “judginess” factor to consider. on.wsj.com/3MMVqpY
+For two decades, he’s fought wildfires for the U.S. government, often doing the most toxic work. Now, this undocumented firefighter is facing cancer, the threat of ICE and the prospect of not being around for his 11-year-old. trib.al/oFVlAPB
 
-[2025-12-22 02:01:04](https://bsky.app/profile/wsj.com/post/3maj72t3zk52t)
+[2025-12-22 02:30:42](https://bsky.app/profile/nytimes.com/post/3majapsew322c)
+
+---
+
+@bloomberg.com
+
+Would you eat an antelope? A 12-hour hunt for an invasive species shows how America’s appetite for wild meat is reshaping conservation and culture.
+
+[2025-12-22 02:30:23](https://bsky.app/profile/bloomberg.com/post/3majap7l4j523)
+
+---
+
+@usatoday.com
+
+Jordan Firstman has never shied away from controversy. But with "I Love LA" and a "very emotional" new movie, the viral comedian is growing up.
+
+[2025-12-22 02:30:14](https://bsky.app/profile/usatoday.com/post/3majaowwy2525)
+
+---
+
+@reuters.com
+
+🔊 The news cycle of 2025 was lot to keep up with. But if you’re Alessandra Galloni, that’s the gig. Our editor-in-chief joins this week’s On Assignment podcast to discuss the year that was and the year to come. Listen here reut.rs/4p6zLXh
+
+[2025-12-22 02:30:06](https://bsky.app/profile/reuters.com/post/3majaopph5c2q)
+
+---
+
+@en.afp.com
+
+Allegations of a fresh cover-up over the Jeffrey Epstein files grew Sunday, as Democrats accused President Donald Trump of trying to protect himself by defying an order to release all files on the convicted sex offender.
+
+u.afp.com/S8TH
+
+[2025-12-22 02:30:04](https://bsky.app/profile/en.afp.com/post/3majaonwevb2d)
+
+---
+
+@cbsnews.com
+
+Turner Classic Movies host Ben Mankiewicz looks back at the work of actor and director Rob Reiner, whose films became part of our shared cinematic language because of their humor, drama, and aching belief in humanity.
+
+
+[2025-12-22 02:30:01](https://bsky.app/profile/cbsnews.com/post/3majaokzn3o2i)
 
 ---
 
