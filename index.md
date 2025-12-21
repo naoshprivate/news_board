@@ -1,9 +1,9 @@
-# [2025-12-21 16:10 updated](2025_12_21.md)
+# [2025-12-21 16:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">You don’t need to be Martha Stewart or Ina Garten to make phenomenal jams. All you need is a little bit of fruit, sugar and a clean jar. https://cnn.it/4p6cIMk <a href="https://bsky.app/profile/cnn.com/post/3mai5qyon422v" target="_blank">cnn.com</a> (2025-12-21 16:05:01)</span><span style="padding-right:50px;">Lakers G Luka Doncic (leg contusion) ruled out vs. Clippers reut.rs/4q7HK7X <a href="https://bsky.app/profile/reuters.com/post/3mai5jdr4hi2o" target="_blank">reuters.com</a> (2025-12-21 16:00:45)</span><span style="padding-right:50px;">「きのこの山vsたけのこの里」有名シェフが参戦　明治がコラボ商品 www.nikkei.com/article/DGXZQO...   「クラブハリエ」の山本隆夫シェフと「シェ・シバタ」の柴田武シェフとのコラボ商品を開発。2026年1月16日からバレンタイン期間限定で販売します。   永遠の論争は「MONTAGNE À LA TRUFFE（モンターニュ・ア・ラ・トリュフ）」vs「Ultimate Takenoko（アルティメット　タケノコ）」に。 <a href="https://bsky.app/profile/nikkei.com/post/3mai5j6ynar2x" target="_blank">nikkei.com</a> (2025-12-21 16:00:40)</span><span style="padding-right:50px;">Political factions in Iraq have been maneuvering since the parliamentary election more than a month ago to form alliances that will shape the next government. The November election didn’t produce a bloc with a decisive majority, opening the door to a prolonged period of negotiations. <a href="https://bsky.app/profile/apnews.com/post/3mai5ig3ywi22" target="_blank">apnews.com</a> (2025-12-21 16:00:14)</span><span style="padding-right:50px;">Glassdoor compared mentions of “fatigue” across the Glassdoor Community from Jan. 1 to Nov. 18, 2025, to mentions from all of 2024 and saw a 41% spike.  Here's why workers are feeling more burnout. <a href="https://bsky.app/profile/cnbc.com/post/3mai5ifgs7f25" target="_blank">cnbc.com</a> (2025-12-21 16:00:13)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「平屋の軒から黒煙と火が見える」と通報 北海道室蘭市の平屋住宅で火事 1人負傷 (2025-12-21 15:39:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mai6weedc22b" target="_blank">sokuho.news</a> (2025-12-21 16:25:55)</span><span style="padding-right:50px;">イスラエルが今年６月に攻撃したイランの弾道ミサイル施設における生産拡大に懸念を強めており、ネタニヤフ首相がトランプ米大統領との会談で再攻撃の可能性について説明する準備を進めていると、米ＮＢＣテレビが２０日報じた。 bit.ly/3KIF8hn <a href="https://bsky.app/profile/japan.reuters.com/post/3mai65w2ynz2n" target="_blank">japan.reuters.com</a> (2025-12-21 16:12:15)</span><span style="padding-right:50px;">You don’t need to be Martha Stewart or Ina Garten to make phenomenal jams. All you need is a little bit of fruit, sugar and a clean jar. https://cnn.it/4p6cIMk <a href="https://bsky.app/profile/cnn.com/post/3mai5qyon422v" target="_blank">cnn.com</a> (2025-12-21 16:05:01)</span><span style="padding-right:50px;">Lakers G Luka Doncic (leg contusion) ruled out vs. Clippers reut.rs/4q7HK7X <a href="https://bsky.app/profile/reuters.com/post/3mai5jdr4hi2o" target="_blank">reuters.com</a> (2025-12-21 16:00:45)</span><span style="padding-right:50px;">「きのこの山vsたけのこの里」有名シェフが参戦　明治がコラボ商品 www.nikkei.com/article/DGXZQO...   「クラブハリエ」の山本隆夫シェフと「シェ・シバタ」の柴田武シェフとのコラボ商品を開発。2026年1月16日からバレンタイン期間限定で販売します。   永遠の論争は「MONTAGNE À LA TRUFFE（モンターニュ・ア・ラ・トリュフ）」vs「Ultimate Takenoko（アルティメット　タケノコ）」に。 <a href="https://bsky.app/profile/nikkei.com/post/3mai5j6ynar2x" target="_blank">nikkei.com</a> (2025-12-21 16:00:40)</span>
   </div>
 </div>
 
@@ -32,29 +32,40 @@
 
 ## News Headlines
 
-- Don't need to be a pro to make phenomenal jams
-  - プロでもなくとも、素敵なジャムを作る
+- Black smoke and fire seen from a one-story house in Hokkaido
+  - 北海道の平屋住宅から黒煙と火が見える
+- Israel Prime Minister weighs possibility of another attack on Iran
+  - イスラエル首相　イランに再攻撃の可能性を考える
+- Jams don't have to be a Martha Stewart dish
+  - マーサ・スチュワートではない人でも、地味なジャムを作ることができる
 - Lakers' Luka Doncic ruled out vs. Clippers
-  - レイカーズのルカ・ドンチッチ、クライパーズ戦欠場
-- Lakers' Luka Doncic ruled out vs. Clippers
-  - レイカーズのルカ・ドンチッチ、クライパーズ戦欠場
-- US got lucky during hurricane season
-  - ハリケーンシーズン、米国が幸運にもなった
-- Slap in the face: Epstein victims slam release of heavily-redacted files
-  - ジェフリー・エプスタインの被害者、重版のファイルの公開に激怒
-- Japan's prime minister to move into official residence
-  - 内閣総理大臣が公邸入りする
-- Strong earthquake hits near Amami Oshima
-  - 奄美大島近海で地震が発生
-- Gunmen kill nine in South Africa tavern attack
-  - 南アフリカの店内で銃撃事件、9人死亡
-- Ireland's Latham and Conway hit hundreds again
-  - アイルランドのラサムとコンウェイ、再び100点以上
-- Japan's high school runners shine at national championships
-  - 全国高校駅伝男子の学法石川が初優勝
+  - レイカーズのドンチッチ選手　クリッパーズ戦欠場
+- Meiji to release Valentine's Day collaboration product
+  - 明治がバレンタインに有名シェフとコラボ商品をリリース
+- Iraqi political factions maneuver to form alliances after election
+  - イラクの政党連合　総選挙から2か月以上で政権をめぐる攻防始まる
 
 
 ----
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】「平屋の軒から黒煙と火が見える」と通報 北海道室蘭市の平屋住宅で火事 1人負傷
+(2025-12-21 15:39:00) #ニュース
+
+[2025-12-21 16:25:55](https://bsky.app/profile/sokuho.news/post/3mai6weedc22b)
+
+---
+
+@japan.reuters.com
+
+イスラエルが今年６月に攻撃したイランの弾道ミサイル施設における生産拡大に懸念を強めており、ネタニヤフ首相がトランプ米大統領との会談で再攻撃の可能性について説明する準備を進めていると、米ＮＢＣテレビが２０日報じた。 bit.ly/3KIF8hn
+
+[2025-12-21 16:12:15](https://bsky.app/profile/japan.reuters.com/post/3mai65w2ynz2n)
+
+---
 
 @cnn.com
 
@@ -124,28 +135,6 @@ Advice: Traveling has always come with complications. This column weighs in on y
 ‘Slap in the face’: Epstein victims slam release of heavily-redacted files https://aje.io/a0ado4
 
 [2025-12-21 16:00:03](https://bsky.app/profile/aljazeera.com/post/3mai5i4jxev2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相 内閣発足2か月 “近く公邸に入居する” 「X」に投稿
-https://news.web.nhk/newsweb/na/na-k10015009751000
-
-[2025-12-21 16:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai5i4xjrr2d)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3🈡
-(2025-12-21 15:59:41) #緊急地震速報
-
-[2025-12-21 15:59:48](https://bsky.app/profile/sokuho.news/post/3mai5hng4it2v)
 
 ---
 
