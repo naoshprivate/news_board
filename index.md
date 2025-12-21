@@ -1,9 +1,9 @@
-# [2025-12-21 19:30 updated](2025_12_21.md)
+# [2025-12-21 19:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">豪 シドニー 銃撃事件から1週間 現場で大規模な追悼集会 https://news.web.nhk/newsweb/na/na-k10015009991000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiipkuqvt2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 19:21:02)</span><span style="padding-right:50px;">東京デフリンピックでメダル獲得の陸上選手らが感謝のイベント https://news.web.nhk/newsweb/na/na-k10015009901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maii7me4bk22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 19:12:07)</span><span style="padding-right:50px;">横浜 泉区の工場で火災 男性1人がけが https://news.web.nhk/newsweb/na/na-k10015009891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maii7gybfg2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 19:12:02)</span><span style="padding-right:50px;">立民 吉田代表代行“来年度予算案 物価高対応実効性問われる” https://news.web.nhk/newsweb/na/na-k10015009951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maii24bezp2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 19:09:02)</span><span style="padding-right:50px;">Asian Football Confederation to launch Nations League competition reut.rs/4pPJB0Y <a href="https://bsky.app/profile/reuters.com/post/3maiht2npp42o" target="_blank">reuters.com</a> (2025-12-21 19:05:08)</span>
+<span style="padding-right:50px;">Congress is wrapping up the year without a lot of legislative accomplishments under its belt and a growing list of lawmakers who are retiring. Former members say the challenges on Capitol Hill have been brewing for a long time. n.pr/3L60qp3 <a href="https://bsky.app/profile/npr.org/post/3maik2rbqg32m" target="_blank">npr.org</a> (2025-12-21 19:45:14)</span><span style="padding-right:50px;">タイとカンボジアの軍事衝突 非難の応酬続き収束見通せず https://news.web.nhk/newsweb/na/na-k10015009721000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maik2ii4xv2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 19:45:03)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】B1長崎ヴェルカ 11連勝で首位キープ サンロッカーズ渋谷に連勝《長崎》 (2025-12-21 19:35) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maijkcm2fl27" target="_blank">sokuho.news</a> (2025-12-21 19:36:02)</span><span style="padding-right:50px;">🇺🇦 🇷🇺 🇺🇸 The Kremlin on Sunday denied that three-way talks between Ukraine, Russia and the United States were on the cards, as diplomats gathered in Miami for talks on ending the conflict in Ukraine ➡️ u.afp.com/S8S9 <a href="https://bsky.app/profile/en.afp.com/post/3maijif7cjy2u" target="_blank">en.afp.com</a> (2025-12-21 19:34:58)</span><span style="padding-right:50px;">Essex is at the heart of the UK government’s AI ambitions — plans that could radically reshape British society and politics. <a href="https://bsky.app/profile/bloomberg.com/post/3maij7qxpp623" target="_blank">bloomberg.com</a> (2025-12-21 19:30:08)</span>
   </div>
 </div>
 
@@ -32,21 +32,67 @@
 
 ## News Headlines
 
-- One Week After Sydney Shooting, Community Mourns
-  - 豪 シドニー銃撃事件から1週間
-- Sydney Holds Vigil for Shooting Victims
-  - 豪 シドニーで銃撃事件の犠牲者を追悼する集会
-- Fire in Yokohama Factory Injures One
-  - 横浜 泉区の工場で火災
-- Japan's LDP Eyes Budget to Counter Inflation
-  - 立民 吉田代表代行「来年度予算案
-- Australia's Pat Cummins Wins Cricket Test
-  - アスリートのパット・カムニス
-- Moscow Says Ukraine Talks Are Progressing
-  - ウクライナの平和交渉進捗
+- US Congress Wraps Up Year with Few Legislative Accomplishments
+- Japan's AI Ambitions Could Radically Reshape Society and Politics
+- Japan's AI Ambitions Could Radically Reshape Society and Politics
+- Swedish Customs Boards Russian Ship in Swedish Waters to Conduct Inspection
+- Millions of Homeowners Are Still Locked into Ultralow Mortgage Rates
+- US Says Russia Has Not Abandoned Plan to Annex Parts of Europe
 
 
 ----
+
+@npr.org
+
+Congress is wrapping up the year without a lot of legislative accomplishments under its belt and a growing list of lawmakers who are retiring. Former members say the challenges on Capitol Hill have been brewing for a long time. n.pr/3L60qp3
+
+[2025-12-21 19:45:14](https://bsky.app/profile/npr.org/post/3maik2rbqg32m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+タイとカンボジアの軍事衝突 非難の応酬続き収束見通せず
+https://news.web.nhk/newsweb/na/na-k10015009721000
+
+[2025-12-21 19:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maik2ii4xv2w)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】B1長崎ヴェルカ 11連勝で首位キープ サンロッカーズ渋谷に連勝《長崎》
+(2025-12-21 19:35) #ニュース
+
+[2025-12-21 19:36:02](https://bsky.app/profile/sokuho.news/post/3maijkcm2fl27)
+
+---
+
+@en.afp.com
+
+🇺🇦 🇷🇺 🇺🇸 The Kremlin on Sunday denied that three-way talks between Ukraine, Russia and the United States were on the cards, as diplomats gathered in Miami for talks on ending the conflict in Ukraine ➡️ u.afp.com/S8S9
+
+[2025-12-21 19:34:58](https://bsky.app/profile/en.afp.com/post/3maijif7cjy2u)
+
+---
+
+@bloomberg.com
+
+Essex is at the heart of the UK government’s AI ambitions — plans that could radically reshape British society and politics.
+
+[2025-12-21 19:30:08](https://bsky.app/profile/bloomberg.com/post/3maij7qxpp623)
+
+---
+
+@aljazeera.com
+
+One Palestinian killed by Israeli army in Gaza while two Palestinians, including a child, are shot dead in West Bank.
+
+[2025-12-21 19:30:04](https://bsky.app/profile/aljazeera.com/post/3maij7nkfbr2p)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -81,64 +127,6 @@ https://news.web.nhk/newsweb/na/na-k10015009891000
 https://news.web.nhk/newsweb/na/na-k10015009951000
 
 [2025-12-21 19:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maii24bezp2l)
-
----
-
-@reuters.com
-
-Asian Football Confederation to launch Nations League competition reut.rs/4pPJB0Y
-
-[2025-12-21 19:05:08](https://bsky.app/profile/reuters.com/post/3maiht2npp42o)
-
----
-
-@nikkei.com
-
-高市内閣、支持率75%で変わらず　日銀の利上げ「評価」55%
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-12-21 19:04:35](https://bsky.app/profile/nikkei.com/post/3maihs2wvg52i)
-
----
-
-@en.afp.com
-
-🇦🇺 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Australia captain Pat Cummins said it felt "pretty awesome" after his dominant team won the third Test in Adelaide to wrap up the Ashes in just 11 days of play after some dogged resistance from England's tail briefly threatened a great escape ➡️ u.afp.com/S8SK
-
-[2025-12-21 19:04:01](https://bsky.app/profile/en.afp.com/post/3maihr2kqxm2f)
-
----
-
-@wsj.com
-
-Hugh Jackman and Kate Hudson cover Neil Diamond in ‘Song Sung Blue,’ Timothée Chalamet plays a ping-pong prodigy in ‘Marty Supreme,’ Kate Winslet makes her directorial debut with ‘Goodbye June,’ and more. on.wsj.com/494Alyy
-
-[2025-12-21 19:01:47](https://bsky.app/profile/wsj.com/post/3maihn36jtx2c)
-
----
-
-@nikkei.com
-
-Zoff、ロリータ×メガネの新ブランド「Zolita TOKYO」　東京・原宿に
-www.nikkei.com/article/DGXZQO...
-
-メガネに取り付けるチャーム（550円〜）を400種類以上、メガネを首にかけるためのひも状の「グラスコード」を約40種類そろえました。
-
-メガネの柄にはチャームやグラスコードを通せるハート形のデザインが施されており、自分のファッションに合わせてカスタムできます。
-
-#ニュース
-
-[2025-12-21 19:00:40](https://bsky.app/profile/nikkei.com/post/3maihl3ehz52i)
-
----
-
-@reuters.com
-
-Swedish customs says it has boarded Russian ship in Swedish waters to conduct inspection reut.rs/4p9AfMe
-
-[2025-12-21 19:00:22](https://bsky.app/profile/reuters.com/post/3maihkk3yu724)
 
 ---
 
