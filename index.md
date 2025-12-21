@@ -1,9 +1,9 @@
-# [2025-12-21 15:30 updated](2025_12_21.md)
+# [2025-12-21 15:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Latham and Conway hit hundreds again as New Zealand sense victory reut.rs/4qkHG43 <a href="https://bsky.app/profile/reuters.com/post/3mai3jn7hv72b" target="_blank">reuters.com</a> (2025-12-21 15:25:07)</span><span style="padding-right:50px;">Gunmen kill nine in South Africa tavern attack <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mai3cde5pr2z" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-21 15:21:01)</span><span style="padding-right:50px;">How Israel's grassroots hostage families group became a powerful international force <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mai2szi7472r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-21 15:12:27)</span><span style="padding-right:50px;">全国高校駅伝 男子 学法石川が初優勝 大会新記録で【全結果】 https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai2mxvck72v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 15:09:03)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  全国高校駅伝 男子 学法石川が初優勝 大会新記録で【全結果】 (2025-12-21 15:05:51) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mai2i26tjd2x" target="_blank">sokuho.news</a> (2025-12-21 15:06:20)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】倉敷市出身の吉田唄菜選手 ミラノ・コルティナ五輪団体戦代表で冬季オリンピックへ【岡山】 (2025-12-21 15:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mai4ogekx22y" target="_blank">sokuho.news</a> (2025-12-21 15:45:41)</span><span style="padding-right:50px;">McCullum concedes mistakes were made after England suffer another Ashes failure reut.rs/4qlfDSj <a href="https://bsky.app/profile/reuters.com/post/3mai4nikavj2s" target="_blank">reuters.com</a> (2025-12-21 15:45:10)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「平屋の軒より、黒煙と火が見える」と通報 北海道室蘭市の平屋住宅で火事 1人負傷 (2025-12-21 15:39:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mai4efqirr2b" target="_blank">sokuho.news</a> (2025-12-21 15:40:05)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】レスリング全日本選手権 グレコ77キロ級で日下尚選手（高松市出身）が優勝【香川】 (2025-12-21 15:25) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mai44jixqe2r" target="_blank">sokuho.news</a> (2025-12-21 15:35:41)</span><span style="padding-right:50px;">ハウス食品「泣かないタマネギ」、1玉100円でも人気 www.nikkei.com/article/DGXZQO...  泣かないタマネギこと「スマイルボール」はハウス食品が独自開発、2013年には「イグ・ノーベル賞」に輝きました。  辛みがないため「生のおいしさ」が売り。安定的な収穫に成功し、将来は全国のスーパーへの展開も視野に入れます。 <a href="https://bsky.app/profile/nikkei.com/post/3mai3tkaqvr2c" target="_blank">nikkei.com</a> (2025-12-21 15:30:40)</span>
   </div>
 </div>
 
@@ -32,21 +32,115 @@
 
 ## News Headlines
 
-- New Zealand on Brink of Victory in Cricket Match
-  - ニュージーランド、クリケットの試合で勝利に近づく
-- Nine Killed in South Africa Tavern Attack
-  - 南アフリカでタバーンに銃撃、9人死亡
-- Israel's Grassroots Hostage Families Group Makes International Impact
-  - イスラエルの地元家族グループ、国際的な影響力を持つ
-- New Zealand High School Relay Team Wins First-Ever Championship Title
-  - 全国高校駅伝男子部門、学法石川が初優勝 大会新記録
-- Tesla CEO Elon Musk's Net Worth Surpasses $7 Trillion
-  - テスラ最高経営責任者マスク氏、純資産約7400億ドル突破
-- Airports to Visit This Holiday Season
-  - このholiday seasonに訪れるべき空港
+- Japanese Athlete to Represent Japan at Winter Olympics
+  - 冬季オリンピックへ吉田唄菜選手が代表に
+- House Fire Leaves One Injured in Hokkaido
+  - 北海道・室蘭市で火事　1人負傷
+- Japanese Wrestler Wins National Championship
+  - レスリング全日本選手権　日下尚選手が優勝
+- Cummins Hails Australia's Resilience in Ashes
+  - クーマンズ氏「オーストラリアがアッシュズで大きな苦難を乗り越える
+- Gunmen Kill Nine in South Africa Tavern Attack
+  - 南アフリカのタバーンで9人死亡
+- Tyrese Haliburton on His Career and Style
+  - ティレーズ・ハリバートン選手が語るキャリアとファッション
+- Risk of Personal Data Leaks from Smartphones and AI
+  - スマホの振動や対話型AIに潜む個人情報流出リスク
+- Elon Musk's Net Worth Surpasses $7 Trillion
+  - イーロン・マスク氏の純資産が約7兆ドルを突破
+- The Best Airports to Stay at in the US
+  - 米国で最も泊まる価値のある空港ランキング
+- Al Jazeera Shifts Role of AI in Journalism
+  - アラブ首長国連邦のメディア「アルジャジーラ」がAIの役割を大きく変える
+- How to Take Your Family on a Holiday Road Trip
+  - 家族でホリデー旅行に大胆に挑戦する方法
+- Prime Minister Fumio Kishida to Move to Official Residence
+  - 高市総理が公邸へ居を移す
+- Tyrese Haliburton Discusses His Career and Style
+  - ティレーズ・ハリバートン選手が語るキャリアとファッション
+- Revolut Clashes with Former Staff over Tax on Share Awards
+  - Revolutと元従業員が株式報酬税の問題で対立
+- Fidelity Pledges Crackdown on Excessive Corporate Pay
+  - ファデリティが高すぎる企業給与を厳しく制限する
+- France's Foot-Dragging Leaves Berlin in the Lead
+  - フランスが足がかりを失い、ベルリンが先行しています
+- Figure Skating National Championships in Japan
+  - フィギュアスケート全日本選手権
+- Investigation into Epstein's Wealth Exposed
+  - エプスタイン氏の財産に関する捜査資料が公開
 
 
 ----
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】倉敷市出身の吉田唄菜選手 ミラノ・コルティナ五輪団体戦代表で冬季オリンピックへ【岡山】
+(2025-12-21 15:40) #ニュース
+
+[2025-12-21 15:45:41](https://bsky.app/profile/sokuho.news/post/3mai4ogekx22y)
+
+---
+
+@reuters.com
+
+McCullum concedes mistakes were made after England suffer another Ashes failure reut.rs/4qlfDSj
+
+[2025-12-21 15:45:10](https://bsky.app/profile/reuters.com/post/3mai4nikavj2s)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】「平屋の軒より、黒煙と火が見える」と通報 北海道室蘭市の平屋住宅で火事 1人負傷
+(2025-12-21 15:39:00) #ニュース
+
+[2025-12-21 15:40:05](https://bsky.app/profile/sokuho.news/post/3mai4efqirr2b)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】レスリング全日本選手権 グレコ77キロ級で日下尚選手（高松市出身）が優勝【香川】
+(2025-12-21 15:25) #ニュース
+
+[2025-12-21 15:35:41](https://bsky.app/profile/sokuho.news/post/3mai44jixqe2r)
+
+---
+
+@nikkei.com
+
+ハウス食品「泣かないタマネギ」、1玉100円でも人気
+www.nikkei.com/article/DGXZQO...
+
+泣かないタマネギこと「スマイルボール」はハウス食品が独自開発、2013年には「イグ・ノーベル賞」に輝きました。
+
+辛みがないため「生のおいしさ」が売り。安定的な収穫に成功し、将来は全国のスーパーへの展開も視野に入れます。
+
+[2025-12-21 15:30:40](https://bsky.app/profile/nikkei.com/post/3mai3tkaqvr2c)
+
+---
+
+@reuters.com
+
+Cummins hails Australia's resilience in dealing with Ashes curveballs reut.rs/49n5U8c
+
+[2025-12-21 15:30:18](https://bsky.app/profile/reuters.com/post/3mai3svzzzp2y)
+
+---
+
+@aljazeera.com
+
+At least nine people have been killed and 10 wounded in a mass shooting in the Bekkersdal township.
+
+[2025-12-21 15:30:03](https://bsky.app/profile/aljazeera.com/post/3mai3shsuk52z)
+
+---
 
 @reuters.com
 
@@ -69,75 +163,6 @@ Gunmen kill nine in South Africa tavern attack
 How Israel's grassroots hostage families group became a powerful international force
 
 [2025-12-21 15:12:27](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mai2szi7472r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-全国高校駅伝 男子 学法石川が初優勝 大会新記録で【全結果】
-https://news.web.nhk/newsweb/na/na-k10015007911000
-
-[2025-12-21 15:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai2mxvck72v)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>全国高校駅伝 男子 学法石川が初優勝 大会新記録で【全結果】</strong><br><strong>(2025-12-21 15:05:51) #ニュース</strong>
-
-[2025-12-21 15:06:20](https://bsky.app/profile/sokuho.news/post/3mai2i26tjd2x)
-
----
-
-@cnn.com
-
-The Indiana Pacers star Tyrese Haliburton packed a career’s worth of heroics into one deep playoff run. He shares his thoughts on what comes next and how to dress for success in our “Annual Self-Assessment.” 
-
-[2025-12-21 15:02:01](https://bsky.app/profile/cnn.com/post/3mai2adhck32c)
-
----
-
-@nikkei.com
-
-スマホの振動・対話型AIに潜む個人情報流出リスク
-www.nikkei.com/article/DGXZQO...
-
-スマホが音声を出す時の振動を手掛かりに通話を盗聴。
-
-対話型AIが使用者の持病や体重を聞き出し。
-
-思わぬ形で情報流出の可能性を指摘する科学研究が現れています。
-
-2025年11月 #注目された記事
-
-[2025-12-21 15:00:39](https://bsky.app/profile/nikkei.com/post/3mai25ux3gg2x)
-
----
-
-@japan.reuters.com
-
-米誌フォーブスの長者番付によると、米電気自動車（ＥＶ）大手テスラのイーロン・マスク最高経営責任者（ＣＥＯ）の純資産が１９日までに約７４９０億ドルとなり、初めて７０００億ドルを突破した。 bit.ly/3Lf31Nz
-
-[2025-12-21 15:00:17](https://bsky.app/profile/japan.reuters.com/post/3mai25aakio2s)
-
----
-
-@washingtonpost.com
-
-Beyond the gray halls of monotony, there exist airports where you may actually want to stay awhile. So we set out to rank the best in the United States.
-
-[2025-12-21 15:00:10](https://bsky.app/profile/washingtonpost.com/post/3mai24zd74s23)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】全国高校駅伝 男女そろって出場した倉敷高校は男子3位 女子6位入賞【岡山】
-(2025-12-21 14:49:00) #ニュース
-
-[2025-12-21 15:00:08](https://bsky.app/profile/sokuho.news/post/3mai24xo4si2v)
 
 ---
 
