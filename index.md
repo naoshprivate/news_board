@@ -1,9 +1,9 @@
-# [2025-12-22 01:10 updated](2025_12_22.md)
+# [2025-12-22 01:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">How Oracle became a ‘poster child’ for AI bubble fears <a href="https://bsky.app/profile/yahoofinance.com/post/3maj3yjfvpo2q" target="_blank">yahoofinance.com</a> (2025-12-22 01:06:06)</span><span style="padding-right:50px;">Managing a full December calendar can quickly take you from festive to frazzled. Psychotherapist Niro Feliciano shares advice on reducing stress and increasing joy this season. <a href="https://bsky.app/profile/npr.org/post/3maj3xpnfys2b" target="_blank">npr.org</a> (2025-12-22 01:05:39)</span><span style="padding-right:50px;">This Roasted Beef Tenderloin recipe is a holiday splurge that comes together quickly but still feels festive. nyti.ms/48Wk8LT <a href="https://bsky.app/profile/nytimes.com/post/3maj3t3vle72e" target="_blank">nytimes.com</a> (2025-12-22 01:03:04)</span><span style="padding-right:50px;">Some U.S. air-traffic controllers are taking the equivalent jobs in Australia, lured by "gorgeous beaches" and the prospects of a less stressful work environment. <a href="https://bsky.app/profile/wsj.com/post/3maj3sgr7gf2o" target="_blank">wsj.com</a> (2025-12-22 01:02:42)</span><span style="padding-right:50px;"> Betting against New York is always a losing proposition ft.trib.al/FB9U9PL  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3maj3rvzi2f24" target="_blank">financialtimes.com</a> (2025-12-22 01:02:24)</span>
+<span style="padding-right:50px;">Cartagena, Colombia, is set to ban its iconic horse-drawn carriages, replacing them with electric buggies — a move dividing the historic city over tradition, tourism, and animal welfare. n.pr/3Y6VIdG <a href="https://bsky.app/profile/npr.org/post/3maj53pggsg2i" target="_blank">npr.org</a> (2025-12-22 01:25:47)</span><span style="padding-right:50px;">Serbia's students protest against university pressure after railway station tragedy reut.rs/45mOztE <a href="https://bsky.app/profile/reuters.com/post/3maj52ngeyp2x" target="_blank">reuters.com</a> (2025-12-22 01:25:11)</span><span style="padding-right:50px;">Angela Hartnett's secret to a Christmas roast? 'Less is more'. She talks taste with HTSI ft.trib.al/UZTBlEv <a href="https://bsky.app/profile/financialtimes.com/post/3maj4zxesg623" target="_blank">financialtimes.com</a> (2025-12-22 01:24:48)</span><span style="padding-right:50px;">エプスタイン文書サイト、トランプ氏関連資料消える（無料記事） www.nikkei.com/article/DGXZQO...  トランプ氏とエプスタイン氏らが一緒に納まった写真などが公開翌日の12月20日、閲覧できなくなりました。  司法省からの説明がなく、ネット上では消えた理由を巡り疑惑が広がっています。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3maj4ujf4bu2g" target="_blank">nikkei.com</a> (2025-12-22 01:21:46)</span><span style="padding-right:50px;">The Shanghai ship that never sails is the work of Pietro Beccari, who likes to tell his staff "Don’t think big, think huge." <a href="https://bsky.app/profile/wsj.com/post/3maj4q6jww42t" target="_blank">wsj.com</a> (2025-12-22 01:19:20)</span>
   </div>
 </div>
 
@@ -32,15 +32,71 @@
 
 ## News Headlines
 
-- Oracle becomes poster child for AI bubble fears
-- US air-traffic controllers flee to Australia for better work-life balance
-- Trump administration threatens to withhold funds from Smithsonian over content review
-- American man falls in love with Lithuanian woman, ICE detains her
-- Bloomberg's Jessica Loudis faces bureaucratic hurdles in Germany
-- US Justice Department releases 13,000 files on Jeffrey Epstein investigations
+- Cartagena to Ban Horse-Drawn Carriages, Replace Them with Electric Buggies
+- Serbia's Students Protest Against University Pressure After Railway Tragedy
+- Angela Hartnett Reveals the Secret to a Perfect Christmas Roast
+- Trump Administration Purges Content from Smithsonian After Request
+- 200-Million-Year-Old Dinosaur Footprints Found in Italy
+- US Air-Traffic Controllers Flee to Australia for Safer Work Environment
 
 
 ----
+
+@npr.org
+
+Cartagena, Colombia, is set to ban its iconic horse-drawn carriages, replacing them with electric buggies — a move dividing the historic city over tradition, tourism, and animal welfare. n.pr/3Y6VIdG
+
+[2025-12-22 01:25:47](https://bsky.app/profile/npr.org/post/3maj53pggsg2i)
+
+---
+
+@reuters.com
+
+Serbia's students protest against university pressure after railway station tragedy reut.rs/45mOztE
+
+[2025-12-22 01:25:11](https://bsky.app/profile/reuters.com/post/3maj52ngeyp2x)
+
+---
+
+@financialtimes.com
+
+Angela Hartnett's secret to a Christmas roast? 'Less is more'. She talks taste with HTSI ft.trib.al/UZTBlEv
+
+[2025-12-22 01:24:48](https://bsky.app/profile/financialtimes.com/post/3maj4zxesg623)
+
+---
+
+@nikkei.com
+
+エプスタイン文書サイト、トランプ氏関連資料消える（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+トランプ氏とエプスタイン氏らが一緒に納まった写真などが公開翌日の12月20日、閲覧できなくなりました。
+
+司法省からの説明がなく、ネット上では消えた理由を巡り疑惑が広がっています。
+
+#ニュース
+
+[2025-12-22 01:21:46](https://bsky.app/profile/nikkei.com/post/3maj4ujf4bu2g)
+
+---
+
+@wsj.com
+
+The Shanghai ship that never sails is the work of Pietro Beccari, who likes to tell his staff "Don’t think big, think huge."
+
+[2025-12-22 01:19:20](https://bsky.app/profile/wsj.com/post/3maj4q6jww42t)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+村上宗隆 大リーグ ホワイトソックスと契約合意 米メディア
+https://news.web.nhk/newsweb/na/na-k10015009981000
+
+[2025-12-22 01:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maj4daabcq2b)
+
+---
 
 @yahoofinance.com
 
@@ -71,56 +127,6 @@ This Roasted Beef Tenderloin recipe is a holiday splurge that comes together qui
 Some U.S. air-traffic controllers are taking the equivalent jobs in Australia, lured by "gorgeous beaches" and the prospects of a less stressful work environment.
 
 [2025-12-22 01:02:42](https://bsky.app/profile/wsj.com/post/3maj3sgr7gf2o)
-
----
-
-@financialtimes.com
-
- Betting against New York is always a losing proposition ft.trib.al/FB9U9PL  | opinion
-
-[2025-12-22 01:02:24](https://bsky.app/profile/financialtimes.com/post/3maj3rvzi2f24)
-
----
-
-@usatoday.com
-
-Do you remember them all? Here's a look back at the biggest TikTok trends of 2025.
-
-[2025-12-22 01:00:48](https://bsky.app/profile/usatoday.com/post/3maj3oztu2m2h)
-
----
-
-@cnn.com
-
-As America's labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better. https://cnn.it/49kHdt4
-
-[2025-12-22 01:00:35](https://bsky.app/profile/cnn.com/post/3maj3onyjxf2q)
-
----
-
-@washingtonpost.com
-
-The Trump administration threatened to withhold federal funds from the Smithsonian if it did not submit extensive documentation for a sweeping content review.
-
-President Trump is set out to purge what he called “improper ideology” from the museum system. 
-
-[2025-12-22 01:00:33](https://bsky.app/profile/washingtonpost.com/post/3maj3oloepw2p)
-
----
-
-@bloomberg.com
-
-🧩 Alphadots, Bloomberg’s daily word game with a plot twist, is live. Test your skills with a new puzzle every day. Play now: 
-
-[2025-12-22 01:00:21](https://bsky.app/profile/bloomberg.com/post/3maj3oad4qe2w)
-
----
-
-@apnews.com
-
-Justin Lamson accounted for four touchdowns, Adam Jones had 131 yards rushing and two TDs, and second-seeded Montana State beat No. 3 seed Montana 48-23 on Saturday in the semifinals of the FCS playoffs.
-
-[2025-12-22 01:00:07](https://bsky.app/profile/apnews.com/post/3maj3nsu3mk2n)
 
 ---
 
