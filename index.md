@@ -1,9 +1,9 @@
-# [2025-12-21 22:10 updated](2025_12_21.md)
+# [2025-12-21 22:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:トカラ列島近海, 深さ:20km マグニチュード:3.3, 最大震度:3 📍https://www.google.com/maps?q=29.6,129.6&ll=29.6,129.6&z=7&t=h 地震発生日時:2025-12-21 22:03頃 (10倍速▶150s→15s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3mairz4apu42y" target="_blank">sokuho.news</a> (2025-12-21 22:07:28)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】平川市長選挙は新人の工藤氏が当選 青森県 (2025-12-21 22:02:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mairyaeomj2z" target="_blank">sokuho.news</a> (2025-12-21 22:06:59)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  22時3分頃、鹿児島県で最大震度3の地震を観測しました。 震源:トカラ列島近海, 深さ:20km, 規模:M3.3 この地震による津波の心配はありません。 (2025-12-21 22:06:56) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3mairy6mgrq25" target="_blank">sokuho.news</a> (2025-12-21 22:06:57)</span><span style="padding-right:50px;">Stocks enter final stretch of 2025 just off record highs: What to watch this week <a href="https://bsky.app/profile/yahoofinance.com/post/3mairwn6nub2x" target="_blank">yahoofinance.com</a> (2025-12-21 22:06:06)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】M-1グランプリ2025 「たくろう」が優勝 21代目王者に (2025年12月21日 22:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mairwm5s6m2y" target="_blank">sokuho.news</a> (2025-12-21 22:06:05)</span>
+<span style="padding-right:50px;">Cuba’s economy is nearing collapse as the result of the U.S. oil blockade and military buildup against Venezuela. <a href="https://bsky.app/profile/wsj.com/post/3mait5i67nf2c" target="_blank">wsj.com</a> (2025-12-21 22:27:49)</span><span style="padding-right:50px;">Once symbols of abundance, the  Tigris and Euphrates rivers, which both originate in Turkey, have become the focus of a struggle forcing Iraq to use its most lucrative asset – oil – to secure its water. <a href="https://bsky.app/profile/cnn.com/post/3mait2bpcqx26" target="_blank">cnn.com</a> (2025-12-21 22:26:02)</span><span style="padding-right:50px;">Why British Jews are experiencing their biggest change in 60 years <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maiszj7ptg2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-21 22:25:35)</span><span style="padding-right:50px;">【地震情報】鹿児島 十島村で震度3 津波の心配なし(22:03) https://news.web.nhk/newsweb/na/na-k10015010091000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maisrfsmal2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 22:21:02)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】M-1グランプリ21代王者は「たくろう」 (2025-12-21 22:09:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maisiq26wv2a" target="_blank">sokuho.news</a> (2025-12-21 22:16:13)</span>
   </div>
 </div>
 
@@ -32,15 +32,84 @@
 
 ## News Headlines
 
-- Stocks enter final stretch of 2025 just off record highs: What to watch this week
-- Sweden boards sanctioned Russian vessel off its coast
-- Former Meta COO Sheryl Sandberg warns corporate culture is 'one of the worst' ever
-- Most homebuyers don't shop around for a mortgage, research shows. Why that's a bad idea
-- Saudi Arabia: Rights groups condemn new record number of executions in 2025
-- Never mind Pedro Pascal, with his stylist and personal trainer — it’s people who dress well despite work and kids who deserve the gongs
+- Cuba's economy nears collapse due to US oil blockade and Venezuela military buildup
+- Iraq uses oil to secure water supply from Tigris and Euphrates rivers
+- British Jews experience biggest change in 60 years
+- 3.3-magnitude earthquake hits Toquara Islands in Japan
+- Xbox losing console market share to Microsoft's gaming pivot
+- Sweden seizes Russian vessel off its coast under sanctions
 
 
 ----
+
+@wsj.com
+
+Cuba’s economy is nearing collapse as the result of the U.S. oil blockade and military buildup against Venezuela.
+
+[2025-12-21 22:27:49](https://bsky.app/profile/wsj.com/post/3mait5i67nf2c)
+
+---
+
+@cnn.com
+
+Once symbols of abundance, the  Tigris and Euphrates rivers, which both originate in Turkey, have become the focus of a struggle forcing Iraq to use its most lucrative asset – oil – to secure its water.
+
+[2025-12-21 22:26:02](https://bsky.app/profile/cnn.com/post/3mait2bpcqx26)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Why British Jews are experiencing their biggest change in 60 years
+
+[2025-12-21 22:25:35](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maiszj7ptg2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震情報】鹿児島 十島村で震度3 津波の心配なし(22:03)
+https://news.web.nhk/newsweb/na/na-k10015010091000
+
+[2025-12-21 22:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maisrfsmal2d)
+
+---
+
+@sokuho.news
+
+🛎️ANNより【速報】です。
+
+【速報】M-1グランプリ21代王者は「たくろう」
+(2025-12-21 22:09:00) #ニュース
+
+[2025-12-21 22:16:13](https://bsky.app/profile/sokuho.news/post/3maisiq26wv2a)
+
+---
+
+@cnbc.com
+
+Xbox is losing the console race by miles. It's part of Microsoft's big gaming pivot
+
+[2025-12-21 22:12:49](https://bsky.app/profile/cnbc.com/post/3maiscoaijj2e)
+
+---
+
+@financialtimes.com
+
+ A new maritime security architecture for the UK and her neighbours ft.trib.al/1jcOKOt  | opinion
+
+[2025-12-21 22:12:46](https://bsky.app/profile/financialtimes.com/post/3maisclfdwf2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震速報】鹿児島 十島村で震度3 津波の心配なし
+https://news.web.nhk/newsweb/na/na-k10015010091000
+
+[2025-12-21 22:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maisbcmrdd2v)
+
+---
 
 @sokuho.news
 
@@ -64,92 +133,6 @@
 (2025-12-21 22:02:00) #ニュース
 
 [2025-12-21 22:06:59](https://bsky.app/profile/sokuho.news/post/3mairyaeomj2z)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-22時3分頃、鹿児島県で最大震度3の地震を観測しました。
-震源:トカラ列島近海, 深さ:20km, 規模:M3.3
-この地震による津波の心配はありません。
-(2025-12-21 22:06:56) #地震
-
-[2025-12-21 22:06:57](https://bsky.app/profile/sokuho.news/post/3mairy6mgrq25)
-
----
-
-@yahoofinance.com
-
-Stocks enter final stretch of 2025 just off record highs: What to watch this week
-
-[2025-12-21 22:06:06](https://bsky.app/profile/yahoofinance.com/post/3mairwn6nub2x)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】M-1グランプリ2025 「たくろう」が優勝 21代目王者に
-(2025年12月21日 22:05) #ニュース
-
-[2025-12-21 22:06:05](https://bsky.app/profile/sokuho.news/post/3mairwm5s6m2y)
-
----
-
-@financialtimes.com
-
-Sweden boards sanctioned Russian vessel off its coast ft.trib.al/5tevoYh
-
-[2025-12-21 22:06:02](https://bsky.app/profile/financialtimes.com/post/3mairwjehzv23)
-
----
-
-@sokuho.news
-
-🔔気象庁より【震源速報】です。
-
-22時3分頃、トカラ列島近海(深さ:20km) を震源とする M3.3 の地震を観測しました。
-この地震による津波の心配はありません。
-(2025-12-21 22:06:00) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/21/2025-12-21-22-03-11.html?xlarge_image=1
-
-[2025-12-21 22:06:01](https://bsky.app/profile/sokuho.news/post/3mairwj2bcb2z)
-
----
-
-@sokuho.news
-
-🔔NHKより【地震速報】です。
-
-■震度3■
-十島村
-(2025-12-21 22:03) #地震
-
-[2025-12-21 22:05:16](https://bsky.app/profile/sokuho.news/post/3mairv6atdu2y)
-
----
-
-@sokuho.news
-
-🔔気象庁より【震度速報】です。
-
-22時3分頃、鹿児島県で最大震度3の地震を観測しました。
-今後の情報に注意してください。
-(2025-12-21 22:05:02) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/21/2025-12-21-22-03-11.html?xlarge_image=1
-
-[2025-12-21 22:05:05](https://bsky.app/profile/sokuho.news/post/3mairut5oja2v)
-
----
-
-@wsj.com
-
-With retro packaging and Pete Davidson as an investor, the brand is destigmatizing a once-embarrassing product. on.wsj.com/4p5oUg2
-
-[2025-12-21 22:01:47](https://bsky.app/profile/wsj.com/post/3mairowj7b72e)
 
 ---
 
