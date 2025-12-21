@@ -1,9 +1,9 @@
-# [2025-12-21 13:50 updated](2025_12_21.md)
+# [2025-12-21 14:12 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">自民 萩生田幹事長代行 羽田を出発 台湾 頼総統と面会へ https://news.web.nhk/newsweb/na/na-k10015009681000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahw44ccag2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 13:48:02)</span><span style="padding-right:50px;">【速報中】全国高校駅伝 男子 学法石川 トップで折り返し4区へ https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahvgo47xm2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 13:36:03)</span><span style="padding-right:50px;">Anthropic’s Claude AI model ran a vending machine in the WSJ newsroom. It lost hundreds of dollars, gave away a PlayStation and bought a live fish. 🔗: on.wsj.com/4pMPX13 <a href="https://bsky.app/profile/wsj.com/post/3mahvclv2u72k" target="_blank">wsj.com</a> (2025-12-21 13:33:48)</span><span style="padding-right:50px;">大掃除はお宝探し？　売れる不用品、1人あたり8.9万円 www.nikkei.com/article/DGXZQO...  ガムの包み紙、右側だけのイヤホン、使い古したバッグや服…。  メルカリによると、2025年の大掃除で捨てられそうなモノは日本全国で推計10兆円にのぼるといいます。  タンス預金はなくてもタンス資産はあるかもしれません。 <a href="https://bsky.app/profile/nikkei.com/post/3mahv4xemc32m" target="_blank">nikkei.com</a> (2025-12-21 13:30:39)</span><span style="padding-right:50px;">ウクライナのゼレンスキー大統領は２０日、米国、ウクライナ、ロシアによる高官会談の提案を米国から受けたと明らかにし、さらなる捕虜交換を促し、各国による会談に道を開くなら提案を支持するとの見解を示した。 bit.ly/3YJ3Ile <a href="https://bsky.app/profile/japan.reuters.com/post/3mahv4g2tn52q" target="_blank">japan.reuters.com</a> (2025-12-21 13:30:21)</span>
+<span style="padding-right:50px;"> Looking back on a year of AI blunders ft.trib.al/v0c6S4V  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mahx6clw3224" target="_blank">financialtimes.com</a> (2025-12-21 14:07:12)</span><span style="padding-right:50px;"> In praise of male courage ft.trib.al/iYLl3Py  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mahx6c5rsd2y" target="_blank">financialtimes.com</a> (2025-12-21 14:07:11)</span><span style="padding-right:50px;">【速報中】全国高校駅伝 学法石川 大会記録更新ペースで6区へ https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahx4ciktn2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 14:06:03)</span><span style="padding-right:50px;">「炭酸ハミガキ」口内で一気に発泡　マズさの壁超え200万本ヒット www.nikkei.com/article/DGXZQO...  「ピュオーラ　炭酸ハミガキ」の開発チームは炭酸泡が隙間に入り込みやすいという特性に注目。  入浴剤の「バブ」などを開発してきた花王には炭酸研究の知見がありました。  炭酸は水分に触れると反応が進んでしまうため、口に入れてから反応が始まるようクエン酸をコーティング。  次の課題は味。重曹は苦味が、クエン酸は酸味が強く「初期の試作はマズすぎて……」。 <a href="https://bsky.app/profile/nikkei.com/post/3mahwswfrgs2i" target="_blank">nikkei.com</a> (2025-12-21 14:00:50)</span><span style="padding-right:50px;">England's Ashes dream is over but Stokes vows to fight on reut.rs/4p4rAus <a href="https://bsky.app/profile/reuters.com/post/3mahwsbdptr2i" target="_blank">reuters.com</a> (2025-12-21 14:00:28)</span>
   </div>
 </div>
 
@@ -30,125 +30,94 @@
 
 ---
 
-## News Headlines
+@financialtimes.com
 
-[{"en": "Japan's LDP names new acting secretary general", "jp": """}, 
-{"en": "High school boys' national relay high school team from Fukui leads the top", "jp": ""}, 
-{"en": "Anthropic's AI model operates a vending machine in WSJ newsroom", "jp": ""}, 
-{"en": "Japan faces a 10-trillion-yen burden in discarded goods", "jp": ""}, 
-{"en": "Ukraine's Zelenskyy receives US proposal for trilateral talks", "jp": ""}, 
-{"en": "India's coal dependence persists despite solar power growth", "jp": ""}, 
-{"en": "US Homeland Security Secretary shares video of oil tanker apprehension", "jp": ""}, 
-{"en": "Man turns sewer covers into art, becomes a folk hero in Iowa", "jp": ""}, 
-{"en": "Earthquake hits off the coast of Hokkaido, Japan", "jp": ""}, 
-{"en": "South Korea's consumer agency to order SK Telecom to compensate hacking victims", "jp": ""}, 
-{"en": "Blundstones, the Australian workwear-style Chelsea boots", "jp": ""}, 
-{"en": "Man arrested for attempted murder in Japan's Shizuoka prefecture", "jp": ""}, 
-{"en": "Japanese ramen chain Matsuya expands its noodle business", "jp": ""}, 
-{"en": "Australian Kyrgios to make tour return at Brisbane International", "jp": ""}, 
-{"en": "Russian envoy says talks were 'constructive' and will continue", "jp": ""}, 
-{"en": "Boxer Anthony Joshua knocks out YouTuber-turned-boxer Jake Paul", "jp": ""}, 
-{"en": "Aomori Prefecture's Aomori city holds its first market after earthquake warning", "jp": ""}, 
-{"en": "Coventry manager Lampard apologizes for Southampton melee", "jp": ""}, 
-{"en": "High school girls' national relay team from Nagano wins the championship", "jp": ""}, 
-{"en": "Italian Serie A: Juventus defeats Roma 2-1, stays in title contention", "jp": ""}, 
-{"en": "Elephants killed in train collision in India's Assam state", "jp": ""}, 
-{"en": "German Bundesliga: Leipzig stays third after 3-1 win over Leipzig", "jp": ""}]
+ Looking back on a year of AI blunders ft.trib.al/v0c6S4V  | opinion
 
-----
+[2025-12-21 14:07:12](https://bsky.app/profile/financialtimes.com/post/3mahx6clw3224)
 
-@nhknewsunofficial.bsky.social
+---
 
-自民 萩生田幹事長代行 羽田を出発 台湾 頼総統と面会へ
-https://news.web.nhk/newsweb/na/na-k10015009681000
+@financialtimes.com
 
-[2025-12-21 13:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahw44ccag2b)
+ In praise of male courage ft.trib.al/iYLl3Py  | opinion
+
+[2025-12-21 14:07:11](https://bsky.app/profile/financialtimes.com/post/3mahx6c5rsd2y)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【速報中】全国高校駅伝 男子 学法石川 トップで折り返し4区へ
+【速報中】全国高校駅伝 学法石川 大会記録更新ペースで6区へ
 https://news.web.nhk/newsweb/na/na-k10015007911000
 
-[2025-12-21 13:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahvgo47xm2k)
-
----
-
-@wsj.com
-
-Anthropic’s Claude AI model ran a vending machine in the WSJ newsroom. It lost hundreds of dollars, gave away a PlayStation and bought a live fish. 🔗: on.wsj.com/4pMPX13
-
-[2025-12-21 13:33:48](https://bsky.app/profile/wsj.com/post/3mahvclv2u72k)
+[2025-12-21 14:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahx4ciktn2y)
 
 ---
 
 @nikkei.com
 
-大掃除はお宝探し？　売れる不用品、1人あたり8.9万円
+「炭酸ハミガキ」口内で一気に発泡　マズさの壁超え200万本ヒット
 www.nikkei.com/article/DGXZQO...
 
-ガムの包み紙、右側だけのイヤホン、使い古したバッグや服…。
+「ピュオーラ　炭酸ハミガキ」の開発チームは炭酸泡が隙間に入り込みやすいという特性に注目。
 
-メルカリによると、2025年の大掃除で捨てられそうなモノは日本全国で推計10兆円にのぼるといいます。
+入浴剤の「バブ」などを開発してきた花王には炭酸研究の知見がありました。
 
-タンス預金はなくてもタンス資産はあるかもしれません。
+炭酸は水分に触れると反応が進んでしまうため、口に入れてから反応が始まるようクエン酸をコーティング。
 
-[2025-12-21 13:30:39](https://bsky.app/profile/nikkei.com/post/3mahv4xemc32m)
+次の課題は味。重曹は苦味が、クエン酸は酸味が強く「初期の試作はマズすぎて……」。
 
----
-
-@japan.reuters.com
-
-ウクライナのゼレンスキー大統領は２０日、米国、ウクライナ、ロシアによる高官会談の提案を米国から受けたと明らかにし、さらなる捕虜交換を促し、各国による会談に道を開くなら提案を支持するとの見解を示した。 bit.ly/3YJ3Ile
-
-[2025-12-21 13:30:21](https://bsky.app/profile/japan.reuters.com/post/3mahv4g2tn52q)
+[2025-12-21 14:00:50](https://bsky.app/profile/nikkei.com/post/3mahwswfrgs2i)
 
 ---
 
-@bloomberg.com
+@reuters.com
 
-India excels at solar power. But in coal towns like Dhanbad, life still revolves around the dirtiest fuel as informal markets, political ties and generations of dependence keep coal entrenched.
+England's Ashes dream is over but Stokes vows to fight on reut.rs/4p4rAus
 
-[2025-12-21 13:30:09](https://bsky.app/profile/bloomberg.com/post/3mahv42eev223)
+[2025-12-21 14:00:28](https://bsky.app/profile/reuters.com/post/3mahwsbdptr2i)
+
+---
+
+@washingtonpost.com
+
+As we barrel toward the coldest part of the year, so, too, we enter the season of comforting stews. Simmer one of these stew recipes — starring beef, chicken, seafood and vegetables — to warm your belly and home.
+
+[2025-12-21 14:00:07](https://bsky.app/profile/washingtonpost.com/post/3mahwrmsxsy2g)
+
+---
+
+@apnews.com
+
+Dante Moore threw four touchdown passes and ran for another score, and No. 5 Oregon beat No. 19 James Madison 51-34 in a College Football Playoff opener. The Ducks advanced to face Texas Tech in a quarterfinal game at the Orange Bowl on Jan. 1.
+
+[2025-12-21 13:57:33](https://bsky.app/profile/apnews.com/post/3mahwn2cy4w2x)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【速報中】全国高校駅伝 男子 学法石川がトップ守り3区へ
+【速報中】全国高校駅伝 学法石川 大会記録更新ペースで5区へ
 https://news.web.nhk/newsweb/na/na-k10015007911000
 
-[2025-12-21 13:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahu3qmmqz2m)
+[2025-12-21 13:57:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahwm7fazf2y)
 
 ---
 
-@cnn.com
+@bbcnews-world-rss.bsky.social
 
-Homeland Security Secretary Kristi Noem posted on X video she said shows US personnel apprehending an oil tanker off the coast of Venezuela. CNN's Kevin Liptak reports.
+Australian PM announces intelligence review as country mourns Bondi attack
 
-Read more: https://cnn.it/4j9QpnA
-
-[2025-12-21 13:08:47](https://bsky.app/profile/cnn.com/post/3mahtvu7pur25)
+[2025-12-21 13:55:56](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mahwk6gaws2x)
 
 ---
 
 @wsj.com
 
-Brandon Bradshaw’s passion for turning sewer covers into objects of whimsy has landed him in jail—and turned him into a folk hero in Sioux City, Iowa.
+“There are 10 main characters in this film, and nine of them are detestable.” Hate-watching this Christmas movie has become a tradition. 🔗 on.wsj.com/4rVYiRD
 
-Sioux City has rallied around its “Manhole Michelangelo” and made the city a laughingstock. 🔗: on.wsj.com/3YxSAHX
-
-[2025-12-21 13:08:02](https://bsky.app/profile/wsj.com/post/3mahtujl6jf2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【速報中】全国高校駅伝 男子 学法石川がトップで2区へ
-https://news.web.nhk/newsweb/na/na-k10015007911000
-
-[2025-12-21 13:03:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahtlsljvr2x)
+[2025-12-21 13:52:47](https://bsky.app/profile/wsj.com/post/3mahwejmc5y2u)
 
 ---
 
