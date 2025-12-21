@@ -1,9 +1,9 @@
-# [2025-12-22 02:10 updated](2025_12_22.md)
+# [2025-12-22 02:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">While President Trump has lagged behind his predecessors in the number of official appearances in his second term in office, he has relentlessly pursued the public’s attention in other ways on a daily, and sometimes even hourly, basis, a New York Times analysis shows. trib.al/nf83ouc <a href="https://bsky.app/profile/nytimes.com/post/3maj7jcpbqk2c" target="_blank">nytimes.com</a> (2025-12-22 02:09:11)</span><span style="padding-right:50px;">Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact <a href="https://bsky.app/profile/yahoofinance.com/post/3maj7dsk2us2j" target="_blank">yahoofinance.com</a> (2025-12-22 02:06:06)</span><span style="padding-right:50px;"> Europe needs strategic purpose matched with action ft.trib.al/b1r1nRQ  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3maj76tmgwl2f" target="_blank">financialtimes.com</a> (2025-12-22 02:03:19)</span><span style="padding-right:50px;">Some of this year’s hottest gifts measure blood glucose and gut microbiomes. There is the “judginess” factor to consider. on.wsj.com/3MMVqpY <a href="https://bsky.app/profile/wsj.com/post/3maj72t3zk52t" target="_blank">wsj.com</a> (2025-12-22 02:01:04)</span><span style="padding-right:50px;">Thousands of people cheered and danced around Stonehenge as the sun rose over the prehistoric stone circle on Sunday, the winter solstice. <a href="https://bsky.app/profile/apnews.com/post/3maj72qgt3j22" target="_blank">apnews.com</a> (2025-12-22 02:01:02)</span>
+<span style="padding-right:50px;">Donald Trump is finding the Epstein files are hard to shake. <a href="https://bsky.app/profile/wsj.com/post/3majaioa5nu2h" target="_blank">wsj.com</a> (2025-12-22 02:26:43)</span><span style="padding-right:50px;">Tigers, RHP Kyle Finnegan finalize 2-year, $19M contract reut.rs/3L9RU8C <a href="https://bsky.app/profile/reuters.com/post/3majafsvhqj23" target="_blank">reuters.com</a> (2025-12-22 02:25:07)</span><span style="padding-right:50px;">At Turning Point USA’s annual gathering, speakers scarcely mentioned Democrats and other liberal figures. Instead, some of the most prominent right-wing leaders in the U.S. insulted members of their own movement, revealing serious rifts. <a href="https://bsky.app/profile/nytimes.com/post/3majafnafl32y" target="_blank">nytimes.com</a> (2025-12-22 02:25:01)</span><span style="padding-right:50px;">Disney's 'Avatar: Fire and Ash' disappoints with weak $88 million domestic opening <a href="https://bsky.app/profile/cnbc.com/post/3majaayi3d224" target="_blank">cnbc.com</a> (2025-12-22 02:22:25)</span><span style="padding-right:50px;">Dan Quinn’s Washington Commanders showed more fight after a late 2-point conversion by the Philadelphia Eagles than they have during many plays and games in this 4-11 season filled with lopsided losses. <a href="https://bsky.app/profile/apnews.com/post/3maj7s2scl522" target="_blank">apnews.com</a> (2025-12-22 02:14:05)</span>
   </div>
 </div>
 
@@ -32,15 +32,63 @@
 
 ## News Headlines
 
-- Trump's Public Profile Shifts to Online in Second Term
-- Wall Street Sees AI Stock Trade as Intact
-- Israel's Defence Exports Reach Record High
-- Israel Approves Proposal for 19 New West Bank Settlements
-- JPMorgan Questioned Tricolor's Accounting a Year Before Collapse
-- Europe's Leaders at Odds Over Russia's Frozen Assets
+- Trump struggles to shake off Epstein files
+- Tigers, RHP Kyle Finnegan finalize $19M contract
+- Turning Point USA leaders clash at annual gathering
+- Disney's 'Avatar: The Way of Water' disappoints with weak opening
+- Italy's Saipem wins $4 billion offshore contract in Qatar
+- Third 'Avatar' film breaks box office records with $345 million opening
 
 
 ----
+
+@wsj.com
+
+Donald Trump is finding the Epstein files are hard to shake.
+
+[2025-12-22 02:26:43](https://bsky.app/profile/wsj.com/post/3majaioa5nu2h)
+
+---
+
+@reuters.com
+
+Tigers, RHP Kyle Finnegan finalize 2-year, $19M contract reut.rs/3L9RU8C
+
+[2025-12-22 02:25:07](https://bsky.app/profile/reuters.com/post/3majafsvhqj23)
+
+---
+
+@nytimes.com
+
+At Turning Point USA’s annual gathering, speakers scarcely mentioned Democrats and other liberal figures. Instead, some of the most prominent right-wing leaders in the U.S. insulted members of their own movement, revealing serious rifts.
+
+[2025-12-22 02:25:01](https://bsky.app/profile/nytimes.com/post/3majafnafl32y)
+
+---
+
+@cnbc.com
+
+Disney's 'Avatar: Fire and Ash' disappoints with weak $88 million domestic opening
+
+[2025-12-22 02:22:25](https://bsky.app/profile/cnbc.com/post/3majaayi3d224)
+
+---
+
+@apnews.com
+
+Dan Quinn’s Washington Commanders showed more fight after a late 2-point conversion by the Philadelphia Eagles than they have during many plays and games in this 4-11 season filled with lopsided losses.
+
+[2025-12-22 02:14:05](https://bsky.app/profile/apnews.com/post/3maj7s2scl522)
+
+---
+
+@reuters.com
+
+Italy's Saipem wins offshore contract in Qatar for about $4 billion reut.rs/3MLPjSQ
+
+[2025-12-22 02:10:10](https://bsky.app/profile/reuters.com/post/3maj7l3o5c62r)
+
+---
 
 @nytimes.com
 
@@ -71,56 +119,6 @@ Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact
 Some of this year’s hottest gifts measure blood glucose and gut microbiomes. There is the “judginess” factor to consider. on.wsj.com/3MMVqpY
 
 [2025-12-22 02:01:04](https://bsky.app/profile/wsj.com/post/3maj72t3zk52t)
-
----
-
-@apnews.com
-
-Thousands of people cheered and danced around Stonehenge as the sun rose over the prehistoric stone circle on Sunday, the winter solstice.
-
-[2025-12-22 02:01:02](https://bsky.app/profile/apnews.com/post/3maj72qgt3j22)
-
----
-
-@usatoday.com
-
-Maury Povich and Connie Chung have been married for more than 40 years. Here's their secret to marital success.
-
-[2025-12-22 02:00:41](https://bsky.app/profile/usatoday.com/post/3maj724ozab2f)
-
----
-
-@cnn.com
-
-Gift-giving is often framed as a source of stress and obligation, but a growing body of research suggests there may also be something beneficial about giving itself.
-
-[2025-12-22 02:00:33](https://bsky.app/profile/cnn.com/post/3maj6zuufxm2a)
-
----
-
-@washingtonpost.com
-
-SNL went meta for Bowen Yang’s last show with the beloved cast member playing an eggnog serving employee at a Delta Air Lines Sky Club lounge. 
-
-“They’re closing my station,” Yang told some passing travelers. “This is my last shift.” 
-
-[2025-12-22 02:00:32](https://bsky.app/profile/washingtonpost.com/post/3maj6zud2zr24)
-
----
-
-@bloomberg.com
-
-Justice Department officials were protecting victims by removing images from files tied to the notorious sex offender Jeffrey Epstein, Deputy Attorney General Todd Blanche said.
-
-[2025-12-22 02:00:09](https://bsky.app/profile/bloomberg.com/post/3maj6z5yffq2x)
-
----
-
-@aljazeera.com
-
-Israel’s defence exports increased 13 percent in 2024 compared with the previous year to a record of almost $15bn.
-
-[2025-12-22 02:00:03](https://bsky.app/profile/aljazeera.com/post/3maj6yylrrk2e)
 
 ---
 
