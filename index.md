@@ -1,9 +1,9 @@
-# [2025-12-21 23:30 updated](2025_12_21.md)
+# [2025-12-21 23:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">France will build new aircraft carrier, Macron tells troops reut.rs/4p4K2De <a href="https://bsky.app/profile/reuters.com/post/3maiwdxezxf2y" target="_blank">reuters.com</a> (2025-12-21 23:25:07)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3🈡 (2025-12-21 23:24:34) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3maiwd5hj5f27" target="_blank">sokuho.news</a> (2025-12-21 23:24:40)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-21 23:24:06) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3maiwcdjhrk2r" target="_blank">sokuho.news</a> (2025-12-21 23:24:13)</span><span style="padding-right:50px;">Property owners in British Columbia are scrambling for options after a court said indigenous groups have a right to reclaim ownership of land taken from them scores of years ago. <a href="https://bsky.app/profile/wsj.com/post/3maivt2p3dw2z" target="_blank">wsj.com</a> (2025-12-21 23:15:40)</span><span style="padding-right:50px;">Authorities report that nine people have died and at least 10 others are injured after a shooting at a South African pub. The incident occurred early Sunday in Bekkersdal, west of Johannesburg. n.pr/49aipCX <a href="https://bsky.app/profile/npr.org/post/3maivsjgghe2x" target="_blank">npr.org</a> (2025-12-21 23:15:22)</span>
+<span style="padding-right:50px;">Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world. <a href="https://bsky.app/profile/npr.org/post/3maixmi7k3m23" target="_blank">npr.org</a> (2025-12-21 23:47:47)</span><span style="padding-right:50px;">Israel approves 19 new settlements in occupied West Bank <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maixic4tqf2x" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-21 23:45:26)</span><span style="padding-right:50px;">Wall St Week Ahead A Santa rally? Investors hope for year-end gains to cap strong 2025 reut.rs/48UUlne <a href="https://bsky.app/profile/reuters.com/post/3maixhwwvc42r" target="_blank">reuters.com</a> (2025-12-21 23:45:15)</span><span style="padding-right:50px;">President Trump endorsed Bruce Blakeman, a Republican county executive on New York's Long Island, for governor on Saturday, just a day after GOP Rep. Elise Stefanik announced her exit from the highly-contested race. <a href="https://bsky.app/profile/cbsnews.com/post/3maixhj3mk22a" target="_blank">cbsnews.com</a> (2025-12-21 23:45:00)</span><span style="padding-right:50px;">VIDEO: 🇮🇷 Heavy rain turns Iranian beach a striking red  Heavy rainfall on Iran's Hormuz Island carried iron oxide-rich soil to the sea, turning the coastline a striking blood red colour <a href="https://bsky.app/profile/en.afp.com/post/3maixd4grrx2h" target="_blank">en.afp.com</a> (2025-12-21 23:42:33)</span>
   </div>
 </div>
 
@@ -32,119 +32,95 @@
 
 ## News Headlines
 
-- France to Build New Aircraft Carrier, Macron Tells Troops
-- At Least 9 Killed, 10 Injured in South African Pub Shooting
-- Property Owners in British Columbia Must Consider Indigenous Groups' Rights
-- Israel Approves 19 New Settlements in Occupied West Bank
-- Cuba's Economy Nears Collapse Under US Oil Blockade
-- Turkey's Rivers Become Focus of Struggle for Iraq's Water
+- Israel approves 19 new settlements in occupied West Bank
+- Trump endorses Republican candidate for New York governor
+- Heavy rain turns Iranian beach red with iron oxide-rich soil
+- Ashes defeat marks end of England's Bazball era
+- Foreign buyers snap up cheap UK companies in dealmaking boom
+- US Navy veteran who survived Pearl Harbor bombing dies at 105
 
 
 ----
 
-@reuters.com
-
-France will build new aircraft carrier, Macron tells troops reut.rs/4p4K2De
-
-[2025-12-21 23:25:07](https://bsky.app/profile/reuters.com/post/3maiwdxezxf2y)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3🈡
-(2025-12-21 23:24:34) #緊急地震速報
-
-[2025-12-21 23:24:40](https://bsky.app/profile/sokuho.news/post/3maiwd5hj5f27)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-21 23:24:06) #緊急地震速報
-
-[2025-12-21 23:24:13](https://bsky.app/profile/sokuho.news/post/3maiwcdjhrk2r)
-
----
-
-@wsj.com
-
-Property owners in British Columbia are scrambling for options after a court said indigenous groups have a right to reclaim ownership of land taken from them scores of years ago.
-
-[2025-12-21 23:15:40](https://bsky.app/profile/wsj.com/post/3maivt2p3dw2z)
-
----
-
 @npr.org
 
-Authorities report that nine people have died and at least 10 others are injured after a shooting at a South African pub. The incident occurred early Sunday in Bekkersdal, west of Johannesburg. n.pr/49aipCX
+Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world.
 
-[2025-12-21 23:15:22](https://bsky.app/profile/npr.org/post/3maivsjgghe2x)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】フィギュアスケート五輪代表に佐藤駿、千葉百音
-(2025-12-21 23:07:00) #ニュース
-
-[2025-12-21 23:12:49](https://bsky.app/profile/sokuho.news/post/3maivnx6xmv2a)
+[2025-12-21 23:47:47](https://bsky.app/profile/npr.org/post/3maixmi7k3m23)
 
 ---
 
-@sokuho.news
+@bbcnews-world-rss.bsky.social
 
-🔔防災科研より【強震モニタ】動画です。
+Israel approves 19 new settlements in occupied West Bank
 
-震源:長崎県島原半島, 深さ:10km
-マグニチュード:2.5, 最大震度:1
-📍https://www.google.com/maps?q=32.8,130.2&ll=32.8,130.2&z=7&t=h
-地震発生日時:2025-12-21 23:03頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-21 23:06:56](https://bsky.app/profile/sokuho.news/post/3maivdgpkny2b)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-23時3分頃、長崎県で最大震度1の地震を観測しました。
-震源:長崎県島原半島, 深さ:10km, 規模:M2.5
-この地震による津波の心配はありません。
-(2025-12-21 23:06:30) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/21/2025-12-21-23-03-19.html?xlarge_image=1
-
-[2025-12-21 23:06:30](https://bsky.app/profile/sokuho.news/post/3maivcogmxf2s)
-
----
-
-@yahoofinance.com
-
-Here's your big free reminder on AI stocks for 2026
-
-[2025-12-21 23:06:06](https://bsky.app/profile/yahoofinance.com/post/3maivbwemrt2j)
+[2025-12-21 23:45:26](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maixic4tqf2x)
 
 ---
 
 @reuters.com
 
-Barca's Denmark defender Christensen suffers cruciate ligament tear reut.rs/4p29klp
+Wall St Week Ahead A Santa rally? Investors hope for year-end gains to cap strong 2025 reut.rs/48UUlne
 
-[2025-12-21 23:05:08](https://bsky.app/profile/reuters.com/post/3maiva7bwkj2o)
+[2025-12-21 23:45:15](https://bsky.app/profile/reuters.com/post/3maixhwwvc42r)
+
+---
+
+@cbsnews.com
+
+President Trump endorsed Bruce Blakeman, a Republican county executive on New York's Long Island, for governor on Saturday, just a day after GOP Rep. Elise Stefanik announced her exit from the highly-contested race.
+
+[2025-12-21 23:45:00](https://bsky.app/profile/cbsnews.com/post/3maixhj3mk22a)
+
+---
+
+@en.afp.com
+
+VIDEO: 🇮🇷 Heavy rain turns Iranian beach a striking red
+
+Heavy rainfall on Iran's Hormuz Island carried iron oxide-rich soil to the sea, turning the coastline a striking blood red colour
+
+[2025-12-21 23:42:33](https://bsky.app/profile/en.afp.com/post/3maixd4grrx2h)
+
+---
+
+@financialtimes.com
+
+Since the release of the Epstein files, the public gaze has been fixed not on Donald Trump but on one of his great ideological foes — Bill Clinton ft.trib.al/3dUJOE5
+
+[2025-12-21 23:40:18](https://bsky.app/profile/financialtimes.com/post/3maix73mvkm2y)
+
+---
+
+@reuters.com
+
+Ashes defeat heralds end of England's Bazball era reut.rs/4p7ZazR
+
+[2025-12-21 23:40:09](https://bsky.app/profile/reuters.com/post/3maix6tfe6z2p)
+
+---
+
+@financialtimes.com
+
+Foreign buyers snap up cheap UK companies as dealmaking hits new high ft.trib.al/ySr0VjP
+
+[2025-12-21 23:37:00](https://bsky.app/profile/financialtimes.com/post/3maiwz6nmnr2p)
+
+---
+
+@reuters.com
+
+Goggia seals Super-G win ahead of Robinson and Vonn reut.rs/45fAI8n
+
+[2025-12-21 23:35:08](https://bsky.app/profile/reuters.com/post/3maiwvu6q5f2i)
+
+---
+
+@nytimes.com
+
+Bowen Yang’s final episode as a cast member on “Saturday Night Live,” hosted this week by Ariana Grande and featuring Cher as its musical guest, had plenty of holiday tunes and a satirical greeting from President Trump. Here’s a recap.
+
+[2025-12-21 23:35:02](https://bsky.app/profile/nytimes.com/post/3maiwvnz23q2a)
 
 ---
 
