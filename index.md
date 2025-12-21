@@ -1,9 +1,9 @@
-# [2025-12-22 06:50 updated](2025_12_22.md)
+# [2025-12-22 07:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ロシア大統領府のペスコフ報道官は２１日、フランスのマクロン大統領がロシアのプーチン大統領との対話の必要性に言及したことを受け、双方に政治的意思があれば、プーチン氏はマクロン氏と協議する用意があると述べた。ロシアの通信社ＲＩＡが伝えた。 bit.ly/4sefa6c <a href="https://bsky.app/profile/japan.reuters.com/post/3majp5fxfrq26" target="_blank">japan.reuters.com</a> (2025-12-22 06:48:51)</span><span style="padding-right:50px;">【住宅ローン、変動か固定か】 日銀利上げの注意点、専門家に聞く www.nikkei.com/article/DGXZQO...  新年度に向けて、住宅ローンの契約や融資実行は年明けから3月ごろに増えます。  家計の状況に応じて自分に合ったローンを選ぶためのチェックポイントを解説します。 <a href="https://bsky.app/profile/nikkei.com/post/3majozjfjaj2m" target="_blank">nikkei.com</a> (2025-12-22 06:46:41)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】MLBホワイトソックス 村上宗隆選手と契約合意を発表 (06:42) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3majotovbe725" target="_blank">sokuho.news</a> (2025-12-22 06:43:25)</span><span style="padding-right:50px;">東証 ことし上場廃止の企業124社で過去最多の見通し https://news.web.nhk/newsweb/na/na-k10015009921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majorbtozd2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 06:42:02)</span><span style="padding-right:50px;">Most tweens and teens have their own phone. The right app can help set limits — and aid kids in developing healthy tech habits. <a href="https://bsky.app/profile/nytimes.com/post/3majoglogoy2e" target="_blank">nytimes.com</a> (2025-12-22 06:36:06)</span>
+<span style="padding-right:50px;">米沿岸警備隊は、ベネズエラ近海の国際水域で石油タンカーを追跡していると、当局者が２１日にロイターに語った。この作戦が成功すれば、石油タンカーの拿捕（だほ）は今週末で２隻目、２週間足らずで３隻目となる。 bit.ly/4qlxd8G <a href="https://bsky.app/profile/japan.reuters.com/post/3majqbklb6r2q" target="_blank">japan.reuters.com</a> (2025-12-22 07:09:04)</span><span style="padding-right:50px;">Jake Paul suffered a devastating knockout at the hands of Anthony Joshua. In the aftermath, Paul underwent jaw surgery and had teeth removed. <a href="https://bsky.app/profile/usatoday.com/post/3majptbh5sn2w" target="_blank">usatoday.com</a> (2025-12-22 07:01:05)</span><span style="padding-right:50px;">Jamie Moyer is back in his hometown of Souderton, Pennsylvania, for his father’s 95th birthday party. He says it was a smashing success, filled with people from Jim Moyer’s near-century in the Philadelphia suburb.  <a href="https://bsky.app/profile/cnn.com/post/3majpt5wrud24" target="_blank">cnn.com</a> (2025-12-22 07:01:01)</span><span style="padding-right:50px;">Zambia coach makes belated debut after food poisoning reut.rs/3NaFrC6 <a href="https://bsky.app/profile/reuters.com/post/3majpsjf6xh2r" target="_blank">reuters.com</a> (2025-12-22 07:00:40)</span><span style="padding-right:50px;">Millennial and Generation Z Christian influencers are increasingly filling a void in American religion, growing audiences across digital platforms by steering young people to biblical answers to tough questions that aren’t always answered in Sunday sermons. <a href="https://bsky.app/profile/apnews.com/post/3majprv45ea23" target="_blank">apnews.com</a> (2025-12-22 07:00:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.63 (🔻0.12 : 2025-12-21)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.58 (🔻0.17 : 2025-12-21)</span>
   </div>
 </div>
 
@@ -32,103 +32,94 @@
 
 ## News Headlines
 
-- Russia's Peskov says Putin ready to discuss with Macron if both sides show political will
-- Japan's Nikkei newspaper reports on the impact of the Bank of Japan's interest rate hike on housing loans
-- JETRO signs agreement with Tehran Chamber of Commerce and Industries
-- Nigerian authorities secure release of 130 kidnapped schoolchildren
-- Taiwan and Cambodia's military conflict to be discussed at ASEAN special foreign minister's meeting
-- Japan's labor ministry reports 34.8% of companies have employment opportunities for employees until age 70
-
+[{"en": "US Coast Guard Pursues Third Vessel Near Venezuela"}, 
+ {"en": "Actor James Ransone Dies at 46 of Apparent Suicide"}, 
+ {"en": "Ukraine and US Hail "Productive" Talks in Miami"}, 
+ {"en": "Germany Pledges to Spend $500 Billion on Defense"}, 
+ {"en": "Millennial and Gen Z Christian Influencers Fill Void in American Religion"}, 
+ {"en": "China Targets US Artists Whose Creative Protests Test Tolerance"}]
 
 ----
 
 @japan.reuters.com
 
-ロシア大統領府のペスコフ報道官は２１日、フランスのマクロン大統領がロシアのプーチン大統領との対話の必要性に言及したことを受け、双方に政治的意思があれば、プーチン氏はマクロン氏と協議する用意があると述べた。ロシアの通信社ＲＩＡが伝えた。 bit.ly/4sefa6c
+米沿岸警備隊は、ベネズエラ近海の国際水域で石油タンカーを追跡していると、当局者が２１日にロイターに語った。この作戦が成功すれば、石油タンカーの拿捕（だほ）は今週末で２隻目、２週間足らずで３隻目となる。 bit.ly/4qlxd8G
 
-[2025-12-22 06:48:51](https://bsky.app/profile/japan.reuters.com/post/3majp5fxfrq26)
-
----
-
-@nikkei.com
-
-【住宅ローン、変動か固定か】
-日銀利上げの注意点、専門家に聞く
-www.nikkei.com/article/DGXZQO...
-
-新年度に向けて、住宅ローンの契約や融資実行は年明けから3月ごろに増えます。
-
-家計の状況に応じて自分に合ったローンを選ぶためのチェックポイントを解説します。
-
-[2025-12-22 06:46:41](https://bsky.app/profile/nikkei.com/post/3majozjfjaj2m)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】MLBホワイトソックス 村上宗隆選手と契約合意を発表
-(06:42) #ニュース
-
-[2025-12-22 06:43:25](https://bsky.app/profile/sokuho.news/post/3majotovbe725)
-
----
-
-@nhknewsunofficial.bsky.social
-
-東証 ことし上場廃止の企業124社で過去最多の見通し
-https://news.web.nhk/newsweb/na/na-k10015009921000
-
-[2025-12-22 06:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majorbtozd2k)
-
----
-
-@nytimes.com
-
-Most tweens and teens have their own phone. The right app can help set limits — and aid kids in developing healthy tech habits.
-
-[2025-12-22 06:36:06](https://bsky.app/profile/nytimes.com/post/3majoglogoy2e)
-
----
-
-@nbcnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Actor James Ransone, who starred in "The Wire," dies at 46 of an apparent suicide, according to the L.A. County Medical Examiner.</strong>
-
-[2025-12-22 06:34:32](https://bsky.app/profile/nbcnews.com/post/3majodsqi2x2u)
-
----
-
-@wsj.com
-
-After Germany pledged to spend more than $500 billion on defense in the next decade, manufacturers facing stubborn economic stagnation and falling exports to key markets are scrambling to reinvent themselves as military vendors.
-
-[2025-12-22 06:31:21](https://bsky.app/profile/wsj.com/post/3majo64liu52s)
-
----
-
-@bloomberg.com
-
-At the Humanoids Summit, robots could pour lattes but struggled to fold a t-shirt — a snapshot of a sector full of promise but still wrestling with real-world hurdles.
-
-[2025-12-22 06:30:37](https://bsky.app/profile/bloomberg.com/post/3majo4rr6vg27)
+[2025-12-22 07:09:04](https://bsky.app/profile/japan.reuters.com/post/3majqbklb6r2q)
 
 ---
 
 @usatoday.com
 
-Lindsey Vonn has been on the podium in four of her first five races of the season.
+Jake Paul suffered a devastating knockout at the hands of Anthony Joshua. In the aftermath, Paul underwent jaw surgery and had teeth removed.
 
-[2025-12-22 06:30:22](https://bsky.app/profile/usatoday.com/post/3majo4dstcp2o)
+[2025-12-22 07:01:05](https://bsky.app/profile/usatoday.com/post/3majptbh5sn2w)
+
+---
+
+@cnn.com
+
+Jamie Moyer is back in his hometown of Souderton, Pennsylvania, for his father’s 95th birthday party. He says it was a smashing success, filled with people from Jim Moyer’s near-century in the Philadelphia suburb. 
+
+[2025-12-22 07:01:01](https://bsky.app/profile/cnn.com/post/3majpt5wrud24)
+
+---
+
+@reuters.com
+
+Zambia coach makes belated debut after food poisoning reut.rs/3NaFrC6
+
+[2025-12-22 07:00:40](https://bsky.app/profile/reuters.com/post/3majpsjf6xh2r)
+
+---
+
+@apnews.com
+
+Millennial and Generation Z Christian influencers are increasingly filling a void in American religion, growing audiences across digital platforms by steering young people to biblical answers to tough questions that aren’t always answered in Sunday sermons.
+
+[2025-12-22 07:00:18](https://bsky.app/profile/apnews.com/post/3majprv45ea23)
 
 ---
 
 @washingtonpost.com
 
-Reps. Ro Khanna (D-California) and Thomas Massie (R-Kentucky) said that they will seek to find Attorney General Pam Bondi in contempt of Congress for not releasing more documents related to convicted sex offender Jeffrey Epstein.
+The DOJ released a slice of its massive files on Jeffrey Epstein, a much-anticipated disclosure that revealed new details about the government’s investigation into Epstein’s sex crimes and opulent life.
 
-[2025-12-22 06:30:06](https://bsky.app/profile/washingtonpost.com/post/3majo3ur3h32y)
+[2025-12-22 07:00:14](https://bsky.app/profile/washingtonpost.com/post/3majprqefrr2m)
+
+---
+
+@nytimes.com
+
+The Chinese government once focused on political dissidents and exiled activists. Now, federal officials say, it is targeting artists in the U.S. whose creative protests test its tolerance.
+
+[2025-12-22 07:00:08](https://bsky.app/profile/nytimes.com/post/3majprlb5v32a)
+
+---
+
+@wsj.com
+
+Heard on the Street: Investing in companies that make everyday essentials requires scrutiny.
+
+[2025-12-22 07:00:06](https://bsky.app/profile/wsj.com/post/3majprj6uup2o)
+
+---
+
+@en.afp.com
+
+US and Ukrainian envoys on Sunday hailed what they called "productive and constructive" talks in Miami, but did not announce any apparent breakthrough in efforts to end the war with Russia.
+
+u.afp.com/S8qQ
+
+[2025-12-22 07:00:04](https://bsky.app/profile/en.afp.com/post/3majprhqbxo2j)
+
+---
+
+@aljazeera.com
+
+The country has seen a wave of recent mass abductions, as it suffers from multiple interlinked security concerns.
+
+[2025-12-22 07:00:03](https://bsky.app/profile/aljazeera.com/post/3majprgwtqj2p)
 
 ---
 
