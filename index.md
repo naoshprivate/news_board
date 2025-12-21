@@ -1,9 +1,9 @@
-# [2025-12-21 12:50 updated](2025_12_21.md)
+# [2025-12-21 13:10 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-21 12:48:58) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mahssml53n2a" target="_blank">sokuho.news</a> (2025-12-21 12:49:05)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-21 12:48:40) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mahss34zla2x" target="_blank">sokuho.news</a> (2025-12-21 12:48:46)</span><span style="padding-right:50px;">South Korea's consumer agency to order SK Telecom to compensate 58 hacking victims reut.rs/4jixgQj <a href="https://bsky.app/profile/reuters.com/post/3mahscmatwb2i" target="_blank">reuters.com</a> (2025-12-21 12:40:07)</span><span style="padding-right:50px;">【速報中】全国高校駅伝 男子 1区 飛び出すのは 58校が出場 https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahs3ewlla2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 12:36:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】全国高校駅伝（女子）郷土勢 岡山の倉敷6位・初入賞 四国学院大香川西は欠場【岡山・香川】 (2025-12-21 12:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahs2yjdjb27" target="_blank">sokuho.news</a> (2025-12-21 12:35:52)</span>
+<span style="padding-right:50px;">Homeland Security Secretary Kristi Noem posted on X video she said shows US personnel apprehending an oil tanker off the coast of Venezuela. CNN's Kevin Liptak reports.  Read more: https://cnn.it/4j9QpnA <a href="https://bsky.app/profile/cnn.com/post/3mahtvu7pur25" target="_blank">cnn.com</a> (2025-12-21 13:08:47)</span><span style="padding-right:50px;">Brandon Bradshaw’s passion for turning sewer covers into objects of whimsy has landed him in jail—and turned him into a folk hero in Sioux City, Iowa.  Sioux City has rallied around its “Manhole Michelangelo” and made the city a laughingstock. 🔗: on.wsj.com/3YxSAHX <a href="https://bsky.app/profile/wsj.com/post/3mahtujl6jf2c" target="_blank">wsj.com</a> (2025-12-21 13:08:02)</span><span style="padding-right:50px;">【速報中】全国高校駅伝 男子 学法石川がトップで2区へ https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahtlsljvr2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 13:03:08)</span><span style="padding-right:50px;">栃木 大田原 銀行の出張所でATMなど壊される 重機使用し破壊か https://news.web.nhk/newsweb/na/na-k10015009671000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahtln5cao26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 13:03:02)</span><span style="padding-right:50px;">米司法省は１９日、性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関する資料を公開したが、トランプ大統領に関連する写真などの一部資料が同日に削除されたもようだ。 bit.ly/4jbXbcq <a href="https://bsky.app/profile/japan.reuters.com/post/3mahthoenqk2c" target="_blank">japan.reuters.com</a> (2025-12-21 13:00:51)</span>
   </div>
 </div>
 
@@ -30,127 +30,100 @@
 
 ---
 
-## News Headlines
+@cnn.com
 
-- South Korea's consumer agency to order SK Telecom to compensate 58 hacking victims
-  - 韓国の消費者庁がSKテレコムに58名へのハッキング被害者への補償を命じる
-- Elephants killed in train collision in India's Assam state
-  - インドアッサム州での列車衝突でアジア象7頭が死亡
-- 50 Cent makes appearance at Oklahoma's CFP first-round game
-  - 50セントがオクラホマ大学のCFP準々決勝戦に登場
-- Japanese author David Walliams denies allegations of inappropriate behavior
-  - イギリスの児童文学作家デイビッド・ウォリアムズが不適切な行為の訴えを否定
-- Tesla CEO Elon Musk's net worth surpasses $7 trillion
-  - テスラ最高経営責任者イーロン・マスクの純資産が7000億ドルを超える
-- Russian envoy says talks with US were 'constructive'
-  - ロシアの特使が米との交渉が「建設的」だったと述べる
+Homeland Security Secretary Kristi Noem posted on X video she said shows US personnel apprehending an oil tanker off the coast of Venezuela. CNN's Kevin Liptak reports.
 
+Read more: https://cnn.it/4j9QpnA
 
-----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-21 12:48:58) #緊急地震速報
-
-[2025-12-21 12:49:05](https://bsky.app/profile/sokuho.news/post/3mahssml53n2a)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-21 12:48:40) #緊急地震速報
-
-[2025-12-21 12:48:46](https://bsky.app/profile/sokuho.news/post/3mahss34zla2x)
-
----
-
-@reuters.com
-
-South Korea's consumer agency to order SK Telecom to compensate 58 hacking victims reut.rs/4jixgQj
-
-[2025-12-21 12:40:07](https://bsky.app/profile/reuters.com/post/3mahscmatwb2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【速報中】全国高校駅伝 男子 1区 飛び出すのは 58校が出場
-https://news.web.nhk/newsweb/na/na-k10015007911000
-
-[2025-12-21 12:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahs3ewlla2d)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】全国高校駅伝（女子）郷土勢 岡山の倉敷6位・初入賞 四国学院大香川西は欠場【岡山・香川】
-(2025-12-21 12:20) #ニュース
-
-[2025-12-21 12:35:52](https://bsky.app/profile/sokuho.news/post/3mahs2yjdjb27)
+[2025-12-21 13:08:47](https://bsky.app/profile/cnn.com/post/3mahtvu7pur25)
 
 ---
 
 @wsj.com
 
-Blundstones are the Australian workwear-style Chelsea boots that your barista, bartender and favorite bookstore clerk are wearing. Our writer, prioritizing durability over chicness and, stubbornly anti-trend, wanted to unearth an alternative. 
+Brandon Bradshaw’s passion for turning sewer covers into objects of whimsy has landed him in jail—and turned him into a folk hero in Sioux City, Iowa.
 
-Here's what he found: 🔗 on.wsj.com/4aUTg1l
+Sioux City has rallied around its “Manhole Michelangelo” and made the city a laughingstock. 🔗: on.wsj.com/3YxSAHX
 
-[2025-12-21 12:35:06](https://bsky.app/profile/wsj.com/post/3mahrzmh66l2o)
+[2025-12-21 13:08:02](https://bsky.app/profile/wsj.com/post/3mahtujl6jf2c)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️JNNより【速報】です。
+【速報中】全国高校駅伝 男子 学法石川がトップで2区へ
+https://news.web.nhk/newsweb/na/na-k10015007911000
 
-【速報】21歳の男性の肩甲部を刃物で刺したか ベトナム国籍の19歳男を殺人未遂容疑で逮捕 男は一時逃走＝静岡・裾野市
-(2025-12-21 12:27:00) #ニュース
+[2025-12-21 13:03:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahtlsljvr2x)
 
-[2025-12-21 12:31:40](https://bsky.app/profile/sokuho.news/post/3mahrthtthw2y)
+---
+
+@nhknewsunofficial.bsky.social
+
+栃木 大田原 銀行の出張所でATMなど壊される 重機使用し破壊か
+https://news.web.nhk/newsweb/na/na-k10015009671000
+
+[2025-12-21 13:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahtln5cao26)
+
+---
+
+@japan.reuters.com
+
+米司法省は１９日、性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関する資料を公開したが、トランプ大統領に関連する写真などの一部資料が同日に削除されたもようだ。 bit.ly/4jbXbcq
+
+[2025-12-21 13:00:51](https://bsky.app/profile/japan.reuters.com/post/3mahthoenqk2c)
 
 ---
 
 @nikkei.com
 
-【牛丼大手、「ラーメン」で熱い戦い】
-松屋はつけ麺「六厘舎」買収、吉野家は店舗数4倍へ
+「AI歌手」誕生、思い立って3カ月でビルボード1位　音楽は誰のものか
 www.nikkei.com/article/DGXZQO...
 
-松屋フーズのラーメン店は「松軒中華食堂」「松太郎」の計11店舗から、買収により130店規模に拡大。先行する吉野家HDは500店を目指します。
+■AIで憧れの楽曲作りを始めたアメリカ人女性の成功物語
+■97%の聞き手は人が作った曲とAIが生成した曲を区別できず
+■音楽分野でクリエイターの収入1兆8000億円減も
 
-牛肉やコメの高騰で牛丼並盛りの価格は500円に近づいており、両社は価格転嫁しやすいラーメンに力を入れています。
-
-[2025-12-21 12:30:39](https://bsky.app/profile/nikkei.com/post/3mahrro3hoq2m)
-
----
-
-@reuters.com
-
-Kyrgios to make tour return at Brisbane International reut.rs/4j7Iya7
-
-[2025-12-21 12:30:28](https://bsky.app/profile/reuters.com/post/3mahrrdd3pz2i)
+[2025-12-21 13:00:39](https://bsky.app/profile/nikkei.com/post/3mahthcwdn42m)
 
 ---
 
-@aljazeera.com
+@apnews.com
 
-Russian envoy Kirill Dmitriev says the talks were 'constructive' and will continue on Sunday https://aje.io/hv747z
+A federal jury found the owners of the Grand Gateway Hotel in South Dakota liable for discrimination against Native Americans in a decision on Friday.
 
-[2025-12-21 12:30:05](https://bsky.app/profile/aljazeera.com/post/3mahrqnobn62d)
+[2025-12-21 13:00:28](https://bsky.app/profile/apnews.com/post/3mahtgyaox22k)
+
+---
+
+@washingtonpost.com
+
+To celebrate the 250th anniversary of America’s founding, one agency is tasked with ideas for commemorative coins. Instead of addressing the country’s racial history, the five coins will feature former presidents and a Pilgrim couple. 
+
+[2025-12-21 13:00:08](https://bsky.app/profile/washingtonpost.com/post/3mahtgeyakp24)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Australia retained the Ashes with two tests to spare after paceman Mitchell Starc took three of the last four wickets to blunt England's defiant comeback in the third cricket test.</strong>
+
+[2025-12-21 12:55:46](https://bsky.app/profile/apnews.com/post/3maht6labsa2k)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:北海道東方沖, 深さ:ごく浅い
+マグニチュード:5.2, 最大震度:1
+📍https://www.google.com/maps?q=43.6,147.6&ll=43.6,147.6&z=7&t=h
+地震発生日時:2025-12-21 12:48頃
+(10倍速▶210s→21s) #地震
+
+[2025-12-21 12:53:00](https://bsky.app/profile/sokuho.news/post/3mahszn7m362b)
 
 ---
 
