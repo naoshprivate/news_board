@@ -1,9 +1,9 @@
-# [2025-12-21 17:12 updated](2025_12_21.md)
+# [2025-12-21 17:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">長崎 五島 サンタの衣装着て天主堂目指すチャリティーイベント https://news.web.nhk/newsweb/na/na-k10015009821000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maibdo6zyc24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 17:09:07)</span><span style="padding-right:50px;">クリスマス前に親子で“気を遣わずに楽しむ”コンサート 滋賀 https://news.web.nhk/newsweb/na/na-k10015009811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maibdj7noe26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 17:09:02)</span><span style="padding-right:50px;">Clippers rout Lakers, halt 3 skids; Luka Doncic injures leg reut.rs/4sfHN2X <a href="https://bsky.app/profile/reuters.com/post/3maib4if3z424" target="_blank">reuters.com</a> (2025-12-21 17:05:08)</span><span style="padding-right:50px;">Many of the promises Trump made at Turning Point’s AmericaFest last year — including “lower prices,” an end to foreign wars and “generational change” — have yet to materialize.  <a href="https://bsky.app/profile/cnn.com/post/3maib2ibt7u23" target="_blank">cnn.com</a> (2025-12-21 17:04:01)</span><span style="padding-right:50px;">Royal Mail’s new pension scheme falls 5% in first six months ft.trib.al/oCwTUlW <a href="https://bsky.app/profile/financialtimes.com/post/3maiawckt6a24" target="_blank">financialtimes.com</a> (2025-12-21 17:01:41)</span>
+<span style="padding-right:50px;">AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts <a href="https://bsky.app/profile/cnbc.com/post/3maic3vs7wx2x" target="_blank">cnbc.com</a> (2025-12-21 17:22:43)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大阪自民の復活へ導けるか 松川るい参院議員が府連会長に正式に就任 (2025-12-21 17:08:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maibrioie42v" target="_blank">sokuho.news</a> (2025-12-21 17:16:53)</span><span style="padding-right:50px;">FIS boss Eliasch concerned about venue delays at Milano Cortina Games reut.rs/3Y6OB58 <a href="https://bsky.app/profile/reuters.com/post/3maiboeig7z2b" target="_blank">reuters.com</a> (2025-12-21 17:15:08)</span><span style="padding-right:50px;">長崎 五島 サンタの衣装着て天主堂目指すチャリティーイベント https://news.web.nhk/newsweb/na/na-k10015009821000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maibdo6zyc24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 17:09:07)</span><span style="padding-right:50px;">クリスマス前に親子で“気を遣わずに楽しむ”コンサート 滋賀 https://news.web.nhk/newsweb/na/na-k10015009811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maibdj7noe26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 17:09:02)</span>
   </div>
 </div>
 
@@ -27,6 +27,51 @@
   100% { transform: translateX(-100%); }
 }
 </style>
+
+---
+
+## News Headlines
+
+- AI behind over 50,000 layoffs in 2025, top firms cited
+  - エサインシュイトエントラールに平に一丂为50万にのエサインシュイトエントラール
+- Japan's FIS boss concerned about venue delays at Milano Cortina Games
+  - 私国のFIS詨りのサンタローサインシュイトエントラールに得を定いんするバール
+- US, UK, and Germany condemn Russian invasion of Ukraine
+  - アサインシュイトエントラールにサンタローサインシュイトエントラールに海ただ
+- Israeli PM discusses possible attack on Iran missile facility
+  - アサインシュイトエントラールに巨小を以にからのバールを試しい
+- Japan's high school students participate in charity event dressed as Santa
+  - 私国にサライドタエントラールにサンタローサインシュイトエントラールにバールを定い
+- Japan's NHK reports on Christmas market in Tokyo
+  - 私国にサライドタエントラールにサンタローサインシュイトエントラールにバールを定い
+
+
+----
+
+@cnbc.com
+
+AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts
+
+[2025-12-21 17:22:43](https://bsky.app/profile/cnbc.com/post/3maic3vs7wx2x)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】大阪自民の復活へ導けるか 松川るい参院議員が府連会長に正式に就任
+(2025-12-21 17:08:00) #ニュース
+
+[2025-12-21 17:16:53](https://bsky.app/profile/sokuho.news/post/3maibrioie42v)
+
+---
+
+@reuters.com
+
+FIS boss Eliasch concerned about venue delays at Milano Cortina Games reut.rs/3Y6OB58
+
+[2025-12-21 17:15:08](https://bsky.app/profile/reuters.com/post/3maiboeig7z2b)
 
 ---
 
@@ -92,32 +137,6 @@ www.nikkei.com/article/DGXZQO...
 ノーム米国土安全保障省長官は２０日、沿岸警備隊がベネズエラ沖の国際水域で石油タンカーを拿捕（だほ）したと発表した。米国がベネズエラ沖で石油タンカーを拿捕するのは今月１０日に続き２隻目。 bit.ly/4s5Zjq8
 
 [2025-12-21 17:00:24](https://bsky.app/profile/japan.reuters.com/post/3maiatz2tp62q)
-
----
-
-@reuters.com
-
-Saquon Barkley, Eagles clinch NFC East title with win over Commanders reut.rs/49j3yqZ
-
-[2025-12-21 17:00:15](https://bsky.app/profile/reuters.com/post/3maiatqchil2k)
-
----
-
-@washingtonpost.com
-
-Column: One in 6 American adults uses AI chatbots monthly for health advice, according to health nonprofit KFF. But only about 1 in 3 trust their information.
-
-Here's how ChatGPT's medical advice differed from what one doctor tells his own patients:
-
-[2025-12-21 17:00:10](https://bsky.app/profile/washingtonpost.com/post/3maiatm2fmf2n)
-
----
-
-@aljazeera.com
-
-Vigil in London for Palestinian prisoners held in Israel https://aje.io/krimvr
-
-[2025-12-21 17:00:03](https://bsky.app/profile/aljazeera.com/post/3maiatffhe62h)
 
 ---
 
