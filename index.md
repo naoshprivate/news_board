@@ -1,9 +1,9 @@
-# [2025-12-22 06:30 updated](2025_12_22.md)
+# [2025-12-22 06:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NEW: The U.S. Coast Guard is pursuing a third vessel near Venezuela, a U.S. official says. <a href="https://bsky.app/profile/cbsnews.com/post/3majnub34rv2a" target="_blank">cbsnews.com</a> (2025-12-22 06:25:50)</span><span style="padding-right:50px;">Kremlin says peace prospects not improved by Europe, Ukraine changes to US proposals reut.rs/4aZjkZg <a href="https://bsky.app/profile/reuters.com/post/3majnszzxui2r" target="_blank">reuters.com</a> (2025-12-22 06:25:10)</span><span style="padding-right:50px;">English is at author Oyinkan Braithwaite's fingertips, but her mother tongue is buried deep in her subconscious ft.trib.al/nJmiJp6 <a href="https://bsky.app/profile/financialtimes.com/post/3majnsqynam25" target="_blank">financialtimes.com</a> (2025-12-22 06:25:00)</span><span style="padding-right:50px;">ガザ地区 米主導の和平計画 次の段階へ進める動きが活発化 https://news.web.nhk/newsweb/na/na-k10015010121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majnr3sd3p2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 06:24:02)</span><span style="padding-right:50px;">大相撲 初場所の番付発表 先場所初優勝の安青錦は西の大関に https://news.web.nhk/newsweb/na/na-k10015010111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majnlqvaeb22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 06:21:03)</span>
+<span style="padding-right:50px;">ロシア大統領府のペスコフ報道官は２１日、フランスのマクロン大統領がロシアのプーチン大統領との対話の必要性に言及したことを受け、双方に政治的意思があれば、プーチン氏はマクロン氏と協議する用意があると述べた。ロシアの通信社ＲＩＡが伝えた。 bit.ly/4sefa6c <a href="https://bsky.app/profile/japan.reuters.com/post/3majp5fxfrq26" target="_blank">japan.reuters.com</a> (2025-12-22 06:48:51)</span><span style="padding-right:50px;">【住宅ローン、変動か固定か】 日銀利上げの注意点、専門家に聞く www.nikkei.com/article/DGXZQO...  新年度に向けて、住宅ローンの契約や融資実行は年明けから3月ごろに増えます。  家計の状況に応じて自分に合ったローンを選ぶためのチェックポイントを解説します。 <a href="https://bsky.app/profile/nikkei.com/post/3majozjfjaj2m" target="_blank">nikkei.com</a> (2025-12-22 06:46:41)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】MLBホワイトソックス 村上宗隆選手と契約合意を発表 (06:42) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3majotovbe725" target="_blank">sokuho.news</a> (2025-12-22 06:43:25)</span><span style="padding-right:50px;">東証 ことし上場廃止の企業124社で過去最多の見通し https://news.web.nhk/newsweb/na/na-k10015009921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majorbtozd2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 06:42:02)</span><span style="padding-right:50px;">Most tweens and teens have their own phone. The right app can help set limits — and aid kids in developing healthy tech habits. <a href="https://bsky.app/profile/nytimes.com/post/3majoglogoy2e" target="_blank">nytimes.com</a> (2025-12-22 06:36:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.70 (🔻0.05 : 2025-12-21)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.63 (🔻0.12 : 2025-12-21)</span>
   </div>
 </div>
 
@@ -32,116 +32,103 @@
 
 ## News Headlines
 
-- US Coast Guard Pursues Third Vessel Near Venezuela
-- Kremlin Asserts Europe, Ukraine Changes to US Peace Proposals Have No Impact
-- Gaza Peace Plan Moves Forward with Next Steps
-- Sumo Tournament's Rankings Released, Yokozuna Wakatakakage's Position Uncertain
-- Japan and Cambodia Discuss Military Conflict in ASEAN
-- Over 70% of Companies in Japan Offer Jobs to Employees Over 70
-- Japan Launches H3 Rocket with Michibiki Satellite
-- Morocco Beats Comoros in Cup of Nations Opener
-- Nigerian Authorities Free 130 Kidnapped Schoolchildren
-- Christmas Capital Reels from Floods and Power Outages
-- US Strikes ISIS in Syria Highlight Difficulty in Suppressing Militant Group
-- Guyana Aims to Lure Tourists with Ecotourism Options
-- Colombian Mercenaries Found Dead in Sudan War
-- US Pursues Oil Tanker in International Waters Near Venezuela
-- MLB's White Sox Sign Japanese Pitcher Munetaka Murakami
-- Japan's Government to Propose Record-Breaking Budget for Next Year
-- New Zealand Court Upholds Airport Group's Pricing Rules
-- US Federal Government Transformed in Historic Overhaul
-- College Football Playoff Quarterfinals Set
-- US Gun Violence Fuels Rise in Canadian Gun Smuggling
-- Yellowstone National Park Experiences Muddy Eruption
-- Alabama and Miami Pull Off Upsets in College Football Playoff
+- Russia's Peskov says Putin ready to discuss with Macron if both sides show political will
+- Japan's Nikkei newspaper reports on the impact of the Bank of Japan's interest rate hike on housing loans
+- JETRO signs agreement with Tehran Chamber of Commerce and Industries
+- Nigerian authorities secure release of 130 kidnapped schoolchildren
+- Taiwan and Cambodia's military conflict to be discussed at ASEAN special foreign minister's meeting
+- Japan's labor ministry reports 34.8% of companies have employment opportunities for employees until age 70
 
 
 ----
 
-@cbsnews.com
+@japan.reuters.com
 
-NEW: The U.S. Coast Guard is pursuing a third vessel near Venezuela, a U.S. official says.
+ロシア大統領府のペスコフ報道官は２１日、フランスのマクロン大統領がロシアのプーチン大統領との対話の必要性に言及したことを受け、双方に政治的意思があれば、プーチン氏はマクロン氏と協議する用意があると述べた。ロシアの通信社ＲＩＡが伝えた。 bit.ly/4sefa6c
 
-[2025-12-22 06:25:50](https://bsky.app/profile/cbsnews.com/post/3majnub34rv2a)
-
----
-
-@reuters.com
-
-Kremlin says peace prospects not improved by Europe, Ukraine changes to US proposals reut.rs/4aZjkZg
-
-[2025-12-22 06:25:10](https://bsky.app/profile/reuters.com/post/3majnszzxui2r)
+[2025-12-22 06:48:51](https://bsky.app/profile/japan.reuters.com/post/3majp5fxfrq26)
 
 ---
 
-@financialtimes.com
+@nikkei.com
 
-English is at author Oyinkan Braithwaite's fingertips, but her mother tongue is buried deep in her subconscious ft.trib.al/nJmiJp6
+【住宅ローン、変動か固定か】
+日銀利上げの注意点、専門家に聞く
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-22 06:25:00](https://bsky.app/profile/financialtimes.com/post/3majnsqynam25)
+新年度に向けて、住宅ローンの契約や融資実行は年明けから3月ごろに増えます。
 
----
+家計の状況に応じて自分に合ったローンを選ぶためのチェックポイントを解説します。
 
-@nhknewsunofficial.bsky.social
-
-ガザ地区 米主導の和平計画 次の段階へ進める動きが活発化
-https://news.web.nhk/newsweb/na/na-k10015010121000
-
-[2025-12-22 06:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majnr3sd3p2v)
+[2025-12-22 06:46:41](https://bsky.app/profile/nikkei.com/post/3majozjfjaj2m)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-大相撲 初場所の番付発表 先場所初優勝の安青錦は西の大関に
-https://news.web.nhk/newsweb/na/na-k10015010111000
+🔔ANNより【速報】です。
 
-[2025-12-22 06:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majnlqvaeb22)
+【速報】MLBホワイトソックス 村上宗隆選手と契約合意を発表
+(06:42) #ニュース
+
+[2025-12-22 06:43:25](https://bsky.app/profile/sokuho.news/post/3majotovbe725)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-JETRO イラン首都テヘランの商工会議所と企業交流の覚書締結
-https://news.web.nhk/newsweb/na/na-k10015009971000
+東証 ことし上場廃止の企業124社で過去最多の見通し
+https://news.web.nhk/newsweb/na/na-k10015009921000
 
-[2025-12-22 06:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majngeprti2k)
-
----
-
-@reuters.com
-
-Morocco beat Comoros in Cup of Nations opener after overcoming early nerves reut.rs/4pUMGg8
-
-[2025-12-22 06:15:10](https://bsky.app/profile/reuters.com/post/3majnb65hkx2y)
+[2025-12-22 06:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majorbtozd2k)
 
 ---
 
-@en.afp.com
+@nytimes.com
 
-Nigerian authorities have secured the release of 130 kidnapped schoolchildren taken by gunmen from a Catholic school in November, a presidential spokesman said Sunday, after 100 were freed earlier this month.
+Most tweens and teens have their own phone. The right app can help set limits — and aid kids in developing healthy tech habits.
 
-u.afp.com/S8qN
-
-[2025-12-22 06:15:02](https://bsky.app/profile/en.afp.com/post/3majnawjmry2q)
+[2025-12-22 06:36:06](https://bsky.app/profile/nytimes.com/post/3majoglogoy2e)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nbcnews.com
 
-タイとカンボジアの軍事衝突 ASEAN 特別外相会議で対応協議へ
-https://news.web.nhk/newsweb/na/na-k10015010141000
+<strong><span style="color: red;">BREAKING:</span> Actor James Ransone, who starred in "The Wire," dies at 46 of an apparent suicide, according to the L.A. County Medical Examiner.</strong>
 
-[2025-12-22 06:12:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majn3t35kw2v)
+[2025-12-22 06:34:32](https://bsky.app/profile/nbcnews.com/post/3majodsqi2x2u)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-70歳まで就業機会を確保する企業の割合 6月時点34.8％ 厚労省
-https://news.web.nhk/newsweb/na/na-k10015009611000
+After Germany pledged to spend more than $500 billion on defense in the next decade, manufacturers facing stubborn economic stagnation and falling exports to key markets are scrambling to reinvent themselves as military vendors.
 
-[2025-12-22 06:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majn3ngihw2s)
+[2025-12-22 06:31:21](https://bsky.app/profile/wsj.com/post/3majo64liu52s)
+
+---
+
+@bloomberg.com
+
+At the Humanoids Summit, robots could pour lattes but struggled to fold a t-shirt — a snapshot of a sector full of promise but still wrestling with real-world hurdles.
+
+[2025-12-22 06:30:37](https://bsky.app/profile/bloomberg.com/post/3majo4rr6vg27)
+
+---
+
+@usatoday.com
+
+Lindsey Vonn has been on the podium in four of her first five races of the season.
+
+[2025-12-22 06:30:22](https://bsky.app/profile/usatoday.com/post/3majo4dstcp2o)
+
+---
+
+@washingtonpost.com
+
+Reps. Ro Khanna (D-California) and Thomas Massie (R-Kentucky) said that they will seek to find Attorney General Pam Bondi in contempt of Congress for not releasing more documents related to convicted sex offender Jeffrey Epstein.
+
+[2025-12-22 06:30:06](https://bsky.app/profile/washingtonpost.com/post/3majo3ur3h32y)
 
 ---
 
