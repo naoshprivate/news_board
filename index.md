@@ -1,9 +1,9 @@
-# [2025-12-21 14:30 updated](2025_12_21.md)
+# [2025-12-21 14:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Revolut clashes with former staff over tax on share awards ft.trib.al/eZSfBJo <a href="https://bsky.app/profile/financialtimes.com/post/3mahy5zsr6i24" target="_blank">financialtimes.com</a> (2025-12-21 14:24:56)</span><span style="padding-right:50px;">【速報中】全国高校駅伝 学法石川 トップ守り最終7区へ https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahxx4yrig2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 14:21:03)</span><span style="padding-right:50px;">Fidelity pledges crackdown on excessive corporate pay ft.trib.al/Rc6P3l1 <a href="https://bsky.app/profile/financialtimes.com/post/3mahxry5use2o" target="_blank">financialtimes.com</a> (2025-12-21 14:18:12)</span><span style="padding-right:50px;">Role reversal: how foot-dragging France blindsided newly assertive Berlin ft.trib.al/a381eTM <a href="https://bsky.app/profile/financialtimes.com/post/3mahxo2xz2n25" target="_blank">financialtimes.com</a> (2025-12-21 14:16:01)</span><span style="padding-right:50px;">フィギュア 全日本選手権“りくりゅう”ペア 後半のフリー棄権 https://news.web.nhk/newsweb/na/na-k10015009691000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahxmk5fyj2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 14:15:07)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】全国高校駅伝・男子 鎮西学院は51位 (2025-12-21 14:43:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahzdi2u242v" target="_blank">sokuho.news</a> (2025-12-21 14:45:53)</span><span style="padding-right:50px;"> Year in a word: Affordability ft.trib.al/EqnloZ3  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mahytvqjha2f" target="_blank">financialtimes.com</a> (2025-12-21 14:37:10)</span><span style="padding-right:50px;"> Wool is no longer the black sheep of agricultural commodities ft.trib.al/hzK6S8z  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mahytvd7s42y" target="_blank">financialtimes.com</a> (2025-12-21 14:37:10)</span><span style="padding-right:50px;">【速報中】全国高校駅伝 男子 学法石川が初優勝 大会新記録で https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahyrxof4w2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 14:36:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】全国高校駅伝 男子・学法石川が初優勝 大会新記録 (2025-12-21 14:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahyrexvbl2x" target="_blank">sokuho.news</a> (2025-12-21 14:35:46)</span>
   </div>
 </div>
 
@@ -32,105 +32,111 @@
 
 ## News Headlines
 
-- Revolut clashes with former staff over tax on share awards
-  - Revolutと元従業員が株式報酬の税金について対立
-- England's Ashes dream is over but Stokes vows to fight on
-  - 英国のアッシュズの夢は終わりだがストークスは戦いを続ける
-- Ukraine's Zelensky proposes joint talks on Ukraine, US, Russia
-  - ウクライナのゼレンスキー大統領が米国・ウクライナ・ロシアによる高官会談の提案
-- Dhanbad: India's coal town struggles to break free from dirty fuel
-  - インドのダナバード：黒鉱を捨てようとする町
-- Brandon Bradshaw, the 'Manhole Michelangelo', lands in jail for turning sewer covers into art
-  - ブランドン・ブラッドショー：下水道のカバーを美しいものに変える奇跡の男
-- BREAKING: Australia retains Ashes with two tests to spare
-  - 【速報】オーストラリアがアッシュズを制し、残り2試合で
-- 5.2-magnitude earthquake hits off eastern coast of Hokkaido, Japan
-  - 北海道東方沖でマグニチュード5.2の地震
+- Japanese Team Wins National High School Relay Championship for the First Time
+  - 全国高校駅伝で初優勝　学法石川
+- US Seizes Second Oil Tanker Off Venezuela
+  - 米国がベネズエラ沖で石油タンカーを拿捕
+- Mass Shooting in South Africa Leaves at Least 9 Dead
+  - 南アフリカで9人以上の殺人事件
+- New Stew Recipes to Warm Your Belly and Home
+  - 季節の représentation　温めにいいスープのレシピ
+- Oregon Beats James Madison in College Football Playoff
+  - カレッジフットボール　オレゴン大学が決勝勝利
+- Australian PM Announces Intelligence Review After Bondi Attack
+  - オーストラリアの首相　「ボンディで起きた事件を調べる調査チームを設置
 
 
 ----
 
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】全国高校駅伝・男子 鎮西学院は51位
+(2025-12-21 14:43:00) #ニュース
+
+[2025-12-21 14:45:53](https://bsky.app/profile/sokuho.news/post/3mahzdi2u242v)
+
+---
+
 @financialtimes.com
 
-Revolut clashes with former staff over tax on share awards ft.trib.al/eZSfBJo
+ Year in a word: Affordability ft.trib.al/EqnloZ3  | opinion
 
-[2025-12-21 14:24:56](https://bsky.app/profile/financialtimes.com/post/3mahy5zsr6i24)
+[2025-12-21 14:37:10](https://bsky.app/profile/financialtimes.com/post/3mahytvqjha2f)
+
+---
+
+@financialtimes.com
+
+ Wool is no longer the black sheep of agricultural commodities ft.trib.al/hzK6S8z  | opinion
+
+[2025-12-21 14:37:10](https://bsky.app/profile/financialtimes.com/post/3mahytvd7s42y)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【速報中】全国高校駅伝 学法石川 トップ守り最終7区へ
+【速報中】全国高校駅伝 男子 学法石川が初優勝 大会新記録で
 https://news.web.nhk/newsweb/na/na-k10015007911000
 
-[2025-12-21 14:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahxx4yrig2b)
+[2025-12-21 14:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahyrxof4w2x)
 
 ---
 
-@financialtimes.com
+@sokuho.news
 
-Fidelity pledges crackdown on excessive corporate pay ft.trib.al/Rc6P3l1
+🛎️FNNより【速報】です。
 
-[2025-12-21 14:18:12](https://bsky.app/profile/financialtimes.com/post/3mahxry5use2o)
+【速報】全国高校駅伝 男子・学法石川が初優勝 大会新記録
+(2025-12-21 14:30) #ニュース
 
----
-
-@financialtimes.com
-
-Role reversal: how foot-dragging France blindsided newly assertive Berlin ft.trib.al/a381eTM
-
-[2025-12-21 14:16:01](https://bsky.app/profile/financialtimes.com/post/3mahxo2xz2n25)
+[2025-12-21 14:35:46](https://bsky.app/profile/sokuho.news/post/3mahyrexvbl2x)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-フィギュア 全日本選手権“りくりゅう”ペア 後半のフリー棄権
-https://news.web.nhk/newsweb/na/na-k10015009691000
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>【速報中】全国高校駅伝 男子 学法石川が初優勝 大会新記録で</strong><br><strong>(2025-12-21 14:34:25) #ニュース</strong>
 
-[2025-12-21 14:15:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahxmk5fyj2d)
+[2025-12-21 14:34:48](https://bsky.app/profile/sokuho.news/post/3mahypoc7je2s)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-米メディア“富豪エプスタイン氏めぐる捜査資料公開”連日報道
-https://news.web.nhk/newsweb/na/na-k10015009701000
+オーストラリアの先住民アート「アボリジナルアーツ」、美術館で脚光
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-21 14:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahxmfelb224)
+6万年ほど前からオーストラリア大陸に定住し、壁画や踊りで受け継がれる神話などで文化を継承してきた先住民。
+
+アボリジナルアーツにはそうした先住民の独特の世界観や文化が反映されており、オークションでコレクターが高額落札する例も出ています。
+
+[2025-12-21 14:30:40](https://bsky.app/profile/nikkei.com/post/3mahyib62dz2m)
 
 ---
 
 @japan.reuters.com
 
-米情報機関がまとめた報告によると、ロシアのプーチン大統領はウクライナ全土のほか、旧ソ連に属していた欧州の一部地域を占領する目標をなお放棄していないという。事情に詳しい関係者６人が明らかにした。 bit.ly/493syRT
+ノーム米国土安全保障省長官は２０日、沿岸警備隊がベネズエラ沖の国際水域で石油タンカーを拿捕（だほ）したと発表した。米国がベネズエラ沖で石油タンカーを拿捕するのは今月１０日に続き２隻目。 bit.ly/4sfCFvJ
 
-[2025-12-21 14:12:32](https://bsky.app/profile/japan.reuters.com/post/3mahxhtnosd26)
-
----
-
-@financialtimes.com
-
- Looking back on a year of AI blunders ft.trib.al/v0c6S4V  | opinion
-
-[2025-12-21 14:07:12](https://bsky.app/profile/financialtimes.com/post/3mahx6clw3224)
+[2025-12-21 14:30:16](https://bsky.app/profile/japan.reuters.com/post/3mahyhkhnia2n)
 
 ---
 
-@financialtimes.com
+@apnews.com
 
- In praise of male courage ft.trib.al/iYLl3Py  | opinion
+It's not that unusual for a 20-something to text Mom from the doctor's office for help answering a health question.
 
-[2025-12-21 14:07:11](https://bsky.app/profile/financialtimes.com/post/3mahx6c5rsd2y)
+[2025-12-21 14:30:08](https://bsky.app/profile/apnews.com/post/3mahyhd7liq2d)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@aljazeera.com
 
-【速報中】全国高校駅伝 学法石川 大会記録更新ペースで6区へ
-https://news.web.nhk/newsweb/na/na-k10015007911000
+South African police say that a manhunt is underway after a mass shooting killed at least 9 people and injured 10 more.
 
-[2025-12-21 14:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahx4ciktn2y)
+[2025-12-21 14:30:02](https://bsky.app/profile/aljazeera.com/post/3mahyh5iped22)
 
 ---
 
