@@ -1,9 +1,9 @@
-# [2025-12-21 13:10 updated](2025_12_21.md)
+# [2025-12-21 13:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Homeland Security Secretary Kristi Noem posted on X video she said shows US personnel apprehending an oil tanker off the coast of Venezuela. CNN's Kevin Liptak reports.  Read more: https://cnn.it/4j9QpnA <a href="https://bsky.app/profile/cnn.com/post/3mahtvu7pur25" target="_blank">cnn.com</a> (2025-12-21 13:08:47)</span><span style="padding-right:50px;">Brandon Bradshaw’s passion for turning sewer covers into objects of whimsy has landed him in jail—and turned him into a folk hero in Sioux City, Iowa.  Sioux City has rallied around its “Manhole Michelangelo” and made the city a laughingstock. 🔗: on.wsj.com/3YxSAHX <a href="https://bsky.app/profile/wsj.com/post/3mahtujl6jf2c" target="_blank">wsj.com</a> (2025-12-21 13:08:02)</span><span style="padding-right:50px;">【速報中】全国高校駅伝 男子 学法石川がトップで2区へ https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahtlsljvr2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 13:03:08)</span><span style="padding-right:50px;">栃木 大田原 銀行の出張所でATMなど壊される 重機使用し破壊か https://news.web.nhk/newsweb/na/na-k10015009671000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahtln5cao26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 13:03:02)</span><span style="padding-right:50px;">米司法省は１９日、性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関する資料を公開したが、トランプ大統領に関連する写真などの一部資料が同日に削除されたもようだ。 bit.ly/4jbXbcq <a href="https://bsky.app/profile/japan.reuters.com/post/3mahthoenqk2c" target="_blank">japan.reuters.com</a> (2025-12-21 13:00:51)</span>
+<span style="padding-right:50px;">【速報中】全国高校駅伝 男子 学法石川がトップ守り3区へ https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahu3qmmqz2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 13:12:03)</span><span style="padding-right:50px;">Homeland Security Secretary Kristi Noem posted on X video she said shows US personnel apprehending an oil tanker off the coast of Venezuela. CNN's Kevin Liptak reports.  Read more: https://cnn.it/4j9QpnA <a href="https://bsky.app/profile/cnn.com/post/3mahtvu7pur25" target="_blank">cnn.com</a> (2025-12-21 13:08:47)</span><span style="padding-right:50px;">Brandon Bradshaw’s passion for turning sewer covers into objects of whimsy has landed him in jail—and turned him into a folk hero in Sioux City, Iowa.  Sioux City has rallied around its “Manhole Michelangelo” and made the city a laughingstock. 🔗: on.wsj.com/3YxSAHX <a href="https://bsky.app/profile/wsj.com/post/3mahtujl6jf2c" target="_blank">wsj.com</a> (2025-12-21 13:08:02)</span><span style="padding-right:50px;">【速報中】全国高校駅伝 男子 学法石川がトップで2区へ https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahtlsljvr2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 13:03:08)</span><span style="padding-right:50px;">栃木 大田原 銀行の出張所でATMなど壊される 重機使用し破壊か https://news.web.nhk/newsweb/na/na-k10015009671000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahtln5cao26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 13:03:02)</span>
   </div>
 </div>
 
@@ -27,6 +27,31 @@
   100% { transform: translateX(-100%); }
 }
 </style>
+
+---
+
+## News Headlines
+
+- US Personnel Apprehend Oil Tanker Off Venezuela
+  - ベネズエラ沖で米軍が油タンカーを拿捕
+- Brandon Bradshaw's Manhole Art Lands Him in Jail
+  - 「マンホールのミケランジェロ」と呼ばれた男が逮捕
+- Australian Team Retains Ashes
+  - オーストラリアがアッシュを奪還
+- US Justice Department Releases Epstein Documents
+  - エプスタイン氏関連資料　米司法省が一部削除
+- AI Singer Becomes Billboard No. 1
+  - 「AI歌手」がビルボード1位に
+
+
+----
+
+@nhknewsunofficial.bsky.social
+
+【速報中】全国高校駅伝 男子 学法石川がトップ守り3区へ
+https://news.web.nhk/newsweb/na/na-k10015007911000
+
+[2025-12-21 13:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahu3qmmqz2m)
 
 ---
 
@@ -110,20 +135,6 @@ To celebrate the 250th anniversary of America’s founding, one agency is tasked
 <strong><span style="color: red;">BREAKING:</span> Australia retained the Ashes with two tests to spare after paceman Mitchell Starc took three of the last four wickets to blunt England's defiant comeback in the third cricket test.</strong>
 
 [2025-12-21 12:55:46](https://bsky.app/profile/apnews.com/post/3maht6labsa2k)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:北海道東方沖, 深さ:ごく浅い
-マグニチュード:5.2, 最大震度:1
-📍https://www.google.com/maps?q=43.6,147.6&ll=43.6,147.6&z=7&t=h
-地震発生日時:2025-12-21 12:48頃
-(10倍速▶210s→21s) #地震
-
-[2025-12-21 12:53:00](https://bsky.app/profile/sokuho.news/post/3mahszn7m362b)
 
 ---
 
