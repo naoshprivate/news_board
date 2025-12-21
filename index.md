@@ -1,9 +1,9 @@
-# [2025-12-22 03:50 updated](2025_12_22.md)
+# [2025-12-22 04:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【全国唯一の恐竜学部】 福井県立大学・西弘嗣学部長「恐竜を起点に新たな産業」 www.nikkei.com/article/DGXZQO...  福井県は新種の化石が相次いで見つかる「恐竜王国」。福井県立大学が2025年4月に開設した恐竜学部は、少子化が進む仲で多くの学生をひき付けています。  初年度の手応えや今後の教育研究についてインタビューしました。 <a href="https://bsky.app/profile/nikkei.com/post/3majezimy5q24" target="_blank">nikkei.com</a> (2025-12-22 03:47:43)</span><span style="padding-right:50px;">BREAKING: The Coast Guard is in "active pursuit" of a sanctioned vessel in international waters off the coast of Venezuela, two U.S. officials said. <a href="https://bsky.app/profile/nbcnews.com/post/3majeyzwtil2n" target="_blank">nbcnews.com</a> (2025-12-22 03:47:27)</span><span style="padding-right:50px;">Superb Rogers double gives Aston Villa 2-1 win over Manchester United reut.rs/4pR9GwB <a href="https://bsky.app/profile/reuters.com/post/3majeuyzeju23" target="_blank">reuters.com</a> (2025-12-22 03:45:12)</span><span style="padding-right:50px;">White Sox make unexpected move, sign Japanese star Munetaka Murakami reut.rs/3MSB4LV <a href="https://bsky.app/profile/reuters.com/post/3majelza4ts2x" target="_blank">reuters.com</a> (2025-12-22 03:40:10)</span><span style="padding-right:50px;">Guan Heng sailed to the U.S. by boat from the Bahamas after publishing footage he filmed of purported detention camps in China. He has been held in immigration detention since August. <a href="https://bsky.app/profile/npr.org/post/3majef7tdru2e" target="_blank">npr.org</a> (2025-12-22 03:36:22)</span>
+<span style="padding-right:50px;">Connections is a daily game about finding common threads between words. Players must select four groups of four words without making more than three mistakes. Play now. trib.al/R27QzUh <a href="https://bsky.app/profile/nytimes.com/post/3majg5p3sms26" target="_blank">nytimes.com</a> (2025-12-22 04:07:57)</span><span style="padding-right:50px;">Congress's punt ensures healthcare will remain a top issue in January — and 'very likely through spring' <a href="https://bsky.app/profile/yahoofinance.com/post/3majg2etvf72s" target="_blank">yahoofinance.com</a> (2025-12-22 04:06:06)</span><span style="padding-right:50px;">American Tien defeats Belgian Blockx to win Next Gen ATP Finals title reut.rs/48Q0oej <a href="https://bsky.app/profile/reuters.com/post/3majfymx6zq2r" target="_blank">reuters.com</a> (2025-12-22 04:05:07)</span><span style="padding-right:50px;">Timberwolves head coach Chris Finch fined $35K by NBA reut.rs/3MN2oeC <a href="https://bsky.app/profile/reuters.com/post/3majfrarlit2o" target="_blank">reuters.com</a> (2025-12-22 04:01:00)</span><span style="padding-right:50px;">"Rush Hour" director Brett Ratner, who is helming first lady Melania Trump's upcoming documentary, is in a photo in the Epstein files. <a href="https://bsky.app/profile/usatoday.com/post/3majfqpszwt2o" target="_blank">usatoday.com</a> (2025-12-22 04:00:42)</span>
   </div>
 </div>
 
@@ -32,101 +32,99 @@
 
 ## News Headlines
 
-- Venezuela's Oil Tanker Chased by US Coast Guard
-- Aston Villa Defeats Manchester United With 2-1 Win
-- Japanese Star Munetaka Murakami Signs with White Sox
-- Guan Heng Detained in US After Publishing Footage of Chinese Detention Camps
-- Australia Pushes for Tighter Gun Laws After Bondi Beach Attack
-- George Clooney Pays Tribute to Late Sister Adelia Zeidler
+- US Coast Guard Pursues Sanctioned Vessel Off Venezuela
+- Congress's Delay on Healthcare Ensures It'll Remain a Top Issue
+- Waymo Pauses Robotaxi Service in San Francisco After Blackout
+- Prince William and Son George Volunteer at Homeless Shelter in London
+- US Coast Guard Intercepts Second Tanker Off Venezuela This Weekend
+- Fraudulent AI-Generated Music Tracks Appear on Streaming Platforms
 
 
 ----
 
-@nikkei.com
+@nytimes.com
 
-【全国唯一の恐竜学部】
-福井県立大学・西弘嗣学部長「恐竜を起点に新たな産業」
-www.nikkei.com/article/DGXZQO...
+Connections is a daily game about finding common threads between words. Players must select four groups of four words without making more than three mistakes. Play now. trib.al/R27QzUh
 
-福井県は新種の化石が相次いで見つかる「恐竜王国」。福井県立大学が2025年4月に開設した恐竜学部は、少子化が進む仲で多くの学生をひき付けています。
-
-初年度の手応えや今後の教育研究についてインタビューしました。
-
-[2025-12-22 03:47:43](https://bsky.app/profile/nikkei.com/post/3majezimy5q24)
+[2025-12-22 04:07:57](https://bsky.app/profile/nytimes.com/post/3majg5p3sms26)
 
 ---
 
-@nbcnews.com
+@yahoofinance.com
 
-<strong><span style="color: red;">BREAKING:</span> The Coast Guard is in "active pursuit" of a sanctioned vessel in international waters off the coast of Venezuela, two U.S. officials said.</strong>
+Congress's punt ensures healthcare will remain a top issue in January — and 'very likely through spring'
 
-[2025-12-22 03:47:27](https://bsky.app/profile/nbcnews.com/post/3majeyzwtil2n)
+[2025-12-22 04:06:06](https://bsky.app/profile/yahoofinance.com/post/3majg2etvf72s)
 
 ---
 
 @reuters.com
 
-Superb Rogers double gives Aston Villa 2-1 win over Manchester United reut.rs/4pR9GwB
+American Tien defeats Belgian Blockx to win Next Gen ATP Finals title reut.rs/48Q0oej
 
-[2025-12-22 03:45:12](https://bsky.app/profile/reuters.com/post/3majeuyzeju23)
+[2025-12-22 04:05:07](https://bsky.app/profile/reuters.com/post/3majfymx6zq2r)
 
 ---
 
 @reuters.com
 
-White Sox make unexpected move, sign Japanese star Munetaka Murakami reut.rs/3MSB4LV
+Timberwolves head coach Chris Finch fined $35K by NBA reut.rs/3MN2oeC
 
-[2025-12-22 03:40:10](https://bsky.app/profile/reuters.com/post/3majelza4ts2x)
-
----
-
-@npr.org
-
-Guan Heng sailed to the U.S. by boat from the Bahamas after publishing footage he filmed of purported detention camps in China. He has been held in immigration detention since August.
-
-[2025-12-22 03:36:22](https://bsky.app/profile/npr.org/post/3majef7tdru2e)
-
----
-
-@matthewhaybrown.bsky.social
-
-FACT CHECK American companies never owned oil or land in Venezuela, and officials didn’t kick them out. Venezuela, following Mexico, Brazil and Saudi Arabia, nationalized its most lucrative sector in 1976 and developed mutually beneficial partnerships with American and other firms
-
-wapo.st/4jblLKs
-
-[2025-12-22 03:34:07](https://bsky.app/profile/matthewhaybrown.bsky.social/post/3majeb6kpv22m)
-
----
-
-@bloomberg.com
-
-A swift push to tighten gun laws following the Bondi Beach terrorist attack underscores how far apart Australia and the US stand on confronting firearm violence.
-
-[2025-12-22 03:30:25](https://bsky.app/profile/bloomberg.com/post/3maje2l76mo23)
+[2025-12-22 04:01:00](https://bsky.app/profile/reuters.com/post/3majfrarlit2o)
 
 ---
 
 @usatoday.com
 
-George Clooney is paying tribute to his "brave" sister Adelia "Ada" Zeidler, who has died at age 65 after a battle with cancer.
+"Rush Hour" director Brett Ratner, who is helming first lady Melania Trump's upcoming documentary, is in a photo in the Epstein files.
 
-[2025-12-22 03:30:17](https://bsky.app/profile/usatoday.com/post/3maje2deb2n2g)
-
----
-
-@forbes.com
-
-The third “Avatar” movie has also grossed over $257 million in international markets, for a combined total of $345 million.
-
-[2025-12-22 03:30:04](https://bsky.app/profile/forbes.com/post/3majdzxh3t22q)
+[2025-12-22 04:00:42](https://bsky.app/profile/usatoday.com/post/3majfqpszwt2o)
 
 ---
 
-@financialtimes.com
+@apnews.com
 
-Opinion: Has public debt in the developed world become unmanageable? Recent debt numbers starkly underline how far we have moved beyond the ancient public finance paradigm whereby debt was racked up in wars and paid down in peacetime ft.trib.al/CCWRAox
+Warner Bros. Discovery is in the middle of a Hollywood tug-of-war between Netflix and Paramount. And chances are it’ll be a long, bumpy regulatory road ahead for either buyer.
 
-[2025-12-22 03:30:03](https://bsky.app/profile/financialtimes.com/post/3majdzvofch2b)
+[2025-12-22 04:00:20](https://bsky.app/profile/apnews.com/post/3majfq34qn62d)
+
+---
+
+@cnn.com
+
+The Prince of Wales and his son George volunteered at a homeless charity in London this week, a trip reminiscent of William’s own upbringing having been introduced to the shelter at a similar age by his mother Diana, the late Princess of Wales. https://cnn.it/3Lfvgf3
+
+[2025-12-22 04:00:16](https://bsky.app/profile/cnn.com/post/3majfpwuma325)
+
+---
+
+@washingtonpost.com
+
+The U.S. Coast Guard is pursuing a tanker off the coast of Venezuela, a U.S. official said, in what would mark the third interception of a tanker in the waters off that country this month.
+
+This would be the second tanker the U.S. stopped this weekend. 
+
+[2025-12-22 04:00:15](https://bsky.app/profile/washingtonpost.com/post/3majfpwfwmh2x)
+
+---
+
+@cnbc.com
+
+Southwest's CEO Bob Jordan said the carrier is weighing a network of airport lounges.
+
+Jordan told CNBC he thinks “lounges would be a huge, next benefit for our customers.”
+
+[2025-12-22 04:00:10](https://bsky.app/profile/cnbc.com/post/3majfprfm5y2b)
+
+---
+
+@en.afp.com
+
+Does the latest track by your favorite singer sound slightly off? You may be right. Fraudulent AI-generated tracks are increasingly appearing in artists' own profiles on streaming platforms, presented as their original work.
+
+u.afp.com/S8T9
+
+[2025-12-22 04:00:07](https://bsky.app/profile/en.afp.com/post/3majfpotzyg2j)
 
 ---
 
