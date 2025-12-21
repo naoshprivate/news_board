@@ -1,9 +1,9 @@
-# [2025-12-21 16:52 updated](2025_12_21.md)
+# [2025-12-21 17:12 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">青森 八戸でクリスマスマーケット開催 多くの人でにぎわう https://news.web.nhk/newsweb/na/na-k10015009801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maia5ycnvf2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 16:48:02)</span><span style="padding-right:50px;">京都 「三千院」の僧侶が「托鉢寒行」 新年の家内安全など願う https://news.web.nhk/newsweb/na/na-k10015009771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7tbbkia2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 16:42:02)</span><span style="padding-right:50px;">フィギュア 全日本選手権 アイスダンス 吉田 森田が2連覇 https://news.web.nhk/newsweb/na/na-k10015009791000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7o276iq2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 16:39:08)</span><span style="padding-right:50px;">富山 氷見の神社で宮司が描いた畳4畳分の絵馬 奉納する神事 https://news.web.nhk/newsweb/na/na-k10015009761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7nuxwsj22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 16:39:02)</span><span style="padding-right:50px;">バレーボール 全日本選手権 女子決勝 大阪マーヴェラスが優勝 https://news.web.nhk/newsweb/na/na-k10015009781000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7ijvn5m2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 16:36:03)</span>
+<span style="padding-right:50px;">長崎 五島 サンタの衣装着て天主堂目指すチャリティーイベント https://news.web.nhk/newsweb/na/na-k10015009821000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maibdo6zyc24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 17:09:07)</span><span style="padding-right:50px;">クリスマス前に親子で“気を遣わずに楽しむ”コンサート 滋賀 https://news.web.nhk/newsweb/na/na-k10015009811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maibdj7noe26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 17:09:02)</span><span style="padding-right:50px;">Clippers rout Lakers, halt 3 skids; Luka Doncic injures leg reut.rs/4sfHN2X <a href="https://bsky.app/profile/reuters.com/post/3maib4if3z424" target="_blank">reuters.com</a> (2025-12-21 17:05:08)</span><span style="padding-right:50px;">Many of the promises Trump made at Turning Point’s AmericaFest last year — including “lower prices,” an end to foreign wars and “generational change” — have yet to materialize.  <a href="https://bsky.app/profile/cnn.com/post/3maib2ibt7u23" target="_blank">cnn.com</a> (2025-12-21 17:04:01)</span><span style="padding-right:50px;">Royal Mail’s new pension scheme falls 5% in first six months ft.trib.al/oCwTUlW <a href="https://bsky.app/profile/financialtimes.com/post/3maiawckt6a24" target="_blank">financialtimes.com</a> (2025-12-21 17:01:41)</span>
   </div>
 </div>
 
@@ -32,96 +32,92 @@
 
 @nhknewsunofficial.bsky.social
 
-青森 八戸でクリスマスマーケット開催 多くの人でにぎわう
-https://news.web.nhk/newsweb/na/na-k10015009801000
+長崎 五島 サンタの衣装着て天主堂目指すチャリティーイベント
+https://news.web.nhk/newsweb/na/na-k10015009821000
 
-[2025-12-21 16:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maia5ycnvf2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-京都 「三千院」の僧侶が「托鉢寒行」 新年の家内安全など願う
-https://news.web.nhk/newsweb/na/na-k10015009771000
-
-[2025-12-21 16:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7tbbkia2m)
+[2025-12-21 17:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maibdo6zyc24)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-フィギュア 全日本選手権 アイスダンス 吉田 森田が2連覇
-https://news.web.nhk/newsweb/na/na-k10015009791000
+クリスマス前に親子で“気を遣わずに楽しむ”コンサート 滋賀
+https://news.web.nhk/newsweb/na/na-k10015009811000
 
-[2025-12-21 16:39:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7o276iq2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-富山 氷見の神社で宮司が描いた畳4畳分の絵馬 奉納する神事
-https://news.web.nhk/newsweb/na/na-k10015009761000
-
-[2025-12-21 16:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7nuxwsj22)
+[2025-12-21 17:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maibdj7noe26)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-バレーボール 全日本選手権 女子決勝 大阪マーヴェラスが優勝
-https://news.web.nhk/newsweb/na/na-k10015009781000
+Clippers rout Lakers, halt 3 skids; Luka Doncic injures leg reut.rs/4sfHN2X
 
-[2025-12-21 16:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai7ijvn5m2s)
-
----
-
-@nikkei.com
-
-ドイツ、クリスマスマーケットが厳戒態勢
-www.nikkei.com/article/DGXZQO...
-
-会場では車両が進入できないように障害物を置くなど、物々しい警備態勢が敷かれます。
-
-2024年に東部マクデブルクの市場に車が突入して6人が死亡、300人が負傷する事件が発生。2025年も襲撃計画の疑いで逮捕者が出ました。
-
-SNS上では不安に乗じて反移民感情をあおる偽情報も拡散され、混乱が広がります。
-
-[2025-12-21 16:30:40](https://bsky.app/profile/nikkei.com/post/3mai76ttj6v2y)
-
----
-
-@japan.reuters.com
-
-米情報機関がまとめた報告によると、ロシアのプーチン大統領はウクライナ全土のほか、旧ソ連に属していた欧州の一部地域を占領する目標をなお放棄していないという。事情に詳しい関係者６人が明らかにした。 bit.ly/48P2c7b
-
-[2025-12-21 16:30:20](https://bsky.app/profile/japan.reuters.com/post/3mai76b3syw2s)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】「平屋の軒から黒煙と火が見える」と通報 北海道室蘭市の平屋住宅で火事 1人負傷
-(2025-12-21 15:39:00) #ニュース
-
-[2025-12-21 16:25:55](https://bsky.app/profile/sokuho.news/post/3mai6weedc22b)
-
----
-
-@japan.reuters.com
-
-イスラエルが今年６月に攻撃したイランの弾道ミサイル施設における生産拡大に懸念を強めており、ネタニヤフ首相がトランプ米大統領との会談で再攻撃の可能性について説明する準備を進めていると、米ＮＢＣテレビが２０日報じた。 bit.ly/3KIF8hn
-
-[2025-12-21 16:12:15](https://bsky.app/profile/japan.reuters.com/post/3mai65w2ynz2n)
+[2025-12-21 17:05:08](https://bsky.app/profile/reuters.com/post/3maib4if3z424)
 
 ---
 
 @cnn.com
 
-You don’t need to be Martha Stewart or Ina Garten to make phenomenal jams. All you need is a little bit of fruit, sugar and a clean jar. https://cnn.it/4p6cIMk
+Many of the promises Trump made at Turning Point’s AmericaFest last year — including “lower prices,” an end to foreign wars and “generational change” — have yet to materialize. 
 
-[2025-12-21 16:05:01](https://bsky.app/profile/cnn.com/post/3mai5qyon422v)
+[2025-12-21 17:04:01](https://bsky.app/profile/cnn.com/post/3maib2ibt7u23)
+
+---
+
+@financialtimes.com
+
+Royal Mail’s new pension scheme falls 5% in first six months ft.trib.al/oCwTUlW
+
+[2025-12-21 17:01:41](https://bsky.app/profile/financialtimes.com/post/3maiawckt6a24)
+
+---
+
+@nikkei.com
+
+スーパー総菜「おいしいもの総選挙2025」、最高グランプリはフジ「おばあちゃん巻き」
+www.nikkei.com/article/DGXZQO...
+
+中四国スーパー大手・フジの手巻きずし「十品目のおばあちゃん巻き」は8個入りで753円。
+
+店では20年以上前から売るロングセラーで、手巻きの質にこだわるあまり、社内検定に合格した従業員のみが調理できる仕組みをとっています。
+
+特別賞の「コスパ最強賞」には、2024年に続いて大阪の名物格安店「スーパー玉出」が選ばれました。
+
+[2025-12-21 17:00:56](https://bsky.app/profile/nikkei.com/post/3maiauxlkjy2f)
+
+---
+
+@japan.reuters.com
+
+ノーム米国土安全保障省長官は２０日、沿岸警備隊がベネズエラ沖の国際水域で石油タンカーを拿捕（だほ）したと発表した。米国がベネズエラ沖で石油タンカーを拿捕するのは今月１０日に続き２隻目。 bit.ly/4s5Zjq8
+
+[2025-12-21 17:00:24](https://bsky.app/profile/japan.reuters.com/post/3maiatz2tp62q)
+
+---
+
+@reuters.com
+
+Saquon Barkley, Eagles clinch NFC East title with win over Commanders reut.rs/49j3yqZ
+
+[2025-12-21 17:00:15](https://bsky.app/profile/reuters.com/post/3maiatqchil2k)
+
+---
+
+@washingtonpost.com
+
+Column: One in 6 American adults uses AI chatbots monthly for health advice, according to health nonprofit KFF. But only about 1 in 3 trust their information.
+
+Here's how ChatGPT's medical advice differed from what one doctor tells his own patients:
+
+[2025-12-21 17:00:10](https://bsky.app/profile/washingtonpost.com/post/3maiatm2fmf2n)
+
+---
+
+@aljazeera.com
+
+Vigil in London for Palestinian prisoners held in Israel https://aje.io/krimvr
+
+[2025-12-21 17:00:03](https://bsky.app/profile/aljazeera.com/post/3maiatffhe62h)
 
 ---
 
