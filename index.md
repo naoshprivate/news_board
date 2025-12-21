@@ -1,9 +1,9 @@
-# [2025-12-22 01:50 updated](2025_12_22.md)
+# [2025-12-22 02:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">'Hubris has taken over': England's McCullum under fire after Ashes defeat reut.rs/493VE3v <a href="https://bsky.app/profile/reuters.com/post/3maj5vhahhh2b" target="_blank">reuters.com</a> (2025-12-22 01:40:11)</span><span style="padding-right:50px;">Third 'Avatar' film lights up box offices with $345 million opening reut.rs/3LeyWO6 <a href="https://bsky.app/profile/reuters.com/post/3maj5mf2hla2i" target="_blank">reuters.com</a> (2025-12-22 01:35:06)</span><span style="padding-right:50px;">The stand-off between the two European leaders ahead of last week's summit to decide on Russia's frozen assets underscores a new dynamic between Europe’s two largest powers: an initiative-driven Germany and a foot-dragging France ft.trib.al/3n5xe45 <a href="https://bsky.app/profile/financialtimes.com/post/3maj5gwzucb24" target="_blank">financialtimes.com</a> (2025-12-22 01:32:04)</span><span style="padding-right:50px;">Michaela Benthaus, a 33-year-old German aerospace and mechatronics engineer, made history as the first wheelchair user to travel past the Kármán Line, a common marker for outer space. Her voyage on a Blue Origin New Shepard capsule launched Saturday morning in West Texas. <a href="https://bsky.app/profile/cnn.com/post/3maj5fmmzmk2q" target="_blank">cnn.com</a> (2025-12-22 01:31:19)</span><span style="padding-right:50px;">Experts caution those using these services to be careful, as you may not always get what you want from biological relatives. <a href="https://bsky.app/profile/usatoday.com/post/3maj5dnhrfu2h" target="_blank">usatoday.com</a> (2025-12-22 01:30:13)</span>
+<span style="padding-right:50px;">While President Trump has lagged behind his predecessors in the number of official appearances in his second term in office, he has relentlessly pursued the public’s attention in other ways on a daily, and sometimes even hourly, basis, a New York Times analysis shows. trib.al/nf83ouc <a href="https://bsky.app/profile/nytimes.com/post/3maj7jcpbqk2c" target="_blank">nytimes.com</a> (2025-12-22 02:09:11)</span><span style="padding-right:50px;">Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact <a href="https://bsky.app/profile/yahoofinance.com/post/3maj7dsk2us2j" target="_blank">yahoofinance.com</a> (2025-12-22 02:06:06)</span><span style="padding-right:50px;"> Europe needs strategic purpose matched with action ft.trib.al/b1r1nRQ  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3maj76tmgwl2f" target="_blank">financialtimes.com</a> (2025-12-22 02:03:19)</span><span style="padding-right:50px;">Some of this year’s hottest gifts measure blood glucose and gut microbiomes. There is the “judginess” factor to consider. on.wsj.com/3MMVqpY <a href="https://bsky.app/profile/wsj.com/post/3maj72t3zk52t" target="_blank">wsj.com</a> (2025-12-22 02:01:04)</span><span style="padding-right:50px;">Thousands of people cheered and danced around Stonehenge as the sun rose over the prehistoric stone circle on Sunday, the winter solstice. <a href="https://bsky.app/profile/apnews.com/post/3maj72qgt3j22" target="_blank">apnews.com</a> (2025-12-22 02:01:02)</span>
   </div>
 </div>
 
@@ -32,95 +32,95 @@
 
 ## News Headlines
 
-- England's Cricket Coach McCullum Under Fire After Ashes Defeat
-- Third 'Avatar' Film Lights Up Box Offices with $345 Million Opening
-- Germany and France Embroiled in Standoff Over Russia's Frozen Assets
-- Woman Becomes First Wheelchair User to Travel to Outer Space
-- US Supreme Court Ruling on Trump's Tariffs Creates 'Administrative Problem'
-- San Francisco Power Outage Affects Tens of Thousands of Residents
+- Trump's Public Profile Shifts to Online in Second Term
+- Wall Street Sees AI Stock Trade as Intact
+- Israel's Defence Exports Reach Record High
+- Israel Approves Proposal for 19 New West Bank Settlements
+- JPMorgan Questioned Tricolor's Accounting a Year Before Collapse
+- Europe's Leaders at Odds Over Russia's Frozen Assets
 
 
 ----
 
-@reuters.com
+@nytimes.com
 
-'Hubris has taken over': England's McCullum under fire after Ashes defeat reut.rs/493VE3v
+While President Trump has lagged behind his predecessors in the number of official appearances in his second term in office, he has relentlessly pursued the public’s attention in other ways on a daily, and sometimes even hourly, basis, a New York Times analysis shows. trib.al/nf83ouc
 
-[2025-12-22 01:40:11](https://bsky.app/profile/reuters.com/post/3maj5vhahhh2b)
+[2025-12-22 02:09:11](https://bsky.app/profile/nytimes.com/post/3maj7jcpbqk2c)
 
 ---
 
-@reuters.com
+@yahoofinance.com
 
-Third 'Avatar' film lights up box offices with $345 million opening reut.rs/3LeyWO6
+Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact
 
-[2025-12-22 01:35:06](https://bsky.app/profile/reuters.com/post/3maj5mf2hla2i)
+[2025-12-22 02:06:06](https://bsky.app/profile/yahoofinance.com/post/3maj7dsk2us2j)
 
 ---
 
 @financialtimes.com
 
-The stand-off between the two European leaders ahead of last week's summit to decide on Russia's frozen assets underscores a new dynamic between Europe’s two largest powers: an initiative-driven Germany and a foot-dragging France ft.trib.al/3n5xe45
+ Europe needs strategic purpose matched with action ft.trib.al/b1r1nRQ  | opinion
 
-[2025-12-22 01:32:04](https://bsky.app/profile/financialtimes.com/post/3maj5gwzucb24)
+[2025-12-22 02:03:19](https://bsky.app/profile/financialtimes.com/post/3maj76tmgwl2f)
 
 ---
 
-@cnn.com
+@wsj.com
 
-Michaela Benthaus, a 33-year-old German aerospace and mechatronics engineer, made history as the first wheelchair user to travel past the Kármán Line, a common marker for outer space. Her voyage on a Blue Origin New Shepard capsule launched Saturday morning in West Texas.
+Some of this year’s hottest gifts measure blood glucose and gut microbiomes. There is the “judginess” factor to consider. on.wsj.com/3MMVqpY
 
-[2025-12-22 01:31:19](https://bsky.app/profile/cnn.com/post/3maj5fmmzmk2q)
+[2025-12-22 02:01:04](https://bsky.app/profile/wsj.com/post/3maj72t3zk52t)
+
+---
+
+@apnews.com
+
+Thousands of people cheered and danced around Stonehenge as the sun rose over the prehistoric stone circle on Sunday, the winter solstice.
+
+[2025-12-22 02:01:02](https://bsky.app/profile/apnews.com/post/3maj72qgt3j22)
 
 ---
 
 @usatoday.com
 
-Experts caution those using these services to be careful, as you may not always get what you want from biological relatives.
+Maury Povich and Connie Chung have been married for more than 40 years. Here's their secret to marital success.
 
-[2025-12-22 01:30:13](https://bsky.app/profile/usatoday.com/post/3maj5dnhrfu2h)
+[2025-12-22 02:00:41](https://bsky.app/profile/usatoday.com/post/3maj724ozab2f)
 
 ---
 
-@bloomberg.com
+@cnn.com
 
-A Supreme Court ruling that scraps Donald Trump’s tariffs would create a major “administrative problem,” the president’s top economic adviser said Sunday.
+Gift-giving is often framed as a source of stress and obligation, but a growing body of research suggests there may also be something beneficial about giving itself.
 
-[2025-12-22 01:30:10](https://bsky.app/profile/bloomberg.com/post/3maj5dl34my2z)
+[2025-12-22 02:00:33](https://bsky.app/profile/cnn.com/post/3maj6zuufxm2a)
 
 ---
 
 @washingtonpost.com
 
-The Post examined the bright skyline around Reagan National Airport and whether it may have been a factor in the January plane crash, which killed 67 people.
+SNL went meta for Bowen Yang’s last show with the beloved cast member playing an eggnog serving employee at a Delta Air Lines Sky Club lounge. 
 
-To see the full reconstruction, watch the video on this page: 
+“They’re closing my station,” Yang told some passing travelers. “This is my last shift.” 
 
-[2025-12-22 01:30:07](https://bsky.app/profile/washingtonpost.com/post/3maj5dhstyq24)
-
----
-
-@nytimes.com
-
-Power was restored for tens of thousands of electricity customers in San Francisco late Saturday, after an hourslong outage affecting nearly a third of the city left many neighborhoods in darkness by nightfall.
-
-[2025-12-22 01:30:07](https://bsky.app/profile/nytimes.com/post/3maj5dh6d5u2x)
+[2025-12-22 02:00:32](https://bsky.app/profile/washingtonpost.com/post/3maj6zud2zr24)
 
 ---
 
-@forbes.com
+@bloomberg.com
 
-Solar winds could impact the aurora early on Monday morning, forecasters said.
+Justice Department officials were protecting victims by removing images from files tied to the notorious sex offender Jeffrey Epstein, Deputy Attorney General Todd Blanche said.
 
-[2025-12-22 01:30:04](https://bsky.app/profile/forbes.com/post/3maj5dezhz72g)
+[2025-12-22 02:00:09](https://bsky.app/profile/bloomberg.com/post/3maj6z5yffq2x)
 
 ---
 
-@cbsnews.com
+@aljazeera.com
 
-Bowen Yang performed a holiday duet with Ariana Grande for his final act on "Saturday Night Live," as the actor and comedian bid farewell to the sketch comedy show that launched his career. 
+Israel’s defence exports increased 13 percent in 2024 compared with the previous year to a record of almost $15bn.
 
-[2025-12-22 01:30:01](https://bsky.app/profile/cbsnews.com/post/3maj5dbrgqm2p)
+[2025-12-22 02:00:03](https://bsky.app/profile/aljazeera.com/post/3maj6yylrrk2e)
 
 ---
 
