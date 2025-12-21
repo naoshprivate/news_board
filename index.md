@@ -1,9 +1,9 @@
-# [2025-12-21 12:30 updated](2025_12_21.md)
+# [2025-12-21 12:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ボクシングのヘビー級８回戦が１９日、米フロリダ州マイアミで行われ、元ヘビー級統一王者のアンソニー・ジョシュア（３６、英国）がユーチューバー兼プロボクサーのジェイク・ポール（２８、米国）にノックアウト（ＫＯ）勝ちした。 bit.ly/3KFuhoo <a href="https://bsky.app/profile/japan.reuters.com/post/3mahrcibcfp2n" target="_blank">japan.reuters.com</a> (2025-12-21 12:22:10)</span><span style="padding-right:50px;">青森 八戸 “後発地震注意情報” 呼びかけ期間終了後 初の朝市 https://news.web.nhk/newsweb/na/na-k10015009661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahraknwdo2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 12:21:02)</span><span style="padding-right:50px;">Coventry manager Lampard says he was out of order after Southampton melee reut.rs/4j85OVa <a href="https://bsky.app/profile/reuters.com/post/3mahr6vkuwr2i" target="_blank">reuters.com</a> (2025-12-21 12:20:09)</span><span style="padding-right:50px;">全国高校駅伝 女子 長野東が連覇 女子では史上4校目【全結果】 https://news.web.nhk/newsweb/na/na-k10015007901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahr36dt7622" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 12:18:02)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  全国高校駅伝 女子 長野東が連覇 女子では史上4校目【全結果】 (2025-12-21 12:15:16) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahqwz2wgm26" target="_blank">sokuho.news</a> (2025-12-21 12:15:45)</span>
+<span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-21 12:48:58) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mahssml53n2a" target="_blank">sokuho.news</a> (2025-12-21 12:49:05)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-21 12:48:40) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mahss34zla2x" target="_blank">sokuho.news</a> (2025-12-21 12:48:46)</span><span style="padding-right:50px;">South Korea's consumer agency to order SK Telecom to compensate 58 hacking victims reut.rs/4jixgQj <a href="https://bsky.app/profile/reuters.com/post/3mahscmatwb2i" target="_blank">reuters.com</a> (2025-12-21 12:40:07)</span><span style="padding-right:50px;">【速報中】全国高校駅伝 男子 1区 飛び出すのは 58校が出場 https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahs3ewlla2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 12:36:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】全国高校駅伝（女子）郷土勢 岡山の倉敷6位・初入賞 四国学院大香川西は欠場【岡山・香川】 (2025-12-21 12:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahs2yjdjb27" target="_blank">sokuho.news</a> (2025-12-21 12:35:52)</span>
   </div>
 </div>
 
@@ -32,103 +32,125 @@
 
 ## News Headlines
 
-- Joshua Knocks Out Paul in 1st Round
-  - アンソニー・ジョシュアがジェイク・ポールを1回KOで破る
-- Earthquake Information: Joganji, Aomori Prefecture
-  - 青森・岩手で震度4
-- Juventus Keeps Title Hopes Alive with Win
-  - ユベントスが残留争いを逃さない
-- Seven Elephants Killed in Train Crash in India
-  - インドで列車とアジア象の列車衝突、７頭死亡
-- National High School Ekiden Girls' Championship: Nagano East Wins Back-to-Back Titles
-  - 全国高校駅伝 女子 長野東が連覇 女子では史上4校目
-- Leipzig Loses to Leipzig, Slips to Third Place
-  - サッカーのドイツ１部ブンデスリーガ、レーバークーゼンがライプチヒを３-１で下し３位に
+- South Korea's consumer agency to order SK Telecom to compensate 58 hacking victims
+  - 韓国の消費者庁がSKテレコムに58名へのハッキング被害者への補償を命じる
+- Elephants killed in train collision in India's Assam state
+  - インドアッサム州での列車衝突でアジア象7頭が死亡
+- 50 Cent makes appearance at Oklahoma's CFP first-round game
+  - 50セントがオクラホマ大学のCFP準々決勝戦に登場
+- Japanese author David Walliams denies allegations of inappropriate behavior
+  - イギリスの児童文学作家デイビッド・ウォリアムズが不適切な行為の訴えを否定
+- Tesla CEO Elon Musk's net worth surpasses $7 trillion
+  - テスラ最高経営責任者イーロン・マスクの純資産が7000億ドルを超える
+- Russian envoy says talks with US were 'constructive'
+  - ロシアの特使が米との交渉が「建設的」だったと述べる
 
 
 ----
 
-@japan.reuters.com
+@sokuho.news
 
-ボクシングのヘビー級８回戦が１９日、米フロリダ州マイアミで行われ、元ヘビー級統一王者のアンソニー・ジョシュア（３６、英国）がユーチューバー兼プロボクサーのジェイク・ポール（２８、米国）にノックアウト（ＫＯ）勝ちした。 bit.ly/3KFuhoo
+🚨地震発生中❗❗
 
-[2025-12-21 12:22:10](https://bsky.app/profile/japan.reuters.com/post/3mahrcibcfp2n)
+⚠️揺れに警戒してください
 
----
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-21 12:48:58) #緊急地震速報
 
-@nhknewsunofficial.bsky.social
-
-青森 八戸 “後発地震注意情報” 呼びかけ期間終了後 初の朝市
-https://news.web.nhk/newsweb/na/na-k10015009661000
-
-[2025-12-21 12:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahraknwdo2w)
-
----
-
-@reuters.com
-
-Coventry manager Lampard says he was out of order after Southampton melee reut.rs/4j85OVa
-
-[2025-12-21 12:20:09](https://bsky.app/profile/reuters.com/post/3mahr6vkuwr2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-全国高校駅伝 女子 長野東が連覇 女子では史上4校目【全結果】
-https://news.web.nhk/newsweb/na/na-k10015007901000
-
-[2025-12-21 12:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahr36dt7622)
+[2025-12-21 12:49:05](https://bsky.app/profile/sokuho.news/post/3mahssml53n2a)
 
 ---
 
 @sokuho.news
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>全国高校駅伝 女子 長野東が連覇 女子では史上4校目【全結果】</strong><br><strong>(2025-12-21 12:15:16) #ニュース</strong>
+🚨地震発生中❗❗
 
-[2025-12-21 12:15:45](https://bsky.app/profile/sokuho.news/post/3mahqwz2wgm26)
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
 
----
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-21 12:48:40) #緊急地震速報
 
-@japan.reuters.com
-
-サッカーのイタリア・セリエＡは２０日、各地で試合を行い、ユベントスがローマを２─１で下し、優勝争いに踏みとどまった。 bit.ly/4p9g9ln
-
-[2025-12-21 12:15:43](https://bsky.app/profile/japan.reuters.com/post/3mahqwxpk2427)
+[2025-12-21 12:48:46](https://bsky.app/profile/sokuho.news/post/3mahss34zla2x)
 
 ---
 
-@cnn.com
+@reuters.com
 
-Seven wild Asiatic elephants were killed and a calf was injured when a high-speed passenger train collided with a herd crossing the tracks in India’s northeastern state of Assam early Saturday, local authorities said. 
+South Korea's consumer agency to order SK Telecom to compensate 58 hacking victims reut.rs/4jixgQj
 
-[2025-12-21 12:15:02](https://bsky.app/profile/cnn.com/post/3mahqvpzx752k)
-
----
-
-@japan.reuters.com
-
-サッカーのドイツ１部ブンデスリーガは２０日、各地で試合を行い、レーバークーゼンがライプチヒを３─１で下し、３位に浮上した。 bit.ly/4spTGn5
-
-[2025-12-21 12:09:23](https://bsky.app/profile/japan.reuters.com/post/3mahqlnkpyu2q)
+[2025-12-21 12:40:07](https://bsky.app/profile/reuters.com/post/3mahscmatwb2i)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-全国高校駅伝 女子 長野東が連覇 女子では史上4校目【詳しく】
-https://news.web.nhk/newsweb/na/na-k10015007901000
+【速報中】全国高校駅伝 男子 1区 飛び出すのは 58校が出場
+https://news.web.nhk/newsweb/na/na-k10015007911000
 
-[2025-12-21 12:09:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahqlaigii2d)
+[2025-12-21 12:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahs3ewlla2d)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-日曜討論 防衛装備品の移転 運用指針めぐり与野党が論戦
-https://news.web.nhk/newsweb/na/na-k10015009601000
+🛎️FNNより【速報】です。
 
-[2025-12-21 12:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahql3q6in2m)
+【速報】全国高校駅伝（女子）郷土勢 岡山の倉敷6位・初入賞 四国学院大香川西は欠場【岡山・香川】
+(2025-12-21 12:20) #ニュース
+
+[2025-12-21 12:35:52](https://bsky.app/profile/sokuho.news/post/3mahs2yjdjb27)
+
+---
+
+@wsj.com
+
+Blundstones are the Australian workwear-style Chelsea boots that your barista, bartender and favorite bookstore clerk are wearing. Our writer, prioritizing durability over chicness and, stubbornly anti-trend, wanted to unearth an alternative. 
+
+Here's what he found: 🔗 on.wsj.com/4aUTg1l
+
+[2025-12-21 12:35:06](https://bsky.app/profile/wsj.com/post/3mahrzmh66l2o)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】21歳の男性の肩甲部を刃物で刺したか ベトナム国籍の19歳男を殺人未遂容疑で逮捕 男は一時逃走＝静岡・裾野市
+(2025-12-21 12:27:00) #ニュース
+
+[2025-12-21 12:31:40](https://bsky.app/profile/sokuho.news/post/3mahrthtthw2y)
+
+---
+
+@nikkei.com
+
+【牛丼大手、「ラーメン」で熱い戦い】
+松屋はつけ麺「六厘舎」買収、吉野家は店舗数4倍へ
+www.nikkei.com/article/DGXZQO...
+
+松屋フーズのラーメン店は「松軒中華食堂」「松太郎」の計11店舗から、買収により130店規模に拡大。先行する吉野家HDは500店を目指します。
+
+牛肉やコメの高騰で牛丼並盛りの価格は500円に近づいており、両社は価格転嫁しやすいラーメンに力を入れています。
+
+[2025-12-21 12:30:39](https://bsky.app/profile/nikkei.com/post/3mahrro3hoq2m)
+
+---
+
+@reuters.com
+
+Kyrgios to make tour return at Brisbane International reut.rs/4j7Iya7
+
+[2025-12-21 12:30:28](https://bsky.app/profile/reuters.com/post/3mahrrdd3pz2i)
+
+---
+
+@aljazeera.com
+
+Russian envoy Kirill Dmitriev says the talks were 'constructive' and will continue on Sunday https://aje.io/hv747z
+
+[2025-12-21 12:30:05](https://bsky.app/profile/aljazeera.com/post/3mahrqnobn62d)
 
 ---
 
