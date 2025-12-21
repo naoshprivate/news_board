@@ -1,9 +1,9 @@
-# [2025-12-21 21:50 updated](2025_12_21.md)
+# [2025-12-21 22:10 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Comedian Bowen Yang announces he's leaving Saturday Night Live <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maiqnfzab22v" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-21 21:43:02)</span><span style="padding-right:50px;">Most homebuyers don't shop around for a mortgage, research shows. Why that's a bad idea <a href="https://bsky.app/profile/cnbc.com/post/3maiqn7emai2i" target="_blank">cnbc.com</a> (2025-12-21 21:42:55)</span><span style="padding-right:50px;">Saudi Arabia: Rights groups condemn new record number of executions in 2025 <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maiqljjamt2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-21 21:41:58)</span><span style="padding-right:50px;">日本の経営者、18%がAI対応で「1年以内に人員削減」 www.nikkei.com/article/DGXZQO...  雇用への影響を世界の経営者が見込みます。業種別では消費財メーカーや小売りでの人員削減の意向が、テックや電気通信分野を上回りました。  KPMGインターナショナルが世界11カ国の経営者を対象に調査しました。 <a href="https://bsky.app/profile/nikkei.com/post/3maiqj64luo24" target="_blank">nikkei.com</a> (2025-12-21 21:40:40)</span><span style="padding-right:50px;">Swiss interior minister open to social media ban for children reut.rs/4sfQ3Qv <a href="https://bsky.app/profile/reuters.com/post/3maiqicnatt2k" target="_blank">reuters.com</a> (2025-12-21 21:40:11)</span>
+<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:トカラ列島近海, 深さ:20km マグニチュード:3.3, 最大震度:3 📍https://www.google.com/maps?q=29.6,129.6&ll=29.6,129.6&z=7&t=h 地震発生日時:2025-12-21 22:03頃 (10倍速▶150s→15s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3mairz4apu42y" target="_blank">sokuho.news</a> (2025-12-21 22:07:28)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】平川市長選挙は新人の工藤氏が当選 青森県 (2025-12-21 22:02:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mairyaeomj2z" target="_blank">sokuho.news</a> (2025-12-21 22:06:59)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  22時3分頃、鹿児島県で最大震度3の地震を観測しました。 震源:トカラ列島近海, 深さ:20km, 規模:M3.3 この地震による津波の心配はありません。 (2025-12-21 22:06:56) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3mairy6mgrq25" target="_blank">sokuho.news</a> (2025-12-21 22:06:57)</span><span style="padding-right:50px;">Stocks enter final stretch of 2025 just off record highs: What to watch this week <a href="https://bsky.app/profile/yahoofinance.com/post/3mairwn6nub2x" target="_blank">yahoofinance.com</a> (2025-12-21 22:06:06)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】M-1グランプリ2025 「たくろう」が優勝 21代目王者に (2025年12月21日 22:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mairwm5s6m2y" target="_blank">sokuho.news</a> (2025-12-21 22:06:05)</span>
   </div>
 </div>
 
@@ -32,106 +32,124 @@
 
 ## News Headlines
 
-- Comedian Bowen Yang leaves Saturday Night Live after 8 seasons
-- Most homebuyers don't shop around for a mortgage, research shows
-- Saudi Arabia sees record number of executions in 2025, rights groups condemn
-- Swiss interior minister open to banning social media for children
-- Russian invasion of Ukraine: latest updates on the conflict
-- US seizes oil tanker off Venezuela amid escalating tensions
+- Stocks enter final stretch of 2025 just off record highs: What to watch this week
+- Sweden boards sanctioned Russian vessel off its coast
+- Former Meta COO Sheryl Sandberg warns corporate culture is 'one of the worst' ever
+- Most homebuyers don't shop around for a mortgage, research shows. Why that's a bad idea
+- Saudi Arabia: Rights groups condemn new record number of executions in 2025
+- Never mind Pedro Pascal, with his stylist and personal trainer — it’s people who dress well despite work and kids who deserve the gongs
 
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@sokuho.news
 
-Comedian Bowen Yang announces he's leaving Saturday Night Live
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-21 21:43:02](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maiqnfzab22v)
+震源:トカラ列島近海, 深さ:20km
+マグニチュード:3.3, 最大震度:3
+📍https://www.google.com/maps?q=29.6,129.6&ll=29.6,129.6&z=7&t=h
+地震発生日時:2025-12-21 22:03頃
+(10倍速▶150s→15s) #地震
 
----
-
-@cnbc.com
-
-Most homebuyers don't shop around for a mortgage, research shows. Why that's a bad idea
-
-[2025-12-21 21:42:55](https://bsky.app/profile/cnbc.com/post/3maiqn7emai2i)
+[2025-12-21 22:07:28](https://bsky.app/profile/sokuho.news/post/3mairz4apu42y)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@sokuho.news
 
-Saudi Arabia: Rights groups condemn new record number of executions in 2025
+🛎️JNNより【速報】です。
 
-[2025-12-21 21:41:58](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maiqljjamt2b)
+【速報】平川市長選挙は新人の工藤氏が当選 青森県
+(2025-12-21 22:02:00) #ニュース
 
----
-
-@nikkei.com
-
-日本の経営者、18%がAI対応で「1年以内に人員削減」
-www.nikkei.com/article/DGXZQO...
-
-雇用への影響を世界の経営者が見込みます。業種別では消費財メーカーや小売りでの人員削減の意向が、テックや電気通信分野を上回りました。
-
-KPMGインターナショナルが世界11カ国の経営者を対象に調査しました。
-
-[2025-12-21 21:40:40](https://bsky.app/profile/nikkei.com/post/3maiqj64luo24)
+[2025-12-21 22:06:59](https://bsky.app/profile/sokuho.news/post/3mairyaeomj2z)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-Swiss interior minister open to social media ban for children reut.rs/4sfQ3Qv
+🔔気象庁より【地震速報】です。
 
-[2025-12-21 21:40:11](https://bsky.app/profile/reuters.com/post/3maiqicnatt2k)
+22時3分頃、鹿児島県で最大震度3の地震を観測しました。
+震源:トカラ列島近海, 深さ:20km, 規模:M3.3
+この地震による津波の心配はありません。
+(2025-12-21 22:06:56) #地震
+
+[2025-12-21 22:06:57](https://bsky.app/profile/sokuho.news/post/3mairy6mgrq25)
 
 ---
 
-@nytimes.com
+@yahoofinance.com
 
-It’s time to test how well you recognize some of the defining personalities of 2025. We’ll show you photos of 52 people; you tell us their names. Play here: nyti.ms/45eUNf1
+Stocks enter final stretch of 2025 just off record highs: What to watch this week
 
-[2025-12-21 21:40:04](https://bsky.app/profile/nytimes.com/post/3maiqi3ioyr26)
+[2025-12-21 22:06:06](https://bsky.app/profile/yahoofinance.com/post/3mairwn6nub2x)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】M-1グランプリ2025 「たくろう」が優勝 21代目王者に
+(2025年12月21日 22:05) #ニュース
+
+[2025-12-21 22:06:05](https://bsky.app/profile/sokuho.news/post/3mairwm5s6m2y)
 
 ---
 
 @financialtimes.com
 
-Never mind Pedro Pascal, with his stylist and personal trainer — it’s people who dress well despite work and kids who deserve the gongs, says Robert Armstrong ft.trib.al/q5RaLVD
+Sweden boards sanctioned Russian vessel off its coast ft.trib.al/5tevoYh
 
-[2025-12-21 21:36:04](https://bsky.app/profile/financialtimes.com/post/3maiqawnik22w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【詳細】ロシア ウクライナに軍事侵攻（12月21日の動き）
-https://news.web.nhk/newsweb/na/na-k10014990681000
-
-[2025-12-21 21:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiqaxur472w)
+[2025-12-21 22:06:02](https://bsky.app/profile/financialtimes.com/post/3mairwjehzv23)
 
 ---
 
-@nikkei.com
+@sokuho.news
 
-自分そっくりの3Dフィギュア、人生のアルバムに
-www.nikkei.com/article/DGXZQO...
+🔔気象庁より【震源速報】です。
 
-結婚式や七五三、子どもやペットの成長の記録――。
+22時3分頃、トカラ列島近海(深さ:20km) を震源とする M3.3 の地震を観測しました。
+この地震による津波の心配はありません。
+(2025-12-21 22:06:00) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/21/2025-12-21-22-03-11.html?xlarge_image=1
 
-360度に100台弱のカメラを付けたブースで、ポーズを決めて2〜3秒で撮影終了。約2カ月後にフィギュアが手元に届きます。
-
-写真と違う「立体」の思い出の残し方にひかれ、さいたま市のFIGURE RIZEには1年で約500組が来店しました。
-
-[2025-12-21 21:30:40](https://bsky.app/profile/nikkei.com/post/3maipxbqjuu2x)
+[2025-12-21 22:06:01](https://bsky.app/profile/sokuho.news/post/3mairwj2bcb2z)
 
 ---
 
-@bloomberg.com
+@sokuho.news
 
-Pulitzer Prize-winning war photographer Lynsey Addario reflects on surviving frontline abductions, documenting conflict in the age of social media, and switching from firefights to family life.
+🔔NHKより【地震速報】です。
 
-[2025-12-21 21:30:21](https://bsky.app/profile/bloomberg.com/post/3maipwq46qw24)
+■震度3■
+十島村
+(2025-12-21 22:03) #地震
+
+[2025-12-21 22:05:16](https://bsky.app/profile/sokuho.news/post/3mairv6atdu2y)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【震度速報】です。
+
+22時3分頃、鹿児島県で最大震度3の地震を観測しました。
+今後の情報に注意してください。
+(2025-12-21 22:05:02) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/21/2025-12-21-22-03-11.html?xlarge_image=1
+
+[2025-12-21 22:05:05](https://bsky.app/profile/sokuho.news/post/3mairut5oja2v)
+
+---
+
+@wsj.com
+
+With retro packaging and Pete Davidson as an investor, the brand is destigmatizing a once-embarrassing product. on.wsj.com/4p5oUg2
+
+[2025-12-21 22:01:47](https://bsky.app/profile/wsj.com/post/3mairowj7b72e)
 
 ---
 
