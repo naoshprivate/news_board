@@ -1,9 +1,9 @@
-# [2025-12-22 00:50 updated](2025_12_22.md)
+# [2025-12-22 01:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Deputy AG Todd Blanche said on "Meet the Press" that the removal of photographs from the Epstein files has "nothing to do" with Trump and came at the request of advocacy groups. <a href="https://bsky.app/profile/nbcnews.com/post/3maj2w4hvsh26" target="_blank">nbcnews.com</a> (2025-12-22 00:46:52)</span><span style="padding-right:50px;">Writer Tim Heffernan was haunted by the idea of a burst pipe in his house. So much so that he spent weeks testing smart valve controllers — devices that shut off your water automatically when they detect a leak. In the end, he found one hands-down winner — and one that failed miserably. <a href="https://bsky.app/profile/nytimes.com/post/3maj2uowhbf27" target="_blank">nytimes.com</a> (2025-12-22 00:46:04)</span><span style="padding-right:50px;">Permira, Warburg near $8.2 bln deal for Clearwater Analytics, sources say reut.rs/45kyswC <a href="https://bsky.app/profile/reuters.com/post/3maj2t72ems2p" target="_blank">reuters.com</a> (2025-12-22 00:45:14)</span><span style="padding-right:50px;">The chip industry in China is hustling to overcome a Western tech choke hold, even as President Trump appears poised to loosen U.S. chip restrictions. <a href="https://bsky.app/profile/npr.org/post/3maj2hnw7ie25" target="_blank">npr.org</a> (2025-12-22 00:38:47)</span><span style="padding-right:50px;">In-form Atletico ease to 3-0 victory at lowly Girona reut.rs/3MTSDeA <a href="https://bsky.app/profile/reuters.com/post/3maj2b535522r" target="_blank">reuters.com</a> (2025-12-22 00:35:08)</span>
+<span style="padding-right:50px;">How Oracle became a ‘poster child’ for AI bubble fears <a href="https://bsky.app/profile/yahoofinance.com/post/3maj3yjfvpo2q" target="_blank">yahoofinance.com</a> (2025-12-22 01:06:06)</span><span style="padding-right:50px;">Managing a full December calendar can quickly take you from festive to frazzled. Psychotherapist Niro Feliciano shares advice on reducing stress and increasing joy this season. <a href="https://bsky.app/profile/npr.org/post/3maj3xpnfys2b" target="_blank">npr.org</a> (2025-12-22 01:05:39)</span><span style="padding-right:50px;">This Roasted Beef Tenderloin recipe is a holiday splurge that comes together quickly but still feels festive. nyti.ms/48Wk8LT <a href="https://bsky.app/profile/nytimes.com/post/3maj3t3vle72e" target="_blank">nytimes.com</a> (2025-12-22 01:03:04)</span><span style="padding-right:50px;">Some U.S. air-traffic controllers are taking the equivalent jobs in Australia, lured by "gorgeous beaches" and the prospects of a less stressful work environment. <a href="https://bsky.app/profile/wsj.com/post/3maj3sgr7gf2o" target="_blank">wsj.com</a> (2025-12-22 01:02:42)</span><span style="padding-right:50px;"> Betting against New York is always a losing proposition ft.trib.al/FB9U9PL  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3maj3rvzi2f24" target="_blank">financialtimes.com</a> (2025-12-22 01:02:24)</span>
   </div>
 </div>
 
@@ -32,94 +32,95 @@
 
 ## News Headlines
 
-- US Justice Department Removes 16 Photos From Epstein Files
-- Sixteen Photos, Including One of Trump, Removed From Epstein Files
-- Intel Stock Soars, But Still Has Long Road Ahead
-- US Intercepts Another Vessel Near Venezuela
-- France to Replace Charles de Gaulle Aircraft Carrier
-- US Powerball Jackpot Grows to Largest Since 2016
+- Oracle becomes poster child for AI bubble fears
+- US air-traffic controllers flee to Australia for better work-life balance
+- Trump administration threatens to withhold funds from Smithsonian over content review
+- American man falls in love with Lithuanian woman, ICE detains her
+- Bloomberg's Jessica Loudis faces bureaucratic hurdles in Germany
+- US Justice Department releases 13,000 files on Jeffrey Epstein investigations
 
 
 ----
 
-@nbcnews.com
+@yahoofinance.com
 
-Deputy AG Todd Blanche said on "Meet the Press" that the removal of photographs from the Epstein files has "nothing to do" with Trump and came at the request of advocacy groups.
+How Oracle became a ‘poster child’ for AI bubble fears
 
-[2025-12-22 00:46:52](https://bsky.app/profile/nbcnews.com/post/3maj2w4hvsh26)
-
----
-
-@nytimes.com
-
-Writer Tim Heffernan was haunted by the idea of a burst pipe in his house. So much so that he spent weeks testing smart valve controllers — devices that shut off your water automatically when they detect a leak. In the end, he found one hands-down winner — and one that failed miserably.
-
-[2025-12-22 00:46:04](https://bsky.app/profile/nytimes.com/post/3maj2uowhbf27)
-
----
-
-@reuters.com
-
-Permira, Warburg near $8.2 bln deal for Clearwater Analytics, sources say reut.rs/45kyswC
-
-[2025-12-22 00:45:14](https://bsky.app/profile/reuters.com/post/3maj2t72ems2p)
+[2025-12-22 01:06:06](https://bsky.app/profile/yahoofinance.com/post/3maj3yjfvpo2q)
 
 ---
 
 @npr.org
 
-The chip industry in China is hustling to overcome a Western tech choke hold, even as President Trump appears poised to loosen U.S. chip restrictions.
+Managing a full December calendar can quickly take you from festive to frazzled. Psychotherapist Niro Feliciano shares advice on reducing stress and increasing joy this season.
 
-[2025-12-22 00:38:47](https://bsky.app/profile/npr.org/post/3maj2hnw7ie25)
-
----
-
-@reuters.com
-
-In-form Atletico ease to 3-0 victory at lowly Girona reut.rs/3MTSDeA
-
-[2025-12-22 00:35:08](https://bsky.app/profile/reuters.com/post/3maj2b535522r)
+[2025-12-22 01:05:39](https://bsky.app/profile/npr.org/post/3maj3xpnfys2b)
 
 ---
 
-@reuters.com
+@nytimes.com
 
-Argentina's ex-President Kirchner recovering from surgery reut.rs/49n9oYn
+This Roasted Beef Tenderloin recipe is a holiday splurge that comes together quickly but still feels festive. nyti.ms/48Wk8LT
 
-[2025-12-22 00:30:25](https://bsky.app/profile/reuters.com/post/3maizyp6lay2o)
+[2025-12-22 01:03:04](https://bsky.app/profile/nytimes.com/post/3maj3t3vle72e)
+
+---
+
+@wsj.com
+
+Some U.S. air-traffic controllers are taking the equivalent jobs in Australia, lured by "gorgeous beaches" and the prospects of a less stressful work environment.
+
+[2025-12-22 01:02:42](https://bsky.app/profile/wsj.com/post/3maj3sgr7gf2o)
+
+---
+
+@financialtimes.com
+
+ Betting against New York is always a losing proposition ft.trib.al/FB9U9PL  | opinion
+
+[2025-12-22 01:02:24](https://bsky.app/profile/financialtimes.com/post/3maj3rvzi2f24)
 
 ---
 
 @usatoday.com
 
-An American man fell in love with a woman from Lithuania. ICE detained her. The couple thought she'd be deported right away. They were wrong.
+Do you remember them all? Here's a look back at the biggest TikTok trends of 2025.
 
-[2025-12-22 00:30:15](https://bsky.app/profile/usatoday.com/post/3maizyfvzi72c)
-
----
-
-@bloomberg.com
-
-When Bloomberg’s Jessica Loudis set out to get her German driver’s license, she didn’t expect a bureaucracy so demanding it felt like a second job.
-
-[2025-12-22 00:30:07](https://bsky.app/profile/bloomberg.com/post/3maizy6baoe2p)
+[2025-12-22 01:00:48](https://bsky.app/profile/usatoday.com/post/3maj3oztu2m2h)
 
 ---
 
 @cnn.com
 
-About half of Americans say they’ve already given the 2028 presidential election, set to be the first race since 2016 without a sitting president vying for the nomination on either side, at least some thought, according to a new CNN poll conducted by SSRS.
+As America's labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better. https://cnn.it/49kHdt4
 
-[2025-12-22 00:30:06](https://bsky.app/profile/cnn.com/post/3maizy5ok5l2q)
+[2025-12-22 01:00:35](https://bsky.app/profile/cnn.com/post/3maj3onyjxf2q)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@washingtonpost.com
 
-日本生命社長 “出向先情報持ち出し 本部のプレッシャー背景”
-https://news.web.nhk/newsweb/na/na-k10015009931000
+The Trump administration threatened to withhold federal funds from the Smithsonian if it did not submit extensive documentation for a sweeping content review.
 
-[2025-12-22 00:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maizy3jmgx2l)
+President Trump is set out to purge what he called “improper ideology” from the museum system. 
+
+[2025-12-22 01:00:33](https://bsky.app/profile/washingtonpost.com/post/3maj3oloepw2p)
+
+---
+
+@bloomberg.com
+
+🧩 Alphadots, Bloomberg’s daily word game with a plot twist, is live. Test your skills with a new puzzle every day. Play now: 
+
+[2025-12-22 01:00:21](https://bsky.app/profile/bloomberg.com/post/3maj3oad4qe2w)
+
+---
+
+@apnews.com
+
+Justin Lamson accounted for four touchdowns, Adam Jones had 131 yards rushing and two TDs, and second-seeded Montana State beat No. 3 seed Montana 48-23 on Saturday in the semifinals of the FCS playoffs.
+
+[2025-12-22 01:00:07](https://bsky.app/profile/apnews.com/post/3maj3nsu3mk2n)
 
 ---
 
