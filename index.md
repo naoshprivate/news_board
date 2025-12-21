@@ -1,9 +1,9 @@
-# [2025-12-21 09:52 updated](2025_12_21.md)
+# [2025-12-21 10:10 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">サッカーのイングランド・プレミアリーグは２０日、各地で試合を行い、アーセナルは敵地でエバートンを１─０で下し、首位をキープした。 bit.ly/49maGCV <a href="https://bsky.app/profile/japan.reuters.com/post/3mahijug4rl2q" target="_blank">japan.reuters.com</a> (2025-12-21 09:45:14)</span><span style="padding-right:50px;">It all started in 1955 with a misprint in a Colorado newspaper and a call to Col. Harry Shoup's secret military hotline. Shoup played along with the tiny voice who called, and a tradition was born. From the NPR archives. <a href="https://bsky.app/profile/npr.org/post/3mahidvaqxw23" target="_blank">npr.org</a> (2025-12-21 09:41:53)</span><span style="padding-right:50px;">サッカーのスペイン１部、久保建英が所属するレアル・ソシエダードは２０日、ペッレグリーノ・マタラッツォ氏（４８）が新監督に就任すると発表した。 bit.ly/4qnL7Hn <a href="https://bsky.app/profile/japan.reuters.com/post/3mahiac2xca25" target="_blank">japan.reuters.com</a> (2025-12-21 09:39:52)</span><span style="padding-right:50px;">Do you use AI chatbots? If so, how do you make them work better for you? Our tech columnist Kevin Roose shares how he uses them in his everyday life and reveals which tools he finds best for different purposes. <a href="https://bsky.app/profile/nytimes.com/post/3mahhzfoaii2y" target="_blank">nytimes.com</a> (2025-12-21 09:36:01)</span><span style="padding-right:50px;">Rain halts play in third Ashes test, England 241-6 reut.rs/4j7nyA9 <a href="https://bsky.app/profile/reuters.com/post/3mahhxuir4p2y" target="_blank">reuters.com</a> (2025-12-21 09:35:10)</span>
+<span style="padding-right:50px;">Here's who the "College GameDay" crew and guest picker Alex Caruso picked to win the CFP first round games: <a href="https://bsky.app/profile/usatoday.com/post/3mahjfyepmp2t" target="_blank">usatoday.com</a> (2025-12-21 10:00:57)</span><span style="padding-right:50px;">「ばけばけ」小泉八雲が予見した中国台頭　ひ孫らが相次ぎ書籍 www.nikkei.com/article/DGXZQO...  ひ孫の小泉凡さんによると、八雲は熊本県の第五高等中学校で「将来は経済戦争の時代が来て中国を中心に世界がまわる」と講演。  1894年1月、日清戦争が始まる直前のことでした。 <a href="https://bsky.app/profile/nikkei.com/post/3mahjfhwnpy2m" target="_blank">nikkei.com</a> (2025-12-21 10:00:40)</span><span style="padding-right:50px;">Play Pointed, Bloomberg’s weekly news quiz for risk-takers.  Bet big on the topics you know, and maximize your score by leveraging your wagers. Choose wisely—wrong answers will cost you <a href="https://bsky.app/profile/bloomberg.com/post/3mahjfebuvm23" target="_blank">bloomberg.com</a> (2025-12-21 10:00:36)</span><span style="padding-right:50px;">Want to improve your health but not sure where to start?  Here's how to build your own "longevity toolkit," according to researcher Dr. Peter Attia. <a href="https://bsky.app/profile/cnbc.com/post/3mahjewts3m2b" target="_blank">cnbc.com</a> (2025-12-21 10:00:22)</span><span style="padding-right:50px;">The bestselling author Geraldine Brooks’ collection of books at her Martha’s Vineyard home isn’t focused on fancy editions – it’s full of small treasures from a long literary life. <a href="https://bsky.app/profile/washingtonpost.com/post/3mahjekpa6q2y" target="_blank">washingtonpost.com</a> (2025-12-21 10:00:09)</span>
   </div>
 </div>
 
@@ -30,90 +30,113 @@
 
 ---
 
-@japan.reuters.com
+## News Headlines
 
-サッカーのイングランド・プレミアリーグは２０日、各地で試合を行い、アーセナルは敵地でエバートンを１─０で下し、首位をキープした。 bit.ly/49maGCV
+- Missing Man in Colorado Newspapers Leads to Birth of NORAD's Santa Tracker
+  - 1955年のコロラド州の新聞のミスがきっかけの「サンタクロースの追跡」
+- Trinidad and Mississippi Cruise Past Tulane in College Football Playoff
+  - トリニダードとミシシッピがカレッジフットボールプレイオフでトゥレーンを下す
+- Russia-Ukraine War: List of Key Events, Day 1,396
+  - ロシア・ウクライナ戦争　１４９６日目のうちの重要な出来事
+- AI Faces Challenges in Finding Balance Between Helpfulness and Codependency
+  - A.I.が直面する課題　親切さと依存性のバランスを取ること
+- Arsenal Keep Top Spot in English Premier League After Win Over Everton
+  - イングランド・プレミアリーグ　アーセナルがエバートンを下し、首位をキープ
+- US Coast Guard Boards Tanker Carrying Venezuelan Oil in Caribbean
+  - 米国海兵隊がカリブ海でベネズエラ出荷の石油タンカーを拿捕
 
-[2025-12-21 09:45:14](https://bsky.app/profile/japan.reuters.com/post/3mahijug4rl2q)
 
----
+----
 
-@npr.org
+@usatoday.com
 
-It all started in 1955 with a misprint in a Colorado newspaper and a call to Col. Harry Shoup's secret military hotline. Shoup played along with the tiny voice who called, and a tradition was born. From the NPR archives.
+Here's who the "College GameDay" crew and guest picker Alex Caruso picked to win the CFP first round games:
 
-[2025-12-21 09:41:53](https://bsky.app/profile/npr.org/post/3mahidvaqxw23)
-
----
-
-@japan.reuters.com
-
-サッカーのスペイン１部、久保建英が所属するレアル・ソシエダードは２０日、ペッレグリーノ・マタラッツォ氏（４８）が新監督に就任すると発表した。 bit.ly/4qnL7Hn
-
-[2025-12-21 09:39:52](https://bsky.app/profile/japan.reuters.com/post/3mahiac2xca25)
-
----
-
-@nytimes.com
-
-Do you use AI chatbots? If so, how do you make them work better for you? Our tech columnist Kevin Roose shares how he uses them in his everyday life and reveals which tools he finds best for different purposes.
-
-[2025-12-21 09:36:01](https://bsky.app/profile/nytimes.com/post/3mahhzfoaii2y)
-
----
-
-@reuters.com
-
-Rain halts play in third Ashes test, England 241-6 reut.rs/4j7nyA9
-
-[2025-12-21 09:35:10](https://bsky.app/profile/reuters.com/post/3mahhxuir4p2y)
-
----
-
-@apnews.com
-
-Trinidad Chambliss and Mississippi have aced their first test without former coach Lane Kiffin. The sixth-ranked Rebels beat No. 17 Tulane 41-10 on Saturday in the first round of the College Football Playoff.
-
-[2025-12-21 09:32:43](https://bsky.app/profile/apnews.com/post/3mahhtiknic2p)
+[2025-12-21 10:00:57](https://bsky.app/profile/usatoday.com/post/3mahjfyepmp2t)
 
 ---
 
 @nikkei.com
 
-夫に突然のスキルス胃がん　毎年検診受けても遅れた発見
+「ばけばけ」小泉八雲が予見した中国台頭　ひ孫らが相次ぎ書籍
 www.nikkei.com/article/DGXZQO...
 
-「スキルス胃がんのステージ4でした」。2013年12月4日午前、私の携帯電話に連絡してきた夫の哲也はこう告げ、すぐに電話を切った。
+ひ孫の小泉凡さんによると、八雲は熊本県の第五高等中学校で「将来は経済戦争の時代が来て中国を中心に世界がまわる」と講演。
 
-職場の幼稚園で夫からの電話を受けた私は衝撃を受けて、この日は何をしたのかも思い出せないほどだ――。
+1894年1月、日清戦争が始まる直前のことでした。
 
-胃がん患者団体igannet代表理事、轟浩美さんのコラムです。
+[2025-12-21 10:00:40](https://bsky.app/profile/nikkei.com/post/3mahjfhwnpy2m)
 
-[2025-12-21 09:30:39](https://bsky.app/profile/nikkei.com/post/3mahhpseol32x)
+---
+
+@bloomberg.com
+
+Play Pointed, Bloomberg’s weekly news quiz for risk-takers.
+
+Bet big on the topics you know, and maximize your score by leveraging your wagers. Choose wisely—wrong answers will cost you
+
+[2025-12-21 10:00:36](https://bsky.app/profile/bloomberg.com/post/3mahjfebuvm23)
+
+---
+
+@cnbc.com
+
+Want to improve your health but not sure where to start?
+
+Here's how to build your own "longevity toolkit," according to researcher Dr. Peter Attia.
+
+[2025-12-21 10:00:22](https://bsky.app/profile/cnbc.com/post/3mahjewts3m2b)
+
+---
+
+@washingtonpost.com
+
+The bestselling author Geraldine Brooks’ collection of books at her Martha’s Vineyard home isn’t focused on fancy editions – it’s full of small treasures from a long literary life.
+
+[2025-12-21 10:00:09](https://bsky.app/profile/washingtonpost.com/post/3mahjekpa6q2y)
+
+---
+
+@apnews.com
+
+Alabama and Indiana are set to face off in the Rose Bowl on January 1.
+
+[2025-12-21 10:00:06](https://bsky.app/profile/apnews.com/post/3mahjegz7642u)
+
+---
+
+@aljazeera.com
+
+Russia-Ukraine war: List of key events, day 1,396 https://aje.io/cvyfq1
+
+[2025-12-21 10:00:03](https://bsky.app/profile/aljazeera.com/post/3mahjef3wat27)
+
+---
+
+@en.afp.com
+
+'The village used to be on a hill north of this place,' says Kakabai Baimedov of the Turkmen village of Bokurdak, which has in recent years been forced to move by encroaching desert sands. Scientists warn that climate change and other human activities are speeding Central Asia's desertification
+🇹🇲
+
+[2025-12-21 09:55:55](https://bsky.app/profile/en.afp.com/post/3mahj4xuec62y)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com 
+
+“Finding the proper balance between helpfulness and codependency, between friendliness and flattery, is one of the biggest problems A.I. faces,” Stephen Witt writes.
+
+[2025-12-21 09:50:06](https://bsky.app/profile/nytimes.com/post/3mahiskzr352y)
 
 ---
 
 @japan.reuters.com
 
-北朝鮮の外交当局者が日本の核兵器保有への野心は「徹底的に抑止される」べきだと述べたと、国営の朝鮮中央通信（ＫＣＮＡ）が２１日伝えた。 bit.ly/4j4ULMu
+サッカーのイングランド・プレミアリーグは２０日、各地で試合を行い、アーセナルは敵地でエバートンを１─０で下し、首位をキープした。 bit.ly/49maGCV
 
-[2025-12-21 09:30:24](https://bsky.app/profile/japan.reuters.com/post/3mahhpe2aot2c)
-
----
-
-@handle.invalid
-
-A reporter drove an Acura NSX and first-generation Prelude at a Honda headquarters visit. But Honda classics can be seen by the public there, too.
-
-[2025-12-21 09:30:21](https://bsky.app/profile/handle.invalid/post/3mahhpbenuo2s)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Togo's Faure Gnassingbé walks a diplomatic tightrope between Russia and France
-
-[2025-12-21 09:29:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mahhohhhfo2y)
+[2025-12-21 09:45:14](https://bsky.app/profile/japan.reuters.com/post/3mahijug4rl2q)
 
 ---
 
