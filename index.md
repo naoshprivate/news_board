@@ -1,9 +1,9 @@
-# [2025-12-21 15:10 updated](2025_12_21.md)
+# [2025-12-21 15:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">全国高校駅伝 男子 学法石川が初優勝 大会新記録で【全結果】 https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai2mxvck72v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 15:09:03)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  全国高校駅伝 男子 学法石川が初優勝 大会新記録で【全結果】 (2025-12-21 15:05:51) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mai2i26tjd2x" target="_blank">sokuho.news</a> (2025-12-21 15:06:20)</span><span style="padding-right:50px;">The Indiana Pacers star Tyrese Haliburton packed a career’s worth of heroics into one deep playoff run. He shares his thoughts on what comes next and how to dress for success in our “Annual Self-Assessment.”  <a href="https://bsky.app/profile/cnn.com/post/3mai2adhck32c" target="_blank">cnn.com</a> (2025-12-21 15:02:01)</span><span style="padding-right:50px;">スマホの振動・対話型AIに潜む個人情報流出リスク www.nikkei.com/article/DGXZQO...  スマホが音声を出す時の振動を手掛かりに通話を盗聴。  対話型AIが使用者の持病や体重を聞き出し。  思わぬ形で情報流出の可能性を指摘する科学研究が現れています。  2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3mai25ux3gg2x" target="_blank">nikkei.com</a> (2025-12-21 15:00:39)</span><span style="padding-right:50px;">米誌フォーブスの長者番付によると、米電気自動車（ＥＶ）大手テスラのイーロン・マスク最高経営責任者（ＣＥＯ）の純資産が１９日までに約７４９０億ドルとなり、初めて７０００億ドルを突破した。 bit.ly/3Lf31Nz <a href="https://bsky.app/profile/japan.reuters.com/post/3mai25aakio2s" target="_blank">japan.reuters.com</a> (2025-12-21 15:00:17)</span>
+<span style="padding-right:50px;">Latham and Conway hit hundreds again as New Zealand sense victory reut.rs/4qkHG43 <a href="https://bsky.app/profile/reuters.com/post/3mai3jn7hv72b" target="_blank">reuters.com</a> (2025-12-21 15:25:07)</span><span style="padding-right:50px;">Gunmen kill nine in South Africa tavern attack <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mai3cde5pr2z" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-21 15:21:01)</span><span style="padding-right:50px;">How Israel's grassroots hostage families group became a powerful international force <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mai2szi7472r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-21 15:12:27)</span><span style="padding-right:50px;">全国高校駅伝 男子 学法石川が初優勝 大会新記録で【全結果】 https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai2mxvck72v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 15:09:03)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  全国高校駅伝 男子 学法石川が初優勝 大会新記録で【全結果】 (2025-12-21 15:05:51) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mai2i26tjd2x" target="_blank">sokuho.news</a> (2025-12-21 15:06:20)</span>
   </div>
 </div>
 
@@ -32,21 +32,45 @@
 
 ## News Headlines
 
-- Japan High School Track and Field Championship: Hokuriku University Leads to First Victory
-  - 全国高校駅伝　男子　学法石川が初優勝　大会新記録で
-- Revolut Faces Off with Former Staff Over Tax on Share Awards
-  - Revolut　従業員と税金問題で対立
-- Tesla CEO Elon Musk's Net Worth Surpasses $70 Billion
-  - テスラCEOイーロン・マスクの純資産は7000億ドルを超える
-- South African Police Launch Manhunt After Mass Shooting Kills 9
-  - 南アフリカ　銃撃事件　9人死亡　10人けが
-- Australian Aboriginal Art Shines at Museum
-  - オーストラリア　先住民アート　美術館で脚光
-- US Coast Guard Seizes Oil Tanker in Venezuela
-  - 米国　ベネズエラ沖　石油タンカー拿捕
+- New Zealand on Brink of Victory in Cricket Match
+  - ニュージーランド、クリケットの試合で勝利に近づく
+- Nine Killed in South Africa Tavern Attack
+  - 南アフリカでタバーンに銃撃、9人死亡
+- Israel's Grassroots Hostage Families Group Makes International Impact
+  - イスラエルの地元家族グループ、国際的な影響力を持つ
+- New Zealand High School Relay Team Wins First-Ever Championship Title
+  - 全国高校駅伝男子部門、学法石川が初優勝 大会新記録
+- Tesla CEO Elon Musk's Net Worth Surpasses $7 Trillion
+  - テスラ最高経営責任者マスク氏、純資産約7400億ドル突破
+- Airports to Visit This Holiday Season
+  - このholiday seasonに訪れるべき空港
 
 
 ----
+
+@reuters.com
+
+Latham and Conway hit hundreds again as New Zealand sense victory reut.rs/4qkHG43
+
+[2025-12-21 15:25:07](https://bsky.app/profile/reuters.com/post/3mai3jn7hv72b)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Gunmen kill nine in South Africa tavern attack
+
+[2025-12-21 15:21:01](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mai3cde5pr2z)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+How Israel's grassroots hostage families group became a powerful international force
+
+[2025-12-21 15:12:27](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mai2szi7472r)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -114,31 +138,6 @@ Beyond the gray halls of monotony, there exist airports where you may actually w
 (2025-12-21 14:49:00) #ニュース
 
 [2025-12-21 15:00:08](https://bsky.app/profile/sokuho.news/post/3mai24xo4si2v)
-
----
-
-@aljazeera.com
-
-Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
-
-[2025-12-21 15:00:04](https://bsky.app/profile/aljazeera.com/post/3mai24twk2v2d)
-
----
-
-@nhknewsunofficial.bsky.social
-
-全国高校駅伝 男子 学法石川が初優勝 大会新記録で【詳しく】
-https://news.web.nhk/newsweb/na/na-k10015007911000
-
-[2025-12-21 15:00:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai24uwlco22)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>全国高校駅伝 男子 学法石川が初優勝 大会新記録で【詳しく】</strong><br><strong>(2025-12-21 14:58:05) #ニュース</strong>
-
-[2025-12-21 14:58:33](https://bsky.app/profile/sokuho.news/post/3mai224qjn427)
 
 ---
 
