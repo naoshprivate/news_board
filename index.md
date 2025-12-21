@@ -1,9 +1,9 @@
-# [2025-12-22 04:30 updated](2025_12_22.md)
+# [2025-12-22 04:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A top Justice Department official said Sunday that the agency temporarily removed some newly public Jeffrey Epstein files to address complaints from victims about the agency’s failure to redact their images or information. <a href="https://bsky.app/profile/wsj.com/post/3majhcw4ge52k" target="_blank">wsj.com</a> (2025-12-22 04:28:46)</span><span style="padding-right:50px;">The vintage champagne market is picking up again ahead of the new year. What's behind it? ft.trib.al/lu7hegG <a href="https://bsky.app/profile/financialtimes.com/post/3majh47xnag2o" target="_blank">financialtimes.com</a> (2025-12-22 04:25:02)</span><span style="padding-right:50px;">Breaking News: The U.S. is pursuing a Venezuela-linked oil tanker after boarding a different one, a notable escalation of President Trump’s pressure campaign. <a href="https://bsky.app/profile/nytimes.com/post/3majgv6hlod27" target="_blank">nytimes.com</a> (2025-12-22 04:21:05)</span><span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. Even though the game is timed, there’s no way to lose. trib.al/8exmvdp <a href="https://bsky.app/profile/nytimes.com/post/3majgis36ms2p" target="_blank">nytimes.com</a> (2025-12-22 04:14:10)</span><span style="padding-right:50px;">Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/KhiloF6 <a href="https://bsky.app/profile/nytimes.com/post/3majgdt7wks2j" target="_blank">nytimes.com</a> (2025-12-22 04:11:23)</span>
+<span style="padding-right:50px;">Many book nooks have interactive elements, like tiny doors that open or lights you can turn on, but Lego has taken the concept a step further. Its book nooks open up and allow for a more expansive view of the world hidden inside. nyti.ms/3Yxqo86 <a href="https://bsky.app/profile/nytimes.com/post/3majih5o6qe2b" target="_blank">nytimes.com</a> (2025-12-22 04:49:02)</span><span style="padding-right:50px;">Amorim rues bad luck, Fernandes injured in United loss at Villa reut.rs/48N9h8m <a href="https://bsky.app/profile/reuters.com/post/3majiadkvkr2r" target="_blank">reuters.com</a> (2025-12-22 04:45:13)</span><span style="padding-right:50px;">Aston Villa stepped up their unexpected Premier League title challenge as Morgan Rogers' brilliant brace sealed a 2-1 win against Manchester United.  u.afp.com/S8qq <a href="https://bsky.app/profile/en.afp.com/post/3maji7ykjkw2x" target="_blank">en.afp.com</a> (2025-12-22 04:45:02)</span><span style="padding-right:50px;">With months-long consulate and embassy delays being reported, the two tech companies say staying put in the U.S. right now could prevent workers from getting stranded in their home countries. <a href="https://bsky.app/profile/npr.org/post/3maji32l5if2m" target="_blank">npr.org</a> (2025-12-22 04:42:16)</span><span style="padding-right:50px;">More abducted Nigerian students have been rescued, police say reut.rs/4j6lkRw <a href="https://bsky.app/profile/reuters.com/post/3majhxg6qdq2k" target="_blank">reuters.com</a> (2025-12-22 04:40:14)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.75 (➖0.00 : 2025-12-21)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.68 (🔻0.07 : 2025-12-21)</span>
   </div>
 </div>
 
@@ -32,93 +32,99 @@
 
 ## News Headlines
 
-- US Justice Department removes some Jeffrey Epstein files after victim complaints
-- Vintage champagne market sees resurgence ahead of new year
-- US pursuing third Venezuela-linked oil tanker in escalation of Trump's pressure campaign
-- US Coast Guard in 'active pursuit' of sanctioned vessel in international waters off Venezuela
-- American wins Next Gen ATP Finals title with victory over Belgian opponent
-- Southwest Airlines CEO considers introducing network of airport lounges for customers
+- Lego Book Nooks Open Up to Reveal Hidden Worlds
+- Aston Villa Seals Win Against Manchester United with Brilliant Brace from Morgan Rogers
+- U.S. Pursues Venezuela-Linked Oil Tanker After Intercepting Another Off Coast
+- American Tien Wins Next Gen ATP Finals Title Over Belgian Blockx
+- Waymo Pauses Robotaxi Service in San Francisco After Blackout Chaos
+- White Sox Sign Japanese Star Munetaka Murakami in Unexpected Move
 
 
 ----
 
-@wsj.com
-
-A top Justice Department official said Sunday that the agency temporarily removed some newly public Jeffrey Epstein files to address complaints from victims about the agency’s failure to redact their images or information.
-
-[2025-12-22 04:28:46](https://bsky.app/profile/wsj.com/post/3majhcw4ge52k)
-
----
-
-@financialtimes.com
-
-The vintage champagne market is picking up again ahead of the new year. What's behind it? ft.trib.al/lu7hegG
-
-[2025-12-22 04:25:02](https://bsky.app/profile/financialtimes.com/post/3majh47xnag2o)
-
----
-
 @nytimes.com
 
-<strong><span style="color: red;">Breaking News</span>: The U.S. is pursuing a Venezuela-linked oil tanker after boarding a different one, a notable escalation of President Trump’s pressure campaign.</strong>
+Many book nooks have interactive elements, like tiny doors that open or lights you can turn on, but Lego has taken the concept a step further. Its book nooks open up and allow for a more expansive view of the world hidden inside. nyti.ms/3Yxqo86
 
-[2025-12-22 04:21:05](https://bsky.app/profile/nytimes.com/post/3majgv6hlod27)
-
----
-
-@nytimes.com
-
-Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. Even though the game is timed, there’s no way to lose. trib.al/8exmvdp
-
-[2025-12-22 04:14:10](https://bsky.app/profile/nytimes.com/post/3majgis36ms2p)
-
----
-
-@nytimes.com
-
-Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/KhiloF6
-
-[2025-12-22 04:11:23](https://bsky.app/profile/nytimes.com/post/3majgdt7wks2j)
-
----
-
-@nytimes.com
-
-Connections is a daily game about finding common threads between words. Players must select four groups of four words without making more than three mistakes. Play now. trib.al/R27QzUh
-
-[2025-12-22 04:07:57](https://bsky.app/profile/nytimes.com/post/3majg5p3sms26)
-
----
-
-@yahoofinance.com
-
-Congress's punt ensures healthcare will remain a top issue in January — and 'very likely through spring'
-
-[2025-12-22 04:06:06](https://bsky.app/profile/yahoofinance.com/post/3majg2etvf72s)
+[2025-12-22 04:49:02](https://bsky.app/profile/nytimes.com/post/3majih5o6qe2b)
 
 ---
 
 @reuters.com
 
-American Tien defeats Belgian Blockx to win Next Gen ATP Finals title reut.rs/48Q0oej
+Amorim rues bad luck, Fernandes injured in United loss at Villa reut.rs/48N9h8m
 
-[2025-12-22 04:05:07](https://bsky.app/profile/reuters.com/post/3majfymx6zq2r)
+[2025-12-22 04:45:13](https://bsky.app/profile/reuters.com/post/3majiadkvkr2r)
+
+---
+
+@en.afp.com
+
+Aston Villa stepped up their unexpected Premier League title challenge as Morgan Rogers' brilliant brace sealed a 2-1 win against Manchester United.
+
+u.afp.com/S8qq
+
+[2025-12-22 04:45:02](https://bsky.app/profile/en.afp.com/post/3maji7ykjkw2x)
+
+---
+
+@npr.org
+
+With months-long consulate and embassy delays being reported, the two tech companies say staying put in the U.S. right now could prevent workers from getting stranded in their home countries.
+
+[2025-12-22 04:42:16](https://bsky.app/profile/npr.org/post/3maji32l5if2m)
 
 ---
 
 @reuters.com
 
-Timberwolves head coach Chris Finch fined $35K by NBA reut.rs/3MN2oeC
+More abducted Nigerian students have been rescued, police say reut.rs/4j6lkRw
 
-[2025-12-22 04:01:00](https://bsky.app/profile/reuters.com/post/3majfrarlit2o)
+[2025-12-22 04:40:14](https://bsky.app/profile/reuters.com/post/3majhxg6qdq2k)
+
+---
+
+@nytimes.com
+
+Kevin Arkadie, a screenwriter who was one of the creators of the popular police drama “New York Undercover” and a champion of representation for actors of color in the television industry, died on Wednesday. He was 68.
+
+[2025-12-22 04:40:06](https://bsky.app/profile/nytimes.com/post/3majhx6dkf62y)
+
+---
+
+@nytimes.com
+
+Thousands of Australians gathered Sunday evening to mourn the victims of a mass shooting a week earlier that targeted Jewish families celebrating the first night of Hanukkah, killing 15 people and rattling the nation.
+
+[2025-12-22 04:35:05](https://bsky.app/profile/nytimes.com/post/3majho7lihn2b)
 
 ---
 
 @usatoday.com
 
-"Rush Hour" director Brett Ratner, who is helming first lady Melania Trump's upcoming documentary, is in a photo in the Epstein files.
+A rare 2003 Michael Jordan and Kobe Bryant trading card sells for millions. Here's what to know.
 
-[2025-12-22 04:00:42](https://bsky.app/profile/usatoday.com/post/3majfqpszwt2o)
+[2025-12-22 04:30:17](https://bsky.app/profile/usatoday.com/post/3majhfmcmvv2h)
+
+---
+
+@bloomberg.com
+
+At the Humanoids Summit, robots could pour lattes but struggled to fold a t-shirt — a snapshot of a sector full of promise but still wrestling with real-world hurdles. Read more: bloom.bg/3MOYult
+
+📷️: Ultimate Fighting Bots
+
+[2025-12-22 04:30:16](https://bsky.app/profile/bloomberg.com/post/3majhflgym62h)
+
+---
+
+@washingtonpost.com
+
+“I’m trying to set myself up to be less of a burden ...”
+
+More baby boomers and Gen Xers are sifting through paperwork and making other end-of-life plans to ensure their children aren’t left with the financial and emotional toll of caretaking. 
+
+[2025-12-22 04:30:04](https://bsky.app/profile/washingtonpost.com/post/3majhfar5em2g)
 
 ---
 
