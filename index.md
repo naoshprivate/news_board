@@ -1,9 +1,9 @@
-# [2025-12-21 09:30 updated](2025_12_21.md)
+# [2025-12-21 09:52 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">島根 江津 住宅全焼2人死亡 高齢夫婦と連絡とれず https://news.web.nhk/newsweb/na/na-k10015009591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahhjff5eh2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 09:27:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】全国高校駅伝（女子）香川の四国学院大香川西 選手体調不良で欠場【香川】 (2025-12-21 09:10) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahhgwf2wp2x" target="_blank">sokuho.news</a> (2025-12-21 09:25:41)</span><span style="padding-right:50px;">Records from closed-door proceedings in Jeffrey Epstein’s sex-trafficking case, as well as that of his co-conspirator Ghislaine Maxwell, were made public as part of the Department of Justice’s release of material from its investigations. The documents added little to what has already been known. <a href="https://bsky.app/profile/nytimes.com/post/3mahh3txrmk2m" target="_blank">nytimes.com</a> (2025-12-21 09:19:30)</span><span style="padding-right:50px;">為替レートは多様な要因によって変動し、しかも主たる要因が局面によって変わることは言うまでもない。また、コロナ禍後の大幅な円安については、経常収支の弱さや多国籍企業による海外収益の現地での再投資、個人投資家が資産運用を積極化する下での対外証券投資の増加といった構造要因の影響が大きいとの見方も強い。 bit.ly/459yMOM <a href="https://bsky.app/profile/japan.reuters.com/post/3mahgu5m5mz2n" target="_blank">japan.reuters.com</a> (2025-12-21 09:15:11)</span><span style="padding-right:50px;">全国高校駅伝 女子【速報予定 10:20】冬の京都で優勝争いは https://news.web.nhk/newsweb/na/na-k10015007901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahgom5jqd2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 09:12:03)</span>
+<span style="padding-right:50px;">サッカーのイングランド・プレミアリーグは２０日、各地で試合を行い、アーセナルは敵地でエバートンを１─０で下し、首位をキープした。 bit.ly/49maGCV <a href="https://bsky.app/profile/japan.reuters.com/post/3mahijug4rl2q" target="_blank">japan.reuters.com</a> (2025-12-21 09:45:14)</span><span style="padding-right:50px;">It all started in 1955 with a misprint in a Colorado newspaper and a call to Col. Harry Shoup's secret military hotline. Shoup played along with the tiny voice who called, and a tradition was born. From the NPR archives. <a href="https://bsky.app/profile/npr.org/post/3mahidvaqxw23" target="_blank">npr.org</a> (2025-12-21 09:41:53)</span><span style="padding-right:50px;">サッカーのスペイン１部、久保建英が所属するレアル・ソシエダードは２０日、ペッレグリーノ・マタラッツォ氏（４８）が新監督に就任すると発表した。 bit.ly/4qnL7Hn <a href="https://bsky.app/profile/japan.reuters.com/post/3mahiac2xca25" target="_blank">japan.reuters.com</a> (2025-12-21 09:39:52)</span><span style="padding-right:50px;">Do you use AI chatbots? If so, how do you make them work better for you? Our tech columnist Kevin Roose shares how he uses them in his everyday life and reveals which tools he finds best for different purposes. <a href="https://bsky.app/profile/nytimes.com/post/3mahhzfoaii2y" target="_blank">nytimes.com</a> (2025-12-21 09:36:01)</span><span style="padding-right:50px;">Rain halts play in third Ashes test, England 241-6 reut.rs/4j7nyA9 <a href="https://bsky.app/profile/reuters.com/post/3mahhxuir4p2y" target="_blank">reuters.com</a> (2025-12-21 09:35:10)</span>
   </div>
 </div>
 
@@ -30,110 +30,90 @@
 
 ---
 
-## News Headlines
+@japan.reuters.com
 
-- Island of Shimane: Couple's Home Burns Down, Two Dead
-  - 島根県江津の住宅全焼、２人死亡
-- Kagawa Prefecture's Four National High School Track and Field Championship: Female Athlete from Shikoku University in Kagawa Prefecture Withdraws Due to Poor Health
-  - 香川県の四国学院大香川西高校の女子選手が体調不良で欠場
-- Venezuela Rejects Seizure of Tanker Carrying Oil
-  - ベネズエラ政府が石油輸送タンカーの拿捕を拒否
-- US Coast Guard Boards Tanker Carrying Venezuelan Oil in Caribbean
-  - 米国海岸警備隊がカリブ海でベネズエラの石油輸送タンカーを拿捕
-- Ukraine's Zelensky Announces Proposal for Tripartite Meeting with US, Ukraine, and Russia
-  - ウクライナのゼレンスキー大統領が米国・ウクライナ・ロシアの高官会談の提案
-- Italian Police Arrest 384 People in Large-Scale Anti-Drug Trafficking Operation
-  - イタリア警察が大規模な麻薬密売組織を摘発し384人を逮捕
+サッカーのイングランド・プレミアリーグは２０日、各地で試合を行い、アーセナルは敵地でエバートンを１─０で下し、首位をキープした。 bit.ly/49maGCV
 
-
-----
-
-@nhknewsunofficial.bsky.social
-
-島根 江津 住宅全焼2人死亡 高齢夫婦と連絡とれず
-https://news.web.nhk/newsweb/na/na-k10015009591000
-
-[2025-12-21 09:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahhjff5eh2d)
+[2025-12-21 09:45:14](https://bsky.app/profile/japan.reuters.com/post/3mahijug4rl2q)
 
 ---
 
-@sokuho.news
+@npr.org
 
-🛎️FNNより【速報】です。
+It all started in 1955 with a misprint in a Colorado newspaper and a call to Col. Harry Shoup's secret military hotline. Shoup played along with the tiny voice who called, and a tradition was born. From the NPR archives.
 
-【速報】全国高校駅伝（女子）香川の四国学院大香川西 選手体調不良で欠場【香川】
-(2025-12-21 09:10) #ニュース
+[2025-12-21 09:41:53](https://bsky.app/profile/npr.org/post/3mahidvaqxw23)
 
-[2025-12-21 09:25:41](https://bsky.app/profile/sokuho.news/post/3mahhgwf2wp2x)
+---
+
+@japan.reuters.com
+
+サッカーのスペイン１部、久保建英が所属するレアル・ソシエダードは２０日、ペッレグリーノ・マタラッツォ氏（４８）が新監督に就任すると発表した。 bit.ly/4qnL7Hn
+
+[2025-12-21 09:39:52](https://bsky.app/profile/japan.reuters.com/post/3mahiac2xca25)
 
 ---
 
 @nytimes.com
 
-Records from closed-door proceedings in Jeffrey Epstein’s sex-trafficking case, as well as that of his co-conspirator Ghislaine Maxwell, were made public as part of the Department of Justice’s release of material from its investigations. The documents added little to what has already been known.
+Do you use AI chatbots? If so, how do you make them work better for you? Our tech columnist Kevin Roose shares how he uses them in his everyday life and reveals which tools he finds best for different purposes.
 
-[2025-12-21 09:19:30](https://bsky.app/profile/nytimes.com/post/3mahh3txrmk2m)
+[2025-12-21 09:36:01](https://bsky.app/profile/nytimes.com/post/3mahhzfoaii2y)
+
+---
+
+@reuters.com
+
+Rain halts play in third Ashes test, England 241-6 reut.rs/4j7nyA9
+
+[2025-12-21 09:35:10](https://bsky.app/profile/reuters.com/post/3mahhxuir4p2y)
+
+---
+
+@apnews.com
+
+Trinidad Chambliss and Mississippi have aced their first test without former coach Lane Kiffin. The sixth-ranked Rebels beat No. 17 Tulane 41-10 on Saturday in the first round of the College Football Playoff.
+
+[2025-12-21 09:32:43](https://bsky.app/profile/apnews.com/post/3mahhtiknic2p)
+
+---
+
+@nikkei.com
+
+夫に突然のスキルス胃がん　毎年検診受けても遅れた発見
+www.nikkei.com/article/DGXZQO...
+
+「スキルス胃がんのステージ4でした」。2013年12月4日午前、私の携帯電話に連絡してきた夫の哲也はこう告げ、すぐに電話を切った。
+
+職場の幼稚園で夫からの電話を受けた私は衝撃を受けて、この日は何をしたのかも思い出せないほどだ――。
+
+胃がん患者団体igannet代表理事、轟浩美さんのコラムです。
+
+[2025-12-21 09:30:39](https://bsky.app/profile/nikkei.com/post/3mahhpseol32x)
 
 ---
 
 @japan.reuters.com
 
-為替レートは多様な要因によって変動し、しかも主たる要因が局面によって変わることは言うまでもない。また、コロナ禍後の大幅な円安については、経常収支の弱さや多国籍企業による海外収益の現地での再投資、個人投資家が資産運用を積極化する下での対外証券投資の増加といった構造要因の影響が大きいとの見方も強い。 bit.ly/459yMOM
+北朝鮮の外交当局者が日本の核兵器保有への野心は「徹底的に抑止される」べきだと述べたと、国営の朝鮮中央通信（ＫＣＮＡ）が２１日伝えた。 bit.ly/4j4ULMu
 
-[2025-12-21 09:15:11](https://bsky.app/profile/japan.reuters.com/post/3mahgu5m5mz2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-全国高校駅伝 女子【速報予定 10:20】冬の京都で優勝争いは
-https://news.web.nhk/newsweb/na/na-k10015007901000
-
-[2025-12-21 09:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahgom5jqd2w)
+[2025-12-21 09:30:24](https://bsky.app/profile/japan.reuters.com/post/3mahhpe2aot2c)
 
 ---
 
-@cnn.com
+@handle.invalid
 
-For Democrats who are suffering during Trump 2.0, the next presidential election, when the current president is barred from the ballot, can’t come soon enough. | Analysis 
+A reporter drove an Acura NSX and first-generation Prelude at a Honda headquarters visit. But Honda classics can be seen by the public there, too.
 
-[2025-12-21 09:12:01](https://bsky.app/profile/cnn.com/post/3mahgoikgbm2q)
-
----
-
-@wsj.com
-
-After nearly five years of high prices, many middle-class earners thought life would be more affordable by now.
-
-Perpetual sticker shock is making many within the group feel worse about both their own finances and the future of the country.
-
-🔗: on.wsj.com/4s3odGQ
-
-[2025-12-21 09:10:33](https://bsky.app/profile/wsj.com/post/3mahgltxmsi2g)
+[2025-12-21 09:30:21](https://bsky.app/profile/handle.invalid/post/3mahhpbenuo2s)
 
 ---
 
-@financialtimes.com
+@bbcnews-world-rss.bsky.social
 
-US coastguard boards tanker carrying Venezuelan oil in Caribbean ft.trib.al/KjoFE6k
+Togo's Faure Gnassingbé walks a diplomatic tightrope between Russia and France
 
-[2025-12-21 09:06:11](https://bsky.app/profile/financialtimes.com/post/3mahge2duv42k)
-
----
-
-@en.afp.com
-
-The US military is conducting movements and coordinating exercises at José Aponte de la Torre Airport, a former US naval station in Ceiba, Puerto Rico, as part of heightened regional military readiness linked to ongoing tensions with Venezuela
-
-[2025-12-21 09:05:01](https://bsky.app/profile/en.afp.com/post/3mahgbxmsdt2j)
-
----
-
-@japan.reuters.com
-
-ウクライナのゼレンスキー大統領は２０日、米国、ウクライナ、ロシアによる高官会談の提案を米国から受けたと明らかにし、さらなる捕虜交換を促し、各国による会談に道を開くなら提案を支持するとの見解を示した。 bit.ly/3MOlQrp
-
-[2025-12-21 09:02:24](https://bsky.app/profile/japan.reuters.com/post/3mahg5cbzab2q)
+[2025-12-21 09:29:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mahhohhhfo2y)
 
 ---
 
