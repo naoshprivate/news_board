@@ -1,9 +1,9 @@
-# [2025-12-21 23:10 updated](2025_12_21.md)
+# [2025-12-21 23:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:長崎県島原半島, 深さ:10km マグニチュード:2.5, 最大震度:1 📍https://www.google.com/maps?q=32.8,130.2&ll=32.8,130.2&z=7&t=h 地震発生日時:2025-12-21 23:03頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3maivdgpkny2b" target="_blank">sokuho.news</a> (2025-12-21 23:06:56)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  23時3分頃、長崎県で最大震度1の地震を観測しました。 震源:長崎県島原半島, 深さ:10km, 規模:M2.5 この地震による津波の心配はありません。 (2025-12-21 23:06:30) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/21/2025-12-21-23-03-19.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3maivcogmxf2s" target="_blank">sokuho.news</a> (2025-12-21 23:06:30)</span><span style="padding-right:50px;">Here's your big free reminder on AI stocks for 2026 <a href="https://bsky.app/profile/yahoofinance.com/post/3maivbwemrt2j" target="_blank">yahoofinance.com</a> (2025-12-21 23:06:06)</span><span style="padding-right:50px;">Barca's Denmark defender Christensen suffers cruciate ligament tear reut.rs/4p29klp <a href="https://bsky.app/profile/reuters.com/post/3maiva7bwkj2o" target="_blank">reuters.com</a> (2025-12-21 23:05:08)</span><span style="padding-right:50px;">"But even discussing the possibility of future accountability for Trump aides and advisers is deeply controversial among its critics.," writes Ronald Brownstein. | Analysis https://cnn.it/3Y6LaeI <a href="https://bsky.app/profile/cnn.com/post/3maiv4hrqd32q" target="_blank">cnn.com</a> (2025-12-21 23:03:02)</span>
+<span style="padding-right:50px;">France will build new aircraft carrier, Macron tells troops reut.rs/4p4K2De <a href="https://bsky.app/profile/reuters.com/post/3maiwdxezxf2y" target="_blank">reuters.com</a> (2025-12-21 23:25:07)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3🈡 (2025-12-21 23:24:34) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3maiwd5hj5f27" target="_blank">sokuho.news</a> (2025-12-21 23:24:40)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-21 23:24:06) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3maiwcdjhrk2r" target="_blank">sokuho.news</a> (2025-12-21 23:24:13)</span><span style="padding-right:50px;">Property owners in British Columbia are scrambling for options after a court said indigenous groups have a right to reclaim ownership of land taken from them scores of years ago. <a href="https://bsky.app/profile/wsj.com/post/3maivt2p3dw2z" target="_blank">wsj.com</a> (2025-12-21 23:15:40)</span><span style="padding-right:50px;">Authorities report that nine people have died and at least 10 others are injured after a shooting at a South African pub. The incident occurred early Sunday in Bekkersdal, west of Johannesburg. n.pr/49aipCX <a href="https://bsky.app/profile/npr.org/post/3maivsjgghe2x" target="_blank">npr.org</a> (2025-12-21 23:15:22)</span>
   </div>
 </div>
 
@@ -32,15 +32,77 @@
 
 ## News Headlines
 
-- Minor earthquake strikes off Japan's island of Kyushu
-- Israel kills two Palestinians, including 16-year-old, in West Bank
-- US oil blockade and military buildup against Venezuela lead to Cuba's economic collapse
-- Iraq uses oil to secure water resources due to struggle over Tigris and Euphrates rivers
-- Microsoft's Xbox struggles in console race, part of gaming pivot
-- Sweden boards Russian vessel off its coast
+- France to Build New Aircraft Carrier, Macron Tells Troops
+- At Least 9 Killed, 10 Injured in South African Pub Shooting
+- Property Owners in British Columbia Must Consider Indigenous Groups' Rights
+- Israel Approves 19 New Settlements in Occupied West Bank
+- Cuba's Economy Nears Collapse Under US Oil Blockade
+- Turkey's Rivers Become Focus of Struggle for Iraq's Water
 
 
 ----
+
+@reuters.com
+
+France will build new aircraft carrier, Macron tells troops reut.rs/4p4K2De
+
+[2025-12-21 23:25:07](https://bsky.app/profile/reuters.com/post/3maiwdxezxf2y)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3🈡
+(2025-12-21 23:24:34) #緊急地震速報
+
+[2025-12-21 23:24:40](https://bsky.app/profile/sokuho.news/post/3maiwd5hj5f27)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-21 23:24:06) #緊急地震速報
+
+[2025-12-21 23:24:13](https://bsky.app/profile/sokuho.news/post/3maiwcdjhrk2r)
+
+---
+
+@wsj.com
+
+Property owners in British Columbia are scrambling for options after a court said indigenous groups have a right to reclaim ownership of land taken from them scores of years ago.
+
+[2025-12-21 23:15:40](https://bsky.app/profile/wsj.com/post/3maivt2p3dw2z)
+
+---
+
+@npr.org
+
+Authorities report that nine people have died and at least 10 others are injured after a shooting at a South African pub. The incident occurred early Sunday in Bekkersdal, west of Johannesburg. n.pr/49aipCX
+
+[2025-12-21 23:15:22](https://bsky.app/profile/npr.org/post/3maivsjgghe2x)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】フィギュアスケート五輪代表に佐藤駿、千葉百音
+(2025-12-21 23:07:00) #ニュース
+
+[2025-12-21 23:12:49](https://bsky.app/profile/sokuho.news/post/3maivnx6xmv2a)
+
+---
 
 @sokuho.news
 
@@ -83,57 +145,6 @@ Here's your big free reminder on AI stocks for 2026
 Barca's Denmark defender Christensen suffers cruciate ligament tear reut.rs/4p29klp
 
 [2025-12-21 23:05:08](https://bsky.app/profile/reuters.com/post/3maiva7bwkj2o)
-
----
-
-@cnn.com
-
-"But even discussing the possibility of future accountability for Trump aides and advisers is deeply controversial among its critics.," writes Ronald Brownstein. | Analysis
-https://cnn.it/3Y6LaeI
-
-[2025-12-21 23:03:02](https://bsky.app/profile/cnn.com/post/3maiv4hrqd32q)
-
----
-
-@reuters.com
-
-Salah focused on Egypt ambition with Liverpool crisis behind him reut.rs/49nUjWo
-
-[2025-12-21 23:01:03](https://bsky.app/profile/reuters.com/post/3maiuyw6q7r2o)
-
----
-
-@usatoday.com
-
-Is an intellectual disability a condition, or a number on an IQ test? Here's why an Alabama death penalty case at the Supreme Court is worrying advocates.
-
-[2025-12-21 23:00:29](https://bsky.app/profile/usatoday.com/post/3maiuxvhylr2o)
-
----
-
-@washingtonpost.com
-
-When Charlie Hicks, 78, a regular at the Shrimp Basket, stopped showing up, the chef went looking for him.
-
-He ended up saving his life. https://wapo.st/4qbkSUp
-
-[2025-12-21 23:00:24](https://bsky.app/profile/washingtonpost.com/post/3maiuxq7n4623)
-
----
-
-@aljazeera.com
-
-Week in Pictures: From shooting in Australia to protest in Brussels https://aje.io/469zh0
-
-[2025-12-21 23:00:11](https://bsky.app/profile/aljazeera.com/post/3maiuxewvju2z)
-
----
-
-@apnews.com
-
-Luigi Mangione’s lawyers contend that Attorney General Pam Bondi’s decision to seek the death penalty against him in the killing of UnitedHealthcare CEO Brian Thompson was tainted by her prior work as a lobbyist at a firm that represented the insurer’s parent company.
-
-[2025-12-21 23:00:05](https://bsky.app/profile/apnews.com/post/3maiux6cdc42k)
 
 ---
 
