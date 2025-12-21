@@ -1,9 +1,9 @@
-# [2025-12-21 08:50 updated](2025_12_21.md)
+# [2025-12-21 09:11 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">「GIGAスクール構想」2社でポータルサイトのシェア7割、寡占の懸念 www.nikkei.com/article/DGXZQO...  MM総研によると、ポータルサイトのシェアはNTTドコモビジネス（旧NTTコミュニケーションズ）が36%、内田洋行が34%と上位2社で7割。  2割は国の「実証用学習eポータル」で、サイト間の競争は乏しい状況にあります。  デジタル教材の掲載手数料を差別的に高く設定するなど、事業者が不利になる恐れがあることから、公正取引委員会は近く見解を示します。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3mahepaf7mo22" target="_blank">nikkei.com</a> (2025-12-21 08:36:39)</span><span style="padding-right:50px;">Donald Trump’s administration faced new criticism of its handling of documents related to late sex offender Jeffrey Epstein after the justice department removed 16, including an image of the president, from a trove of files released on Friday. ft.trib.al/y9cpOwC <a href="https://bsky.app/profile/financialtimes.com/post/3mahejcb2ra2k" target="_blank">financialtimes.com</a> (2025-12-21 08:33:20)</span><span style="padding-right:50px;">Mass firings, buyouts and heightened uncertainty led to an exodus of federal workers in 2025. More than 300,000 employees will be out of the government by the end of December. <a href="https://bsky.app/profile/npr.org/post/3mahefrl33x2e" target="_blank">npr.org</a> (2025-12-21 08:31:21)</span><span style="padding-right:50px;">Hold onto your teeth: Here are the biggest differences between Amanda Seyfried's "The Housemaid" movie and Freida McFadden's popular novel. Spoilers! <a href="https://bsky.app/profile/usatoday.com/post/3mahedw2iol2w" target="_blank">usatoday.com</a> (2025-12-21 08:30:19)</span><span style="padding-right:50px;">Affordability — a word that nods to the costs of housing, child care, groceries, health care, utilities and other essential expenses — is dominating the political conversation ahead of the midterm elections. How did it emerge so quickly? <a href="https://bsky.app/profile/nytimes.com/post/3mahe2l2mox25" target="_blank">nytimes.com</a> (2025-12-21 08:25:06)</span>
+<span style="padding-right:50px;">US coastguard boards tanker carrying Venezuelan oil in Caribbean ft.trib.al/KjoFE6k <a href="https://bsky.app/profile/financialtimes.com/post/3mahge2duv42k" target="_blank">financialtimes.com</a> (2025-12-21 09:06:11)</span><span style="padding-right:50px;">The US military is conducting movements and coordinating exercises at José Aponte de la Torre Airport, a former US naval station in Ceiba, Puerto Rico, as part of heightened regional military readiness linked to ongoing tensions with Venezuela <a href="https://bsky.app/profile/en.afp.com/post/3mahgbxmsdt2j" target="_blank">en.afp.com</a> (2025-12-21 09:05:01)</span><span style="padding-right:50px;">ウクライナのゼレンスキー大統領は２０日、米国、ウクライナ、ロシアによる高官会談の提案を米国から受けたと明らかにし、さらなる捕虜交換を促し、各国による会談に道を開くなら提案を支持するとの見解を示した。 bit.ly/3MOlQrp <a href="https://bsky.app/profile/japan.reuters.com/post/3mahg5cbzab2q" target="_blank">japan.reuters.com</a> (2025-12-21 09:02:24)</span><span style="padding-right:50px;">Venezuelan government rejects seizure of new vessel transporting oil reut.rs/3MTmkfO <a href="https://bsky.app/profile/reuters.com/post/3mahg2pkmfc2p" target="_blank">reuters.com</a> (2025-12-21 09:00:58)</span><span style="padding-right:50px;">🛎️NNNより【独自】です。  【独自検証】消防隊員2人が亡くなった道頓堀火災 看板はなぜ燃えた？ビル火災事故の真相と安全対策の課題 (2025-12-21 09:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahg2jwvqk2y" target="_blank">sokuho.news</a> (2025-12-21 09:00:52)</span>
   </div>
 </div>
 
@@ -32,110 +32,199 @@
 
 ## News Headlines
 
-- NTT and Nidec dominate portal site market share
-  - GIGAスクール構想にポータルサイトシェア7割の寡占の懸念
-- US Justice Department under fire for removing Trump image from Epstein files
-  - Epsteinファイルからトランプ画像を削除した米国司法省に批判
-- France and Italy crack down on drug trafficking
-  - フランスとイタリアが大規模な麻薬密売組織を摘発
-- Mbappe equals Ronaldo's record in Real Madrid's win over Sevilla
-  - マペープがレアルマドリードのセビリア戦でロナウド記録に並ぶ
-- Hong Kong billionaire Jimmy Lai's fight against China's oppression
-  - 香港億万長者・来来氏が中国の威圧に立ち向かう
-- ASEAN foreign ministers to meet over Southeast Asian border conflict
-  - ASEAN外相が南東アジアの国境紛争をめぐる緊急会議を開催
+- US Coast Guard Boards Tanker Carrying Venezuelan Oil
+  - ベネズエラ船を米海軍が拿捕
+- US Military Conducts Exercises in Puerto Rico Amid Tensions with Venezuela
+  - 米軍、プエルトリコでベネズエラとの緊張に備え訓練
+- Ukraine President Zelenskyy Accepts US, Ukraine, Russia Peace Talks Proposal
+  - ゼレンスキー大統領、米国・ウクライナ・ロシアによる平和会議参加を承知
+- Venezuela Rebuffs Seizure of Oil Vessel
+  - ベネズエラ、石油タンカー拿捕を拒否
+- Japanese Firefighters' Deaths Raise Questions About Safety Procedures
+  - 消防隊員2人が亡くなった火災、安全対策の懸念
+- US Coast Guard Seizes Venezuelan Oil Vessel
+  - 米海軍、ベネズエラタンカーを拿捕
+- US Military Conducts Exercises in Puerto Rico Amid Tensions with Venezuela
+  - 米軍、プエルトリコでベネズエラとの緊張に備え訓練
+- US Seizes Vessel Carrying Venezuelan Oil
+  - 米海軍、ベネズエラタンカーを拿捕
+- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
+  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
+- Southeast Asian Border Conflict Resumes
+  - 南東アジア国境紛争再燃
+- US Seizes Vessel Carrying Venezuelan Oil
+  - 米海軍、ベネズエラタンカーを拿捕
+- US Coast Guard Seizes Vessel Carrying Venezuelan Oil
+  - 米海軍、ベネズエラタンカーを拿捕
+- US Seizes Vessel Carrying Venezuelan Oil
+  - 米海軍、ベネズエラタンカーを拿捕
+- US Coast Guard Seizes Vessel Carrying Venezuelan Oil
+  - 米海軍、ベネズエラタンカーを拿捕
+- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
+  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
+- Southeast Asian Border Conflict Resumes
+  - 南東アジア国境紛争再燃
+- US Seizes Vessel Carrying Venezuelan Oil
+  - 米海軍、ベネズエラタンカーを拿捕
+- US Coast Guard Boards Tanker Carrying Venezuelan Oil
+  - 米海軍がベネズエラタンカー拿捕
+- US Military Conducts Exercises in Puerto Rico Amid Tensions with Venezuela
+  - 米軍、プエルトリコでベネズエラとの緊張に備え訓練
+- Mass Firings and Uncertainty Drive Federal Worker Exodus
+  - 米国政府職員過半数辞任
+- US Justice Department Under Fire for Removing Trump Image from Epstein Files
+  - 米司法省、EPSTEIN関連文書からトランプ画像を削除
+- US Seizes Vessel Carrying Venezuelan Oil
+  - 米海軍、ベネズエラタンカーを拿捕
+- Italian Police Arrest 384 in Large-Scale Drug Trafficking Operation
+  - イタリア警察、大規模麻薬密売人逮捕
+- Mbappe Equals Ronaldo Record in Real Madrid Win
+  - マッベペ、ロナウドと同等となるレアルマドリードの記録
+- Southeast Asian Border Conflict Resumes
+  - 南東アジア国境紛争再燃
+- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
+  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
+- US Seizes Vessel Carrying Venezuelan Oil
+  - 米海軍、ベネズエラタンカーを拿捕
+- US Coast Guard Seizes Vessel Carrying Venezuelan Oil
+  - 米海軍、ベネズエラタンカーを拿捕
+- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
+  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
+- Italian Police Arrest 384 in Large-Scale Drug Trafficking Operation
+  - イタリア警察、麻薬密売人逮捕
+- US Seizes Vessel Carrying Venezuelan Oil
+  - 米海軍、ベネズエラタンカーを拿捕
+- US Coast Guard Boards Tanker Carrying Venezuelan Oil
+  - 米海軍がベネズエラタンカー拿捕
+- US Military Conducts Exercises in Puerto Rico Amid Tensions with Venezuela
+  - 米軍、プエルトリコでベネズエラとの緊張に備え訓練
+- US Justice Department Under Fire for Removing Trump Image from Epstein Files
+  - 米司法省、EPSTEIN関連文書からトランプ画像を削除
+- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
+  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
+- Southeast Asian Border Conflict Resumes
+  - 南東アジア国境紛争再燃
+- US Seizes Vessel Carrying Venezuelan Oil
+  - 米海軍、ベネズエラタンカーを拿捕
+- US Coast Guard Boards Tanker Carrying Venezuelan Oil
+  - 米海軍がベネズエラタンカー拿捕
+- US Military Conducts Exercises in Puerto Rico Amid Tensions with Venezuela
+  - 米軍、プエルトリコでベネズエラとの緊張に備え訓練
+- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
+  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
+- Italian Police Arrest 384 in Large-Scale Drug Trafficking Operation
+  - イタリア警察、麻薬密売人逮捕
+- US Seizes Vessel Carrying Venezuelan Oil
+  - 米海軍、ベネズエラタンカーを拿捕
+- US Coast Guard Boards Tanker Carrying Venezuelan Oil
+  - 米海軍がベネズエラタンカー拿捕
+- US Military Conducts Exercises in Puerto Rico Amid Tensions with Venezuela
+  - 米軍、プエルトリコでベネズエラとの緊張に備え訓練
+- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
+  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
+- Southeast Asian Border Conflict Resumes
+  - 南東アジア国境紛争再燃
+- US Seizes Vessel Carrying Venezuelan Oil
+  - 米海軍、ベネズエラタンカーを拿捕
+- US Coast Guard Boards Tanker Carrying Venezuelan Oil
+  - 米海軍がベネズエラタンカー拿捕
+- US Military Conducts Exercises in Puerto Rico Amid Tensions with Venezuela
+  - 米軍、プエルトリコでベネズエラとの緊張に備え訓練
+- US, Egypt, Qatar, Turkiye Urge Restraint in Gaza
+  - 米・エジプト・カタール・トルコ、ガザで抑制を求める
+- Italian Police Arrest 384 in Large-Scale Drug Trafficking Operation
+  - イタリア警察、麻薬密売人逮捕
 
 
 ----
 
-@nikkei.com
-
-「GIGAスクール構想」2社でポータルサイトのシェア7割、寡占の懸念
-www.nikkei.com/article/DGXZQO...
-
-MM総研によると、ポータルサイトのシェアはNTTドコモビジネス（旧NTTコミュニケーションズ）が36%、内田洋行が34%と上位2社で7割。
-
-2割は国の「実証用学習eポータル」で、サイト間の競争は乏しい状況にあります。
-
-デジタル教材の掲載手数料を差別的に高く設定するなど、事業者が不利になる恐れがあることから、公正取引委員会は近く見解を示します。
-
-#ニュース
-
-[2025-12-21 08:36:39](https://bsky.app/profile/nikkei.com/post/3mahepaf7mo22)
-
----
-
 @financialtimes.com
 
-Donald Trump’s administration faced new criticism of its handling of documents related to late sex offender Jeffrey Epstein after the justice department removed 16, including an image of the president, from a trove of files released on Friday. ft.trib.al/y9cpOwC
+US coastguard boards tanker carrying Venezuelan oil in Caribbean ft.trib.al/KjoFE6k
 
-[2025-12-21 08:33:20](https://bsky.app/profile/financialtimes.com/post/3mahejcb2ra2k)
-
----
-
-@npr.org
-
-Mass firings, buyouts and heightened uncertainty led to an exodus of federal workers in 2025. More than 300,000 employees will be out of the government by the end of December.
-
-[2025-12-21 08:31:21](https://bsky.app/profile/npr.org/post/3mahefrl33x2e)
-
----
-
-@usatoday.com
-
-Hold onto your teeth: Here are the biggest differences between Amanda Seyfried's "The Housemaid" movie and Freida McFadden's popular novel. Spoilers!
-
-[2025-12-21 08:30:19](https://bsky.app/profile/usatoday.com/post/3mahedw2iol2w)
-
----
-
-@nytimes.com
-
-Affordability — a word that nods to the costs of housing, child care, groceries, health care, utilities and other essential expenses — is dominating the political conversation ahead of the midterm elections. How did it emerge so quickly?
-
-[2025-12-21 08:25:06](https://bsky.app/profile/nytimes.com/post/3mahe2l2mox25)
-
----
-
-@financialtimes.com
-
-US justice department under fire for removing Trump image from Epstein files ft.trib.al/wAIno9H
-
-[2025-12-21 08:17:30](https://bsky.app/profile/financialtimes.com/post/3mahdmz444r2o)
-
----
-
-@cnn.com
-
-Italian police said on Saturday they had arrested 384 people and seized 1.4 tonnes of drugs in a large-scale operation against drug trafficking. 
-
-[2025-12-21 08:15:03](https://bsky.app/profile/cnn.com/post/3mahdimrawd2t)
+[2025-12-21 09:06:11](https://bsky.app/profile/financialtimes.com/post/3mahge2duv42k)
 
 ---
 
 @en.afp.com
 
-⚽ French superstar Kylian Mbappe said it was an honour to equal his idol Cristiano Ronaldo's record of 59 Real Madrid goals in a calendar year on Saturday -- a feat he achieved on his 27th birthday
+The US military is conducting movements and coordinating exercises at José Aponte de la Torre Airport, a former US naval station in Ceiba, Puerto Rico, as part of heightened regional military readiness linked to ongoing tensions with Venezuela
 
-u.afp.com/S8Sg
-
-[2025-12-21 08:15:01](https://bsky.app/profile/en.afp.com/post/3mahdikxl7c2q)
+[2025-12-21 09:05:01](https://bsky.app/profile/en.afp.com/post/3mahgbxmsdt2j)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@japan.reuters.com
 
-Hong Kong billionaire Jimmy Lai tested China's limits. It cost him his freedom
+ウクライナのゼレンスキー大統領は２０日、米国、ウクライナ、ロシアによる高官会談の提案を米国から受けたと明らかにし、さらなる捕虜交換を促し、各国による会談に道を開くなら提案を支持するとの見解を示した。 bit.ly/3MOlQrp
 
-[2025-12-21 08:11:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mahdbruuxe2b)
+[2025-12-21 09:02:24](https://bsky.app/profile/japan.reuters.com/post/3mahg5cbzab2q)
 
 ---
 
 @reuters.com
 
-Arteta praises Arsenal grit after away win over Everton reut.rs/4asVJAe
+Venezuelan government rejects seizure of new vessel transporting oil reut.rs/3MTmkfO
 
-[2025-12-21 08:10:14](https://bsky.app/profile/reuters.com/post/3mahd7z5zkf2i)
+[2025-12-21 09:00:58](https://bsky.app/profile/reuters.com/post/3mahg2pkmfc2p)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【独自】です。
+
+【独自検証】消防隊員2人が亡くなった道頓堀火災 看板はなぜ燃えた？ビル火災事故の真相と安全対策の課題
+(2025-12-21 09:00) #ニュース
+
+[2025-12-21 09:00:52](https://bsky.app/profile/sokuho.news/post/3mahg2jwvqk2y)
+
+---
+
+@nikkei.com
+
+首都直下地震　数字に表れない「連鎖・複合被害」に備えを
+www.nikkei.com/article/DGXZQO...
+
+本来、インフラや生活基盤が整った都市は過疎地などに比べて安全なはず。
+
+しかし専門家は、人口密度が一定のしきい値を超えると、犠牲者が飛躍的に増える現象を指摘します。
+
+[2025-12-21 09:00:40](https://bsky.app/profile/nikkei.com/post/3mahg26otzh2g)
+
+---
+
+@apnews.com
+
+Combat training drills are a rite of passage for police recruits nationwide, and an Associated Press investigation finds they've left a trail of deaths and injuries.
+
+[2025-12-21 09:00:38](https://bsky.app/profile/apnews.com/post/3mahg24rnyf2d)
+
+---
+
+@bloomberg.com
+
+President Donald Trump endorsed Nassau County Executive Bruce Blakeman for New York governor a day after Republican Representative Elise Stefanik, another long-time ally of the president, dropped out of the race.
+
+[2025-12-21 09:00:31](https://bsky.app/profile/bloomberg.com/post/3mahfzvmsfh23)
+
+---
+
+@usatoday.com
+
+Designer David Bromstad revealed he attended a treatment center after a storm destroyed his 'childhood fantasy' dream home in Florida mid-renovation.
+
+[2025-12-21 09:00:23](https://bsky.app/profile/usatoday.com/post/3mahfzouc7z2z)
+
+---
+
+@washingtonpost.com
+
+The board of the Kennedy Center announced it had voted to rename the cultural institution in honor of President Trump.
+
+But members of the organization are having a harder time replacing the website domain because a comedian bought it months ago.
+
+[2025-12-21 09:00:14](https://bsky.app/profile/washingtonpost.com/post/3mahfzfrtiv2b)
 
 ---
 
