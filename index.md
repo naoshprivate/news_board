@@ -1,9 +1,9 @@
-# [2025-12-21 12:10 updated](2025_12_21.md)
+# [2025-12-21 12:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">サッカーのドイツ１部ブンデスリーガは２０日、各地で試合を行い、レーバークーゼンがライプチヒを３─１で下し、３位に浮上した。 bit.ly/4spTGn5 <a href="https://bsky.app/profile/japan.reuters.com/post/3mahqlnkpyu2q" target="_blank">japan.reuters.com</a> (2025-12-21 12:09:23)</span><span style="padding-right:50px;">全国高校駅伝 女子 長野東が連覇 女子では史上4校目【詳しく】 https://news.web.nhk/newsweb/na/na-k10015007901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahqlaigii2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 12:09:08)</span><span style="padding-right:50px;">日曜討論 防衛装備品の移転 運用指針めぐり与野党が論戦 https://news.web.nhk/newsweb/na/na-k10015009601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahql3q6in2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 12:09:03)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  全国高校駅伝 女子 長野東が連覇 女子では史上4校目【詳しく】 (2025-12-21 11:57:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahqj4lece2b" target="_blank">sokuho.news</a> (2025-12-21 12:07:59)</span><span style="padding-right:50px;">It took 24 seconds to fire 29 shots from a pair of 9mm pistols. One round killed an insurance adjuster holding his own gun. The shooters claimed self-defense. A WSJ investigation reopened the case. <a href="https://bsky.app/profile/wsj.com/post/3mahqetcpge2q" target="_blank">wsj.com</a> (2025-12-21 12:05:34)</span>
+<span style="padding-right:50px;">ボクシングのヘビー級８回戦が１９日、米フロリダ州マイアミで行われ、元ヘビー級統一王者のアンソニー・ジョシュア（３６、英国）がユーチューバー兼プロボクサーのジェイク・ポール（２８、米国）にノックアウト（ＫＯ）勝ちした。 bit.ly/3KFuhoo <a href="https://bsky.app/profile/japan.reuters.com/post/3mahrcibcfp2n" target="_blank">japan.reuters.com</a> (2025-12-21 12:22:10)</span><span style="padding-right:50px;">青森 八戸 “後発地震注意情報” 呼びかけ期間終了後 初の朝市 https://news.web.nhk/newsweb/na/na-k10015009661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahraknwdo2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 12:21:02)</span><span style="padding-right:50px;">Coventry manager Lampard says he was out of order after Southampton melee reut.rs/4j85OVa <a href="https://bsky.app/profile/reuters.com/post/3mahr6vkuwr2i" target="_blank">reuters.com</a> (2025-12-21 12:20:09)</span><span style="padding-right:50px;">全国高校駅伝 女子 長野東が連覇 女子では史上4校目【全結果】 https://news.web.nhk/newsweb/na/na-k10015007901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahr36dt7622" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 12:18:02)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  全国高校駅伝 女子 長野東が連覇 女子では史上4校目【全結果】 (2025-12-21 12:15:16) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahqwz2wgm26" target="_blank">sokuho.news</a> (2025-12-21 12:15:45)</span>
   </div>
 </div>
 
@@ -32,21 +32,79 @@
 
 ## News Headlines
 
-- Bundesliga: Leverkusen Tops Leipzig 3-1, Rises to 3rd
-  - ブンデスリーガ：レバークーゼンがライプチヒを3-1で下し３位に浮上
-- Long-Distance Relay: Nagano East Wins 4th National Title
-  - 全国高校駅伝 女子：長野東が連覇　女子では史上４校目
-- Defense Equipment Transfer: LDP, Opposition Clash in Debate
-  - 日曜討論　防衛装備品の移転　運用指針めぐり与野党が論戦
-- Earthquake Hits Wakayama Prefecture
-  - 和歌山県で地震　最大震度1
-- Tesla CEO Elon Musk's Net Worth Surpasses $70 Billion
-  - テスラ最高経営責任者イーロン・マスクの純資産が7000億ドルを突破
-- Ex-Coach Saban Accuses Texas A&M of Cheating
-  - 元アラバマ大学野球部長サバンがテキサスA＆Mにチートの疑いを指摘
+- Joshua Knocks Out Paul in 1st Round
+  - アンソニー・ジョシュアがジェイク・ポールを1回KOで破る
+- Earthquake Information: Joganji, Aomori Prefecture
+  - 青森・岩手で震度4
+- Juventus Keeps Title Hopes Alive with Win
+  - ユベントスが残留争いを逃さない
+- Seven Elephants Killed in Train Crash in India
+  - インドで列車とアジア象の列車衝突、７頭死亡
+- National High School Ekiden Girls' Championship: Nagano East Wins Back-to-Back Titles
+  - 全国高校駅伝 女子 長野東が連覇 女子では史上4校目
+- Leipzig Loses to Leipzig, Slips to Third Place
+  - サッカーのドイツ１部ブンデスリーガ、レーバークーゼンがライプチヒを３-１で下し３位に
 
 
 ----
+
+@japan.reuters.com
+
+ボクシングのヘビー級８回戦が１９日、米フロリダ州マイアミで行われ、元ヘビー級統一王者のアンソニー・ジョシュア（３６、英国）がユーチューバー兼プロボクサーのジェイク・ポール（２８、米国）にノックアウト（ＫＯ）勝ちした。 bit.ly/3KFuhoo
+
+[2025-12-21 12:22:10](https://bsky.app/profile/japan.reuters.com/post/3mahrcibcfp2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+青森 八戸 “後発地震注意情報” 呼びかけ期間終了後 初の朝市
+https://news.web.nhk/newsweb/na/na-k10015009661000
+
+[2025-12-21 12:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahraknwdo2w)
+
+---
+
+@reuters.com
+
+Coventry manager Lampard says he was out of order after Southampton melee reut.rs/4j85OVa
+
+[2025-12-21 12:20:09](https://bsky.app/profile/reuters.com/post/3mahr6vkuwr2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+全国高校駅伝 女子 長野東が連覇 女子では史上4校目【全結果】
+https://news.web.nhk/newsweb/na/na-k10015007901000
+
+[2025-12-21 12:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahr36dt7622)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>全国高校駅伝 女子 長野東が連覇 女子では史上4校目【全結果】</strong><br><strong>(2025-12-21 12:15:16) #ニュース</strong>
+
+[2025-12-21 12:15:45](https://bsky.app/profile/sokuho.news/post/3mahqwz2wgm26)
+
+---
+
+@japan.reuters.com
+
+サッカーのイタリア・セリエＡは２０日、各地で試合を行い、ユベントスがローマを２─１で下し、優勝争いに踏みとどまった。 bit.ly/4p9g9ln
+
+[2025-12-21 12:15:43](https://bsky.app/profile/japan.reuters.com/post/3mahqwxpk2427)
+
+---
+
+@cnn.com
+
+Seven wild Asiatic elephants were killed and a calf was injured when a high-speed passenger train collided with a herd crossing the tracks in India’s northeastern state of Assam early Saturday, local authorities said. 
+
+[2025-12-21 12:15:02](https://bsky.app/profile/cnn.com/post/3mahqvpzx752k)
+
+---
 
 @japan.reuters.com
 
@@ -71,81 +129,6 @@ https://news.web.nhk/newsweb/na/na-k10015007901000
 https://news.web.nhk/newsweb/na/na-k10015009601000
 
 [2025-12-21 12:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahql3q6in2m)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>全国高校駅伝 女子 長野東が連覇 女子では史上4校目【詳しく】</strong><br><strong>(2025-12-21 11:57:08) #ニュース</strong>
-
-[2025-12-21 12:07:59](https://bsky.app/profile/sokuho.news/post/3mahqj4lece2b)
-
----
-
-@wsj.com
-
-It took 24 seconds to fire 29 shots from a pair of 9mm pistols. One round killed an insurance adjuster holding his own gun. The shooters claimed self-defense. A WSJ investigation reopened the case.
-
-[2025-12-21 12:05:34](https://bsky.app/profile/wsj.com/post/3mahqetcpge2q)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:和歌山県北部, 深さ:10km
-マグニチュード:2.6, 最大震度:1
-📍https://www.google.com/maps?q=34.1,135.3&ll=34.1,135.3&z=7&t=h
-地震発生日時:2025-12-21 12:00頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-21 12:03:27](https://bsky.app/profile/sokuho.news/post/3mahqaztu7n2b)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-12時0分頃、和歌山県で最大震度1の地震を観測しました。
-震源:和歌山県北部, 深さ:10km, 規模:M2.6
-この地震による津波の心配はありません。
-(2025-12-21 12:03:01) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/21/2025-12-21-12-00-28.html?xlarge_image=1
-
-[2025-12-21 12:03:01](https://bsky.app/profile/sokuho.news/post/3mahqabwpg726)
-
----
-
-@nikkei.com
-
-トランプ運動MAGAの未来は？
-www.nikkei.com/article/DGXZQO...
-
-約10年で国民の15%が「MAGA運動の担い手」を自認するほどに発展。
-
-欧州・アジアにも影響を及ぼす一方、内部では多くの亀裂も生じています。
-
-[2025-12-21 12:00:39](https://bsky.app/profile/nikkei.com/post/3mahq3znqlv2x)
-
----
-
-@cnbc.com
-
-David McGranaghan and Julian Miller, two former actors, pitched their pandemic-born party game business to investors on ABC's "Shark Tank."
-
-McGranaghan and Miller, a married couple based in Los Angeles, are the founders of McMiller which has generated $12.5 million in revenue.
-
-[2025-12-21 12:00:17](https://bsky.app/profile/cnbc.com/post/3mahq3enes42m)
-
----
-
-@usatoday.com
-
-Curtis Jackson, better known as 50 Cent, made an appearance before the fourth quarter of Oklahoma's CFP first-round game vs. Alabama. Here's why:
-
-[2025-12-21 12:00:10](https://bsky.app/profile/usatoday.com/post/3mahq35bszl2o)
 
 ---
 
