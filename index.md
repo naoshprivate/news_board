@@ -1,9 +1,9 @@
-# [2025-12-22 21:50 updated](2025_12_22.md)
+# [2025-12-22 22:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">TSX futures rise on commodity strength as holiday week begins reut.rs/3KILo8P <a href="https://bsky.app/profile/reuters.com/post/3malbacs46h24" target="_blank">reuters.com</a> (2025-12-22 21:45:16)</span><span style="padding-right:50px;">韓国国税庁は不正アクセスにより大規模な顧客情報流出が発生したインターネット通販大手クーパンに対し、特別税務調査を実施している。聯合ニュースが２２日報じた。 bit.ly/3YFjEVL <a href="https://bsky.app/profile/japan.reuters.com/post/3malbac4zav2c" target="_blank">japan.reuters.com</a> (2025-12-22 21:45:15)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:沖縄本島北西沖, 深さ:90km マグニチュード:4.5, 最大震度:1 📍https://www.google.com/maps?q=26.1,126.1&ll=26.1,126.1&z=7&t=h 地震発生日時:2025-12-22 21:38頃 (10倍速▶210s→21s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3malb37sace2a" target="_blank">sokuho.news</a> (2025-12-22 21:42:24)</span><span style="padding-right:50px;">フジテレビ親会社 旧村上ファンド側に経営関わり方説明求める https://news.web.nhk/newsweb/na/na-k10015010771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malb2n435h2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 21:42:03)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  21時38分頃、沖縄県で最大震度1の地震を観測しました。 震源:沖縄本島北西沖, 深さ:90km, 規模:M4.5 この地震による津波の心配はありません。 (2025-12-22 21:41:28) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/22/2025-12-22-21-38-27.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3malazlbgmz26" target="_blank">sokuho.news</a> (2025-12-22 21:41:29)</span>
+<span style="padding-right:50px;">政府 アメリカ投資へ「交付国債」1兆円台発行の方向で最終調整 https://news.web.nhk/newsweb/na/na-k10015010881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malcfkbi742w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 22:06:03)</span><span style="padding-right:50px;">Steelers WR DK Metcalf involved in altercation with fan reut.rs/3MQ0Ss6 <a href="https://bsky.app/profile/reuters.com/post/3malcdxcsoj2k" target="_blank">reuters.com</a> (2025-12-22 22:05:12)</span><span style="padding-right:50px;">Good morning New York, while you were sleeping this was our most read story. ft.trib.al/da5fJA0 <a href="https://bsky.app/profile/financialtimes.com/post/3malcdqqplm2f" target="_blank">financialtimes.com</a> (2025-12-22 22:05:05)</span><span style="padding-right:50px;">The DOJ has released more files related to convicted sex offender Jeffrey Epstein. And, NPR finds a rise in the number of immigrants without legal status who aren't showing up to immigration court. n.pr/4jiKywk <a href="https://bsky.app/profile/npr.org/post/3malca2iiiz24" target="_blank">npr.org</a> (2025-12-22 22:03:01)</span><span style="padding-right:50px;">Loop Capital sees this discount retailer benefiting as consumers continue to ‘trade down’ the price curve <a href="https://bsky.app/profile/cnbc.com/post/3malc7kjwiz2x" target="_blank">cnbc.com</a> (2025-12-22 22:02:44)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.40 (🔻0.35 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.10 (🔻0.65 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,106 +32,96 @@
 
 ## News Headlines
 
-- TSX futures rise on commodity strength as holiday week begins
-- Japan tax agency conducts special tax investigation on e-commerce giant Kuapn following large-scale customer data leak
-- US labor market ends 2025 on a sour note with companies trimming head count and wage gains slowing
-- New Zealand and India agree on free trade deal, aiming to double bilateral trade within five years
-- IMF reserve data shows stabilization in third quarter
-- Iran insists its missile program is defensive, not a threat to global security
+- Japan to issue 1 trillion yen in US investment bonds
+- Steelers WR involved in altercation with fan
+- US labor market ends 2025 on a sour note
+- Ukraine deploys low-cost interceptor drones to counter Russia’s aerial attacks
+- Polish president appoints new Monetary Policy Council member
+- IMF reserve data shows stabilisation in third quarter
 
 
 ----
 
-@reuters.com
-
-TSX futures rise on commodity strength as holiday week begins reut.rs/3KILo8P
-
-[2025-12-22 21:45:16](https://bsky.app/profile/reuters.com/post/3malbacs46h24)
-
----
-
-@japan.reuters.com
-
-韓国国税庁は不正アクセスにより大規模な顧客情報流出が発生したインターネット通販大手クーパンに対し、特別税務調査を実施している。聯合ニュースが２２日報じた。 bit.ly/3YFjEVL
-
-[2025-12-22 21:45:15](https://bsky.app/profile/japan.reuters.com/post/3malbac4zav2c)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:沖縄本島北西沖, 深さ:90km
-マグニチュード:4.5, 最大震度:1
-📍https://www.google.com/maps?q=26.1,126.1&ll=26.1,126.1&z=7&t=h
-地震発生日時:2025-12-22 21:38頃
-(10倍速▶210s→21s) #地震
-
-[2025-12-22 21:42:24](https://bsky.app/profile/sokuho.news/post/3malb37sace2a)
-
----
-
 @nhknewsunofficial.bsky.social
 
-フジテレビ親会社 旧村上ファンド側に経営関わり方説明求める
-https://news.web.nhk/newsweb/na/na-k10015010771000
+政府 アメリカ投資へ「交付国債」1兆円台発行の方向で最終調整
+https://news.web.nhk/newsweb/na/na-k10015010881000
 
-[2025-12-22 21:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malb2n435h2v)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-21時38分頃、沖縄県で最大震度1の地震を観測しました。
-震源:沖縄本島北西沖, 深さ:90km, 規模:M4.5
-この地震による津波の心配はありません。
-(2025-12-22 21:41:28) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/22/2025-12-22-21-38-27.html?xlarge_image=1
-
-[2025-12-22 21:41:29](https://bsky.app/profile/sokuho.news/post/3malazlbgmz26)
+[2025-12-22 22:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malcfkbi742w)
 
 ---
 
-@wsj.com
+@reuters.com
 
-The U.S. labor market is ending 2025 on a sour note: Many companies trimmed head count and wage gains slowed.
+Steelers WR DK Metcalf involved in altercation with fan reut.rs/3MQ0Ss6
 
-[2025-12-22 21:41:04](https://bsky.app/profile/wsj.com/post/3malayst2lw2i)
+[2025-12-22 22:05:12](https://bsky.app/profile/reuters.com/post/3malcdxcsoj2k)
 
 ---
 
-@wsj.com
+@financialtimes.com
 
-Today’s AI founders might have a learner’s permit and a mouthful of braces. Teens are getting an early start in business by leveraging vibe-coding and social media.
+Good morning New York, while you were sleeping this was our most read story. ft.trib.al/da5fJA0
 
-[2025-12-22 21:40:50](https://bsky.app/profile/wsj.com/post/3malayfk5nx2h)
+[2025-12-22 22:05:05](https://bsky.app/profile/financialtimes.com/post/3malcdqqplm2f)
 
 ---
 
 @npr.org
 
-Dueling Safdie brother movie projects, Love Island USA chaos, a feces-filled And Just Like That … finale: looking back on an eclectic year for pop culture. n.pr/4s4Vv8J
+The DOJ has released more files related to convicted sex offender Jeffrey Epstein. And, NPR finds a rise in the number of immigrants without legal status who aren't showing up to immigration court. n.pr/4jiKywk
 
-[2025-12-22 21:40:46](https://bsky.app/profile/npr.org/post/3malaybhr6u2x)
+[2025-12-22 22:03:01](https://bsky.app/profile/npr.org/post/3malca2iiiz24)
 
 ---
 
-@japan.reuters.com
+@cnbc.com
 
-ニュージーランド（ＮＺ）とインドの両政府は２２日、自由貿易協定（ＦＴＡ）で合意したと発表した。両国は２国間貿易を５年間で倍増させることを目指す。 bit.ly/4aumEeP
+Loop Capital sees this discount retailer benefiting as consumers continue to ‘trade down’ the price curve
 
-[2025-12-22 21:40:17](https://bsky.app/profile/japan.reuters.com/post/3malaxflh542q)
+[2025-12-22 22:02:44](https://bsky.app/profile/cnbc.com/post/3malc7kjwiz2x)
+
+---
+
+@wsj.com
+
+The soon-to-be Swift-in-law and hot-sauce investor says he’s ‘no question’ more famous now than he was as an NFL star. on.wsj.com/3YH90xG
+
+[2025-12-22 22:01:55](https://bsky.app/profile/wsj.com/post/3malc63mos32c)
+
+---
+
+@wsj.com
+
+After the ‘Stranger Things’ finale on New Year’s Eve, the Canadian actor is looking forward to making his own projects. on.wsj.com/49kdiRP
+
+[2025-12-22 22:01:55](https://bsky.app/profile/wsj.com/post/3malc63kn4n2z)
+
+---
+
+@apnews.com
+
+Ukraine is rapidly deploying low-cost interceptor drones to counter Russia’s evolving aerial attacks on cities and power infrastructure. Homegrown systems such as the Sting and Bullet can intercept fast, high-altitude suicide drones at a fraction of the cost of missiles, reshaping modern air defense
+
+[2025-12-22 22:01:27](https://bsky.app/profile/apnews.com/post/3malc5b6ozt2d)
 
 ---
 
 @reuters.com
 
-IMF reserve data shows stabilisation in third quarter reut.rs/4pQQOOk
+Polish president appoints new Monetary Policy Council member Zarzecki reut.rs/3YFnlL3
 
-[2025-12-22 21:40:16](https://bsky.app/profile/reuters.com/post/3malaxeq4id2i)
+[2025-12-22 22:01:06](https://bsky.app/profile/reuters.com/post/3malc4neubh2i)
+
+---
+
+@bloomberg.com
+
+For years, people have lodged complaints about Tesla’s doors. With no official statistics, Bloomberg did its own analysis on the number of fatal crashes in the US in which door functionality played a role. Read more: bloom.bg/49tm0fF
+
+📷️: Getty Images
+
+[2025-12-22 22:00:59](https://bsky.app/profile/bloomberg.com/post/3malc4gft3m2p)
 
 ---
 
