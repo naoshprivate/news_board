@@ -1,9 +1,9 @@
-# [2025-12-23 07:30 updated](2025_12_23.md)
+# [2025-12-23 07:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ロシア紙イズベスチヤは２３日、ウクライナの紛争解決に向けた先週末のロシアと米国の協議は画期的なものと見なすべきではないとするペスコフ大統領報道官の発言を伝えた。 bit.ly/4923qL7 <a href="https://bsky.app/profile/japan.reuters.com/post/3mambp3chj52u" target="_blank">japan.reuters.com</a> (2025-12-23 07:26:11)</span><span style="padding-right:50px;">The U.S. will build "Trump-class" military vessels that the president on Monday suggested are new-age battleships, inching the country closer to construction of what the administration is advertising as "the Golden Fleet." <a href="https://bsky.app/profile/axios.com/post/3mambohdh222x" target="_blank">axios.com</a> (2025-12-23 07:25:50)</span><span style="padding-right:50px;">BREAKING: President Trump announced plans to build new Navy battleships he's calling the Pentagon's "Golden Fleet." cbsn.ws/3YGlHsF <a href="https://bsky.app/profile/cbsnews.com/post/3mamboal3fo2g" target="_blank">cbsnews.com</a> (2025-12-23 07:25:43)</span><span style="padding-right:50px;">Salah scores late winner as Egypt come from behind to beat Zimbabwe reut.rs/4sfQ5b2 <a href="https://bsky.app/profile/reuters.com/post/3mambn6yrj22k" target="_blank">reuters.com</a> (2025-12-23 07:25:08)</span><span style="padding-right:50px;">米動画配信大手ネットフリックスは、メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）買収に向け、約５９０億ドルのつなぎ融資の一部を借り換えた。規制当局に２２日付で届け出た書類で明らかになった。 bit.ly/4p7d6Kg <a href="https://bsky.app/profile/japan.reuters.com/post/3mambjalovg27" target="_blank">japan.reuters.com</a> (2025-12-23 07:22:55)</span>
+<span style="padding-right:50px;">President Donald Trump has unveiled a new “Trump class” of Navy battleships, describing them as a superior war fighting vessel to replace an “old and tired and obsolete” US fleet: https://cnn.it/3N0fp4x <a href="https://bsky.app/profile/cnn.com/post/3mamcx2cq3c2u" target="_blank">cnn.com</a> (2025-12-23 07:48:32)</span><span style="padding-right:50px;">UK exporters increasingly dissatisfied with EU trade terms, survey finds ft.trib.al/V6KvH8K <a href="https://bsky.app/profile/financialtimes.com/post/3mamcwy652y2q" target="_blank">financialtimes.com</a> (2025-12-23 07:48:30)</span><span style="padding-right:50px;">南鳥島にレアアース泥の処理施設　内閣府、国産確保へ実証試験 www.nikkei.com/article/DGXZQO...  海底で回収した泥水から海水を抜く施設を2027年までに設置。  泥の塊を日本本土で改めて分離・精錬する計画です。  レアアースは世界の生産量の7割を中国が占めています。 <a href="https://bsky.app/profile/nikkei.com/post/3mamctotzif2i" target="_blank">nikkei.com</a> (2025-12-23 07:46:40)</span><span style="padding-right:50px;">片山さつき財務相は２２日のブルームバーグのインタビューで、植田和男日銀総裁の１９日の記者会見後に進んだ円安について「非常に短い時間での動き。完全にファンダメンタルズではなくて投機だ」と指摘し、このような動きに対し、９月の日米財務相共同声明に基づき「断固として措置を取る、アクションを取るということを申し上げている」と述べた。 bit.ly/3YIbAU8 <a href="https://bsky.app/profile/japan.reuters.com/post/3mamctoigdz2n" target="_blank">japan.reuters.com</a> (2025-12-23 07:46:39)</span><span style="padding-right:50px;">Japan has 'free hand' in dealing with excessive yen moves, finance minister tells Bloomberg reut.rs/44CFM6O <a href="https://bsky.app/profile/reuters.com/post/3mamcr6dkbd24" target="_blank">reuters.com</a> (2025-12-23 07:45:15)</span>
   </div>
 </div>
 
@@ -32,116 +32,100 @@
 
 ## News Headlines
 
-- Russia's Peskov downplays significance of US-Russia talks on Ukraine conflict
-- US to build 'Trump-class' military vessels to create 'Golden Fleet'
-- Egypt beats Zimbabwe in African Cup of Nations match
-- Netflix secures $59 billion financing for Warner Bros. Discovery acquisition
-- Israel's Netanyahu to discuss Iran nuclear issue with Trump in US visit
-- Kansas City Chiefs to leave Arrowhead Stadium for new domed stadium
-- Chris Rea, British singer-songwriter, dies at 74
-- Goodman Group, Canada's CPPIB strike $9.3 billion deal for Europe data centers
-- US to seize pay of people in default on student loans
-- Boston's Museum of Fine Arts presents survey of American sculptor
-- Hotel and public bath inspections conducted in Fukui, Japan
-- Neurocrine's movement disorder treatment fails late-stage trial
-- Goldman Sachs report: Hedge funds sell healthcare stocks after 14-week winning streak
-- Canadian dollar rises ahead of GDP data as oil prices climb
-- US may name a new Fed chair by January next year
-- Lebanese PM urges swift approval of law to pay back depositors
-- Ukrainian security services step up operations against Russian forces
-- Retail investors face challenges in accessing unicorns like OpenAI
-- Ted Cruz weighs second presidential bid in 2028
-- Southeast Asian leaders urge restraint in US-India dispute
-- Millennials have officially become old, according to Anna Silman
-- British man charged with drugging and raping ex-wife over 13 years
-- US pressure on Venezuela raises questions about real motivation
-- US lost tens of thousands of manufacturing jobs after tariffs rose
-- US farm agency lost 20,000 staff in first five months of Trump administration
-- Russia expresses concern over US actions in the Caribbean
-- Survey finds 70% of 10-year-olds use AI for fact-checking
-- Cruz Beckham denies report that his parents unfollowed him
+- US Unveils 'Trump Class' of Navy Battleships, Calling Them Superior War Vessels
+- UK Exporters Dissatisfied with EU Trade Terms, Survey Finds
+- Japan to Build Facility to Process Rare Earth Mud from Seafloor
+- Judge Declares Mistrial in Case of Former Aide to New York Governors
+- Spot Gold Hits Record High Amid Global Economic Uncertainty
+- Trump Announces Plans for New Navy Battleships, Calling Them 'Golden Fleet'
 
 
 ----
 
+@cnn.com
+
+President Donald Trump has unveiled a new “Trump class” of Navy battleships, describing them as a superior war fighting vessel to replace an “old and tired and obsolete” US fleet: https://cnn.it/3N0fp4x
+
+[2025-12-23 07:48:32](https://bsky.app/profile/cnn.com/post/3mamcx2cq3c2u)
+
+---
+
+@financialtimes.com
+
+UK exporters increasingly dissatisfied with EU trade terms, survey finds ft.trib.al/V6KvH8K
+
+[2025-12-23 07:48:30](https://bsky.app/profile/financialtimes.com/post/3mamcwy652y2q)
+
+---
+
+@nikkei.com
+
+南鳥島にレアアース泥の処理施設　内閣府、国産確保へ実証試験
+www.nikkei.com/article/DGXZQO...
+
+海底で回収した泥水から海水を抜く施設を2027年までに設置。
+
+泥の塊を日本本土で改めて分離・精錬する計画です。
+
+レアアースは世界の生産量の7割を中国が占めています。
+
+[2025-12-23 07:46:40](https://bsky.app/profile/nikkei.com/post/3mamctotzif2i)
+
+---
+
 @japan.reuters.com
 
-ロシア紙イズベスチヤは２３日、ウクライナの紛争解決に向けた先週末のロシアと米国の協議は画期的なものと見なすべきではないとするペスコフ大統領報道官の発言を伝えた。 bit.ly/4923qL7
+片山さつき財務相は２２日のブルームバーグのインタビューで、植田和男日銀総裁の１９日の記者会見後に進んだ円安について「非常に短い時間での動き。完全にファンダメンタルズではなくて投機だ」と指摘し、このような動きに対し、９月の日米財務相共同声明に基づき「断固として措置を取る、アクションを取るということを申し上げている」と述べた。 bit.ly/3YIbAU8
 
-[2025-12-23 07:26:11](https://bsky.app/profile/japan.reuters.com/post/3mambp3chj52u)
-
----
-
-@axios.com
-
-The U.S. will build "Trump-class" military vessels that the president on Monday suggested are new-age battleships, inching the country closer to construction of what the administration is advertising as "the Golden Fleet."
-
-[2025-12-23 07:25:50](https://bsky.app/profile/axios.com/post/3mambohdh222x)
-
----
-
-@cbsnews.com
-
-<strong><span style="color: red;">BREAKING:</span> President Trump announced plans to build new Navy battleships he's calling the Pentagon's "Golden Fleet." cbsn.ws/3YGlHsF</strong>
-
-[2025-12-23 07:25:43](https://bsky.app/profile/cbsnews.com/post/3mamboal3fo2g)
+[2025-12-23 07:46:39](https://bsky.app/profile/japan.reuters.com/post/3mamctoigdz2n)
 
 ---
 
 @reuters.com
 
-Salah scores late winner as Egypt come from behind to beat Zimbabwe reut.rs/4sfQ5b2
+Japan has 'free hand' in dealing with excessive yen moves, finance minister tells Bloomberg reut.rs/44CFM6O
 
-[2025-12-23 07:25:08](https://bsky.app/profile/reuters.com/post/3mambn6yrj22k)
-
----
-
-@japan.reuters.com
-
-米動画配信大手ネットフリックスは、メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）買収に向け、約５９０億ドルのつなぎ融資の一部を借り換えた。規制当局に２２日付で届け出た書類で明らかになった。 bit.ly/4p7d6Kg
-
-[2025-12-23 07:22:55](https://bsky.app/profile/japan.reuters.com/post/3mambjalovg27)
-
----
-
-@wsj.com
-
-At Opera Philadelphia, Vivaldi’s music meets a contemporary libretto by Sarah Ruhl; in New York, Lincoln Center Theater presents Gian Carlo Menotti’s written-for-television opera in a production starring Joyce DiDonato. on.wsj.com/4p1OfHL
-
-[2025-12-23 07:22:04](https://bsky.app/profile/wsj.com/post/3mambhpmajq2c)
-
----
-
-@japan.reuters.com
-
-イスラエルのネタニヤフ首相は２２日、来週予定する訪米の際に、トランプ米大統領とイランの核開発を巡る活動について協議する考えを示した。また、イランが最近「演習」を実施していることをイスラエルは把握しているとも明らかにしたが、トランプ氏との会談はパレスチナ自治区ガザでの和平の次の段階への移行のほか、レバノンの親イラン武装組織ヒズボラへの対応が主な議題になるとの見方を示した。 bit.ly/3Y8BQag
-
-[2025-12-23 07:20:20](https://bsky.app/profile/japan.reuters.com/post/3mambemgp5n2c)
-
----
-
-@nbcnews.com
-
-Chris Rea, the singer and songwriter best known for the hit “Driving Home for Christmas,” has died at 74, his family says.
-
-[2025-12-23 07:20:12](https://bsky.app/profile/nbcnews.com/post/3mambeeoyjq2q)
+[2025-12-23 07:45:15](https://bsky.app/profile/reuters.com/post/3mamcr6dkbd24)
 
 ---
 
 @cnn.com
 
-The Kansas City Chiefs have announced they will leave their longtime home at Arrowhead Stadium for a new, domed stadium that will be built across the Kansas-Missouri state line and be ready for the start of the 2031 season: https://cnn.it/4pOsv3f
+A judge has declared a mistrial in the corruption case of a former aide to New York governors after jurors said they were deadlocked and couldn’t reach a verdict on charges she sold her influence to China and profited from a medical equipment scheme during the pandemic. https://cnn.it/3Y4OgzQ
 
-[2025-12-23 07:19:24](https://bsky.app/profile/cnn.com/post/3mambcxh3yf2v)
+[2025-12-23 07:45:04](https://bsky.app/profile/cnn.com/post/3mamcqu6fjn2v)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@japan.reuters.com
 
-兵庫県警 オンラインカジノで賭博疑いなど 警察官16人を処分
-https://news.web.nhk/newsweb/na/na-k10015010921000
+中南米金融市場では、ペルー株が金・銅価格の上昇に支援され、過去最高値を付けた。一方、来年に選挙を控えるブラジルの国内情勢に注目が集まる中、レアルは下落した。投資家は地政学的緊張についても注視している。 bit.ly/44H72AX
 
-[2025-12-23 07:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mambakxkni2x)
+[2025-12-23 07:44:24](https://bsky.app/profile/japan.reuters.com/post/3mamcpntfrc2p)
+
+---
+
+@reuters.com
+
+President Trump announced plans for the Navy to begin building a new class of battleship that he said would be larger, faster and more powerful than the biggest of any previous US-built warship reut.rs/48SO2C9
+
+[2025-12-23 07:43:23](https://bsky.app/profile/reuters.com/post/3mamcnuuf5k2d)
+
+---
+
+@reuters.com
+
+LIVE: Trump, Hegseth to make an announcement from Florida youtube.com/live/4QYU_rk...
+
+[2025-12-23 07:43:23](https://bsky.app/profile/reuters.com/post/3mamcntqnls2d)
+
+---
+
+@wsj.com
+
+The Trump administration abruptly recalled nearly 30 career ambassadors at U.S. embassies around the world, in a move that senior officials said is aimed at better aligning the State Department with the president’s foreign-policy agenda.
+
+[2025-12-23 07:42:24](https://bsky.app/profile/wsj.com/post/3mamcm2yeuf2h)
 
 ---
 
