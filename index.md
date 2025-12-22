@@ -1,9 +1,9 @@
-# [2025-12-22 22:10 updated](2025_12_22.md)
+# [2025-12-22 22:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">政府 アメリカ投資へ「交付国債」1兆円台発行の方向で最終調整 https://news.web.nhk/newsweb/na/na-k10015010881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malcfkbi742w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 22:06:03)</span><span style="padding-right:50px;">Steelers WR DK Metcalf involved in altercation with fan reut.rs/3MQ0Ss6 <a href="https://bsky.app/profile/reuters.com/post/3malcdxcsoj2k" target="_blank">reuters.com</a> (2025-12-22 22:05:12)</span><span style="padding-right:50px;">Good morning New York, while you were sleeping this was our most read story. ft.trib.al/da5fJA0 <a href="https://bsky.app/profile/financialtimes.com/post/3malcdqqplm2f" target="_blank">financialtimes.com</a> (2025-12-22 22:05:05)</span><span style="padding-right:50px;">The DOJ has released more files related to convicted sex offender Jeffrey Epstein. And, NPR finds a rise in the number of immigrants without legal status who aren't showing up to immigration court. n.pr/4jiKywk <a href="https://bsky.app/profile/npr.org/post/3malca2iiiz24" target="_blank">npr.org</a> (2025-12-22 22:03:01)</span><span style="padding-right:50px;">Loop Capital sees this discount retailer benefiting as consumers continue to ‘trade down’ the price curve <a href="https://bsky.app/profile/cnbc.com/post/3malc7kjwiz2x" target="_blank">cnbc.com</a> (2025-12-22 22:02:44)</span>
+<span style="padding-right:50px;">US pausing five offshore wind projects over national security concerns, Burgum says reut.rs/49ekwWu <a href="https://bsky.app/profile/reuters.com/post/3maldhno6hp23" target="_blank">reuters.com</a> (2025-12-22 22:25:10)</span><span style="padding-right:50px;">Larry Ellison gives $40bn personal backing to Warner Bros Discovery bid ft.trib.al/HmxFhdP <a href="https://bsky.app/profile/financialtimes.com/post/3maldgnr4lc2k" target="_blank">financialtimes.com</a> (2025-12-22 22:24:36)</span><span style="padding-right:50px;">Breaking news: Oracle co-founder Larry Ellison has agreed to personally backstop the $40bn equity financing of Paramount’s $108bn hostile bid for Warner Bros Discovery, in an attempt to resolve doubts about the financing of the offer. ft.trib.al/AtHoz3T <a href="https://bsky.app/profile/financialtimes.com/post/3maldgefnrv2b" target="_blank">financialtimes.com</a> (2025-12-22 22:24:26)</span><span style="padding-right:50px;">Paramount amended its offer for Warner, with Larry Ellison agreeing to personally guarantee $40.4 billion of equity financing for the deal. <a href="https://bsky.app/profile/wsj.com/post/3malda52c6d2t" target="_blank">wsj.com</a> (2025-12-22 22:20:57)</span><span style="padding-right:50px;">欧州中央銀行（ＥＣＢ）理事会メンバーのカジミール・スロバキア中銀総裁は２２日、ユーロ圏のインフレ見通しには満足しているとしながらも、必要であれば再び介入する用意があるとの考えを示した。 bit.ly/49kfIQp <a href="https://bsky.app/profile/japan.reuters.com/post/3mald6y56np2n" target="_blank">japan.reuters.com</a> (2025-12-22 22:20:19)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.10 (🔻0.65 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.26 (🔻0.49 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,96 +32,95 @@
 
 ## News Headlines
 
-- Japan to issue 1 trillion yen in US investment bonds
-- Steelers WR involved in altercation with fan
-- US labor market ends 2025 on a sour note
-- Ukraine deploys low-cost interceptor drones to counter Russia’s aerial attacks
-- Polish president appoints new Monetary Policy Council member
-- IMF reserve data shows stabilisation in third quarter
+- US Pauses Five Offshore Wind Projects Over National Security Concerns
+- Larry Ellison Backs Paramount's $108 Billion Bid for Warner Bros Discovery
+- Polish President Appoints New Monetary Policy Council Member
+- Dhruv Amin and Marcus Lowe Shut Down Developer Marketplace Due to AI Revolution
+- US Pauses Five Offshore Wind Projects Over National Security Concerns
+- China Imposes Temporary Tariffs on EU Dairy Products
 
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-政府 アメリカ投資へ「交付国債」1兆円台発行の方向で最終調整
-https://news.web.nhk/newsweb/na/na-k10015010881000
-
-[2025-12-22 22:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malcfkbi742w)
-
----
-
 @reuters.com
 
-Steelers WR DK Metcalf involved in altercation with fan reut.rs/3MQ0Ss6
+US pausing five offshore wind projects over national security concerns, Burgum says reut.rs/49ekwWu
 
-[2025-12-22 22:05:12](https://bsky.app/profile/reuters.com/post/3malcdxcsoj2k)
+[2025-12-22 22:25:10](https://bsky.app/profile/reuters.com/post/3maldhno6hp23)
 
 ---
 
 @financialtimes.com
 
-Good morning New York, while you were sleeping this was our most read story. ft.trib.al/da5fJA0
+Larry Ellison gives $40bn personal backing to Warner Bros Discovery bid ft.trib.al/HmxFhdP
 
-[2025-12-22 22:05:05](https://bsky.app/profile/financialtimes.com/post/3malcdqqplm2f)
-
----
-
-@npr.org
-
-The DOJ has released more files related to convicted sex offender Jeffrey Epstein. And, NPR finds a rise in the number of immigrants without legal status who aren't showing up to immigration court. n.pr/4jiKywk
-
-[2025-12-22 22:03:01](https://bsky.app/profile/npr.org/post/3malca2iiiz24)
+[2025-12-22 22:24:36](https://bsky.app/profile/financialtimes.com/post/3maldgnr4lc2k)
 
 ---
 
-@cnbc.com
+@financialtimes.com
 
-Loop Capital sees this discount retailer benefiting as consumers continue to ‘trade down’ the price curve
+<strong><span style="color: red;">Breaking news:</span> Oracle co-founder Larry Ellison has agreed to personally backstop the $40bn equity financing of Paramount’s $108bn hostile bid for Warner Bros Discovery, in an attempt to resolve doubts about the financing of the offer. ft.trib.al/AtHoz3T</strong>
 
-[2025-12-22 22:02:44](https://bsky.app/profile/cnbc.com/post/3malc7kjwiz2x)
+[2025-12-22 22:24:26](https://bsky.app/profile/financialtimes.com/post/3maldgefnrv2b)
 
 ---
 
 @wsj.com
 
-The soon-to-be Swift-in-law and hot-sauce investor says he’s ‘no question’ more famous now than he was as an NFL star. on.wsj.com/3YH90xG
+Paramount amended its offer for Warner, with Larry Ellison agreeing to personally guarantee $40.4 billion of equity financing for the deal.
 
-[2025-12-22 22:01:55](https://bsky.app/profile/wsj.com/post/3malc63mos32c)
-
----
-
-@wsj.com
-
-After the ‘Stranger Things’ finale on New Year’s Eve, the Canadian actor is looking forward to making his own projects. on.wsj.com/49kdiRP
-
-[2025-12-22 22:01:55](https://bsky.app/profile/wsj.com/post/3malc63kn4n2z)
+[2025-12-22 22:20:57](https://bsky.app/profile/wsj.com/post/3malda52c6d2t)
 
 ---
 
-@apnews.com
+@japan.reuters.com
 
-Ukraine is rapidly deploying low-cost interceptor drones to counter Russia’s evolving aerial attacks on cities and power infrastructure. Homegrown systems such as the Sting and Bullet can intercept fast, high-altitude suicide drones at a fraction of the cost of missiles, reshaping modern air defense
+欧州中央銀行（ＥＣＢ）理事会メンバーのカジミール・スロバキア中銀総裁は２２日、ユーロ圏のインフレ見通しには満足しているとしながらも、必要であれば再び介入する用意があるとの考えを示した。 bit.ly/49kfIQp
 
-[2025-12-22 22:01:27](https://bsky.app/profile/apnews.com/post/3malc5b6ozt2d)
+[2025-12-22 22:20:19](https://bsky.app/profile/japan.reuters.com/post/3mald6y56np2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+タイとカンボジア軍事衝突 ASEAN特別外相会議 停戦協議で一致
+https://news.web.nhk/newsweb/na/na-k10015010791000
+
+[2025-12-22 22:18:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mald35kobi2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+JR八戸線 一部区間で運転再開 8日の地震で全線運転見合わせ
+https://news.web.nhk/newsweb/na/na-k10015010611000
+
+[2025-12-22 22:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mald2y5kza2v)
 
 ---
 
 @reuters.com
 
-Polish president appoints new Monetary Policy Council member Zarzecki reut.rs/3YFnlL3
+🔊 The yen keeps falling despite rate hikes. Now everyone's asking: will Tokyo intervene? Listen to the Morning Bid podcast for the full story reut.rs/4aM8yFZ
 
-[2025-12-22 22:01:06](https://bsky.app/profile/reuters.com/post/3malc4neubh2i)
+[2025-12-22 22:17:21](https://bsky.app/profile/reuters.com/post/3malczoiun22g)
 
 ---
 
-@bloomberg.com
+@wsj.com
 
-For years, people have lodged complaints about Tesla’s doors. With no official statistics, Bloomberg did its own analysis on the number of fatal crashes in the US in which door functionality played a role. Read more: bloom.bg/49tm0fF
+Movie theaters see a new hurdle: the Warner deal.
 
-📷️: Getty Images
+[2025-12-22 22:17:08](https://bsky.app/profile/wsj.com/post/3malczcey342r)
 
-[2025-12-22 22:00:59](https://bsky.app/profile/bloomberg.com/post/3malc4gft3m2p)
+---
+
+@cnbc.com
+
+Paramount guarantees Larry Ellison backing in amended WBD bid
+
+[2025-12-22 22:17:05](https://bsky.app/profile/cnbc.com/post/3malcz7qsbv24)
 
 ---
 
