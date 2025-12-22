@@ -1,9 +1,9 @@
-# [2025-12-22 23:30 updated](2025_12_22.md)
+# [2025-12-22 23:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米連邦準備理事会（ＦＲＢ）のミラン理事は２２日、近い将来における景気後退リスクはみられないとしつつも、「金利を下方に調整しなければ、景気後退リスクが高まる」という認識を示した。 bit.ly/491cy2B <a href="https://bsky.app/profile/japan.reuters.com/post/3malgwakq7i27" target="_blank">japan.reuters.com</a> (2025-12-22 23:27:00)</span><span style="padding-right:50px;">Hours before airtime on Sunday, CBS News' "60 Minutes" held a planned story on President Donald Trump's deportation policy at the order of the network's new editor-in-chief, Bari Weiss. <a href="https://bsky.app/profile/apnews.com/post/3malgucu5b22k" target="_blank">apnews.com</a> (2025-12-22 23:25:56)</span><span style="padding-right:50px;">Glencore buys majority stake in Dutch fuel company FincoEnergies reut.rs/4p3mZIZ <a href="https://bsky.app/profile/reuters.com/post/3malgstwrwe24" target="_blank">reuters.com</a> (2025-12-22 23:25:07)</span><span style="padding-right:50px;">Why the 2025 stock market rally can continue in 2026, according to UBS <a href="https://bsky.app/profile/cnbc.com/post/3malgscl52l2d" target="_blank">cnbc.com</a> (2025-12-22 23:24:48)</span><span style="padding-right:50px;">Is it a function of including weaker teams—or is it hopeless to expect this sport to deliver March Madness? on.wsj.com/493K3kW <a href="https://bsky.app/profile/wsj.com/post/3malgkzp62r2u" target="_blank">wsj.com</a> (2025-12-22 23:20:44)</span>
+<span style="padding-right:50px;">JPMorgan’s shiny new headquarters is a tribute to in-person work. A look inside Jamie Dimon’s $3 billion skyscraper. on.wsj.com/4j3xnir <a href="https://bsky.app/profile/wsj.com/post/3mali25wjpt2q" target="_blank">wsj.com</a> (2025-12-22 23:47:05)</span><span style="padding-right:50px;">In a tiny hall far from Cairo, a club forges Egyptian girls' Olympic wrestling dreams reut.rs/3MUXFHK <a href="https://bsky.app/profile/reuters.com/post/3malhwryc2e2y" target="_blank">reuters.com</a> (2025-12-22 23:45:12)</span><span style="padding-right:50px;">中国政府 EU産の乳製品に“事実上の関税措置をとる” https://news.web.nhk/newsweb/na/na-k10015010941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malhr6sip22v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 23:42:03)</span><span style="padding-right:50px;">🇧🇷 🎅 Santa Claus dives into Christmas at Rio de Janeiro aquarium  Divers dressed as Santa Claus swim in the tanks of AquaRio, an annual tradition in the Rio de Janeiro aquarium. <a href="https://bsky.app/profile/en.afp.com/post/3malhosktuk2d" target="_blank">en.afp.com</a> (2025-12-22 23:40:45)</span><span style="padding-right:50px;">Iran holds missile drills in various cities, state media say reut.rs/4qpjjlX <a href="https://bsky.app/profile/reuters.com/post/3malhnxqmz72i" target="_blank">reuters.com</a> (2025-12-22 23:40:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48220.22 (🔺8.34 : 2025-12-22)</span><span style="padding-right:50px;">^IXIC: Error</span><span style="padding-right:50px;">NVIDIA: 183.76 (🔻0.16 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.96 (🔻0.79 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48231.91 (🔺20.03 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23424.18 (🔻26.35 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.10 (🔻0.82 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.98 (🔻0.77 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,93 +32,97 @@
 
 ## News Headlines
 
-- Fed Official Says Interest Rate Cut Could Mitigate Recession Risk
-- CBS News Pulls Segment on Trump Administration's Deportations
-- Glencore Acquires Majority Stake in Dutch Fuel Company FincoEnergies
-- Trump's Appointment of Special Envoy to Greenland Sparks Tensions with Denmark
-- Afreximbank, Heirs Energies Seal $750 Million Financing Deal for Nigeria's Oil and Gas Output
-- Power Restored for Many in San Francisco After Widespread Outage
+- JPMorgan's New Headquarters a Tribute to In-Person Work
+- Egyptian Girls Forge Olympic Wrestling Dreams
+- China to Impose Effective Tariff on EU Dairy Products
+- China Bets on AI to Power Green Transition
+- Iran Holds Missile Drills in Various Cities
+- Glencore Buys Majority Stake in Dutch Fuel Company FincoEnergies
 
 
 ----
 
+@wsj.com
+
+JPMorgan’s shiny new headquarters is a tribute to in-person work. A look inside Jamie Dimon’s $3 billion skyscraper. on.wsj.com/4j3xnir
+
+[2025-12-22 23:47:05](https://bsky.app/profile/wsj.com/post/3mali25wjpt2q)
+
+---
+
+@reuters.com
+
+In a tiny hall far from Cairo, a club forges Egyptian girls' Olympic wrestling dreams reut.rs/3MUXFHK
+
+[2025-12-22 23:45:12](https://bsky.app/profile/reuters.com/post/3malhwryc2e2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+中国政府 EU産の乳製品に“事実上の関税措置をとる”
+https://news.web.nhk/newsweb/na/na-k10015010941000
+
+[2025-12-22 23:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malhr6sip22v)
+
+---
+
+@en.afp.com
+
+🇧🇷 🎅 Santa Claus dives into Christmas at Rio de Janeiro aquarium
+
+Divers dressed as Santa Claus swim in the tanks of AquaRio, an annual tradition in the Rio de Janeiro aquarium.
+
+[2025-12-22 23:40:45](https://bsky.app/profile/en.afp.com/post/3malhosktuk2d)
+
+---
+
+@reuters.com
+
+Iran holds missile drills in various cities, state media say reut.rs/4qpjjlX
+
+[2025-12-22 23:40:16](https://bsky.app/profile/reuters.com/post/3malhnxqmz72i)
+
+---
+
 @japan.reuters.com
 
-米連邦準備理事会（ＦＲＢ）のミラン理事は２２日、近い将来における景気後退リスクはみられないとしつつも、「金利を下方に調整しなければ、景気後退リスクが高まる」という認識を示した。 bit.ly/491cy2B
+シンクタンクのロジウム・グループは、中国経済の２０２５年の成長率は２．５─３％にとどまったとの推計を発表した。これは公式データが示唆するペースのほぼ半分となる。年後半の固定資産投資の落ち込みが響いたという。 bit.ly/44EfFwf
 
-[2025-12-22 23:27:00](https://bsky.app/profile/japan.reuters.com/post/3malgwakq7i27)
-
----
-
-@apnews.com
-
-Hours before airtime on Sunday, CBS News' "60 Minutes" held a planned story on President Donald Trump's deportation policy at the order of the network's new editor-in-chief, Bari Weiss.
-
-[2025-12-22 23:25:56](https://bsky.app/profile/apnews.com/post/3malgucu5b22k)
+[2025-12-22 23:38:25](https://bsky.app/profile/japan.reuters.com/post/3malhknf5eq27)
 
 ---
 
 @reuters.com
 
-Glencore buys majority stake in Dutch fuel company FincoEnergies reut.rs/4p3mZIZ
+China bets on AI to power its green transition reut.rs/4j6qNHY
 
-[2025-12-22 23:25:07](https://bsky.app/profile/reuters.com/post/3malgstwrwe24)
-
----
-
-@cnbc.com
-
-Why the 2025 stock market rally can continue in 2026, according to UBS
-
-[2025-12-22 23:24:48](https://bsky.app/profile/cnbc.com/post/3malgscl52l2d)
+[2025-12-22 23:35:11](https://bsky.app/profile/reuters.com/post/3malheul2lu2c)
 
 ---
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-Is it a function of including weaker teams—or is it hopeless to expect this sport to deliver March Madness? on.wsj.com/493K3kW
+豪ビーチ銃撃事件 捜査当局「綿密に計画されたテロだった」
+https://news.web.nhk/newsweb/na/na-k10015010861000
 
-[2025-12-22 23:20:44](https://bsky.app/profile/wsj.com/post/3malgkzp62r2u)
-
----
-
-@financialtimes.com
-
- Middle powers face a new age of uncertainty ft.trib.al/VpLN7lj  | opinion
-
-[2025-12-22 23:16:12](https://bsky.app/profile/financialtimes.com/post/3malgcwcsxn2f)
+[2025-12-22 23:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malhb426ic2w)
 
 ---
 
-@reuters.com
+@japan.reuters.com
 
-China economy grew below 3% in 2025, half of official target, think tank estimates reut.rs/4b01w03
+日銀が３０年ぶりの水準へと利上げしたが、ドルは１５７円台まで上昇、ドル高／円安が止まらない。円ショートの投資家にとって、次回利上げまで時間的な猶予ができた側面が意識されているためだ。日本サイドとして為替介入以外、目先の円高方向へのカードは残っていないとの見方に加え、その効果への疑念もつきまとう。しばらくは市場と当局の神経戦が続きそうだ。 bit.ly/3YbE9Jw
 
-[2025-12-22 23:15:12](https://bsky.app/profile/reuters.com/post/3malgb4ly5e2i)
-
----
-
-@cnbc.com
-
-Asset manager Janus Henderson gets bought by Trian, General Catalyst for $7.4 billion
-
-[2025-12-22 23:14:55](https://bsky.app/profile/cnbc.com/post/3malgamj6eq24)
+[2025-12-22 23:30:32](https://bsky.app/profile/japan.reuters.com/post/3malh4kiceb2v)
 
 ---
 
-@reuters.com
+@usatoday.com
 
-Indian central bank net sold $11.88 billion in October to arrest rupee's fall, bulletin shows reut.rs/4jbi8UW
+Here's the best age to take Social Security, based on simple math
 
-[2025-12-22 23:10:13](https://bsky.app/profile/reuters.com/post/3malfy7v3kn2r)
-
----
-
-@wsj.com
-
-Court documents reveal what police say were the movements and motivation of the Bondi Beach terror suspects in the months, days and minutes before the attack.
-
-[2025-12-22 23:07:06](https://bsky.app/profile/wsj.com/post/3malfsnrlt72h)
+[2025-12-22 23:30:22](https://bsky.app/profile/usatoday.com/post/3malh4axfby2t)
 
 ---
 
