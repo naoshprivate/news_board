@@ -1,9 +1,9 @@
-# [2025-12-23 08:10 updated](2025_12_23.md)
+# [2025-12-23 08:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Read a selection of essays from the Journal’s ‘Masterpiece’ column, now celebrating its 20th anniversary. on.wsj.com/3YEErbU <a href="https://bsky.app/profile/wsj.com/post/3mame4c47ad2k" target="_blank">wsj.com</a> (2025-12-23 08:09:22)</span><span style="padding-right:50px;">Novo Nordisk said it plans to start selling the new pill in the U.S. soon after the new year, with a cash price of $149 a month for the starting dose. on.wsj.com/4p4e1v1 <a href="https://bsky.app/profile/wsj.com/post/3mame4bvp7k2q" target="_blank">wsj.com</a> (2025-12-23 08:09:21)</span><span style="padding-right:50px;">BREAKING: The US Food and Drug Administration approved Novo Nordisk's weight-loss pill, giving the Danish drugmaker a leg up in the race to market a potent oral medication for shedding pounds as it looks to regain lost ground from rival Eli Lilly reut.rs/49mUYrc <a href="https://bsky.app/profile/reuters.com/post/3mame2u7aws2d" target="_blank">reuters.com</a> (2025-12-23 08:08:34)</span><span style="padding-right:50px;">トランプ米大統領は２２日、海軍が新型戦艦の建造を開始する計画だと発表した。これまでで最も大型で高速、かつ１００倍の威力を持つ新しいクラスになるという。 bit.ly/498FTs6 <a href="https://bsky.app/profile/japan.reuters.com/post/3mame2qi4zw2v" target="_blank">japan.reuters.com</a> (2025-12-23 08:08:30)</span><span style="padding-right:50px;">ウクライナのゼレンスキー大統領は２２日、ロシアとの戦争終結に向けた米国、欧州諸国との交渉は「真の結果に非常に近づいている」と述べた。 bit.ly/48RmNb5 <a href="https://bsky.app/profile/japan.reuters.com/post/3mamdwt2omn2q" target="_blank">japan.reuters.com</a> (2025-12-23 08:06:18)</span>
+<span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-23 08:29:17) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mamfa46xbc2b" target="_blank">sokuho.news</a> (2025-12-23 08:29:24)</span><span style="padding-right:50px;">An apparently frustrated federal judge pressed the Trump administration to share what it was going to do next in the saga over Kilmar Abrego Garcia days after she found he was being unlawfully held in immigration custody: https://cnn.it/4b4hyWT <a href="https://bsky.app/profile/cnn.com/post/3mamf7gyggq2q" target="_blank">cnn.com</a> (2025-12-23 08:29:01)</span><span style="padding-right:50px;">サッカーのフランス１部、モナコは２２日、日本代表ＭＦ南野拓実が左膝の前十字靱帯を断裂していることを発表した。 bit.ly/4j7Gpeo <a href="https://bsky.app/profile/japan.reuters.com/post/3mamf45ksmv22" target="_blank">japan.reuters.com</a> (2025-12-23 08:27:11)</span><span style="padding-right:50px;">German tax revenues down 1.3% in November, finance ministry says reut.rs/4pQufcm <a href="https://bsky.app/profile/reuters.com/post/3mameyjtqtr2c" target="_blank">reuters.com</a> (2025-12-23 08:25:09)</span><span style="padding-right:50px;">ウクライナ南部オデーサ州の港湾およびエネルギーインフラでロシア軍が夜間攻撃を実施し、主要港で火災が発生したほか、数万人が停電に見舞われた。ウクライナのクレバ副首相が２２日、明らかにした。 bit.ly/3MLE6BP <a href="https://bsky.app/profile/japan.reuters.com/post/3mamepvwan427" target="_blank">japan.reuters.com</a> (2025-12-23 08:20:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.98 (🔻0.03 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.88 (🔻0.13 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,94 +32,99 @@
 
 ## News Headlines
 
-- Trump Administration Suspends Leases to Five US Wind Farms
-- US FDA Approves Novo Nordisk's Weight-Loss Pill
-- Novo Nordisk to Sell New Weight-Loss Pill in the US Next Year
-- Trump Unveils Plans for New Class of Navy Battleships
-- US Judge Blocks Trump Administration from Re-Detaining Migrant
-- UK Exporters Dissatisfied with EU Trade Terms: Survey
+- US judge presses Trump administration on detention of Kilmar Abrego Garcia
+- Monaco's French Ligue 1 side confirms Japan international midfielder Takefusa Kubo has ruptured his left ACL
+- Ukraine's southern Odessa region hit by Russian attacks, major port fire and power outage
+- Kansas City Chiefs to move to Kansas in 2031
+- FDA approves first GLP-1 pill for obesity from Novo Nordisk
+- Alphabet to acquire Intersect for $4.75 billion, expanding in clean energy
 
 
 ----
 
-@wsj.com
+@sokuho.news
 
-Read a selection of essays from the Journal’s ‘Masterpiece’ column, now celebrating its 20th anniversary. on.wsj.com/3YEErbU
+🚨地震発生中❗❗
 
-[2025-12-23 08:09:22](https://bsky.app/profile/wsj.com/post/3mame4c47ad2k)
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
 
----
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-23 08:29:17) #緊急地震速報
 
-@wsj.com
-
-Novo Nordisk said it plans to start selling the new pill in the U.S. soon after the new year, with a cash price of $149 a month for the starting dose. on.wsj.com/4p4e1v1
-
-[2025-12-23 08:09:21](https://bsky.app/profile/wsj.com/post/3mame4bvp7k2q)
-
----
-
-@reuters.com
-
-<strong><span style="color: red;">BREAKING:</span> The US Food and Drug Administration approved Novo Nordisk's weight-loss pill, giving the Danish drugmaker a leg up in the race to market a potent oral medication for shedding pounds as it looks to regain lost ground from rival Eli Lilly reut.rs/49mUYrc</strong>
-
-[2025-12-23 08:08:34](https://bsky.app/profile/reuters.com/post/3mame2u7aws2d)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領は２２日、海軍が新型戦艦の建造を開始する計画だと発表した。これまでで最も大型で高速、かつ１００倍の威力を持つ新しいクラスになるという。 bit.ly/498FTs6
-
-[2025-12-23 08:08:30](https://bsky.app/profile/japan.reuters.com/post/3mame2qi4zw2v)
-
----
-
-@japan.reuters.com
-
-ウクライナのゼレンスキー大統領は２２日、ロシアとの戦争終結に向けた米国、欧州諸国との交渉は「真の結果に非常に近づいている」と述べた。 bit.ly/48RmNb5
-
-[2025-12-23 08:06:18](https://bsky.app/profile/japan.reuters.com/post/3mamdwt2omn2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-米議会下院で「台湾有事」答弁への中国側対応非難の決議案提出
-https://news.web.nhk/newsweb/na/na-k10015011071000
-
-[2025-12-23 08:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamdwftoss26)
-
----
-
-@reuters.com
-
-Foster's sweet strike fires South Africa to 2-1 victory over Angola reut.rs/3Laj4Mu
-
-[2025-12-23 08:05:09](https://bsky.app/profile/reuters.com/post/3mamduqrrsx2y)
-
----
-
-@japan.reuters.com
-
-大和証券グループ本社の荻野明彦社長は、２０３１年３月期のＭ＆Ａ（合併・買収）の関連収益を現在計画している７００億円から１０００億円へ上積みする方針を明らかにした。国境をまたぐクロスボーダーの案件への対応力を強化する。 bit.ly/4auLwDk
-
-[2025-12-23 08:02:52](https://bsky.app/profile/japan.reuters.com/post/3mamdqok6752q)
-
----
-
-@japan.reuters.com
-
-パナマのマルティネスアチャ外相は２２日、米国が最近拿捕（だほ）したパナマ船籍のタンカーは同国の海事規則を順守しておらず、ベネズエラ領海から原油を積んで出航中にトランスポンダーを外していたと明らかにした。 bit.ly/4pcmqNh
-
-[2025-12-23 08:01:06](https://bsky.app/profile/japan.reuters.com/post/3mamdnjfavg2v)
+[2025-12-23 08:29:24](https://bsky.app/profile/sokuho.news/post/3mamfa46xbc2b)
 
 ---
 
 @cnn.com
 
-An estimated $1.6 billion is up for grabs in Monday’s Powerball draw after the jackpot rolled over on Saturday.
+An apparently frustrated federal judge pressed the Trump administration to share what it was going to do next in the saga over Kilmar Abrego Garcia days after she found he was being unlawfully held in immigration custody: https://cnn.it/4b4hyWT
 
-[2025-12-23 08:01:01](https://bsky.app/profile/cnn.com/post/3mamdnetggk2c)
+[2025-12-23 08:29:01](https://bsky.app/profile/cnn.com/post/3mamf7gyggq2q)
+
+---
+
+@japan.reuters.com
+
+サッカーのフランス１部、モナコは２２日、日本代表ＭＦ南野拓実が左膝の前十字靱帯を断裂していることを発表した。 bit.ly/4j7Gpeo
+
+[2025-12-23 08:27:11](https://bsky.app/profile/japan.reuters.com/post/3mamf45ksmv22)
+
+---
+
+@reuters.com
+
+German tax revenues down 1.3% in November, finance ministry says reut.rs/4pQufcm
+
+[2025-12-23 08:25:09](https://bsky.app/profile/reuters.com/post/3mameyjtqtr2c)
+
+---
+
+@japan.reuters.com
+
+ウクライナ南部オデーサ州の港湾およびエネルギーインフラでロシア軍が夜間攻撃を実施し、主要港で火災が発生したほか、数万人が停電に見舞われた。ウクライナのクレバ副首相が２２日、明らかにした。 bit.ly/3MLE6BP
+
+[2025-12-23 08:20:20](https://bsky.app/profile/japan.reuters.com/post/3mamepvwan427)
+
+---
+
+@nbcnews.com
+
+The Kansas City Chiefs will leave their longtime home in Missouri and play in neighboring Kansas starting in 2031, team officials say.
+
+[2025-12-23 08:20:08](https://bsky.app/profile/nbcnews.com/post/3mamepkkb7x23)
+
+---
+
+@cnbc.com
+
+FDA approves first GLP-1 pill for obesity from Novo Nordisk
+
+[2025-12-23 08:16:53](https://bsky.app/profile/cnbc.com/post/3mamejpsap62b)
+
+---
+
+@japan.reuters.com
+
+グーグルの親会社アルファベットは２２日、クリーンエネルギー開発を手がけるインターセクトを、債務を含めて現金４７億５０００万ドルで買収すると発表した。 bit.ly/4p4iHkB
+
+[2025-12-23 08:16:17](https://bsky.app/profile/japan.reuters.com/post/3mameinkqsd2p)
+
+---
+
+@reuters.com
+
+Jets sticking with Brady Cook as starting QB vs. Patriots reut.rs/3Y4PcEp
+
+[2025-12-23 08:15:12](https://bsky.app/profile/reuters.com/post/3mamegpx5de2x)
+
+---
+
+@washingtonpost.com
+
+George Conway, a onetime supporter of President Donald Trump who has become a vocal critic in recent years, has filed paperwork to run for an open congressional seat in New York City.
+
+[2025-12-23 08:15:05](https://bsky.app/profile/washingtonpost.com/post/3mamegixr5y2p)
 
 ---
 
