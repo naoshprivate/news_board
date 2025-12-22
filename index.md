@@ -1,9 +1,9 @@
-# [2025-12-23 06:50 updated](2025_12_23.md)
+# [2025-12-23 07:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">AIで得た情報｢自らファクトチェック｣は10代で7割　60代は5割、電通調べ www.nikkei.com/article/DGXZQO...  仕事や学業にAIを使うことで「楽をしていると思われることが心配」という人は全体の42.2%でした。若い世代ほど不安に思う傾向が強まりました。 <a href="https://bsky.app/profile/nikkei.com/post/3mam7ifrmwi2c" target="_blank">nikkei.com</a> (2025-12-23 06:46:40)</span><span style="padding-right:50px;">At Wirecutter this year, we tested over 4,000 products in tons of categories across our catalog, from baby products to items for older adults (and everyone in between). These were the most popular products of 2025. nyti.ms/4s877HR <a href="https://bsky.app/profile/nytimes.com/post/3mam7hcnn5n2r" target="_blank">nytimes.com</a> (2025-12-23 06:46:03)</span><span style="padding-right:50px;">In a letter, more than a dozen women who have said they were victims of Jeffrey Epstein called for congressional hearings to ensure that the Justice Department is fully complying with the Epstein Files Transparency Act. <a href="https://bsky.app/profile/nytimes.com/post/3mam7g6eokn2e" target="_blank">nytimes.com</a> (2025-12-23 06:45:25)</span><span style="padding-right:50px;">US Interior Dept weakens sage-grouse protection to open more oil and mineral development reut.rs/4p4aGfv <a href="https://bsky.app/profile/reuters.com/post/3mam7g22d2a2r" target="_blank">reuters.com</a> (2025-12-23 06:45:20)</span><span style="padding-right:50px;">The executive producer of “60 Minutes” said she “ultimately had to comply” with CBS News editor in chief Bari Weiss and pull a segment on the Trump administration’s deportations, according to a partial transcript of the meeting obtained by The Post.  <a href="https://bsky.app/profile/washingtonpost.com/post/3mam7fksl622i" target="_blank">washingtonpost.com</a> (2025-12-23 06:45:04)</span>
+<span style="padding-right:50px;">注）手数料は上限。税込み。単位は％。 bit.ly/4b3zwZz <a href="https://bsky.app/profile/japan.reuters.com/post/3mamapgbaza2s" target="_blank">japan.reuters.com</a> (2025-12-23 07:08:29)</span><span style="padding-right:50px;">Canadian dollar rises ahead of GDP data as oil prices climb reut.rs/3Y5nGXl <a href="https://bsky.app/profile/reuters.com/post/3mamajhp3du2i" target="_blank">reuters.com</a> (2025-12-23 07:05:09)</span><span style="padding-right:50px;">【動画】Pickup NEWS（12月23日） https://news.web.nhk/newsweb/na/na-k10015010631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamafqokbh24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 07:03:02)</span><span style="padding-right:50px;">（暫定値） bit.ly/44K4tOG <a href="https://bsky.app/profile/japan.reuters.com/post/3mamaf526zr2c" target="_blank">japan.reuters.com</a> (2025-12-23 07:02:44)</span><span style="padding-right:50px;">トランプ米大統領は、来年１月第１週までに連邦準備理事会（ＦＲＢ）の次期議長を指名する可能性がある。ＣＮＢＣが２２日、関係筋の話として報じた。 bit.ly/44InWPL <a href="https://bsky.app/profile/japan.reuters.com/post/3mamacoqdc52c" target="_blank">japan.reuters.com</a> (2025-12-23 07:01:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.04 (🔻0.71 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.97 (🔻0.78 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,98 +32,94 @@
 
 ## News Headlines
 
-- Many Young People in Japan Are Fact-checking News on Their Own
-- US Congress Set to Hold Hearings on Epstein Files Transparency Act
-- US Interior Department Weakened Sage-Grouse Protection to Open More Oil and Mineral Development
-- CBS News Editor Pressured 60 Minutes Executive Producer to Pull Trump Administration Deportations Segment
-- Stock Market Rises as Technology Stocks Recover, Sectors See Broad Gains
-- US Seizes Oil Tanker in Venezuela-Related Rivalry with China
+- US Analysts Question Real Motivation Behind Trump's Pressure Campaign on Caracas
+- US Farm Agency Lost 20,000 Staff in First Five Months of Trump Administration
+- Russian Foreign Minister Lavrov Expresses Concern Over Escalation of US Actions in Caribbean
+- US Justice Department Sues DC Police Over Ban on AR-15s and Other Firearms
+- Napoli Defeats Bologna to Win Italian Super Cup
+- US Oil Tanker Seizures Targeting Venezuela Tie into Geopolitical Rivalry with China
 
 
 ----
 
-@nikkei.com
+@japan.reuters.com
 
-AIで得た情報｢自らファクトチェック｣は10代で7割　60代は5割、電通調べ
-www.nikkei.com/article/DGXZQO...
+注）手数料は上限。税込み。単位は％。 bit.ly/4b3zwZz
 
-仕事や学業にAIを使うことで「楽をしていると思われることが心配」という人は全体の42.2%でした。若い世代ほど不安に思う傾向が強まりました。
-
-[2025-12-23 06:46:40](https://bsky.app/profile/nikkei.com/post/3mam7ifrmwi2c)
-
----
-
-@nytimes.com
-
-At Wirecutter this year, we tested over 4,000 products in tons of categories across our catalog, from baby products to items for older adults (and everyone in between). These were the most popular products of 2025. nyti.ms/4s877HR
-
-[2025-12-23 06:46:03](https://bsky.app/profile/nytimes.com/post/3mam7hcnn5n2r)
-
----
-
-@nytimes.com
-
-In a letter, more than a dozen women who have said they were victims of Jeffrey Epstein called for congressional hearings to ensure that the Justice Department is fully complying with the Epstein Files Transparency Act.
-
-[2025-12-23 06:45:25](https://bsky.app/profile/nytimes.com/post/3mam7g6eokn2e)
+[2025-12-23 07:08:29](https://bsky.app/profile/japan.reuters.com/post/3mamapgbaza2s)
 
 ---
 
 @reuters.com
 
-US Interior Dept weakens sage-grouse protection to open more oil and mineral development reut.rs/4p4aGfv
+Canadian dollar rises ahead of GDP data as oil prices climb reut.rs/3Y5nGXl
 
-[2025-12-23 06:45:20](https://bsky.app/profile/reuters.com/post/3mam7g22d2a2r)
-
----
-
-@washingtonpost.com
-
-The executive producer of “60 Minutes” said she “ultimately had to comply” with CBS News editor in chief Bari Weiss and pull a segment on the Trump administration’s deportations, according to a partial transcript of the meeting obtained by The Post. 
-
-[2025-12-23 06:45:04](https://bsky.app/profile/washingtonpost.com/post/3mam7fksl622i)
+[2025-12-23 07:05:09](https://bsky.app/profile/reuters.com/post/3mamajhp3du2i)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-米国株式市場は上昇して取引を終えた。テクノロジー株の反発が続いたほか、幅広い銘柄が買われ、Ｓ＆Ｐ総合５００種の主要１１セクターがほぼ全て上昇する展開となった。 bit.ly/4jdN7j6
+【動画】Pickup NEWS（12月23日）
+https://news.web.nhk/newsweb/na/na-k10015010631000
 
-[2025-12-23 06:44:23](https://bsky.app/profile/japan.reuters.com/post/3mam7ecw4ip22)
+[2025-12-23 07:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamafqokbh24)
 
 ---
 
 @japan.reuters.com
 
-ＬＳＥＧの追跡データや関係筋の情報などから、ベネズエラの石油タンカーの積み込みが減速していることが分かった。また、大半の石油タンカーの移動は国内港湾間に限られているもよう。米沿岸警備隊が週末、ベネズエラ沖の国際水域で石油タンカーを新たに拿捕（だほ）したことが背景にある。 bit.ly/49o122C
+（暫定値） bit.ly/44K4tOG
 
-[2025-12-23 06:40:19](https://bsky.app/profile/japan.reuters.com/post/3mam752uxu32q)
+[2025-12-23 07:02:44](https://bsky.app/profile/japan.reuters.com/post/3mamaf526zr2c)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は、来年１月第１週までに連邦準備理事会（ＦＲＢ）の次期議長を指名する可能性がある。ＣＮＢＣが２２日、関係筋の話として報じた。 bit.ly/44InWPL
+
+[2025-12-23 07:01:22](https://bsky.app/profile/japan.reuters.com/post/3mamacoqdc52c)
 
 ---
 
 @reuters.com
 
-Neres double as Napoli outclass Bologna to win Italian Super Cup reut.rs/4pKq41K
+Lebanese PM urges swift approval of law aimed at paying back depositors reut.rs/3MI8j4N
 
-[2025-12-23 06:40:17](https://bsky.app/profile/reuters.com/post/3mam74yqczu2s)
-
----
-
-@nbcnews.com
-
-A federal judge noted that Abrego was already deported without legal authority once and said she was "growing beyond impatient" with government misrepresentations in her court.
-
-[2025-12-23 06:40:09](https://bsky.app/profile/nbcnews.com/post/3mam74rjwk62r)
+[2025-12-23 07:01:08](https://bsky.app/profile/reuters.com/post/3mamaccaeid2k)
 
 ---
 
-@washingtonpost.com
+@cnn.com
 
-The Justice Department is suing the D.C. police, arguing the city’s ban on AR-15s and other firearms is unconstitutional.
+Ukrainian security services have stepped up drone and sabotage operations against Russian combat aircraft and submarines this month, in what analysts see as one way to combat incessant Russian missile strikes against cities and energy infrastructure.
 
-The lawsuit targets a D.C. law that prohibits the registration of most semiautomatic rifles, including AR-15s and AK-47s.
+[2025-12-23 07:01:01](https://bsky.app/profile/cnn.com/post/3mamac3ilt72o)
 
-[2025-12-23 06:40:01](https://bsky.app/profile/washingtonpost.com/post/3mam74jszbw2i)
+---
+
+@bloomberg.com
+
+A real-world test: Can retail investors access unicorns like OpenAI? The answer one writer got surprised her
+
+[2025-12-23 07:00:57](https://bsky.app/profile/bloomberg.com/post/3mamabwymrp2h)
+
+---
+
+@usatoday.com
+
+Cruz Beckham cleared up a report that his parents Victoria and David Beckham unfollowed his brother Brooklyn: "They woke up blocked ... as did I."
+
+[2025-12-23 07:00:35](https://bsky.app/profile/usatoday.com/post/3mamabcnoat2o)
+
+---
+
+@apnews.com
+
+The Kansas City Chiefs have announced they will relocate across the Kansas-Missouri border in a new domed stadium that will be ready by the 2031 season.
+
+[2025-12-23 07:00:28](https://bsky.app/profile/apnews.com/post/3mamab37fbh2q)
 
 ---
 
