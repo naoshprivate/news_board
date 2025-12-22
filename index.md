@@ -1,9 +1,9 @@
-# [2025-12-22 15:30 updated](2025_12_22.md)
+# [2025-12-22 15:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】“損失約300万円” 学校のプールのシャワーで水を出しっぱなし「凍結防止弁」を誤操作 検針で判明 熊本市 (2025-12-22 15:24:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makm5dmflp2b" target="_blank">sokuho.news</a> (2025-12-22 15:27:47)</span><span style="padding-right:50px;">Nearly four years into Russia's invasion, Ukraine’s Nova Post has learned to operate through blackouts, missile strikes and broken transport links. It now delivers more than 1.5 million parcels a day, cementing its status as a rare wartime corporate success reut.rs/49mKckG <a href="https://bsky.app/profile/reuters.com/post/3makm4jf33k26" target="_blank">reuters.com</a> (2025-12-22 15:27:20)</span><span style="padding-right:50px;">Homemade bombs thrown before Bondi mass shooting, but failed to detonate, police tell court reut.rs/3YDg66i <a href="https://bsky.app/profile/reuters.com/post/3maklynj6gn2i" target="_blank">reuters.com</a> (2025-12-22 15:25:10)</span><span style="padding-right:50px;">楽天カードに約42億円の追徴課税　資金調達巡り、東京国税局 www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3maklwrfh6d2n" target="_blank">nikkei.com</a> (2025-12-22 15:24:07)</span><span style="padding-right:50px;">Steves purchased the property to prevent it from closing. Many homeless people had come to depend on the Lynnwood Hygiene Center, which had operated rent-free on the property since 2020. n.pr/3MKbmJH <a href="https://bsky.app/profile/npr.org/post/3maklpyywdb24" target="_blank">npr.org</a> (2025-12-22 15:20:20)</span>
+<span style="padding-right:50px;">German auto exports hit hard by Trump tariffs, study shows reut.rs/44BlvP0 <a href="https://bsky.app/profile/reuters.com/post/3makn4jqjl72c" target="_blank">reuters.com</a> (2025-12-22 15:45:14)</span><span style="padding-right:50px;">Southeast Asian foreign ministers gathered in the Malaysian capital Kuala Lumpur for a special meeting to discuss an ongoing border conflict between Thailand and Cambodia that escalated into deadly combat two weeks ago. <a href="https://bsky.app/profile/apnews.com/post/3makn4foz7l24" target="_blank">apnews.com</a> (2025-12-22 15:45:10)</span><span style="padding-right:50px;">中盤の東南アジア株式市場はおおむね上昇。 bit.ly/4s7qL6L <a href="https://bsky.app/profile/japan.reuters.com/post/3makn3ad5bf27" target="_blank">japan.reuters.com</a> (2025-12-22 15:44:31)</span><span style="padding-right:50px;">ファーストリテイリングは２２日、来年３月に日本の新卒社員の初任給を改定し、国内外へ転勤がある「グローバルリーダー候補」は３７万円と、現行水準から１２％引き上げると発表した。 bit.ly/49mejZv <a href="https://bsky.app/profile/japan.reuters.com/post/3makmtq65i42u" target="_blank">japan.reuters.com</a> (2025-12-22 15:40:19)</span><span style="padding-right:50px;">New Zealand concludes a free trade agreement with India reut.rs/4qrF3Od <a href="https://bsky.app/profile/reuters.com/post/3makmtpjr4u2s" target="_blank">reuters.com</a> (2025-12-22 15:40:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50367.87 (🔺283.32 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3447.00 (🔻47.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.33 (🔻0.42 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.39 (🔻0.36 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,102 +32,94 @@
 
 ## News Headlines
 
-- Russia's Invasion of Ukraine: Nova Post Delivers Parcels Amid Blackouts and Missile Strikes
-- Homemade Bombs Fail to Detonate Before Bondi Mass Shooting
-- Ryota's 42 Billion Yen Tax Bill: Tokyo Tax Office Investigates
-- Japan to Help Return Thai Citizenship to Young Girl
-- Former Japanese Soccer Star to Decide on New Team by Year-End
-- China to Wipe Clean Small Overdue Debts from Credit Records
+- German auto exports hit hard by Trump tariffs, study shows
+- Southeast Asian foreign ministers meet to discuss Thailand-Cambodia border conflict
+- Fast Retailing raises starting salary for new hires in Japan
+- New Zealand concludes free trade agreement with India
+- Japanese H3 rocket fails to launch, losing navigation satellite
+- India regulator says Air India 777 jet returns after drop in engine oil pressure
 
 
 ----
 
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】“損失約300万円” 学校のプールのシャワーで水を出しっぱなし「凍結防止弁」を誤操作 検針で判明 熊本市
-(2025-12-22 15:24:00) #ニュース
-
-[2025-12-22 15:27:47](https://bsky.app/profile/sokuho.news/post/3makm5dmflp2b)
-
----
-
 @reuters.com
 
-Nearly four years into Russia's invasion, Ukraine’s Nova Post has learned to operate through blackouts, missile strikes and broken transport links. It now delivers more than 1.5 million parcels a day, cementing its status as a rare wartime corporate success reut.rs/49mKckG
+German auto exports hit hard by Trump tariffs, study shows reut.rs/44BlvP0
 
-[2025-12-22 15:27:20](https://bsky.app/profile/reuters.com/post/3makm4jf33k26)
-
----
-
-@reuters.com
-
-Homemade bombs thrown before Bondi mass shooting, but failed to detonate, police tell court reut.rs/3YDg66i
-
-[2025-12-22 15:25:10](https://bsky.app/profile/reuters.com/post/3maklynj6gn2i)
+[2025-12-22 15:45:14](https://bsky.app/profile/reuters.com/post/3makn4jqjl72c)
 
 ---
 
-@nikkei.com
+@apnews.com
 
-楽天カードに約42億円の追徴課税　資金調達巡り、東京国税局
-www.nikkei.com/article/DGXZQO...
+Southeast Asian foreign ministers gathered in the Malaysian capital Kuala Lumpur for a special meeting to discuss an ongoing border conflict between Thailand and Cambodia that escalated into deadly combat two weeks ago.
 
-#ニュース
-
-[2025-12-22 15:24:07](https://bsky.app/profile/nikkei.com/post/3maklwrfh6d2n)
-
----
-
-@npr.org
-
-Steves purchased the property to prevent it from closing. Many homeless people had come to depend on the Lynnwood Hygiene Center, which had operated rent-free on the property since 2020. n.pr/3MKbmJH
-
-[2025-12-22 15:20:20](https://bsky.app/profile/npr.org/post/3maklpyywdb24)
+[2025-12-22 15:45:10](https://bsky.app/profile/apnews.com/post/3makn4foz7l24)
 
 ---
 
 @japan.reuters.com
 
-国際司法裁判所（ＩＣＪ）は１９日、ミャンマーがイスラム教徒少数民族ロヒンギャに対してジェノサイド（大量虐殺）を犯したとして西アフリカのガンビアが訴えた裁判の審理を来年１月１２─２９日に行うと発表した。 bit.ly/4qjEA0h
+中盤の東南アジア株式市場はおおむね上昇。 bit.ly/4s7qL6L
 
-[2025-12-22 15:20:13](https://bsky.app/profile/japan.reuters.com/post/3maklprpdqq2v)
+[2025-12-22 15:44:31](https://bsky.app/profile/japan.reuters.com/post/3makn3ad5bf27)
 
 ---
 
 @japan.reuters.com
 
-アジア新興国通貨は、タイバーツが対ドルで０．５％上昇し、１ドル＝３１．２２０バーツと、２０２１年６月中旬以来の高値を付けた。金価格の上昇が主因。 bit.ly/4jd2OHl
+ファーストリテイリングは２２日、来年３月に日本の新卒社員の初任給を改定し、国内外へ転勤がある「グローバルリーダー候補」は３７万円と、現行水準から１２％引き上げると発表した。 bit.ly/49mejZv
 
-[2025-12-22 15:20:08](https://bsky.app/profile/japan.reuters.com/post/3maklpnizhw2c)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】あす23日の始発から「釧網線」全線再開＿倒木の撤去と除雪作業進む＿線路を支える”路盤”が流された根室線は年末までに再開できるかわからず＿道内襲った暴風雪から8日経過も爪痕…
-(2025-12-22 15:10) #ニュース
-
-[2025-12-22 15:15:52](https://bsky.app/profile/sokuho.news/post/3maklhzmn6g2r)
+[2025-12-22 15:40:19](https://bsky.app/profile/japan.reuters.com/post/3makmtq65i42u)
 
 ---
 
 @reuters.com
 
-Focus: Delivering under fire: How Nova Post became Ukraine's wartime success story reut.rs/3L3tzkS
+New Zealand concludes a free trade agreement with India reut.rs/4qrF3Od
 
-[2025-12-22 15:15:14](https://bsky.app/profile/reuters.com/post/3maklgvgtfn2i)
+[2025-12-22 15:40:18](https://bsky.app/profile/reuters.com/post/3makmtpjr4u2s)
 
 ---
 
-@japan.reuters.com
+@bbcnews-world-rss.bsky.social
 
-宇宙航空研究開発機構（ＪＡＸＡ）の山川宏理事長は２２日午後に開いた記者会見で、同日午前に行ったＨ３ロケット８号機による準天頂衛星システム「みちびき５号機」の打ち上げに失敗したと語った。 bit.ly/4pNInmC
+Divided between two states, the town at the heart of America's abortion debate
 
-[2025-12-22 15:14:45](https://bsky.app/profile/japan.reuters.com/post/3maklfzrv4t2s)
+[2025-12-22 15:37:20](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3makmog4mgz27)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Alleged Bondi gunmen threw 'tennis ball bomb', new documents say
+
+[2025-12-22 15:36:15](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3makmmiaako2z)
+
+---
+
+@reuters.com
+
+Japanese H3 rocket fails to launch, losing navigation satellite reut.rs/3Y7oNFT
+
+[2025-12-22 15:35:10](https://bsky.app/profile/reuters.com/post/3makmkjjl242p)
+
+---
+
+@wsj.com
+
+Your iPhone friends are ditching the blue bubble for WhatsApp. on.wsj.com/49iOqda
+
+[2025-12-22 15:34:51](https://bsky.app/profile/wsj.com/post/3makmjxkfke2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+住宅ローン「フラット35」 限度額1億2000万円に引き上げの方針
+https://news.web.nhk/newsweb/na/na-k10015010511000
+
+[2025-12-22 15:33:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makmgwleqx2u)
 
 ---
 
