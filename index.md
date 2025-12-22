@@ -1,9 +1,9 @@
-# [2025-12-22 19:50 updated](2025_12_22.md)
+# [2025-12-22 20:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Syrians emptied Assad’s prisons. They’re filling up again, and abuse is rife reut.rs/44H14QC <a href="https://bsky.app/profile/reuters.com/post/3mal2jmsgnh2r" target="_blank">reuters.com</a> (2025-12-22 19:45:12)</span><span style="padding-right:50px;">🇹🇭 Thai teacher finds 'peace amidst chaos' painting bunker murals  On the grey walls of a rural Thai school's concrete bunkers, Watthanachai Kamngam, a 38-year-old music teacher calmly paints details of a Cambodian rocket as artillery booms nearby. <a href="https://bsky.app/profile/en.afp.com/post/3mal2bbmhyh2f" target="_blank">en.afp.com</a> (2025-12-22 19:40:32)</span><span style="padding-right:50px;">不動産経済研究所が２２日発表した１１月の首都圏（１都３県）新築分譲マンション市場動向によると、発売戸数は前年同月比１４．４％減の１９１０戸となった。２カ月連続の減少。東京２３区以外と埼玉、千葉で大幅に減った。一方、価格上昇が続く２３区での発売戸数が多かったことなどから、１戸当たりの平均価格は同１４．９％上がり９１８１万円で、７カ月連続で上昇した。 bit.ly/3Y4zXvd <a href="https://bsky.app/profile/japan.reuters.com/post/3mal2aqmkwy27" target="_blank">japan.reuters.com</a> (2025-12-22 19:40:14)</span><span style="padding-right:50px;">Alinghi return as America's Cup names members of partnership reut.rs/4j5Yc5I <a href="https://bsky.app/profile/reuters.com/post/3mal2aphwgw2b" target="_blank">reuters.com</a> (2025-12-22 19:40:13)</span><span style="padding-right:50px;">A sampling of the stories NPR staff believe made some of the deepest ripples this year — reminders of what rigorous, compassionate journalism can do, and why the work remains as urgent as ever. n.pr/494D23n <a href="https://bsky.app/profile/npr.org/post/3mal23gbzcz2y" target="_blank">npr.org</a> (2025-12-22 19:37:16)</span>
+<span style="padding-right:50px;">関係筋によると、ロシアの今年の中国向け天然ガス輸出（パイプライン経由）は前年比で約２５％の増加となる見通し。 bit.ly/3KGIGkc <a href="https://bsky.app/profile/japan.reuters.com/post/3mal3spdunx2c" target="_blank">japan.reuters.com</a> (2025-12-22 20:08:11)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】V・ファーレン長崎マテウス選手と山口蛍選手がJ2「ベストイレブン」を受賞 (2025-12-22 20:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mal3owmylc2b" target="_blank">sokuho.news</a> (2025-12-22 20:06:04)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】V・ファーレン長崎マテウス選手がJ2最優秀選手賞と得点王のW受賞「仲間とサポーターのおかげ」 (2025-12-22 20:04) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mal3ooqcuv2x" target="_blank">sokuho.news</a> (2025-12-22 20:05:56)</span><span style="padding-right:50px;">ブラジル中郷銀行が１９日公表した１１月の外国直接投資（ＦＤＩ）は９８億２０００万ドルと、エコノミスト予想の６５億ドルを大きく上回り、年初来の累計でも中銀の通年見通しを上回った。 bit.ly/44BxE6y <a href="https://bsky.app/profile/japan.reuters.com/post/3mal3ncmoqb2s" target="_blank">japan.reuters.com</a> (2025-12-22 20:05:09)</span><span style="padding-right:50px;">Russian attack on Ukraine's Odesa region causes fire at port and power outages reut.rs/3KU2nVH <a href="https://bsky.app/profile/reuters.com/post/3mal3navl2j2b" target="_blank">reuters.com</a> (2025-12-22 20:05:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.40 (🔻0.35 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.35 (🔻0.40 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,95 +32,107 @@
 
 ## News Headlines
 
-- Syrians emptied Assad’s prisons. They’re filling up again, and abuse is rife
-- Thai Teacher Paints Mural in Bunker Amidst Artillery Fire
-- Tokyo's New Property Market: 1,910 New Apartments Released in November, Average Price Up 14.9%
-- Japan's Nuclear Power Plant to Resume Operations After 15-Year Hiatus
-- Swiss Bank Warns of 'Crossroads' as Country Faces Major Challenges
-- China to Wipe Out Credit Records for Debtors Who Pay Off Loans by March 31, 2026
-
+[{"en": "Russia's Gas Exports to China to Increase by 25% This Year"}, 
+{"en": "V\\u00b4Faren Nagasaki\'s Matheus and Yamaguchi Hiromu Named to J2 Best Eleven"}, 
+{"en": "Brazil\'s Central Bank Reports Record $9.8 Billion in FDI in November"}, 
+{"en": "Russian Attack on Ukraine\'s Odesa Region Causes Fire and Power Outages"}, 
+{"en": "State Psychiatric Hospitals See Steep Rise in People with Severe Mental Illness"}, 
+{"en": "Hong Kong Democracy Advocate Jimmy Lai Found Guilty of National Security Law Charges"}]
 
 ----
 
-@reuters.com
+@japan.reuters.com
 
-Syrians emptied Assad’s prisons. They’re filling up again, and abuse is rife reut.rs/44H14QC
+関係筋によると、ロシアの今年の中国向け天然ガス輸出（パイプライン経由）は前年比で約２５％の増加となる見通し。 bit.ly/3KGIGkc
 
-[2025-12-22 19:45:12](https://bsky.app/profile/reuters.com/post/3mal2jmsgnh2r)
+[2025-12-22 20:08:11](https://bsky.app/profile/japan.reuters.com/post/3mal3spdunx2c)
 
 ---
 
-@en.afp.com
+@sokuho.news
 
-🇹🇭 Thai teacher finds 'peace amidst chaos' painting bunker murals
+🛎️FNNより【速報】です。
 
-On the grey walls of a rural Thai school's concrete bunkers, Watthanachai Kamngam, a 38-year-old music teacher calmly paints details of a Cambodian rocket as artillery booms nearby.
+【速報】V・ファーレン長崎マテウス選手と山口蛍選手がJ2「ベストイレブン」を受賞
+(2025-12-22 20:00) #ニュース
 
-[2025-12-22 19:40:32](https://bsky.app/profile/en.afp.com/post/3mal2bbmhyh2f)
+[2025-12-22 20:06:04](https://bsky.app/profile/sokuho.news/post/3mal3owmylc2b)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】V・ファーレン長崎マテウス選手がJ2最優秀選手賞と得点王のW受賞「仲間とサポーターのおかげ」
+(2025-12-22 20:04) #ニュース
+
+[2025-12-22 20:05:56](https://bsky.app/profile/sokuho.news/post/3mal3ooqcuv2x)
 
 ---
 
 @japan.reuters.com
 
-不動産経済研究所が２２日発表した１１月の首都圏（１都３県）新築分譲マンション市場動向によると、発売戸数は前年同月比１４．４％減の１９１０戸となった。２カ月連続の減少。東京２３区以外と埼玉、千葉で大幅に減った。一方、価格上昇が続く２３区での発売戸数が多かったことなどから、１戸当たりの平均価格は同１４．９％上がり９１８１万円で、７カ月連続で上昇した。 bit.ly/3Y4zXvd
+ブラジル中郷銀行が１９日公表した１１月の外国直接投資（ＦＤＩ）は９８億２０００万ドルと、エコノミスト予想の６５億ドルを大きく上回り、年初来の累計でも中銀の通年見通しを上回った。 bit.ly/44BxE6y
 
-[2025-12-22 19:40:14](https://bsky.app/profile/japan.reuters.com/post/3mal2aqmkwy27)
+[2025-12-22 20:05:09](https://bsky.app/profile/japan.reuters.com/post/3mal3ncmoqb2s)
 
 ---
 
 @reuters.com
 
-Alinghi return as America's Cup names members of partnership reut.rs/4j5Yc5I
+Russian attack on Ukraine's Odesa region causes fire at port and power outages reut.rs/3KU2nVH
 
-[2025-12-22 19:40:13](https://bsky.app/profile/reuters.com/post/3mal2aphwgw2b)
+[2025-12-22 20:05:08](https://bsky.app/profile/reuters.com/post/3mal3navl2j2b)
 
 ---
 
 @npr.org
 
-A sampling of the stories NPR staff believe made some of the deepest ripples this year — reminders of what rigorous, compassionate journalism can do, and why the work remains as urgent as ever. n.pr/494D23n
+The share of people with severe mental illness in state psychiatric hospitals accused of serious crimes has risen steeply. The shift has all but halted the possibility of care before a catastrophic crisis. n.pr/4p9FPhQ
 
-[2025-12-22 19:37:16](https://bsky.app/profile/npr.org/post/3mal23gbzcz2y)
-
----
-
-@japan.reuters.com
-
-新潟県議会は２２日、東京電力柏崎刈羽原子力発電所の再稼働を巡り、再稼働関連予算を盛り込んだ補正予算案を可決したほか、再稼働容認を表明した花角英世知事が職務を続けることを認めた。これにより再稼働の最大の焦点となっていた「地元同意」の手続きが完了した。再稼働に向けて具体的に進むことになる。 bit.ly/3YKcEa0
-
-[2025-12-22 19:35:10](https://bsky.app/profile/japan.reuters.com/post/3makzxoik572c)
+[2025-12-22 20:04:10](https://bsky.app/profile/npr.org/post/3mal3ljhnga25)
 
 ---
 
 @reuters.com
 
-Pope Leo urges joyful, welcoming Church in speech to Vatican cardinals reut.rs/4b15hCs
+LIVE: Spain's Christmas lottery winners celebrate youtube.com/live/mjMytQF...
 
-[2025-12-22 19:35:08](https://bsky.app/profile/reuters.com/post/3makzxmy4go2y)
-
----
-
-@japan.reuters.com
-
-塩野義製薬は２２日、田辺ファーマから筋委縮性側索硬化症（ＡＬＳ）等の治療薬であるエダラボン事業を買収すると発表した。取得額は２５億ドル（約３９４１億円）。 bit.ly/4qfQEzE
-
-[2025-12-22 19:32:35](https://bsky.app/profile/japan.reuters.com/post/3makzt2qfkb2s)
+[2025-12-22 20:03:06](https://bsky.app/profile/reuters.com/post/3mal3jmgxwc27)
 
 ---
 
-@wsj.com
+@nikkei.com
 
-New property assessments shifted the tax burden from downtown businesses to homeowners, causing outcry in struggling neighborhoods on.wsj.com/3Nb5Vn0
+香港の変容を象徴するジミー・ライ氏の有罪判決　国安法が奪う自由
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-22 19:31:55](https://bsky.app/profile/wsj.com/post/3makzrudzz72q)
+判決を受けたのは民主派新聞アップル・デイリーの創業者。外国政府に中国や香港への制裁を促したなどと認定されました。
+
+「中国当局や裁判所によるショーのようだった」。米ジョージタウン大学の黎恩灝（エリック・ライ）シニアフェローは振り返ります。
+
+すべてが共産党の指導下にある中国の政治体制が香港に落とし込まれる――。
+
+国安法施行から約5年半での変容ぶりが世界にさらされました。
+
+[2025-12-22 20:00:53](https://bsky.app/profile/nikkei.com/post/3mal3fnywer2g)
 
 ---
 
-@wsj.com
+@reuters.com
 
-High-octane suds are a labor of love for brewers, and as scary to make as they are to drink. on.wsj.com/491Bbfx
+A year after Assad's fall, Syria's prisons are filling up again. Reuters found at least 28 detention facilities from the Assad era have reopened this year, holding detainees without charges or paper trails. Read the Reuters investigation: reut.rs/3L6ZnVT
 
-[2025-12-22 19:31:55](https://bsky.app/profile/wsj.com/post/3makzrugrvp2q)
+[2025-12-22 20:00:42](https://bsky.app/profile/reuters.com/post/3mal3fdaujk2g)
+
+---
+
+@nbcnews.com
+
+The father and son accused of killing 15 people at a Hanukkah celebration threw four homemade explosive devices at the Bondi Beach crowd before their mass shooting, investigators allege in court documents.
+
+[2025-12-22 20:00:28](https://bsky.app/profile/nbcnews.com/post/3mal3ew34fm2d)
 
 ---
 
