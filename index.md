@@ -1,9 +1,9 @@
-# [2025-12-22 09:10 updated](2025_12_22.md)
+# [2025-12-22 09:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">＜０９：０２＞　新発10年債利回りが2.045％に上昇、1999年2月以来の高水準 bit.ly/4atRa8O <a href="https://bsky.app/profile/japan.reuters.com/post/3majwxapnrr2f" target="_blank">japan.reuters.com</a> (2025-12-22 09:08:35)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】日経平均株価 5万円の節目回復 (09:06) #ニュース  📈世界の株価 🔗https://sekai-kabuka.com/ <a href="https://bsky.app/profile/sokuho.news/post/3majwuxq2eq2b" target="_blank">sokuho.news</a> (2025-12-22 09:07:18)</span><span style="padding-right:50px;">Pittsburgh Steelers star DK Metcalf took a swipe at a Detroit Lions fan in a blue wig, who was leaning over a railing appearing to talk with the wide receiver. The NFL will review the incident. <a href="https://bsky.app/profile/nbcnews.com/post/3majwqzgykn22" target="_blank">nbcnews.com</a> (2025-12-22 09:05:06)</span><span style="padding-right:50px;">A paraplegic engineer from Germany became the first wheelchair user to rocket into space on Saturday. She was part of a crew that made an approximately 10-minute flight on a spacecraft operated by Jeff Bezos’ private company, Blue Origin. <a href="https://bsky.app/profile/nytimes.com/post/3majwqxkjhi2b" target="_blank">nytimes.com</a> (2025-12-22 09:05:04)</span><span style="padding-right:50px;">サッカーのフランス・カップ（杯）は２１日、各地で試合を行い、モナコの南野拓実はアウェーのオセール戦で負傷交代するアクシデントに見舞われた。 bit.ly/4j6w2HI <a href="https://bsky.app/profile/japan.reuters.com/post/3majwns4alr26" target="_blank">japan.reuters.com</a> (2025-12-22 09:03:17)</span>
+<span style="padding-right:50px;">＜０９：１３＞　日経平均は続伸で寄り付く、円安や米国株高で　５万円台回復 bit.ly/3MYJmlv <a href="https://bsky.app/profile/japan.reuters.com/post/3majxxsae4c2u" target="_blank">japan.reuters.com</a> (2025-12-22 09:26:47)</span><span style="padding-right:50px;">三村淳財務官は２２日、前週の日銀金融政策決定会合後の為替の動きについて「一方向で急激な動きが見られるので、憂慮している」とした上で「行き過ぎた動きに対しては適切な対応を取りたい」と述べた。 bit.ly/3NcVkIf <a href="https://bsky.app/profile/japan.reuters.com/post/3majxtxyq2e2c" target="_blank">japan.reuters.com</a> (2025-12-22 09:24:39)</span><span style="padding-right:50px;">Many Americans’ most valuable assets are their homes—take a quiz about selling one. <a href="https://bsky.app/profile/wsj.com/post/3majxqsim3f2k" target="_blank">wsj.com</a> (2025-12-22 09:22:52)</span><span style="padding-right:50px;">President Trump's peace plan for Gaza hinges on international troops in Gaza, but Israel is skeptical and no country has yet agreed to send their soldiers. <a href="https://bsky.app/profile/npr.org/post/3majxq6iw2v2g" target="_blank">npr.org</a> (2025-12-22 09:22:31)</span><span style="padding-right:50px;">&quot;This was eyes-rolled-back-in-your-head good. The fat from the chicken and the olive oil, the acid and spice from the jalapeños, sweetness from the corn, and generous salt, this was perfect. So, so, so good. My husband is still talking about it.&quot; <a href="https://bsky.app/profile/nytimes.com/post/3majxnjs4l52v" target="_blank">nytimes.com</a> (2025-12-22 09:21:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">^N225: Error</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">7203.T: Error</span><span style="padding-right:50px;">USD/JPY: 157.58 (🔻0.17 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50324.30 (🔺239.75 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3449.00 (🔻45.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.57 (🔻0.18 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,108 +32,109 @@
 
 ## News Headlines
 
-- Japan 10-year Bond Yield Surges to 2.045%, Highest Since 1999
-- NFL to Review Incident with Steelers' DK Metcalf and Detroit Lions Fan
-- Paraplegic Engineer Makes History as First Wheelchair User in Space
-- French Cup Football Match Postponed Due to Injury to Monaco Player
-- US Oil Price Gains After US Interception of Venezuelan Oil Tanker
-- Avatar 3 Drives Estimated $88 Million in Domestic Box Office
+- Japanese Stock Market Continues to Climb, Reaching a Record High of 5,000,000 Yen
+- Finance Minister Expresses Concern Over Sharp Exchange Rate Fluctuations
+- Many Americans' Most Valuable Assets Are Their Homes, Survey Shows
+- SoftBank Group Seeks to Invest $2.25 Billion in Open AI
+- UK Job Vacancies Decline in November, But Pay Growth Accelerates
+- New York City Invests Over $125,000 Acres of Land to Protect Water Reservoirs
+- Pittsburgh Steelers Star DK Metcalf Involved in Incident with Detroit Lions Fan
+- Paraplegic Engineer Becomes First Wheelchair User to Go to Space on Blue Origin Flight
+- Oil Prices Rise After US Intercepts Venezuelan Oil Tanker
+- Brazilian President Warns Against Military Intervention in Venezuela
+- Russia's Peskov Says Putin Ready to Talk with Macron
+- Democratic Party Divided Over Future of Artificial Intelligence
+- US Arrests Man After Bizarre Killing with Bow and Arrow and Hours-Long Standoff
+- Asia-Pacific Markets Poised for Gains Ahead of China's Key Lending Rate Decision
+- Chicago White Sox Sign Japanese Shortstop Munetaka Murakami to $34 Million Deal
+- Japanese Stock Market Continues to Climb, FPG Sells on the Rise
+- Brazilian President Warns Against Military Intervention in Venezuela
+- New York City Invests Over $125,000 Acres of Land to Protect Water Reservoirs
+- Oil Prices Rise After US Intercepts Venezuelan Oil Tanker
+- Russian Official Says Putin Ready to Talk with Macron
 
 
 ----
 
 @japan.reuters.com
 
-＜０９：０２＞　新発10年債利回りが2.045％に上昇、1999年2月以来の高水準 bit.ly/4atRa8O
+＜０９：１３＞　日経平均は続伸で寄り付く、円安や米国株高で　５万円台回復 bit.ly/3MYJmlv
 
-[2025-12-22 09:08:35](https://bsky.app/profile/japan.reuters.com/post/3majwxapnrr2f)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】日経平均株価 5万円の節目回復
-(09:06) #ニュース
-
-📈世界の株価
-🔗https://sekai-kabuka.com/
-
-[2025-12-22 09:07:18](https://bsky.app/profile/sokuho.news/post/3majwuxq2eq2b)
-
----
-
-@nbcnews.com
-
-Pittsburgh Steelers star DK Metcalf took a swipe at a Detroit Lions fan in a blue wig, who was leaning over a railing appearing to talk with the wide receiver. The NFL will review the incident.
-
-[2025-12-22 09:05:06](https://bsky.app/profile/nbcnews.com/post/3majwqzgykn22)
-
----
-
-@nytimes.com
-
-A paraplegic engineer from Germany became the first wheelchair user to rocket into space on Saturday. She was part of a crew that made an approximately 10-minute flight on a spacecraft operated by Jeff Bezos’ private company, Blue Origin.
-
-[2025-12-22 09:05:04](https://bsky.app/profile/nytimes.com/post/3majwqxkjhi2b)
+[2025-12-22 09:26:47](https://bsky.app/profile/japan.reuters.com/post/3majxxsae4c2u)
 
 ---
 
 @japan.reuters.com
 
-サッカーのフランス・カップ（杯）は２１日、各地で試合を行い、モナコの南野拓実はアウェーのオセール戦で負傷交代するアクシデントに見舞われた。 bit.ly/4j6w2HI
+三村淳財務官は２２日、前週の日銀金融政策決定会合後の為替の動きについて「一方向で急激な動きが見られるので、憂慮している」とした上で「行き過ぎた動きに対しては適切な対応を取りたい」と述べた。 bit.ly/3NcVkIf
 
-[2025-12-22 09:03:17](https://bsky.app/profile/japan.reuters.com/post/3majwns4alr26)
-
----
-
-@japan.reuters.com
-
-米原油先物は週明け２２日アジア時間の取引で上昇している。米沿岸警備隊が週末にベネズエラ沖の国際水域で石油タンカーを拿捕（だほ）したことを受けた。 bit.ly/4pc2eLp
-
-[2025-12-22 09:02:15](https://bsky.app/profile/japan.reuters.com/post/3majwlx2va62n)
-
----
-
-@cnn.com
-
-Moviegoers escaped into director James Cameron’s sci-fi universe this weekend, driving the third installment of the “Avatar” franchise to an estimated $88 million domestically. https://cnn.it/4aoMlxr
-
-[2025-12-22 09:01:02](https://bsky.app/profile/cnn.com/post/3majwjqrwl62b)
+[2025-12-22 09:24:39](https://bsky.app/profile/japan.reuters.com/post/3majxtxyq2e2c)
 
 ---
 
 @wsj.com
 
-After years of being the IT person for all her loved ones, Nicole Nguyen has made a list of practical, proactive tuneups to keep their tech running smoothly.
+Many Americans’ most valuable assets are their homes—take a quiz about selling one.
 
-[2025-12-22 09:01:01](https://bsky.app/profile/wsj.com/post/3majwjqdexw2z)
-
----
-
-@usatoday.com
-
-Former Texas A&M quarterback Johnny Manziel issued a statement on Dec. 21 regarding his late scratch on "College GameDay" as this week's guest picker.
-
-[2025-12-22 09:00:48](https://bsky.app/profile/usatoday.com/post/3majwjdwwde2l)
+[2025-12-22 09:22:52](https://bsky.app/profile/wsj.com/post/3majxqsim3f2k)
 
 ---
 
-@nikkei.com
+@npr.org
 
-県民手帳、地域の特色にじむ　「市民手帳」出す自治体も
-www.nikkei.com/article/DGXZQO...
+President Trump's peace plan for Gaza hinges on international troops in Gaza, but Israel is skeptical and no country has yet agreed to send their soldiers.
 
-表紙が「くまモン」の熊本県、方言辞書のページがある三重県…。
+[2025-12-22 09:22:31](https://bsky.app/profile/npr.org/post/3majxq6iw2v2g)
 
-自治体公認の手帳には行政機関の連絡先や路線図、道の駅の一覧表などご当地情報が満載です。
+---
 
-スマートフォンの普及などで発行部数は減少しているものの、人気は根強く。
+@nytimes.com
 
-2026年版は34県で発行される予定です。
+&quot;This was eyes-rolled-back-in-your-head good. The fat from the chicken and the olive oil, the acid and spice from the jalapeños, sweetness from the corn, and generous salt, this was perfect. So, so, so good. My husband is still talking about it.&quot;
 
-[2025-12-22 09:00:41](https://bsky.app/profile/nikkei.com/post/3majwj4m4vi2x)
+[2025-12-22 09:21:02](https://bsky.app/profile/nytimes.com/post/3majxnjs4l52v)
+
+---
+
+@japan.reuters.com
+
+ソフトバンクグループ（ＳＢＧ）は、一部の投資売却を含むさまざまな資金調達手段を通じて年内にオープンＡＩへの２２５億ドルの出資を完了させようと奔走しており、英半導体設計大手アーム・ホールディングスの株式を担保にしたマージンローンの未使用枠を活用する可能性があると関係者らが明らかにした。 bit.ly/4j6Eo21
+
+[2025-12-22 09:20:26](https://bsky.app/profile/japan.reuters.com/post/3majxmgqhmz2f)
+
+---
+
+@nytimes.com
+
+An aged helicopter fleet and inexperienced pilots from nearby Fort Belvoir had raised “widespread concern” among local pilots before a midair collision in Washington killed 67 people in January.
+
+[2025-12-22 09:20:06](https://bsky.app/profile/nytimes.com/post/3majxlu4dg42r)
+
+---
+
+@japan.reuters.com
+
+カナダ統計局が１９日発表した１０月の小売売上高は前月比０．２％減の６９４億４０００万カナダドル（５０４億米ドル）となった。食品・飲料の減少が押し下げた。 bit.ly/3Le5dov
+
+[2025-12-22 09:17:04](https://bsky.app/profile/japan.reuters.com/post/3majxggl25s2u)
+
+---
+
+@reuters.com
+
+UK job vacancies slide in November but pay growth accelerates, Adzuna says reut.rs/4pOAYU7
+
+[2025-12-22 09:15:11](https://bsky.app/profile/reuters.com/post/3majxd2w3yu2r)
+
+---
+
+@en.afp.com
+
+They survived the bombs and bullets, but many lost an arm or a leg when M23 fighters seized the city of Goma in the eastern Democratic Republic of Congo nearly a year ago.
+
+u.afp.com/S8qx
+
+[2025-12-22 09:15:02](https://bsky.app/profile/en.afp.com/post/3majxcruibi2j)
 
 ---
 
