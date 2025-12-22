@@ -1,9 +1,9 @@
-# [2025-12-22 19:30 updated](2025_12_22.md)
+# [2025-12-22 19:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">欧州中央銀行（ＥＣＢ）理事会メンバーのカジミール・スロバキア中銀総裁は２２日、ユーロ圏のインフレ見通しには満足しているとしながらも、必要であれば再び介入する用意があるとの考えを示した。 bit.ly/3MWqB22 <a href="https://bsky.app/profile/japan.reuters.com/post/3makzisbujb2u" target="_blank">japan.reuters.com</a> (2025-12-22 19:26:51)</span><span style="padding-right:50px;">Relief for hosts Morocco as they start Cup of Nations with win reut.rs/3MM9rUV <a href="https://bsky.app/profile/reuters.com/post/3makzfqg5qz2i" target="_blank">reuters.com</a> (2025-12-22 19:25:08)</span><span style="padding-right:50px;"> Don’t forget the other hostile bid battle in US media ft.trib.al/1MxGClu  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3makz62hmpy2o" target="_blank">financialtimes.com</a> (2025-12-22 19:20:50)</span><span style="padding-right:50px;">中国人民銀行（中央銀行）は２２日、２０２０年以降に発生した１万元（１４２０．４７ドル）までの延滞個人債務について、２６年３月３１日までに完済すれば信用記録から削除できるようにすると発表した。 bit.ly/4jcC3Tm <a href="https://bsky.app/profile/japan.reuters.com/post/3makz4y2t5m2v" target="_blank">japan.reuters.com</a> (2025-12-22 19:20:14)</span><span style="padding-right:50px;">Last group of freed Nigerian schoolchildren to be reunited with their families reut.rs/4an9q3w <a href="https://bsky.app/profile/reuters.com/post/3makytwz6e62k" target="_blank">reuters.com</a> (2025-12-22 19:15:11)</span>
+<span style="padding-right:50px;">Syrians emptied Assad’s prisons. They’re filling up again, and abuse is rife reut.rs/44H14QC <a href="https://bsky.app/profile/reuters.com/post/3mal2jmsgnh2r" target="_blank">reuters.com</a> (2025-12-22 19:45:12)</span><span style="padding-right:50px;">🇹🇭 Thai teacher finds 'peace amidst chaos' painting bunker murals  On the grey walls of a rural Thai school's concrete bunkers, Watthanachai Kamngam, a 38-year-old music teacher calmly paints details of a Cambodian rocket as artillery booms nearby. <a href="https://bsky.app/profile/en.afp.com/post/3mal2bbmhyh2f" target="_blank">en.afp.com</a> (2025-12-22 19:40:32)</span><span style="padding-right:50px;">不動産経済研究所が２２日発表した１１月の首都圏（１都３県）新築分譲マンション市場動向によると、発売戸数は前年同月比１４．４％減の１９１０戸となった。２カ月連続の減少。東京２３区以外と埼玉、千葉で大幅に減った。一方、価格上昇が続く２３区での発売戸数が多かったことなどから、１戸当たりの平均価格は同１４．９％上がり９１８１万円で、７カ月連続で上昇した。 bit.ly/3Y4zXvd <a href="https://bsky.app/profile/japan.reuters.com/post/3mal2aqmkwy27" target="_blank">japan.reuters.com</a> (2025-12-22 19:40:14)</span><span style="padding-right:50px;">Alinghi return as America's Cup names members of partnership reut.rs/4j5Yc5I <a href="https://bsky.app/profile/reuters.com/post/3mal2aphwgw2b" target="_blank">reuters.com</a> (2025-12-22 19:40:13)</span><span style="padding-right:50px;">A sampling of the stories NPR staff believe made some of the deepest ripples this year — reminders of what rigorous, compassionate journalism can do, and why the work remains as urgent as ever. n.pr/494D23n <a href="https://bsky.app/profile/npr.org/post/3mal23gbzcz2y" target="_blank">npr.org</a> (2025-12-22 19:37:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.37 (🔻0.38 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.40 (🔻0.35 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,94 +32,95 @@
 
 ## News Headlines
 
-- ECB Board Member Kazimierz Slawinski Suggests Possible Intervention in Eurozone Inflation
-- Morocco Wins First Game in Cup of Nations
-- People's Bank of China Announces Waiver for Outstanding Personal Debts of Up to 1,420.47 USD
-- Last Group of Freed Nigerian Schoolchildren Reunited with Families
-- Fuji Media Holdings Receives Notification of Increased Share Ownership
-- Uber and Lyft to Test Baidu Robotaxis in UK Next Year
+- Syrians emptied Assad’s prisons. They’re filling up again, and abuse is rife
+- Thai Teacher Paints Mural in Bunker Amidst Artillery Fire
+- Tokyo's New Property Market: 1,910 New Apartments Released in November, Average Price Up 14.9%
+- Japan's Nuclear Power Plant to Resume Operations After 15-Year Hiatus
+- Swiss Bank Warns of 'Crossroads' as Country Faces Major Challenges
+- China to Wipe Out Credit Records for Debtors Who Pay Off Loans by March 31, 2026
 
 
 ----
 
-@japan.reuters.com
-
-欧州中央銀行（ＥＣＢ）理事会メンバーのカジミール・スロバキア中銀総裁は２２日、ユーロ圏のインフレ見通しには満足しているとしながらも、必要であれば再び介入する用意があるとの考えを示した。 bit.ly/3MWqB22
-
-[2025-12-22 19:26:51](https://bsky.app/profile/japan.reuters.com/post/3makzisbujb2u)
-
----
-
 @reuters.com
 
-Relief for hosts Morocco as they start Cup of Nations with win reut.rs/3MM9rUV
+Syrians emptied Assad’s prisons. They’re filling up again, and abuse is rife reut.rs/44H14QC
 
-[2025-12-22 19:25:08](https://bsky.app/profile/reuters.com/post/3makzfqg5qz2i)
+[2025-12-22 19:45:12](https://bsky.app/profile/reuters.com/post/3mal2jmsgnh2r)
 
 ---
 
-@financialtimes.com
+@en.afp.com
 
- Don’t forget the other hostile bid battle in US media ft.trib.al/1MxGClu  | opinion
+🇹🇭 Thai teacher finds 'peace amidst chaos' painting bunker murals
 
-[2025-12-22 19:20:50](https://bsky.app/profile/financialtimes.com/post/3makz62hmpy2o)
+On the grey walls of a rural Thai school's concrete bunkers, Watthanachai Kamngam, a 38-year-old music teacher calmly paints details of a Cambodian rocket as artillery booms nearby.
+
+[2025-12-22 19:40:32](https://bsky.app/profile/en.afp.com/post/3mal2bbmhyh2f)
 
 ---
 
 @japan.reuters.com
 
-中国人民銀行（中央銀行）は２２日、２０２０年以降に発生した１万元（１４２０．４７ドル）までの延滞個人債務について、２６年３月３１日までに完済すれば信用記録から削除できるようにすると発表した。 bit.ly/4jcC3Tm
+不動産経済研究所が２２日発表した１１月の首都圏（１都３県）新築分譲マンション市場動向によると、発売戸数は前年同月比１４．４％減の１９１０戸となった。２カ月連続の減少。東京２３区以外と埼玉、千葉で大幅に減った。一方、価格上昇が続く２３区での発売戸数が多かったことなどから、１戸当たりの平均価格は同１４．９％上がり９１８１万円で、７カ月連続で上昇した。 bit.ly/3Y4zXvd
 
-[2025-12-22 19:20:14](https://bsky.app/profile/japan.reuters.com/post/3makz4y2t5m2v)
-
----
-
-@reuters.com
-
-Last group of freed Nigerian schoolchildren to be reunited with their families reut.rs/4an9q3w
-
-[2025-12-22 19:15:11](https://bsky.app/profile/reuters.com/post/3makytwz6e62k)
-
----
-
-@japan.reuters.com
-
-フジ・メディア・ホールディングスは２２日、村上世彰氏や長女の野村絢氏などから議決権比率３３．３％まで同社株を買い増すとの通知を受け取ったことを受け、目的などに関する情報提供を要請する「情報リスト」を交付したと発表した。 bit.ly/4b1ZBrY
-
-[2025-12-22 19:10:13](https://bsky.app/profile/japan.reuters.com/post/3makyl3bkm42c)
+[2025-12-22 19:40:14](https://bsky.app/profile/japan.reuters.com/post/3mal2aqmkwy27)
 
 ---
 
 @reuters.com
 
-Uber, Lyft to test Baidu robotaxis in UK from next year reut.rs/4j8PnIv
+Alinghi return as America's Cup names members of partnership reut.rs/4j5Yc5I
 
-[2025-12-22 19:10:11](https://bsky.app/profile/reuters.com/post/3makykzdtxw24)
-
----
-
-@wsj.com
-
-CBS News pulled a planned “60 Minutes” segment on an El Salvador maximum-security prison where the Trump administration sent hundreds of Venezuelan migrants.
-
-[2025-12-22 19:09:40](https://bsky.app/profile/wsj.com/post/3makyk34jbb2t)
+[2025-12-22 19:40:13](https://bsky.app/profile/reuters.com/post/3mal2aphwgw2b)
 
 ---
 
 @npr.org
 
-Officials said the error is likely be too minute for the general public to clock it, but it could affect applications such as critical infrastructure, telecommunications and GPS signals. n.pr/3NbOdQk
+A sampling of the stories NPR staff believe made some of the deepest ripples this year — reminders of what rigorous, compassionate journalism can do, and why the work remains as urgent as ever. n.pr/494D23n
 
-[2025-12-22 19:09:23](https://bsky.app/profile/npr.org/post/3makyjlgf6u2m)
+[2025-12-22 19:37:16](https://bsky.app/profile/npr.org/post/3mal23gbzcz2y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@japan.reuters.com
 
-自民 萩生田幹事長代行 台湾 頼清徳総統と会談 交流深めたい
-https://news.web.nhk/newsweb/na/na-k10015010651000
+新潟県議会は２２日、東京電力柏崎刈羽原子力発電所の再稼働を巡り、再稼働関連予算を盛り込んだ補正予算案を可決したほか、再稼働容認を表明した花角英世知事が職務を続けることを認めた。これにより再稼働の最大の焦点となっていた「地元同意」の手続きが完了した。再稼働に向けて具体的に進むことになる。 bit.ly/3YKcEa0
 
-[2025-12-22 19:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makyizgpsn2b)
+[2025-12-22 19:35:10](https://bsky.app/profile/japan.reuters.com/post/3makzxoik572c)
+
+---
+
+@reuters.com
+
+Pope Leo urges joyful, welcoming Church in speech to Vatican cardinals reut.rs/4b15hCs
+
+[2025-12-22 19:35:08](https://bsky.app/profile/reuters.com/post/3makzxmy4go2y)
+
+---
+
+@japan.reuters.com
+
+塩野義製薬は２２日、田辺ファーマから筋委縮性側索硬化症（ＡＬＳ）等の治療薬であるエダラボン事業を買収すると発表した。取得額は２５億ドル（約３９４１億円）。 bit.ly/4qfQEzE
+
+[2025-12-22 19:32:35](https://bsky.app/profile/japan.reuters.com/post/3makzt2qfkb2s)
+
+---
+
+@wsj.com
+
+New property assessments shifted the tax burden from downtown businesses to homeowners, causing outcry in struggling neighborhoods on.wsj.com/3Nb5Vn0
+
+[2025-12-22 19:31:55](https://bsky.app/profile/wsj.com/post/3makzrudzz72q)
+
+---
+
+@wsj.com
+
+High-octane suds are a labor of love for brewers, and as scary to make as they are to drink. on.wsj.com/491Bbfx
+
+[2025-12-22 19:31:55](https://bsky.app/profile/wsj.com/post/3makzrugrvp2q)
 
 ---
 
