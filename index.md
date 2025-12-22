@@ -1,9 +1,9 @@
-# [2025-12-22 11:10 updated](2025_12_22.md)
+# [2025-12-22 11:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">金現物が２２日の取引で１オンス＝４３８３．７３ドルに上昇し、過去最高値を更新した。米連邦準備理事会（ＦＲＢ）の追加利下げ観測や安全資産としての需要、軟調なドル相場などが支援材料となっている。 bit.ly/3MMddxy <a href="https://bsky.app/profile/japan.reuters.com/post/3mak5nhueno26" target="_blank">japan.reuters.com</a> (2025-12-22 11:08:23)</span><span style="padding-right:50px;">ファーストリテイリングは２２日、来年３月に日本の新卒社員の初任給を改定し、国内外へ転勤がある「グローバルリーダー候補」は３７万円と、現行水準から１２％引き上げると発表した。 bit.ly/4aXl7y4 <a href="https://bsky.app/profile/japan.reuters.com/post/3mak5ft5pyn2q" target="_blank">japan.reuters.com</a> (2025-12-22 11:04:06)</span><span style="padding-right:50px;">A massive power outage plunged parts of San Francisco into a blackout on the Saturday before Christmas. Power was restored Sunday morning.  Read more: https://cnn.it/4pLM6Bb <a href="https://bsky.app/profile/cnn.com/post/3mak5exinpn23" target="_blank">cnn.com</a> (2025-12-22 11:03:37)</span><span style="padding-right:50px;">中国人民銀行（中央銀行）は２２日、銀行貸出金利の指標となる最優遇貸出金利（ローンプライムレート、ＬＰＲ）を市場の予想通り据え置いた。据え置きは７カ月連続。 bit.ly/49nTQDG <a href="https://bsky.app/profile/japan.reuters.com/post/3mak5duotlq2c" target="_blank">japan.reuters.com</a> (2025-12-22 11:03:01)</span><span style="padding-right:50px;">都市と地方の共存へ　地域の誇りを東京圏の若者に www.nikkei.com/article/DGXZQO...  高度成長は地方から東京へ人が向かう潮流をつくりました。  3世代にわたって続いてきた東京一極集中。  和らげるために、地域の価値観を東京圏生まれの若い世代に伝えていけるでしょうか。  （MESSAGE 戦後80年） <a href="https://bsky.app/profile/nikkei.com/post/3mak57z73ok24" target="_blank">nikkei.com</a> (2025-12-22 11:00:51)</span>
+<span style="padding-right:50px;">ソフトバンクグループ株が急伸している。同社の出資先となるオープンＡＩの収益性が改善しているとの情報サイトの報道を手掛かりに、調整基調からの買い戻しの動きが強まっているとみられる。株価は一時８％超高の１万８５８０円に上昇した。 bit.ly/3YacmsX <a href="https://bsky.app/profile/japan.reuters.com/post/3mak6nnwy4227" target="_blank">japan.reuters.com</a> (2025-12-22 11:26:23)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「爆発音も」住宅火災で80歳男性死亡 81歳妻は気道熱傷 堺市堺区 (2025-12-22 10:51:43) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mak6lr2p6t2e" target="_blank">sokuho.news</a> (2025-12-22 11:25:19)</span><span style="padding-right:50px;">米クリーブランド地区連銀のハマック総裁は、連邦準備理事会（ＦＲＢ）が過去３回の連邦公開市場委員会（ＦＯＭＣ）で利下げを実施したことを受け、今後数カ月は金利を変更する必要はないとの見方を示した。 bit.ly/3NbZhwN <a href="https://bsky.app/profile/japan.reuters.com/post/3mak6lfgp3c27" target="_blank">japan.reuters.com</a> (2025-12-22 11:25:07)</span><span style="padding-right:50px;">ビットコイン財務及びビジネスインテリジェンス企業の米ストラテジーは、モルガン・スタンレー・キャピタル・インターナショナル（ＭＳＣＩ）などの主要株価指数から近く除外される可能性がある。暗号資産（仮想通貨）ビットコインを大量保有するストラテジーは、主要株価指数から除外された場合には時価総額が最大で９０億ドル近く下落すると推計。仮想通貨を財務資産として戦略保有する、デジタル資産トレジャリー（ＤＡＴ）企業の魅力低下につながる可能性がある。 bit.ly/4asmEvZ <a href="https://bsky.app/profile/japan.reuters.com/post/3mak6jt4yyn2q" target="_blank">japan.reuters.com</a> (2025-12-22 11:24:14)</span><span style="padding-right:50px;">長期金利 10年もの国債の利回り2.095％に 約26年ぶりの高水準 https://news.web.nhk/newsweb/na/na-k10015010211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mak6jol2jm2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 11:24:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50474.15 (🔺389.60 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3462.00 (🔻32.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.27 (🔻0.48 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50447.47 (🔺362.92 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3460.00 (🔻34.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.28 (🔻0.47 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,104 +32,99 @@
 
 ## News Headlines
 
-- Gold price surges to record high, exceeding $4,383.73 per ounce
-- Fast Retailing raises base salary for new Japanese hires by 12%
-- China's central bank leaves benchmark lending rate unchanged for seventh straight month
-- Russia says Putin willing to discuss with Macron if there is a political will
-- Oil prices gain on US interception of Venezuelan oil tanker over weekend
-- Oil prices rise as US intercepts Venezuelan oil tanker
+- SoftBank Group Shares Surge on Improved AI Unit Performance
+- 80-Year-Old Man Dies in House Fire in Osaka, Wife Suffers Severe Burns
+- US Federal Reserve Officials See No Need to Change Interest Rates in Coming Months
+- Bitcoin Firm at Risk of Being Removed from Major Stock Indexes
+- Long-Term Bond Yield Reaches 26-Year High in Japan
+- Li Ka-shing Family to Transform Business Empire with Series of Deals
+- Australian Prime Minister Under Fire for Response to Sydney Shooting
 
 
 ----
 
 @japan.reuters.com
 
-金現物が２２日の取引で１オンス＝４３８３．７３ドルに上昇し、過去最高値を更新した。米連邦準備理事会（ＦＲＢ）の追加利下げ観測や安全資産としての需要、軟調なドル相場などが支援材料となっている。 bit.ly/3MMddxy
+ソフトバンクグループ株が急伸している。同社の出資先となるオープンＡＩの収益性が改善しているとの情報サイトの報道を手掛かりに、調整基調からの買い戻しの動きが強まっているとみられる。株価は一時８％超高の１万８５８０円に上昇した。 bit.ly/3YacmsX
 
-[2025-12-22 11:08:23](https://bsky.app/profile/japan.reuters.com/post/3mak5nhueno26)
+[2025-12-22 11:26:23](https://bsky.app/profile/japan.reuters.com/post/3mak6nnwy4227)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】「爆発音も」住宅火災で80歳男性死亡 81歳妻は気道熱傷 堺市堺区
+(2025-12-22 10:51:43) #ニュース
+
+[2025-12-22 11:25:19](https://bsky.app/profile/sokuho.news/post/3mak6lr2p6t2e)
 
 ---
 
 @japan.reuters.com
 
-ファーストリテイリングは２２日、来年３月に日本の新卒社員の初任給を改定し、国内外へ転勤がある「グローバルリーダー候補」は３７万円と、現行水準から１２％引き上げると発表した。 bit.ly/4aXl7y4
+米クリーブランド地区連銀のハマック総裁は、連邦準備理事会（ＦＲＢ）が過去３回の連邦公開市場委員会（ＦＯＭＣ）で利下げを実施したことを受け、今後数カ月は金利を変更する必要はないとの見方を示した。 bit.ly/3NbZhwN
 
-[2025-12-22 11:04:06](https://bsky.app/profile/japan.reuters.com/post/3mak5ft5pyn2q)
-
----
-
-@cnn.com
-
-A massive power outage plunged parts of San Francisco into a blackout on the Saturday before Christmas. Power was restored Sunday morning.
-
-Read more: https://cnn.it/4pLM6Bb
-
-[2025-12-22 11:03:37](https://bsky.app/profile/cnn.com/post/3mak5exinpn23)
+[2025-12-22 11:25:07](https://bsky.app/profile/japan.reuters.com/post/3mak6lfgp3c27)
 
 ---
 
 @japan.reuters.com
 
-中国人民銀行（中央銀行）は２２日、銀行貸出金利の指標となる最優遇貸出金利（ローンプライムレート、ＬＰＲ）を市場の予想通り据え置いた。据え置きは７カ月連続。 bit.ly/49nTQDG
+ビットコイン財務及びビジネスインテリジェンス企業の米ストラテジーは、モルガン・スタンレー・キャピタル・インターナショナル（ＭＳＣＩ）などの主要株価指数から近く除外される可能性がある。暗号資産（仮想通貨）ビットコインを大量保有するストラテジーは、主要株価指数から除外された場合には時価総額が最大で９０億ドル近く下落すると推計。仮想通貨を財務資産として戦略保有する、デジタル資産トレジャリー（ＤＡＴ）企業の魅力低下につながる可能性がある。 bit.ly/4asmEvZ
 
-[2025-12-22 11:03:01](https://bsky.app/profile/japan.reuters.com/post/3mak5duotlq2c)
+[2025-12-22 11:24:14](https://bsky.app/profile/japan.reuters.com/post/3mak6jt4yyn2q)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-都市と地方の共存へ　地域の誇りを東京圏の若者に
-www.nikkei.com/article/DGXZQO...
+長期金利 10年もの国債の利回り2.095％に 約26年ぶりの高水準
+https://news.web.nhk/newsweb/na/na-k10015010211000
 
-高度成長は地方から東京へ人が向かう潮流をつくりました。
+[2025-12-22 11:24:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mak6jol2jm2d)
 
-3世代にわたって続いてきた東京一極集中。
+---
 
-和らげるために、地域の価値観を東京圏生まれの若い世代に伝えていけるでしょうか。
+@nhknewsunofficial.bsky.social
 
-（MESSAGE 戦後80年）
+東京23区 11月の中古マンション平均価格が上昇 1億1485万円に
+https://news.web.nhk/newsweb/na/na-k10015010271000
 
-[2025-12-22 11:00:51](https://bsky.app/profile/nikkei.com/post/3mak57z73ok24)
+[2025-12-22 11:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mak6jkah7z2u)
+
+---
+
+@japan.reuters.com
+
+＜１１：０９＞　前場の国債先物は大幅続落、長期金利2.095％　26年半ぶり高水準 bit.ly/4pQs7S8
+
+[2025-12-22 11:21:03](https://bsky.app/profile/japan.reuters.com/post/3mak6e4zte52q)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>長期金利 10年もの国債の利回り2.095%に 約26年ぶりの高水準</strong><br><strong>(2025-12-22 11:20:11) #ニュース</strong>
+
+[2025-12-22 11:20:36](https://bsky.app/profile/sokuho.news/post/3mak6ddmcz62s)
 
 ---
 
 @reuters.com
 
-Oil prices gain on US interception of Venezuelan oil tanker over weekend reut.rs/4aLFnTt
+South Korea's presidential office moving back to traditional Blue House reut.rs/49mEi30
 
-[2025-12-22 11:00:33](https://bsky.app/profile/reuters.com/post/3mak57hqkdz2o)
+[2025-12-22 11:20:15](https://bsky.app/profile/reuters.com/post/3mak6cpnb6i2s)
 
 ---
 
 @japan.reuters.com
 
-ロシア大統領府のペスコフ報道官は２１日、フランスのマクロン大統領がロシアのプーチン大統領との対話の必要性に言及したことを受け、双方に政治的意思があれば、プーチン氏はマクロン氏と協議する用意があると述べた。ロシアの通信社ＲＩＡが伝えた。 bit.ly/44F7ksd
+米沿岸警備隊は、ベネズエラ近海の国際水域で石油タンカーを追跡していると、当局者が２１日にロイターに語った。この作戦が成功すれば、石油タンカーの拿捕（だほ）は今週末で２隻目、２週間足らずで３隻目となる。 bit.ly/44HvFxn
 
-[2025-12-22 11:00:27](https://bsky.app/profile/japan.reuters.com/post/3mak57c5ntc2u)
-
----
-
-@usatoday.com
-
-L.A. Clippers center Ivica Zubac is expected to miss several weeks due to an injury, according to reports.
-
-[2025-12-22 11:00:21](https://bsky.app/profile/usatoday.com/post/3mak574mkxk2t)
-
----
-
-@washingtonpost.com
-
-Parents who put money into their children’s “Trump Accounts” might face a headache come tax time: They may be required to fill out a little-used gift tax form that can take hours to complete and can only be filed by mail.
-
-[2025-12-22 11:00:08](https://bsky.app/profile/washingtonpost.com/post/3mak56qbo522g)
-
----
-
-@aljazeera.com
-
-Russia-Ukraine war: List of key events, day 1,397 https://aje.io/aydgkn
-
-[2025-12-22 11:00:04](https://bsky.app/profile/aljazeera.com/post/3mak56ml5zo22)
+[2025-12-22 11:20:09](https://bsky.app/profile/japan.reuters.com/post/3mak6cjdld626)
 
 ---
 
