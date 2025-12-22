@@ -1,9 +1,9 @@
-# [2025-12-22 10:50 updated](2025_12_22.md)
+# [2025-12-22 11:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">欧州連合（ＥＵ）理事会は１９日、オンラインとオフラインの両機能を含むデジタルユーロを支持する立場を示した。オフラインでの使用のみに焦点を当てた欧州議会の提案と一線を画した形だ。 bit.ly/48PUauT <a href="https://bsky.app/profile/japan.reuters.com/post/3mak4k6pii22c" target="_blank">japan.reuters.com</a> (2025-12-22 10:48:39)</span><span style="padding-right:50px;">男子テニスで２０２２年ウィンブルドン選手権準優勝のニック・キリオス（３０、オーストラリア）が、主催者推薦で来月のブリスベン国際に出場し、ツアー復帰を果たす見通しになった。大会主催者が２１日に発表した。 bit.ly/4935LWe <a href="https://bsky.app/profile/japan.reuters.com/post/3mak4ejfnlw25" target="_blank">japan.reuters.com</a> (2025-12-22 10:45:29)</span><span style="padding-right:50px;">【ライブ】H3ロケット8号機 みちびき5号機搭載 打ち上げへ https://news.web.nhk/newsweb/na/na-k10015009941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mak4dsttkx2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 10:45:03)</span><span style="padding-right:50px;">中国の人工知能（ＡＩ）スタートアップ、ミニマックス（稀宇科技）が、香港証券取引所の上場審査に合格したことが、２１日付の開示書類で明らかになった。 bit.ly/45jp1gY <a href="https://bsky.app/profile/japan.reuters.com/post/3mak4cm5dz526" target="_blank">japan.reuters.com</a> (2025-12-22 10:44:24)</span><span style="padding-right:50px;">Indonesia is seeking to plug an unusually deep revenue shortfall before year-end by scrutinizing wealthy individuals and big businesses for extra tax payments. <a href="https://bsky.app/profile/bloomberg.com/post/3mak436l6sv23" target="_blank">bloomberg.com</a> (2025-12-22 10:40:15)</span>
+<span style="padding-right:50px;">金現物が２２日の取引で１オンス＝４３８３．７３ドルに上昇し、過去最高値を更新した。米連邦準備理事会（ＦＲＢ）の追加利下げ観測や安全資産としての需要、軟調なドル相場などが支援材料となっている。 bit.ly/3MMddxy <a href="https://bsky.app/profile/japan.reuters.com/post/3mak5nhueno26" target="_blank">japan.reuters.com</a> (2025-12-22 11:08:23)</span><span style="padding-right:50px;">ファーストリテイリングは２２日、来年３月に日本の新卒社員の初任給を改定し、国内外へ転勤がある「グローバルリーダー候補」は３７万円と、現行水準から１２％引き上げると発表した。 bit.ly/4aXl7y4 <a href="https://bsky.app/profile/japan.reuters.com/post/3mak5ft5pyn2q" target="_blank">japan.reuters.com</a> (2025-12-22 11:04:06)</span><span style="padding-right:50px;">A massive power outage plunged parts of San Francisco into a blackout on the Saturday before Christmas. Power was restored Sunday morning.  Read more: https://cnn.it/4pLM6Bb <a href="https://bsky.app/profile/cnn.com/post/3mak5exinpn23" target="_blank">cnn.com</a> (2025-12-22 11:03:37)</span><span style="padding-right:50px;">中国人民銀行（中央銀行）は２２日、銀行貸出金利の指標となる最優遇貸出金利（ローンプライムレート、ＬＰＲ）を市場の予想通り据え置いた。据え置きは７カ月連続。 bit.ly/49nTQDG <a href="https://bsky.app/profile/japan.reuters.com/post/3mak5duotlq2c" target="_blank">japan.reuters.com</a> (2025-12-22 11:03:01)</span><span style="padding-right:50px;">都市と地方の共存へ　地域の誇りを東京圏の若者に www.nikkei.com/article/DGXZQO...  高度成長は地方から東京へ人が向かう潮流をつくりました。  3世代にわたって続いてきた東京一極集中。  和らげるために、地域の価値観を東京圏生まれの若い世代に伝えていけるでしょうか。  （MESSAGE 戦後80年） <a href="https://bsky.app/profile/nikkei.com/post/3mak57z73ok24" target="_blank">nikkei.com</a> (2025-12-22 11:00:51)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50552.78 (🔺468.23 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3471.00 (🔻23.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.34 (🔻0.41 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50474.15 (🔺389.60 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3462.00 (🔻32.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.27 (🔻0.48 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,96 +32,104 @@
 
 ## News Headlines
 
-- EU Supports Digital Euro with Online and Offline Functionality
-- Australian Tennis Star Nick Kyrgios to Make Tour Return at Brisbane International
-- Japan's Long-Term Interest Rate Hits 26-Year High at 2.08%
-- China's Rare Earth Magnet Exports Surge to Second-Highest Level on Record
-- Indonesia Seeks to Plug Revenue Shortfall by Scrutinizing Wealthy Individuals and Businesses
-- Banks Raise Investment Banking Bonuses Amid Surge in Deal Flow
+- Gold price surges to record high, exceeding $4,383.73 per ounce
+- Fast Retailing raises base salary for new Japanese hires by 12%
+- China's central bank leaves benchmark lending rate unchanged for seventh straight month
+- Russia says Putin willing to discuss with Macron if there is a political will
+- Oil prices gain on US interception of Venezuelan oil tanker over weekend
+- Oil prices rise as US intercepts Venezuelan oil tanker
 
 
 ----
 
 @japan.reuters.com
 
-欧州連合（ＥＵ）理事会は１９日、オンラインとオフラインの両機能を含むデジタルユーロを支持する立場を示した。オフラインでの使用のみに焦点を当てた欧州議会の提案と一線を画した形だ。 bit.ly/48PUauT
+金現物が２２日の取引で１オンス＝４３８３．７３ドルに上昇し、過去最高値を更新した。米連邦準備理事会（ＦＲＢ）の追加利下げ観測や安全資産としての需要、軟調なドル相場などが支援材料となっている。 bit.ly/3MMddxy
 
-[2025-12-22 10:48:39](https://bsky.app/profile/japan.reuters.com/post/3mak4k6pii22c)
-
----
-
-@japan.reuters.com
-
-男子テニスで２０２２年ウィンブルドン選手権準優勝のニック・キリオス（３０、オーストラリア）が、主催者推薦で来月のブリスベン国際に出場し、ツアー復帰を果たす見通しになった。大会主催者が２１日に発表した。 bit.ly/4935LWe
-
-[2025-12-22 10:45:29](https://bsky.app/profile/japan.reuters.com/post/3mak4ejfnlw25)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【ライブ】H3ロケット8号機 みちびき5号機搭載 打ち上げへ
-https://news.web.nhk/newsweb/na/na-k10015009941000
-
-[2025-12-22 10:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mak4dsttkx2y)
+[2025-12-22 11:08:23](https://bsky.app/profile/japan.reuters.com/post/3mak5nhueno26)
 
 ---
 
 @japan.reuters.com
 
-中国の人工知能（ＡＩ）スタートアップ、ミニマックス（稀宇科技）が、香港証券取引所の上場審査に合格したことが、２１日付の開示書類で明らかになった。 bit.ly/45jp1gY
+ファーストリテイリングは２２日、来年３月に日本の新卒社員の初任給を改定し、国内外へ転勤がある「グローバルリーダー候補」は３７万円と、現行水準から１２％引き上げると発表した。 bit.ly/4aXl7y4
 
-[2025-12-22 10:44:24](https://bsky.app/profile/japan.reuters.com/post/3mak4cm5dz526)
+[2025-12-22 11:04:06](https://bsky.app/profile/japan.reuters.com/post/3mak5ft5pyn2q)
 
 ---
 
-@bloomberg.com
+@cnn.com
 
-Indonesia is seeking to plug an unusually deep revenue shortfall before year-end by scrutinizing wealthy individuals and big businesses for extra tax payments.
+A massive power outage plunged parts of San Francisco into a blackout on the Saturday before Christmas. Power was restored Sunday morning.
 
-[2025-12-22 10:40:15](https://bsky.app/profile/bloomberg.com/post/3mak436l6sv23)
+Read more: https://cnn.it/4pLM6Bb
+
+[2025-12-22 11:03:37](https://bsky.app/profile/cnn.com/post/3mak5exinpn23)
+
+---
+
+@japan.reuters.com
+
+中国人民銀行（中央銀行）は２２日、銀行貸出金利の指標となる最優遇貸出金利（ローンプライムレート、ＬＰＲ）を市場の予想通り据え置いた。据え置きは７カ月連続。 bit.ly/49nTQDG
+
+[2025-12-22 11:03:01](https://bsky.app/profile/japan.reuters.com/post/3mak5duotlq2c)
+
+---
+
+@nikkei.com
+
+都市と地方の共存へ　地域の誇りを東京圏の若者に
+www.nikkei.com/article/DGXZQO...
+
+高度成長は地方から東京へ人が向かう潮流をつくりました。
+
+3世代にわたって続いてきた東京一極集中。
+
+和らげるために、地域の価値観を東京圏生まれの若い世代に伝えていけるでしょうか。
+
+（MESSAGE 戦後80年）
+
+[2025-12-22 11:00:51](https://bsky.app/profile/nikkei.com/post/3mak57z73ok24)
 
 ---
 
 @reuters.com
 
-China leaves benchmark lending rates unchanged for seventh straight month reut.rs/49t06Jt
+Oil prices gain on US interception of Venezuelan oil tanker over weekend reut.rs/4aLFnTt
 
-[2025-12-22 10:40:12](https://bsky.app/profile/reuters.com/post/3mak4333c572o)
-
----
-
-@nhknewsunofficial.bsky.social
-
-長期金利 10年もの国債の利回り2.08％に 約26年ぶりの高水準
-https://news.web.nhk/newsweb/na/na-k10015010211000
-
-[2025-12-22 10:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mak3z2solx2y)
+[2025-12-22 11:00:33](https://bsky.app/profile/reuters.com/post/3mak57hqkdz2o)
 
 ---
 
 @japan.reuters.com
 
-２２日午前のシドニー株式市場の株価は、薄商いの中で続伸している。米国の利下げ観測と地政学的な緊張の高まりを受けて商品（コモディティー）相場が上昇した状況を背景に、鉱業株とエネルギー株が買われた。 bit.ly/4aZt4Th
+ロシア大統領府のペスコフ報道官は２１日、フランスのマクロン大統領がロシアのプーチン大統領との対話の必要性に言及したことを受け、双方に政治的意思があれば、プーチン氏はマクロン氏と協議する用意があると述べた。ロシアの通信社ＲＩＡが伝えた。 bit.ly/44F7ksd
 
-[2025-12-22 10:39:00](https://bsky.app/profile/japan.reuters.com/post/3mak3ywwdi625)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>長期金利 10年もの国債の利回り2.08%に 約26年ぶりの高水準</strong><br><strong>(2025-12-22 10:36:56) #ニュース</strong>
-
-[2025-12-22 10:37:18](https://bsky.app/profile/sokuho.news/post/3mak3vvzlcm2e)
+[2025-12-22 11:00:27](https://bsky.app/profile/japan.reuters.com/post/3mak57c5ntc2u)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@usatoday.com
 
-【ライブ予定】H3ロケット8号機 みちびき5号機搭載 打ち上げへ
-https://news.web.nhk/newsweb/na/na-k10015009941000
+L.A. Clippers center Ivica Zubac is expected to miss several weeks due to an injury, according to reports.
 
-[2025-12-22 10:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mak3tpshhg26)
+[2025-12-22 11:00:21](https://bsky.app/profile/usatoday.com/post/3mak574mkxk2t)
+
+---
+
+@washingtonpost.com
+
+Parents who put money into their children’s “Trump Accounts” might face a headache come tax time: They may be required to fill out a little-used gift tax form that can take hours to complete and can only be filed by mail.
+
+[2025-12-22 11:00:08](https://bsky.app/profile/washingtonpost.com/post/3mak56qbo522g)
+
+---
+
+@aljazeera.com
+
+Russia-Ukraine war: List of key events, day 1,397 https://aje.io/aydgkn
+
+[2025-12-22 11:00:04](https://bsky.app/profile/aljazeera.com/post/3mak56ml5zo22)
 
 ---
 
