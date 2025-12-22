@@ -1,9 +1,9 @@
-# [2025-12-22 15:10 updated](2025_12_22.md)
+# [2025-12-22 15:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【きょうのおはBiz12月22日(月)】企業対抗コンペで育成 AI人材 https://news.web.nhk/newsweb/na/na-k10015010241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makl3uya7d22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 15:09:02)</span><span style="padding-right:50px;">The ultrarich are spending a fortune so they never have to interact with the general public. on.wsj.com/48JL8Q3 <a href="https://bsky.app/profile/wsj.com/post/3makkwvfmjr2u" target="_blank">wsj.com</a> (2025-12-22 15:06:17)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR岡山駅近くで建物火災 ケガ人の情報なし 岡山市消防局【岡山】 (2025-12-22 14:58) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makkvuvm4k2b" target="_blank">sokuho.news</a> (2025-12-22 15:05:43)</span><span style="padding-right:50px;">Guardiola tells Man City players to go easy on Christmas dinner reut.rs/490UAxe <a href="https://bsky.app/profile/reuters.com/post/3makkuw3ge72y" target="_blank">reuters.com</a> (2025-12-22 15:05:11)</span><span style="padding-right:50px;">Popular Kentucky bourbon maker Jim Beam plans to pause production at its main distillery on January 1, according to the James B. Beam Distilling Co. https://cnn.it/49sT2fV <a href="https://bsky.app/profile/cnn.com/post/3makkpbbz3b23" target="_blank">cnn.com</a> (2025-12-22 15:02:02)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】“損失約300万円” 学校のプールのシャワーで水を出しっぱなし「凍結防止弁」を誤操作 検針で判明 熊本市 (2025-12-22 15:24:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makm5dmflp2b" target="_blank">sokuho.news</a> (2025-12-22 15:27:47)</span><span style="padding-right:50px;">Nearly four years into Russia's invasion, Ukraine’s Nova Post has learned to operate through blackouts, missile strikes and broken transport links. It now delivers more than 1.5 million parcels a day, cementing its status as a rare wartime corporate success reut.rs/49mKckG <a href="https://bsky.app/profile/reuters.com/post/3makm4jf33k26" target="_blank">reuters.com</a> (2025-12-22 15:27:20)</span><span style="padding-right:50px;">Homemade bombs thrown before Bondi mass shooting, but failed to detonate, police tell court reut.rs/3YDg66i <a href="https://bsky.app/profile/reuters.com/post/3maklynj6gn2i" target="_blank">reuters.com</a> (2025-12-22 15:25:10)</span><span style="padding-right:50px;">楽天カードに約42億円の追徴課税　資金調達巡り、東京国税局 www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3maklwrfh6d2n" target="_blank">nikkei.com</a> (2025-12-22 15:24:07)</span><span style="padding-right:50px;">Steves purchased the property to prevent it from closing. Many homeless people had come to depend on the Lynnwood Hygiene Center, which had operated rent-free on the property since 2020. n.pr/3MKbmJH <a href="https://bsky.app/profile/npr.org/post/3maklpyywdb24" target="_blank">npr.org</a> (2025-12-22 15:20:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50426.00 (🔺341.45 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3448.00 (🔻46.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.32 (🔻0.43 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50367.87 (🔺283.32 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3447.00 (🔻47.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.33 (🔻0.42 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,30 +32,75 @@
 
 ## News Headlines
 
-- Japanese firm launches 5 billion dollar fund for US real estate investment
-- Japanese PM's aide says PFI projects may have larger targets
-- Sudanese bloc declares Nairobi roadmap, but is it a civilian breakthrough?
-- China to erase small overdue debts from credit records to boost lending
-- Petronas, South Korea petrochemical firms to cut 3.7 million tons of output
-- US and Russia hold constructive talks in Miami on Ukraine conflict
+- Russia's Invasion of Ukraine: Nova Post Delivers Parcels Amid Blackouts and Missile Strikes
+- Homemade Bombs Fail to Detonate Before Bondi Mass Shooting
+- Ryota's 42 Billion Yen Tax Bill: Tokyo Tax Office Investigates
+- Japan to Help Return Thai Citizenship to Young Girl
+- Former Japanese Soccer Star to Decide on New Team by Year-End
+- China to Wipe Clean Small Overdue Debts from Credit Records
 
 
 ----
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-【きょうのおはBiz12月22日(月)】企業対抗コンペで育成 AI人材
-https://news.web.nhk/newsweb/na/na-k10015010241000
+🛎️JNNより【速報】です。
 
-[2025-12-22 15:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makl3uya7d22)
+【速報】“損失約300万円” 学校のプールのシャワーで水を出しっぱなし「凍結防止弁」を誤操作 検針で判明 熊本市
+(2025-12-22 15:24:00) #ニュース
+
+[2025-12-22 15:27:47](https://bsky.app/profile/sokuho.news/post/3makm5dmflp2b)
 
 ---
 
-@wsj.com
+@reuters.com
 
-The ultrarich are spending a fortune so they never have to interact with the general public. on.wsj.com/48JL8Q3
+Nearly four years into Russia's invasion, Ukraine’s Nova Post has learned to operate through blackouts, missile strikes and broken transport links. It now delivers more than 1.5 million parcels a day, cementing its status as a rare wartime corporate success reut.rs/49mKckG
 
-[2025-12-22 15:06:17](https://bsky.app/profile/wsj.com/post/3makkwvfmjr2u)
+[2025-12-22 15:27:20](https://bsky.app/profile/reuters.com/post/3makm4jf33k26)
+
+---
+
+@reuters.com
+
+Homemade bombs thrown before Bondi mass shooting, but failed to detonate, police tell court reut.rs/3YDg66i
+
+[2025-12-22 15:25:10](https://bsky.app/profile/reuters.com/post/3maklynj6gn2i)
+
+---
+
+@nikkei.com
+
+楽天カードに約42億円の追徴課税　資金調達巡り、東京国税局
+www.nikkei.com/article/DGXZQO...
+
+#ニュース
+
+[2025-12-22 15:24:07](https://bsky.app/profile/nikkei.com/post/3maklwrfh6d2n)
+
+---
+
+@npr.org
+
+Steves purchased the property to prevent it from closing. Many homeless people had come to depend on the Lynnwood Hygiene Center, which had operated rent-free on the property since 2020. n.pr/3MKbmJH
+
+[2025-12-22 15:20:20](https://bsky.app/profile/npr.org/post/3maklpyywdb24)
+
+---
+
+@japan.reuters.com
+
+国際司法裁判所（ＩＣＪ）は１９日、ミャンマーがイスラム教徒少数民族ロヒンギャに対してジェノサイド（大量虐殺）を犯したとして西アフリカのガンビアが訴えた裁判の審理を来年１月１２─２９日に行うと発表した。 bit.ly/4qjEA0h
+
+[2025-12-22 15:20:13](https://bsky.app/profile/japan.reuters.com/post/3maklprpdqq2v)
+
+---
+
+@japan.reuters.com
+
+アジア新興国通貨は、タイバーツが対ドルで０．５％上昇し、１ドル＝３１．２２０バーツと、２０２１年６月中旬以来の高値を付けた。金価格の上昇が主因。 bit.ly/4jd2OHl
+
+[2025-12-22 15:20:08](https://bsky.app/profile/japan.reuters.com/post/3maklpnizhw2c)
 
 ---
 
@@ -63,75 +108,26 @@ The ultrarich are spending a fortune so they never have to interact with the gen
 
 🛎️FNNより【速報】です。
 
-【速報】JR岡山駅近くで建物火災 ケガ人の情報なし 岡山市消防局【岡山】
-(2025-12-22 14:58) #ニュース
+【速報】あす23日の始発から「釧網線」全線再開＿倒木の撤去と除雪作業進む＿線路を支える”路盤”が流された根室線は年末までに再開できるかわからず＿道内襲った暴風雪から8日経過も爪痕…
+(2025-12-22 15:10) #ニュース
 
-[2025-12-22 15:05:43](https://bsky.app/profile/sokuho.news/post/3makkvuvm4k2b)
+[2025-12-22 15:15:52](https://bsky.app/profile/sokuho.news/post/3maklhzmn6g2r)
 
 ---
 
 @reuters.com
 
-Guardiola tells Man City players to go easy on Christmas dinner reut.rs/490UAxe
+Focus: Delivering under fire: How Nova Post became Ukraine's wartime success story reut.rs/3L3tzkS
 
-[2025-12-22 15:05:11](https://bsky.app/profile/reuters.com/post/3makkuw3ge72y)
-
----
-
-@cnn.com
-
-Popular Kentucky bourbon maker Jim Beam plans to pause production at its main distillery on January 1, according to the James B. Beam Distilling Co. https://cnn.it/49sT2fV
-
-[2025-12-22 15:02:02](https://bsky.app/profile/cnn.com/post/3makkpbbz3b23)
-
----
-
-@nikkei.com
-
-アメリカで減量薬対策フード台頭　日清「カンゼン・ミール」好調
-www.nikkei.com/article/DGXZQO...
-
-減量薬「GLP-1薬」を服用する消費者向けの栄養強化食品が好調です。
-
-栄養失調や筋肉量減少に陥るリスクから、たんぱく質などを効率的に摂取できるとアピール。
-
-日清は日本でのヒット商品「完全メシ」の展開に乗り出しました。
-
-[2025-12-22 15:00:50](https://bsky.app/profile/nikkei.com/post/3makkn5he2p2x)
+[2025-12-22 15:15:14](https://bsky.app/profile/reuters.com/post/3maklgvgtfn2i)
 
 ---
 
 @japan.reuters.com
 
-原油先物は週明け２２日アジア時間の取引で上昇している。米沿岸警備隊が週末にベネズエラ沖の国際水域で石油タンカーを拿捕（だほ）したことを受けた。 bit.ly/48OU06X
+宇宙航空研究開発機構（ＪＡＸＡ）の山川宏理事長は２２日午後に開いた記者会見で、同日午前に行ったＨ３ロケット８号機による準天頂衛星システム「みちびき５号機」の打ち上げに失敗したと語った。 bit.ly/4pNInmC
 
-[2025-12-22 15:00:35](https://bsky.app/profile/japan.reuters.com/post/3makkmobfzr25)
-
----
-
-@reuters.com
-
-China to scrub small overdue debts from credit records to help spur lending reut.rs/4b1QQhA
-
-[2025-12-22 15:00:29](https://bsky.app/profile/reuters.com/post/3makkmix5lu24)
-
----
-
-@bloomberg.com
-
-Follow Bloomberg India on WhatsApp for exclusive content and analysis on what billionaires, businesses and markets are doing. whatsapp.com/channel/0029...
-
-[2025-12-22 15:00:13](https://bsky.app/profile/bloomberg.com/post/3makklzl3e72d)
-
----
-
-@washingtonpost.com
-
-Review: “Ruth Asawa: A Retrospective” at the Museum of Modern Art only scratches the surface of Asawa’s contribution.
-
-Artists who need inspiration or who need reassurance that what they do matters should visit this show.
-
-[2025-12-22 15:00:10](https://bsky.app/profile/washingtonpost.com/post/3makklwphik2m)
+[2025-12-22 15:14:45](https://bsky.app/profile/japan.reuters.com/post/3maklfzrv4t2s)
 
 ---
 
