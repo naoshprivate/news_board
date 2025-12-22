@@ -1,9 +1,9 @@
-# [2025-12-23 07:50 updated](2025_12_23.md)
+# [2025-12-23 08:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Donald Trump has unveiled a new “Trump class” of Navy battleships, describing them as a superior war fighting vessel to replace an “old and tired and obsolete” US fleet: https://cnn.it/3N0fp4x <a href="https://bsky.app/profile/cnn.com/post/3mamcx2cq3c2u" target="_blank">cnn.com</a> (2025-12-23 07:48:32)</span><span style="padding-right:50px;">UK exporters increasingly dissatisfied with EU trade terms, survey finds ft.trib.al/V6KvH8K <a href="https://bsky.app/profile/financialtimes.com/post/3mamcwy652y2q" target="_blank">financialtimes.com</a> (2025-12-23 07:48:30)</span><span style="padding-right:50px;">南鳥島にレアアース泥の処理施設　内閣府、国産確保へ実証試験 www.nikkei.com/article/DGXZQO...  海底で回収した泥水から海水を抜く施設を2027年までに設置。  泥の塊を日本本土で改めて分離・精錬する計画です。  レアアースは世界の生産量の7割を中国が占めています。 <a href="https://bsky.app/profile/nikkei.com/post/3mamctotzif2i" target="_blank">nikkei.com</a> (2025-12-23 07:46:40)</span><span style="padding-right:50px;">片山さつき財務相は２２日のブルームバーグのインタビューで、植田和男日銀総裁の１９日の記者会見後に進んだ円安について「非常に短い時間での動き。完全にファンダメンタルズではなくて投機だ」と指摘し、このような動きに対し、９月の日米財務相共同声明に基づき「断固として措置を取る、アクションを取るということを申し上げている」と述べた。 bit.ly/3YIbAU8 <a href="https://bsky.app/profile/japan.reuters.com/post/3mamctoigdz2n" target="_blank">japan.reuters.com</a> (2025-12-23 07:46:39)</span><span style="padding-right:50px;">Japan has 'free hand' in dealing with excessive yen moves, finance minister tells Bloomberg reut.rs/44CFM6O <a href="https://bsky.app/profile/reuters.com/post/3mamcr6dkbd24" target="_blank">reuters.com</a> (2025-12-23 07:45:15)</span>
+<span style="padding-right:50px;">Read a selection of essays from the Journal’s ‘Masterpiece’ column, now celebrating its 20th anniversary. on.wsj.com/3YEErbU <a href="https://bsky.app/profile/wsj.com/post/3mame4c47ad2k" target="_blank">wsj.com</a> (2025-12-23 08:09:22)</span><span style="padding-right:50px;">Novo Nordisk said it plans to start selling the new pill in the U.S. soon after the new year, with a cash price of $149 a month for the starting dose. on.wsj.com/4p4e1v1 <a href="https://bsky.app/profile/wsj.com/post/3mame4bvp7k2q" target="_blank">wsj.com</a> (2025-12-23 08:09:21)</span><span style="padding-right:50px;">BREAKING: The US Food and Drug Administration approved Novo Nordisk's weight-loss pill, giving the Danish drugmaker a leg up in the race to market a potent oral medication for shedding pounds as it looks to regain lost ground from rival Eli Lilly reut.rs/49mUYrc <a href="https://bsky.app/profile/reuters.com/post/3mame2u7aws2d" target="_blank">reuters.com</a> (2025-12-23 08:08:34)</span><span style="padding-right:50px;">トランプ米大統領は２２日、海軍が新型戦艦の建造を開始する計画だと発表した。これまでで最も大型で高速、かつ１００倍の威力を持つ新しいクラスになるという。 bit.ly/498FTs6 <a href="https://bsky.app/profile/japan.reuters.com/post/3mame2qi4zw2v" target="_blank">japan.reuters.com</a> (2025-12-23 08:08:30)</span><span style="padding-right:50px;">ウクライナのゼレンスキー大統領は２２日、ロシアとの戦争終結に向けた米国、欧州諸国との交渉は「真の結果に非常に近づいている」と述べた。 bit.ly/48RmNb5 <a href="https://bsky.app/profile/japan.reuters.com/post/3mamdwt2omn2q" target="_blank">japan.reuters.com</a> (2025-12-23 08:06:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.02 (🔻0.73 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.98 (🔻0.03 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,100 +32,94 @@
 
 ## News Headlines
 
-- US Unveils 'Trump Class' of Navy Battleships, Calling Them Superior War Vessels
-- UK Exporters Dissatisfied with EU Trade Terms, Survey Finds
-- Japan to Build Facility to Process Rare Earth Mud from Seafloor
-- Judge Declares Mistrial in Case of Former Aide to New York Governors
-- Spot Gold Hits Record High Amid Global Economic Uncertainty
-- Trump Announces Plans for New Navy Battleships, Calling Them 'Golden Fleet'
+- Trump Administration Suspends Leases to Five US Wind Farms
+- US FDA Approves Novo Nordisk's Weight-Loss Pill
+- Novo Nordisk to Sell New Weight-Loss Pill in the US Next Year
+- Trump Unveils Plans for New Class of Navy Battleships
+- US Judge Blocks Trump Administration from Re-Detaining Migrant
+- UK Exporters Dissatisfied with EU Trade Terms: Survey
 
 
 ----
 
-@cnn.com
+@wsj.com
 
-President Donald Trump has unveiled a new “Trump class” of Navy battleships, describing them as a superior war fighting vessel to replace an “old and tired and obsolete” US fleet: https://cnn.it/3N0fp4x
+Read a selection of essays from the Journal’s ‘Masterpiece’ column, now celebrating its 20th anniversary. on.wsj.com/3YEErbU
 
-[2025-12-23 07:48:32](https://bsky.app/profile/cnn.com/post/3mamcx2cq3c2u)
-
----
-
-@financialtimes.com
-
-UK exporters increasingly dissatisfied with EU trade terms, survey finds ft.trib.al/V6KvH8K
-
-[2025-12-23 07:48:30](https://bsky.app/profile/financialtimes.com/post/3mamcwy652y2q)
-
----
-
-@nikkei.com
-
-南鳥島にレアアース泥の処理施設　内閣府、国産確保へ実証試験
-www.nikkei.com/article/DGXZQO...
-
-海底で回収した泥水から海水を抜く施設を2027年までに設置。
-
-泥の塊を日本本土で改めて分離・精錬する計画です。
-
-レアアースは世界の生産量の7割を中国が占めています。
-
-[2025-12-23 07:46:40](https://bsky.app/profile/nikkei.com/post/3mamctotzif2i)
-
----
-
-@japan.reuters.com
-
-片山さつき財務相は２２日のブルームバーグのインタビューで、植田和男日銀総裁の１９日の記者会見後に進んだ円安について「非常に短い時間での動き。完全にファンダメンタルズではなくて投機だ」と指摘し、このような動きに対し、９月の日米財務相共同声明に基づき「断固として措置を取る、アクションを取るということを申し上げている」と述べた。 bit.ly/3YIbAU8
-
-[2025-12-23 07:46:39](https://bsky.app/profile/japan.reuters.com/post/3mamctoigdz2n)
-
----
-
-@reuters.com
-
-Japan has 'free hand' in dealing with excessive yen moves, finance minister tells Bloomberg reut.rs/44CFM6O
-
-[2025-12-23 07:45:15](https://bsky.app/profile/reuters.com/post/3mamcr6dkbd24)
-
----
-
-@cnn.com
-
-A judge has declared a mistrial in the corruption case of a former aide to New York governors after jurors said they were deadlocked and couldn’t reach a verdict on charges she sold her influence to China and profited from a medical equipment scheme during the pandemic. https://cnn.it/3Y4OgzQ
-
-[2025-12-23 07:45:04](https://bsky.app/profile/cnn.com/post/3mamcqu6fjn2v)
-
----
-
-@japan.reuters.com
-
-中南米金融市場では、ペルー株が金・銅価格の上昇に支援され、過去最高値を付けた。一方、来年に選挙を控えるブラジルの国内情勢に注目が集まる中、レアルは下落した。投資家は地政学的緊張についても注視している。 bit.ly/44H72AX
-
-[2025-12-23 07:44:24](https://bsky.app/profile/japan.reuters.com/post/3mamcpntfrc2p)
-
----
-
-@reuters.com
-
-President Trump announced plans for the Navy to begin building a new class of battleship that he said would be larger, faster and more powerful than the biggest of any previous US-built warship reut.rs/48SO2C9
-
-[2025-12-23 07:43:23](https://bsky.app/profile/reuters.com/post/3mamcnuuf5k2d)
-
----
-
-@reuters.com
-
-LIVE: Trump, Hegseth to make an announcement from Florida youtube.com/live/4QYU_rk...
-
-[2025-12-23 07:43:23](https://bsky.app/profile/reuters.com/post/3mamcntqnls2d)
+[2025-12-23 08:09:22](https://bsky.app/profile/wsj.com/post/3mame4c47ad2k)
 
 ---
 
 @wsj.com
 
-The Trump administration abruptly recalled nearly 30 career ambassadors at U.S. embassies around the world, in a move that senior officials said is aimed at better aligning the State Department with the president’s foreign-policy agenda.
+Novo Nordisk said it plans to start selling the new pill in the U.S. soon after the new year, with a cash price of $149 a month for the starting dose. on.wsj.com/4p4e1v1
 
-[2025-12-23 07:42:24](https://bsky.app/profile/wsj.com/post/3mamcm2yeuf2h)
+[2025-12-23 08:09:21](https://bsky.app/profile/wsj.com/post/3mame4bvp7k2q)
+
+---
+
+@reuters.com
+
+<strong><span style="color: red;">BREAKING:</span> The US Food and Drug Administration approved Novo Nordisk's weight-loss pill, giving the Danish drugmaker a leg up in the race to market a potent oral medication for shedding pounds as it looks to regain lost ground from rival Eli Lilly reut.rs/49mUYrc</strong>
+
+[2025-12-23 08:08:34](https://bsky.app/profile/reuters.com/post/3mame2u7aws2d)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は２２日、海軍が新型戦艦の建造を開始する計画だと発表した。これまでで最も大型で高速、かつ１００倍の威力を持つ新しいクラスになるという。 bit.ly/498FTs6
+
+[2025-12-23 08:08:30](https://bsky.app/profile/japan.reuters.com/post/3mame2qi4zw2v)
+
+---
+
+@japan.reuters.com
+
+ウクライナのゼレンスキー大統領は２２日、ロシアとの戦争終結に向けた米国、欧州諸国との交渉は「真の結果に非常に近づいている」と述べた。 bit.ly/48RmNb5
+
+[2025-12-23 08:06:18](https://bsky.app/profile/japan.reuters.com/post/3mamdwt2omn2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+米議会下院で「台湾有事」答弁への中国側対応非難の決議案提出
+https://news.web.nhk/newsweb/na/na-k10015011071000
+
+[2025-12-23 08:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamdwftoss26)
+
+---
+
+@reuters.com
+
+Foster's sweet strike fires South Africa to 2-1 victory over Angola reut.rs/3Laj4Mu
+
+[2025-12-23 08:05:09](https://bsky.app/profile/reuters.com/post/3mamduqrrsx2y)
+
+---
+
+@japan.reuters.com
+
+大和証券グループ本社の荻野明彦社長は、２０３１年３月期のＭ＆Ａ（合併・買収）の関連収益を現在計画している７００億円から１０００億円へ上積みする方針を明らかにした。国境をまたぐクロスボーダーの案件への対応力を強化する。 bit.ly/4auLwDk
+
+[2025-12-23 08:02:52](https://bsky.app/profile/japan.reuters.com/post/3mamdqok6752q)
+
+---
+
+@japan.reuters.com
+
+パナマのマルティネスアチャ外相は２２日、米国が最近拿捕（だほ）したパナマ船籍のタンカーは同国の海事規則を順守しておらず、ベネズエラ領海から原油を積んで出航中にトランスポンダーを外していたと明らかにした。 bit.ly/4pcmqNh
+
+[2025-12-23 08:01:06](https://bsky.app/profile/japan.reuters.com/post/3mamdnjfavg2v)
+
+---
+
+@cnn.com
+
+An estimated $1.6 billion is up for grabs in Monday’s Powerball draw after the jackpot rolled over on Saturday.
+
+[2025-12-23 08:01:01](https://bsky.app/profile/cnn.com/post/3mamdnetggk2c)
 
 ---
 
