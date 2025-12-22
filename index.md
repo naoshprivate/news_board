@@ -1,9 +1,9 @@
-# [2025-12-23 06:10 updated](2025_12_23.md)
+# [2025-12-23 06:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米金融・債券市場では、国債利回りが上昇した。市場は年末を控え、様子見ムードが広がっている。 bit.ly/3LfuazV <a href="https://bsky.app/profile/japan.reuters.com/post/3mam5eibzxd2q" target="_blank">japan.reuters.com</a> (2025-12-23 06:08:41)</span><span style="padding-right:50px;">Spain's Christmas lottery sees residents of one town win 468 million euros <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mam5eezueh26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-23 06:08:37)</span><span style="padding-right:50px;">🛎️FLASHより【独自】です。  【独自】山本恵里伽アナ『報道特集』発言の余波…TBSが突き付けられた参政党の“出禁”通達「取材お断り」の異常事態【2025年の“炎上事件簿”】 (2025-12-23 06:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mam57fg5j42a" target="_blank">sokuho.news</a> (2025-12-23 06:05:50)</span><span style="padding-right:50px;">Italy to buy former nuclear site from Stellantis, statement says reut.rs/48TMBU4 <a href="https://bsky.app/profile/reuters.com/post/3mam56asqq724" target="_blank">reuters.com</a> (2025-12-23 06:05:11)</span><span style="padding-right:50px;">The Chiefs have played at Arrowhead Stadium in Missouri since 1972. <a href="https://bsky.app/profile/forbes.com/post/3mam55ztj7w2o" target="_blank">forbes.com</a> (2025-12-23 06:05:04)</span>
+<span style="padding-right:50px;">The Trump administration recalled more than two dozen career diplomats from ambassadorial and other senior posts worldwide as it seeks to enforce President Trump’s “America First” agenda, according to current and former U.S. officials. <a href="https://bsky.app/profile/washingtonpost.com/post/3mam6ggnjbf2e" target="_blank">washingtonpost.com</a> (2025-12-23 06:27:40)</span><span style="padding-right:50px;">Monkeys and turtles and sloths, oh my! Wildlife abounds in Metropolitan Natural Park,  the main green lung of Panama City and one of the few tropical forests in a Latin American capital. AFP's @MartinBernetti captured a howler monkey, slider turtles, 3-toed sloths -- and tourists at a viewpoint 🇵🇦 <a href="https://bsky.app/profile/en.afp.com/post/3mam6fedaa42f" target="_blank">en.afp.com</a> (2025-12-23 06:27:04)</span><span style="padding-right:50px;">就活エントリーシート 廃止の動きも AI利用で記述が似かよる https://news.web.nhk/newsweb/na/na-k10015010831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mam6fewqer2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 06:27:02)</span><span style="padding-right:50px;">The exit of more than a dozen staffers follows turmoil at Heritage and the larger conservative movement over the role of right-wing influencers who've promoted antisemitic and other extremist ideas. n.pr/4qeX9Te <a href="https://bsky.app/profile/npr.org/post/3mam6eoc7o72i" target="_blank">npr.org</a> (2025-12-23 06:26:41)</span><span style="padding-right:50px;">ニューヨーク外為市場では、円が対ドルで上昇した。政府・日銀による円買い・ドル売りの為替介入の実施が引き続き意識される中、三村淳財務官が「為替の一方向で急激な動き」を憂慮していると発言。日本当局が為替介入を実施する用意を示唆した可能性が高いとの見方が市場で広がった。 bit.ly/4p6sTJq <a href="https://bsky.app/profile/japan.reuters.com/post/3mam6ejsbc327" target="_blank">japan.reuters.com</a> (2025-12-23 06:26:36)</span>
   </div>
 </div>
 
@@ -32,96 +32,98 @@
 
 ## News Headlines
 
-- Japan Bond Yield Rises Amid Year-End Market Caution
-- Spanish Town Wins 468 Million Euros in Christmas Lottery
-- Italy to Purchase Former Nuclear Site from Stellantis
-- Tyson Foods to Close Beef Plant in Nebraska, Lay Off 3,200 Workers
-- US Defense Report Suggests China Has Deployed Over 100 ICBMs in Underground Silos
-- US Interior Department Halts Offshore Wind Energy Projects Over National Security Concerns
+- U.S. Diplomats Recalled in Bid to Enforce Trump's 'America First' Agenda
+- Wildlife Abounds in Panama City's Metropolitan Natural Park
+- Heritage Staffers Exit Amid Turmoil Over Right-Wing Influencers
+- Japanese Yen Rises Against Dollar Amid Speculation of Intervention
+- IMF Reports Slight Decline in U.S. Dollar's Share of Global Reserves
+- Gun Safety Group Introduces Firearms Training Classes Amid Backlash
 
 
 ----
 
-@japan.reuters.com
+@washingtonpost.com
 
-米金融・債券市場では、国債利回りが上昇した。市場は年末を控え、様子見ムードが広がっている。 bit.ly/3LfuazV
+The Trump administration recalled more than two dozen career diplomats from ambassadorial and other senior posts worldwide as it seeks to enforce President Trump’s “America First” agenda, according to current and former U.S. officials.
 
-[2025-12-23 06:08:41](https://bsky.app/profile/japan.reuters.com/post/3mam5eibzxd2q)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Spain's Christmas lottery sees residents of one town win 468 million euros
-
-[2025-12-23 06:08:37](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mam5eezueh26)
+[2025-12-23 06:27:40](https://bsky.app/profile/washingtonpost.com/post/3mam6ggnjbf2e)
 
 ---
 
-@sokuho.news
+@en.afp.com
 
-🛎️FLASHより【独自】です。
+Monkeys and turtles and sloths, oh my!
+Wildlife abounds in Metropolitan Natural Park,  the main green lung of Panama City and one of the few tropical forests in a Latin American capital. AFP's @MartinBernetti captured a howler monkey, slider turtles, 3-toed sloths -- and tourists at a viewpoint
+🇵🇦
 
-【独自】山本恵里伽アナ『報道特集』発言の余波…TBSが突き付けられた参政党の“出禁”通達「取材お断り」の異常事態【2025年の“炎上事件簿”】
-(2025-12-23 06:00) #ニュース
-
-[2025-12-23 06:05:50](https://bsky.app/profile/sokuho.news/post/3mam57fg5j42a)
-
----
-
-@reuters.com
-
-Italy to buy former nuclear site from Stellantis, statement says reut.rs/48TMBU4
-
-[2025-12-23 06:05:11](https://bsky.app/profile/reuters.com/post/3mam56asqq724)
+[2025-12-23 06:27:04](https://bsky.app/profile/en.afp.com/post/3mam6fedaa42f)
 
 ---
 
-@forbes.com
+@nhknewsunofficial.bsky.social
 
-The Chiefs have played at Arrowhead Stadium in Missouri since 1972.
+就活エントリーシート 廃止の動きも AI利用で記述が似かよる
+https://news.web.nhk/newsweb/na/na-k10015010831000
 
-[2025-12-23 06:05:04](https://bsky.app/profile/forbes.com/post/3mam55ztj7w2o)
-
----
-
-@wsj.com
-
-Amtrak will probably have to idle some of the new trains it is rolling out because the railroad’s maintenance facilities won’t be upgraded in time
-
-[2025-12-23 06:02:25](https://bsky.app/profile/wsj.com/post/3mam4zc2pro2h)
+[2025-12-23 06:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mam6fewqer2d)
 
 ---
 
-@apnews.com
+@npr.org
 
-Tyson Foods is closing its beef plant in Lexington, Nebraska, laying off 3,200 workers next month in a town of just 11,000.
+The exit of more than a dozen staffers follows turmoil at Heritage and the larger conservative movement over the role of right-wing influencers who've promoted antisemitic and other extremist ideas. n.pr/4qeX9Te
 
-[2025-12-23 06:01:23](https://bsky.app/profile/apnews.com/post/3mam4xgursw2q)
-
----
-
-@reuters.com
-
-At least two civilians killed in Aleppo violence as Syrian government, SDF trade blame reut.rs/49cbJnR
-
-[2025-12-23 06:01:21](https://bsky.app/profile/reuters.com/post/3mam4xfisk72s)
+[2025-12-23 06:26:41](https://bsky.app/profile/npr.org/post/3mam6eoc7o72i)
 
 ---
 
 @japan.reuters.com
 
-米国防総省の報告書草案から、中国が３カ所のサイロ（地下式ミサイル格納施設）に１００基以上の大陸間弾道ミサイル（ＩＣＢＭ）を配備している可能性が高いことが明らかとなった。中国は軍備管理協議の意向も示していないとみられ、同国の軍事的野心の高まりが改めて浮き彫りとなった。 bit.ly/3L4F1wC
+ニューヨーク外為市場では、円が対ドルで上昇した。政府・日銀による円買い・ドル売りの為替介入の実施が引き続き意識される中、三村淳財務官が「為替の一方向で急激な動き」を憂慮していると発言。日本当局が為替介入を実施する用意を示唆した可能性が高いとの見方が市場で広がった。 bit.ly/4p6sTJq
 
-[2025-12-23 06:01:19](https://bsky.app/profile/japan.reuters.com/post/3mam4xdaemw2p)
+[2025-12-23 06:26:36](https://bsky.app/profile/japan.reuters.com/post/3mam6ejsbc327)
 
 ---
 
-@cnn.com
+@reuters.com
 
-More than a dozen Jeffrey Epstein survivors — along with family members of the late victim Virginia Giuffre — raised a myriad of concerns in a new statement: https://cnn.it/44AE8m8
+Wall Street advances with broad gains, tech gains continue reut.rs/4jdKRZa
 
-[2025-12-23 06:01:07](https://bsky.app/profile/cnn.com/post/3mam4wxqwvt2v)
+[2025-12-23 06:25:08](https://bsky.app/profile/reuters.com/post/3mam6bvwdej2r)
+
+---
+
+@legal.reuters.com
+
+<strong><span style="color: red;">JUST IN:</span> Democratic-led states sue to block US consumer watchdog's defunding under Trump reut.rs/4b0NUlg</strong>
+
+[2025-12-23 06:22:56](https://bsky.app/profile/legal.reuters.com/post/3mam65xsbb22r)
+
+---
+
+@japan.reuters.com
+
+国際通貨基金（ＩＭＦ）が１９日公表したデータによると、ＩＭＦに報告された２０２５年第３・四半期の外貨準備に米ドルが占める比率は５６．９２％と、第２・四半期の５７．０８％から小幅低下した。一方、ユーロ建て準備金が占める割合は２０．３３％と第２・四半期の２０．２４％から小幅上昇した。 bit.ly/4jauyMJ
+
+[2025-12-23 06:20:23](https://bsky.app/profile/japan.reuters.com/post/3mam5zgk77e2u)
+
+---
+
+@cbsnews.com
+
+When the advocacy group Everytown for Gun Safety announced it would introduce a new array of firearms training classes, it caught some longtime supporters off guard.
+
+
+[2025-12-23 06:20:01](https://bsky.app/profile/cbsnews.com/post/3mam5yr7odw2g)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+NY外国為替市場 円相場 一時1ドル156円台後半まで値上がり
+https://news.web.nhk/newsweb/na/na-k10015011061000
+
+[2025-12-23 06:18:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mam5vgbbri2b)
 
 ---
 
