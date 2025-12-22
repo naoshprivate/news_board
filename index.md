@@ -1,9 +1,9 @@
-# [2025-12-22 23:10 updated](2025_12_22.md)
+# [2025-12-22 23:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Court documents reveal what police say were the movements and motivation of the Bondi Beach terror suspects in the months, days and minutes before the attack. <a href="https://bsky.app/profile/wsj.com/post/3malfsnrlt72h" target="_blank">wsj.com</a> (2025-12-22 23:07:06)</span><span style="padding-right:50px;">Paramount revises its bid for Warner Bros. Discovery, with Oracle founder Larry Ellison personally guaranteeing $40 billion to help finance the deal https://cnn.it/4pbpxoH <a href="https://bsky.app/profile/cnn.com/post/3malfsig3gr23" target="_blank">cnn.com</a> (2025-12-22 23:07:01)</span><span style="padding-right:50px;">European investment banks fail to capitalise on Trump Tariff turmoil reut.rs/4qmdQfI <a href="https://bsky.app/profile/reuters.com/post/3malfp6zoqo2o" target="_blank">reuters.com</a> (2025-12-22 23:05:10)</span><span style="padding-right:50px;">President Trump’s appointment of a special envoy for Greenland drew an angry response from Denmark and reignited its concerns about U.S. efforts to control the strategic Arctic territory. <a href="https://bsky.app/profile/wsj.com/post/3malfoblvdy2e" target="_blank">wsj.com</a> (2025-12-22 23:04:39)</span><span style="padding-right:50px;">A northern English town loses its best choral singers to fighting in World War I but finds new hope in a time of loss through music in Nicholas Hytner's new film "The Choral," featuring Ralph Fiennes. n.pr/496WPiy <a href="https://bsky.app/profile/npr.org/post/3malfo7iutn24" target="_blank">npr.org</a> (2025-12-22 23:04:37)</span>
+<span style="padding-right:50px;">米連邦準備理事会（ＦＲＢ）のミラン理事は２２日、近い将来における景気後退リスクはみられないとしつつも、「金利を下方に調整しなければ、景気後退リスクが高まる」という認識を示した。 bit.ly/491cy2B <a href="https://bsky.app/profile/japan.reuters.com/post/3malgwakq7i27" target="_blank">japan.reuters.com</a> (2025-12-22 23:27:00)</span><span style="padding-right:50px;">Hours before airtime on Sunday, CBS News' "60 Minutes" held a planned story on President Donald Trump's deportation policy at the order of the network's new editor-in-chief, Bari Weiss. <a href="https://bsky.app/profile/apnews.com/post/3malgucu5b22k" target="_blank">apnews.com</a> (2025-12-22 23:25:56)</span><span style="padding-right:50px;">Glencore buys majority stake in Dutch fuel company FincoEnergies reut.rs/4p3mZIZ <a href="https://bsky.app/profile/reuters.com/post/3malgstwrwe24" target="_blank">reuters.com</a> (2025-12-22 23:25:07)</span><span style="padding-right:50px;">Why the 2025 stock market rally can continue in 2026, according to UBS <a href="https://bsky.app/profile/cnbc.com/post/3malgscl52l2d" target="_blank">cnbc.com</a> (2025-12-22 23:24:48)</span><span style="padding-right:50px;">Is it a function of including weaker teams—or is it hopeless to expect this sport to deliver March Madness? on.wsj.com/493K3kW <a href="https://bsky.app/profile/wsj.com/post/3malgkzp62r2u" target="_blank">wsj.com</a> (2025-12-22 23:20:44)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.17 (🔻0.58 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48220.22 (🔺8.34 : 2025-12-22)</span><span style="padding-right:50px;">^IXIC: Error</span><span style="padding-right:50px;">NVIDIA: 183.76 (🔻0.16 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.96 (🔻0.79 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,98 +32,93 @@
 
 ## News Headlines
 
-- Bondi Beach Terror Suspects' Motivation and Movements Revealed
-- Trump Appoints Special Envoy to Greenland, Spurring Tensions with Denmark
-- US Pauses Five Offshore Wind Projects Over National Security Concerns
-- Larry Ellison Backs Warner Bros. Discovery Bid with $40 Billion Guarantee
-- European Regulators Crack Down on Big Tech
-- Swiss Court to Hear Landmark Climate Case Involving Indonesian Island
+- Fed Official Says Interest Rate Cut Could Mitigate Recession Risk
+- CBS News Pulls Segment on Trump Administration's Deportations
+- Glencore Acquires Majority Stake in Dutch Fuel Company FincoEnergies
+- Trump's Appointment of Special Envoy to Greenland Sparks Tensions with Denmark
+- Afreximbank, Heirs Energies Seal $750 Million Financing Deal for Nigeria's Oil and Gas Output
+- Power Restored for Many in San Francisco After Widespread Outage
 
 
 ----
+
+@japan.reuters.com
+
+米連邦準備理事会（ＦＲＢ）のミラン理事は２２日、近い将来における景気後退リスクはみられないとしつつも、「金利を下方に調整しなければ、景気後退リスクが高まる」という認識を示した。 bit.ly/491cy2B
+
+[2025-12-22 23:27:00](https://bsky.app/profile/japan.reuters.com/post/3malgwakq7i27)
+
+---
+
+@apnews.com
+
+Hours before airtime on Sunday, CBS News' "60 Minutes" held a planned story on President Donald Trump's deportation policy at the order of the network's new editor-in-chief, Bari Weiss.
+
+[2025-12-22 23:25:56](https://bsky.app/profile/apnews.com/post/3malgucu5b22k)
+
+---
+
+@reuters.com
+
+Glencore buys majority stake in Dutch fuel company FincoEnergies reut.rs/4p3mZIZ
+
+[2025-12-22 23:25:07](https://bsky.app/profile/reuters.com/post/3malgstwrwe24)
+
+---
+
+@cnbc.com
+
+Why the 2025 stock market rally can continue in 2026, according to UBS
+
+[2025-12-22 23:24:48](https://bsky.app/profile/cnbc.com/post/3malgscl52l2d)
+
+---
+
+@wsj.com
+
+Is it a function of including weaker teams—or is it hopeless to expect this sport to deliver March Madness? on.wsj.com/493K3kW
+
+[2025-12-22 23:20:44](https://bsky.app/profile/wsj.com/post/3malgkzp62r2u)
+
+---
+
+@financialtimes.com
+
+ Middle powers face a new age of uncertainty ft.trib.al/VpLN7lj  | opinion
+
+[2025-12-22 23:16:12](https://bsky.app/profile/financialtimes.com/post/3malgcwcsxn2f)
+
+---
+
+@reuters.com
+
+China economy grew below 3% in 2025, half of official target, think tank estimates reut.rs/4b01w03
+
+[2025-12-22 23:15:12](https://bsky.app/profile/reuters.com/post/3malgb4ly5e2i)
+
+---
+
+@cnbc.com
+
+Asset manager Janus Henderson gets bought by Trian, General Catalyst for $7.4 billion
+
+[2025-12-22 23:14:55](https://bsky.app/profile/cnbc.com/post/3malgamj6eq24)
+
+---
+
+@reuters.com
+
+Indian central bank net sold $11.88 billion in October to arrest rupee's fall, bulletin shows reut.rs/4jbi8UW
+
+[2025-12-22 23:10:13](https://bsky.app/profile/reuters.com/post/3malfy7v3kn2r)
+
+---
 
 @wsj.com
 
 Court documents reveal what police say were the movements and motivation of the Bondi Beach terror suspects in the months, days and minutes before the attack.
 
 [2025-12-22 23:07:06](https://bsky.app/profile/wsj.com/post/3malfsnrlt72h)
-
----
-
-@cnn.com
-
-Paramount revises its bid for Warner Bros. Discovery, with Oracle founder Larry Ellison personally guaranteeing $40 billion to help finance the deal
-https://cnn.it/4pbpxoH
-
-[2025-12-22 23:07:01](https://bsky.app/profile/cnn.com/post/3malfsig3gr23)
-
----
-
-@reuters.com
-
-European investment banks fail to capitalise on Trump Tariff turmoil reut.rs/4qmdQfI
-
-[2025-12-22 23:05:10](https://bsky.app/profile/reuters.com/post/3malfp6zoqo2o)
-
----
-
-@wsj.com
-
-President Trump’s appointment of a special envoy for Greenland drew an angry response from Denmark and reignited its concerns about U.S. efforts to control the strategic Arctic territory.
-
-[2025-12-22 23:04:39](https://bsky.app/profile/wsj.com/post/3malfoblvdy2e)
-
----
-
-@npr.org
-
-A northern English town loses its best choral singers to fighting in World War I but finds new hope in a time of loss through music in Nicholas Hytner's new film "The Choral," featuring Ralph Fiennes. n.pr/496WPiy
-
-[2025-12-22 23:04:37](https://bsky.app/profile/npr.org/post/3malfo7iutn24)
-
----
-
-@nikkei.com
-
-対シリアODA、15年ぶり再開へ　生活インフラ再建を後押し
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-12-22 23:04:02](https://bsky.app/profile/nikkei.com/post/3malfn6fdnb2m)
-
----
-
-@cnn.com
-
-They are still the rarest of Republicans – those who have spoken out and stood up to President Donald Trump over the past year, willfully saying something he rarely hears: No.
-https://cnn.it/4ap0Ukz
-
-[2025-12-22 23:00:54](https://bsky.app/profile/cnn.com/post/3malfhkry222o)
-
----
-
-@washingtonpost.com
-
-CBS News abruptly pulled a “60 Minutes” segment on the Trump administration’s deportations of Venezuelan migrants to El Salvador’s CECOT prison after the Trump administration refused to grant an interview, according to an email obtained by The Post.
-
-[2025-12-22 23:00:53](https://bsky.app/profile/washingtonpost.com/post/3malfhjtfxy25)
-
----
-
-@reuters.com
-
-Afreximbank, Heirs Energies seal $750 million financing deal to boost Nigeria's oil and gas output reut.rs/3YClAhM
-
-[2025-12-22 23:00:47](https://bsky.app/profile/reuters.com/post/3malfhdyckd24)
-
----
-
-@japan.reuters.com
-
-東南アジア諸国連合（ＡＳＥＡＮ）は２２日、議長国マレーシアの首都クアラルンプールで臨時外相会合を開き、タイとカンボジアの国防当局者が両国間の停戦の再開について２４日に協議することを決めた。タイのシーハサック外相が記者会見で明らかにした。 bit.ly/4j9WS1z
-
-[2025-12-22 23:00:29](https://bsky.app/profile/japan.reuters.com/post/3malfgsxxoj2c)
 
 ---
 
