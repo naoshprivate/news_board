@@ -1,9 +1,9 @@
-# [2025-12-23 04:30 updated](2025_12_23.md)
+# [2025-12-23 04:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Women at last weekend's Turning Point USA "AmericaFest" conference attendees in Phoenix say the organization is back stronger — and resonating with women — following co-founder Charlie Kirk’s assassination. <a href="https://bsky.app/profile/npr.org/post/3malxnxlsb22p" target="_blank">npr.org</a> (2025-12-23 04:26:36)</span><span style="padding-right:50px;">Lechon Kawali, a dish of crispy deep-fried pork belly, is served in the Philippines for special occasions. Don’t skip the garlicky vinegar sauce for dipping.  nyti.ms/44z2WLb <a href="https://bsky.app/profile/nytimes.com/post/3malxn32ynt2y" target="_blank">nytimes.com</a> (2025-12-23 04:26:06)</span><span style="padding-right:50px;">Chris Rea, singer of 'Driving Home for Christmas', dies at 74 reut.rs/3KUVoMd <a href="https://bsky.app/profile/reuters.com/post/3malxlehurc2y" target="_blank">reuters.com</a> (2025-12-23 04:25:09)</span><span style="padding-right:50px;">From @theathletic.com: Uncomfortable Instagram messages with women and emotional outbursts with staff paint a picture of a coach who had become increasingly volatile. nyti.ms/4p6WFxK <a href="https://bsky.app/profile/nytimes.com/post/3malxe46pz52b" target="_blank">nytimes.com</a> (2025-12-23 04:21:05)</span><span style="padding-right:50px;">米連邦準備理事会（ＦＲＢ）のミラン理事は２２日、近い将来における景気後退リスクはみられないとしつつも、「金利を下方に調整しなければ、景気後退リスクが高まる」という認識を示した。 bit.ly/3L9ZqQK <a href="https://bsky.app/profile/japan.reuters.com/post/3malxdekm4r2q" target="_blank">japan.reuters.com</a> (2025-12-23 04:20:41)</span>
+<span style="padding-right:50px;">Norway's McGrath wins men's slalom in Alta Badia reut.rs/3Y5vcS7 <a href="https://bsky.app/profile/reuters.com/post/3malypbq53r2r" target="_blank">reuters.com</a> (2025-12-23 04:45:14)</span><span style="padding-right:50px;">If you’ve procrastinated in buying a gift, don’t panic. These great last-minute finds from Wirecutter can be picked up in minutes or be delivered straight to their doorstep in two days or less. <a href="https://bsky.app/profile/nytimes.com/post/3malyoyy2em2y" target="_blank">nytimes.com</a> (2025-12-23 04:45:05)</span><span style="padding-right:50px;">The charts show a possible breakout in this insurance stock, says Katie Stockton <a href="https://bsky.app/profile/cnbc.com/post/3malyoaamip2b" target="_blank">cnbc.com</a> (2025-12-23 04:44:39)</span><span style="padding-right:50px;">シンクタンクのロジウム・グループは、中国経済の２０２５年の成長率は２．５─３％にとどまったとの推計を発表した。これは公式データが示唆するペースのほぼ半分となる。年後半の固定資産投資の落ち込みが響いたという。 bit.ly/3MN5j77 <a href="https://bsky.app/profile/japan.reuters.com/post/3malygjswyd2c" target="_blank">japan.reuters.com</a> (2025-12-23 04:40:21)</span><span style="padding-right:50px;">Coinbase doubles down on prediction markets with deal for The Clearing Company reut.rs/4s5Ir2V <a href="https://bsky.app/profile/reuters.com/post/3malygiu5y32i" target="_blank">reuters.com</a> (2025-12-23 04:40:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48373.88 (🔺162.00 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23433.56 (🔻16.97 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.43 (🔻0.49 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.97 (🔻0.78 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48387.82 (🔺175.94 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23430.97 (🔻19.56 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.35 (🔻0.57 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.95 (🔻0.80 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,93 +32,124 @@
 
 ## News Headlines
 
-- Turning Point USA 'back stronger' after co-founder Charlie Kirk's assassination
-- US President Trump Rapidly Reshapes Climate and Energy Landscape in First Year Back in Office
-- Gold Prices Soar Above $4,400 to Reach New All-Time High
-- Waymo Resumes San Francisco Service After Power Outage Pause
-- US Trade Policy Shifts Towards Re-Industrialisation, Working According to US Trade Representative
-- US to Disclose Approvals of Nvidia H200 China Licenses as Lawmakers Demand Transparency
+- Norway's McGrath wins men's slalom in Alta Badia
+- Last-minute gift ideas from Wirecutter
+- China's 2025 economic growth rate estimated at 2.5-3%
+- Coinbase acquires The Clearing Company for prediction markets
+- Trump's appointment of Greenland envoy sparks row with Denmark
+- Banksy unveils new artwork in central London
+- Mercedes reaches $150 million settlement with US states over diesel scandal
+- Powerful tax-free investment option for people with disabilities
+- Oil loading in Venezuela slows due to US interceptions
+- Maury Povich on his return to fame
+- Mid-Atlantic residents face high electricity bills
+- Russia escalates attacks on key Ukrainian region of Odesa
+- Turning Point USA resonates with women after Charlie Kirk's assassination
+- Popular Filipino dish Lechon Kawali
+- Chris Rea, singer of 'Driving Home for Christmas', dies at 74
+- Uncomfortable Instagram messages and emotional outbursts paint picture of coach
+- Feds see low risk of near-term recession
+- UK's Reeves sets March 3 as date for next economic forecasts
+- Viewing line for Monday night's game stretches to Minnesota-Iowa border
+- President Trump reshapes America's climate and energy landscape
+- London stock market ends mixed
+- NYSE's Jay Woods on 'Magnificent Seven' stock breaking out
+- Preppy brand becomes one of today's most coveted
+- Alphabet to buy clean energy developer Intersect
+- Barry Manilow diagnosed with lung cancer
+- Mexico antitrust commission to revise Volaris-Viva Aerobus tie-up
+- How to play Connections
+- Crypto laments loss of key ally on Capitol Hill
+- Man arrested for fatal bow and arrow shooting in New Jersey
+- AI spending drives global tech debt issuance to record high
+- CBS pulls 60 Minutes segment
+- Child psychologist reveals key to raising emotionally intelligent kids
+- Cancellation of USAID funding leaves victims vulnerable in Congo
+- Copper supply needed for green energy and AI boom
 
 
 ----
 
-@npr.org
-
-Women at last weekend's Turning Point USA "AmericaFest" conference attendees in Phoenix say the organization is back stronger — and resonating with women — following co-founder Charlie Kirk’s assassination.
-
-[2025-12-23 04:26:36](https://bsky.app/profile/npr.org/post/3malxnxlsb22p)
-
----
-
-@nytimes.com
-
-Lechon Kawali, a dish of crispy deep-fried pork belly, is served in the Philippines for special occasions. Don’t skip the garlicky vinegar sauce for dipping.  nyti.ms/44z2WLb
-
-[2025-12-23 04:26:06](https://bsky.app/profile/nytimes.com/post/3malxn32ynt2y)
-
----
-
 @reuters.com
 
-Chris Rea, singer of 'Driving Home for Christmas', dies at 74 reut.rs/3KUVoMd
+Norway's McGrath wins men's slalom in Alta Badia reut.rs/3Y5vcS7
 
-[2025-12-23 04:25:09](https://bsky.app/profile/reuters.com/post/3malxlehurc2y)
+[2025-12-23 04:45:14](https://bsky.app/profile/reuters.com/post/3malypbq53r2r)
 
 ---
 
 @nytimes.com
 
-From @theathletic.com: Uncomfortable Instagram messages with women and emotional outbursts with staff paint a picture of a coach who had become increasingly volatile. nyti.ms/4p6WFxK
+If you’ve procrastinated in buying a gift, don’t panic. These great last-minute finds from Wirecutter can be picked up in minutes or be delivered straight to their doorstep in two days or less.
 
-[2025-12-23 04:21:05](https://bsky.app/profile/nytimes.com/post/3malxe46pz52b)
+[2025-12-23 04:45:05](https://bsky.app/profile/nytimes.com/post/3malyoyy2em2y)
+
+---
+
+@cnbc.com
+
+The charts show a possible breakout in this insurance stock, says Katie Stockton
+
+[2025-12-23 04:44:39](https://bsky.app/profile/cnbc.com/post/3malyoaamip2b)
 
 ---
 
 @japan.reuters.com
 
-米連邦準備理事会（ＦＲＢ）のミラン理事は２２日、近い将来における景気後退リスクはみられないとしつつも、「金利を下方に調整しなければ、景気後退リスクが高まる」という認識を示した。 bit.ly/3L9ZqQK
+シンクタンクのロジウム・グループは、中国経済の２０２５年の成長率は２．５─３％にとどまったとの推計を発表した。これは公式データが示唆するペースのほぼ半分となる。年後半の固定資産投資の落ち込みが響いたという。 bit.ly/3MN5j77
 
-[2025-12-23 04:20:41](https://bsky.app/profile/japan.reuters.com/post/3malxdekm4r2q)
-
----
-
-@financialtimes.com
-
-Opinion: American trade policy is geared towards re-industrialisation, and it's working, writes US trade representative Jamieson Greer. ft.trib.al/ggI3PZW
-
-[2025-12-23 04:15:45](https://bsky.app/profile/financialtimes.com/post/3malx2kmxqk2k)
+[2025-12-23 04:40:21](https://bsky.app/profile/japan.reuters.com/post/3malygjswyd2c)
 
 ---
 
 @reuters.com
 
-UK's Reeves sets March 3 as date for next economic forecasts reut.rs/4jds2FF
+Coinbase doubles down on prediction markets with deal for The Clearing Company reut.rs/4s5Ir2V
 
-[2025-12-23 04:15:17](https://bsky.app/profile/reuters.com/post/3malwzq7erg23)
-
----
-
-@forbes.com
-
-Monday night’s curved viewing line nearly stretches to the border of Minnesota and Iowa.
-
-[2025-12-23 04:15:03](https://bsky.app/profile/forbes.com/post/3malwzcompg2s)
+[2025-12-23 04:40:20](https://bsky.app/profile/reuters.com/post/3malygiu5y32i)
 
 ---
 
-@nytimes.com
+@nbcnews.com
 
-In his first year back in office, President Trump has rapidly reshaped America’s climate and energy landscape. Here's how.
+@nbcselect.nbcnews.com rounded up the best holiday gifts that will still arrive in time.
 
-[2025-12-23 04:15:02](https://bsky.app/profile/nytimes.com/post/3malwzbwiik2z)
+[2025-12-23 04:40:16](https://bsky.app/profile/nbcnews.com/post/3malygfrd442k)
 
 ---
 
-@japan.reuters.com
+@bbcnews-world-rss.bsky.social
 
-週明けロンドン株式市場はまちまちで取引を終えた。２０２５年第３・四半期の英国内総生産（ＧＤＰ）の伸びが低調だったことを受け、ＦＴＳＥ１００種は４営業日ぶりに反落。一方、国内志向の強い中型株で構成するＦＴＳＥ２５０種指数は０．１３％上昇した。 bit.ly/4je5HaT
+Trump's appointment of Greenland envoy sparks fresh row with Denmark
 
-[2025-12-23 04:14:57](https://bsky.app/profile/japan.reuters.com/post/3malwz4xkvz2p)
+[2025-12-23 04:38:23](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3malyd2bvho2a)
+
+---
+
+@en.afp.com
+
+British street artist Banksy unveils his latest work in central London, amid speculation over an identical second black and white mural which has appeared elsewhere in the city
+🇬🇧 🧑🏼
+
+u.afp.com/S8Nk
+
+[2025-12-23 04:38:01](https://bsky.app/profile/en.afp.com/post/3malyceqgf72v)
+
+---
+
+@cnn.com
+
+Singer Barry Manilow has been diagnosed with lung cancer and is rescheduling his January arena concerts https://cnn.it/44EOeSS
+
+[2025-12-23 04:36:32](https://bsky.app/profile/cnn.com/post/3maly7pppzw2c)
+
+---
+
+@reuters.com
+
+Mercedes reaches $150 million settlement with US states over diesel scandal reut.rs/49ubTXZ
+
+[2025-12-23 04:35:11](https://bsky.app/profile/reuters.com/post/3maly5cknet2s)
 
 ---
 
