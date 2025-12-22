@@ -1,9 +1,9 @@
-# [2025-12-23 01:30 updated](2025_12_23.md)
+# [2025-12-23 01:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Hellcats — a retired Marine drill instructor, former Navy helicopter pilot, former Marine captain, and former Army special operations officer — are running for Congress in 2026. Democrats need to flip three Republican seats to win a House majority reut.rs/4pQsn3z <a href="https://bsky.app/profile/reuters.com/post/3malnoyufpc2c" target="_blank">reuters.com</a> (2025-12-23 01:28:14)</span><span style="padding-right:50px;">日本政府 バングラデシュとEPA締結で大筋合意 https://news.web.nhk/newsweb/na/na-k10015010891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malnmwirpk2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 01:27:02)</span><span style="padding-right:50px;">Immigrants living in the U.S. illegally will be paid $3,000 if they leave the country voluntarily by the end of the calendar year, a tripling of the “exit bonus” currently paid to those who self-deport. <a href="https://bsky.app/profile/wsj.com/post/3malnkcyhft2u" target="_blank">wsj.com</a> (2025-12-23 01:25:36)</span><span style="padding-right:50px;">Gold and silver soar in year-end rally reut.rs/497BKVa <a href="https://bsky.app/profile/reuters.com/post/3malnjhtqd62i" target="_blank">reuters.com</a> (2025-12-23 01:25:08)</span><span style="padding-right:50px;">"Indescribably delicious." The commenters have spoken, and they strongly recommend this recipe for rosemary white beans with frizzled onions and tomato. <a href="https://bsky.app/profile/nytimes.com/post/3malnfq32g32s" target="_blank">nytimes.com</a> (2025-12-23 01:23:02)</span>
+<span style="padding-right:50px;">Netanyahu government moves to shut down Israel's Army Radio station reut.rs/3KJdtgf <a href="https://bsky.app/profile/reuters.com/post/3malonef5bo2r" target="_blank">reuters.com</a> (2025-12-23 01:45:12)</span><span style="padding-right:50px;">Starbucks turnaround will take time. This options strategy works if shares remain range-bound <a href="https://bsky.app/profile/cnbc.com/post/3malohwoeuz24" target="_blank">cnbc.com</a> (2025-12-23 01:42:10)</span><span style="padding-right:50px;">Social media is taking us back to the Salem witch trials ft.trib.al/yIBC2HI <a href="https://bsky.app/profile/financialtimes.com/post/3malohlh2fr2q" target="_blank">financialtimes.com</a> (2025-12-23 01:41:58)</span><span style="padding-right:50px;">Mercedes reaches $120 million settlement with US states over emissions scandal reut.rs/44C2tYO <a href="https://bsky.app/profile/reuters.com/post/3maloehool32b" target="_blank">reuters.com</a> (2025-12-23 01:40:14)</span><span style="padding-right:50px;">From @theathletic.com: Five women told our reporters that they had strange or uncomfortable exchanges on Instagram with ex-Michigan coach Sherrone Moore as recently as last month and dating as far back as 2020. <a href="https://bsky.app/profile/nytimes.com/post/3maloe6vi3x2s" target="_blank">nytimes.com</a> (2025-12-23 01:40:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48384.06 (🔺172.18 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23444.23 (🔻6.30 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.53 (🔻0.39 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.94 (🔻0.81 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48370.29 (🔺158.41 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23440.60 (🔻9.93 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.49 (🔻0.43 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.91 (🔻0.84 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,116 +32,95 @@
 
 ## News Headlines
 
-- Retired Military Leaders Run for Congress in 2026
-- Japan and Bangladesh Agree on EPA Deal
-- US to Pay $3,000 to Undocumented Immigrants to Leave the Country
-- Gold and Silver Prices Soar in Year-End Rally
-- Former Oracle Co-Founder Offers $404 Billion Guarantee for Warner Bros. Acquisition
-- Israeli High-Tech Funding Reaches Nearly $16 Billion in 2025
-- Santa Claus Takes on Challenges to Deliver Gifts Around the World
-- Exclusive: Swimming-ISL Targets 2026 Relaunch After COVID, War Disruptions
-- Former Israeli Premier Calls for Netanyahu's Resignation Over Qatari Funding Allegations
-- Denmark's Foreign Minister Upset Over US Envoy's Comments on Greenland
-- US Watchdog Says Paycheck Advances No Longer Subject to Lending Law
-- Small Airport in Libya Becomes Vital Conduit for Weapons, Fuel, and Mercenaries
-- Five Good and Reasonably Priced Magnums for the Holidays
-- Hedge Funds Sell Healthcare Stocks After 14-Week Buying Spree
-- Exclusive: China Likely Loaded Over 100 ICBMs in Silo Fields, Pentagon Report Says
-- Trump Administration Details Events to Mark 250th Anniversary of Nation's Founding
-- Most Americans Don't Make End-of-Year Charitable Giving Plans
-- Clashes Break Out Between Syrian Army, Kurdish-Led SDF in Aleppo
-- Instacart Faces Criticism for AI-Based Pricing System
-- Trump Halts Wind Projects, Including Coastal Virginia Offshore Wind
-- China Confirms Talks Between Wingtech, Nexperia BV, Urges Further Negotiations
-- England Coach Brendon McCullum Wants to Stay in Job Despite Chastening Ashes Series Defeat
-- Russia Says It Has No Intention to Attack NATO or EU
-- Heritage Foundation Employees Walk Away from Jobs Amid Controversy
-- Daiwa to Raise M&A Revenue Target to 100 Billion Yen by 2031
-- Jimmy Kimmel to Deliver Alternative Christmas Message Against Fascism
-- NBA Pursues Ownership Groups for Potential Basketball League in Europe
-- Nvidia to Ship Advanced Chips to Chinese Customers in February
+- Netanyahu Government Moves to Shut Down Israel's Army Radio Station
+- Starbucks Turnaround Will Take Time
+- Social Media Taking Us Back to the Salem Witch Trials
+- Mercedes Reaches $120 Million Settlement with US States Over Emissions Scandal
+- Former US President Donald Trump May Nominate Next Fed Chairman by January
+- Russia Backs Venezuela Against US-Imposed Oil Blockade
 
 
 ----
 
 @reuters.com
 
-The Hellcats — a retired Marine drill instructor, former Navy helicopter pilot, former Marine captain, and former Army special operations officer — are running for Congress in 2026. Democrats need to flip three Republican seats to win a House majority reut.rs/4pQsn3z
+Netanyahu government moves to shut down Israel's Army Radio station reut.rs/3KJdtgf
 
-[2025-12-23 01:28:14](https://bsky.app/profile/reuters.com/post/3malnoyufpc2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-日本政府 バングラデシュとEPA締結で大筋合意
-https://news.web.nhk/newsweb/na/na-k10015010891000
-
-[2025-12-23 01:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malnmwirpk2s)
+[2025-12-23 01:45:12](https://bsky.app/profile/reuters.com/post/3malonef5bo2r)
 
 ---
 
-@wsj.com
+@cnbc.com
 
-Immigrants living in the U.S. illegally will be paid $3,000 if they leave the country voluntarily by the end of the calendar year, a tripling of the “exit bonus” currently paid to those who self-deport.
+Starbucks turnaround will take time. This options strategy works if shares remain range-bound
 
-[2025-12-23 01:25:36](https://bsky.app/profile/wsj.com/post/3malnkcyhft2u)
+[2025-12-23 01:42:10](https://bsky.app/profile/cnbc.com/post/3malohwoeuz24)
+
+---
+
+@financialtimes.com
+
+Social media is taking us back to the Salem witch trials ft.trib.al/yIBC2HI
+
+[2025-12-23 01:41:58](https://bsky.app/profile/financialtimes.com/post/3malohlh2fr2q)
 
 ---
 
 @reuters.com
 
-Gold and silver soar in year-end rally reut.rs/497BKVa
+Mercedes reaches $120 million settlement with US states over emissions scandal reut.rs/44C2tYO
 
-[2025-12-23 01:25:08](https://bsky.app/profile/reuters.com/post/3malnjhtqd62i)
+[2025-12-23 01:40:14](https://bsky.app/profile/reuters.com/post/3maloehool32b)
 
 ---
 
 @nytimes.com
 
-"Indescribably delicious." The commenters have spoken, and they strongly recommend this recipe for rosemary white beans with frizzled onions and tomato.
+From @theathletic.com: Five women told our reporters that they had strange or uncomfortable exchanges on Instagram with ex-Michigan coach Sherrone Moore as recently as last month and dating as far back as 2020.
 
-[2025-12-23 01:23:02](https://bsky.app/profile/nytimes.com/post/3malnfq32g32s)
-
----
-
-@npr.org
-
-The Department of Government Efficiency effort was one of the most consequential and controversial – if not entirely successful – changes the Trump administration made in 2025. n.pr/49mmmWd
-
-[2025-12-23 01:22:01](https://bsky.app/profile/npr.org/post/3malndv5npu2p)
+[2025-12-23 01:40:05](https://bsky.app/profile/nytimes.com/post/3maloe6vi3x2s)
 
 ---
 
-@yahoofinance.com
+@en.afp.com
 
-Nvidia dominated the headlines in 2025 — these were its 15 biggest events of the year
+🫏 Traffic stops and hallways clear as the diva -- a donkey named Wanda -- arrives at New York’s Met Opera for her star turn in “La Boheme”. 
+➡️ u.afp.com/S8p9
 
-[2025-12-23 01:21:07](https://bsky.app/profile/yahoofinance.com/post/3malncbhdb22s)
-
----
-
-@japan.reuters.com
-
-米オラクル共同創業者兼会長で富豪のラリー・エリソン氏は、メディア大手パラマウント・スカイダンスによる同業ワーナー・ブラザース・ディスカバリー（ＷＢＤ）買収提案を巡り、４０４億ドルの個人保証を提供する。２２日に当局に提出された文書から明らかになった。 bit.ly/3MHv0pL
-
-[2025-12-23 01:21:03](https://bsky.app/profile/japan.reuters.com/post/3malnc5ng3s2f)
-
----
-
-@forbes.com
-
-“David” finished second with $22 million at the box office this weekend, a strong result despite right-wing influencers making unsubstantiated claims Disney and Paramount are trying to limit screenings of the biblical film.
-
-[2025-12-23 01:20:03](https://bsky.app/profile/forbes.com/post/3malnaf6jws2w)
+[2025-12-23 01:40:02](https://bsky.app/profile/en.afp.com/post/3maloe44pg32j)
 
 ---
 
 @cbsnews.com
 
-An estimated 122.4 million people are expected to travel over the busy holiday period – between Dec. 20 and Jan. 1, according to AAA.
+A plane landed at Colorado's Rocky Mountain Metropolitan Airport without a pilot's help on Saturday in what appears to be the first real-world use of new safety technology. 
 
-[2025-12-23 01:20:01](https://bsky.app/profile/cbsnews.com/post/3malnacp5po2t)
+[2025-12-23 01:40:01](https://bsky.app/profile/cbsnews.com/post/3maloe3k7nx2j)
+
+---
+
+@reuters.com
+
+VIEW Ellison steps in with personal guarantee as Paramount fights for Warner Bros reut.rs/44HP55n
+
+[2025-12-23 01:35:09](https://bsky.app/profile/reuters.com/post/3malo3fd2hh2s)
+
+---
+
+@en.afp.com
+
+🇻🇪 🇷🇺 🇺🇸 Russia has expressed "full support" for Venezuela as the South American country confronts a blockade of sanctioned oil tankers by US forces deployed in the Caribbean, the two governments said. 
+➡️ u.afp.com/S8GA
+
+[2025-12-23 01:35:01](https://bsky.app/profile/en.afp.com/post/3malo35fqs52v)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は、来年１月第１週までに連邦準備理事会（ＦＲＢ）の次期議長を指名する可能性がある。ＣＮＢＣが２２日、関係筋の話として報じた。 bit.ly/4b0gxir
+
+[2025-12-23 01:32:58](https://bsky.app/profile/japan.reuters.com/post/3malnxhy43m2c)
 
 ---
 
