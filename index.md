@@ -1,9 +1,9 @@
-# [2025-12-22 10:30 updated](2025_12_22.md)
+# [2025-12-22 10:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">サッカーのドイツ１部ブンデスリーガは２１日、各地で試合を行い、伊藤洋輝の所属するバイエルン・ミュンヘンは敵地でハイデンハイムに４─０で完勝した。 bit.ly/4pPj1F9 <a href="https://bsky.app/profile/japan.reuters.com/post/3mak3fhr4222c" target="_blank">japan.reuters.com</a> (2025-12-22 10:28:07)</span><span style="padding-right:50px;">米実業家イーロン・マスク氏率いる米宇宙開発企業スペースＸが計画中の新規株式公開（ＩＰＯ）で、マスク氏と関係の深い米金融大手モルガン・スタンレーが中心的な主幹事（リードレフト）の最有力候補となっていることが、情報筋の話で明らかになった。 bit.ly/4aoIJvi <a href="https://bsky.app/profile/japan.reuters.com/post/3mak3fgtrr42s" target="_blank">japan.reuters.com</a> (2025-12-22 10:28:06)</span><span style="padding-right:50px;">James Ransone, the actor who played Ziggy Sobotka in the HBO series “The Wire” and appeared in many other TV shows and movies, has died. He was 46. https://cnn.it/4q0AJp2 <a href="https://bsky.app/profile/cnn.com/post/3mak3few4o42a" target="_blank">cnn.com</a> (2025-12-22 10:28:04)</span><span style="padding-right:50px;">Investors and project developers are becoming concerned about wind and solar power as climate change fuels increasingly unpredictable weather patterns. <a href="https://bsky.app/profile/bloomberg.com/post/3mak37wtwi22e" target="_blank">bloomberg.com</a> (2025-12-22 10:25:01)</span><span style="padding-right:50px;">バンク・オブ・アメリカ（ＢｏｆＡ）は今年、投資銀行部門向けの賞与を増やし、成績優秀な行員への支給額を引き上げる見通しだと複数の関係者が明らかにした。年初から案件が急増したことが背景。 bit.ly/4qpGrAU <a href="https://bsky.app/profile/japan.reuters.com/post/3mak37ozctt2p" target="_blank">japan.reuters.com</a> (2025-12-22 10:24:53)</span>
+<span style="padding-right:50px;">欧州連合（ＥＵ）理事会は１９日、オンラインとオフラインの両機能を含むデジタルユーロを支持する立場を示した。オフラインでの使用のみに焦点を当てた欧州議会の提案と一線を画した形だ。 bit.ly/48PUauT <a href="https://bsky.app/profile/japan.reuters.com/post/3mak4k6pii22c" target="_blank">japan.reuters.com</a> (2025-12-22 10:48:39)</span><span style="padding-right:50px;">男子テニスで２０２２年ウィンブルドン選手権準優勝のニック・キリオス（３０、オーストラリア）が、主催者推薦で来月のブリスベン国際に出場し、ツアー復帰を果たす見通しになった。大会主催者が２１日に発表した。 bit.ly/4935LWe <a href="https://bsky.app/profile/japan.reuters.com/post/3mak4ejfnlw25" target="_blank">japan.reuters.com</a> (2025-12-22 10:45:29)</span><span style="padding-right:50px;">【ライブ】H3ロケット8号機 みちびき5号機搭載 打ち上げへ https://news.web.nhk/newsweb/na/na-k10015009941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mak4dsttkx2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 10:45:03)</span><span style="padding-right:50px;">中国の人工知能（ＡＩ）スタートアップ、ミニマックス（稀宇科技）が、香港証券取引所の上場審査に合格したことが、２１日付の開示書類で明らかになった。 bit.ly/45jp1gY <a href="https://bsky.app/profile/japan.reuters.com/post/3mak4cm5dz526" target="_blank">japan.reuters.com</a> (2025-12-22 10:44:24)</span><span style="padding-right:50px;">Indonesia is seeking to plug an unusually deep revenue shortfall before year-end by scrutinizing wealthy individuals and big businesses for extra tax payments. <a href="https://bsky.app/profile/bloomberg.com/post/3mak436l6sv23" target="_blank">bloomberg.com</a> (2025-12-22 10:40:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50415.37 (🔺330.82 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3459.00 (🔻35.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.38 (🔻0.37 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50552.78 (🔺468.23 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3471.00 (🔻23.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.34 (🔻0.41 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,109 +32,96 @@
 
 ## News Headlines
 
-- Bayern Munich Wins 4-0 at Heidenheim
-- Elon Musk's SpaceX Seeks Morgan Stanley as Lead Left-Leaning IPO Banker
-- Actor James Ransone Dies at 46
-- Bank of America to Raise Bonus Payouts for Investment Bankers
-- Jimmy Kimmel to Deliver Personal Christmas Message to U.K. Viewers
-- China Keeps Benchmark Lending Rates Steady for Seventh Month
-- Blood and Gut Microbiome Tests to Replace Video Games and Clothes as Top Health Gifts in 2025
-- Japanese People Invest Heavily in Government Bonds in November
-- What We Learned in 2025
-- Multi-Vehicle Accident Causes Long Traffic Jam on Kyushu Expressway
-- Dodgers' Yusei Kikuchi Named Best Player in MLB Postseason
-- Citygroup Sees Bitcoin and Ethereum Reaching $140,000 and $4,304 Respectively in 12 Months
-- Croatia's Capital Wants to Host the Best Christmas Market
-- Asia Shares Extend Tech Rally, Yen Under Pressure
-- US Envoy Says Ukraine War Talks in Florida Were Productive
-- Japan Raises Interest Rates to 0.75% for First Time in 30 Years
-- Tokyo Stock Market Expected to Have Strong Start
-- Celtic's Daizen Maeda Assists in 3-1 Win Over Aberdeen
-- 10-Year Japanese Government Bond Yield Hits 26-Year High
-- ICJ to Hear Myanmar Genocide Case Against Rohingya in January
-- Tokyo Stock Market Expected to Have Strong Start
+- EU Supports Digital Euro with Online and Offline Functionality
+- Australian Tennis Star Nick Kyrgios to Make Tour Return at Brisbane International
+- Japan's Long-Term Interest Rate Hits 26-Year High at 2.08%
+- China's Rare Earth Magnet Exports Surge to Second-Highest Level on Record
+- Indonesia Seeks to Plug Revenue Shortfall by Scrutinizing Wealthy Individuals and Businesses
+- Banks Raise Investment Banking Bonuses Amid Surge in Deal Flow
 
 
 ----
 
 @japan.reuters.com
 
-サッカーのドイツ１部ブンデスリーガは２１日、各地で試合を行い、伊藤洋輝の所属するバイエルン・ミュンヘンは敵地でハイデンハイムに４─０で完勝した。 bit.ly/4pPj1F9
+欧州連合（ＥＵ）理事会は１９日、オンラインとオフラインの両機能を含むデジタルユーロを支持する立場を示した。オフラインでの使用のみに焦点を当てた欧州議会の提案と一線を画した形だ。 bit.ly/48PUauT
 
-[2025-12-22 10:28:07](https://bsky.app/profile/japan.reuters.com/post/3mak3fhr4222c)
-
----
-
-@japan.reuters.com
-
-米実業家イーロン・マスク氏率いる米宇宙開発企業スペースＸが計画中の新規株式公開（ＩＰＯ）で、マスク氏と関係の深い米金融大手モルガン・スタンレーが中心的な主幹事（リードレフト）の最有力候補となっていることが、情報筋の話で明らかになった。 bit.ly/4aoIJvi
-
-[2025-12-22 10:28:06](https://bsky.app/profile/japan.reuters.com/post/3mak3fgtrr42s)
-
----
-
-@cnn.com
-
-James Ransone, the actor who played Ziggy Sobotka in the HBO series “The Wire” and appeared in many other TV shows and movies, has died. He was 46. https://cnn.it/4q0AJp2
-
-[2025-12-22 10:28:04](https://bsky.app/profile/cnn.com/post/3mak3few4o42a)
-
----
-
-@bloomberg.com
-
-Investors and project developers are becoming concerned about wind and solar power as climate change fuels increasingly unpredictable weather patterns.
-
-[2025-12-22 10:25:01](https://bsky.app/profile/bloomberg.com/post/3mak37wtwi22e)
+[2025-12-22 10:48:39](https://bsky.app/profile/japan.reuters.com/post/3mak4k6pii22c)
 
 ---
 
 @japan.reuters.com
 
-バンク・オブ・アメリカ（ＢｏｆＡ）は今年、投資銀行部門向けの賞与を増やし、成績優秀な行員への支給額を引き上げる見通しだと複数の関係者が明らかにした。年初から案件が急増したことが背景。 bit.ly/4qpGrAU
+男子テニスで２０２２年ウィンブルドン選手権準優勝のニック・キリオス（３０、オーストラリア）が、主催者推薦で来月のブリスベン国際に出場し、ツアー復帰を果たす見通しになった。大会主催者が２１日に発表した。 bit.ly/4935LWe
 
-[2025-12-22 10:24:53](https://bsky.app/profile/japan.reuters.com/post/3mak37ozctt2p)
-
----
-
-@axios.com
-
-Talk show host Jimmy Kimmel will deliver a very "personal" 2025 Alternative Christmas Message to U.K. viewers that'll address his show's brief suspension, British network Channel 4 announced today.
-
-[2025-12-22 10:24:12](https://bsky.app/profile/axios.com/post/3mak36hg5kk25)
+[2025-12-22 10:45:29](https://bsky.app/profile/japan.reuters.com/post/3mak4ejfnlw25)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-高市首相動静 2025年12月19日～21日
-https://news.web.nhk/newsweb/na/na-k10015010181000
+【ライブ】H3ロケット8号機 みちびき5号機搭載 打ち上げへ
+https://news.web.nhk/newsweb/na/na-k10015009941000
 
-[2025-12-22 10:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mak36ap3ni2b)
-
----
-
-@cnbc.com
-
-China keeps benchmark lending rates steady for a seventh straight month despite weak economic data
-
-[2025-12-22 10:22:48](https://bsky.app/profile/cnbc.com/post/3mak33y34ca23)
-
----
-
-@wsj.com
-
-Goodbye videogames and clothes. Hello blood-sugar and gut-microbiome tests. 2025 is the year of the health gift.
-
-[2025-12-22 10:22:46](https://bsky.app/profile/wsj.com/post/3mak33wkhch2c)
+[2025-12-22 10:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mak4dsttkx2y)
 
 ---
 
 @japan.reuters.com
 
-日本証券業協会が２２日発表した１１月分の公社債店頭売買高によると、国債（国庫短期証券を除く）の投資家別売買高は以下の通り。単位は億円。 bit.ly/4p5IetC
+中国の人工知能（ＡＩ）スタートアップ、ミニマックス（稀宇科技）が、香港証券取引所の上場審査に合格したことが、２１日付の開示書類で明らかになった。 bit.ly/45jp1gY
 
-[2025-12-22 10:20:37](https://bsky.app/profile/japan.reuters.com/post/3mak2y2k5222q)
+[2025-12-22 10:44:24](https://bsky.app/profile/japan.reuters.com/post/3mak4cm5dz526)
+
+---
+
+@bloomberg.com
+
+Indonesia is seeking to plug an unusually deep revenue shortfall before year-end by scrutinizing wealthy individuals and big businesses for extra tax payments.
+
+[2025-12-22 10:40:15](https://bsky.app/profile/bloomberg.com/post/3mak436l6sv23)
+
+---
+
+@reuters.com
+
+China leaves benchmark lending rates unchanged for seventh straight month reut.rs/49t06Jt
+
+[2025-12-22 10:40:12](https://bsky.app/profile/reuters.com/post/3mak4333c572o)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+長期金利 10年もの国債の利回り2.08％に 約26年ぶりの高水準
+https://news.web.nhk/newsweb/na/na-k10015010211000
+
+[2025-12-22 10:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mak3z2solx2y)
+
+---
+
+@japan.reuters.com
+
+２２日午前のシドニー株式市場の株価は、薄商いの中で続伸している。米国の利下げ観測と地政学的な緊張の高まりを受けて商品（コモディティー）相場が上昇した状況を背景に、鉱業株とエネルギー株が買われた。 bit.ly/4aZt4Th
+
+[2025-12-22 10:39:00](https://bsky.app/profile/japan.reuters.com/post/3mak3ywwdi625)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>長期金利 10年もの国債の利回り2.08%に 約26年ぶりの高水準</strong><br><strong>(2025-12-22 10:36:56) #ニュース</strong>
+
+[2025-12-22 10:37:18](https://bsky.app/profile/sokuho.news/post/3mak3vvzlcm2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【ライブ予定】H3ロケット8号機 みちびき5号機搭載 打ち上げへ
+https://news.web.nhk/newsweb/na/na-k10015009941000
+
+[2025-12-22 10:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mak3tpshhg26)
 
 ---
 
