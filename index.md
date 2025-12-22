@@ -1,9 +1,9 @@
-# [2025-12-23 01:10 updated](2025_12_23.md)
+# [2025-12-23 01:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Denmark’s foreign minister said Monday he was “deeply upset” by US President Donald Trump’s appointment of a special envoy to Greenland who declared that he wished to see the island become part of the United States. https://cnn.it/4p5V7E4 <a href="https://bsky.app/profile/cnn.com/post/3malmftcvh32u" target="_blank">cnn.com</a> (2025-12-23 01:05:12)</span><span style="padding-right:50px;">US watchdog says paycheck advances no longer subject to lending law reut.rs/4padiZw <a href="https://bsky.app/profile/reuters.com/post/3malmfptmq62p" target="_blank">reuters.com</a> (2025-12-23 01:05:08)</span><span style="padding-right:50px;">A small airport in southern Libya — controlled by a military commander allied to the United Arab Emirates — has become a vital conduit for weapons, fuel and mercenaries to a Sudanese paramilitary group, experts and officials say reut.rs/4aplNMv <a href="https://bsky.app/profile/reuters.com/post/3malmdwccdk2g" target="_blank">reuters.com</a> (2025-12-23 01:04:08)</span><span style="padding-right:50px;">Typically, the wines available in magnums are either very expensive or very low quality. Our wine expert found 5 magnums that are both good and reasonably priced. on.wsj.com/4pTQT3N <a href="https://bsky.app/profile/wsj.com/post/3malmdrwcud2i" target="_blank">wsj.com</a> (2025-12-23 01:04:03)</span><span style="padding-right:50px;">米金融大手ゴールドマン・サックスの１９日付の顧客向けリポートによると、ヘッジファンドは先週、米国の医療サービス提供などのヘルスケア関連株を１４週間ぶりに売り越した。ロイターが２２日にリポートを確認した。 bit.ly/4qq6s35 <a href="https://bsky.app/profile/japan.reuters.com/post/3malmbwkjwa2c" target="_blank">japan.reuters.com</a> (2025-12-23 01:03:01)</span>
+<span style="padding-right:50px;">The Hellcats — a retired Marine drill instructor, former Navy helicopter pilot, former Marine captain, and former Army special operations officer — are running for Congress in 2026. Democrats need to flip three Republican seats to win a House majority reut.rs/4pQsn3z <a href="https://bsky.app/profile/reuters.com/post/3malnoyufpc2c" target="_blank">reuters.com</a> (2025-12-23 01:28:14)</span><span style="padding-right:50px;">日本政府 バングラデシュとEPA締結で大筋合意 https://news.web.nhk/newsweb/na/na-k10015010891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malnmwirpk2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 01:27:02)</span><span style="padding-right:50px;">Immigrants living in the U.S. illegally will be paid $3,000 if they leave the country voluntarily by the end of the calendar year, a tripling of the “exit bonus” currently paid to those who self-deport. <a href="https://bsky.app/profile/wsj.com/post/3malnkcyhft2u" target="_blank">wsj.com</a> (2025-12-23 01:25:36)</span><span style="padding-right:50px;">Gold and silver soar in year-end rally reut.rs/497BKVa <a href="https://bsky.app/profile/reuters.com/post/3malnjhtqd62i" target="_blank">reuters.com</a> (2025-12-23 01:25:08)</span><span style="padding-right:50px;">"Indescribably delicious." The commenters have spoken, and they strongly recommend this recipe for rosemary white beans with frizzled onions and tomato. <a href="https://bsky.app/profile/nytimes.com/post/3malnfq32g32s" target="_blank">nytimes.com</a> (2025-12-23 01:23:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.79 (🔺150.91 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23424.17 (🔻26.36 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.29 (🔻0.63 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.95 (🔻0.80 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48384.06 (🔺172.18 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23444.23 (🔻6.30 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.53 (🔻0.39 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.94 (🔻0.81 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,124 +32,116 @@
 
 ## News Headlines
 
-- Denmark's Foreign Minister Upset Over Trump's Greenland Envoy
-- US Law No Longer Applies to Paycheck Advances
-- Libya Airport Becomes Conduit for Weapons and Mercenaries
-- Affordable Magnums: Wine Expert's Top 5 Picks
-- Goldman Sachs: Hedge Funds Sell Healthcare Stocks
-- Santa Claus Takes on Challenges Around the World
-- Exclusive: China Loaded Over 100 ICBMs in Silo Fields
-- Trump to Mark 250th US Anniversary with Competitions and Events
-- Most Americans Not Making Year-End Charitable Giving Plans
-- Clashes Break Out Between Syrian Army and Kurdish Forces
-- Instacart Draws Criticism for AI-Based Pricing System
-- Puzzles From NYT Games: Editors' Picks
+- Retired Military Leaders Run for Congress in 2026
+- Japan and Bangladesh Agree on EPA Deal
+- US to Pay $3,000 to Undocumented Immigrants to Leave the Country
+- Gold and Silver Prices Soar in Year-End Rally
+- Former Oracle Co-Founder Offers $404 Billion Guarantee for Warner Bros. Acquisition
+- Israeli High-Tech Funding Reaches Nearly $16 Billion in 2025
+- Santa Claus Takes on Challenges to Deliver Gifts Around the World
+- Exclusive: Swimming-ISL Targets 2026 Relaunch After COVID, War Disruptions
+- Former Israeli Premier Calls for Netanyahu's Resignation Over Qatari Funding Allegations
+- Denmark's Foreign Minister Upset Over US Envoy's Comments on Greenland
+- US Watchdog Says Paycheck Advances No Longer Subject to Lending Law
+- Small Airport in Libya Becomes Vital Conduit for Weapons, Fuel, and Mercenaries
+- Five Good and Reasonably Priced Magnums for the Holidays
+- Hedge Funds Sell Healthcare Stocks After 14-Week Buying Spree
+- Exclusive: China Likely Loaded Over 100 ICBMs in Silo Fields, Pentagon Report Says
+- Trump Administration Details Events to Mark 250th Anniversary of Nation's Founding
+- Most Americans Don't Make End-of-Year Charitable Giving Plans
+- Clashes Break Out Between Syrian Army, Kurdish-Led SDF in Aleppo
+- Instacart Faces Criticism for AI-Based Pricing System
 - Trump Halts Wind Projects, Including Coastal Virginia Offshore Wind
-- China Confirms Talks Between Wingtech and Nexperia BV
-- England Coach McCullum Wants to Stay in Job After Ashes Defeat
-- Russia Denies Plans to Attack NATO and EU
-- Heritage Foundation Employees Walk Away from Jobs
-- Daiwa to Raise M&A Revenue Target to 100 Billion Yen
-- Jimmy Kimmel to Deliver Alternative Christmas Message
-- NBA Pursues Ownership Groups for European League
-- Intel to Ship AI Chips to Chinese Customers Next Year
-- Actor James Ransone Dies at 46
-- Staff Member to Stand Trial Over Theft of Precious Items
-- DHS Offers $3,000 'Holiday Stipend' to Self-Deport
-- Ex-Players Lose UK Court Bid to Block Disclosure Orders
-- EU Hits Back at China's Dairy Import Tariffs
-- Turning Point USA Conference Marred by Rifts
-- Flooding Hits Southern France After Heavy Rainfall
-- Cartagena to Replace Horse-Drawn Carriages with Electric Buggies
-- AI Boom Pressures Videogame Console Industry
-- HSBC Appoints Ex-Citi Executive to Lead Private Bank
-- Social Security Payments to Be Made This Week
-- Gold Price Hits New All-Time High
-- Massive Sinkhole Develops in English Canal
+- China Confirms Talks Between Wingtech, Nexperia BV, Urges Further Negotiations
+- England Coach Brendon McCullum Wants to Stay in Job Despite Chastening Ashes Series Defeat
+- Russia Says It Has No Intention to Attack NATO or EU
+- Heritage Foundation Employees Walk Away from Jobs Amid Controversy
+- Daiwa to Raise M&A Revenue Target to 100 Billion Yen by 2031
+- Jimmy Kimmel to Deliver Alternative Christmas Message Against Fascism
+- NBA Pursues Ownership Groups for Potential Basketball League in Europe
+- Nvidia to Ship Advanced Chips to Chinese Customers in February
 
 
 ----
 
-@cnn.com
+@reuters.com
 
-Denmark’s foreign minister said Monday he was “deeply upset” by US President Donald Trump’s appointment of a special envoy to Greenland who declared that he wished to see the island become part of the United States. https://cnn.it/4p5V7E4
+The Hellcats — a retired Marine drill instructor, former Navy helicopter pilot, former Marine captain, and former Army special operations officer — are running for Congress in 2026. Democrats need to flip three Republican seats to win a House majority reut.rs/4pQsn3z
 
-[2025-12-23 01:05:12](https://bsky.app/profile/cnn.com/post/3malmftcvh32u)
+[2025-12-23 01:28:14](https://bsky.app/profile/reuters.com/post/3malnoyufpc2c)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-US watchdog says paycheck advances no longer subject to lending law reut.rs/4padiZw
+日本政府 バングラデシュとEPA締結で大筋合意
+https://news.web.nhk/newsweb/na/na-k10015010891000
 
-[2025-12-23 01:05:08](https://bsky.app/profile/reuters.com/post/3malmfptmq62p)
-
----
-
-@reuters.com
-
-A small airport in southern Libya — controlled by a military commander allied to the United Arab Emirates — has become a vital conduit for weapons, fuel and mercenaries to a Sudanese paramilitary group, experts and officials say reut.rs/4aplNMv
-
-[2025-12-23 01:04:08](https://bsky.app/profile/reuters.com/post/3malmdwccdk2g)
+[2025-12-23 01:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malnmwirpk2s)
 
 ---
 
 @wsj.com
 
-Typically, the wines available in magnums are either very expensive or very low quality. Our wine expert found 5 magnums that are both good and reasonably priced. on.wsj.com/4pTQT3N
+Immigrants living in the U.S. illegally will be paid $3,000 if they leave the country voluntarily by the end of the calendar year, a tripling of the “exit bonus” currently paid to those who self-deport.
 
-[2025-12-23 01:04:03](https://bsky.app/profile/wsj.com/post/3malmdrwcud2i)
-
----
-
-@japan.reuters.com
-
-米金融大手ゴールドマン・サックスの１９日付の顧客向けリポートによると、ヘッジファンドは先週、米国の医療サービス提供などのヘルスケア関連株を１４週間ぶりに売り越した。ロイターが２２日にリポートを確認した。 bit.ly/4qq6s35
-
-[2025-12-23 01:03:01](https://bsky.app/profile/japan.reuters.com/post/3malmbwkjwa2c)
-
----
-
-@en.afp.com
-
-🎅 Santa Claus delivers presents around the world
-
-From abseiling from a bridge to diving underwater with a shark, Santa Claus is taking on challenges around the world to deliver gifts and entertain children. 
-#AFPVertical
-
-[2025-12-23 01:01:38](https://bsky.app/profile/en.afp.com/post/3malm7go4et2k)
-
----
-
-@nbcnews.com
-
-Three men will stand trial next year after a silver steward employed at the official residence of the French president was arrested this week in the theft of items of silverware and table service worth thousands of euros, the Paris prosecutor’s office says.
-
-[2025-12-23 01:01:35](https://bsky.app/profile/nbcnews.com/post/3malm7enhvs2d)
-
----
-
-@usatoday.com
-
-Beyoncé opened 2025 with historic Grammy wins and closed it with another major achievement. Here’s a look back at her massive year.
-
-[2025-12-23 01:01:04](https://bsky.app/profile/usatoday.com/post/3malm6gckml2f)
+[2025-12-23 01:25:36](https://bsky.app/profile/wsj.com/post/3malnkcyhft2u)
 
 ---
 
 @reuters.com
 
-Exclusive: China likely loaded more than 100 ICBMs in silo fields, Pentagon report says reut.rs/4apmc1t
+Gold and silver soar in year-end rally reut.rs/497BKVa
 
-[2025-12-23 01:00:51](https://bsky.app/profile/reuters.com/post/3malm62n23r2r)
+[2025-12-23 01:25:08](https://bsky.app/profile/reuters.com/post/3malnjhtqd62i)
 
 ---
 
-@washingtonpost.com
+@nytimes.com
 
-The Trump administration has begun to detail events to mark the 250th anniversary of the nation’s founding next year, including a competitive youth athletic event, a fair and a UFC fight on the grounds of the White House.
+"Indescribably delicious." The commenters have spoken, and they strongly recommend this recipe for rosemary white beans with frizzled onions and tomato.
 
-[2025-12-23 01:00:48](https://bsky.app/profile/washingtonpost.com/post/3malm5xlrut2i)
+[2025-12-23 01:23:02](https://bsky.app/profile/nytimes.com/post/3malnfq32g32s)
+
+---
+
+@npr.org
+
+The Department of Government Efficiency effort was one of the most consequential and controversial – if not entirely successful – changes the Trump administration made in 2025. n.pr/49mmmWd
+
+[2025-12-23 01:22:01](https://bsky.app/profile/npr.org/post/3malndv5npu2p)
+
+---
+
+@yahoofinance.com
+
+Nvidia dominated the headlines in 2025 — these were its 15 biggest events of the year
+
+[2025-12-23 01:21:07](https://bsky.app/profile/yahoofinance.com/post/3malncbhdb22s)
+
+---
+
+@japan.reuters.com
+
+米オラクル共同創業者兼会長で富豪のラリー・エリソン氏は、メディア大手パラマウント・スカイダンスによる同業ワーナー・ブラザース・ディスカバリー（ＷＢＤ）買収提案を巡り、４０４億ドルの個人保証を提供する。２２日に当局に提出された文書から明らかになった。 bit.ly/3MHv0pL
+
+[2025-12-23 01:21:03](https://bsky.app/profile/japan.reuters.com/post/3malnc5ng3s2f)
+
+---
+
+@forbes.com
+
+“David” finished second with $22 million at the box office this weekend, a strong result despite right-wing influencers making unsubstantiated claims Disney and Paramount are trying to limit screenings of the biblical film.
+
+[2025-12-23 01:20:03](https://bsky.app/profile/forbes.com/post/3malnaf6jws2w)
+
+---
+
+@cbsnews.com
+
+An estimated 122.4 million people are expected to travel over the busy holiday period – between Dec. 20 and Jan. 1, according to AAA.
+
+[2025-12-23 01:20:01](https://bsky.app/profile/cbsnews.com/post/3malnacp5po2t)
 
 ---
 
