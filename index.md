@@ -1,9 +1,9 @@
-# [2025-12-23 04:10 updated](2025_12_23.md)
+# [2025-12-23 04:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The singer Barry Manilow has been diagnosed with lung cancer and will undergo surgery, he announced on Monday, postponing several concert dates. “It’s pure luck (and a great doctor) that it was found so early,” he wrote. <a href="https://bsky.app/profile/nytimes.com/post/3malwkylpyd2z" target="_blank">nytimes.com</a> (2025-12-23 04:07:03)</span><span style="padding-right:50px;">Mexico antitrust commission to revise Volaris-Viva Aerobus tie-up reut.rs/4p3VsHn <a href="https://bsky.app/profile/reuters.com/post/3malwhmspoj24" target="_blank">reuters.com</a> (2025-12-23 04:05:10)</span><span style="padding-right:50px;">How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/3YaaMY5 <a href="https://bsky.app/profile/nytimes.com/post/3malwhinbtu2s" target="_blank">nytimes.com</a> (2025-12-23 04:05:05)</span><span style="padding-right:50px;">Crypto laments loss of key ally on Capitol Hill after Lummis announces retirement <a href="https://bsky.app/profile/cnbc.com/post/3malwh2zugl2m" target="_blank">cnbc.com</a> (2025-12-23 04:04:51)</span><span style="padding-right:50px;">A man who fatally shot another man with a bow and arrow in a New Jersey suburb was arrested Sunday, after an hourslong standoff with police as he barricaded himself inside a house he eventually set on fire, CNN affiliates WABC and WCBS reported. https://cnn.it/4auR54K <a href="https://bsky.app/profile/cnn.com/post/3malwabu2mi2t" target="_blank">cnn.com</a> (2025-12-23 04:01:03)</span>
+<span style="padding-right:50px;">Women at last weekend's Turning Point USA "AmericaFest" conference attendees in Phoenix say the organization is back stronger — and resonating with women — following co-founder Charlie Kirk’s assassination. <a href="https://bsky.app/profile/npr.org/post/3malxnxlsb22p" target="_blank">npr.org</a> (2025-12-23 04:26:36)</span><span style="padding-right:50px;">Lechon Kawali, a dish of crispy deep-fried pork belly, is served in the Philippines for special occasions. Don’t skip the garlicky vinegar sauce for dipping.  nyti.ms/44z2WLb <a href="https://bsky.app/profile/nytimes.com/post/3malxn32ynt2y" target="_blank">nytimes.com</a> (2025-12-23 04:26:06)</span><span style="padding-right:50px;">Chris Rea, singer of 'Driving Home for Christmas', dies at 74 reut.rs/3KUVoMd <a href="https://bsky.app/profile/reuters.com/post/3malxlehurc2y" target="_blank">reuters.com</a> (2025-12-23 04:25:09)</span><span style="padding-right:50px;">From @theathletic.com: Uncomfortable Instagram messages with women and emotional outbursts with staff paint a picture of a coach who had become increasingly volatile. nyti.ms/4p6WFxK <a href="https://bsky.app/profile/nytimes.com/post/3malxe46pz52b" target="_blank">nytimes.com</a> (2025-12-23 04:21:05)</span><span style="padding-right:50px;">米連邦準備理事会（ＦＲＢ）のミラン理事は２２日、近い将来における景気後退リスクはみられないとしつつも、「金利を下方に調整しなければ、景気後退リスクが高まる」という認識を示した。 bit.ly/3L9ZqQK <a href="https://bsky.app/profile/japan.reuters.com/post/3malxdekm4r2q" target="_blank">japan.reuters.com</a> (2025-12-23 04:20:41)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48354.09 (🔺142.21 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23421.36 (🔻29.17 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.13 (🔻0.79 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.96 (🔻0.79 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48373.88 (🔺162.00 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23433.56 (🔻16.97 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.43 (🔻0.49 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.97 (🔻0.78 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,93 +32,93 @@
 
 ## News Headlines
 
-- Barry Manilow Diagnosed with Lung Cancer, Postpones Concert Dates
-- Mexico to Revise Volaris-Viva Aerobus Tie-Up
-- Driverless Future Gains Momentum with Global Robotaxi Deployments
-- Trump Administration Suspends Offshore Wind Projects Over National Security Concerns
-- US Lawmakers Want Disclosure of Nvidia H200 China Licenses
-- Gold Prices Soar to New All-Time High Amid Geopolitical Tensions
+- Turning Point USA 'back stronger' after co-founder Charlie Kirk's assassination
+- US President Trump Rapidly Reshapes Climate and Energy Landscape in First Year Back in Office
+- Gold Prices Soar Above $4,400 to Reach New All-Time High
+- Waymo Resumes San Francisco Service After Power Outage Pause
+- US Trade Policy Shifts Towards Re-Industrialisation, Working According to US Trade Representative
+- US to Disclose Approvals of Nvidia H200 China Licenses as Lawmakers Demand Transparency
 
 
 ----
 
-@nytimes.com
+@npr.org
 
-The singer Barry Manilow has been diagnosed with lung cancer and will undergo surgery, he announced on Monday, postponing several concert dates. “It’s pure luck (and a great doctor) that it was found so early,” he wrote.
+Women at last weekend's Turning Point USA "AmericaFest" conference attendees in Phoenix say the organization is back stronger — and resonating with women — following co-founder Charlie Kirk’s assassination.
 
-[2025-12-23 04:07:03](https://bsky.app/profile/nytimes.com/post/3malwkylpyd2z)
-
----
-
-@reuters.com
-
-Mexico antitrust commission to revise Volaris-Viva Aerobus tie-up reut.rs/4p3VsHn
-
-[2025-12-23 04:05:10](https://bsky.app/profile/reuters.com/post/3malwhmspoj24)
+[2025-12-23 04:26:36](https://bsky.app/profile/npr.org/post/3malxnxlsb22p)
 
 ---
 
 @nytimes.com
 
-How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/3YaaMY5
+Lechon Kawali, a dish of crispy deep-fried pork belly, is served in the Philippines for special occasions. Don’t skip the garlicky vinegar sauce for dipping.  nyti.ms/44z2WLb
 
-[2025-12-23 04:05:05](https://bsky.app/profile/nytimes.com/post/3malwhinbtu2s)
-
----
-
-@cnbc.com
-
-Crypto laments loss of key ally on Capitol Hill after Lummis announces retirement
-
-[2025-12-23 04:04:51](https://bsky.app/profile/cnbc.com/post/3malwh2zugl2m)
-
----
-
-@cnn.com
-
-A man who fatally shot another man with a bow and arrow in a New Jersey suburb was arrested Sunday, after an hourslong standoff with police as he barricaded himself inside a house he eventually set on fire, CNN affiliates WABC and WCBS reported. https://cnn.it/4auR54K
-
-[2025-12-23 04:01:03](https://bsky.app/profile/cnn.com/post/3malwabu2mi2t)
+[2025-12-23 04:26:06](https://bsky.app/profile/nytimes.com/post/3malxn32ynt2y)
 
 ---
 
 @reuters.com
 
-AI spending spree drives global tech debt issuance to record high reut.rs/3Nd0J20
+Chris Rea, singer of 'Driving Home for Christmas', dies at 74 reut.rs/3KUVoMd
 
-[2025-12-23 04:01:02](https://bsky.app/profile/reuters.com/post/3malwaaelhr24)
-
----
-
-@usatoday.com
-
-CBS said the "60 Minutes" segment "needed additional reporting." bit.ly/44G2Mli
-
-[2025-12-23 04:00:43](https://bsky.app/profile/usatoday.com/post/3malw7nyhzo2s)
+[2025-12-23 04:25:09](https://bsky.app/profile/reuters.com/post/3malxlehurc2y)
 
 ---
 
-@cnbc.com
+@nytimes.com
 
-Child psychologist Reem Raouda, who has studied more than 200 child-parent relationships, says those who raise the emotionally intelligent kids do seven key things.
+From @theathletic.com: Uncomfortable Instagram messages with women and emotional outbursts with staff paint a picture of a coach who had become increasingly volatile. nyti.ms/4p6WFxK
 
-[2025-12-23 04:00:39](https://bsky.app/profile/cnbc.com/post/3malw7kh3db24)
-
----
-
-@washingtonpost.com
-
-In eastern Congo, where rape is widespread, the cancellation of USAID funding for life-changing — sometimes lifesaving — post-exposure prophylaxis (PEP) kits has left many victims vulnerable, according to nearly 50 interviews.
-
-[2025-12-23 04:00:23](https://bsky.app/profile/washingtonpost.com/post/3malw73hf4s2d)
+[2025-12-23 04:21:05](https://bsky.app/profile/nytimes.com/post/3malxe46pz52b)
 
 ---
 
-@bloomberg.com
+@japan.reuters.com
 
-The world needs a lot more copper to power the shift to green energy and AI data center boom. But will there be enough supply? Here's what to know 
+米連邦準備理事会（ＦＲＢ）のミラン理事は２２日、近い将来における景気後退リスクはみられないとしつつも、「金利を下方に調整しなければ、景気後退リスクが高まる」という認識を示した。 bit.ly/3L9ZqQK
 
-[2025-12-23 04:00:22](https://bsky.app/profile/bloomberg.com/post/3malw6zylk32h)
+[2025-12-23 04:20:41](https://bsky.app/profile/japan.reuters.com/post/3malxdekm4r2q)
+
+---
+
+@financialtimes.com
+
+Opinion: American trade policy is geared towards re-industrialisation, and it's working, writes US trade representative Jamieson Greer. ft.trib.al/ggI3PZW
+
+[2025-12-23 04:15:45](https://bsky.app/profile/financialtimes.com/post/3malx2kmxqk2k)
+
+---
+
+@reuters.com
+
+UK's Reeves sets March 3 as date for next economic forecasts reut.rs/4jds2FF
+
+[2025-12-23 04:15:17](https://bsky.app/profile/reuters.com/post/3malwzq7erg23)
+
+---
+
+@forbes.com
+
+Monday night’s curved viewing line nearly stretches to the border of Minnesota and Iowa.
+
+[2025-12-23 04:15:03](https://bsky.app/profile/forbes.com/post/3malwzcompg2s)
+
+---
+
+@nytimes.com
+
+In his first year back in office, President Trump has rapidly reshaped America’s climate and energy landscape. Here's how.
+
+[2025-12-23 04:15:02](https://bsky.app/profile/nytimes.com/post/3malwzbwiik2z)
+
+---
+
+@japan.reuters.com
+
+週明けロンドン株式市場はまちまちで取引を終えた。２０２５年第３・四半期の英国内総生産（ＧＤＰ）の伸びが低調だったことを受け、ＦＴＳＥ１００種は４営業日ぶりに反落。一方、国内志向の強い中型株で構成するＦＴＳＥ２５０種指数は０．１３％上昇した。 bit.ly/4je5HaT
+
+[2025-12-23 04:14:57](https://bsky.app/profile/japan.reuters.com/post/3malwz4xkvz2p)
 
 ---
 
