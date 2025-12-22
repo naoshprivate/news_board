@@ -1,9 +1,9 @@
-# [2025-12-23 03:50 updated](2025_12_23.md)
+# [2025-12-23 04:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Lawmakers want US to disclose any approvals of Nvidia H200 China licenses reut.rs/4p6Rm16 <a href="https://bsky.app/profile/reuters.com/post/3malvdxdtce2k" target="_blank">reuters.com</a> (2025-12-23 03:45:13)</span><span style="padding-right:50px;">Since President Trump was elected a second time, he and his allies have raised nearly $2 billion for his favored political causes and passion projects. The astounding haul hints at a level of transactionalism for which it is difficult to find obvious comparisons in modern American history. <a href="https://bsky.app/profile/nytimes.com/post/3malvdqf3bq2v" target="_blank">nytimes.com</a> (2025-12-23 03:45:06)</span><span style="padding-right:50px;">President Trump recently embraced kei cars, tiny vehicles that are popular in Asia but hard to get in the U.S. Kei car enthusiasts are delighted — but doubt whether much will change. n.pr/4b146Ty <a href="https://bsky.app/profile/npr.org/post/3malvaeliod2p" target="_blank">npr.org</a> (2025-12-23 03:43:13)</span><span style="padding-right:50px;">Waymo is resuming its driverless taxi service after a large blackout across San Francisco left its cars stranded in the streets on Saturday night. <a href="https://bsky.app/profile/nbcnews.com/post/3malv3honqq2q" target="_blank">nbcnews.com</a> (2025-12-23 03:40:28)</span><span style="padding-right:50px;">Waymo resumes San Francisco service after power outage pause reut.rs/48QSd1b <a href="https://bsky.app/profile/reuters.com/post/3malv35knaa2y" target="_blank">reuters.com</a> (2025-12-23 03:40:17)</span>
+<span style="padding-right:50px;">The singer Barry Manilow has been diagnosed with lung cancer and will undergo surgery, he announced on Monday, postponing several concert dates. “It’s pure luck (and a great doctor) that it was found so early,” he wrote. <a href="https://bsky.app/profile/nytimes.com/post/3malwkylpyd2z" target="_blank">nytimes.com</a> (2025-12-23 04:07:03)</span><span style="padding-right:50px;">Mexico antitrust commission to revise Volaris-Viva Aerobus tie-up reut.rs/4p3VsHn <a href="https://bsky.app/profile/reuters.com/post/3malwhmspoj24" target="_blank">reuters.com</a> (2025-12-23 04:05:10)</span><span style="padding-right:50px;">How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/3YaaMY5 <a href="https://bsky.app/profile/nytimes.com/post/3malwhinbtu2s" target="_blank">nytimes.com</a> (2025-12-23 04:05:05)</span><span style="padding-right:50px;">Crypto laments loss of key ally on Capitol Hill after Lummis announces retirement <a href="https://bsky.app/profile/cnbc.com/post/3malwh2zugl2m" target="_blank">cnbc.com</a> (2025-12-23 04:04:51)</span><span style="padding-right:50px;">A man who fatally shot another man with a bow and arrow in a New Jersey suburb was arrested Sunday, after an hourslong standoff with police as he barricaded himself inside a house he eventually set on fire, CNN affiliates WABC and WCBS reported. https://cnn.it/4auR54K <a href="https://bsky.app/profile/cnn.com/post/3malwabu2mi2t" target="_blank">cnn.com</a> (2025-12-23 04:01:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48371.44 (🔺159.56 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23430.47 (🔻20.06 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.39 (🔻0.53 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.99 (🔻0.76 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48354.09 (🔺142.21 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23421.36 (🔻29.17 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.13 (🔻0.79 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.96 (🔻0.79 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,93 +32,93 @@
 
 ## News Headlines
 
-- US Lawmakers Demand Disclosure of Nvidia H200 China Licenses
-- Trump Allies Raise Almost $2 Billion for Favored Causes and Projects
-- Waymo Resumes Driverless Taxi Service in San Francisco
-- Britain’s Bargain Takeover Market Heats Up
-- FBI Received Complaint About Jeffrey Epstein in 1996
-- CBS News Pulls Report on Trump Administration’s Migrant Detainees
+- Barry Manilow Diagnosed with Lung Cancer, Postpones Concert Dates
+- Mexico to Revise Volaris-Viva Aerobus Tie-Up
+- Driverless Future Gains Momentum with Global Robotaxi Deployments
+- Trump Administration Suspends Offshore Wind Projects Over National Security Concerns
+- US Lawmakers Want Disclosure of Nvidia H200 China Licenses
+- Gold Prices Soar to New All-Time High Amid Geopolitical Tensions
 
 
 ----
 
+@nytimes.com
+
+The singer Barry Manilow has been diagnosed with lung cancer and will undergo surgery, he announced on Monday, postponing several concert dates. “It’s pure luck (and a great doctor) that it was found so early,” he wrote.
+
+[2025-12-23 04:07:03](https://bsky.app/profile/nytimes.com/post/3malwkylpyd2z)
+
+---
+
 @reuters.com
 
-Lawmakers want US to disclose any approvals of Nvidia H200 China licenses reut.rs/4p6Rm16
+Mexico antitrust commission to revise Volaris-Viva Aerobus tie-up reut.rs/4p3VsHn
 
-[2025-12-23 03:45:13](https://bsky.app/profile/reuters.com/post/3malvdxdtce2k)
+[2025-12-23 04:05:10](https://bsky.app/profile/reuters.com/post/3malwhmspoj24)
 
 ---
 
 @nytimes.com
 
-Since President Trump was elected a second time, he and his allies have raised nearly $2 billion for his favored political causes and passion projects. The astounding haul hints at a level of transactionalism for which it is difficult to find obvious comparisons in modern American history.
+How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/3YaaMY5
 
-[2025-12-23 03:45:06](https://bsky.app/profile/nytimes.com/post/3malvdqf3bq2v)
-
----
-
-@npr.org
-
-President Trump recently embraced kei cars, tiny vehicles that are popular in Asia but hard to get in the U.S. Kei car enthusiasts are delighted — but doubt whether much will change. n.pr/4b146Ty
-
-[2025-12-23 03:43:13](https://bsky.app/profile/npr.org/post/3malvaeliod2p)
+[2025-12-23 04:05:05](https://bsky.app/profile/nytimes.com/post/3malwhinbtu2s)
 
 ---
 
-@nbcnews.com
+@cnbc.com
 
-Waymo is resuming its driverless taxi service after a large blackout across San Francisco left its cars stranded in the streets on Saturday night.
+Crypto laments loss of key ally on Capitol Hill after Lummis announces retirement
 
-[2025-12-23 03:40:28](https://bsky.app/profile/nbcnews.com/post/3malv3honqq2q)
-
----
-
-@reuters.com
-
-Waymo resumes San Francisco service after power outage pause reut.rs/48QSd1b
-
-[2025-12-23 03:40:17](https://bsky.app/profile/reuters.com/post/3malv35knaa2y)
-
----
-
-@financialtimes.com
-
- Britain’s bargain takeover market ft.trib.al/uxk1pQu  | opinion
-
-[2025-12-23 03:36:27](https://bsky.app/profile/financialtimes.com/post/3maluubi2z62c)
-
----
-
-@reuters.com
-
-Italian prosecutors ask to drop case of suspected Russian drone flyovers reut.rs/3KVTcnJ
-
-[2025-12-23 03:35:09](https://bsky.app/profile/reuters.com/post/3malurx2y3c2r)
-
----
-
-@wsj.com
-
-He shattered the world record by pumping himself full of drugs—and won $1 million. on.wsj.com/4pQ0ysa
-
-[2025-12-23 03:32:52](https://bsky.app/profile/wsj.com/post/3malunumozx2u)
-
----
-
-@usatoday.com
-
-The FBI got a complaint in 1996 that Jeffrey Epstein had nude photos of young girls, a document shows. The woman who made it feels redeemed. bit.ly/4pQk6MX
-
-[2025-12-23 03:30:38](https://bsky.app/profile/usatoday.com/post/3malujuv35w2f)
+[2025-12-23 04:04:51](https://bsky.app/profile/cnbc.com/post/3malwh2zugl2m)
 
 ---
 
 @cnn.com
 
-Earlier this month, after President Donald Trump blasted “60 Minutes” for interviewing Marjorie Taylor Greene, correspondents noticed a change behind the scenes. https://cnn.it/44JE5o6
+A man who fatally shot another man with a bow and arrow in a New Jersey suburb was arrested Sunday, after an hourslong standoff with police as he barricaded himself inside a house he eventually set on fire, CNN affiliates WABC and WCBS reported. https://cnn.it/4auR54K
 
-[2025-12-23 03:30:11](https://bsky.app/profile/cnn.com/post/3maluj2t74f25)
+[2025-12-23 04:01:03](https://bsky.app/profile/cnn.com/post/3malwabu2mi2t)
+
+---
+
+@reuters.com
+
+AI spending spree drives global tech debt issuance to record high reut.rs/3Nd0J20
+
+[2025-12-23 04:01:02](https://bsky.app/profile/reuters.com/post/3malwaaelhr24)
+
+---
+
+@usatoday.com
+
+CBS said the "60 Minutes" segment "needed additional reporting." bit.ly/44G2Mli
+
+[2025-12-23 04:00:43](https://bsky.app/profile/usatoday.com/post/3malw7nyhzo2s)
+
+---
+
+@cnbc.com
+
+Child psychologist Reem Raouda, who has studied more than 200 child-parent relationships, says those who raise the emotionally intelligent kids do seven key things.
+
+[2025-12-23 04:00:39](https://bsky.app/profile/cnbc.com/post/3malw7kh3db24)
+
+---
+
+@washingtonpost.com
+
+In eastern Congo, where rape is widespread, the cancellation of USAID funding for life-changing — sometimes lifesaving — post-exposure prophylaxis (PEP) kits has left many victims vulnerable, according to nearly 50 interviews.
+
+[2025-12-23 04:00:23](https://bsky.app/profile/washingtonpost.com/post/3malw73hf4s2d)
+
+---
+
+@bloomberg.com
+
+The world needs a lot more copper to power the shift to green energy and AI data center boom. But will there be enough supply? Here's what to know 
+
+[2025-12-23 04:00:22](https://bsky.app/profile/bloomberg.com/post/3malw6zylk32h)
 
 ---
 
