@@ -1,9 +1,9 @@
-# [2025-12-23 00:50 updated](2025_12_23.md)
+# [2025-12-23 01:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ロシアのリャプコフ外務次官は２２日、ロシアは北大西洋条約機構（ＮＡＴＯ）や欧州連合（ＥＵ）を攻撃する意図はないと、法的拘束力のある文書で確認する用意があると述べた。ロシアの国営通信社ＲＩＡが伝えた。 bit.ly/4pS9MUJ <a href="https://bsky.app/profile/japan.reuters.com/post/3mallidks5f2q" target="_blank">japan.reuters.com</a> (2025-12-23 00:48:43)</span><span style="padding-right:50px;">Over a dozen Heritage Foundation employees recently walked away from their jobs.  Heritage has been wrapped in controversy after its president defended Tucker Carlson’s interview of Nick Fuentes, a white supremacist who routinely espouses antisemitic views.  <a href="https://bsky.app/profile/washingtonpost.com/post/3mallbzj5do25" target="_blank">washingtonpost.com</a> (2025-12-23 00:45:11)</span><span style="padding-right:50px;">Daiwa to raise M&A revenue target to 100 billion yen by 2031, CEO says reut.rs/4j9KwXe <a href="https://bsky.app/profile/reuters.com/post/3mallbzlq6r24" target="_blank">reuters.com</a> (2025-12-23 00:45:11)</span><span style="padding-right:50px;">Jimmy Kimmel will deliver the so-called alternative Christmas message, a uniquely British tradition, in which he will speak out against fascism on Britain’s Channel 4. <a href="https://bsky.app/profile/nytimes.com/post/3mallbrlcgq2r" target="_blank">nytimes.com</a> (2025-12-23 00:45:02)</span><span style="padding-right:50px;">The NBA is pursuing ownership groups for a potential basketball league in Europe <a href="https://bsky.app/profile/cnbc.com/post/3mallakymib2e" target="_blank">cnbc.com</a> (2025-12-23 00:44:22)</span>
+<span style="padding-right:50px;">Denmark’s foreign minister said Monday he was “deeply upset” by US President Donald Trump’s appointment of a special envoy to Greenland who declared that he wished to see the island become part of the United States. https://cnn.it/4p5V7E4 <a href="https://bsky.app/profile/cnn.com/post/3malmftcvh32u" target="_blank">cnn.com</a> (2025-12-23 01:05:12)</span><span style="padding-right:50px;">US watchdog says paycheck advances no longer subject to lending law reut.rs/4padiZw <a href="https://bsky.app/profile/reuters.com/post/3malmfptmq62p" target="_blank">reuters.com</a> (2025-12-23 01:05:08)</span><span style="padding-right:50px;">A small airport in southern Libya — controlled by a military commander allied to the United Arab Emirates — has become a vital conduit for weapons, fuel and mercenaries to a Sudanese paramilitary group, experts and officials say reut.rs/4aplNMv <a href="https://bsky.app/profile/reuters.com/post/3malmdwccdk2g" target="_blank">reuters.com</a> (2025-12-23 01:04:08)</span><span style="padding-right:50px;">Typically, the wines available in magnums are either very expensive or very low quality. Our wine expert found 5 magnums that are both good and reasonably priced. on.wsj.com/4pTQT3N <a href="https://bsky.app/profile/wsj.com/post/3malmdrwcud2i" target="_blank">wsj.com</a> (2025-12-23 01:04:03)</span><span style="padding-right:50px;">米金融大手ゴールドマン・サックスの１９日付の顧客向けリポートによると、ヘッジファンドは先週、米国の医療サービス提供などのヘルスケア関連株を１４週間ぶりに売り越した。ロイターが２２日にリポートを確認した。 bit.ly/4qq6s35 <a href="https://bsky.app/profile/japan.reuters.com/post/3malmbwkjwa2c" target="_blank">japan.reuters.com</a> (2025-12-23 01:03:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48368.01 (🔺156.13 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23408.07 (🔻42.46 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.32 (🔻0.60 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.98 (🔻0.77 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.79 (🔺150.91 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23424.17 (🔻26.36 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.29 (🔻0.63 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.95 (🔻0.80 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,97 +32,124 @@
 
 ## News Headlines
 
-- Russia Prepares to Confirm Intent Not to Attack NATO and EU in Binding Document
-- Heritage Foundation Employees Quit Amid Controversy Over Tucker Carlson Interview
-- Daiwa to Raise M&A Revenue Target to 100 Billion Yen by 2031
-- Jimmy Kimmel to Deliver Alternative Christmas Message in Britain
-- NVIDIA to Begin Shipping AI Chips to Chinese Customers in February
+- Denmark's Foreign Minister Upset Over Trump's Greenland Envoy
+- US Law No Longer Applies to Paycheck Advances
+- Libya Airport Becomes Conduit for Weapons and Mercenaries
+- Affordable Magnums: Wine Expert's Top 5 Picks
+- Goldman Sachs: Hedge Funds Sell Healthcare Stocks
+- Santa Claus Takes on Challenges Around the World
+- Exclusive: China Loaded Over 100 ICBMs in Silo Fields
+- Trump to Mark 250th US Anniversary with Competitions and Events
+- Most Americans Not Making Year-End Charitable Giving Plans
+- Clashes Break Out Between Syrian Army and Kurdish Forces
+- Instacart Draws Criticism for AI-Based Pricing System
+- Puzzles From NYT Games: Editors' Picks
+- Trump Halts Wind Projects, Including Coastal Virginia Offshore Wind
+- China Confirms Talks Between Wingtech and Nexperia BV
+- England Coach McCullum Wants to Stay in Job After Ashes Defeat
+- Russia Denies Plans to Attack NATO and EU
+- Heritage Foundation Employees Walk Away from Jobs
+- Daiwa to Raise M&A Revenue Target to 100 Billion Yen
+- Jimmy Kimmel to Deliver Alternative Christmas Message
+- NBA Pursues Ownership Groups for European League
+- Intel to Ship AI Chips to Chinese Customers Next Year
 - Actor James Ransone Dies at 46
+- Staff Member to Stand Trial Over Theft of Precious Items
+- DHS Offers $3,000 'Holiday Stipend' to Self-Deport
+- Ex-Players Lose UK Court Bid to Block Disclosure Orders
+- EU Hits Back at China's Dairy Import Tariffs
+- Turning Point USA Conference Marred by Rifts
+- Flooding Hits Southern France After Heavy Rainfall
+- Cartagena to Replace Horse-Drawn Carriages with Electric Buggies
+- AI Boom Pressures Videogame Console Industry
+- HSBC Appoints Ex-Citi Executive to Lead Private Bank
+- Social Security Payments to Be Made This Week
+- Gold Price Hits New All-Time High
+- Massive Sinkhole Develops in English Canal
 
 
 ----
 
-@japan.reuters.com
+@cnn.com
 
-ロシアのリャプコフ外務次官は２２日、ロシアは北大西洋条約機構（ＮＡＴＯ）や欧州連合（ＥＵ）を攻撃する意図はないと、法的拘束力のある文書で確認する用意があると述べた。ロシアの国営通信社ＲＩＡが伝えた。 bit.ly/4pS9MUJ
+Denmark’s foreign minister said Monday he was “deeply upset” by US President Donald Trump’s appointment of a special envoy to Greenland who declared that he wished to see the island become part of the United States. https://cnn.it/4p5V7E4
 
-[2025-12-23 00:48:43](https://bsky.app/profile/japan.reuters.com/post/3mallidks5f2q)
-
----
-
-@washingtonpost.com
-
-Over a dozen Heritage Foundation employees recently walked away from their jobs.
-
-Heritage has been wrapped in controversy after its president defended Tucker Carlson’s interview of Nick Fuentes, a white supremacist who routinely espouses antisemitic views. 
-
-[2025-12-23 00:45:11](https://bsky.app/profile/washingtonpost.com/post/3mallbzj5do25)
+[2025-12-23 01:05:12](https://bsky.app/profile/cnn.com/post/3malmftcvh32u)
 
 ---
 
 @reuters.com
 
-Daiwa to raise M&A revenue target to 100 billion yen by 2031, CEO says reut.rs/4j9KwXe
+US watchdog says paycheck advances no longer subject to lending law reut.rs/4padiZw
 
-[2025-12-23 00:45:11](https://bsky.app/profile/reuters.com/post/3mallbzlq6r24)
-
----
-
-@nytimes.com
-
-Jimmy Kimmel will deliver the so-called alternative Christmas message, a uniquely British tradition, in which he will speak out against fascism on Britain’s Channel 4.
-
-[2025-12-23 00:45:02](https://bsky.app/profile/nytimes.com/post/3mallbrlcgq2r)
+[2025-12-23 01:05:08](https://bsky.app/profile/reuters.com/post/3malmfptmq62p)
 
 ---
 
-@cnbc.com
+@reuters.com
 
-The NBA is pursuing ownership groups for a potential basketball league in Europe
+A small airport in southern Libya — controlled by a military commander allied to the United Arab Emirates — has become a vital conduit for weapons, fuel and mercenaries to a Sudanese paramilitary group, experts and officials say reut.rs/4aplNMv
 
-[2025-12-23 00:44:22](https://bsky.app/profile/cnbc.com/post/3mallakymib2e)
-
----
-
-@japan.reuters.com
-
-米半導体大手エヌビディアは人工知能（ＡＩ）向け先端半導体「Ｈ２００」について、中国の顧客に対し来年２月の春節（旧正月）連休前に出荷を開始することを目指している。関係筋３人がロイターに対し明らかにした。 bit.ly/3KH6Db6
-
-[2025-12-23 00:44:20](https://bsky.app/profile/japan.reuters.com/post/3mallaj2pt72c)
-
----
-
-@usatoday.com
-
-James Ransone, an actor who starred on "The Wire" and "Poker Face" and also appeared in films such as "It: Chapter Two" and "Black Phone," has died. He was 46. bit.ly/4qkgkLv
-
-[2025-12-23 00:43:26](https://bsky.app/profile/usatoday.com/post/3mall6vur6l2z)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Élysée Palace staff member to stand trial over theft of precious tableware 
-
-[2025-12-23 00:42:45](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mall5ovat427)
+[2025-12-23 01:04:08](https://bsky.app/profile/reuters.com/post/3malmdwccdk2g)
 
 ---
 
 @wsj.com
 
-Some of the fastest-growing careers lie in tech-infused, middle-skill roles. If only more people knew about them.
+Typically, the wines available in magnums are either very expensive or very low quality. Our wine expert found 5 magnums that are both good and reasonably priced. on.wsj.com/4pTQT3N
 
-🔗: on.wsj.com/4pEOQjO
-
-[2025-12-23 00:42:08](https://bsky.app/profile/wsj.com/post/3mall4lgtev2h)
+[2025-12-23 01:04:03](https://bsky.app/profile/wsj.com/post/3malmdrwcud2i)
 
 ---
 
-@axios.com
+@japan.reuters.com
 
-The DHS is offering a $3,000 "holiday stipend" to self-deport by 2026
+米金融大手ゴールドマン・サックスの１９日付の顧客向けリポートによると、ヘッジファンドは先週、米国の医療サービス提供などのヘルスケア関連株を１４週間ぶりに売り越した。ロイターが２２日にリポートを確認した。 bit.ly/4qq6s35
 
-[2025-12-23 00:42:07](https://bsky.app/profile/axios.com/post/3mall4jxt5c2x)
+[2025-12-23 01:03:01](https://bsky.app/profile/japan.reuters.com/post/3malmbwkjwa2c)
+
+---
+
+@en.afp.com
+
+🎅 Santa Claus delivers presents around the world
+
+From abseiling from a bridge to diving underwater with a shark, Santa Claus is taking on challenges around the world to deliver gifts and entertain children. 
+#AFPVertical
+
+[2025-12-23 01:01:38](https://bsky.app/profile/en.afp.com/post/3malm7go4et2k)
+
+---
+
+@nbcnews.com
+
+Three men will stand trial next year after a silver steward employed at the official residence of the French president was arrested this week in the theft of items of silverware and table service worth thousands of euros, the Paris prosecutor’s office says.
+
+[2025-12-23 01:01:35](https://bsky.app/profile/nbcnews.com/post/3malm7enhvs2d)
+
+---
+
+@usatoday.com
+
+Beyoncé opened 2025 with historic Grammy wins and closed it with another major achievement. Here’s a look back at her massive year.
+
+[2025-12-23 01:01:04](https://bsky.app/profile/usatoday.com/post/3malm6gckml2f)
+
+---
+
+@reuters.com
+
+Exclusive: China likely loaded more than 100 ICBMs in silo fields, Pentagon report says reut.rs/4apmc1t
+
+[2025-12-23 01:00:51](https://bsky.app/profile/reuters.com/post/3malm62n23r2r)
+
+---
+
+@washingtonpost.com
+
+The Trump administration has begun to detail events to mark the 250th anniversary of the nation’s founding next year, including a competitive youth athletic event, a fair and a UFC fight on the grounds of the White House.
+
+[2025-12-23 01:00:48](https://bsky.app/profile/washingtonpost.com/post/3malm5xlrut2i)
 
 ---
 
