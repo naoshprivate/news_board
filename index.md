@@ -1,9 +1,9 @@
-# [2025-12-22 16:30 updated](2025_12_22.md)
+# [2025-12-22 16:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Vice President JD Vance acknowledged the controversies that dominated the Turning Point conference, but he did not define any boundaries for the conservative movement besides patriotism. n.pr/4qlRL0Q <a href="https://bsky.app/profile/npr.org/post/3makpl6t2sh2e" target="_blank">npr.org</a> (2025-12-22 16:29:13)</span><span style="padding-right:50px;">Donald Trump names special envoy for Greenland ft.trib.al/gLS8dTw <a href="https://bsky.app/profile/financialtimes.com/post/3makpgs2zxm2w" target="_blank">financialtimes.com</a> (2025-12-22 16:26:46)</span><span style="padding-right:50px;">シドニー株式市場は続伸し１カ月超ぶりの高値で引けた。鉱業株がけん引したほか、年末を控え幅広い銘柄に買いが入った。 bit.ly/4pTbZ2f <a href="https://bsky.app/profile/japan.reuters.com/post/3makpgesjpi2c" target="_blank">japan.reuters.com</a> (2025-12-22 16:26:32)</span><span style="padding-right:50px;">Which bullish 2026 equity plays don’t require AI euphoria? reut.rs/48NyrUm <a href="https://bsky.app/profile/reuters.com/post/3makpdxqqj32o" target="_blank">reuters.com</a> (2025-12-22 16:25:11)</span><span style="padding-right:50px;">株価 5万円台を回復 NY市場で主要3指数の上昇を受け買い注文 https://news.web.nhk/newsweb/na/na-k10015010281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makpc53j6t2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 16:24:08)</span>
+<span style="padding-right:50px;">Coty appoints Markus Strobel as interim CEO starting January reut.rs/4aZDQJg <a href="https://bsky.app/profile/reuters.com/post/3makqhtmmsf23" target="_blank">reuters.com</a> (2025-12-22 16:45:15)</span><span style="padding-right:50px;">■レートは終値（前日比または前週末比）、安値─高値 bit.ly/4qGfnh1 <a href="https://bsky.app/profile/japan.reuters.com/post/3makqgffu7o2u" target="_blank">japan.reuters.com</a> (2025-12-22 16:44:26)</span><span style="padding-right:50px;">The pharmaceutical company said its ceralasertib combination didn’t meet the primary goal of a late-stage clinical trial for advanced lung cancer. on.wsj.com/48SmbBW <a href="https://bsky.app/profile/wsj.com/post/3makqfrnc7t2e" target="_blank">wsj.com</a> (2025-12-22 16:44:05)</span><span style="padding-right:50px;">Her 401(k) contributions went missing, and no one could tell her why. One woman's yearslong quest to find the money. on.wsj.com/4qdfEaJ <a href="https://bsky.app/profile/wsj.com/post/3makqe2gp722t" target="_blank">wsj.com</a> (2025-12-22 16:43:06)</span><span style="padding-right:50px;">東京23区 11月の新築マンション平均価格が1億2420万円に https://news.web.nhk/newsweb/na/na-k10015010551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makqc6dxdr24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 16:42:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.43 (🔻0.32 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.39 (🔻0.36 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,98 +32,94 @@
 
 ## News Headlines
 
-- US Vice President acknowledges controversies at Turning Point conference
-- Donald Trump names special envoy for Greenland
-- Sydney stock market hits one-month high
-- Japanese stock market recovers to 50,000 yen level
-- New Zealand, India agree on free trade deal
-- Russian general killed in Moscow car bombing
+- Coty Appoints Markus Strobel as Interim CEO Starting January
+- Tokyo's 23 Wards November New House Price Average Reaches ¥124.2 Million
+- Pharmaceutical Company's Cancer Treatment Fails to Meet Clinical Trial Goals
+- UK Economy Grows by 0.1% in Third Quarter, ONS Says
+- South Korea Tax Agency Conducts Special Audit of Coupang Following Data Leak
+- UK's Harbour Energy to Enter Gulf of Mexico with $3.2 Billion LLOG Deal
 
 
 ----
 
-@npr.org
-
-Vice President JD Vance acknowledged the controversies that dominated the Turning Point conference, but he did not define any boundaries for the conservative movement besides patriotism. n.pr/4qlRL0Q
-
-[2025-12-22 16:29:13](https://bsky.app/profile/npr.org/post/3makpl6t2sh2e)
-
----
-
-@financialtimes.com
-
-Donald Trump names special envoy for Greenland ft.trib.al/gLS8dTw
-
-[2025-12-22 16:26:46](https://bsky.app/profile/financialtimes.com/post/3makpgs2zxm2w)
-
----
-
-@japan.reuters.com
-
-シドニー株式市場は続伸し１カ月超ぶりの高値で引けた。鉱業株がけん引したほか、年末を控え幅広い銘柄に買いが入った。 bit.ly/4pTbZ2f
-
-[2025-12-22 16:26:32](https://bsky.app/profile/japan.reuters.com/post/3makpgesjpi2c)
-
----
-
 @reuters.com
 
-Which bullish 2026 equity plays don’t require AI euphoria? reut.rs/48NyrUm
+Coty appoints Markus Strobel as interim CEO starting January reut.rs/4aZDQJg
 
-[2025-12-22 16:25:11](https://bsky.app/profile/reuters.com/post/3makpdxqqj32o)
-
----
-
-@nhknewsunofficial.bsky.social
-
-株価 5万円台を回復 NY市場で主要3指数の上昇を受け買い注文
-https://news.web.nhk/newsweb/na/na-k10015010281000
-
-[2025-12-22 16:24:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makpc53j6t2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-秋田 卸売市場の倉庫にクマ侵入目撃される 市などが対応
-https://news.web.nhk/newsweb/na/na-k10015010521000
-
-[2025-12-22 16:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makpby5qed2w)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】広末涼子さんを過失運転致傷の罪で略式起訴 走行速度は185キロ 傷害事件については不起訴処分 静岡地検「事案の軽重や関係証拠の内容も踏まえ」 4月8日に現行犯逮捕され同月…
-(2025-12-22 16:00) #ニュース
-
-[2025-12-22 16:20:37](https://bsky.app/profile/sokuho.news/post/3makp3smy6u2x)
+[2025-12-22 16:45:15](https://bsky.app/profile/reuters.com/post/3makqhtmmsf23)
 
 ---
 
 @japan.reuters.com
 
-オーストラリア・シドニー近郊のボンダイビーチで発生した銃乱射事件を受け、アルバニージー首相への批判が強まっている。 bit.ly/4pTbPYH
+■レートは終値（前日比または前週末比）、安値─高値 bit.ly/4qGfnh1
 
-[2025-12-22 16:20:15](https://bsky.app/profile/japan.reuters.com/post/3makp35oyzy2q)
-
----
-
-@japan.reuters.com
-
-投資会社ありあけキャピタル（東京都中央区）が、大垣共立銀行株を５．６５％保有していることが分かった。２２日、関東財務局に大量保有報告書を提出した。保有目的は「純投資および状況に応じて経営陣への助言、重要提案行為等を行うこと」としている。報告義務発生日は１５日。 bit.ly/4pM6sdB
-
-[2025-12-22 16:20:07](https://bsky.app/profile/japan.reuters.com/post/3makp2vrtcv2p)
+[2025-12-22 16:44:26](https://bsky.app/profile/japan.reuters.com/post/3makqgffu7o2u)
 
 ---
 
 @wsj.com
 
-The most dog-friendly city in America is getting sick of all the dogs. on.wsj.com/3YwNc7Q
+The pharmaceutical company said its ceralasertib combination didn’t meet the primary goal of a late-stage clinical trial for advanced lung cancer. on.wsj.com/48SmbBW
 
-[2025-12-22 16:16:11](https://bsky.app/profile/wsj.com/post/3makotuf3nl2g)
+[2025-12-22 16:44:05](https://bsky.app/profile/wsj.com/post/3makqfrnc7t2e)
+
+---
+
+@wsj.com
+
+Her 401(k) contributions went missing, and no one could tell her why. One woman's yearslong quest to find the money. on.wsj.com/4qdfEaJ
+
+[2025-12-22 16:43:06](https://bsky.app/profile/wsj.com/post/3makqe2gp722t)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+東京23区 11月の新築マンション平均価格が1億2420万円に
+https://news.web.nhk/newsweb/na/na-k10015010551000
+
+[2025-12-22 16:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makqc6dxdr24)
+
+---
+
+@japan.reuters.com
+
+象印マホービンは２２日、２５年１１月期の連結純利益見通しを従来の４８億円から５９億８０００万円に上方修正した。 bit.ly/4qebmQy
+
+[2025-12-22 16:40:17](https://bsky.app/profile/japan.reuters.com/post/3makq6x6ena2q)
+
+---
+
+@japan.reuters.com
+
+金現物が２２日の取引で１オンス＝４４００ドルを初めて突破し、過去最高値を更新した。米連邦準備理事会（ＦＲＢ）の追加利下げ観測や安全資産としての需要、軟調なドル相場などが支援材料となっている。また、銀も過去最高値を更新した。 bit.ly/4p0vPHn
+
+[2025-12-22 16:40:13](https://bsky.app/profile/japan.reuters.com/post/3makq6u7mgg2q)
+
+---
+
+@reuters.com
+
+South Korea tax agency conducts special audit of Coupang following data leak, Yonhap says reut.rs/3Lf7jEH
+
+[2025-12-22 16:40:12](https://bsky.app/profile/reuters.com/post/3makq6t6gln23)
+
+---
+
+@japan.reuters.com
+
+英国立統計局（ＯＮＳ）が２２日発表した第３・四半期の国内総生産（ＧＤＰ）改定値は、前期比０．１％増となり、速報値から修正はなかった。ロイターがまとめたエコノミスト予想とも一致した。 bit.ly/4paOH6x
+
+[2025-12-22 16:38:08](https://bsky.app/profile/japan.reuters.com/post/3makq34h3de2s)
+
+---
+
+@financialtimes.com
+
+‘Next year is the golden opportunity,’ Argentina’s deregulation and state transformation minister Federico Sturzenegger told the Financial Times. ft.trib.al/8TBEFEV
+
+[2025-12-22 16:38:06](https://bsky.app/profile/financialtimes.com/post/3makq326twh2w)
 
 ---
 
