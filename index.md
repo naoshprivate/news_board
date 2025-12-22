@@ -1,9 +1,9 @@
-# [2025-12-22 18:50 updated](2025_12_22.md)
+# [2025-12-22 19:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">東京 赤坂サウナ店火災から1週間 警視庁 店側の安全管理捜査へ https://news.web.nhk/newsweb/na/na-k10015010641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makxdh7n6m2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 18:48:02)</span><span style="padding-right:50px;">Sterling Anderson, who took a top job at GM this summer, is seen as a dark-horse candidate to succeed Chief Executive Mary Barra, who has led the automaker for more than a decade. <a href="https://bsky.app/profile/wsj.com/post/3makxcckmtc23" target="_blank">wsj.com</a> (2025-12-22 18:47:25)</span><span style="padding-right:50px;">金現物が２２日の取引で１オンス＝４４００ドルを初めて突破し、過去最高値を更新した。米連邦準備理事会（ＦＲＢ）の追加利下げ観測や安全資産としての需要、軟調なドル相場などが支援材料となっている。また、銀も過去最高値を更新した。 bit.ly/48Q2BpX <a href="https://bsky.app/profile/japan.reuters.com/post/3makx6ayvcn26" target="_blank">japan.reuters.com</a> (2025-12-22 18:45:10)</span><span style="padding-right:50px;">Trump aides Sacks and Witkoff could face ethics probe over UAE deals, Semafor reports reut.rs/4anP7D3 <a href="https://bsky.app/profile/reuters.com/post/3makx6aaurb2r" target="_blank">reuters.com</a> (2025-12-22 18:45:09)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】関西空港 年末年始の国際線旅客数予想を発表 出発のピークは12月28日、到着のピークは1月4日 中国方面は前年から大幅に減少する一方、韓国と東南アジア方面は好調を維持 (2025-12-22 18:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makwx6fyv62r" target="_blank">sokuho.news</a> (2025-12-22 18:41:12)</span>
+<span style="padding-right:50px;">Officials said the error is likely be too minute for the general public to clock it, but it could affect applications such as critical infrastructure, telecommunications and GPS signals. n.pr/3NbOdQk <a href="https://bsky.app/profile/npr.org/post/3makyjlgf6u2m" target="_blank">npr.org</a> (2025-12-22 19:09:23)</span><span style="padding-right:50px;">自民 萩生田幹事長代行 台湾 頼清徳総統と会談 交流深めたい https://news.web.nhk/newsweb/na/na-k10015010651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makyizgpsn2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 19:09:02)</span><span style="padding-right:50px;">スイス製薬大手ロシェのトーマス・シネッカー最高経営責任者（ＣＥＯ）は１９日のスイス紙とのインタビューで、米政権と製薬各社との米国での薬価引き下げに向けた合意により、スイスの新薬価格が押し上げられる公算が大きいとの見方を示した。 bit.ly/458fwkM <a href="https://bsky.app/profile/japan.reuters.com/post/3makyc2p6eg2c" target="_blank">japan.reuters.com</a> (2025-12-22 19:05:11)</span><span style="padding-right:50px;">NHL roundup: Red Wings edge Caps on Moritz Seider's late OT goal reut.rs/44GYaeG <a href="https://bsky.app/profile/reuters.com/post/3makybxfcwa2i" target="_blank">reuters.com</a> (2025-12-22 19:05:07)</span><span style="padding-right:50px;">China slaps tariffs of up to 42.7% on EU dairy products, alleging 'damage' to the domestic dairy industry <a href="https://bsky.app/profile/cnbc.com/post/3makyb2bxoc24" target="_blank">cnbc.com</a> (2025-12-22 19:04:37)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.45 (🔻0.30 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.37 (🔻0.38 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,112 +32,102 @@
 
 ## News Headlines
 
-- Tokyo sauna shop fire probe shifts to store safety management
-- GM's new CEO seen as potential successor to Mary Barra
-- Gold prices surge to record high, silver also hits record high
-- Trump aides face ethics probe over UAE deals
-- Kansai airport expects record international passenger numbers for year-end
-- China becomes largest importer of Russian oil
-- Turkish team to visit Damascus for talks on SDF integration
-- Asia's worst-performing currency faces rocky start to 2026
-- US Treasury yields edge higher ahead of holiday-shortened week
-- DRAM prices skyrocket due to supply shortage
-- ASEAN ministers agree to discuss ceasefire with Thailand and Cambodia
-- Tokyo stocks close higher, led by AI and semiconductor stocks
-- Germany's auto exports to US decline 14% in first 9 months
-- Chinese AI firm MiniMax to launch Hong Kong IPO in January
-- Tokyo Electric to develop data center near nuclear plant
-- Japan to resume operations at world's largest nuclear plant
-- China's foreign ministry protests over US seizure of ships
-- Major Gulf markets gain on oil, US rate cut hopes
-- Fantasy football losers face public shaming
-- BoJ raises policy rate to 0.75%
-- Sweden releases Russian freighter after customs inspection
+- Swiss pharmaceutical giant Roche CEO says new drug prices in Switzerland may rise due to US government agreement on drug price cuts
+- Japan's government instructs defense minister to increase pay for all military personnel a year earlier than planned
+- Japan's largest nuclear power plant to resume operations after 15 years
+- UBS chair warns Switzerland is 'losing its lustre' and at a 'crossroads with major challenges'
+- Russian general killed in Moscow car bombing
+- Asian currencies face rocky start to 2026, US Treasury yields edge higher
 
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-東京 赤坂サウナ店火災から1週間 警視庁 店側の安全管理捜査へ
-https://news.web.nhk/newsweb/na/na-k10015010641000
-
-[2025-12-22 18:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makxdh7n6m2y)
-
----
-
-@wsj.com
-
-Sterling Anderson, who took a top job at GM this summer, is seen as a dark-horse candidate to succeed Chief Executive Mary Barra, who has led the automaker for more than a decade.
-
-[2025-12-22 18:47:25](https://bsky.app/profile/wsj.com/post/3makxcckmtc23)
-
----
-
-@japan.reuters.com
-
-金現物が２２日の取引で１オンス＝４４００ドルを初めて突破し、過去最高値を更新した。米連邦準備理事会（ＦＲＢ）の追加利下げ観測や安全資産としての需要、軟調なドル相場などが支援材料となっている。また、銀も過去最高値を更新した。 bit.ly/48Q2BpX
-
-[2025-12-22 18:45:10](https://bsky.app/profile/japan.reuters.com/post/3makx6ayvcn26)
-
----
-
-@reuters.com
-
-Trump aides Sacks and Witkoff could face ethics probe over UAE deals, Semafor reports reut.rs/4anP7D3
-
-[2025-12-22 18:45:09](https://bsky.app/profile/reuters.com/post/3makx6aaurb2r)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】関西空港 年末年始の国際線旅客数予想を発表 出発のピークは12月28日、到着のピークは1月4日 中国方面は前年から大幅に減少する一方、韓国と東南アジア方面は好調を維持
-(2025-12-22 18:08) #ニュース
-
-[2025-12-22 18:41:12](https://bsky.app/profile/sokuho.news/post/3makwx6fyv62r)
-
----
-
-@japan.reuters.com
-
-中国が１１月にロシアから輸入した原油は、前年同月比３．４％減の８３５万トン（日量２０３万バレル）だった。ロシアは中国への最大供給国となっている。 bit.ly/3Nb3TDo
-
-[2025-12-22 18:40:10](https://bsky.app/profile/japan.reuters.com/post/3makwvdqgfs22)
-
----
-
-@reuters.com
-
-Telecom Italia moves to ditch costly savings shares reut.rs/4jbxJ6L
-
-[2025-12-22 18:40:09](https://bsky.app/profile/reuters.com/post/3makwvcsrcd2y)
-
----
-
 @npr.org
 
-CBS News Editor-in-Chief Bari Weiss pulled a 60 Minutes segment on allegations of abuses at an El Salvador detention center where the Trump administration sent hundreds of Venezuelan migrants. n.pr/4pagOTD
+Officials said the error is likely be too minute for the general public to clock it, but it could affect applications such as critical infrastructure, telecommunications and GPS signals. n.pr/3NbOdQk
 
-[2025-12-22 18:39:21](https://bsky.app/profile/npr.org/post/3makwtufqrz2e)
+[2025-12-22 19:09:23](https://bsky.app/profile/npr.org/post/3makyjlgf6u2m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民 萩生田幹事長代行 台湾 頼清徳総統と会談 交流深めたい
+https://news.web.nhk/newsweb/na/na-k10015010651000
+
+[2025-12-22 19:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makyizgpsn2b)
 
 ---
 
 @japan.reuters.com
 
-中国外務省は２２日、自民党の萩生田光一幹事長代行が台湾を訪問したことについて、日本に厳正な申し入れを行って抗議したと表明した。 bit.ly/4ql60ms
+スイス製薬大手ロシェのトーマス・シネッカー最高経営責任者（ＣＥＯ）は１９日のスイス紙とのインタビューで、米政権と製薬各社との米国での薬価引き下げに向けた合意により、スイスの新薬価格が押し上げられる公算が大きいとの見方を示した。 bit.ly/458fwkM
 
-[2025-12-22 18:38:11](https://bsky.app/profile/japan.reuters.com/post/3makwrrhn4727)
+[2025-12-22 19:05:11](https://bsky.app/profile/japan.reuters.com/post/3makyc2p6eg2c)
 
 ---
 
-@aljazeera.com
+@reuters.com
 
-A Russian general was killed in Moscow on Monday when an explosive device detonated underneath his car. Authorities say they are investigating whether Ukrainian special services were involved.
+NHL roundup: Red Wings edge Caps on Moritz Seider's late OT goal reut.rs/44GYaeG
 
-[2025-12-22 18:37:29](https://bsky.app/profile/aljazeera.com/post/3makwqjt7e22f)
+[2025-12-22 19:05:07](https://bsky.app/profile/reuters.com/post/3makybxfcwa2i)
+
+---
+
+@cnbc.com
+
+China slaps tariffs of up to 42.7% on EU dairy products, alleging 'damage' to the domestic dairy industry
+
+[2025-12-22 19:04:37](https://bsky.app/profile/cnbc.com/post/3makyb2bxoc24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相 自衛官全体の給与引き上げ 1年前倒しを指示
+https://news.web.nhk/newsweb/na/na-k10015010621000
+
+[2025-12-22 19:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maky6cjuq32s)
+
+---
+
+@nikkei.com
+
+うつ病治療薬、投与3日後から改善効果　塩野義製薬が国内承認を取得（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+治療薬「ズラノロン」について承認を取得。
+
+従来の抗うつ薬は効果が出るまでに6〜8週間かかる場合が多く、治療期間の短縮が期待されます。
+
+#ニュース
+
+[2025-12-22 19:00:40](https://bsky.app/profile/nikkei.com/post/3makxzy2suu2i)
+
+---
+
+@reuters.com
+
+South African rand gains as precious metals prices jump reut.rs/4jdbnBZ
+
+[2025-12-22 19:00:36](https://bsky.app/profile/reuters.com/post/3makxzufn6x2p)
+
+---
+
+@financialtimes.com
+
+Gold and silver hit record highs on geopolitical tensions ft.trib.al/nLsC3cq
+
+[2025-12-22 19:00:31](https://bsky.app/profile/financialtimes.com/post/3makxzpjrwz2o)
+
+---
+
+@apnews.com
+
+James Ransone, the actor who played Ziggy Sobotka in the HBO series “The Wire” and appeared in many other TV shows and movies, has died. He was 46.
+
+[2025-12-22 19:00:23](https://bsky.app/profile/apnews.com/post/3makxzhrzbe2u)
 
 ---
 
