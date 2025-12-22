@@ -1,9 +1,9 @@
-# [2025-12-22 09:50 updated](2025_12_22.md)
+# [2025-12-22 10:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  長期金利 10年もの国債の利回り2.065%に 約26年ぶりの高水準 (2025-12-22 09:48:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3majz726vub2y" target="_blank">sokuho.news</a> (2025-12-22 09:48:44)</span><span style="padding-right:50px;">ロシアとウクライナが米と協議 領土の扱い言及なく進展不透明 https://news.web.nhk/newsweb/na/na-k10015010191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majz5vrve72y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 09:48:03)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “A year ago, we kept hearing that Trump was cool. Is anyone saying that now?” our columnist Ezra Klein writes. <a href="https://bsky.app/profile/nytimes.com/post/3majz2cii4y2y" target="_blank">nytimes.com</a> (2025-12-22 09:46:04)</span><span style="padding-right:50px;">Japan will take 'appropriate' action against excessive yen moves, top currency diplomat says reut.rs/4j9oLa1 <a href="https://bsky.app/profile/reuters.com/post/3majyynr7si2k" target="_blank">reuters.com</a> (2025-12-22 09:45:09)</span><span style="padding-right:50px;">中国税関総署によると、１１月は米国からの大豆輸入が３カ月連続でゼロとなった。米国との貿易戦争が長引けば供給不足になるとの懸念から、買い手が南米産に乗り換えたという。前年同月は２７９万トン輸入していた。 bit.ly/4j5BiLM <a href="https://bsky.app/profile/japan.reuters.com/post/3majywsntz222" target="_blank">japan.reuters.com</a> (2025-12-22 09:44:07)</span>
+<span style="padding-right:50px;">＜０９：５８＞　新発10年債利回り26年半ぶり2.07％、20年債利回りが3％過去最高水準 bit.ly/3LfRLAx <a href="https://bsky.app/profile/japan.reuters.com/post/3mak2d6u5un25" target="_blank">japan.reuters.com</a> (2025-12-22 10:08:57)</span><span style="padding-right:50px;">日銀が３０年ぶりの高水準となる０．７５％への利上げを決定した。植田和男総裁は会見で、実質金利はまだ極めて低いところにあるとして、利上げ継続の方針を示す一方、今後の利上げペースについて具体的な示唆を与えなかった。日銀では、今回の利上げの影響をつぶさに点検しながら、追加利上げのタイミングは慎重に探るべきだとの声がある。ただ、円安への懸念は政策委員の間でも強く、状況次第では調整が速まる可能性もある。 bit.ly/3Le7e43 <a href="https://bsky.app/profile/japan.reuters.com/post/3mak24g6tnv25" target="_blank">japan.reuters.com</a> (2025-12-22 10:05:09)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】日経平均 一時900円以上値上がり 5万円の大台を回復 円安進行などが上昇要因 (2025-12-22 09:10:27) #ニュース  📈世界の株価 🔗https://sekai-kabuka.com/ <a href="https://bsky.app/profile/sokuho.news/post/3mak237vjpm2a" target="_blank">sokuho.news</a> (2025-12-22 10:04:29)</span><span style="padding-right:50px;">サッカーのスペイン１部は２１日、各地で試合を行い、首位バルセロナは敵地でビリャレアルとの上位対決を２─０で制し、年内首位を確定させた。 bit.ly/49ae6aR <a href="https://bsky.app/profile/japan.reuters.com/post/3majzzmorru2c" target="_blank">japan.reuters.com</a> (2025-12-22 10:03:35)</span><span style="padding-right:50px;">One in six seniors enrolled in Medicare’s drug benefit were prescribed eight or more medications at the same time, a Wall Street Journal analysis of Medicare data found. on.wsj.com/496L6AL <a href="https://bsky.app/profile/wsj.com/post/3majzywparf2t" target="_blank">wsj.com</a> (2025-12-22 10:03:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50300.10 (🔺215.55 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3465.00 (🔻29.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.59 (🔻0.16 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50404.87 (🔺320.32 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3465.00 (🔻29.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.49 (🔻0.26 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,97 +32,108 @@
 
 ## News Headlines
 
-- Japanese Long-term Interest Rate Reaches 26-Year High
-- Ukraine and Russia Engage in Talks with US, Progress Unclear
-- Trump Announces Deal with 9 Major Pharmaceutical Companies
-- Japan to Take Action Against Excessive Yen Moves
-- US Home Prices: Americans' Most Valuable Assets
-- New York City Buys 125,000 Acres of Land for Water Reservoirs
+- Japan's 10-Year Bond Yield Hits 26-Year High of 2.07%
+- BoJ Hikes Interest Rate to 0.75% for First Time in 30 Years
+- Yen Weakens Near Record Low Against Euro as BOJ Keeps Cautious Tone
+- Trump Signs Deal with 9 Big Pharma Companies to Lower Prescription Drug Prices
+- International Court of Justice to Hear Case on Rohingya Genocide in January
+- NYC Mayor-Elect's Family Featured in Video as Part of Conservative Gathering
 
 
 ----
 
-@sokuho.news
+@japan.reuters.com
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>長期金利 10年もの国債の利回り2.065%に 約26年ぶりの高水準</strong><br><strong>(2025-12-22 09:48:21) #ニュース</strong>
+＜０９：５８＞　新発10年債利回り26年半ぶり2.07％、20年債利回りが3％過去最高水準 bit.ly/3LfRLAx
 
-[2025-12-22 09:48:44](https://bsky.app/profile/sokuho.news/post/3majz726vub2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ロシアとウクライナが米と協議 領土の扱い言及なく進展不透明
-https://news.web.nhk/newsweb/na/na-k10015010191000
-
-[2025-12-22 09:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majz5vrve72y)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com 
-
-“A year ago, we kept hearing that Trump was cool. Is anyone saying that now?” our columnist Ezra Klein writes.
-
-[2025-12-22 09:46:04](https://bsky.app/profile/nytimes.com/post/3majz2cii4y2y)
-
----
-
-@reuters.com
-
-Japan will take 'appropriate' action against excessive yen moves, top currency diplomat says reut.rs/4j9oLa1
-
-[2025-12-22 09:45:09](https://bsky.app/profile/reuters.com/post/3majyynr7si2k)
+[2025-12-22 10:08:57](https://bsky.app/profile/japan.reuters.com/post/3mak2d6u5un25)
 
 ---
 
 @japan.reuters.com
 
-中国税関総署によると、１１月は米国からの大豆輸入が３カ月連続でゼロとなった。米国との貿易戦争が長引けば供給不足になるとの懸念から、買い手が南米産に乗り換えたという。前年同月は２７９万トン輸入していた。 bit.ly/4j5BiLM
+日銀が３０年ぶりの高水準となる０．７５％への利上げを決定した。植田和男総裁は会見で、実質金利はまだ極めて低いところにあるとして、利上げ継続の方針を示す一方、今後の利上げペースについて具体的な示唆を与えなかった。日銀では、今回の利上げの影響をつぶさに点検しながら、追加利上げのタイミングは慎重に探るべきだとの声がある。ただ、円安への懸念は政策委員の間でも強く、状況次第では調整が速まる可能性もある。 bit.ly/3Le7e43
 
-[2025-12-22 09:44:07](https://bsky.app/profile/japan.reuters.com/post/3majywsntz222)
-
----
-
-@japan.reuters.com
-
-米ホワイトハウスの国家経済会議（ＮＥＣ）のハセット委員長は１９日、トランプ大統領のインフレ率は極めて低いとする主張は正しいとの考えを示した。 bit.ly/4qlvOif
-
-[2025-12-22 09:40:15](https://bsky.app/profile/japan.reuters.com/post/3majypvcdzf2v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-長期金利 10年もの国債の利回り2.05％に 約26年ぶりの高水準
-https://news.web.nhk/newsweb/na/na-k10015010211000
-
-[2025-12-22 09:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majynshttr2d)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領は１９日、薬価引き下げで新たに大手製薬会社９社と合意したと発表した。７月に価格引き下げを求めた１７社のうち１４社が応じたことになる。 bit.ly/4pOY0dA
-
-[2025-12-22 09:38:44](https://bsky.app/profile/japan.reuters.com/post/3majyn6j47m2c)
+[2025-12-22 10:05:09](https://bsky.app/profile/japan.reuters.com/post/3mak24g6tnv25)
 
 ---
 
 @sokuho.news
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>長期金利 10年もの国債の利回り2.05%に 約26年ぶりの高水準</strong><br><strong>(2025-12-22 09:38:00) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10015010211000</strong>
+🛎️JNNより【速報】です。
 
-[2025-12-22 09:38:27](https://bsky.app/profile/sokuho.news/post/3majymnvmnp2b)
+【速報】日経平均 一時900円以上値上がり 5万円の大台を回復 円安進行などが上昇要因
+(2025-12-22 09:10:27) #ニュース
+
+📈世界の株価
+🔗https://sekai-kabuka.com/
+
+[2025-12-22 10:04:29](https://bsky.app/profile/sokuho.news/post/3mak237vjpm2a)
 
 ---
 
 @japan.reuters.com
 
-英国のスターマー首相は２１日、トランプ米大統領とウクライナ紛争の「公正で永続的な終結」を達成するための取り組みについて協議した。英首相官邸が明らかにした。 bit.ly/48QIgB0
+サッカーのスペイン１部は２１日、各地で試合を行い、首位バルセロナは敵地でビリャレアルとの上位対決を２─０で制し、年内首位を確定させた。 bit.ly/49ae6aR
 
-[2025-12-22 09:36:40](https://bsky.app/profile/japan.reuters.com/post/3majyjhska22p)
+[2025-12-22 10:03:35](https://bsky.app/profile/japan.reuters.com/post/3majzzmorru2c)
+
+---
+
+@wsj.com
+
+One in six seniors enrolled in Medicare’s drug benefit were prescribed eight or more medications at the same time, a Wall Street Journal analysis of Medicare data found. on.wsj.com/496L6AL
+
+[2025-12-22 10:03:12](https://bsky.app/profile/wsj.com/post/3majzywparf2t)
+
+---
+
+@en.afp.com
+
+Divers dressed as Santa Claus swim in the tanks of AquaRio, an annual tradition in the Rio de Janeiro aquarium.
+
+[2025-12-22 10:01:33](https://bsky.app/profile/en.afp.com/post/3majzvy4vfq26)
+
+---
+
+@japan.reuters.com
+
+米司法省は２１日、性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関する公開資料の中でウェブサイトから一時削除していたトランプ大統領の写真を再び掲載したと発表した。トランプ氏と写真に写っている複数の女性の中にエプスタイン氏の被害者はいないと当局が確認したためという。 bit.ly/3KLKicp
+
+[2025-12-22 10:01:23](https://bsky.app/profile/japan.reuters.com/post/3majzvormzc22)
+
+---
+
+@cnbc.com
+
+There are kids who grow up to be successful, and there are kids who grow up to be "exceptional." 
+
+Psychologist Kumar Mehta explains the difference, and how parents can raise exceptional kids.
+
+[2025-12-22 10:00:47](https://bsky.app/profile/cnbc.com/post/3majzulnflt25)
+
+---
+
+@usatoday.com
+
+The New York City mayor-elect and multi-award-winning actor's family were a part of the Dec. 20 video.
+
+[2025-12-22 10:00:40](https://bsky.app/profile/usatoday.com/post/3majzufntp62f)
+
+---
+
+@nikkei.com
+
+｢ドローンショー｣広告急増、5年後1兆円市場へ
+www.nikkei.com/article/DGXZQO...
+
+夜空に浮かぶ巨大な「ミャクミャク」や「パリッ」とはじけるソーセージ…。
+
+企業広告としての活用が広がり存在感を増す「ドローンショー」。
+
+広告が嫌われがちな現代において、楽しさと驚きを伴う新しい広告体験を生み出しています。
+
+[2025-12-22 10:00:39](https://bsky.app/profile/nikkei.com/post/3majzuegjmg24)
 
 ---
 
