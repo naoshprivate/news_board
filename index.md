@@ -1,9 +1,9 @@
-# [2025-12-22 14:10 updated](2025_12_22.md)
+# [2025-12-22 14:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">What retirement looks like when you wait until you're 75. on.wsj.com/490Zt9E <a href="https://bsky.app/profile/wsj.com/post/3makhpk3b4k2z" target="_blank">wsj.com</a> (2025-12-22 14:08:29)</span><span style="padding-right:50px;">＜１３：５０＞　日経平均は高値もみ合い、米株先物のプラス推移が支え bit.ly/48P9FmN <a href="https://bsky.app/profile/japan.reuters.com/post/3makhph6jdt2s" target="_blank">japan.reuters.com</a> (2025-12-22 14:08:27)</span><span style="padding-right:50px;"> Year in a Word: Remigration ft.trib.al/7uPI6a9  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3makhnay7ux2k" target="_blank">financialtimes.com</a> (2025-12-22 14:07:13)</span><span style="padding-right:50px;"> What David Ellison can learn from a hostile bid battle of his father ft.trib.al/msBNeKe  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3makhnaw3it23" target="_blank">financialtimes.com</a> (2025-12-22 14:07:13)</span><span style="padding-right:50px;">CBS News pulled a segment on Trump administration deportations of Venezuelan immigrants to an El Salvador prison from "60 Minutes," causing staffers and media onlookers to question whether the decision was politically motivated. <a href="https://bsky.app/profile/axios.com/post/3makhmjepl225" target="_blank">axios.com</a> (2025-12-22 14:06:48)</span>
+<span style="padding-right:50px;">A 3-year-old was put on ADHD meds for acting up in daycare. That was the first of six different psychiatric drugs. How a childhood of overmedication begins. on.wsj.com/44ADmFE <a href="https://bsky.app/profile/wsj.com/post/3makiumq4zo2e" target="_blank">wsj.com</a> (2025-12-22 14:29:14)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】H3ロケット8号機の打ち上げ失敗 衛星を予定の軌道に投入できず 文部科学省 (2025年12月22日 13:58) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makirahnlw2z" target="_blank">sokuho.news</a> (2025-12-22 14:27:20)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】H3ロケット8号機打ち上げ失敗…文科省 第2段エンジンの早期燃焼停止の状況確認 JAXAが会見へ (2025-12-22 14:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makimpj66m2x" target="_blank">sokuho.news</a> (2025-12-22 14:24:48)</span><span style="padding-right:50px;">米ＣＢＳニュースは、ドキュメンタリー番組「６０ミニッツ」で放映する予定だったエルサルバドルの巨大刑務所ＣＥＣＯＴに関する調査報道を２１日の放送予定時間の数時間前に延期した。 bit.ly/4qlE6qn <a href="https://bsky.app/profile/japan.reuters.com/post/3makilqkidi22" target="_blank">japan.reuters.com</a> (2025-12-22 14:24:16)</span><span style="padding-right:50px;">UK cannot ignore deep-sea threat from Russia, head of Navy warns ft.trib.al/nw6EsnT <a href="https://bsky.app/profile/financialtimes.com/post/3makikibmzj2f" target="_blank">financialtimes.com</a> (2025-12-22 14:23:34)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50447.70 (🔺363.15 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3450.00 (🔻44.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.35 (🔻0.40 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50447.00 (🔺362.45 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3449.00 (🔻45.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.30 (🔻0.45 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,98 +32,99 @@
 
 ## News Headlines
 
-- Retirees wait until 75 to stop working, and this is what it looks like
-- Japan's Nikkei average hits record high on US futures support
-- Year in a Word: Remigration
-- What David Ellison can learn from his father's hostile bid battle
-- CBS News drops report on Trump administration's deportations of Venezuelan immigrants
-- Japan's H3 rocket fails to put satellite into orbit
+- Japan Approves Reopening of Nuclear Power Plant After Locals Agree to Allow It
+- Cryptocurrency Firm May Be Removed From Major Stock Indexes Due to Bitcoin Holdings
+- Ukraine Conflict: Johnson and Trump Discuss Path to Peace
+- Brazil Sees Record FDI Inflows in November
+- Russia's War Effort Influenced by Flawed Information, Western Officials Say
+- Binance Allowed Suspicious Accounts to Operate After US Plea Agreement
 
 
 ----
 
 @wsj.com
 
-What retirement looks like when you wait until you're 75. on.wsj.com/490Zt9E
+A 3-year-old was put on ADHD meds for acting up in daycare. That was the first of six different psychiatric drugs. How a childhood of overmedication begins. on.wsj.com/44ADmFE
 
-[2025-12-22 14:08:29](https://bsky.app/profile/wsj.com/post/3makhpk3b4k2z)
-
----
-
-@japan.reuters.com
-
-＜１３：５０＞　日経平均は高値もみ合い、米株先物のプラス推移が支え bit.ly/48P9FmN
-
-[2025-12-22 14:08:27](https://bsky.app/profile/japan.reuters.com/post/3makhph6jdt2s)
-
----
-
-@financialtimes.com
-
- Year in a Word: Remigration ft.trib.al/7uPI6a9  | opinion
-
-[2025-12-22 14:07:13](https://bsky.app/profile/financialtimes.com/post/3makhnay7ux2k)
-
----
-
-@financialtimes.com
-
- What David Ellison can learn from a hostile bid battle of his father ft.trib.al/msBNeKe  | opinion
-
-[2025-12-22 14:07:13](https://bsky.app/profile/financialtimes.com/post/3makhnaw3it23)
-
----
-
-@axios.com
-
-CBS News pulled a segment on Trump administration deportations of Venezuelan immigrants to an El Salvador prison from "60 Minutes," causing staffers and media onlookers to question whether the decision was politically motivated.
-
-[2025-12-22 14:06:48](https://bsky.app/profile/axios.com/post/3makhmjepl225)
-
----
-
-@nikkei.com
-
-柏崎刈羽原発、26年1月に再稼働　地元同意の手続き完了へ（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-12-22 14:06:15](https://bsky.app/profile/nikkei.com/post/3makhljmw6g2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-官房長官 “内閣高支持率維持コメント控える 強い経済へ全力”
-https://news.web.nhk/newsweb/na/na-k10015010431000
-
-[2025-12-22 14:06:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makhlddbuo2u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【ライブ予定】H3ロケット みちびき5号機搭載 打ち上げ失敗
-https://news.web.nhk/newsweb/na/na-k10015009941000
-
-[2025-12-22 14:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makhl73r4h2x)
+[2025-12-22 14:29:14](https://bsky.app/profile/wsj.com/post/3makiumq4zo2e)
 
 ---
 
 @sokuho.news
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>【ライブ予定】H3ロケット みちびき5号機搭載 打ち上げ失敗</strong><br><strong>(2025-12-22 14:05:14) #ニュース</strong>
+🔔ANNより【速報】です。
 
-[2025-12-22 14:05:47](https://bsky.app/profile/sokuho.news/post/3makhkostzc2a)
+【速報】H3ロケット8号機の打ち上げ失敗 衛星を予定の軌道に投入できず 文部科学省
+(2025年12月22日 13:58) #ニュース
+
+[2025-12-22 14:27:20](https://bsky.app/profile/sokuho.news/post/3makirahnlw2z)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】H3ロケット8号機打ち上げ失敗…文科省 第2段エンジンの早期燃焼停止の状況確認 JAXAが会見へ
+(2025-12-22 14:24) #ニュース
+
+[2025-12-22 14:24:48](https://bsky.app/profile/sokuho.news/post/3makimpj66m2x)
 
 ---
 
 @japan.reuters.com
 
-英国のスターマー首相は２１日、トランプ米大統領とウクライナ紛争の「公正で永続的な終結」を達成するための取り組みについて協議した。英首相官邸が明らかにした。 bit.ly/49nYyRS
+米ＣＢＳニュースは、ドキュメンタリー番組「６０ミニッツ」で放映する予定だったエルサルバドルの巨大刑務所ＣＥＣＯＴに関する調査報道を２１日の放送予定時間の数時間前に延期した。 bit.ly/4qlE6qn
 
-[2025-12-22 14:05:13](https://bsky.app/profile/japan.reuters.com/post/3makhjorlyd2n)
+[2025-12-22 14:24:16](https://bsky.app/profile/japan.reuters.com/post/3makilqkidi22)
+
+---
+
+@financialtimes.com
+
+UK cannot ignore deep-sea threat from Russia, head of Navy warns ft.trib.al/nw6EsnT
+
+[2025-12-22 14:23:34](https://bsky.app/profile/financialtimes.com/post/3makikibmzj2f)
+
+---
+
+@japan.reuters.com
+
+ブラジル中郷銀行が１９日公表した１１月の外国直接投資（ＦＤＩ）は９８億２０００万ドルと、エコノミスト予想の６５億ドルを大きく上回り、年初来の累計でも中銀の通年見通しを上回った。 bit.ly/48N9us8
+
+[2025-12-22 14:21:06](https://bsky.app/profile/japan.reuters.com/post/3makig2yerl2n)
+
+---
+
+@financialtimes.com
+
+Milei’s ‘chainsaw’ minister pushes major reforms for 2026 ft.trib.al/6k172wD
+
+[2025-12-22 14:20:32](https://bsky.app/profile/financialtimes.com/post/3makif2we2q2k)
+
+---
+
+@reuters.com
+
+Japan eyes $7 trillion household savings pile for fresh bond demand reut.rs/4pP6bqi
+
+[2025-12-22 14:20:14](https://bsky.app/profile/reuters.com/post/3makiejmjg42b)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は１９日、薬価引き下げで新たに大手製薬会社９社と合意したと発表した。７月に価格引き下げを求めた１７社のうち１４社が応じたことになる。 bit.ly/48VttU8
+
+[2025-12-22 14:20:13](https://bsky.app/profile/japan.reuters.com/post/3makiejcv5h2p)
+
+---
+
+@japan.reuters.com
+
+新潟県議会は２２日、東京電力柏崎刈羽原子力発電所の再稼働を巡り、再稼働関連予算を盛り込んだ補正予算案を可決したほか、再稼働容認を表明した花角英世知事が職務を続けることを認めた。これにより再稼働の最大の焦点となっていた「地元同意」の手続きが完了した。再稼働に向けて具体的に進むことになる。 bit.ly/3MLZ5Ex
+
+[2025-12-22 14:18:57](https://bsky.app/profile/japan.reuters.com/post/3makicaqbya22)
 
 ---
 
