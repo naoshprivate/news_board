@@ -1,9 +1,9 @@
-# [2025-12-22 21:30 updated](2025_12_22.md)
+# [2025-12-22 21:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔊 ‘This massive amount of funding that's coming to ICE and Border Patrol over the next four years is really going to allow them to ramp up their enforcement.’ Listen to the Reuters World News podcast for more on the $107 billion earmarked for Trump’s ramped up crackdown plan reut.rs/4s7EGK3 <a href="https://bsky.app/profile/reuters.com/post/3malacbgdnk2g" target="_blank">reuters.com</a> (2025-12-22 21:28:28)</span><span style="padding-right:50px;">日銀が３０年ぶりの水準へと利上げしたが、ドルは１５７円台まで上昇、ドル高／円安が止まらない。円ショートの投資家にとって、次回利上げまで時間的な猶予ができた側面が意識されているためだ。日本サイドとして為替介入以外、目先の円高方向へのカードは残っていないとの見方に加え、その効果への疑念もつきまとう。しばらくは市場と当局の神経戦が続きそうだ。 bit.ly/3MPXBJk <a href="https://bsky.app/profile/japan.reuters.com/post/3mala4hwe5i22" target="_blank">japan.reuters.com</a> (2025-12-22 21:25:13)</span><span style="padding-right:50px;">Porsche to wind down charging network in tough China market, agency reports reut.rs/4911C53 <a href="https://bsky.app/profile/reuters.com/post/3mala4dka2s2o" target="_blank">reuters.com</a> (2025-12-22 21:25:09)</span><span style="padding-right:50px;">A Russian general was killed when a bomb fitted to the underside of his vehicle exploded, Russia’s investigative committee said, an attack that Moscow said could have been planned by Ukraine. <a href="https://bsky.app/profile/wsj.com/post/3mal7wryfdf2s" target="_blank">wsj.com</a> (2025-12-22 21:22:02)</span><span style="padding-right:50px;">🇹🇲 Turkmenistan village forced to move by advancing desert sands  "The village used to be on a hill north of this place," says Kakabai Baimedov, an elderly resident in the Turkmen village of Bokurdak, which has in recent years been forced to move by encroaching desert sands. <a href="https://bsky.app/profile/en.afp.com/post/3mal7utafvc2s" target="_blank">en.afp.com</a> (2025-12-22 21:20:57)</span>
+<span style="padding-right:50px;">TSX futures rise on commodity strength as holiday week begins reut.rs/3KILo8P <a href="https://bsky.app/profile/reuters.com/post/3malbacs46h24" target="_blank">reuters.com</a> (2025-12-22 21:45:16)</span><span style="padding-right:50px;">韓国国税庁は不正アクセスにより大規模な顧客情報流出が発生したインターネット通販大手クーパンに対し、特別税務調査を実施している。聯合ニュースが２２日報じた。 bit.ly/3YFjEVL <a href="https://bsky.app/profile/japan.reuters.com/post/3malbac4zav2c" target="_blank">japan.reuters.com</a> (2025-12-22 21:45:15)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:沖縄本島北西沖, 深さ:90km マグニチュード:4.5, 最大震度:1 📍https://www.google.com/maps?q=26.1,126.1&ll=26.1,126.1&z=7&t=h 地震発生日時:2025-12-22 21:38頃 (10倍速▶210s→21s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3malb37sace2a" target="_blank">sokuho.news</a> (2025-12-22 21:42:24)</span><span style="padding-right:50px;">フジテレビ親会社 旧村上ファンド側に経営関わり方説明求める https://news.web.nhk/newsweb/na/na-k10015010771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malb2n435h2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 21:42:03)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  21時38分頃、沖縄県で最大震度1の地震を観測しました。 震源:沖縄本島北西沖, 深さ:90km, 規模:M4.5 この地震による津波の心配はありません。 (2025-12-22 21:41:28) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/22/2025-12-22-21-38-27.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3malazlbgmz26" target="_blank">sokuho.news</a> (2025-12-22 21:41:29)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.43 (🔻0.32 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.40 (🔻0.35 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,97 +32,106 @@
 
 ## News Headlines
 
-- US to triple exit bonus for undocumented migrants who leave US by 2025
-- Australia to fast-track new gun and protest laws after mass shooting
-- Porsche to wind down charging network in tough China market
-- US lawmakers threaten contempt action over unreleased Epstein material
-- Gold price climbs above $4,400 to hit record high
-- Betty Reid Soskin, iconic former National Park Service ranger, dies at 104
+- TSX futures rise on commodity strength as holiday week begins
+- Japan tax agency conducts special tax investigation on e-commerce giant Kuapn following large-scale customer data leak
+- US labor market ends 2025 on a sour note with companies trimming head count and wage gains slowing
+- New Zealand and India agree on free trade deal, aiming to double bilateral trade within five years
+- IMF reserve data shows stabilization in third quarter
+- Iran insists its missile program is defensive, not a threat to global security
 
 
 ----
 
 @reuters.com
 
-🔊 ‘This massive amount of funding that's coming to ICE and Border Patrol over the next four years is really going to allow them to ramp up their enforcement.’ Listen to the Reuters World News podcast for more on the $107 billion earmarked for Trump’s ramped up crackdown plan reut.rs/4s7EGK3
+TSX futures rise on commodity strength as holiday week begins reut.rs/3KILo8P
 
-[2025-12-22 21:28:28](https://bsky.app/profile/reuters.com/post/3malacbgdnk2g)
+[2025-12-22 21:45:16](https://bsky.app/profile/reuters.com/post/3malbacs46h24)
 
 ---
 
 @japan.reuters.com
 
-日銀が３０年ぶりの水準へと利上げしたが、ドルは１５７円台まで上昇、ドル高／円安が止まらない。円ショートの投資家にとって、次回利上げまで時間的な猶予ができた側面が意識されているためだ。日本サイドとして為替介入以外、目先の円高方向へのカードは残っていないとの見方に加え、その効果への疑念もつきまとう。しばらくは市場と当局の神経戦が続きそうだ。 bit.ly/3MPXBJk
+韓国国税庁は不正アクセスにより大規模な顧客情報流出が発生したインターネット通販大手クーパンに対し、特別税務調査を実施している。聯合ニュースが２２日報じた。 bit.ly/3YFjEVL
 
-[2025-12-22 21:25:13](https://bsky.app/profile/japan.reuters.com/post/3mala4hwe5i22)
+[2025-12-22 21:45:15](https://bsky.app/profile/japan.reuters.com/post/3malbac4zav2c)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-Porsche to wind down charging network in tough China market, agency reports reut.rs/4911C53
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-22 21:25:09](https://bsky.app/profile/reuters.com/post/3mala4dka2s2o)
+震源:沖縄本島北西沖, 深さ:90km
+マグニチュード:4.5, 最大震度:1
+📍https://www.google.com/maps?q=26.1,126.1&ll=26.1,126.1&z=7&t=h
+地震発生日時:2025-12-22 21:38頃
+(10倍速▶210s→21s) #地震
+
+[2025-12-22 21:42:24](https://bsky.app/profile/sokuho.news/post/3malb37sace2a)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+フジテレビ親会社 旧村上ファンド側に経営関わり方説明求める
+https://news.web.nhk/newsweb/na/na-k10015010771000
+
+[2025-12-22 21:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malb2n435h2v)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+21時38分頃、沖縄県で最大震度1の地震を観測しました。
+震源:沖縄本島北西沖, 深さ:90km, 規模:M4.5
+この地震による津波の心配はありません。
+(2025-12-22 21:41:28) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/22/2025-12-22-21-38-27.html?xlarge_image=1
+
+[2025-12-22 21:41:29](https://bsky.app/profile/sokuho.news/post/3malazlbgmz26)
 
 ---
 
 @wsj.com
 
-A Russian general was killed when a bomb fitted to the underside of his vehicle exploded, Russia’s investigative committee said, an attack that Moscow said could have been planned by Ukraine.
+The U.S. labor market is ending 2025 on a sour note: Many companies trimmed head count and wage gains slowed.
 
-[2025-12-22 21:22:02](https://bsky.app/profile/wsj.com/post/3mal7wryfdf2s)
-
----
-
-@en.afp.com
-
-🇹🇲 Turkmenistan village forced to move by advancing desert sands
-
-"The village used to be on a hill north of this place," says Kakabai Baimedov, an elderly resident in the Turkmen village of Bokurdak, which has in recent years been forced to move by encroaching desert sands.
-
-[2025-12-22 21:20:57](https://bsky.app/profile/en.afp.com/post/3mal7utafvc2s)
+[2025-12-22 21:41:04](https://bsky.app/profile/wsj.com/post/3malayst2lw2i)
 
 ---
 
-@japan.reuters.com
+@wsj.com
 
-中国外務省は２２日、米国による他国船舶の恣意的な拿捕は重大な国際法違反であり、中国はあらゆる一方的で違法な制裁に反対すると述べた。 bit.ly/4j6BGtq
+Today’s AI founders might have a learner’s permit and a mouthful of braces. Teens are getting an early start in business by leveraging vibe-coding and social media.
 
-[2025-12-22 21:20:17](https://bsky.app/profile/japan.reuters.com/post/3mal7tn3mgm2c)
+[2025-12-22 21:40:50](https://bsky.app/profile/wsj.com/post/3malayfk5nx2h)
 
 ---
 
-@cbsnews.com
+@npr.org
 
-Search efforts are underway in Pacific Grove after a swimmer went missing Sunday afternoon.  
+Dueling Safdie brother movie projects, Love Island USA chaos, a feces-filled And Just Like That … finale: looking back on an eclectic year for pop culture. n.pr/4s4Vv8J
 
-
-[2025-12-22 21:20:01](https://bsky.app/profile/cbsnews.com/post/3mal7t663cq2g)
+[2025-12-22 21:40:46](https://bsky.app/profile/npr.org/post/3malaybhr6u2x)
 
 ---
 
 @japan.reuters.com
 
-フジ・メディア・ホールディングスは２２日、村上世彰氏や長女の野村絢氏などから議決権比率３３．３％まで同社株を買い増すとの通知を受け取ったことを受け、目的などに関する情報提供を要請する「情報リスト」を交付したと発表した。 bit.ly/3KGMv92
+ニュージーランド（ＮＺ）とインドの両政府は２２日、自由貿易協定（ＦＴＡ）で合意したと発表した。両国は２国間貿易を５年間で倍増させることを目指す。 bit.ly/4aumEeP
 
-[2025-12-22 21:15:16](https://bsky.app/profile/japan.reuters.com/post/3mal7kom6em25)
+[2025-12-22 21:40:17](https://bsky.app/profile/japan.reuters.com/post/3malaxflh542q)
 
 ---
 
 @reuters.com
 
-Netflix refinances part of $59 billion bridge loan tied to Warner Bros Discovery deal reut.rs/4aM2ZHB
+IMF reserve data shows stabilisation in third quarter reut.rs/4pQQOOk
 
-[2025-12-22 21:15:15](https://bsky.app/profile/reuters.com/post/3mal7knermr2b)
-
----
-
-@forbes.com
-
-When Your Friend At The Company Won’t Refer You For A Job
-www.forbes.com/sites/caroli... (Photo: Getty Images)
-
-[2025-12-22 21:14:06](https://bsky.app/profile/forbes.com/post/3mal7ilmq7k2e)
+[2025-12-22 21:40:16](https://bsky.app/profile/reuters.com/post/3malaxeq4id2i)
 
 ---
 
