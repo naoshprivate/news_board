@@ -1,9 +1,9 @@
-# [2025-12-22 16:10 updated](2025_12_22.md)
+# [2025-12-22 16:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ニュージーランド（ＮＺ）とインドの両政府は２２日、自由貿易協定で合意したと発表した。 bit.ly/4p5bvEI <a href="https://bsky.app/profile/japan.reuters.com/post/3makog2uqvl26" target="_blank">japan.reuters.com</a> (2025-12-22 16:08:28)</span><span style="padding-right:50px;">Ravens QB Lamar Jackson (back) exits early in loss to Patriots reut.rs/4qjzVeG <a href="https://bsky.app/profile/reuters.com/post/3makoa6u5i22k" target="_blank">reuters.com</a> (2025-12-22 16:05:11)</span><span style="padding-right:50px;">Japanese authorities have approved a decision to restart the world's biggest nuclear power plant, which has sat dormant for more than a decade following the Fukushima nuclear disaster, in a pivotal moment as the country looks to shift its energy supply away from fossil fuels. https://cnn.it/4atqzbU <a href="https://bsky.app/profile/cnn.com/post/3mako5setks24" target="_blank">cnn.com</a> (2025-12-22 16:03:50)</span><span style="padding-right:50px;">＜１５：３２＞　大引けの日経平均は続伸、節目5万円を回復　ＡＩ関連に買い戻し bit.ly/49o25j6 <a href="https://bsky.app/profile/japan.reuters.com/post/3mako4g6fdn2u" target="_blank">japan.reuters.com</a> (2025-12-22 16:03:04)</span><span style="padding-right:50px;">Uber, Lyft set to trial robotaxis in the UK in partnership with China's Baidu <a href="https://bsky.app/profile/cnbc.com/post/3mako4ejjz32g" target="_blank">cnbc.com</a> (2025-12-22 16:03:02)</span>
+<span style="padding-right:50px;">Vice President JD Vance acknowledged the controversies that dominated the Turning Point conference, but he did not define any boundaries for the conservative movement besides patriotism. n.pr/4qlRL0Q <a href="https://bsky.app/profile/npr.org/post/3makpl6t2sh2e" target="_blank">npr.org</a> (2025-12-22 16:29:13)</span><span style="padding-right:50px;">Donald Trump names special envoy for Greenland ft.trib.al/gLS8dTw <a href="https://bsky.app/profile/financialtimes.com/post/3makpgs2zxm2w" target="_blank">financialtimes.com</a> (2025-12-22 16:26:46)</span><span style="padding-right:50px;">シドニー株式市場は続伸し１カ月超ぶりの高値で引けた。鉱業株がけん引したほか、年末を控え幅広い銘柄に買いが入った。 bit.ly/4pTbZ2f <a href="https://bsky.app/profile/japan.reuters.com/post/3makpgesjpi2c" target="_blank">japan.reuters.com</a> (2025-12-22 16:26:32)</span><span style="padding-right:50px;">Which bullish 2026 equity plays don’t require AI euphoria? reut.rs/48NyrUm <a href="https://bsky.app/profile/reuters.com/post/3makpdxqqj32o" target="_blank">reuters.com</a> (2025-12-22 16:25:11)</span><span style="padding-right:50px;">株価 5万円台を回復 NY市場で主要3指数の上昇を受け買い注文 https://news.web.nhk/newsweb/na/na-k10015010281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makpc53j6t2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 16:24:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.38 (🔻0.37 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.43 (🔻0.32 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,102 +32,98 @@
 
 ## News Headlines
 
-- New Zealand and India Agree on Free Trade Agreement
-- Japanese Nuclear Power Plant to Restart After Decade-Long Downtime
-- Uber and Lyft to Trial Robotaxis in the UK in Partnership with Baidu
-- Japan's Central Bank Raises Interest Rate to 0.75%
-- Fitness Gyms Focus on Data and Local Areas for Growth
-- Average American Holds Smartphone for 29 Months, Cycle Getting Longer
+- US Vice President acknowledges controversies at Turning Point conference
+- Donald Trump names special envoy for Greenland
+- Sydney stock market hits one-month high
+- Japanese stock market recovers to 50,000 yen level
+- New Zealand, India agree on free trade deal
+- Russian general killed in Moscow car bombing
 
 
 ----
 
+@npr.org
+
+Vice President JD Vance acknowledged the controversies that dominated the Turning Point conference, but he did not define any boundaries for the conservative movement besides patriotism. n.pr/4qlRL0Q
+
+[2025-12-22 16:29:13](https://bsky.app/profile/npr.org/post/3makpl6t2sh2e)
+
+---
+
+@financialtimes.com
+
+Donald Trump names special envoy for Greenland ft.trib.al/gLS8dTw
+
+[2025-12-22 16:26:46](https://bsky.app/profile/financialtimes.com/post/3makpgs2zxm2w)
+
+---
+
 @japan.reuters.com
 
-ニュージーランド（ＮＺ）とインドの両政府は２２日、自由貿易協定で合意したと発表した。 bit.ly/4p5bvEI
+シドニー株式市場は続伸し１カ月超ぶりの高値で引けた。鉱業株がけん引したほか、年末を控え幅広い銘柄に買いが入った。 bit.ly/4pTbZ2f
 
-[2025-12-22 16:08:28](https://bsky.app/profile/japan.reuters.com/post/3makog2uqvl26)
+[2025-12-22 16:26:32](https://bsky.app/profile/japan.reuters.com/post/3makpgesjpi2c)
 
 ---
 
 @reuters.com
 
-Ravens QB Lamar Jackson (back) exits early in loss to Patriots reut.rs/4qjzVeG
+Which bullish 2026 equity plays don’t require AI euphoria? reut.rs/48NyrUm
 
-[2025-12-22 16:05:11](https://bsky.app/profile/reuters.com/post/3makoa6u5i22k)
+[2025-12-22 16:25:11](https://bsky.app/profile/reuters.com/post/3makpdxqqj32o)
 
 ---
 
-@cnn.com
+@nhknewsunofficial.bsky.social
 
-Japanese authorities have approved a decision to restart the world's biggest nuclear power plant, which has sat dormant for more than a decade following the Fukushima nuclear disaster, in a pivotal moment as the country looks to shift its energy supply away from fossil fuels. https://cnn.it/4atqzbU
+株価 5万円台を回復 NY市場で主要3指数の上昇を受け買い注文
+https://news.web.nhk/newsweb/na/na-k10015010281000
 
-[2025-12-22 16:03:50](https://bsky.app/profile/cnn.com/post/3mako5setks24)
+[2025-12-22 16:24:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makpc53j6t2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+秋田 卸売市場の倉庫にクマ侵入目撃される 市などが対応
+https://news.web.nhk/newsweb/na/na-k10015010521000
+
+[2025-12-22 16:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makpby5qed2w)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】広末涼子さんを過失運転致傷の罪で略式起訴 走行速度は185キロ 傷害事件については不起訴処分 静岡地検「事案の軽重や関係証拠の内容も踏まえ」 4月8日に現行犯逮捕され同月…
+(2025-12-22 16:00) #ニュース
+
+[2025-12-22 16:20:37](https://bsky.app/profile/sokuho.news/post/3makp3smy6u2x)
 
 ---
 
 @japan.reuters.com
 
-＜１５：３２＞　大引けの日経平均は続伸、節目5万円を回復　ＡＩ関連に買い戻し bit.ly/49o25j6
+オーストラリア・シドニー近郊のボンダイビーチで発生した銃乱射事件を受け、アルバニージー首相への批判が強まっている。 bit.ly/4pTbPYH
 
-[2025-12-22 16:03:04](https://bsky.app/profile/japan.reuters.com/post/3mako4g6fdn2u)
-
----
-
-@cnbc.com
-
-Uber, Lyft set to trial robotaxis in the UK in partnership with China's Baidu
-
-[2025-12-22 16:03:02](https://bsky.app/profile/cnbc.com/post/3mako4ejjz32g)
+[2025-12-22 16:20:15](https://bsky.app/profile/japan.reuters.com/post/3makp35oyzy2q)
 
 ---
 
 @japan.reuters.com
 
-１２月１日の植田和男総裁の講演から「地ならし」を強化してきた日銀は、１９日の金融政策決定会合で、政策金利を０．５％から０．７５％に引き上げた。市場の関心はその先に向いており、さまざまな予想が出ている。上野泰也氏の見解は。 bit.ly/3YGPhy8
+投資会社ありあけキャピタル（東京都中央区）が、大垣共立銀行株を５．６５％保有していることが分かった。２２日、関東財務局に大量保有報告書を提出した。保有目的は「純投資および状況に応じて経営陣への助言、重要提案行為等を行うこと」としている。報告義務発生日は１５日。 bit.ly/4pM6sdB
 
-[2025-12-22 16:01:11](https://bsky.app/profile/japan.reuters.com/post/3maknz2hadi2q)
-
----
-
-@nikkei.com
-
-フィットネスジム、データと商圏で勝負
-www.nikkei.com/article/DGXZQO...
-
-トレーニングだけでなく、ゴルフやサウナなどアミューズメント性のある店舗で成長するフィットイージー（岐阜市）。
-
-店舗ごとに機材やサービスで特徴を持たせ、相乗効果を狙います。
-
-【ローカルビジネスサテライト】
-
-[2025-12-22 16:00:44](https://bsky.app/profile/nikkei.com/post/3maknya5w7b2c)
+[2025-12-22 16:20:07](https://bsky.app/profile/japan.reuters.com/post/3makp2vrtcv2p)
 
 ---
 
-@cnbc.com
+@wsj.com
 
-The average American now holds onto their smartphone for 29 months, according to a recent survey and that cycle is getting longer. 
+The most dog-friendly city in America is getting sick of all the dogs. on.wsj.com/3YwNc7Q
 
-While squeezing as much life out of your device as possible may save money in the short run, it might cost the economy in the long run.
-
-[2025-12-22 16:00:26](https://bsky.app/profile/cnbc.com/post/3maknxoyuga23)
-
----
-
-@apnews.com
-
-Georgetown men's basketball coach Ed Cooley has been suspended by the school for one game after throwing a water bottle into the stands at the end of a loss to Xavier.
-
-[2025-12-22 16:00:25](https://bsky.app/profile/apnews.com/post/3maknxo2ih725)
-
----
-
-@reuters.com
-
-China's vice commerce minister met Apple COO on Friday reut.rs/3MOH74j
-
-[2025-12-22 16:00:13](https://bsky.app/profile/reuters.com/post/3maknxcr4fc2k)
+[2025-12-22 16:16:11](https://bsky.app/profile/wsj.com/post/3makotuf3nl2g)
 
 ---
 
