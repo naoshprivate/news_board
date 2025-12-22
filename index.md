@@ -1,9 +1,9 @@
-# [2025-12-22 18:30 updated](2025_12_22.md)
+# [2025-12-22 18:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ロイターが２２日に閲覧した調査によると、ドイツの米国向け自動車輸出は今年１─９月に１４％近く落ち込み、ドイツの産業の中で米国の関税措置による打撃が最大となった。 bit.ly/4pNfMOh <a href="https://bsky.app/profile/japan.reuters.com/post/3makw2inrl72c" target="_blank">japan.reuters.com</a> (2025-12-22 18:25:10)</span><span style="padding-right:50px;">Chinese AI firm MiniMax to launch Hong Kong IPO in early January, sources say reut.rs/3YF6FDv <a href="https://bsky.app/profile/reuters.com/post/3makw2honji2k" target="_blank">reuters.com</a> (2025-12-22 18:25:08)</span><span style="padding-right:50px;">The elite university spent billions chasing the Ivies. Now it's Exhibit A in the financial reckoning confronting colleges around the U.S. on.wsj.com/4j6eLyD <a href="https://bsky.app/profile/wsj.com/post/3makw2g5ome2g" target="_blank">wsj.com</a> (2025-12-22 18:25:07)</span><span style="padding-right:50px;">東京電力、柏崎刈羽原発の周辺でデータセンター開発　AI需要に的 www.nikkei.com/article/DGXZQO...  データセンターは発電所に近ければ送配電設備の整備コストや工期を抑えられます。  原発の電気を次世代燃料の水素製造に活用する検討もしています。  柏崎刈羽原発は、12月23日にも再稼働に向けた地元同意の手続きが完了。  東電は、新事業で収益を改善して福島第1原発の廃炉・賠償費用などを捻出します。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3makvx4h4aa2x" target="_blank">nikkei.com</a> (2025-12-22 18:23:16)</span><span style="padding-right:50px;">In this special year-end edition of On Assignment, Reuters Editor-in-Chief Alessandra Galloni sits down with host Jonah Green to reflect on the tumultuous 2025 news cycle. Listen now: reut.rs/4s7IHhR <a href="https://bsky.app/profile/reuters.com/post/3makvuijfkk2c" target="_blank">reuters.com</a> (2025-12-22 18:21:48)</span>
+<span style="padding-right:50px;">東京 赤坂サウナ店火災から1週間 警視庁 店側の安全管理捜査へ https://news.web.nhk/newsweb/na/na-k10015010641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makxdh7n6m2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 18:48:02)</span><span style="padding-right:50px;">Sterling Anderson, who took a top job at GM this summer, is seen as a dark-horse candidate to succeed Chief Executive Mary Barra, who has led the automaker for more than a decade. <a href="https://bsky.app/profile/wsj.com/post/3makxcckmtc23" target="_blank">wsj.com</a> (2025-12-22 18:47:25)</span><span style="padding-right:50px;">金現物が２２日の取引で１オンス＝４４００ドルを初めて突破し、過去最高値を更新した。米連邦準備理事会（ＦＲＢ）の追加利下げ観測や安全資産としての需要、軟調なドル相場などが支援材料となっている。また、銀も過去最高値を更新した。 bit.ly/48Q2BpX <a href="https://bsky.app/profile/japan.reuters.com/post/3makx6ayvcn26" target="_blank">japan.reuters.com</a> (2025-12-22 18:45:10)</span><span style="padding-right:50px;">Trump aides Sacks and Witkoff could face ethics probe over UAE deals, Semafor reports reut.rs/4anP7D3 <a href="https://bsky.app/profile/reuters.com/post/3makx6aaurb2r" target="_blank">reuters.com</a> (2025-12-22 18:45:09)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】関西空港 年末年始の国際線旅客数予想を発表 出発のピークは12月28日、到着のピークは1月4日 中国方面は前年から大幅に減少する一方、韓国と東南アジア方面は好調を維持 (2025-12-22 18:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makwx6fyv62r" target="_blank">sokuho.news</a> (2025-12-22 18:41:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.48 (🔻0.27 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.45 (🔻0.30 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,90 +32,61 @@
 
 ## News Headlines
 
-- German car exports to US plunge 14% in September due to US tariffs
-- MiniMax to launch Hong Kong IPO in early January
-- Elite US university's financial reckoning: Billions spent chasing Ivy League status
-- Tokyo Electric Power to develop data center near nuclear power plant
-- China says US seizure of ships 'serious violation' of international law
-- BOJ to raise interest rates to 1.5% under Ueda, ex-c.bank policymaker says
+- Tokyo sauna shop fire probe shifts to store safety management
+- GM's new CEO seen as potential successor to Mary Barra
+- Gold prices surge to record high, silver also hits record high
+- Trump aides face ethics probe over UAE deals
+- Kansai airport expects record international passenger numbers for year-end
+- China becomes largest importer of Russian oil
+- Turkish team to visit Damascus for talks on SDF integration
+- Asia's worst-performing currency faces rocky start to 2026
+- US Treasury yields edge higher ahead of holiday-shortened week
+- DRAM prices skyrocket due to supply shortage
+- ASEAN ministers agree to discuss ceasefire with Thailand and Cambodia
+- Tokyo stocks close higher, led by AI and semiconductor stocks
+- Germany's auto exports to US decline 14% in first 9 months
+- Chinese AI firm MiniMax to launch Hong Kong IPO in January
+- Tokyo Electric to develop data center near nuclear plant
+- Japan to resume operations at world's largest nuclear plant
+- China's foreign ministry protests over US seizure of ships
+- Major Gulf markets gain on oil, US rate cut hopes
+- Fantasy football losers face public shaming
+- BoJ raises policy rate to 0.75%
+- Sweden releases Russian freighter after customs inspection
 
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-ロイターが２２日に閲覧した調査によると、ドイツの米国向け自動車輸出は今年１─９月に１４％近く落ち込み、ドイツの産業の中で米国の関税措置による打撃が最大となった。 bit.ly/4pNfMOh
+東京 赤坂サウナ店火災から1週間 警視庁 店側の安全管理捜査へ
+https://news.web.nhk/newsweb/na/na-k10015010641000
 
-[2025-12-22 18:25:10](https://bsky.app/profile/japan.reuters.com/post/3makw2inrl72c)
-
----
-
-@reuters.com
-
-Chinese AI firm MiniMax to launch Hong Kong IPO in early January, sources say reut.rs/3YF6FDv
-
-[2025-12-22 18:25:08](https://bsky.app/profile/reuters.com/post/3makw2honji2k)
+[2025-12-22 18:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makxdh7n6m2y)
 
 ---
 
 @wsj.com
 
-The elite university spent billions chasing the Ivies. Now it's Exhibit A in the financial reckoning confronting colleges around the U.S. on.wsj.com/4j6eLyD
+Sterling Anderson, who took a top job at GM this summer, is seen as a dark-horse candidate to succeed Chief Executive Mary Barra, who has led the automaker for more than a decade.
 
-[2025-12-22 18:25:07](https://bsky.app/profile/wsj.com/post/3makw2g5ome2g)
-
----
-
-@nikkei.com
-
-東京電力、柏崎刈羽原発の周辺でデータセンター開発　AI需要に的
-www.nikkei.com/article/DGXZQO...
-
-データセンターは発電所に近ければ送配電設備の整備コストや工期を抑えられます。
-
-原発の電気を次世代燃料の水素製造に活用する検討もしています。
-
-柏崎刈羽原発は、12月23日にも再稼働に向けた地元同意の手続きが完了。
-
-東電は、新事業で収益を改善して福島第1原発の廃炉・賠償費用などを捻出します。
-
-#ニュース
-
-[2025-12-22 18:23:16](https://bsky.app/profile/nikkei.com/post/3makvx4h4aa2x)
-
----
-
-@reuters.com
-
-In this special year-end edition of On Assignment, Reuters Editor-in-Chief Alessandra Galloni sits down with host Jonah Green to reflect on the tumultuous 2025 news cycle. Listen now: reut.rs/4s7IHhR
-
-[2025-12-22 18:21:48](https://bsky.app/profile/reuters.com/post/3makvuijfkk2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-H3ロケット みちびき5号機搭載 打ち上げ失敗 今後の計画に影響
-https://news.web.nhk/newsweb/na/na-k10015009941000
-
-[2025-12-22 18:21:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makvtdrb5v2u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-NHK出版 担当部長ら2人を懲戒解雇
-https://news.web.nhk/newsweb/na/na-k10015010661000
-
-[2025-12-22 18:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makvt7b7jr2b)
+[2025-12-22 18:47:25](https://bsky.app/profile/wsj.com/post/3makxcckmtc23)
 
 ---
 
 @japan.reuters.com
 
-イタリアの競争当局（ＡＧＣＭ）は２２日、米アップルと同社の関連２部門に対し、モバイルアプリ市場での支配的地位を乱用したとして、９８６０万ユーロ（約１億１５５０万ドル）の制裁金を科したと発表した。 bit.ly/4qkhuqr
+金現物が２２日の取引で１オンス＝４４００ドルを初めて突破し、過去最高値を更新した。米連邦準備理事会（ＦＲＢ）の追加利下げ観測や安全資産としての需要、軟調なドル相場などが支援材料となっている。また、銀も過去最高値を更新した。 bit.ly/48Q2BpX
 
-[2025-12-22 18:20:42](https://bsky.app/profile/japan.reuters.com/post/3makvsj2rbf26)
+[2025-12-22 18:45:10](https://bsky.app/profile/japan.reuters.com/post/3makx6ayvcn26)
+
+---
+
+@reuters.com
+
+Trump aides Sacks and Witkoff could face ethics probe over UAE deals, Semafor reports reut.rs/4anP7D3
+
+[2025-12-22 18:45:09](https://bsky.app/profile/reuters.com/post/3makx6aaurb2r)
 
 ---
 
@@ -123,18 +94,50 @@ https://news.web.nhk/newsweb/na/na-k10015010661000
 
 🛎️FNNより【速報】です。
 
-【速報】横浜駅西口近くの繁華街で雑居ビルが火災…量販店や多数の飲食店など立ち並ぶ一角で 消防士がビル内の人を避難誘導
-(2025-12-22 17:48) #ニュース
+【速報】関西空港 年末年始の国際線旅客数予想を発表 出発のピークは12月28日、到着のピークは1月4日 中国方面は前年から大幅に減少する一方、韓国と東南アジア方面は好調を維持
+(2025-12-22 18:08) #ニュース
 
-[2025-12-22 18:20:33](https://bsky.app/profile/sokuho.news/post/3makvsbetaw2r)
+[2025-12-22 18:41:12](https://bsky.app/profile/sokuho.news/post/3makwx6fyv62r)
 
 ---
 
 @japan.reuters.com
 
-タイ中央銀行のウィタイ総裁は２２日、２０２６年のインフレ目標を１─３％のレンジ内に維持すると述べた。タイのインフレ率は何カ月にもわたりマイナスが続いている。 bit.ly/44BqBuC
+中国が１１月にロシアから輸入した原油は、前年同月比３．４％減の８３５万トン（日量２０３万バレル）だった。ロシアは中国への最大供給国となっている。 bit.ly/3Nb3TDo
 
-[2025-12-22 18:20:12](https://bsky.app/profile/japan.reuters.com/post/3makvrmku2s2q)
+[2025-12-22 18:40:10](https://bsky.app/profile/japan.reuters.com/post/3makwvdqgfs22)
+
+---
+
+@reuters.com
+
+Telecom Italia moves to ditch costly savings shares reut.rs/4jbxJ6L
+
+[2025-12-22 18:40:09](https://bsky.app/profile/reuters.com/post/3makwvcsrcd2y)
+
+---
+
+@npr.org
+
+CBS News Editor-in-Chief Bari Weiss pulled a 60 Minutes segment on allegations of abuses at an El Salvador detention center where the Trump administration sent hundreds of Venezuelan migrants. n.pr/4pagOTD
+
+[2025-12-22 18:39:21](https://bsky.app/profile/npr.org/post/3makwtufqrz2e)
+
+---
+
+@japan.reuters.com
+
+中国外務省は２２日、自民党の萩生田光一幹事長代行が台湾を訪問したことについて、日本に厳正な申し入れを行って抗議したと表明した。 bit.ly/4ql60ms
+
+[2025-12-22 18:38:11](https://bsky.app/profile/japan.reuters.com/post/3makwrrhn4727)
+
+---
+
+@aljazeera.com
+
+A Russian general was killed in Moscow on Monday when an explosive device detonated underneath his car. Authorities say they are investigating whether Ukrainian special services were involved.
+
+[2025-12-22 18:37:29](https://bsky.app/profile/aljazeera.com/post/3makwqjt7e22f)
 
 ---
 
