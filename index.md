@@ -1,9 +1,9 @@
-# [2025-12-23 05:50 updated](2025_12_23.md)
+# [2025-12-23 06:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Canada names ex-BlackRock exec Wiseman as US envoy, will focus on trade reut.rs/4pbFqLE <a href="https://bsky.app/profile/reuters.com/post/3mam42icqaz2i" target="_blank">reuters.com</a> (2025-12-23 05:45:11)</span><span style="padding-right:50px;">A congressional panel examining January’s fatal midair collision between an Army Black Hawk helicopter and an American Airlines regional jet found fault with the military’s procedures for operating in the airspace around D.C., according to a new report. <a href="https://bsky.app/profile/washingtonpost.com/post/3mam42ai2l423" target="_blank">washingtonpost.com</a> (2025-12-23 05:45:03)</span><span style="padding-right:50px;">What are the chances of a white Christmas where you live? Map shows likelihood of snow.  <a href="https://bsky.app/profile/cbsnews.com/post/3mam425vzbb2f" target="_blank">cbsnews.com</a> (2025-12-23 05:45:00)</span><span style="padding-right:50px;">The Exodus story was a model of providential liberation and deliverance for Americans rebelling against Britain’s pharaonic royalty. on.wsj.com/48PLNiS <a href="https://bsky.app/profile/wsj.com/post/3mam3y5q3lu23" target="_blank">wsj.com</a> (2025-12-23 05:43:53)</span><span style="padding-right:50px;">宮城 大和町で死亡の男性 わな確認中にクマに襲われたか https://news.web.nhk/newsweb/na/na-k10015010901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mam3uwc7272k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 05:42:02)</span>
+<span style="padding-right:50px;">米金融・債券市場では、国債利回りが上昇した。市場は年末を控え、様子見ムードが広がっている。 bit.ly/3LfuazV <a href="https://bsky.app/profile/japan.reuters.com/post/3mam5eibzxd2q" target="_blank">japan.reuters.com</a> (2025-12-23 06:08:41)</span><span style="padding-right:50px;">Spain's Christmas lottery sees residents of one town win 468 million euros <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mam5eezueh26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-23 06:08:37)</span><span style="padding-right:50px;">🛎️FLASHより【独自】です。  【独自】山本恵里伽アナ『報道特集』発言の余波…TBSが突き付けられた参政党の“出禁”通達「取材お断り」の異常事態【2025年の“炎上事件簿”】 (2025-12-23 06:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mam57fg5j42a" target="_blank">sokuho.news</a> (2025-12-23 06:05:50)</span><span style="padding-right:50px;">Italy to buy former nuclear site from Stellantis, statement says reut.rs/48TMBU4 <a href="https://bsky.app/profile/reuters.com/post/3mam56asqq724" target="_blank">reuters.com</a> (2025-12-23 06:05:11)</span><span style="padding-right:50px;">The Chiefs have played at Arrowhead Stadium in Missouri since 1972. <a href="https://bsky.app/profile/forbes.com/post/3mam55ztj7w2o" target="_blank">forbes.com</a> (2025-12-23 06:05:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48363.18 (🔺151.30 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.67 (🔻21.86 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.44 (🔻0.48 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.99 (🔻0.76 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.01 (🔻0.74 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,95 +32,96 @@
 
 ## News Headlines
 
-- Canada names ex-BlackRock exec Wiseman as US envoy, will focus on trade
-- US Congress panel finds fault with military's procedures for operating in D.C. airspace
-- Map shows likelihood of a white Christmas in your area
-- Oracle co-founder Larry Ellison provides $4.04 billion personal guarantee for Warner Bros. Discovery takeover bid
-- Ecuador sentences soldiers to decades in prison for disappearance of four children
-- US Interior Department halts offshore wind energy projects over national security concerns
+- Japan Bond Yield Rises Amid Year-End Market Caution
+- Spanish Town Wins 468 Million Euros in Christmas Lottery
+- Italy to Purchase Former Nuclear Site from Stellantis
+- Tyson Foods to Close Beef Plant in Nebraska, Lay Off 3,200 Workers
+- US Defense Report Suggests China Has Deployed Over 100 ICBMs in Underground Silos
+- US Interior Department Halts Offshore Wind Energy Projects Over National Security Concerns
 
 
 ----
 
-@reuters.com
-
-Canada names ex-BlackRock exec Wiseman as US envoy, will focus on trade reut.rs/4pbFqLE
-
-[2025-12-23 05:45:11](https://bsky.app/profile/reuters.com/post/3mam42icqaz2i)
-
----
-
-@washingtonpost.com
-
-A congressional panel examining January’s fatal midair collision between an Army Black Hawk helicopter and an American Airlines regional jet found fault with the military’s procedures for operating in the airspace around D.C., according to a new report.
-
-[2025-12-23 05:45:03](https://bsky.app/profile/washingtonpost.com/post/3mam42ai2l423)
-
----
-
-@cbsnews.com
-
-What are the chances of a white Christmas where you live? Map shows likelihood of snow.
-
-
-[2025-12-23 05:45:00](https://bsky.app/profile/cbsnews.com/post/3mam425vzbb2f)
-
----
-
-@wsj.com
-
-The Exodus story was a model of providential liberation and deliverance for Americans rebelling against Britain’s pharaonic royalty. on.wsj.com/48PLNiS
-
-[2025-12-23 05:43:53](https://bsky.app/profile/wsj.com/post/3mam3y5q3lu23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-宮城 大和町で死亡の男性 わな確認中にクマに襲われたか
-https://news.web.nhk/newsweb/na/na-k10015010901000
-
-[2025-12-23 05:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mam3uwc7272k)
-
----
-
 @japan.reuters.com
 
-米オラクル共同創業者兼会長で富豪のラリー・エリソン氏は、メディア大手パラマウント・スカイダンスによる同業ワーナー・ブラザース・ディスカバリー（ＷＢＤ）買収提案を巡り、４０４億ドルの個人保証を提供する。２２日に当局に提出された文書から明らかになった。 bit.ly/4j65mH2
+米金融・債券市場では、国債利回りが上昇した。市場は年末を控え、様子見ムードが広がっている。 bit.ly/3LfuazV
 
-[2025-12-23 05:40:19](https://bsky.app/profile/japan.reuters.com/post/3mam3rrmwul2u)
+[2025-12-23 06:08:41](https://bsky.app/profile/japan.reuters.com/post/3mam5eibzxd2q)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Spain's Christmas lottery sees residents of one town win 468 million euros
+
+[2025-12-23 06:08:37](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mam5eezueh26)
+
+---
+
+@sokuho.news
+
+🛎️FLASHより【独自】です。
+
+【独自】山本恵里伽アナ『報道特集』発言の余波…TBSが突き付けられた参政党の“出禁”通達「取材お断り」の異常事態【2025年の“炎上事件簿”】
+(2025-12-23 06:00) #ニュース
+
+[2025-12-23 06:05:50](https://bsky.app/profile/sokuho.news/post/3mam57fg5j42a)
 
 ---
 
 @reuters.com
 
-Condenan en Ecuador a soldados a décadas de cárcel por desaparición de cuatro niños reut.rs/49pxaTx
+Italy to buy former nuclear site from Stellantis, statement says reut.rs/48TMBU4
 
-[2025-12-23 05:40:17](https://bsky.app/profile/reuters.com/post/3mam3rpp45n2x)
+[2025-12-23 06:05:11](https://bsky.app/profile/reuters.com/post/3mam56asqq724)
 
 ---
 
-@nytimes.com
+@forbes.com
 
-President Trump’s drive to crack down on vessels moving oil from Venezuela took an unusual turn over the weekend when a Venezuela-bound tanker fled after rebuffing an attempt by the Coast Guard to seize it. Here’s what we know.
+The Chiefs have played at Arrowhead Stadium in Missouri since 1972.
 
-[2025-12-23 05:40:03](https://bsky.app/profile/nytimes.com/post/3mam3rcme3x2r)
+[2025-12-23 06:05:04](https://bsky.app/profile/forbes.com/post/3mam55ztj7w2o)
 
 ---
 
 @wsj.com
 
-The roughly 16,000-square-foot residence is hitting the market for the first time in nearly 80 years on.wsj.com/49bw6lb
+Amtrak will probably have to idle some of the new trains it is rolling out because the railroad’s maintenance facilities won’t be upgraded in time
 
-[2025-12-23 05:39:24](https://bsky.app/profile/wsj.com/post/3mam3q4ub7p2s)
+[2025-12-23 06:02:25](https://bsky.app/profile/wsj.com/post/3mam4zc2pro2h)
+
+---
+
+@apnews.com
+
+Tyson Foods is closing its beef plant in Lexington, Nebraska, laying off 3,200 workers next month in a town of just 11,000.
+
+[2025-12-23 06:01:23](https://bsky.app/profile/apnews.com/post/3mam4xgursw2q)
+
+---
+
+@reuters.com
+
+At least two civilians killed in Aleppo violence as Syrian government, SDF trade blame reut.rs/49cbJnR
+
+[2025-12-23 06:01:21](https://bsky.app/profile/reuters.com/post/3mam4xfisk72s)
 
 ---
 
 @japan.reuters.com
 
-パナマのマルティネスアチャ外相は２２日、米国が最近拿捕（だほ）したパナマ船籍のタンカーは同国の海事規則を順守しておらず、ベネズエラ領海から原油を積んで出航中にトランスポンダーを外していたと明らかにした。 bit.ly/497PWxx
+米国防総省の報告書草案から、中国が３カ所のサイロ（地下式ミサイル格納施設）に１００基以上の大陸間弾道ミサイル（ＩＣＢＭ）を配備している可能性が高いことが明らかとなった。中国は軍備管理協議の意向も示していないとみられ、同国の軍事的野心の高まりが改めて浮き彫りとなった。 bit.ly/3L4F1wC
 
-[2025-12-23 05:38:43](https://bsky.app/profile/japan.reuters.com/post/3mam3ovnsc42s)
+[2025-12-23 06:01:19](https://bsky.app/profile/japan.reuters.com/post/3mam4xdaemw2p)
+
+---
+
+@cnn.com
+
+More than a dozen Jeffrey Epstein survivors — along with family members of the late victim Virginia Giuffre — raised a myriad of concerns in a new statement: https://cnn.it/44AE8m8
+
+[2025-12-23 06:01:07](https://bsky.app/profile/cnn.com/post/3mam4wxqwvt2v)
 
 ---
 
