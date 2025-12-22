@@ -1,9 +1,9 @@
-# [2025-12-22 11:50 updated](2025_12_22.md)
+# [2025-12-22 12:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">フランスのマクロン大統領は２１日、老朽化した原子力空母「シャルル・ドゴール」に代わる、より大型で近代的な新型空母を建造し、フランスの海洋戦力を強化する計画を確認した。 bit.ly/4s9z4iD <a href="https://bsky.app/profile/japan.reuters.com/post/3mak7vkuvum22" target="_blank">japan.reuters.com</a> (2025-12-22 11:48:42)</span><span style="padding-right:50px;">大相撲初場所の番付 安青錦は西の大関に“もうひとつ上を” https://news.web.nhk/newsweb/na/na-k10015010111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mak7ui7pdp2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 11:48:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】H3ロケットの第2弾エンジンの燃焼が予定より早く停止…前回は直前で打ち上げ中止に (2025-12-22 11:43) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mak7qwhstr2a" target="_blank">sokuho.news</a> (2025-12-22 11:46:06)</span><span style="padding-right:50px;">中国税関総署によると、１１月は米国からの大豆輸入が３カ月連続でゼロとなった。米国との貿易戦争が長引けば供給不足になるとの懸念から、買い手が南米産に乗り換えたという。前年同月は２７９万トン輸入していた。 bit.ly/3MWq9AR <a href="https://bsky.app/profile/japan.reuters.com/post/3mak7pawuzd2c" target="_blank">japan.reuters.com</a> (2025-12-22 11:45:10)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “When you combine eternal stakes with absolute certainty, it produces the kind of people who are happy to be cruel in the name of God,” our columnist David French writes. “Jesus told us to take up our own cross, not to nail others to that terrible tree.” <a href="https://bsky.app/profile/nytimes.com/post/3mak7oztayl2b" target="_blank">nytimes.com</a> (2025-12-22 11:45:02)</span>
+<span style="padding-right:50px;">株価 5万円台を回復 NY市場で主要3指数上昇の流れ受け買い注文 https://news.web.nhk/newsweb/na/na-k10015010281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makb25bmp52m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 12:09:07)</span><span style="padding-right:50px;">静岡 長泉町で強盗 “約1000万円奪われた”就寝中に襲われたか https://news.web.nhk/newsweb/na/na-k10015010161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makazyk3rg2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 12:09:02)</span><span style="padding-right:50px;">＜１１：３１＞　前場の日経平均は大幅続伸、5万円回復　ＡＩ株高が押し上げ bit.ly/3YCLB0n <a href="https://bsky.app/profile/japan.reuters.com/post/3makaywt6ez2c" target="_blank">japan.reuters.com</a> (2025-12-22 12:08:29)</span><span style="padding-right:50px;">🛎️NNNより【独自】です。  【独自】新たな動物園の開設 ノースサファリの場所で計画 年明けにも札幌市に提出へ 東京の投資会社 (2025-12-22 11:57) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makayrc3lc25" target="_blank">sokuho.news</a> (2025-12-22 12:08:23)</span><span style="padding-right:50px;">今週の東京株式市場で日経平均は底堅い展開が見込まれる。日銀が１８─１９日の金融政策決定会合で政策金利を引き上げたが、足元の為替市場では円安が進行しており、株価を支援しそうだ。国内の金利上昇を受け、半導体などハイテク銘柄の一角には重しとなる一方、バリュー（割安）株や金融株に買いが広がる可能性がある。 bit.ly/3Y4jYgH <a href="https://bsky.app/profile/japan.reuters.com/post/3makasx6diz2c" target="_blank">japan.reuters.com</a> (2025-12-22 12:05:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50480.76 (🔺396.21 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3461.00 (🔻33.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.40 (🔻0.35 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50480.76 (🔺396.21 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3461.00 (🔻33.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.44 (🔻0.31 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,102 +32,106 @@
 
 ## News Headlines
 
-- Macron Confirms Plan for New Aircraft Carrier to Replace Aging Charles de Gaulle
-- Nganou's 2023 Boxing Day Test Future in Doubt After Injury
-- Avatar: The Way of Water Breaks Box Office Records with $345 Million Debut
-- At Least 15 Killed in Passenger Bus Crash in Indonesia's Central Java Province
-- Malaysian Ex-PM Najib Loses Appeal to Serve Prison Term Under House Arrest
-- Crypto Firm Strategy May Be Removed from Major Stock Indexes Due to Bitcoin Holdings
+- Stock price recovers to 50,000 yen level
+- Burglary in Longjing Town, Shizuoka, suspected of stealing around 10 million yen
+- Stock market average rises 973.55 yen, recovers to 50,480 yen 76 cents
+- New Animal Park Planned in Sapporo
+- Trump names Louisiana governor Landry as Greenland special envoy
+- Malaysia court rejects Najib's bid to serve sentence under house arrest
 
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-フランスのマクロン大統領は２１日、老朽化した原子力空母「シャルル・ドゴール」に代わる、より大型で近代的な新型空母を建造し、フランスの海洋戦力を強化する計画を確認した。 bit.ly/4s9z4iD
+株価 5万円台を回復 NY市場で主要3指数上昇の流れ受け買い注文
+https://news.web.nhk/newsweb/na/na-k10015010281000
 
-[2025-12-22 11:48:42](https://bsky.app/profile/japan.reuters.com/post/3mak7vkuvum22)
+[2025-12-22 12:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makb25bmp52m)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-大相撲初場所の番付 安青錦は西の大関に“もうひとつ上を”
-https://news.web.nhk/newsweb/na/na-k10015010111000
+静岡 長泉町で強盗 “約1000万円奪われた”就寝中に襲われたか
+https://news.web.nhk/newsweb/na/na-k10015010161000
 
-[2025-12-22 11:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mak7ui7pdp2b)
+[2025-12-22 12:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makazyk3rg2v)
+
+---
+
+@japan.reuters.com
+
+＜１１：３１＞　前場の日経平均は大幅続伸、5万円回復　ＡＩ株高が押し上げ bit.ly/3YCLB0n
+
+[2025-12-22 12:08:29](https://bsky.app/profile/japan.reuters.com/post/3makaywt6ez2c)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️NNNより【独自】です。
 
-【速報】H3ロケットの第2弾エンジンの燃焼が予定より早く停止…前回は直前で打ち上げ中止に
-(2025-12-22 11:43) #ニュース
+【独自】新たな動物園の開設 ノースサファリの場所で計画 年明けにも札幌市に提出へ 東京の投資会社
+(2025-12-22 11:57) #ニュース
 
-[2025-12-22 11:46:06](https://bsky.app/profile/sokuho.news/post/3mak7qwhstr2a)
-
----
-
-@japan.reuters.com
-
-中国税関総署によると、１１月は米国からの大豆輸入が３カ月連続でゼロとなった。米国との貿易戦争が長引けば供給不足になるとの懸念から、買い手が南米産に乗り換えたという。前年同月は２７９万トン輸入していた。 bit.ly/3MWq9AR
-
-[2025-12-22 11:45:10](https://bsky.app/profile/japan.reuters.com/post/3mak7pawuzd2c)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com 
-
-“When you combine eternal stakes with absolute certainty, it produces the kind of people who are happy to be cruel in the name of God,” our columnist David French writes. “Jesus told us to take up our own cross, not to nail others to that terrible tree.”
-
-[2025-12-22 11:45:02](https://bsky.app/profile/nytimes.com/post/3mak7oztayl2b)
+[2025-12-22 12:08:23](https://bsky.app/profile/sokuho.news/post/3makayrc3lc25)
 
 ---
 
 @japan.reuters.com
 
-オセアニア外国為替市場では豪ドルとニュージーランド（ＮＺ）ドルが対米ドルで小幅高。対円では、日銀の植田和男総裁による１９日の会見がハト派的だったとの受け止めから堅調に推移している。 bit.ly/4sag6Z6
+今週の東京株式市場で日経平均は底堅い展開が見込まれる。日銀が１８─１９日の金融政策決定会合で政策金利を引き上げたが、足元の為替市場では円安が進行しており、株価を支援しそうだ。国内の金利上昇を受け、半導体などハイテク銘柄の一角には重しとなる一方、バリュー（割安）株や金融株に買いが広がる可能性がある。 bit.ly/3Y4jYgH
 
-[2025-12-22 11:44:27](https://bsky.app/profile/japan.reuters.com/post/3mak7nxvfh52q)
+[2025-12-22 12:05:08](https://bsky.app/profile/japan.reuters.com/post/3makasx6diz2c)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+H3ロケット みちびき5号機搭載 打ち上げ後 早期にエンジン停止
+https://news.web.nhk/newsweb/na/na-k10015009941000
+
+[2025-12-22 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makapbhvzx2y)
+
+---
+
+@japan.reuters.com
+
+前場の東京株式市場で日経平均は、前営業日比９７３円５５銭高の５万０４８０円７６銭となり、節目の５万円台を回復した。前週末の米国株市場でハイテク株が買われた流れを引き継ぎ、東京市場でもＡＩ（人工知能）・半導体関連株が上昇。指数の押し上げに寄与した。円安も支えとなった。一方、内需セクターの一角には利益確定売りも出て、プライム市場では５割近くの銘柄が下落した。 bit.ly/4asnzMX
+
+[2025-12-22 12:02:06](https://bsky.app/profile/japan.reuters.com/post/3makanjxjy62p)
+
+---
+
+@nikkei.com
+
+霞ケ浦の厄介者「アメリカナマズ」、地元高校生がガパオライスに
+www.nikkei.com/article/DGXZQO...
+
+1970年代以降に養殖用として日本に運び込まれた後、逃げ出して生息域が広がりました。
+
+問題になるのが背びれや胸びれの鋭いトゲ。漁師が指にケガをするなどの被害が出ています。
+
+有効活用に関しては地元の関心も高く、行政も本格的に動き始めました。
+
+[2025-12-22 12:00:50](https://bsky.app/profile/nikkei.com/post/3makalazt7r24)
+
+---
+
+@usatoday.com
+
+At 6-8-1 and eliminated from the playoffs, the Dallas Cowboys are facing the end to another disappointing season.
+
+[2025-12-22 12:00:36](https://bsky.app/profile/usatoday.com/post/3makaku7vzw2c)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>H3ロケット みちびき5号機搭載 打ち上げ後 早期にエンジン停止</strong><br><strong>(2025-12-22 12:00:05) #ニュース</strong>
 
-【速報】H3ロケットの第2弾エンジンの燃焼が予定より早く停止
-(2025-12-22 11:43) #ニュース
-
-[2025-12-22 11:43:30](https://bsky.app/profile/sokuho.news/post/3mak7mb74qu2e)
-
----
-
-@japan.reuters.com
-
-１９日に公開されたジェームズ・キャメロン監督の映画「アバター」シリーズ最新作「アバター：ファイヤー・アンド・アッシュ」の興行収入が、２１日までに全世界で約３億４５００万ドルとなり、予想通り好調なスタートを切った。 bit.ly/3Nc1to1
-
-[2025-12-22 11:43:24](https://bsky.app/profile/japan.reuters.com/post/3mak7m3v2c422)
-
----
-
-@bloomberg.com
-
-Former Malaysian Prime Minister Najib Razak lost a court bid on Monday to serve the rest of his prison term under house arrest, dealing a fresh setback to the once-powerful leader jailed over the 1MDB scandal
-
-[2025-12-22 11:42:35](https://bsky.app/profile/bloomberg.com/post/3mak7kn4o5z2a)
-
----
-
-@reuters.com
-
-CBS postpones '60 Minutes' report on El Salvador's CECOT prison reut.rs/4jcmds3
-
-[2025-12-22 11:40:10](https://bsky.app/profile/reuters.com/post/3mak7gcrozk23)
+[2025-12-22 12:00:31](https://bsky.app/profile/sokuho.news/post/3makakpawpf2b)
 
 ---
 
