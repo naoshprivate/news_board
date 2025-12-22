@@ -1,9 +1,9 @@
-# [2025-12-23 07:10 updated](2025_12_23.md)
+# [2025-12-23 07:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">注）手数料は上限。税込み。単位は％。 bit.ly/4b3zwZz <a href="https://bsky.app/profile/japan.reuters.com/post/3mamapgbaza2s" target="_blank">japan.reuters.com</a> (2025-12-23 07:08:29)</span><span style="padding-right:50px;">Canadian dollar rises ahead of GDP data as oil prices climb reut.rs/3Y5nGXl <a href="https://bsky.app/profile/reuters.com/post/3mamajhp3du2i" target="_blank">reuters.com</a> (2025-12-23 07:05:09)</span><span style="padding-right:50px;">【動画】Pickup NEWS（12月23日） https://news.web.nhk/newsweb/na/na-k10015010631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamafqokbh24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 07:03:02)</span><span style="padding-right:50px;">（暫定値） bit.ly/44K4tOG <a href="https://bsky.app/profile/japan.reuters.com/post/3mamaf526zr2c" target="_blank">japan.reuters.com</a> (2025-12-23 07:02:44)</span><span style="padding-right:50px;">トランプ米大統領は、来年１月第１週までに連邦準備理事会（ＦＲＢ）の次期議長を指名する可能性がある。ＣＮＢＣが２２日、関係筋の話として報じた。 bit.ly/44InWPL <a href="https://bsky.app/profile/japan.reuters.com/post/3mamacoqdc52c" target="_blank">japan.reuters.com</a> (2025-12-23 07:01:22)</span>
+<span style="padding-right:50px;">ロシア紙イズベスチヤは２３日、ウクライナの紛争解決に向けた先週末のロシアと米国の協議は画期的なものと見なすべきではないとするペスコフ大統領報道官の発言を伝えた。 bit.ly/4923qL7 <a href="https://bsky.app/profile/japan.reuters.com/post/3mambp3chj52u" target="_blank">japan.reuters.com</a> (2025-12-23 07:26:11)</span><span style="padding-right:50px;">The U.S. will build "Trump-class" military vessels that the president on Monday suggested are new-age battleships, inching the country closer to construction of what the administration is advertising as "the Golden Fleet." <a href="https://bsky.app/profile/axios.com/post/3mambohdh222x" target="_blank">axios.com</a> (2025-12-23 07:25:50)</span><span style="padding-right:50px;">BREAKING: President Trump announced plans to build new Navy battleships he's calling the Pentagon's "Golden Fleet." cbsn.ws/3YGlHsF <a href="https://bsky.app/profile/cbsnews.com/post/3mamboal3fo2g" target="_blank">cbsnews.com</a> (2025-12-23 07:25:43)</span><span style="padding-right:50px;">Salah scores late winner as Egypt come from behind to beat Zimbabwe reut.rs/4sfQ5b2 <a href="https://bsky.app/profile/reuters.com/post/3mambn6yrj22k" target="_blank">reuters.com</a> (2025-12-23 07:25:08)</span><span style="padding-right:50px;">米動画配信大手ネットフリックスは、メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）買収に向け、約５９０億ドルのつなぎ融資の一部を借り換えた。規制当局に２２日付で届け出た書類で明らかになった。 bit.ly/4p7d6Kg <a href="https://bsky.app/profile/japan.reuters.com/post/3mambjalovg27" target="_blank">japan.reuters.com</a> (2025-12-23 07:22:55)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.97 (🔻0.78 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.02 (🔻0.73 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,94 +32,116 @@
 
 ## News Headlines
 
-- US Analysts Question Real Motivation Behind Trump's Pressure Campaign on Caracas
-- US Farm Agency Lost 20,000 Staff in First Five Months of Trump Administration
-- Russian Foreign Minister Lavrov Expresses Concern Over Escalation of US Actions in Caribbean
-- US Justice Department Sues DC Police Over Ban on AR-15s and Other Firearms
-- Napoli Defeats Bologna to Win Italian Super Cup
-- US Oil Tanker Seizures Targeting Venezuela Tie into Geopolitical Rivalry with China
+- Russia's Peskov downplays significance of US-Russia talks on Ukraine conflict
+- US to build 'Trump-class' military vessels to create 'Golden Fleet'
+- Egypt beats Zimbabwe in African Cup of Nations match
+- Netflix secures $59 billion financing for Warner Bros. Discovery acquisition
+- Israel's Netanyahu to discuss Iran nuclear issue with Trump in US visit
+- Kansas City Chiefs to leave Arrowhead Stadium for new domed stadium
+- Chris Rea, British singer-songwriter, dies at 74
+- Goodman Group, Canada's CPPIB strike $9.3 billion deal for Europe data centers
+- US to seize pay of people in default on student loans
+- Boston's Museum of Fine Arts presents survey of American sculptor
+- Hotel and public bath inspections conducted in Fukui, Japan
+- Neurocrine's movement disorder treatment fails late-stage trial
+- Goldman Sachs report: Hedge funds sell healthcare stocks after 14-week winning streak
+- Canadian dollar rises ahead of GDP data as oil prices climb
+- US may name a new Fed chair by January next year
+- Lebanese PM urges swift approval of law to pay back depositors
+- Ukrainian security services step up operations against Russian forces
+- Retail investors face challenges in accessing unicorns like OpenAI
+- Ted Cruz weighs second presidential bid in 2028
+- Southeast Asian leaders urge restraint in US-India dispute
+- Millennials have officially become old, according to Anna Silman
+- British man charged with drugging and raping ex-wife over 13 years
+- US pressure on Venezuela raises questions about real motivation
+- US lost tens of thousands of manufacturing jobs after tariffs rose
+- US farm agency lost 20,000 staff in first five months of Trump administration
+- Russia expresses concern over US actions in the Caribbean
+- Survey finds 70% of 10-year-olds use AI for fact-checking
+- Cruz Beckham denies report that his parents unfollowed him
 
 
 ----
 
 @japan.reuters.com
 
-注）手数料は上限。税込み。単位は％。 bit.ly/4b3zwZz
+ロシア紙イズベスチヤは２３日、ウクライナの紛争解決に向けた先週末のロシアと米国の協議は画期的なものと見なすべきではないとするペスコフ大統領報道官の発言を伝えた。 bit.ly/4923qL7
 
-[2025-12-23 07:08:29](https://bsky.app/profile/japan.reuters.com/post/3mamapgbaza2s)
+[2025-12-23 07:26:11](https://bsky.app/profile/japan.reuters.com/post/3mambp3chj52u)
+
+---
+
+@axios.com
+
+The U.S. will build "Trump-class" military vessels that the president on Monday suggested are new-age battleships, inching the country closer to construction of what the administration is advertising as "the Golden Fleet."
+
+[2025-12-23 07:25:50](https://bsky.app/profile/axios.com/post/3mambohdh222x)
+
+---
+
+@cbsnews.com
+
+<strong><span style="color: red;">BREAKING:</span> President Trump announced plans to build new Navy battleships he's calling the Pentagon's "Golden Fleet." cbsn.ws/3YGlHsF</strong>
+
+[2025-12-23 07:25:43](https://bsky.app/profile/cbsnews.com/post/3mamboal3fo2g)
 
 ---
 
 @reuters.com
 
-Canadian dollar rises ahead of GDP data as oil prices climb reut.rs/3Y5nGXl
+Salah scores late winner as Egypt come from behind to beat Zimbabwe reut.rs/4sfQ5b2
 
-[2025-12-23 07:05:09](https://bsky.app/profile/reuters.com/post/3mamajhp3du2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【動画】Pickup NEWS（12月23日）
-https://news.web.nhk/newsweb/na/na-k10015010631000
-
-[2025-12-23 07:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamafqokbh24)
+[2025-12-23 07:25:08](https://bsky.app/profile/reuters.com/post/3mambn6yrj22k)
 
 ---
 
 @japan.reuters.com
 
-（暫定値） bit.ly/44K4tOG
+米動画配信大手ネットフリックスは、メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）買収に向け、約５９０億ドルのつなぎ融資の一部を借り換えた。規制当局に２２日付で届け出た書類で明らかになった。 bit.ly/4p7d6Kg
 
-[2025-12-23 07:02:44](https://bsky.app/profile/japan.reuters.com/post/3mamaf526zr2c)
+[2025-12-23 07:22:55](https://bsky.app/profile/japan.reuters.com/post/3mambjalovg27)
+
+---
+
+@wsj.com
+
+At Opera Philadelphia, Vivaldi’s music meets a contemporary libretto by Sarah Ruhl; in New York, Lincoln Center Theater presents Gian Carlo Menotti’s written-for-television opera in a production starring Joyce DiDonato. on.wsj.com/4p1OfHL
+
+[2025-12-23 07:22:04](https://bsky.app/profile/wsj.com/post/3mambhpmajq2c)
 
 ---
 
 @japan.reuters.com
 
-トランプ米大統領は、来年１月第１週までに連邦準備理事会（ＦＲＢ）の次期議長を指名する可能性がある。ＣＮＢＣが２２日、関係筋の話として報じた。 bit.ly/44InWPL
+イスラエルのネタニヤフ首相は２２日、来週予定する訪米の際に、トランプ米大統領とイランの核開発を巡る活動について協議する考えを示した。また、イランが最近「演習」を実施していることをイスラエルは把握しているとも明らかにしたが、トランプ氏との会談はパレスチナ自治区ガザでの和平の次の段階への移行のほか、レバノンの親イラン武装組織ヒズボラへの対応が主な議題になるとの見方を示した。 bit.ly/3Y8BQag
 
-[2025-12-23 07:01:22](https://bsky.app/profile/japan.reuters.com/post/3mamacoqdc52c)
+[2025-12-23 07:20:20](https://bsky.app/profile/japan.reuters.com/post/3mambemgp5n2c)
 
 ---
 
-@reuters.com
+@nbcnews.com
 
-Lebanese PM urges swift approval of law aimed at paying back depositors reut.rs/3MI8j4N
+Chris Rea, the singer and songwriter best known for the hit “Driving Home for Christmas,” has died at 74, his family says.
 
-[2025-12-23 07:01:08](https://bsky.app/profile/reuters.com/post/3mamaccaeid2k)
+[2025-12-23 07:20:12](https://bsky.app/profile/nbcnews.com/post/3mambeeoyjq2q)
 
 ---
 
 @cnn.com
 
-Ukrainian security services have stepped up drone and sabotage operations against Russian combat aircraft and submarines this month, in what analysts see as one way to combat incessant Russian missile strikes against cities and energy infrastructure.
+The Kansas City Chiefs have announced they will leave their longtime home at Arrowhead Stadium for a new, domed stadium that will be built across the Kansas-Missouri state line and be ready for the start of the 2031 season: https://cnn.it/4pOsv3f
 
-[2025-12-23 07:01:01](https://bsky.app/profile/cnn.com/post/3mamac3ilt72o)
-
----
-
-@bloomberg.com
-
-A real-world test: Can retail investors access unicorns like OpenAI? The answer one writer got surprised her
-
-[2025-12-23 07:00:57](https://bsky.app/profile/bloomberg.com/post/3mamabwymrp2h)
+[2025-12-23 07:19:24](https://bsky.app/profile/cnn.com/post/3mambcxh3yf2v)
 
 ---
 
-@usatoday.com
+@nhknewsunofficial.bsky.social
 
-Cruz Beckham cleared up a report that his parents Victoria and David Beckham unfollowed his brother Brooklyn: "They woke up blocked ... as did I."
+兵庫県警 オンラインカジノで賭博疑いなど 警察官16人を処分
+https://news.web.nhk/newsweb/na/na-k10015010921000
 
-[2025-12-23 07:00:35](https://bsky.app/profile/usatoday.com/post/3mamabcnoat2o)
-
----
-
-@apnews.com
-
-The Kansas City Chiefs have announced they will relocate across the Kansas-Missouri border in a new domed stadium that will be ready by the 2031 season.
-
-[2025-12-23 07:00:28](https://bsky.app/profile/apnews.com/post/3mamab37fbh2q)
+[2025-12-23 07:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mambakxkni2x)
 
 ---
 
