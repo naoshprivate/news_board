@@ -1,9 +1,9 @@
-# [2025-12-22 20:10 updated](2025_12_22.md)
+# [2025-12-22 20:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">関係筋によると、ロシアの今年の中国向け天然ガス輸出（パイプライン経由）は前年比で約２５％の増加となる見通し。 bit.ly/3KGIGkc <a href="https://bsky.app/profile/japan.reuters.com/post/3mal3spdunx2c" target="_blank">japan.reuters.com</a> (2025-12-22 20:08:11)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】V・ファーレン長崎マテウス選手と山口蛍選手がJ2「ベストイレブン」を受賞 (2025-12-22 20:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mal3owmylc2b" target="_blank">sokuho.news</a> (2025-12-22 20:06:04)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】V・ファーレン長崎マテウス選手がJ2最優秀選手賞と得点王のW受賞「仲間とサポーターのおかげ」 (2025-12-22 20:04) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mal3ooqcuv2x" target="_blank">sokuho.news</a> (2025-12-22 20:05:56)</span><span style="padding-right:50px;">ブラジル中郷銀行が１９日公表した１１月の外国直接投資（ＦＤＩ）は９８億２０００万ドルと、エコノミスト予想の６５億ドルを大きく上回り、年初来の累計でも中銀の通年見通しを上回った。 bit.ly/44BxE6y <a href="https://bsky.app/profile/japan.reuters.com/post/3mal3ncmoqb2s" target="_blank">japan.reuters.com</a> (2025-12-22 20:05:09)</span><span style="padding-right:50px;">Russian attack on Ukraine's Odesa region causes fire at port and power outages reut.rs/3KU2nVH <a href="https://bsky.app/profile/reuters.com/post/3mal3navl2j2b" target="_blank">reuters.com</a> (2025-12-22 20:05:08)</span>
+<span style="padding-right:50px;">Who is Coty's new interim CEO? reut.rs/4j7f9gh <a href="https://bsky.app/profile/reuters.com/post/3mal4r2wlw42x" target="_blank">reuters.com</a> (2025-12-22 20:25:09)</span><span style="padding-right:50px;">2025年 注目ニュースふりかえり 物価高や猛暑 スポーツも https://news.web.nhk/newsweb/na/na-k10015009441000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mal4p4wsh22y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 20:24:02)</span><span style="padding-right:50px;">Netflix secured a $5 billion revolving credit facility and two $10 billion delayed-draw term loans to refinance part of the bridge facility it took out for its bid for Warner Bros. Read more: bloom.bg/4qm4QHu  📷️: Ethan Swope/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3mal4j5lfmq2x" target="_blank">bloomberg.com</a> (2025-12-22 20:20:44)</span><span style="padding-right:50px;">人民元建ての債券や融資が伸びている。低い金利で人民元を資金調達通貨と化し、中国政府の推進する「人民元国際化」を後押ししている。 bit.ly/4pQWwQj <a href="https://bsky.app/profile/japan.reuters.com/post/3mal4iatgge2v" target="_blank">japan.reuters.com</a> (2025-12-22 20:20:14)</span><span style="padding-right:50px;">The U.S. Coast Guard is reportedly attempting to seize a third Venezuelan oil tanker in the Caribbean Sea, escalating its pressure campaign against the Nicholas Maduro regime.  <a href="https://bsky.app/profile/forbes.com/post/3mal4i3zcg42l" target="_blank">forbes.com</a> (2025-12-22 20:20:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.35 (🔻0.40 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.38 (🔻0.38 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,107 +32,105 @@
 
 ## News Headlines
 
-[{"en": "Russia's Gas Exports to China to Increase by 25% This Year"}, 
-{"en": "V\\u00b4Faren Nagasaki\'s Matheus and Yamaguchi Hiromu Named to J2 Best Eleven"}, 
-{"en": "Brazil\'s Central Bank Reports Record $9.8 Billion in FDI in November"}, 
-{"en": "Russian Attack on Ukraine\'s Odesa Region Causes Fire and Power Outages"}, 
-{"en": "State Psychiatric Hospitals See Steep Rise in People with Severe Mental Illness"}, 
-{"en": "Hong Kong Democracy Advocate Jimmy Lai Found Guilty of National Security Law Charges"}]
+- Coty Names New Interim CEO
+- Japan's JAXA Misfires on H3 Rocket Launch
+- US Coast Guard Seizes Third Venezuelan Oil Tanker
+- Russia Denies Putin's Goal to Annex Ukraine
+- Wall Street Strategists Predict 2026 Market Trends
+- Thailand Urges Cambodia to Implement Border Agreement
+- Russia's Gas Exports to China to Increase by 25%
+- V. Falken's Mateus and Yago Receive J2 Awards
+- Brazil's Banco do Brasil Exceeds FDI Expectations
+- EU to Investigate Czech State Support for Nuclear Units
+- Russian General Killed in Moscow Car Bomb
+- Australian PM Apologizes for Bondi Attack
+- American Airlines Ends Basic Economy Rewards
+- Malaysia Urges Thailand and Cambodia to Implement ASEAN Agreement
+- Earthquake Hits Papua New Guinea with Magnitude 6.4
+
 
 ----
 
-@japan.reuters.com
+@reuters.com
 
-関係筋によると、ロシアの今年の中国向け天然ガス輸出（パイプライン経由）は前年比で約２５％の増加となる見通し。 bit.ly/3KGIGkc
+Who is Coty's new interim CEO? reut.rs/4j7f9gh
 
-[2025-12-22 20:08:11](https://bsky.app/profile/japan.reuters.com/post/3mal3spdunx2c)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】V・ファーレン長崎マテウス選手と山口蛍選手がJ2「ベストイレブン」を受賞
-(2025-12-22 20:00) #ニュース
-
-[2025-12-22 20:06:04](https://bsky.app/profile/sokuho.news/post/3mal3owmylc2b)
+[2025-12-22 20:25:09](https://bsky.app/profile/reuters.com/post/3mal4r2wlw42x)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️FNNより【速報】です。
+2025年 注目ニュースふりかえり 物価高や猛暑 スポーツも
+https://news.web.nhk/newsweb/na/na-k10015009441000
 
-【速報】V・ファーレン長崎マテウス選手がJ2最優秀選手賞と得点王のW受賞「仲間とサポーターのおかげ」
-(2025-12-22 20:04) #ニュース
+[2025-12-22 20:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mal4p4wsh22y)
 
-[2025-12-22 20:05:56](https://bsky.app/profile/sokuho.news/post/3mal3ooqcuv2x)
+---
+
+@bloomberg.com
+
+Netflix secured a $5 billion revolving credit facility and two $10 billion delayed-draw term loans to refinance part of the bridge facility it took out for its bid for Warner Bros. Read more: bloom.bg/4qm4QHu
+
+📷️: Ethan Swope/Bloomberg
+
+[2025-12-22 20:20:44](https://bsky.app/profile/bloomberg.com/post/3mal4j5lfmq2x)
 
 ---
 
 @japan.reuters.com
 
-ブラジル中郷銀行が１９日公表した１１月の外国直接投資（ＦＤＩ）は９８億２０００万ドルと、エコノミスト予想の６５億ドルを大きく上回り、年初来の累計でも中銀の通年見通しを上回った。 bit.ly/44BxE6y
+人民元建ての債券や融資が伸びている。低い金利で人民元を資金調達通貨と化し、中国政府の推進する「人民元国際化」を後押ししている。 bit.ly/4pQWwQj
 
-[2025-12-22 20:05:09](https://bsky.app/profile/japan.reuters.com/post/3mal3ncmoqb2s)
+[2025-12-22 20:20:14](https://bsky.app/profile/japan.reuters.com/post/3mal4iatgge2v)
+
+---
+
+@forbes.com
+
+The U.S. Coast Guard is reportedly attempting to seize a third Venezuelan oil tanker in the Caribbean Sea, escalating its pressure campaign against the Nicholas Maduro regime. 
+
+[2025-12-22 20:20:08](https://bsky.app/profile/forbes.com/post/3mal4i3zcg42l)
+
+---
+
+@wsj.com
+
+A turnaround at Lululemon will take more than just management chops, writes Heard on the Street columnist Jinjoo Lee.
+
+[2025-12-22 20:17:28](https://bsky.app/profile/wsj.com/post/3mal4dcqz7g2c)
+
+---
+
+@japan.reuters.com
+
+宇宙航空研究開発機構（ＪＡＸＡ）の山川宏理事長は２２日午後に開いた記者会見で、同日午前に行ったＨ３ロケット８号機による準天頂衛星システム「みちびき５号機」の打ち上げに失敗したと語った。 bit.ly/4s9RY95
+
+[2025-12-22 20:15:14](https://bsky.app/profile/japan.reuters.com/post/3mal47d6wqq2c)
 
 ---
 
 @reuters.com
 
-Russian attack on Ukraine's Odesa region causes fire at port and power outages reut.rs/3KU2nVH
+Dire year for dollar has little light at end of tunnel in 2026 reut.rs/48RHVOt
 
-[2025-12-22 20:05:08](https://bsky.app/profile/reuters.com/post/3mal3navl2j2b)
-
----
-
-@npr.org
-
-The share of people with severe mental illness in state psychiatric hospitals accused of serious crimes has risen steeply. The shift has all but halted the possibility of care before a catastrophic crisis. n.pr/4p9FPhQ
-
-[2025-12-22 20:04:10](https://bsky.app/profile/npr.org/post/3mal3ljhnga25)
+[2025-12-22 20:15:10](https://bsky.app/profile/reuters.com/post/3mal477jbgb2b)
 
 ---
 
-@reuters.com
+@japan.reuters.com
 
-LIVE: Spain's Christmas lottery winners celebrate youtube.com/live/mjMytQF...
+ロシア大統領府のぺスコフ報道官は２２日、プーチン大統領がウクライナ全土を掌握し、旧ソ連に属していた欧州の一部地域を取り戻そうとしているとの見方を否定した。 bit.ly/3YE1T9d
 
-[2025-12-22 20:03:06](https://bsky.app/profile/reuters.com/post/3mal3jmgxwc27)
-
----
-
-@nikkei.com
-
-香港の変容を象徴するジミー・ライ氏の有罪判決　国安法が奪う自由
-www.nikkei.com/article/DGXZQO...
-
-判決を受けたのは民主派新聞アップル・デイリーの創業者。外国政府に中国や香港への制裁を促したなどと認定されました。
-
-「中国当局や裁判所によるショーのようだった」。米ジョージタウン大学の黎恩灝（エリック・ライ）シニアフェローは振り返ります。
-
-すべてが共産党の指導下にある中国の政治体制が香港に落とし込まれる――。
-
-国安法施行から約5年半での変容ぶりが世界にさらされました。
-
-[2025-12-22 20:00:53](https://bsky.app/profile/nikkei.com/post/3mal3fnywer2g)
+[2025-12-22 20:14:46](https://bsky.app/profile/japan.reuters.com/post/3mal46ifzsp27)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-A year after Assad's fall, Syria's prisons are filling up again. Reuters found at least 28 detention facilities from the Assad era have reopened this year, holding detainees without charges or paper trails. Read the Reuters investigation: reut.rs/3L6ZnVT
+Here’s where the stock market is headed in 2026, according to Wall Street’s top strategists
 
-[2025-12-22 20:00:42](https://bsky.app/profile/reuters.com/post/3mal3fdaujk2g)
-
----
-
-@nbcnews.com
-
-The father and son accused of killing 15 people at a Hanukkah celebration threw four homemade explosive devices at the Bondi Beach crowd before their mass shooting, investigators allege in court documents.
-
-[2025-12-22 20:00:28](https://bsky.app/profile/nbcnews.com/post/3mal3ew34fm2d)
+[2025-12-22 20:12:39](https://bsky.app/profile/cnbc.com/post/3mal42pch3y2e)
 
 ---
 
