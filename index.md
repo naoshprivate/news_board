@@ -1,9 +1,9 @@
-# [2025-12-23 03:10 updated](2025_12_23.md)
+# [2025-12-23 03:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Gold, silver hit record highs as precious metals pace toward best year since 1979 <a href="https://bsky.app/profile/yahoofinance.com/post/3malt5zotyr2q" target="_blank">yahoofinance.com</a> (2025-12-23 03:06:07)</span><span style="padding-right:50px;">Lawyers representing hundreds of former rugby players who allege they suffered brain injuries during their careers have lost a bid to challenge orders that could lead to their High Court claims being thrown out 🏉 ⚕️ ⤵️  u.afp.com/S8GK <a href="https://bsky.app/profile/en.afp.com/post/3malt56lv5h2f" target="_blank">en.afp.com</a> (2025-12-23 03:05:38)</span><span style="padding-right:50px;">Equinor says it is evaluating impact of US pause on leases for five offshore wind projects reut.rs/497zQnB <a href="https://bsky.app/profile/reuters.com/post/3malt4bmuqr2i" target="_blank">reuters.com</a> (2025-12-23 03:05:08)</span><span style="padding-right:50px;">New York City Mayor-elect Zohran Mamdani will be sworn in by two prominent Democrats on New Year's Day.  <a href="https://bsky.app/profile/cbsnews.com/post/3malswpfx732m" target="_blank">cbsnews.com</a> (2025-12-23 03:02:01)</span><span style="padding-right:50px;">Michigan interim coach Biff Poggi said AD Warde Manuel is looking to hire a new football coach between Christmas and the team's bowl game on Dec. 31. <a href="https://bsky.app/profile/usatoday.com/post/3malsv3wdb62t" target="_blank">usatoday.com</a> (2025-12-23 03:01:07)</span>
+<span style="padding-right:50px;">欧州中央銀行（ＥＣＢ）のシュナーベル理事は２２日公表のインタビューで、当面はＥＣＢの利上げは予想していないとの考えを示した。ただ、根強いインフレ圧力を背景に、最終的には金利を引き上げる必要があると述べた。 bit.ly/4pbryky <a href="https://bsky.app/profile/japan.reuters.com/post/3malucfpi552f" target="_blank">japan.reuters.com</a> (2025-12-23 03:26:27)</span><span style="padding-right:50px;">FanDuel, CME Group launch prediction markets in five US states reut.rs/4b3YYOD <a href="https://bsky.app/profile/reuters.com/post/3malua3we5t2x" target="_blank">reuters.com</a> (2025-12-23 03:25:10)</span><span style="padding-right:50px;">In the latest blow to the US offshore wind industry, the Trump administration announced Monday it is suspending the federal leases for all large offshore wind projects currently under construction, citing unspecified national security risks.  https://cnn.it/4pdadb5 <a href="https://bsky.app/profile/cnn.com/post/3malu5f7pq72q" target="_blank">cnn.com</a> (2025-12-23 03:23:39)</span><span style="padding-right:50px;">Incoming New York City Mayor Zohran Mamdani will be sworn into office in January by state AG Letitia James and Sen. Bernie Sanders. <a href="https://bsky.app/profile/nbcnews.com/post/3maltx6wgyp24" target="_blank">nbcnews.com</a> (2025-12-23 03:20:11)</span><span style="padding-right:50px;">From @theathleticfc.bsky.social: King Mohammed’s investment in sport has positioned Morocco as a pillar of African football.  It wants to be soccer's next superpower, but the path will be challenging. <a href="https://bsky.app/profile/nytimes.com/post/3maltwyni622b" target="_blank">nytimes.com</a> (2025-12-23 03:20:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48404.61 (🔺192.73 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23435.40 (🔻15.13 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.16 (🔻0.76 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.92 (🔻0.83 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48397.90 (🔺186.02 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23430.57 (🔻19.96 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.23 (🔻0.69 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.97 (🔻0.78 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,98 +32,98 @@
 
 ## News Headlines
 
-- Gold, silver hit record highs as precious metals pace toward best year since 1979
-- Lawyers for ex-rugby players lose bid to challenge brain injury claims
-- Equinor evaluates impact of US pause on offshore wind projects
-- New York City Mayor-elect to be sworn in by two prominent Democrats
-- Pension dispute may prolong strike at Brazil's Petrobras
-- Reindeer herder in Finland losing animals to wolves from Russia
+- ECB Not Expected to Hike Interest Rates in Near Future, But Eventually Will
+- FanDuel and CME Group Launch Prediction Markets in Five US States
+- Trump Administration Suspends Federal Offshore Wind Leases Citing National Security Risks
+- Incoming New York City Mayor Zohran Mamdani to be Sworn in by State AG and Senator Sanders
+- Morocco Aims to Become Soccer's Next Superpower with King's Investment in Sport
+- British Singer-Songwriter Chris Rea Dies at 74
 
 
 ----
 
-@yahoofinance.com
+@japan.reuters.com
 
-Gold, silver hit record highs as precious metals pace toward best year since 1979
+欧州中央銀行（ＥＣＢ）のシュナーベル理事は２２日公表のインタビューで、当面はＥＣＢの利上げは予想していないとの考えを示した。ただ、根強いインフレ圧力を背景に、最終的には金利を引き上げる必要があると述べた。 bit.ly/4pbryky
 
-[2025-12-23 03:06:07](https://bsky.app/profile/yahoofinance.com/post/3malt5zotyr2q)
-
----
-
-@en.afp.com
-
-Lawyers representing hundreds of former rugby players who allege they suffered brain injuries during their careers have lost a bid to challenge orders that could lead to their High Court claims being thrown out
-🏉 ⚕️ ⤵️
-
-u.afp.com/S8GK
-
-[2025-12-23 03:05:38](https://bsky.app/profile/en.afp.com/post/3malt56lv5h2f)
+[2025-12-23 03:26:27](https://bsky.app/profile/japan.reuters.com/post/3malucfpi552f)
 
 ---
 
 @reuters.com
 
-Equinor says it is evaluating impact of US pause on leases for five offshore wind projects reut.rs/497zQnB
+FanDuel, CME Group launch prediction markets in five US states reut.rs/4b3YYOD
 
-[2025-12-23 03:05:08](https://bsky.app/profile/reuters.com/post/3malt4bmuqr2i)
-
----
-
-@cbsnews.com
-
-New York City Mayor-elect Zohran Mamdani will be sworn in by two prominent Democrats on New Year's Day. 
-
-[2025-12-23 03:02:01](https://bsky.app/profile/cbsnews.com/post/3malswpfx732m)
-
----
-
-@usatoday.com
-
-Michigan interim coach Biff Poggi said AD Warde Manuel is looking to hire a new football coach between Christmas and the team's bowl game on Dec. 31.
-
-[2025-12-23 03:01:07](https://bsky.app/profile/usatoday.com/post/3malsv3wdb62t)
-
----
-
-@reuters.com
-
-Pension dispute could prolong strike at Brazil's Petrobras reut.rs/3YFUNRH
-
-[2025-12-23 03:01:06](https://bsky.app/profile/reuters.com/post/3malsv3kqsv24)
+[2025-12-23 03:25:10](https://bsky.app/profile/reuters.com/post/3malua3we5t2x)
 
 ---
 
 @cnn.com
 
-Reindeer herder Juha Kujala says he’s losing many of his animals to wolves. Finnish scientists suspect the predators are crossing from Russia, where the war in Ukraine means fewer hunters. https://cnn.it/4j6JMCe
+In the latest blow to the US offshore wind industry, the Trump administration announced Monday it is suspending the federal leases for all large offshore wind projects currently under construction, citing unspecified national security risks.  https://cnn.it/4pdadb5
 
-[2025-12-23 03:01:05](https://bsky.app/profile/cnn.com/post/3malsv2eord22)
-
----
-
-@washingtonpost.com
-
-For months, the seven states of the Colorado River basin have failed to reach an agreement on new rules to share the river’s dwindling supply of water. 
-
-The current rules expire next year, risking water supply and power generation.
-
-[2025-12-23 03:00:30](https://bsky.app/profile/washingtonpost.com/post/3malstyphl325)
+[2025-12-23 03:23:39](https://bsky.app/profile/cnn.com/post/3malu5f7pq72q)
 
 ---
 
 @nbcnews.com
 
-George Conway, the former conservative lawyer turned critic of President Trump, has filed paperwork to run for Congress in New York City as a Democrat, a source close to Conway confirms.
+Incoming New York City Mayor Zohran Mamdani will be sworn into office in January by state AG Letitia James and Sen. Bernie Sanders.
 
-[2025-12-23 03:00:24](https://bsky.app/profile/nbcnews.com/post/3malstsockz2p)
+[2025-12-23 03:20:11](https://bsky.app/profile/nbcnews.com/post/3maltx6wgyp24)
+
+---
+
+@nytimes.com
+
+From @theathleticfc.bsky.social: King Mohammed’s investment in sport has positioned Morocco as a pillar of African football.
+
+It wants to be soccer's next superpower, but the path will be challenging.
+
+[2025-12-23 03:20:04](https://bsky.app/profile/nytimes.com/post/3maltwyni622b)
+
+---
+
+@cbsnews.com
+
+Chris Rea, the British singer-songwriter best known for the hit "Driving Home for Christmas," has died at the age of 74, his family announced on Monday.
+
+[2025-12-23 03:20:00](https://bsky.app/profile/cbsnews.com/post/3maltwul5oe2f)
+
+---
+
+@reuters.com
+
+Warner Bros bidding war and red hot M&A market has dealmakers working through holidays reut.rs/4b2Q3No
+
+[2025-12-23 03:15:12](https://bsky.app/profile/reuters.com/post/3maltobpfph2y)
+
+---
+
+@reuters.com
+
+LIVE: New York City Mayor-elect Zohran Mamdani makes an announcement youtube.com/live/1e9oO44...
+
+[2025-12-23 03:14:53](https://bsky.app/profile/reuters.com/post/3maltnpubi22r)
 
 ---
 
 @apnews.com
 
-A pitch-perfect Timothée Chalamet finds his greatest role to date in "Marty Supreme," a breakneck ride from director Josh Safdie, writes AP's Jocelyn Noveck in her review. 
+Arizona is still No. 1 in The Associated Press men’s college basketball poll, but No. 2 Michigan is closing the gap.
 
-[2025-12-23 03:00:22](https://bsky.app/profile/apnews.com/post/3malstqrgdb2p)
+See the full list.
+
+[2025-12-23 03:14:49](https://bsky.app/profile/apnews.com/post/3maltnlxrcg2d)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+東京 品川の商店街で火事 店舗や住宅など5棟焼ける 1人けが
+https://news.web.nhk/newsweb/na/na-k10015011021000
+
+[2025-12-23 03:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maltiomryz2d)
 
 ---
 
