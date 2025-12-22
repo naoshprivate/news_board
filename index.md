@@ -1,9 +1,9 @@
-# [2025-12-23 03:30 updated](2025_12_23.md)
+# [2025-12-23 03:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">欧州中央銀行（ＥＣＢ）のシュナーベル理事は２２日公表のインタビューで、当面はＥＣＢの利上げは予想していないとの考えを示した。ただ、根強いインフレ圧力を背景に、最終的には金利を引き上げる必要があると述べた。 bit.ly/4pbryky <a href="https://bsky.app/profile/japan.reuters.com/post/3malucfpi552f" target="_blank">japan.reuters.com</a> (2025-12-23 03:26:27)</span><span style="padding-right:50px;">FanDuel, CME Group launch prediction markets in five US states reut.rs/4b3YYOD <a href="https://bsky.app/profile/reuters.com/post/3malua3we5t2x" target="_blank">reuters.com</a> (2025-12-23 03:25:10)</span><span style="padding-right:50px;">In the latest blow to the US offshore wind industry, the Trump administration announced Monday it is suspending the federal leases for all large offshore wind projects currently under construction, citing unspecified national security risks.  https://cnn.it/4pdadb5 <a href="https://bsky.app/profile/cnn.com/post/3malu5f7pq72q" target="_blank">cnn.com</a> (2025-12-23 03:23:39)</span><span style="padding-right:50px;">Incoming New York City Mayor Zohran Mamdani will be sworn into office in January by state AG Letitia James and Sen. Bernie Sanders. <a href="https://bsky.app/profile/nbcnews.com/post/3maltx6wgyp24" target="_blank">nbcnews.com</a> (2025-12-23 03:20:11)</span><span style="padding-right:50px;">From @theathleticfc.bsky.social: King Mohammed’s investment in sport has positioned Morocco as a pillar of African football.  It wants to be soccer's next superpower, but the path will be challenging. <a href="https://bsky.app/profile/nytimes.com/post/3maltwyni622b" target="_blank">nytimes.com</a> (2025-12-23 03:20:04)</span>
+<span style="padding-right:50px;">Lawmakers want US to disclose any approvals of Nvidia H200 China licenses reut.rs/4p6Rm16 <a href="https://bsky.app/profile/reuters.com/post/3malvdxdtce2k" target="_blank">reuters.com</a> (2025-12-23 03:45:13)</span><span style="padding-right:50px;">Since President Trump was elected a second time, he and his allies have raised nearly $2 billion for his favored political causes and passion projects. The astounding haul hints at a level of transactionalism for which it is difficult to find obvious comparisons in modern American history. <a href="https://bsky.app/profile/nytimes.com/post/3malvdqf3bq2v" target="_blank">nytimes.com</a> (2025-12-23 03:45:06)</span><span style="padding-right:50px;">President Trump recently embraced kei cars, tiny vehicles that are popular in Asia but hard to get in the U.S. Kei car enthusiasts are delighted — but doubt whether much will change. n.pr/4b146Ty <a href="https://bsky.app/profile/npr.org/post/3malvaeliod2p" target="_blank">npr.org</a> (2025-12-23 03:43:13)</span><span style="padding-right:50px;">Waymo is resuming its driverless taxi service after a large blackout across San Francisco left its cars stranded in the streets on Saturday night. <a href="https://bsky.app/profile/nbcnews.com/post/3malv3honqq2q" target="_blank">nbcnews.com</a> (2025-12-23 03:40:28)</span><span style="padding-right:50px;">Waymo resumes San Francisco service after power outage pause reut.rs/48QSd1b <a href="https://bsky.app/profile/reuters.com/post/3malv35knaa2y" target="_blank">reuters.com</a> (2025-12-23 03:40:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48397.90 (🔺186.02 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23430.57 (🔻19.96 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.23 (🔻0.69 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.97 (🔻0.78 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48371.44 (🔺159.56 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23430.47 (🔻20.06 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.39 (🔻0.53 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.99 (🔻0.76 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,98 +32,93 @@
 
 ## News Headlines
 
-- ECB Not Expected to Hike Interest Rates in Near Future, But Eventually Will
-- FanDuel and CME Group Launch Prediction Markets in Five US States
-- Trump Administration Suspends Federal Offshore Wind Leases Citing National Security Risks
-- Incoming New York City Mayor Zohran Mamdani to be Sworn in by State AG and Senator Sanders
-- Morocco Aims to Become Soccer's Next Superpower with King's Investment in Sport
-- British Singer-Songwriter Chris Rea Dies at 74
+- US Lawmakers Demand Disclosure of Nvidia H200 China Licenses
+- Trump Allies Raise Almost $2 Billion for Favored Causes and Projects
+- Waymo Resumes Driverless Taxi Service in San Francisco
+- Britain’s Bargain Takeover Market Heats Up
+- FBI Received Complaint About Jeffrey Epstein in 1996
+- CBS News Pulls Report on Trump Administration’s Migrant Detainees
 
 
 ----
 
-@japan.reuters.com
-
-欧州中央銀行（ＥＣＢ）のシュナーベル理事は２２日公表のインタビューで、当面はＥＣＢの利上げは予想していないとの考えを示した。ただ、根強いインフレ圧力を背景に、最終的には金利を引き上げる必要があると述べた。 bit.ly/4pbryky
-
-[2025-12-23 03:26:27](https://bsky.app/profile/japan.reuters.com/post/3malucfpi552f)
-
----
-
 @reuters.com
 
-FanDuel, CME Group launch prediction markets in five US states reut.rs/4b3YYOD
+Lawmakers want US to disclose any approvals of Nvidia H200 China licenses reut.rs/4p6Rm16
 
-[2025-12-23 03:25:10](https://bsky.app/profile/reuters.com/post/3malua3we5t2x)
-
----
-
-@cnn.com
-
-In the latest blow to the US offshore wind industry, the Trump administration announced Monday it is suspending the federal leases for all large offshore wind projects currently under construction, citing unspecified national security risks.  https://cnn.it/4pdadb5
-
-[2025-12-23 03:23:39](https://bsky.app/profile/cnn.com/post/3malu5f7pq72q)
-
----
-
-@nbcnews.com
-
-Incoming New York City Mayor Zohran Mamdani will be sworn into office in January by state AG Letitia James and Sen. Bernie Sanders.
-
-[2025-12-23 03:20:11](https://bsky.app/profile/nbcnews.com/post/3maltx6wgyp24)
+[2025-12-23 03:45:13](https://bsky.app/profile/reuters.com/post/3malvdxdtce2k)
 
 ---
 
 @nytimes.com
 
-From @theathleticfc.bsky.social: King Mohammed’s investment in sport has positioned Morocco as a pillar of African football.
+Since President Trump was elected a second time, he and his allies have raised nearly $2 billion for his favored political causes and passion projects. The astounding haul hints at a level of transactionalism for which it is difficult to find obvious comparisons in modern American history.
 
-It wants to be soccer's next superpower, but the path will be challenging.
-
-[2025-12-23 03:20:04](https://bsky.app/profile/nytimes.com/post/3maltwyni622b)
+[2025-12-23 03:45:06](https://bsky.app/profile/nytimes.com/post/3malvdqf3bq2v)
 
 ---
 
-@cbsnews.com
+@npr.org
 
-Chris Rea, the British singer-songwriter best known for the hit "Driving Home for Christmas," has died at the age of 74, his family announced on Monday.
+President Trump recently embraced kei cars, tiny vehicles that are popular in Asia but hard to get in the U.S. Kei car enthusiasts are delighted — but doubt whether much will change. n.pr/4b146Ty
 
-[2025-12-23 03:20:00](https://bsky.app/profile/cbsnews.com/post/3maltwul5oe2f)
+[2025-12-23 03:43:13](https://bsky.app/profile/npr.org/post/3malvaeliod2p)
+
+---
+
+@nbcnews.com
+
+Waymo is resuming its driverless taxi service after a large blackout across San Francisco left its cars stranded in the streets on Saturday night.
+
+[2025-12-23 03:40:28](https://bsky.app/profile/nbcnews.com/post/3malv3honqq2q)
 
 ---
 
 @reuters.com
 
-Warner Bros bidding war and red hot M&A market has dealmakers working through holidays reut.rs/4b2Q3No
+Waymo resumes San Francisco service after power outage pause reut.rs/48QSd1b
 
-[2025-12-23 03:15:12](https://bsky.app/profile/reuters.com/post/3maltobpfph2y)
+[2025-12-23 03:40:17](https://bsky.app/profile/reuters.com/post/3malv35knaa2y)
+
+---
+
+@financialtimes.com
+
+ Britain’s bargain takeover market ft.trib.al/uxk1pQu  | opinion
+
+[2025-12-23 03:36:27](https://bsky.app/profile/financialtimes.com/post/3maluubi2z62c)
 
 ---
 
 @reuters.com
 
-LIVE: New York City Mayor-elect Zohran Mamdani makes an announcement youtube.com/live/1e9oO44...
+Italian prosecutors ask to drop case of suspected Russian drone flyovers reut.rs/3KVTcnJ
 
-[2025-12-23 03:14:53](https://bsky.app/profile/reuters.com/post/3maltnpubi22r)
-
----
-
-@apnews.com
-
-Arizona is still No. 1 in The Associated Press men’s college basketball poll, but No. 2 Michigan is closing the gap.
-
-See the full list.
-
-[2025-12-23 03:14:49](https://bsky.app/profile/apnews.com/post/3maltnlxrcg2d)
+[2025-12-23 03:35:09](https://bsky.app/profile/reuters.com/post/3malurx2y3c2r)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-東京 品川の商店街で火事 店舗や住宅など5棟焼ける 1人けが
-https://news.web.nhk/newsweb/na/na-k10015011021000
+He shattered the world record by pumping himself full of drugs—and won $1 million. on.wsj.com/4pQ0ysa
 
-[2025-12-23 03:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maltiomryz2d)
+[2025-12-23 03:32:52](https://bsky.app/profile/wsj.com/post/3malunumozx2u)
+
+---
+
+@usatoday.com
+
+The FBI got a complaint in 1996 that Jeffrey Epstein had nude photos of young girls, a document shows. The woman who made it feels redeemed. bit.ly/4pQk6MX
+
+[2025-12-23 03:30:38](https://bsky.app/profile/usatoday.com/post/3malujuv35w2f)
+
+---
+
+@cnn.com
+
+Earlier this month, after President Donald Trump blasted “60 Minutes” for interviewing Marjorie Taylor Greene, correspondents noticed a change behind the scenes. https://cnn.it/44JE5o6
+
+[2025-12-23 03:30:11](https://bsky.app/profile/cnn.com/post/3maluj2t74f25)
 
 ---
 
