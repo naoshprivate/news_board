@@ -1,9 +1,9 @@
-# [2025-12-23 05:10 updated](2025_12_23.md)
+# [2025-12-23 05:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米連邦準備理事会（ＦＲＢ）のミラン理事は２２日、近い将来における景気後退リスクはみられないとしつつも、「金利を下方に調整しなければ、景気後退リスクが高まる」という認識を示した。 bit.ly/497MTFB <a href="https://bsky.app/profile/japan.reuters.com/post/3malzygbnud2v" target="_blank">japan.reuters.com</a> (2025-12-23 05:08:15)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:日高地方東部, 深さ:50km マグニチュード:3.7, 最大震度:2 📍https://www.google.com/maps?q=42.3,143.0&ll=42.3,143.0&z=7&t=h 地震発生日時:2025-12-23 05:03頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3malzwd3koa2e" target="_blank">sokuho.news</a> (2025-12-23 05:07:04)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  5時3分頃、北海道で最大震度2の地震を観測しました。 震源:日高地方東部, 深さ:50km, 規模:M3.7 この地震による津波の心配はありません。 (2025-12-23 05:06:38) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/23/2025-12-23-05-03-57.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3malzvkwp7y2e" target="_blank">sokuho.news</a> (2025-12-23 05:06:38)</span><span style="padding-right:50px;">政府 成長戦略策定で官房副長官トップの分科会 来月新設へ https://news.web.nhk/newsweb/na/na-k10015010871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malzujtzew2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 05:06:02)</span><span style="padding-right:50px;">LIVE: UN Security Council meets on Sudan in New York youtube.com/live/M399t8w... <a href="https://bsky.app/profile/reuters.com/post/3malzud7bkc2r" target="_blank">reuters.com</a> (2025-12-23 05:05:57)</span>
+<span style="padding-right:50px;">週明け欧州株式市場は小幅に反落して取引を終えた。飲料銘柄など幅広く売り注文が優勢で、相場を押し下げた。フランスのＣＡＣ４０指数は０．３７％安。ＳＴＯＸＸ欧州６００種指数は先週末に最高値を更新していた。 bit.ly/4sbdQ3W <a href="https://bsky.app/profile/japan.reuters.com/post/3mam32as6df27" target="_blank">japan.reuters.com</a> (2025-12-23 05:27:10)</span><span style="padding-right:50px;">The US Department of the Interior says it has paused all leases for offshore wind projects in the United States over unspecified national security risks, casting new doubt over the future of an industry detested by President Donald Trump 🇺🇸 🌬️ ⤵️  u.afp.com/S8Nc <a href="https://bsky.app/profile/en.afp.com/post/3mam322ykia2y" target="_blank">en.afp.com</a> (2025-12-23 05:27:04)</span><span style="padding-right:50px;">A federal judge has approved a preliminary agreement for a class action lawsuit requiring Aetna to cover fertility treatments for same-sex couples as they do with heterosexual couples.  <a href="https://bsky.app/profile/cbsnews.com/post/3mam2y7hno62b" target="_blank">cbsnews.com</a> (2025-12-23 05:26:01)</span><span style="padding-right:50px;">Reports: Clippers’ Ivica Zubac (ankle sprain) to miss several weeks reut.rs/45kNRgs <a href="https://bsky.app/profile/reuters.com/post/3mam2wp2r7l2r" target="_blank">reuters.com</a> (2025-12-23 05:25:10)</span><span style="padding-right:50px;">Police say the three men, one of whom is a murder suspect, may be armed and are considered dangerous. <a href="https://bsky.app/profile/wsj.com/post/3mam2s2acnd2g" target="_blank">wsj.com</a> (2025-12-23 05:22:34)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48388.56 (🔺176.68 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23422.40 (🔻28.13 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.27 (🔻0.65 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.95 (🔻0.80 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48385.79 (🔺173.91 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23426.26 (🔻24.27 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.36 (🔻0.56 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.93 (🔻0.82 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,127 +32,116 @@
 
 ## News Headlines
 
-- US Federal Reserve Official Sees No Imminent Economic Contraction, But Warns of Rising Risk
-- Magnitude 3.7 Earthquake Hits Hokkaido, Japan
-- Japan's Government to Establish a New Subcommittee for Formulating Growth Strategy
-- UN Security Council Holds Emergency Meeting on Sudan
-- NFL Playoff Picture Takes Shape, With Jaguars Joining the Race for the Top Spot in the AFC
-- UPS Faces Challenges as Holiday Season Approaches Amid Shifting Trade Rules
+- European stocks close slightly lower after a weak start
+- US Department of the Interior pauses offshore wind leases over national security risks
+- Federal judge approves agreement for fertility treatment coverage for same-sex couples
+- Police seek armed men with murder suspect, warning of danger
+- Japan's Tepco to restart nuclear reactor 6 at Ohi plant on January 20
+- US business equipment borrowings decline by over 4% in November
+- UBS advises on preparing portfolio for shocks and growth opportunities in 2026
+- Massachusetts college student deported despite lawyer's attempts to intervene
+- US President Trump makes announcement on shipbuilding at Mar-a-Lago
+- Senator Bernie Sanders to administer oath of office to New York City mayor-elect
+- Norway's McGrath wins men's slalom in Alta Badia
+- Banksy confirms new mural in London as his latest work
+- Reports: Bobby Petrino to become UNC's offensive coordinator
+- Reports: Nick Sheridan leaving Alabama to join Michigan State as co-OC
+- Pope Leo XIV urges Vatican cardinals to put aside ambitions for power and unity
+- Chevy Chase reflects on his time on Saturday Night Live
+- Russia says it has no intention of attacking NATO or EU
+- Michaela Benthaus becomes first wheelchair user to go to space
+- UPS struggles with holiday season amid shifting trade rules
+- Zambia and Mali share points in World Cup qualifier
+- Warning issued for possible strong earthquake in Hokkaido, Japan
+- Highway accident involving actress Haruna Inoue leads to charges of negligent driving
+- Reports: Ivica Zubac to miss several weeks with ankle sprain
+- Reports: Clippers' Ivica Zubac to miss several weeks with ankle sprain
 
 
 ----
 
 @japan.reuters.com
 
-米連邦準備理事会（ＦＲＢ）のミラン理事は２２日、近い将来における景気後退リスクはみられないとしつつも、「金利を下方に調整しなければ、景気後退リスクが高まる」という認識を示した。 bit.ly/497MTFB
+週明け欧州株式市場は小幅に反落して取引を終えた。飲料銘柄など幅広く売り注文が優勢で、相場を押し下げた。フランスのＣＡＣ４０指数は０．３７％安。ＳＴＯＸＸ欧州６００種指数は先週末に最高値を更新していた。 bit.ly/4sbdQ3W
 
-[2025-12-23 05:08:15](https://bsky.app/profile/japan.reuters.com/post/3malzygbnud2v)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:日高地方東部, 深さ:50km
-マグニチュード:3.7, 最大震度:2
-📍https://www.google.com/maps?q=42.3,143.0&ll=42.3,143.0&z=7&t=h
-地震発生日時:2025-12-23 05:03頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-23 05:07:04](https://bsky.app/profile/sokuho.news/post/3malzwd3koa2e)
+[2025-12-23 05:27:10](https://bsky.app/profile/japan.reuters.com/post/3mam32as6df27)
 
 ---
 
-@sokuho.news
+@en.afp.com
 
-🔔気象庁より【地震速報】です。
+The US Department of the Interior says it has paused all leases for offshore wind projects in the United States over unspecified national security risks, casting new doubt over the future of an industry detested by President Donald Trump
+🇺🇸 🌬️ ⤵️
 
-5時3分頃、北海道で最大震度2の地震を観測しました。
-震源:日高地方東部, 深さ:50km, 規模:M3.7
-この地震による津波の心配はありません。
-(2025-12-23 05:06:38) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/23/2025-12-23-05-03-57.html?xlarge_image=1
+u.afp.com/S8Nc
 
-[2025-12-23 05:06:38](https://bsky.app/profile/sokuho.news/post/3malzvkwp7y2e)
+[2025-12-23 05:27:04](https://bsky.app/profile/en.afp.com/post/3mam322ykia2y)
+
+---
+
+@cbsnews.com
+
+A federal judge has approved a preliminary agreement for a class action lawsuit requiring Aetna to cover fertility treatments for same-sex couples as they do with heterosexual couples.
+
+
+[2025-12-23 05:26:01](https://bsky.app/profile/cbsnews.com/post/3mam2y7hno62b)
+
+---
+
+@reuters.com
+
+Reports: Clippers’ Ivica Zubac (ankle sprain) to miss several weeks reut.rs/45kNRgs
+
+[2025-12-23 05:25:10](https://bsky.app/profile/reuters.com/post/3mam2wp2r7l2r)
+
+---
+
+@wsj.com
+
+Police say the three men, one of whom is a murder suspect, may be armed and are considered dangerous.
+
+[2025-12-23 05:22:34](https://bsky.app/profile/wsj.com/post/3mam2s2acnd2g)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-政府 成長戦略策定で官房副長官トップの分科会 来月新設へ
-https://news.web.nhk/newsweb/na/na-k10015010871000
+職場の熱中症対策で是正勧告 257事業所に 8月までの3か月間
+https://news.web.nhk/newsweb/na/na-k10015010821000
 
-[2025-12-23 05:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malzujtzew2b)
+[2025-12-23 05:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mam2pdpash24)
+
+---
+
+@japan.reuters.com
+
+トランプ政権は２２日、東海岸沖に建設中の５件の大規模洋上風力発電プロジェクトのリース契約を停止した。国家安全保障上の懸念を理由とした。これを受け、洋上風力発電関連企業の株価は急落した。 bit.ly/49qjqbe
+
+[2025-12-23 05:20:37](https://bsky.app/profile/japan.reuters.com/post/3mam2ojx3sd2u)
+
+---
+
+@japan.reuters.com
+
+米半導体大手エヌビディアは人工知能（ＡＩ）向け先端半導体「Ｈ２００」について、中国の顧客に対し来年２月の春節（旧正月）連休前に出荷を開始することを目指している。関係筋３人がロイターに対し明らかにした。 bit.ly/4pRQCOT
+
+[2025-12-23 05:20:26](https://bsky.app/profile/japan.reuters.com/post/3mam2o7rsrf26)
 
 ---
 
 @reuters.com
 
-LIVE: UN Security Council meets on Sudan in New York youtube.com/live/M399t8w...
+US business equipment borrowings down more than 4% y/y in November, ELFA says reut.rs/4p3Z1NJ
 
-[2025-12-23 05:05:57](https://bsky.app/profile/reuters.com/post/3malzud7bkc2r)
-
----
-
-@reuters.com
-
-NFL Playoff Picture: NFC nearly set, Jaguars join race for No. 1 in AFC reut.rs/45e6jr7
-
-[2025-12-23 05:05:10](https://bsky.app/profile/reuters.com/post/3malzswbymm2i)
+[2025-12-23 05:15:15](https://bsky.app/profile/reuters.com/post/3mam2exe3n22c)
 
 ---
 
-@sokuho.news
+@cnbc.com
 
-🚨地震発生中❗❗
+How to prepare your portfolio for shocks and growth opportunities in 2026, according to UBS
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像5🈡
-(2025-12-23 05:04:36) #緊急地震速報
-
-[2025-12-23 05:04:43](https://bsky.app/profile/sokuho.news/post/3malzs442j52a)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3
-(2025-12-23 05:04:20) #緊急地震速報
-
-[2025-12-23 05:04:28](https://bsky.app/profile/sokuho.news/post/3malzrnplgk2s)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-23 05:04:07) #緊急地震速報
-
-[2025-12-23 05:04:16](https://bsky.app/profile/sokuho.news/post/3malzrcv66u2b)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-23 05:04:01) #緊急地震速報
-
-[2025-12-23 05:04:09](https://bsky.app/profile/sokuho.news/post/3malzr4grnk2y)
+[2025-12-23 05:14:52](https://bsky.app/profile/cnbc.com/post/3mam2eavybp2n)
 
 ---
 
