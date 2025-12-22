@@ -1,9 +1,9 @@
-# [2025-12-22 21:10 updated](2025_12_22.md)
+# [2025-12-22 21:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">クマによる人身被害 12月に入り5人 https://news.web.nhk/newsweb/na/na-k10015010761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mal77lb6cg2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 21:09:02)</span><span style="padding-right:50px;">His policies are picking winners and losers — and blurring the lines between business and government. n.pr/48P2QSb <a href="https://bsky.app/profile/npr.org/post/3mal75l6sv424" target="_blank">npr.org</a> (2025-12-22 21:07:57)</span><span style="padding-right:50px;">杉田 元官房副長官が死去 政府の事務方トップを歴代最長務める https://news.web.nhk/newsweb/na/na-k10015010721000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mal72agdhp24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 21:06:02)</span><span style="padding-right:50px;">The Department of Homeland Security has tripled its "exit bonus" offered to undocumented migrants who voluntarily leave the United States by Dec. 31, 2025.  <a href="https://bsky.app/profile/cbsnews.com/post/3mal6zlfbfp2l" target="_blank">cbsnews.com</a> (2025-12-22 21:05:43)</span><span style="padding-right:50px;">英国立統計局（ＯＮＳ）が２２日発表した第３・四半期の国内総生産（ＧＤＰ）改定値は、前期比０．１％増となり、速報値から修正はなかった。ロイターがまとめたエコノミスト予想とも一致した。 bit.ly/4pRosU4 <a href="https://bsky.app/profile/japan.reuters.com/post/3mal6yny5y42q" target="_blank">japan.reuters.com</a> (2025-12-22 21:05:12)</span>
+<span style="padding-right:50px;">🔊 ‘This massive amount of funding that's coming to ICE and Border Patrol over the next four years is really going to allow them to ramp up their enforcement.’ Listen to the Reuters World News podcast for more on the $107 billion earmarked for Trump’s ramped up crackdown plan reut.rs/4s7EGK3 <a href="https://bsky.app/profile/reuters.com/post/3malacbgdnk2g" target="_blank">reuters.com</a> (2025-12-22 21:28:28)</span><span style="padding-right:50px;">日銀が３０年ぶりの水準へと利上げしたが、ドルは１５７円台まで上昇、ドル高／円安が止まらない。円ショートの投資家にとって、次回利上げまで時間的な猶予ができた側面が意識されているためだ。日本サイドとして為替介入以外、目先の円高方向へのカードは残っていないとの見方に加え、その効果への疑念もつきまとう。しばらくは市場と当局の神経戦が続きそうだ。 bit.ly/3MPXBJk <a href="https://bsky.app/profile/japan.reuters.com/post/3mala4hwe5i22" target="_blank">japan.reuters.com</a> (2025-12-22 21:25:13)</span><span style="padding-right:50px;">Porsche to wind down charging network in tough China market, agency reports reut.rs/4911C53 <a href="https://bsky.app/profile/reuters.com/post/3mala4dka2s2o" target="_blank">reuters.com</a> (2025-12-22 21:25:09)</span><span style="padding-right:50px;">A Russian general was killed when a bomb fitted to the underside of his vehicle exploded, Russia’s investigative committee said, an attack that Moscow said could have been planned by Ukraine. <a href="https://bsky.app/profile/wsj.com/post/3mal7wryfdf2s" target="_blank">wsj.com</a> (2025-12-22 21:22:02)</span><span style="padding-right:50px;">🇹🇲 Turkmenistan village forced to move by advancing desert sands  "The village used to be on a hill north of this place," says Kakabai Baimedov, an elderly resident in the Turkmen village of Bokurdak, which has in recent years been forced to move by encroaching desert sands. <a href="https://bsky.app/profile/en.afp.com/post/3mal7utafvc2s" target="_blank">en.afp.com</a> (2025-12-22 21:20:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.36 (🔻0.39 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.43 (🔻0.32 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,102 +32,97 @@
 
 ## News Headlines
 
-- Bear attacks five people in December
-- US offers tripled exit bonus to undocumented migrants
-- Former Japanese government official dies at 91
-- UK GDP growth confirmed at 0.1% in Q3
-- London stocks dip as GDP data confirms slow growth
-- Former National Park Service ranger dies at 104
+- US to triple exit bonus for undocumented migrants who leave US by 2025
+- Australia to fast-track new gun and protest laws after mass shooting
+- Porsche to wind down charging network in tough China market
+- US lawmakers threaten contempt action over unreleased Epstein material
+- Gold price climbs above $4,400 to hit record high
+- Betty Reid Soskin, iconic former National Park Service ranger, dies at 104
 
 
 ----
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-クマによる人身被害 12月に入り5人
-https://news.web.nhk/newsweb/na/na-k10015010761000
+🔊 ‘This massive amount of funding that's coming to ICE and Border Patrol over the next four years is really going to allow them to ramp up their enforcement.’ Listen to the Reuters World News podcast for more on the $107 billion earmarked for Trump’s ramped up crackdown plan reut.rs/4s7EGK3
 
-[2025-12-22 21:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mal77lb6cg2b)
-
----
-
-@npr.org
-
-His policies are picking winners and losers — and blurring the lines between business and government. n.pr/48P2QSb
-
-[2025-12-22 21:07:57](https://bsky.app/profile/npr.org/post/3mal75l6sv424)
-
----
-
-@nhknewsunofficial.bsky.social
-
-杉田 元官房副長官が死去 政府の事務方トップを歴代最長務める
-https://news.web.nhk/newsweb/na/na-k10015010721000
-
-[2025-12-22 21:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mal72agdhp24)
-
----
-
-@cbsnews.com
-
-The Department of Homeland Security has tripled its "exit bonus" offered to undocumented migrants who voluntarily leave the United States by Dec. 31, 2025. 
-
-[2025-12-22 21:05:43](https://bsky.app/profile/cbsnews.com/post/3mal6zlfbfp2l)
+[2025-12-22 21:28:28](https://bsky.app/profile/reuters.com/post/3malacbgdnk2g)
 
 ---
 
 @japan.reuters.com
 
-英国立統計局（ＯＮＳ）が２２日発表した第３・四半期の国内総生産（ＧＤＰ）改定値は、前期比０．１％増となり、速報値から修正はなかった。ロイターがまとめたエコノミスト予想とも一致した。 bit.ly/4pRosU4
+日銀が３０年ぶりの水準へと利上げしたが、ドルは１５７円台まで上昇、ドル高／円安が止まらない。円ショートの投資家にとって、次回利上げまで時間的な猶予ができた側面が意識されているためだ。日本サイドとして為替介入以外、目先の円高方向へのカードは残っていないとの見方に加え、その効果への疑念もつきまとう。しばらくは市場と当局の神経戦が続きそうだ。 bit.ly/3MPXBJk
 
-[2025-12-22 21:05:12](https://bsky.app/profile/japan.reuters.com/post/3mal6yny5y42q)
+[2025-12-22 21:25:13](https://bsky.app/profile/japan.reuters.com/post/3mala4hwe5i22)
 
 ---
 
 @reuters.com
 
-Sterling keeps rising after the Bank of England raised the bar on rate cuts reut.rs/4qdY5Y0
+Porsche to wind down charging network in tough China market, agency reports reut.rs/4911C53
 
-[2025-12-22 21:05:11](https://bsky.app/profile/reuters.com/post/3mal6ynewqa2y)
+[2025-12-22 21:25:09](https://bsky.app/profile/reuters.com/post/3mala4dka2s2o)
 
 ---
 
 @wsj.com
 
-The chaotic conclusions in a Steelers-Lions game was part of a Week 16 that featured improbable finishes in critical showdowns that reshaped the postseason race. on.wsj.com/491HK1F
+A Russian general was killed when a bomb fitted to the underside of his vehicle exploded, Russia’s investigative committee said, an attack that Moscow said could have been planned by Ukraine.
 
-[2025-12-22 21:03:52](https://bsky.app/profile/wsj.com/post/3mal6wbx4yk2z)
-
----
-
-@usatoday.com
-
-"Mad TV" and "South Park" writer Toby Morton, a "creator of anti-fascist websites," bought trumpkennedycenter.org and trumpkennedycenter.com.
-
-[2025-12-22 21:00:44](https://bsky.app/profile/usatoday.com/post/3mal6qo72na2t)
+[2025-12-22 21:22:02](https://bsky.app/profile/wsj.com/post/3mal7wryfdf2s)
 
 ---
 
-@nikkei.com
+@en.afp.com
 
-新約聖書の「ベツレヘムの星」は実在の彗星か　NASA科学者が指摘（無料記事）
-www.nikkei.com/article/DGXZQO...
+🇹🇲 Turkmenistan village forced to move by advancing desert sands
 
-東方の三博士をイエス・キリストの元に導いた星と伝えられ、クリスマスツリーの星飾りにもなっています。
+"The village used to be on a hill north of this place," says Kakabai Baimedov, an elderly resident in the Turkmen village of Bokurdak, which has in recent years been forced to move by encroaching desert sands.
 
-科学者の手掛かりは古代中国の史書「漢書」に記録された彗星でした。
+[2025-12-22 21:20:57](https://bsky.app/profile/en.afp.com/post/3mal7utafvc2s)
 
-#ニュース
+---
 
-[2025-12-22 21:00:42](https://bsky.app/profile/nikkei.com/post/3mal6qmsbvb2i)
+@japan.reuters.com
+
+中国外務省は２２日、米国による他国船舶の恣意的な拿捕は重大な国際法違反であり、中国はあらゆる一方的で違法な制裁に反対すると述べた。 bit.ly/4j6BGtq
+
+[2025-12-22 21:20:17](https://bsky.app/profile/japan.reuters.com/post/3mal7tn3mgm2c)
+
+---
+
+@cbsnews.com
+
+Search efforts are underway in Pacific Grove after a swimmer went missing Sunday afternoon.  
+
+
+[2025-12-22 21:20:01](https://bsky.app/profile/cbsnews.com/post/3mal7t663cq2g)
+
+---
+
+@japan.reuters.com
+
+フジ・メディア・ホールディングスは２２日、村上世彰氏や長女の野村絢氏などから議決権比率３３．３％まで同社株を買い増すとの通知を受け取ったことを受け、目的などに関する情報提供を要請する「情報リスト」を交付したと発表した。 bit.ly/3KGMv92
+
+[2025-12-22 21:15:16](https://bsky.app/profile/japan.reuters.com/post/3mal7kom6em25)
 
 ---
 
 @reuters.com
 
-London stocks dip as GDP data confirms slow growth ahead of holidays reut.rs/4j9NDhT
+Netflix refinances part of $59 billion bridge loan tied to Warner Bros Discovery deal reut.rs/4aM2ZHB
 
-[2025-12-22 21:00:29](https://bsky.app/profile/reuters.com/post/3mal6qagvjs2i)
+[2025-12-22 21:15:15](https://bsky.app/profile/reuters.com/post/3mal7knermr2b)
+
+---
+
+@forbes.com
+
+When Your Friend At The Company Won’t Refer You For A Job
+www.forbes.com/sites/caroli... (Photo: Getty Images)
+
+[2025-12-22 21:14:06](https://bsky.app/profile/forbes.com/post/3mal7ilmq7k2e)
 
 ---
 
