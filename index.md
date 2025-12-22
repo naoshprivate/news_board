@@ -1,9 +1,9 @@
-# [2025-12-22 13:50 updated](2025_12_22.md)
+# [2025-12-22 14:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Gold rose to an all-time high, with heightened geopolitical tensions and bets on more Federal Reserve rate cuts adding impetus to the best annual performance in more than four decades. bloom.bg/48SyBde  📷: Akos Stiller/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3makgnckbeg2e" target="_blank">bloomberg.com</a> (2025-12-22 13:49:21)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「白煙が見える」岡山駅近くの3階建てビルで火災 消防が出動中 (2025-12-22 13:45:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makgiicqg42b" target="_blank">sokuho.news</a> (2025-12-22 13:46:39)</span><span style="padding-right:50px;">タイ工業連盟が２２日発表した１１月の国内自動車生産台数は、前年同月比１１．０６％増の１３万０２２２台だった。 bit.ly/44H4hQd <a href="https://bsky.app/profile/japan.reuters.com/post/3makgeo25cb2f" target="_blank">japan.reuters.com</a> (2025-12-22 13:44:31)</span><span style="padding-right:50px;">The father and son accused of carrying out Australia's worst terror attack undertook firearms training at an undisclosed location in the countryside, according to an alleged statement of facts released by a court. https://cnn.it/4b2fsGZ <a href="https://bsky.app/profile/cnn.com/post/3makg7uszbl23" target="_blank">cnn.com</a> (2025-12-22 13:41:50)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】東京電力柏崎刈羽原発“地元同意”の手続き完了 新潟県議会が再稼働関連の予算案を可決 来月にも再稼働へ (2025-12-22 13:39:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makg7j3inj2s" target="_blank">sokuho.news</a> (2025-12-22 13:41:38)</span>
+<span style="padding-right:50px;">What retirement looks like when you wait until you're 75. on.wsj.com/490Zt9E <a href="https://bsky.app/profile/wsj.com/post/3makhpk3b4k2z" target="_blank">wsj.com</a> (2025-12-22 14:08:29)</span><span style="padding-right:50px;">＜１３：５０＞　日経平均は高値もみ合い、米株先物のプラス推移が支え bit.ly/48P9FmN <a href="https://bsky.app/profile/japan.reuters.com/post/3makhph6jdt2s" target="_blank">japan.reuters.com</a> (2025-12-22 14:08:27)</span><span style="padding-right:50px;"> Year in a Word: Remigration ft.trib.al/7uPI6a9  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3makhnay7ux2k" target="_blank">financialtimes.com</a> (2025-12-22 14:07:13)</span><span style="padding-right:50px;"> What David Ellison can learn from a hostile bid battle of his father ft.trib.al/msBNeKe  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3makhnaw3it23" target="_blank">financialtimes.com</a> (2025-12-22 14:07:13)</span><span style="padding-right:50px;">CBS News pulled a segment on Trump administration deportations of Venezuelan immigrants to an El Salvador prison from "60 Minutes," causing staffers and media onlookers to question whether the decision was politically motivated. <a href="https://bsky.app/profile/axios.com/post/3makhmjepl225" target="_blank">axios.com</a> (2025-12-22 14:06:48)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50427.43 (🔺342.88 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3439.00 (🔻55.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.29 (🔻0.46 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50447.70 (🔺363.15 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3450.00 (🔻44.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.35 (🔻0.40 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,102 +32,98 @@
 
 ## News Headlines
 
-- Gold hits record high on Fed rate-cut bets; silver scales fresh peak
-- Thailand's car production rises 11% on year in November
-- Gold rose to an all-time high, with heightened geopolitical tensions and bets on more Federal Reserve rate cuts adding impetus to the best annual performance in more than four decades
-- Japan official warns on yen’s ‘sudden’ weakness
-- Malaysia court dismisses ex-PM’s bid to serve sentence under house arrest
-- China's rare earth magnet exports surge to record high
+- Retirees wait until 75 to stop working, and this is what it looks like
+- Japan's Nikkei average hits record high on US futures support
+- Year in a Word: Remigration
+- What David Ellison can learn from his father's hostile bid battle
+- CBS News drops report on Trump administration's deportations of Venezuelan immigrants
+- Japan's H3 rocket fails to put satellite into orbit
 
 
 ----
 
-@bloomberg.com
+@wsj.com
 
-Gold rose to an all-time high, with heightened geopolitical tensions and bets on more Federal Reserve rate cuts adding impetus to the best annual performance in more than four decades. bloom.bg/48SyBde
+What retirement looks like when you wait until you're 75. on.wsj.com/490Zt9E
 
-📷: Akos Stiller/Bloomberg
-
-[2025-12-22 13:49:21](https://bsky.app/profile/bloomberg.com/post/3makgnckbeg2e)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】「白煙が見える」岡山駅近くの3階建てビルで火災 消防が出動中
-(2025-12-22 13:45:00) #ニュース
-
-[2025-12-22 13:46:39](https://bsky.app/profile/sokuho.news/post/3makgiicqg42b)
+[2025-12-22 14:08:29](https://bsky.app/profile/wsj.com/post/3makhpk3b4k2z)
 
 ---
 
 @japan.reuters.com
 
-タイ工業連盟が２２日発表した１１月の国内自動車生産台数は、前年同月比１１．０６％増の１３万０２２２台だった。 bit.ly/44H4hQd
+＜１３：５０＞　日経平均は高値もみ合い、米株先物のプラス推移が支え bit.ly/48P9FmN
 
-[2025-12-22 13:44:31](https://bsky.app/profile/japan.reuters.com/post/3makgeo25cb2f)
-
----
-
-@cnn.com
-
-The father and son accused of carrying out Australia's worst terror attack undertook firearms training at an undisclosed location in the countryside, according to an alleged statement of facts released by a court. https://cnn.it/4b2fsGZ
-
-[2025-12-22 13:41:50](https://bsky.app/profile/cnn.com/post/3makg7uszbl23)
+[2025-12-22 14:08:27](https://bsky.app/profile/japan.reuters.com/post/3makhph6jdt2s)
 
 ---
 
-@sokuho.news
+@financialtimes.com
 
-🛎️JNNより【速報】です。
+ Year in a Word: Remigration ft.trib.al/7uPI6a9  | opinion
 
-【速報】東京電力柏崎刈羽原発“地元同意”の手続き完了 新潟県議会が再稼働関連の予算案を可決 来月にも再稼働へ
-(2025-12-22 13:39:00) #ニュース
-
-[2025-12-22 13:41:38](https://bsky.app/profile/sokuho.news/post/3makg7j3inj2s)
+[2025-12-22 14:07:13](https://bsky.app/profile/financialtimes.com/post/3makhnay7ux2k)
 
 ---
 
-@japan.reuters.com
+@financialtimes.com
 
-三村淳財務官は２２日、前週の日銀金融政策決定会合後の為替の動きについて「一方向で急激な動きが見られるので、憂慮している」とした上で「行き過ぎた動きに対しては適切な対応を取りたい」と述べた。 bit.ly/4p2R0bT
+ What David Ellison can learn from a hostile bid battle of his father ft.trib.al/msBNeKe  | opinion
 
-[2025-12-22 13:40:07](https://bsky.app/profile/japan.reuters.com/post/3makg4snv5d2c)
+[2025-12-22 14:07:13](https://bsky.app/profile/financialtimes.com/post/3makhnaw3it23)
+
+---
+
+@axios.com
+
+CBS News pulled a segment on Trump administration deportations of Venezuelan immigrants to an El Salvador prison from "60 Minutes," causing staffers and media onlookers to question whether the decision was politically motivated.
+
+[2025-12-22 14:06:48](https://bsky.app/profile/axios.com/post/3makhmjepl225)
+
+---
+
+@nikkei.com
+
+柏崎刈羽原発、26年1月に再稼働　地元同意の手続き完了へ（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+#ニュース
+
+[2025-12-22 14:06:15](https://bsky.app/profile/nikkei.com/post/3makhljmw6g2m)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-高市首相 「報道写真展」訪れ ことし1年を振り返る
-https://news.web.nhk/newsweb/na/na-k10015010291000
+官房長官 “内閣高支持率維持コメント控える 強い経済へ全力”
+https://news.web.nhk/newsweb/na/na-k10015010431000
 
-[2025-12-22 13:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makg2wg3nv2s)
+[2025-12-22 14:06:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makhlddbuo2u)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【ライブ予定】H3ロケット みちびき5号機搭載 打ち上げ失敗
+https://news.web.nhk/newsweb/na/na-k10015009941000
+
+[2025-12-22 14:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makhl73r4h2x)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>【ライブ予定】H3ロケット みちびき5号機搭載 打ち上げ失敗</strong><br><strong>(2025-12-22 14:05:14) #ニュース</strong>
+
+[2025-12-22 14:05:47](https://bsky.app/profile/sokuho.news/post/3makhkostzc2a)
 
 ---
 
 @japan.reuters.com
 
-スイス製薬大手ロシェのトーマス・シネッカー最高経営責任者（ＣＥＯ）は１９日のスイス紙とのインタビューで、米政権と製薬各社との米国での薬価引き下げに向けた合意により、スイスの新薬価格が押し上げられる公算が大きいとの見方を示した。 bit.ly/4p0qb89
+英国のスターマー首相は２１日、トランプ米大統領とウクライナ紛争の「公正で永続的な終結」を達成するための取り組みについて協議した。英首相官邸が明らかにした。 bit.ly/49nYyRS
 
-[2025-12-22 13:38:12](https://bsky.app/profile/japan.reuters.com/post/3makfzeojsn2c)
-
----
-
-@japan.reuters.com
-
-年末になると上昇気流になりがちな米株式市場だが、今年は不安定に推移する可能性がある乱気流に直面している。指標となるＳ＆Ｐ５００種株価指数は１２月に入って小幅に下落し、平均的に好調に推移するとされる１２月の例年の傾向に反する動きを見せている。 bit.ly/493c0JE
-
-[2025-12-22 13:35:07](https://bsky.app/profile/japan.reuters.com/post/3makftug3gg22)
-
----
-
-@japan.reuters.com
-
-米プロバスケットボール協会（ＮＢＡ）は２１日、各地で試合を行い、ティンバーウルブズがバックスを１０３─１００で破り、接戦を制した。 bit.ly/49omiFt
-
-[2025-12-22 13:33:56](https://bsky.app/profile/japan.reuters.com/post/3makfrqx4qu2c)
+[2025-12-22 14:05:13](https://bsky.app/profile/japan.reuters.com/post/3makhjorlyd2n)
 
 ---
 
