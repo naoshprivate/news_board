@@ -1,9 +1,9 @@
-# [2025-12-22 14:30 updated](2025_12_22.md)
+# [2025-12-22 14:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A 3-year-old was put on ADHD meds for acting up in daycare. That was the first of six different psychiatric drugs. How a childhood of overmedication begins. on.wsj.com/44ADmFE <a href="https://bsky.app/profile/wsj.com/post/3makiumq4zo2e" target="_blank">wsj.com</a> (2025-12-22 14:29:14)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】H3ロケット8号機の打ち上げ失敗 衛星を予定の軌道に投入できず 文部科学省 (2025年12月22日 13:58) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makirahnlw2z" target="_blank">sokuho.news</a> (2025-12-22 14:27:20)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】H3ロケット8号機打ち上げ失敗…文科省 第2段エンジンの早期燃焼停止の状況確認 JAXAが会見へ (2025-12-22 14:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makimpj66m2x" target="_blank">sokuho.news</a> (2025-12-22 14:24:48)</span><span style="padding-right:50px;">米ＣＢＳニュースは、ドキュメンタリー番組「６０ミニッツ」で放映する予定だったエルサルバドルの巨大刑務所ＣＥＣＯＴに関する調査報道を２１日の放送予定時間の数時間前に延期した。 bit.ly/4qlE6qn <a href="https://bsky.app/profile/japan.reuters.com/post/3makilqkidi22" target="_blank">japan.reuters.com</a> (2025-12-22 14:24:16)</span><span style="padding-right:50px;">UK cannot ignore deep-sea threat from Russia, head of Navy warns ft.trib.al/nw6EsnT <a href="https://bsky.app/profile/financialtimes.com/post/3makikibmzj2f" target="_blank">financialtimes.com</a> (2025-12-22 14:23:34)</span>
+<span style="padding-right:50px;">不動産経済研究所が２２日発表した１１月の首都圏（１都３県）新築分譲マンション市場動向によると、発売戸数は前年同月比１４．４％減の１９１０戸となった。２カ月連続の減少。東京２３区以外と埼玉、千葉で大幅に減った。一方、価格上昇が続く２３区での発売戸数が多かったことなどから、１戸当たりの平均価格は同１４．９％上がり９１８１万円で、７カ月連続で上昇した。 bit.ly/4s9U7l8 <a href="https://bsky.app/profile/japan.reuters.com/post/3makjphgi262q" target="_blank">japan.reuters.com</a> (2025-12-22 14:44:14)</span><span style="padding-right:50px;">South Korea petrochemical firms on track to cut up to 3.7 mln tons of output, minister says reut.rs/4aoOWaA <a href="https://bsky.app/profile/reuters.com/post/3makjianrwv24" target="_blank">reuters.com</a> (2025-12-22 14:40:12)</span><span style="padding-right:50px;">In an internal email, 60 Minutes correspondent Sharyn Alfonsi said new editor in chief Bari Weiss had “spiked” the story and said the government was using silence to “VETO” stories.  <a href="https://bsky.app/profile/forbes.com/post/3makjhz65cs2q" target="_blank">forbes.com</a> (2025-12-22 14:40:04)</span><span style="padding-right:50px;">中国人民銀行（中央銀行）は２２日、２０２０年以降に発生した１万元（１４２０．４７ドル）までの延滞個人債務について、２６年３月３１日までに完済すれば信用記録から削除できるようにすると発表した。 bit.ly/4pd4QZn <a href="https://bsky.app/profile/japan.reuters.com/post/3makjfzg77g2q" target="_blank">japan.reuters.com</a> (2025-12-22 14:38:58)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ガソリン混ざった灯油販売 会津若松市のGSで約2500リットル 火災のおそれ、ただちに使用停止を 福島 (2025-12-22 14:04:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makjd366xr2z" target="_blank">sokuho.news</a> (2025-12-22 14:37:19)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50447.00 (🔺362.45 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3449.00 (🔻45.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.30 (🔻0.45 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.36 (🔺322.81 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3449.00 (🔻45.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.30 (🔻0.45 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,99 +32,97 @@
 
 ## News Headlines
 
-- Japan Approves Reopening of Nuclear Power Plant After Locals Agree to Allow It
-- Cryptocurrency Firm May Be Removed From Major Stock Indexes Due to Bitcoin Holdings
-- Ukraine Conflict: Johnson and Trump Discuss Path to Peace
-- Brazil Sees Record FDI Inflows in November
-- Russia's War Effort Influenced by Flawed Information, Western Officials Say
-- Binance Allowed Suspicious Accounts to Operate After US Plea Agreement
+- Tokyo New Home Sales Drop for 2nd Consecutive Month
+- South Korea Petrochemical Firms Eye Output Cuts Amid Global Economic Uncertainty
+- China to Remove Personal Debt From Credit Records After Repayment
+- Japan's Household Savings Pile May Help Fuel Fresh Bond Demand
+- US, Russia, Ukraine Hold Productive Talks in Miami
+- Russia-Ukraine Conflict: Russia Seizes Over 50 Ukrainians in Smuysk
 
 
 ----
 
-@wsj.com
-
-A 3-year-old was put on ADHD meds for acting up in daycare. That was the first of six different psychiatric drugs. How a childhood of overmedication begins. on.wsj.com/44ADmFE
-
-[2025-12-22 14:29:14](https://bsky.app/profile/wsj.com/post/3makiumq4zo2e)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】H3ロケット8号機の打ち上げ失敗 衛星を予定の軌道に投入できず 文部科学省
-(2025年12月22日 13:58) #ニュース
-
-[2025-12-22 14:27:20](https://bsky.app/profile/sokuho.news/post/3makirahnlw2z)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】H3ロケット8号機打ち上げ失敗…文科省 第2段エンジンの早期燃焼停止の状況確認 JAXAが会見へ
-(2025-12-22 14:24) #ニュース
-
-[2025-12-22 14:24:48](https://bsky.app/profile/sokuho.news/post/3makimpj66m2x)
-
----
-
 @japan.reuters.com
 
-米ＣＢＳニュースは、ドキュメンタリー番組「６０ミニッツ」で放映する予定だったエルサルバドルの巨大刑務所ＣＥＣＯＴに関する調査報道を２１日の放送予定時間の数時間前に延期した。 bit.ly/4qlE6qn
+不動産経済研究所が２２日発表した１１月の首都圏（１都３県）新築分譲マンション市場動向によると、発売戸数は前年同月比１４．４％減の１９１０戸となった。２カ月連続の減少。東京２３区以外と埼玉、千葉で大幅に減った。一方、価格上昇が続く２３区での発売戸数が多かったことなどから、１戸当たりの平均価格は同１４．９％上がり９１８１万円で、７カ月連続で上昇した。 bit.ly/4s9U7l8
 
-[2025-12-22 14:24:16](https://bsky.app/profile/japan.reuters.com/post/3makilqkidi22)
-
----
-
-@financialtimes.com
-
-UK cannot ignore deep-sea threat from Russia, head of Navy warns ft.trib.al/nw6EsnT
-
-[2025-12-22 14:23:34](https://bsky.app/profile/financialtimes.com/post/3makikibmzj2f)
-
----
-
-@japan.reuters.com
-
-ブラジル中郷銀行が１９日公表した１１月の外国直接投資（ＦＤＩ）は９８億２０００万ドルと、エコノミスト予想の６５億ドルを大きく上回り、年初来の累計でも中銀の通年見通しを上回った。 bit.ly/48N9us8
-
-[2025-12-22 14:21:06](https://bsky.app/profile/japan.reuters.com/post/3makig2yerl2n)
-
----
-
-@financialtimes.com
-
-Milei’s ‘chainsaw’ minister pushes major reforms for 2026 ft.trib.al/6k172wD
-
-[2025-12-22 14:20:32](https://bsky.app/profile/financialtimes.com/post/3makif2we2q2k)
+[2025-12-22 14:44:14](https://bsky.app/profile/japan.reuters.com/post/3makjphgi262q)
 
 ---
 
 @reuters.com
 
-Japan eyes $7 trillion household savings pile for fresh bond demand reut.rs/4pP6bqi
+South Korea petrochemical firms on track to cut up to 3.7 mln tons of output, minister says reut.rs/4aoOWaA
 
-[2025-12-22 14:20:14](https://bsky.app/profile/reuters.com/post/3makiejmjg42b)
+[2025-12-22 14:40:12](https://bsky.app/profile/reuters.com/post/3makjianrwv24)
+
+---
+
+@forbes.com
+
+In an internal email, 60 Minutes correspondent Sharyn Alfonsi said new editor in chief Bari Weiss had “spiked” the story and said the government was using silence to “VETO” stories. 
+
+[2025-12-22 14:40:04](https://bsky.app/profile/forbes.com/post/3makjhz65cs2q)
 
 ---
 
 @japan.reuters.com
 
-トランプ米大統領は１９日、薬価引き下げで新たに大手製薬会社９社と合意したと発表した。７月に価格引き下げを求めた１７社のうち１４社が応じたことになる。 bit.ly/48VttU8
+中国人民銀行（中央銀行）は２２日、２０２０年以降に発生した１万元（１４２０．４７ドル）までの延滞個人債務について、２６年３月３１日までに完済すれば信用記録から削除できるようにすると発表した。 bit.ly/4pd4QZn
 
-[2025-12-22 14:20:13](https://bsky.app/profile/japan.reuters.com/post/3makiejcv5h2p)
+[2025-12-22 14:38:58](https://bsky.app/profile/japan.reuters.com/post/3makjfzg77g2q)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】ガソリン混ざった灯油販売 会津若松市のGSで約2500リットル 火災のおそれ、ただちに使用停止を 福島
+(2025-12-22 14:04:00) #ニュース
+
+[2025-12-22 14:37:19](https://bsky.app/profile/sokuho.news/post/3makjd366xr2z)
+
+---
+
+@financialtimes.com
+
+ Europe’s banks turn to private equity for M&A without tears ft.trib.al/GfwsDuv  | opinion
+
+[2025-12-22 14:37:16](https://bsky.app/profile/financialtimes.com/post/3makjcy7l2h2q)
+
+---
+
+@financialtimes.com
+
+ We need a plan to leverage my success ft.trib.al/ttj8YBQ  | opinion
+
+[2025-12-22 14:37:16](https://bsky.app/profile/financialtimes.com/post/3makjcy6qni25)
+
+---
+
+@financialtimes.com
+
+ Happy K-shaped Christmas ft.trib.al/olMcDkZ  | opinion
+
+[2025-12-22 14:37:15](https://bsky.app/profile/financialtimes.com/post/3makjcxpm6k2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【ライブ】H3ロケット みちびき5号機搭載 打ち上げ失敗
+https://news.web.nhk/newsweb/na/na-k10015009941000
+
+[2025-12-22 14:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makjaujkbh2l)
 
 ---
 
 @japan.reuters.com
 
-新潟県議会は２２日、東京電力柏崎刈羽原子力発電所の再稼働を巡り、再稼働関連予算を盛り込んだ補正予算案を可決したほか、再稼働容認を表明した花角英世知事が職務を続けることを認めた。これにより再稼働の最大の焦点となっていた「地元同意」の手続きが完了した。再稼働に向けて具体的に進むことになる。 bit.ly/3MLZ5Ex
+太平洋工業は２２日、非公開化を目的とするＭＢＯ（経営陣が参加する買収）の一環として実施している株式公開買い付け（ＴＯＢ）の期間を２２日から来年１月１３日まで延長すると発表した。 bit.ly/490TMbG
 
-[2025-12-22 14:18:57](https://bsky.app/profile/japan.reuters.com/post/3makicaqbya22)
+[2025-12-22 14:32:41](https://bsky.app/profile/japan.reuters.com/post/3makj2spker26)
 
 ---
 
