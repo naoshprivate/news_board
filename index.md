@@ -1,9 +1,9 @@
-# [2025-12-22 18:10 updated](2025_12_22.md)
+# [2025-12-22 18:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">アジア系プライベート・エクイティ（ＰＥ）ファンド、ヒルハウス・インベストメント・マネジメント傘下の不動産開発サムティホールディングスは２２日、集合住宅に投資する約５億ドル（約７８０億円）規模のファンドを設立したと発表した。うち２億ドルを投じる第１号ポートフォリオには、東京と大阪の新築１６物件（計１９４８戸）から成る資産を組み入れた。 bit.ly/3MWAm09 <a href="https://bsky.app/profile/japan.reuters.com/post/3makuewbgj72s" target="_blank">japan.reuters.com</a> (2025-12-22 17:55:12)</span><span style="padding-right:50px;">When she gets ready for bed, SaraJane Warner covers her face with a squishy mask, wraps a strap around her head to compress her jawline and seals her lips with mouth tape.  Her “morning shed,” she says, results in glassy skin and a chiseled jaw line. 🔗:on.wsj.com/4akB1Co <a href="https://bsky.app/profile/wsj.com/post/3makudpfiy52k" target="_blank">wsj.com</a> (2025-12-22 17:54:31)</span><span style="padding-right:50px;">BOJ to raise interest rates to 1.5% under Ueda, ex-c.bank policymaker says reut.rs/4s7uyRx <a href="https://bsky.app/profile/reuters.com/post/3maku3zehay2y" target="_blank">reuters.com</a> (2025-12-22 17:50:13)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】横浜駅西口近くの繁華街で雑居ビルが火災…量販店や多数の飲食店など立ち並ぶ一角で (2025-12-22 17:48) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maku22yndt2a" target="_blank">sokuho.news</a> (2025-12-22 17:49:08)</span><span style="padding-right:50px;">米ＣＢＳニュースは、ドキュメンタリー番組「６０ミニッツ」で放映する予定だったエルサルバドルの巨大刑務所ＣＥＣＯＴに関する調査報道を２１日の放送予定時間の数時間前に延期した。 bit.ly/3YF4NKZ <a href="https://bsky.app/profile/japan.reuters.com/post/3maktt5ovrx2u" target="_blank">japan.reuters.com</a> (2025-12-22 17:45:16)</span>
+<span style="padding-right:50px;">ロイターが２２日に閲覧した調査によると、ドイツの米国向け自動車輸出は今年１─９月に１４％近く落ち込み、ドイツの産業の中で米国の関税措置による打撃が最大となった。 bit.ly/4pNfMOh <a href="https://bsky.app/profile/japan.reuters.com/post/3makw2inrl72c" target="_blank">japan.reuters.com</a> (2025-12-22 18:25:10)</span><span style="padding-right:50px;">Chinese AI firm MiniMax to launch Hong Kong IPO in early January, sources say reut.rs/3YF6FDv <a href="https://bsky.app/profile/reuters.com/post/3makw2honji2k" target="_blank">reuters.com</a> (2025-12-22 18:25:08)</span><span style="padding-right:50px;">The elite university spent billions chasing the Ivies. Now it's Exhibit A in the financial reckoning confronting colleges around the U.S. on.wsj.com/4j6eLyD <a href="https://bsky.app/profile/wsj.com/post/3makw2g5ome2g" target="_blank">wsj.com</a> (2025-12-22 18:25:07)</span><span style="padding-right:50px;">東京電力、柏崎刈羽原発の周辺でデータセンター開発　AI需要に的 www.nikkei.com/article/DGXZQO...  データセンターは発電所に近ければ送配電設備の整備コストや工期を抑えられます。  原発の電気を次世代燃料の水素製造に活用する検討もしています。  柏崎刈羽原発は、12月23日にも再稼働に向けた地元同意の手続きが完了。  東電は、新事業で収益を改善して福島第1原発の廃炉・賠償費用などを捻出します。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3makvx4h4aa2x" target="_blank">nikkei.com</a> (2025-12-22 18:23:16)</span><span style="padding-right:50px;">In this special year-end edition of On Assignment, Reuters Editor-in-Chief Alessandra Galloni sits down with host Jonah Green to reflect on the tumultuous 2025 news cycle. Listen now: reut.rs/4s7IHhR <a href="https://bsky.app/profile/reuters.com/post/3makvuijfkk2c" target="_blank">reuters.com</a> (2025-12-22 18:21:48)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.49 (🔻0.26 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.48 (🔻0.27 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,39 +32,90 @@
 
 ## News Headlines
 
-- Asian PE Fund Launches $500 Million Fund to Invest in Residential Projects
-- Russian General Killed in Moscow Car Bombing
-- BOJ to Raise Interest Rates to 1.5% Under Ueda
-- China Lodges Complaint Over Japan Official's Taiwan Visit
-- China to Remove Credit Records of Defaults Under 10,000 Yuan
-- UK Health Minister Vows to Prevent Renewed Doctors' Strikes
+- German car exports to US plunge 14% in September due to US tariffs
+- MiniMax to launch Hong Kong IPO in early January
+- Elite US university's financial reckoning: Billions spent chasing Ivy League status
+- Tokyo Electric Power to develop data center near nuclear power plant
+- China says US seizure of ships 'serious violation' of international law
+- BOJ to raise interest rates to 1.5% under Ueda, ex-c.bank policymaker says
 
 
 ----
 
 @japan.reuters.com
 
-アジア系プライベート・エクイティ（ＰＥ）ファンド、ヒルハウス・インベストメント・マネジメント傘下の不動産開発サムティホールディングスは２２日、集合住宅に投資する約５億ドル（約７８０億円）規模のファンドを設立したと発表した。うち２億ドルを投じる第１号ポートフォリオには、東京と大阪の新築１６物件（計１９４８戸）から成る資産を組み入れた。 bit.ly/3MWAm09
+ロイターが２２日に閲覧した調査によると、ドイツの米国向け自動車輸出は今年１─９月に１４％近く落ち込み、ドイツの産業の中で米国の関税措置による打撃が最大となった。 bit.ly/4pNfMOh
 
-[2025-12-22 17:55:12](https://bsky.app/profile/japan.reuters.com/post/3makuewbgj72s)
-
----
-
-@wsj.com
-
-When she gets ready for bed, SaraJane Warner covers her face with a squishy mask, wraps a strap around her head to compress her jawline and seals her lips with mouth tape.
-
-Her “morning shed,” she says, results in glassy skin and a chiseled jaw line. 🔗:on.wsj.com/4akB1Co
-
-[2025-12-22 17:54:31](https://bsky.app/profile/wsj.com/post/3makudpfiy52k)
+[2025-12-22 18:25:10](https://bsky.app/profile/japan.reuters.com/post/3makw2inrl72c)
 
 ---
 
 @reuters.com
 
-BOJ to raise interest rates to 1.5% under Ueda, ex-c.bank policymaker says reut.rs/4s7uyRx
+Chinese AI firm MiniMax to launch Hong Kong IPO in early January, sources say reut.rs/3YF6FDv
 
-[2025-12-22 17:50:13](https://bsky.app/profile/reuters.com/post/3maku3zehay2y)
+[2025-12-22 18:25:08](https://bsky.app/profile/reuters.com/post/3makw2honji2k)
+
+---
+
+@wsj.com
+
+The elite university spent billions chasing the Ivies. Now it's Exhibit A in the financial reckoning confronting colleges around the U.S. on.wsj.com/4j6eLyD
+
+[2025-12-22 18:25:07](https://bsky.app/profile/wsj.com/post/3makw2g5ome2g)
+
+---
+
+@nikkei.com
+
+東京電力、柏崎刈羽原発の周辺でデータセンター開発　AI需要に的
+www.nikkei.com/article/DGXZQO...
+
+データセンターは発電所に近ければ送配電設備の整備コストや工期を抑えられます。
+
+原発の電気を次世代燃料の水素製造に活用する検討もしています。
+
+柏崎刈羽原発は、12月23日にも再稼働に向けた地元同意の手続きが完了。
+
+東電は、新事業で収益を改善して福島第1原発の廃炉・賠償費用などを捻出します。
+
+#ニュース
+
+[2025-12-22 18:23:16](https://bsky.app/profile/nikkei.com/post/3makvx4h4aa2x)
+
+---
+
+@reuters.com
+
+In this special year-end edition of On Assignment, Reuters Editor-in-Chief Alessandra Galloni sits down with host Jonah Green to reflect on the tumultuous 2025 news cycle. Listen now: reut.rs/4s7IHhR
+
+[2025-12-22 18:21:48](https://bsky.app/profile/reuters.com/post/3makvuijfkk2c)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+H3ロケット みちびき5号機搭載 打ち上げ失敗 今後の計画に影響
+https://news.web.nhk/newsweb/na/na-k10015009941000
+
+[2025-12-22 18:21:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makvtdrb5v2u)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+NHK出版 担当部長ら2人を懲戒解雇
+https://news.web.nhk/newsweb/na/na-k10015010661000
+
+[2025-12-22 18:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makvt7b7jr2b)
+
+---
+
+@japan.reuters.com
+
+イタリアの競争当局（ＡＧＣＭ）は２２日、米アップルと同社の関連２部門に対し、モバイルアプリ市場での支配的地位を乱用したとして、９８６０万ユーロ（約１億１５５０万ドル）の制裁金を科したと発表した。 bit.ly/4qkhuqr
+
+[2025-12-22 18:20:42](https://bsky.app/profile/japan.reuters.com/post/3makvsj2rbf26)
 
 ---
 
@@ -72,59 +123,18 @@ BOJ to raise interest rates to 1.5% under Ueda, ex-c.bank policymaker says reut.
 
 🛎️FNNより【速報】です。
 
-【速報】横浜駅西口近くの繁華街で雑居ビルが火災…量販店や多数の飲食店など立ち並ぶ一角で
+【速報】横浜駅西口近くの繁華街で雑居ビルが火災…量販店や多数の飲食店など立ち並ぶ一角で 消防士がビル内の人を避難誘導
 (2025-12-22 17:48) #ニュース
 
-[2025-12-22 17:49:08](https://bsky.app/profile/sokuho.news/post/3maku22yndt2a)
+[2025-12-22 18:20:33](https://bsky.app/profile/sokuho.news/post/3makvsbetaw2r)
 
 ---
 
 @japan.reuters.com
 
-米ＣＢＳニュースは、ドキュメンタリー番組「６０ミニッツ」で放映する予定だったエルサルバドルの巨大刑務所ＣＥＣＯＴに関する調査報道を２１日の放送予定時間の数時間前に延期した。 bit.ly/3YF4NKZ
+タイ中央銀行のウィタイ総裁は２２日、２０２６年のインフレ目標を１─３％のレンジ内に維持すると述べた。タイのインフレ率は何カ月にもわたりマイナスが続いている。 bit.ly/44BqBuC
 
-[2025-12-22 17:45:16](https://bsky.app/profile/japan.reuters.com/post/3maktt5ovrx2u)
-
----
-
-@reuters.com
-
-Denmark says US envoy appointment reflects Trump's continued interest in Greenland reut.rs/48SnCjO
-
-[2025-12-22 17:45:13](https://bsky.app/profile/reuters.com/post/3maktt3eynw2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-空の便 年末年始 国内線ピーク 下り12月27日 上り1月3日と4日
-https://news.web.nhk/newsweb/na/na-k10015010601000
-
-[2025-12-22 17:45:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maktss2iao2x)
-
----
-
-@financialtimes.com
-
-Russian general killed in Moscow car bomb ft.trib.al/nsVmxXM
-
-[2025-12-22 17:44:03](https://bsky.app/profile/financialtimes.com/post/3maktqyhert2o)
-
----
-
-@japan.reuters.com
-
-モスクワ南部で２２日に自動車爆弾が爆発し、ロシア参謀本部陸軍作戦訓練局長ファニル・サルバロフ中将が死亡した。ロシア捜査当局が発表した。ウクライナ特殊部隊が関わった疑いもあるという。 bit.ly/4pZI08L
-
-[2025-12-22 17:42:42](https://bsky.app/profile/japan.reuters.com/post/3maktol3s5c22)
-
----
-
-@japan.reuters.com
-
-タイ工業連盟が２２日発表した１１月の国内自動車生産台数は、前年同月比１１．０６％増の１３万０２２２台だった。 bit.ly/48ZetWV
-
-[2025-12-22 17:40:13](https://bsky.app/profile/japan.reuters.com/post/3maktk4owev26)
+[2025-12-22 18:20:12](https://bsky.app/profile/japan.reuters.com/post/3makvrmku2s2q)
 
 ---
 
