@@ -1,9 +1,9 @@
-# [2025-12-22 17:30 updated](2025_12_22.md)
+# [2025-12-22 17:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Asian chipmakers and European defence companies are among the biggest winners on stock markets in 2025 while US consumer stocks have suffered, as the artificial intelligence boom and Donald Trump’s trade war became major dividing lines for global equities. ft.trib.al/nTKDvuD <a href="https://bsky.app/profile/financialtimes.com/post/3makswadfo72w" target="_blank">financialtimes.com</a> (2025-12-22 17:29:05)</span><span style="padding-right:50px;">Luxe amenities like a steakhouse and hot tubs are making this small-town university a magnet for wealthy students. The school says they're for learning. on.wsj.com/3MItUtN <a href="https://bsky.app/profile/wsj.com/post/3makssjidtw2h" target="_blank">wsj.com</a> (2025-12-22 17:27:00)</span><span style="padding-right:50px;">フランスのマクロン大統領は２１日、老朽化した原子力空母「シャルル・ドゴール」に代わる、より大型で近代的な新型空母を建造し、フランスの海洋戦力を強化する計画を確認した。 bit.ly/4pTdwFx <a href="https://bsky.app/profile/japan.reuters.com/post/3makspapujz2q" target="_blank">japan.reuters.com</a> (2025-12-22 17:25:11)</span><span style="padding-right:50px;">China lodges complaint about Japan official visiting Taiwan reut.rs/3YrxafP <a href="https://bsky.app/profile/reuters.com/post/3makspacswm2i" target="_blank">reuters.com</a> (2025-12-22 17:25:10)</span><span style="padding-right:50px;">水戸 個室サウナ店に消防緊急立ち入り検査 東京 赤坂火災受け https://news.web.nhk/newsweb/na/na-k10015010561000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maksnbeczi2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 17:24:02)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】横浜駅西口近くの繁華街で雑居ビルが火災…量販店や多数の飲食店など立ち並ぶ一角で (2025-12-22 17:48) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maku22yndt2a" target="_blank">sokuho.news</a> (2025-12-22 17:49:08)</span><span style="padding-right:50px;">米ＣＢＳニュースは、ドキュメンタリー番組「６０ミニッツ」で放映する予定だったエルサルバドルの巨大刑務所ＣＥＣＯＴに関する調査報道を２１日の放送予定時間の数時間前に延期した。 bit.ly/3YF4NKZ <a href="https://bsky.app/profile/japan.reuters.com/post/3maktt5ovrx2u" target="_blank">japan.reuters.com</a> (2025-12-22 17:45:16)</span><span style="padding-right:50px;">Denmark says US envoy appointment reflects Trump's continued interest in Greenland reut.rs/48SnCjO <a href="https://bsky.app/profile/reuters.com/post/3maktt3eynw2b" target="_blank">reuters.com</a> (2025-12-22 17:45:13)</span><span style="padding-right:50px;">空の便 年末年始 国内線ピーク 下り12月27日 上り1月3日と4日 https://news.web.nhk/newsweb/na/na-k10015010601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maktss2iao2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 17:45:01)</span><span style="padding-right:50px;">Russian general killed in Moscow car bomb ft.trib.al/nsVmxXM <a href="https://bsky.app/profile/financialtimes.com/post/3maktqyhert2o" target="_blank">financialtimes.com</a> (2025-12-22 17:44:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.38 (🔻0.37 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.45 (🔻0.30 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,94 +32,98 @@
 
 ## News Headlines
 
-- Asian chipmakers and European defence companies are among the biggest winners on stock markets in 2025
-- Luxe amenities like a steakhouse and hot tubs are making this small-town university a magnet for wealthy students
-- France to build new, larger aircraft carrier to replace aging carrier and boost naval power
-- China lodges complaint about Japan official visiting Taiwan
-- China's central bank to forgive delayed personal debt up to 10,000 yuan with timely repayment
-- UK health minister vows to prevent renewed doctors' strikes
+- Fire Breaks Out in Shopping District Near Yokohama Station
+- US Postpones CBS News Documentary on El Salvador's CECOT Prison
+- Russian General Killed in Moscow Car Bomb Explosion
+- Denmark Says US Envoy Appointment Reflects Trump's Interest in Greenland
+- Typhoon-Related Flight Cancellations Reach Peak on December 27
+- China Imposes Tariffs on Some EU Dairy Imports
 
 
 ----
 
-@financialtimes.com
+@sokuho.news
 
-Asian chipmakers and European defence companies are among the biggest winners on stock markets in 2025 while US consumer stocks have suffered, as the artificial intelligence boom and Donald Trump’s trade war became major dividing lines for global equities. ft.trib.al/nTKDvuD
+🛎️FNNより【速報】です。
 
-[2025-12-22 17:29:05](https://bsky.app/profile/financialtimes.com/post/3makswadfo72w)
+【速報】横浜駅西口近くの繁華街で雑居ビルが火災…量販店や多数の飲食店など立ち並ぶ一角で
+(2025-12-22 17:48) #ニュース
 
----
-
-@wsj.com
-
-Luxe amenities like a steakhouse and hot tubs are making this small-town university a magnet for wealthy students. The school says they're for learning. on.wsj.com/3MItUtN
-
-[2025-12-22 17:27:00](https://bsky.app/profile/wsj.com/post/3makssjidtw2h)
+[2025-12-22 17:49:08](https://bsky.app/profile/sokuho.news/post/3maku22yndt2a)
 
 ---
 
 @japan.reuters.com
 
-フランスのマクロン大統領は２１日、老朽化した原子力空母「シャルル・ドゴール」に代わる、より大型で近代的な新型空母を建造し、フランスの海洋戦力を強化する計画を確認した。 bit.ly/4pTdwFx
+米ＣＢＳニュースは、ドキュメンタリー番組「６０ミニッツ」で放映する予定だったエルサルバドルの巨大刑務所ＣＥＣＯＴに関する調査報道を２１日の放送予定時間の数時間前に延期した。 bit.ly/3YF4NKZ
 
-[2025-12-22 17:25:11](https://bsky.app/profile/japan.reuters.com/post/3makspapujz2q)
+[2025-12-22 17:45:16](https://bsky.app/profile/japan.reuters.com/post/3maktt5ovrx2u)
 
 ---
 
 @reuters.com
 
-China lodges complaint about Japan official visiting Taiwan reut.rs/3YrxafP
+Denmark says US envoy appointment reflects Trump's continued interest in Greenland reut.rs/48SnCjO
 
-[2025-12-22 17:25:10](https://bsky.app/profile/reuters.com/post/3makspacswm2i)
+[2025-12-22 17:45:13](https://bsky.app/profile/reuters.com/post/3maktt3eynw2b)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-水戸 個室サウナ店に消防緊急立ち入り検査 東京 赤坂火災受け
-https://news.web.nhk/newsweb/na/na-k10015010561000
+空の便 年末年始 国内線ピーク 下り12月27日 上り1月3日と4日
+https://news.web.nhk/newsweb/na/na-k10015010601000
 
-[2025-12-22 17:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maksnbeczi2b)
+[2025-12-22 17:45:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maktss2iao2x)
+
+---
+
+@financialtimes.com
+
+Russian general killed in Moscow car bomb ft.trib.al/nsVmxXM
+
+[2025-12-22 17:44:03](https://bsky.app/profile/financialtimes.com/post/3maktqyhert2o)
 
 ---
 
 @japan.reuters.com
 
-韓国国税庁は不正アクセスにより大規模な顧客情報流出が発生したインターネット通販大手クーパンに対し、特別税務調査を実施している。聯合ニュースが２２日報じた。 bit.ly/4aZE2rV
+モスクワ南部で２２日に自動車爆弾が爆発し、ロシア参謀本部陸軍作戦訓練局長ファニル・サルバロフ中将が死亡した。ロシア捜査当局が発表した。ウクライナ特殊部隊が関わった疑いもあるという。 bit.ly/4pZI08L
 
-[2025-12-22 17:22:42](https://bsky.app/profile/japan.reuters.com/post/3maksksmfil2f)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領が任命したパルト連邦住宅金融局（ＦＨＦＡ）局長が、保守系ニュースサイトの記事を引用し、民主党のエリック・スウォルウェル下院議員を住宅ローン詐欺の疑いで捜査するよう求めていたことが、ロイターの確認した政府電子メールで明らかになった。 bit.ly/4p8pGJg
-
-[2025-12-22 17:20:17](https://bsky.app/profile/japan.reuters.com/post/3maksgiardk2q)
+[2025-12-22 17:42:42](https://bsky.app/profile/japan.reuters.com/post/3maktol3s5c22)
 
 ---
 
 @japan.reuters.com
 
-中国人民銀行（中央銀行）は２２日、２０２０年以降に発生した１万元（１４２０．４７ドル）までの延滞個人債務について、２６年３月３１日までに完済すれば信用記録から削除できるようにすると発表した。 bit.ly/4qrIh4h
+タイ工業連盟が２２日発表した１１月の国内自動車生産台数は、前年同月比１１．０６％増の１３万０２２２台だった。 bit.ly/48ZetWV
 
-[2025-12-22 17:15:14](https://bsky.app/profile/japan.reuters.com/post/3maks5hlcmn2p)
+[2025-12-22 17:40:13](https://bsky.app/profile/japan.reuters.com/post/3maktk4owev26)
 
 ---
 
 @reuters.com
 
-UK health minister vows to prevent renewed doctors' strikes reut.rs/3Y4t2Cf
+Women's Top 25 roundup: No. 10 Iowa State beats Kansas at buzzer reut.rs/3Y4tGQb
 
-[2025-12-22 17:15:13](https://bsky.app/profile/reuters.com/post/3maks5gbhdg2b)
+[2025-12-22 17:40:12](https://bsky.app/profile/reuters.com/post/3maktk43rad23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「こども性暴力防止法」運用ルールのガイドライン案まとまる
+https://news.web.nhk/newsweb/na/na-k10015010591000
+
+[2025-12-22 17:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makti3c5lf2m)
 
 ---
 
 @japan.reuters.com
 
-中国商務省は２２日、欧州連合（ＥＵ）から輸入する一部の乳製品に対し、２３日から２１．９─４２．７％の暫定関税を課すと発表した。１年以上前に開始した反補助金調査の結果を受けた措置としている。 bit.ly/3YCUkQb
+中国・香港株式市場は上昇。資金流入が続いている兆しに加え、海南島で自由貿易港が始動したことが追い風となった。 bit.ly/44FiaOV
 
-[2025-12-22 17:14:19](https://bsky.app/profile/japan.reuters.com/post/3maks3skyff2p)
+[2025-12-22 17:38:30](https://bsky.app/profile/japan.reuters.com/post/3makth2maat2v)
 
 ---
 
