@@ -1,9 +1,9 @@
-# [2025-12-22 17:10 updated](2025_12_22.md)
+# [2025-12-22 17:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Coty appoints Markus Strobel as interim CEO starting January reut.rs/4aZDQJg <a href="https://bsky.app/profile/reuters.com/post/3makqhtmmsf23" target="_blank">reuters.com</a> (2025-12-22 16:45:15)</span><span style="padding-right:50px;">■レートは終値（前日比または前週末比）、安値─高値 bit.ly/4qGfnh1 <a href="https://bsky.app/profile/japan.reuters.com/post/3makqgffu7o2u" target="_blank">japan.reuters.com</a> (2025-12-22 16:44:26)</span><span style="padding-right:50px;">The pharmaceutical company said its ceralasertib combination didn’t meet the primary goal of a late-stage clinical trial for advanced lung cancer. on.wsj.com/48SmbBW <a href="https://bsky.app/profile/wsj.com/post/3makqfrnc7t2e" target="_blank">wsj.com</a> (2025-12-22 16:44:05)</span><span style="padding-right:50px;">Her 401(k) contributions went missing, and no one could tell her why. One woman's yearslong quest to find the money. on.wsj.com/4qdfEaJ <a href="https://bsky.app/profile/wsj.com/post/3makqe2gp722t" target="_blank">wsj.com</a> (2025-12-22 16:43:06)</span><span style="padding-right:50px;">東京23区 11月の新築マンション平均価格が1億2420万円に https://news.web.nhk/newsweb/na/na-k10015010551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makqc6dxdr24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 16:42:03)</span>
+<span style="padding-right:50px;">Asian chipmakers and European defence companies are among the biggest winners on stock markets in 2025 while US consumer stocks have suffered, as the artificial intelligence boom and Donald Trump’s trade war became major dividing lines for global equities. ft.trib.al/nTKDvuD <a href="https://bsky.app/profile/financialtimes.com/post/3makswadfo72w" target="_blank">financialtimes.com</a> (2025-12-22 17:29:05)</span><span style="padding-right:50px;">Luxe amenities like a steakhouse and hot tubs are making this small-town university a magnet for wealthy students. The school says they're for learning. on.wsj.com/3MItUtN <a href="https://bsky.app/profile/wsj.com/post/3makssjidtw2h" target="_blank">wsj.com</a> (2025-12-22 17:27:00)</span><span style="padding-right:50px;">フランスのマクロン大統領は２１日、老朽化した原子力空母「シャルル・ドゴール」に代わる、より大型で近代的な新型空母を建造し、フランスの海洋戦力を強化する計画を確認した。 bit.ly/4pTdwFx <a href="https://bsky.app/profile/japan.reuters.com/post/3makspapujz2q" target="_blank">japan.reuters.com</a> (2025-12-22 17:25:11)</span><span style="padding-right:50px;">China lodges complaint about Japan official visiting Taiwan reut.rs/3YrxafP <a href="https://bsky.app/profile/reuters.com/post/3makspacswm2i" target="_blank">reuters.com</a> (2025-12-22 17:25:10)</span><span style="padding-right:50px;">水戸 個室サウナ店に消防緊急立ち入り検査 東京 赤坂火災受け https://news.web.nhk/newsweb/na/na-k10015010561000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maksnbeczi2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 17:24:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.46 (🔻0.29 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.38 (🔻0.37 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-- Coty Appoints Markus Strobel as Interim CEO Starting January
-- Tokyo 23-Ward New Apartment Prices Reach 124.2 Million Yen
-- US Gold Prices Surpass $1,400 an Ounce for First Time
-- UK's Harbour Energy to Enter Gulf of Mexico with $3.2 Billion LLOG Deal
-- Argentina Minister Sees 'Golden Opportunity' for Deregulation
-- UK Economy Grows by 0.1% in Third Quarter
+- Asian chipmakers and European defence companies are among the biggest winners on stock markets in 2025
+- Luxe amenities like a steakhouse and hot tubs are making this small-town university a magnet for wealthy students
+- France to build new, larger aircraft carrier to replace aging carrier and boost naval power
+- China lodges complaint about Japan official visiting Taiwan
+- China's central bank to forgive delayed personal debt up to 10,000 yuan with timely repayment
+- UK health minister vows to prevent renewed doctors' strikes
 
 
 ----
 
-@reuters.com
+@financialtimes.com
 
-Coty appoints Markus Strobel as interim CEO starting January reut.rs/4aZDQJg
+Asian chipmakers and European defence companies are among the biggest winners on stock markets in 2025 while US consumer stocks have suffered, as the artificial intelligence boom and Donald Trump’s trade war became major dividing lines for global equities. ft.trib.al/nTKDvuD
 
-[2025-12-22 16:45:15](https://bsky.app/profile/reuters.com/post/3makqhtmmsf23)
+[2025-12-22 17:29:05](https://bsky.app/profile/financialtimes.com/post/3makswadfo72w)
+
+---
+
+@wsj.com
+
+Luxe amenities like a steakhouse and hot tubs are making this small-town university a magnet for wealthy students. The school says they're for learning. on.wsj.com/3MItUtN
+
+[2025-12-22 17:27:00](https://bsky.app/profile/wsj.com/post/3makssjidtw2h)
 
 ---
 
 @japan.reuters.com
 
-■レートは終値（前日比または前週末比）、安値─高値 bit.ly/4qGfnh1
+フランスのマクロン大統領は２１日、老朽化した原子力空母「シャルル・ドゴール」に代わる、より大型で近代的な新型空母を建造し、フランスの海洋戦力を強化する計画を確認した。 bit.ly/4pTdwFx
 
-[2025-12-22 16:44:26](https://bsky.app/profile/japan.reuters.com/post/3makqgffu7o2u)
-
----
-
-@wsj.com
-
-The pharmaceutical company said its ceralasertib combination didn’t meet the primary goal of a late-stage clinical trial for advanced lung cancer. on.wsj.com/48SmbBW
-
-[2025-12-22 16:44:05](https://bsky.app/profile/wsj.com/post/3makqfrnc7t2e)
+[2025-12-22 17:25:11](https://bsky.app/profile/japan.reuters.com/post/3makspapujz2q)
 
 ---
 
-@wsj.com
+@reuters.com
 
-Her 401(k) contributions went missing, and no one could tell her why. One woman's yearslong quest to find the money. on.wsj.com/4qdfEaJ
+China lodges complaint about Japan official visiting Taiwan reut.rs/3YrxafP
 
-[2025-12-22 16:43:06](https://bsky.app/profile/wsj.com/post/3makqe2gp722t)
+[2025-12-22 17:25:10](https://bsky.app/profile/reuters.com/post/3makspacswm2i)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-東京23区 11月の新築マンション平均価格が1億2420万円に
-https://news.web.nhk/newsweb/na/na-k10015010551000
+水戸 個室サウナ店に消防緊急立ち入り検査 東京 赤坂火災受け
+https://news.web.nhk/newsweb/na/na-k10015010561000
 
-[2025-12-22 16:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makqc6dxdr24)
-
----
-
-@japan.reuters.com
-
-象印マホービンは２２日、２５年１１月期の連結純利益見通しを従来の４８億円から５９億８０００万円に上方修正した。 bit.ly/4qebmQy
-
-[2025-12-22 16:40:17](https://bsky.app/profile/japan.reuters.com/post/3makq6x6ena2q)
+[2025-12-22 17:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maksnbeczi2b)
 
 ---
 
 @japan.reuters.com
 
-金現物が２２日の取引で１オンス＝４４００ドルを初めて突破し、過去最高値を更新した。米連邦準備理事会（ＦＲＢ）の追加利下げ観測や安全資産としての需要、軟調なドル相場などが支援材料となっている。また、銀も過去最高値を更新した。 bit.ly/4p0vPHn
+韓国国税庁は不正アクセスにより大規模な顧客情報流出が発生したインターネット通販大手クーパンに対し、特別税務調査を実施している。聯合ニュースが２２日報じた。 bit.ly/4aZE2rV
 
-[2025-12-22 16:40:13](https://bsky.app/profile/japan.reuters.com/post/3makq6u7mgg2q)
+[2025-12-22 17:22:42](https://bsky.app/profile/japan.reuters.com/post/3maksksmfil2f)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領が任命したパルト連邦住宅金融局（ＦＨＦＡ）局長が、保守系ニュースサイトの記事を引用し、民主党のエリック・スウォルウェル下院議員を住宅ローン詐欺の疑いで捜査するよう求めていたことが、ロイターの確認した政府電子メールで明らかになった。 bit.ly/4p8pGJg
+
+[2025-12-22 17:20:17](https://bsky.app/profile/japan.reuters.com/post/3maksgiardk2q)
+
+---
+
+@japan.reuters.com
+
+中国人民銀行（中央銀行）は２２日、２０２０年以降に発生した１万元（１４２０．４７ドル）までの延滞個人債務について、２６年３月３１日までに完済すれば信用記録から削除できるようにすると発表した。 bit.ly/4qrIh4h
+
+[2025-12-22 17:15:14](https://bsky.app/profile/japan.reuters.com/post/3maks5hlcmn2p)
 
 ---
 
 @reuters.com
 
-South Korea tax agency conducts special audit of Coupang following data leak, Yonhap says reut.rs/3Lf7jEH
+UK health minister vows to prevent renewed doctors' strikes reut.rs/3Y4t2Cf
 
-[2025-12-22 16:40:12](https://bsky.app/profile/reuters.com/post/3makq6t6gln23)
+[2025-12-22 17:15:13](https://bsky.app/profile/reuters.com/post/3maks5gbhdg2b)
 
 ---
 
 @japan.reuters.com
 
-英国立統計局（ＯＮＳ）が２２日発表した第３・四半期の国内総生産（ＧＤＰ）改定値は、前期比０．１％増となり、速報値から修正はなかった。ロイターがまとめたエコノミスト予想とも一致した。 bit.ly/4paOH6x
+中国商務省は２２日、欧州連合（ＥＵ）から輸入する一部の乳製品に対し、２３日から２１．９─４２．７％の暫定関税を課すと発表した。１年以上前に開始した反補助金調査の結果を受けた措置としている。 bit.ly/3YCUkQb
 
-[2025-12-22 16:38:08](https://bsky.app/profile/japan.reuters.com/post/3makq34h3de2s)
-
----
-
-@financialtimes.com
-
-‘Next year is the golden opportunity,’ Argentina’s deregulation and state transformation minister Federico Sturzenegger told the Financial Times. ft.trib.al/8TBEFEV
-
-[2025-12-22 16:38:06](https://bsky.app/profile/financialtimes.com/post/3makq326twh2w)
+[2025-12-22 17:14:19](https://bsky.app/profile/japan.reuters.com/post/3maks3skyff2p)
 
 ---
 
