@@ -1,9 +1,9 @@
-# [2025-12-22 12:50 updated](2025_12_22.md)
+# [2025-12-22 13:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">埼玉 狭山 ひき逃げで男性死亡 特徴の似た車の運転手を逮捕 https://news.web.nhk/newsweb/na/na-k10015010171000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makd7qi3pl2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 12:48:02)</span><span style="padding-right:50px;">今週の外為市場でドル／円は、日銀の金融政策決定会合の余韻が残る中、財政懸念に伴う根強い円安圧力が想定される。欧米がクリスマス休暇に入るため、取引量が薄くなることが見込まれ、材料次第で値幅が出やすい点も要注意だ。 bit.ly/49aXtM7 <a href="https://bsky.app/profile/japan.reuters.com/post/3makd2iz4hz2c" target="_blank">japan.reuters.com</a> (2025-12-22 12:45:09)</span><span style="padding-right:50px;">午前のドルは１５７円半ばへ小幅下落した。今週はクリスマスで週後半にかけて取引量が減少する見通しで、日銀利上げ後に進んだ円安も一服となった。しかし市場では、円が下落しやすい地合いは変わらないとの声が多く出ている。 bit.ly/3Y9qYJ7 <a href="https://bsky.app/profile/japan.reuters.com/post/3makczyvz742c" target="_blank">japan.reuters.com</a> (2025-12-22 12:44:52)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】時価1900万円相当の金やプラチナの板、現金700万円をだまし取った罪 26歳男起訴 被害にあった70代男性「老後の資金を全て渡してしまった」 (2025-12-22 12:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makcshsi7o2s" target="_blank">sokuho.news</a> (2025-12-22 12:40:39)</span><span style="padding-right:50px;">South Korea parliament passes bill to launch probe into 2024 Jeju Air crash reut.rs/4pM06Lh <a href="https://bsky.app/profile/reuters.com/post/3makcrprdgh2y" target="_blank">reuters.com</a> (2025-12-22 12:40:14)</span>
+<span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  長期金利 10年もの国債の利回り2.1%に 約26年ぶりの高水準 (2025-12-22 13:08:18) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makeenlhz52r" target="_blank">sokuho.news</a> (2025-12-22 13:08:43)</span><span style="padding-right:50px;">米実業家イーロン・マスク氏率いる米宇宙開発企業スペースＸが計画中の新規株式公開（ＩＰＯ）で、マスク氏と関係の深い米金融大手モルガン・スタンレーが中心的な主幹事（リードレフト）の最有力候補となっていることが、情報筋の話で明らかになった。 bit.ly/4qgLcMR <a href="https://bsky.app/profile/japan.reuters.com/post/3make6bnonk2n" target="_blank">japan.reuters.com</a> (2025-12-22 13:05:09)</span><span style="padding-right:50px;">Greece was recently named the world’s best place to retire for 2026, according to an annual index by International Living. Panama and Costa Rica ranked second and third on the list and are particularly popular with North Americans. https://cnn.it/3MOGFmu <a href="https://bsky.app/profile/cnn.com/post/3makdyokkyf2a" target="_blank">cnn.com</a> (2025-12-22 13:02:01)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】住宅火災 高齢の夫婦が病院に搬送 80歳の夫死亡、81歳妻はやけど 大阪・堺市 (2025-12-22 12:38) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makdwxi62m2r" target="_blank">sokuho.news</a> (2025-12-22 13:01:03)</span><span style="padding-right:50px;">意外と近い「青森・函館」、北のゴールデンルートに www.nikkei.com/article/DGXZQO...  函館から札幌や小樽を巡るツアーはバスの運転手不足などで作りにくく。  青森なら新幹線で1時間。  まちおこしグループは「津軽海峡を回遊するマグロのように、観光客も『海遊』するエリアに」と意気込みます。 <a href="https://bsky.app/profile/nikkei.com/post/3makdwa2or62m" target="_blank">nikkei.com</a> (2025-12-22 13:00:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50385.93 (🔺301.38 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3459.00 (🔻35.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.32 (🔻0.43 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50410.58 (🔺326.03 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3454.00 (🔻40.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.28 (🔻0.47 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,38 +32,66 @@
 
 ## News Headlines
 
-- Man Dies in Hit-and-Run in Saitama Prefecture
-- Yen Weakens Amid Concerns Over Fiscal Policy
-- Former Malaysian Prime Minister Najib Razak Loses Appeal over Graft Sentence
-- US Envoy Calls Ukraine-Russia Talks Productive
-- Malaysian Court Rejects Najib Razak's Bid to Serve Remaining Graft Sentence Under House Arrest
-- US Stocks Rally as Investors Bet on Economic Growth
+- Long-term interest rates reach 10-year high of 2.1% for Japan's 10-year government bond
+- Morgan Stanley to lead IPO of SpaceX, led by Elon Musk
+- Greece named the world's best place to retire in 2026
+- Residential fire in Osaka, Japan: elderly couple hospitalized, husband dead
+- India passes bill to probe 2024 Jeju Air crash
+- Russian drone attack damages two ships and two piers in Black Sea
+- SpaceX's Starship to launch around the moon next year
+- China's Vanke faces default risk as bondholders weigh options
+- Malaysian court rejects Najib Razak's bid to serve graft sentence under house arrest
+- U.S. Treasury announces new policy to address housing affordability
+- Japan's BOJ raises interest rate to 0.75%
+- Japanese city of Sapporo hit by massive snowfall
+- Malaysian court rejects Najib Razak's bid to serve graft sentence under house arrest
+- Russian military says it has captured Ukraine's FSB general
+- South Korean parliament passes bill to probe 2024 Jeju Air crash
+- Japanese police arrest man over ¥1.9 billion theft from 70-year-old man
+- India's rupee set to fall after RBI raises interest rates
+- China's Vanke faces default risk as bondholders weigh options
+- Malaysian court rejects Najib Razak's bid to serve graft sentence under house arrest
+- US Treasury announces new policy to address housing affordability
+- Russian military says it has captured Ukraine's FSB general
+- US Treasury announces new policy to address housing affordability
+- India's rupee set to fall after RBI raises interest rates
+- Russian military says it has captured Ukraine's FSB general
+- US Treasury announces new policy to address housing affordability
+- Japanese police arrest man over ¥1.9 billion theft from 70-year-old man
+- Japan's BOJ raises interest rate to 0.75%
+- Japanese city of Sapporo hit by massive snowfall
+- Russian drone attack damages two ships and two piers in Black Sea
+- India passes bill to probe 2024 Jeju Air crash
+- Malaysian court rejects Najib Razak's bid to serve graft sentence under house arrest
+- South Korean parliament passes bill to probe 2024 Jeju Air crash
+- US Treasury announces new policy to address housing affordability
+- Russian military says it has captured Ukraine's FSB general
+- China's Vanke faces default risk as bondholders weigh options
 
 
 ----
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-埼玉 狭山 ひき逃げで男性死亡 特徴の似た車の運転手を逮捕
-https://news.web.nhk/newsweb/na/na-k10015010171000
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>長期金利 10年もの国債の利回り2.1%に 約26年ぶりの高水準</strong><br><strong>(2025-12-22 13:08:18) #ニュース</strong>
 
-[2025-12-22 12:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makd7qi3pl2v)
-
----
-
-@japan.reuters.com
-
-今週の外為市場でドル／円は、日銀の金融政策決定会合の余韻が残る中、財政懸念に伴う根強い円安圧力が想定される。欧米がクリスマス休暇に入るため、取引量が薄くなることが見込まれ、材料次第で値幅が出やすい点も要注意だ。 bit.ly/49aXtM7
-
-[2025-12-22 12:45:09](https://bsky.app/profile/japan.reuters.com/post/3makd2iz4hz2c)
+[2025-12-22 13:08:43](https://bsky.app/profile/sokuho.news/post/3makeenlhz52r)
 
 ---
 
 @japan.reuters.com
 
-午前のドルは１５７円半ばへ小幅下落した。今週はクリスマスで週後半にかけて取引量が減少する見通しで、日銀利上げ後に進んだ円安も一服となった。しかし市場では、円が下落しやすい地合いは変わらないとの声が多く出ている。 bit.ly/3Y9qYJ7
+米実業家イーロン・マスク氏率いる米宇宙開発企業スペースＸが計画中の新規株式公開（ＩＰＯ）で、マスク氏と関係の深い米金融大手モルガン・スタンレーが中心的な主幹事（リードレフト）の最有力候補となっていることが、情報筋の話で明らかになった。 bit.ly/4qgLcMR
 
-[2025-12-22 12:44:52](https://bsky.app/profile/japan.reuters.com/post/3makczyvz742c)
+[2025-12-22 13:05:09](https://bsky.app/profile/japan.reuters.com/post/3make6bnonk2n)
+
+---
+
+@cnn.com
+
+Greece was recently named the world’s best place to retire for 2026, according to an annual index by International Living. Panama and Costa Rica ranked second and third on the list and are particularly popular with North Americans. https://cnn.it/3MOGFmu
+
+[2025-12-22 13:02:01](https://bsky.app/profile/cnn.com/post/3makdyokkyf2a)
 
 ---
 
@@ -71,59 +99,67 @@ https://news.web.nhk/newsweb/na/na-k10015010171000
 
 🛎️FNNより【速報】です。
 
-【速報】時価1900万円相当の金やプラチナの板、現金700万円をだまし取った罪 26歳男起訴 被害にあった70代男性「老後の資金を全て渡してしまった」
-(2025-12-22 12:21) #ニュース
+【速報】住宅火災 高齢の夫婦が病院に搬送 80歳の夫死亡、81歳妻はやけど 大阪・堺市
+(2025-12-22 12:38) #ニュース
 
-[2025-12-22 12:40:39](https://bsky.app/profile/sokuho.news/post/3makcshsi7o2s)
+[2025-12-22 13:01:03](https://bsky.app/profile/sokuho.news/post/3makdwxi62m2r)
+
+---
+
+@nikkei.com
+
+意外と近い「青森・函館」、北のゴールデンルートに
+www.nikkei.com/article/DGXZQO...
+
+函館から札幌や小樽を巡るツアーはバスの運転手不足などで作りにくく。
+
+青森なら新幹線で1時間。
+
+まちおこしグループは「津軽海峡を回遊するマグロのように、観光客も『海遊』するエリアに」と意気込みます。
+
+[2025-12-22 13:00:39](https://bsky.app/profile/nikkei.com/post/3makdwa2or62m)
 
 ---
 
 @reuters.com
 
-South Korea parliament passes bill to launch probe into 2024 Jeju Air crash reut.rs/4pM06Lh
+Rupee set to slip after RBI's double strike fuelled biggest rally in six months reut.rs/48Z6p8B
 
-[2025-12-22 12:40:14](https://bsky.app/profile/reuters.com/post/3makcrprdgh2y)
-
----
-
-@japan.reuters.com
-
-原油先物は週明け２２日アジア時間の取引で上昇している。米沿岸警備隊が週末にベネズエラ沖の国際水域で石油タンカーを拿捕（だほ）したことを受けた。 bit.ly/4aLHIOf
-
-[2025-12-22 12:40:10](https://bsky.app/profile/japan.reuters.com/post/3makcrlq2pi2c)
+[2025-12-22 13:00:29](https://bsky.app/profile/reuters.com/post/3makdvwzcse2b)
 
 ---
 
 @japan.reuters.com
 
-トランプ米大統領が任命したパルト連邦住宅金融局（ＦＨＦＡ）局長が、保守系ニュースサイトの記事を引用し、民主党のエリック・スウォルウェル下院議員を住宅ローン詐欺の疑いで捜査するよう求めていたことが、ロイターの確認した政府電子メールで明らかになった。 bit.ly/49axvIE
+カナダ統計局が１９日発表した１０月の小売売上高は前月比０．２％減の６９４億４０００万カナダドル（５０４億米ドル）となった。食品・飲料の減少が押し下げた。 bit.ly/4asKRSJ
 
-[2025-12-22 12:38:31](https://bsky.app/profile/japan.reuters.com/post/3makconqzyb2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-足立区14人死傷事故 女性はねられた交差点中心に現場検証
-https://news.web.nhk/newsweb/na/na-k10015010321000
-
-[2025-12-22 12:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makckccvuz22)
+[2025-12-22 13:00:22](https://bsky.app/profile/japan.reuters.com/post/3makdvpyy5y2f)
 
 ---
 
-@japan.reuters.com
+@apnews.com
 
-米カリフォルニア州サンフランシスコ市の緊急管理当局と同州の主要電力会社ＰＧ＆Ｅは２１日、市内で２０日に発生した大規模停電について、約１１万件の顧客の電力が復旧したと発表した。 bit.ly/3YBQXJk
+The NBA fined Minnesota Timberwolves coach Chris Finch $35,000 on Sunday for "directing inappropriate language toward game officials and failing to leave the court in a timely manner following his ejection" on Friday.
 
-[2025-12-22 12:35:07](https://bsky.app/profile/japan.reuters.com/post/3makcikpw2r2c)
+[2025-12-22 13:00:14](https://bsky.app/profile/apnews.com/post/3makdvhv7sr23)
 
 ---
 
-@japan.reuters.com
+@washingtonpost.com
 
-１２月１日の植田和男総裁の講演から「地ならし」を強化してきた日銀は、１９日の金融政策決定会合で、政策金利を０．５％から０．７５％に引き上げた。市場の関心はその先に向いており、さまざまな予想が出ている。 bit.ly/4pSQUVA
+Pakistan’s military is tightening its grip on the country with sweeping legal changes that critics say are centralizing power in the hands of army chief Gen. Syed Asim Munir.
 
-[2025-12-22 12:32:10](https://bsky.app/profile/japan.reuters.com/post/3makcdcebia2v)
+He will have more power than any Pakistani military official. 
+
+[2025-12-22 13:00:06](https://bsky.app/profile/washingtonpost.com/post/3makdvamw6w2d)
+
+---
+
+@aljazeera.com
+
+Fighting resumes hours before regional foreign ministers meet in Malaysia to discuss steps to de-escalate hostilities.
+
+[2025-12-22 13:00:03](https://bsky.app/profile/aljazeera.com/post/3makdv63ecl2d)
 
 ---
 
