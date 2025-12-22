@@ -1,9 +1,9 @@
-# [2025-12-22 10:10 updated](2025_12_22.md)
+# [2025-12-22 10:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">＜０９：５８＞　新発10年債利回り26年半ぶり2.07％、20年債利回りが3％過去最高水準 bit.ly/3LfRLAx <a href="https://bsky.app/profile/japan.reuters.com/post/3mak2d6u5un25" target="_blank">japan.reuters.com</a> (2025-12-22 10:08:57)</span><span style="padding-right:50px;">日銀が３０年ぶりの高水準となる０．７５％への利上げを決定した。植田和男総裁は会見で、実質金利はまだ極めて低いところにあるとして、利上げ継続の方針を示す一方、今後の利上げペースについて具体的な示唆を与えなかった。日銀では、今回の利上げの影響をつぶさに点検しながら、追加利上げのタイミングは慎重に探るべきだとの声がある。ただ、円安への懸念は政策委員の間でも強く、状況次第では調整が速まる可能性もある。 bit.ly/3Le7e43 <a href="https://bsky.app/profile/japan.reuters.com/post/3mak24g6tnv25" target="_blank">japan.reuters.com</a> (2025-12-22 10:05:09)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】日経平均 一時900円以上値上がり 5万円の大台を回復 円安進行などが上昇要因 (2025-12-22 09:10:27) #ニュース  📈世界の株価 🔗https://sekai-kabuka.com/ <a href="https://bsky.app/profile/sokuho.news/post/3mak237vjpm2a" target="_blank">sokuho.news</a> (2025-12-22 10:04:29)</span><span style="padding-right:50px;">サッカーのスペイン１部は２１日、各地で試合を行い、首位バルセロナは敵地でビリャレアルとの上位対決を２─０で制し、年内首位を確定させた。 bit.ly/49ae6aR <a href="https://bsky.app/profile/japan.reuters.com/post/3majzzmorru2c" target="_blank">japan.reuters.com</a> (2025-12-22 10:03:35)</span><span style="padding-right:50px;">One in six seniors enrolled in Medicare’s drug benefit were prescribed eight or more medications at the same time, a Wall Street Journal analysis of Medicare data found. on.wsj.com/496L6AL <a href="https://bsky.app/profile/wsj.com/post/3majzywparf2t" target="_blank">wsj.com</a> (2025-12-22 10:03:12)</span>
+<span style="padding-right:50px;">サッカーのドイツ１部ブンデスリーガは２１日、各地で試合を行い、伊藤洋輝の所属するバイエルン・ミュンヘンは敵地でハイデンハイムに４─０で完勝した。 bit.ly/4pPj1F9 <a href="https://bsky.app/profile/japan.reuters.com/post/3mak3fhr4222c" target="_blank">japan.reuters.com</a> (2025-12-22 10:28:07)</span><span style="padding-right:50px;">米実業家イーロン・マスク氏率いる米宇宙開発企業スペースＸが計画中の新規株式公開（ＩＰＯ）で、マスク氏と関係の深い米金融大手モルガン・スタンレーが中心的な主幹事（リードレフト）の最有力候補となっていることが、情報筋の話で明らかになった。 bit.ly/4aoIJvi <a href="https://bsky.app/profile/japan.reuters.com/post/3mak3fgtrr42s" target="_blank">japan.reuters.com</a> (2025-12-22 10:28:06)</span><span style="padding-right:50px;">James Ransone, the actor who played Ziggy Sobotka in the HBO series “The Wire” and appeared in many other TV shows and movies, has died. He was 46. https://cnn.it/4q0AJp2 <a href="https://bsky.app/profile/cnn.com/post/3mak3few4o42a" target="_blank">cnn.com</a> (2025-12-22 10:28:04)</span><span style="padding-right:50px;">Investors and project developers are becoming concerned about wind and solar power as climate change fuels increasingly unpredictable weather patterns. <a href="https://bsky.app/profile/bloomberg.com/post/3mak37wtwi22e" target="_blank">bloomberg.com</a> (2025-12-22 10:25:01)</span><span style="padding-right:50px;">バンク・オブ・アメリカ（ＢｏｆＡ）は今年、投資銀行部門向けの賞与を増やし、成績優秀な行員への支給額を引き上げる見通しだと複数の関係者が明らかにした。年初から案件が急増したことが背景。 bit.ly/4qpGrAU <a href="https://bsky.app/profile/japan.reuters.com/post/3mak37ozctt2p" target="_blank">japan.reuters.com</a> (2025-12-22 10:24:53)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50404.87 (🔺320.32 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3465.00 (🔻29.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.49 (🔻0.26 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50415.37 (🔺330.82 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3459.00 (🔻35.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.38 (🔻0.37 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,108 +32,109 @@
 
 ## News Headlines
 
-- Japan's 10-Year Bond Yield Hits 26-Year High of 2.07%
-- BoJ Hikes Interest Rate to 0.75% for First Time in 30 Years
-- Yen Weakens Near Record Low Against Euro as BOJ Keeps Cautious Tone
-- Trump Signs Deal with 9 Big Pharma Companies to Lower Prescription Drug Prices
-- International Court of Justice to Hear Case on Rohingya Genocide in January
-- NYC Mayor-Elect's Family Featured in Video as Part of Conservative Gathering
+- Bayern Munich Wins 4-0 at Heidenheim
+- Elon Musk's SpaceX Seeks Morgan Stanley as Lead Left-Leaning IPO Banker
+- Actor James Ransone Dies at 46
+- Bank of America to Raise Bonus Payouts for Investment Bankers
+- Jimmy Kimmel to Deliver Personal Christmas Message to U.K. Viewers
+- China Keeps Benchmark Lending Rates Steady for Seventh Month
+- Blood and Gut Microbiome Tests to Replace Video Games and Clothes as Top Health Gifts in 2025
+- Japanese People Invest Heavily in Government Bonds in November
+- What We Learned in 2025
+- Multi-Vehicle Accident Causes Long Traffic Jam on Kyushu Expressway
+- Dodgers' Yusei Kikuchi Named Best Player in MLB Postseason
+- Citygroup Sees Bitcoin and Ethereum Reaching $140,000 and $4,304 Respectively in 12 Months
+- Croatia's Capital Wants to Host the Best Christmas Market
+- Asia Shares Extend Tech Rally, Yen Under Pressure
+- US Envoy Says Ukraine War Talks in Florida Were Productive
+- Japan Raises Interest Rates to 0.75% for First Time in 30 Years
+- Tokyo Stock Market Expected to Have Strong Start
+- Celtic's Daizen Maeda Assists in 3-1 Win Over Aberdeen
+- 10-Year Japanese Government Bond Yield Hits 26-Year High
+- ICJ to Hear Myanmar Genocide Case Against Rohingya in January
+- Tokyo Stock Market Expected to Have Strong Start
 
 
 ----
 
 @japan.reuters.com
 
-＜０９：５８＞　新発10年債利回り26年半ぶり2.07％、20年債利回りが3％過去最高水準 bit.ly/3LfRLAx
+サッカーのドイツ１部ブンデスリーガは２１日、各地で試合を行い、伊藤洋輝の所属するバイエルン・ミュンヘンは敵地でハイデンハイムに４─０で完勝した。 bit.ly/4pPj1F9
 
-[2025-12-22 10:08:57](https://bsky.app/profile/japan.reuters.com/post/3mak2d6u5un25)
-
----
-
-@japan.reuters.com
-
-日銀が３０年ぶりの高水準となる０．７５％への利上げを決定した。植田和男総裁は会見で、実質金利はまだ極めて低いところにあるとして、利上げ継続の方針を示す一方、今後の利上げペースについて具体的な示唆を与えなかった。日銀では、今回の利上げの影響をつぶさに点検しながら、追加利上げのタイミングは慎重に探るべきだとの声がある。ただ、円安への懸念は政策委員の間でも強く、状況次第では調整が速まる可能性もある。 bit.ly/3Le7e43
-
-[2025-12-22 10:05:09](https://bsky.app/profile/japan.reuters.com/post/3mak24g6tnv25)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】日経平均 一時900円以上値上がり 5万円の大台を回復 円安進行などが上昇要因
-(2025-12-22 09:10:27) #ニュース
-
-📈世界の株価
-🔗https://sekai-kabuka.com/
-
-[2025-12-22 10:04:29](https://bsky.app/profile/sokuho.news/post/3mak237vjpm2a)
+[2025-12-22 10:28:07](https://bsky.app/profile/japan.reuters.com/post/3mak3fhr4222c)
 
 ---
 
 @japan.reuters.com
 
-サッカーのスペイン１部は２１日、各地で試合を行い、首位バルセロナは敵地でビリャレアルとの上位対決を２─０で制し、年内首位を確定させた。 bit.ly/49ae6aR
+米実業家イーロン・マスク氏率いる米宇宙開発企業スペースＸが計画中の新規株式公開（ＩＰＯ）で、マスク氏と関係の深い米金融大手モルガン・スタンレーが中心的な主幹事（リードレフト）の最有力候補となっていることが、情報筋の話で明らかになった。 bit.ly/4aoIJvi
 
-[2025-12-22 10:03:35](https://bsky.app/profile/japan.reuters.com/post/3majzzmorru2c)
-
----
-
-@wsj.com
-
-One in six seniors enrolled in Medicare’s drug benefit were prescribed eight or more medications at the same time, a Wall Street Journal analysis of Medicare data found. on.wsj.com/496L6AL
-
-[2025-12-22 10:03:12](https://bsky.app/profile/wsj.com/post/3majzywparf2t)
+[2025-12-22 10:28:06](https://bsky.app/profile/japan.reuters.com/post/3mak3fgtrr42s)
 
 ---
 
-@en.afp.com
+@cnn.com
 
-Divers dressed as Santa Claus swim in the tanks of AquaRio, an annual tradition in the Rio de Janeiro aquarium.
+James Ransone, the actor who played Ziggy Sobotka in the HBO series “The Wire” and appeared in many other TV shows and movies, has died. He was 46. https://cnn.it/4q0AJp2
 
-[2025-12-22 10:01:33](https://bsky.app/profile/en.afp.com/post/3majzvy4vfq26)
+[2025-12-22 10:28:04](https://bsky.app/profile/cnn.com/post/3mak3few4o42a)
+
+---
+
+@bloomberg.com
+
+Investors and project developers are becoming concerned about wind and solar power as climate change fuels increasingly unpredictable weather patterns.
+
+[2025-12-22 10:25:01](https://bsky.app/profile/bloomberg.com/post/3mak37wtwi22e)
 
 ---
 
 @japan.reuters.com
 
-米司法省は２１日、性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関する公開資料の中でウェブサイトから一時削除していたトランプ大統領の写真を再び掲載したと発表した。トランプ氏と写真に写っている複数の女性の中にエプスタイン氏の被害者はいないと当局が確認したためという。 bit.ly/3KLKicp
+バンク・オブ・アメリカ（ＢｏｆＡ）は今年、投資銀行部門向けの賞与を増やし、成績優秀な行員への支給額を引き上げる見通しだと複数の関係者が明らかにした。年初から案件が急増したことが背景。 bit.ly/4qpGrAU
 
-[2025-12-22 10:01:23](https://bsky.app/profile/japan.reuters.com/post/3majzvormzc22)
+[2025-12-22 10:24:53](https://bsky.app/profile/japan.reuters.com/post/3mak37ozctt2p)
+
+---
+
+@axios.com
+
+Talk show host Jimmy Kimmel will deliver a very "personal" 2025 Alternative Christmas Message to U.K. viewers that'll address his show's brief suspension, British network Channel 4 announced today.
+
+[2025-12-22 10:24:12](https://bsky.app/profile/axios.com/post/3mak36hg5kk25)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相動静 2025年12月19日～21日
+https://news.web.nhk/newsweb/na/na-k10015010181000
+
+[2025-12-22 10:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mak36ap3ni2b)
 
 ---
 
 @cnbc.com
 
-There are kids who grow up to be successful, and there are kids who grow up to be "exceptional." 
+China keeps benchmark lending rates steady for a seventh straight month despite weak economic data
 
-Psychologist Kumar Mehta explains the difference, and how parents can raise exceptional kids.
-
-[2025-12-22 10:00:47](https://bsky.app/profile/cnbc.com/post/3majzulnflt25)
+[2025-12-22 10:22:48](https://bsky.app/profile/cnbc.com/post/3mak33y34ca23)
 
 ---
 
-@usatoday.com
+@wsj.com
 
-The New York City mayor-elect and multi-award-winning actor's family were a part of the Dec. 20 video.
+Goodbye videogames and clothes. Hello blood-sugar and gut-microbiome tests. 2025 is the year of the health gift.
 
-[2025-12-22 10:00:40](https://bsky.app/profile/usatoday.com/post/3majzufntp62f)
+[2025-12-22 10:22:46](https://bsky.app/profile/wsj.com/post/3mak33wkhch2c)
 
 ---
 
-@nikkei.com
+@japan.reuters.com
 
-｢ドローンショー｣広告急増、5年後1兆円市場へ
-www.nikkei.com/article/DGXZQO...
+日本証券業協会が２２日発表した１１月分の公社債店頭売買高によると、国債（国庫短期証券を除く）の投資家別売買高は以下の通り。単位は億円。 bit.ly/4p5IetC
 
-夜空に浮かぶ巨大な「ミャクミャク」や「パリッ」とはじけるソーセージ…。
-
-企業広告としての活用が広がり存在感を増す「ドローンショー」。
-
-広告が嫌われがちな現代において、楽しさと驚きを伴う新しい広告体験を生み出しています。
-
-[2025-12-22 10:00:39](https://bsky.app/profile/nikkei.com/post/3majzuegjmg24)
+[2025-12-22 10:20:37](https://bsky.app/profile/japan.reuters.com/post/3mak2y2k5222q)
 
 ---
 
