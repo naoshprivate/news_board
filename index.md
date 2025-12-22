@@ -1,9 +1,9 @@
-# [2025-12-22 14:50 updated](2025_12_22.md)
+# [2025-12-22 15:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">不動産経済研究所が２２日発表した１１月の首都圏（１都３県）新築分譲マンション市場動向によると、発売戸数は前年同月比１４．４％減の１９１０戸となった。２カ月連続の減少。東京２３区以外と埼玉、千葉で大幅に減った。一方、価格上昇が続く２３区での発売戸数が多かったことなどから、１戸当たりの平均価格は同１４．９％上がり９１８１万円で、７カ月連続で上昇した。 bit.ly/4s9U7l8 <a href="https://bsky.app/profile/japan.reuters.com/post/3makjphgi262q" target="_blank">japan.reuters.com</a> (2025-12-22 14:44:14)</span><span style="padding-right:50px;">South Korea petrochemical firms on track to cut up to 3.7 mln tons of output, minister says reut.rs/4aoOWaA <a href="https://bsky.app/profile/reuters.com/post/3makjianrwv24" target="_blank">reuters.com</a> (2025-12-22 14:40:12)</span><span style="padding-right:50px;">In an internal email, 60 Minutes correspondent Sharyn Alfonsi said new editor in chief Bari Weiss had “spiked” the story and said the government was using silence to “VETO” stories.  <a href="https://bsky.app/profile/forbes.com/post/3makjhz65cs2q" target="_blank">forbes.com</a> (2025-12-22 14:40:04)</span><span style="padding-right:50px;">中国人民銀行（中央銀行）は２２日、２０２０年以降に発生した１万元（１４２０．４７ドル）までの延滞個人債務について、２６年３月３１日までに完済すれば信用記録から削除できるようにすると発表した。 bit.ly/4pd4QZn <a href="https://bsky.app/profile/japan.reuters.com/post/3makjfzg77g2q" target="_blank">japan.reuters.com</a> (2025-12-22 14:38:58)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ガソリン混ざった灯油販売 会津若松市のGSで約2500リットル 火災のおそれ、ただちに使用停止を 福島 (2025-12-22 14:04:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makjd366xr2z" target="_blank">sokuho.news</a> (2025-12-22 14:37:19)</span>
+<span style="padding-right:50px;">【きょうのおはBiz12月22日(月)】企業対抗コンペで育成 AI人材 https://news.web.nhk/newsweb/na/na-k10015010241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makl3uya7d22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 15:09:02)</span><span style="padding-right:50px;">The ultrarich are spending a fortune so they never have to interact with the general public. on.wsj.com/48JL8Q3 <a href="https://bsky.app/profile/wsj.com/post/3makkwvfmjr2u" target="_blank">wsj.com</a> (2025-12-22 15:06:17)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR岡山駅近くで建物火災 ケガ人の情報なし 岡山市消防局【岡山】 (2025-12-22 14:58) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makkvuvm4k2b" target="_blank">sokuho.news</a> (2025-12-22 15:05:43)</span><span style="padding-right:50px;">Guardiola tells Man City players to go easy on Christmas dinner reut.rs/490UAxe <a href="https://bsky.app/profile/reuters.com/post/3makkuw3ge72y" target="_blank">reuters.com</a> (2025-12-22 15:05:11)</span><span style="padding-right:50px;">Popular Kentucky bourbon maker Jim Beam plans to pause production at its main distillery on January 1, according to the James B. Beam Distilling Co. https://cnn.it/49sT2fV <a href="https://bsky.app/profile/cnn.com/post/3makkpbbz3b23" target="_blank">cnn.com</a> (2025-12-22 15:02:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50407.36 (🔺322.81 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3449.00 (🔻45.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.30 (🔻0.45 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50426.00 (🔺341.45 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3448.00 (🔻46.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.32 (🔻0.43 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,97 +32,106 @@
 
 ## News Headlines
 
-- Tokyo New Home Sales Drop for 2nd Consecutive Month
-- South Korea Petrochemical Firms Eye Output Cuts Amid Global Economic Uncertainty
-- China to Remove Personal Debt From Credit Records After Repayment
-- Japan's Household Savings Pile May Help Fuel Fresh Bond Demand
-- US, Russia, Ukraine Hold Productive Talks in Miami
-- Russia-Ukraine Conflict: Russia Seizes Over 50 Ukrainians in Smuysk
+- Japanese firm launches 5 billion dollar fund for US real estate investment
+- Japanese PM's aide says PFI projects may have larger targets
+- Sudanese bloc declares Nairobi roadmap, but is it a civilian breakthrough?
+- China to erase small overdue debts from credit records to boost lending
+- Petronas, South Korea petrochemical firms to cut 3.7 million tons of output
+- US and Russia hold constructive talks in Miami on Ukraine conflict
 
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-不動産経済研究所が２２日発表した１１月の首都圏（１都３県）新築分譲マンション市場動向によると、発売戸数は前年同月比１４．４％減の１９１０戸となった。２カ月連続の減少。東京２３区以外と埼玉、千葉で大幅に減った。一方、価格上昇が続く２３区での発売戸数が多かったことなどから、１戸当たりの平均価格は同１４．９％上がり９１８１万円で、７カ月連続で上昇した。 bit.ly/4s9U7l8
+【きょうのおはBiz12月22日(月)】企業対抗コンペで育成 AI人材
+https://news.web.nhk/newsweb/na/na-k10015010241000
 
-[2025-12-22 14:44:14](https://bsky.app/profile/japan.reuters.com/post/3makjphgi262q)
-
----
-
-@reuters.com
-
-South Korea petrochemical firms on track to cut up to 3.7 mln tons of output, minister says reut.rs/4aoOWaA
-
-[2025-12-22 14:40:12](https://bsky.app/profile/reuters.com/post/3makjianrwv24)
+[2025-12-22 15:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makl3uya7d22)
 
 ---
 
-@forbes.com
+@wsj.com
 
-In an internal email, 60 Minutes correspondent Sharyn Alfonsi said new editor in chief Bari Weiss had “spiked” the story and said the government was using silence to “VETO” stories. 
+The ultrarich are spending a fortune so they never have to interact with the general public. on.wsj.com/48JL8Q3
 
-[2025-12-22 14:40:04](https://bsky.app/profile/forbes.com/post/3makjhz65cs2q)
-
----
-
-@japan.reuters.com
-
-中国人民銀行（中央銀行）は２２日、２０２０年以降に発生した１万元（１４２０．４７ドル）までの延滞個人債務について、２６年３月３１日までに完済すれば信用記録から削除できるようにすると発表した。 bit.ly/4pd4QZn
-
-[2025-12-22 14:38:58](https://bsky.app/profile/japan.reuters.com/post/3makjfzg77g2q)
+[2025-12-22 15:06:17](https://bsky.app/profile/wsj.com/post/3makkwvfmjr2u)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️FNNより【速報】です。
 
-【速報】ガソリン混ざった灯油販売 会津若松市のGSで約2500リットル 火災のおそれ、ただちに使用停止を 福島
-(2025-12-22 14:04:00) #ニュース
+【速報】JR岡山駅近くで建物火災 ケガ人の情報なし 岡山市消防局【岡山】
+(2025-12-22 14:58) #ニュース
 
-[2025-12-22 14:37:19](https://bsky.app/profile/sokuho.news/post/3makjd366xr2z)
-
----
-
-@financialtimes.com
-
- Europe’s banks turn to private equity for M&A without tears ft.trib.al/GfwsDuv  | opinion
-
-[2025-12-22 14:37:16](https://bsky.app/profile/financialtimes.com/post/3makjcy7l2h2q)
+[2025-12-22 15:05:43](https://bsky.app/profile/sokuho.news/post/3makkvuvm4k2b)
 
 ---
 
-@financialtimes.com
+@reuters.com
 
- We need a plan to leverage my success ft.trib.al/ttj8YBQ  | opinion
+Guardiola tells Man City players to go easy on Christmas dinner reut.rs/490UAxe
 
-[2025-12-22 14:37:16](https://bsky.app/profile/financialtimes.com/post/3makjcy6qni25)
-
----
-
-@financialtimes.com
-
- Happy K-shaped Christmas ft.trib.al/olMcDkZ  | opinion
-
-[2025-12-22 14:37:15](https://bsky.app/profile/financialtimes.com/post/3makjcxpm6k2p)
+[2025-12-22 15:05:11](https://bsky.app/profile/reuters.com/post/3makkuw3ge72y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnn.com
 
-【ライブ】H3ロケット みちびき5号機搭載 打ち上げ失敗
-https://news.web.nhk/newsweb/na/na-k10015009941000
+Popular Kentucky bourbon maker Jim Beam plans to pause production at its main distillery on January 1, according to the James B. Beam Distilling Co. https://cnn.it/49sT2fV
 
-[2025-12-22 14:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makjaujkbh2l)
+[2025-12-22 15:02:02](https://bsky.app/profile/cnn.com/post/3makkpbbz3b23)
+
+---
+
+@nikkei.com
+
+アメリカで減量薬対策フード台頭　日清「カンゼン・ミール」好調
+www.nikkei.com/article/DGXZQO...
+
+減量薬「GLP-1薬」を服用する消費者向けの栄養強化食品が好調です。
+
+栄養失調や筋肉量減少に陥るリスクから、たんぱく質などを効率的に摂取できるとアピール。
+
+日清は日本でのヒット商品「完全メシ」の展開に乗り出しました。
+
+[2025-12-22 15:00:50](https://bsky.app/profile/nikkei.com/post/3makkn5he2p2x)
 
 ---
 
 @japan.reuters.com
 
-太平洋工業は２２日、非公開化を目的とするＭＢＯ（経営陣が参加する買収）の一環として実施している株式公開買い付け（ＴＯＢ）の期間を２２日から来年１月１３日まで延長すると発表した。 bit.ly/490TMbG
+原油先物は週明け２２日アジア時間の取引で上昇している。米沿岸警備隊が週末にベネズエラ沖の国際水域で石油タンカーを拿捕（だほ）したことを受けた。 bit.ly/48OU06X
 
-[2025-12-22 14:32:41](https://bsky.app/profile/japan.reuters.com/post/3makj2spker26)
+[2025-12-22 15:00:35](https://bsky.app/profile/japan.reuters.com/post/3makkmobfzr25)
+
+---
+
+@reuters.com
+
+China to scrub small overdue debts from credit records to help spur lending reut.rs/4b1QQhA
+
+[2025-12-22 15:00:29](https://bsky.app/profile/reuters.com/post/3makkmix5lu24)
+
+---
+
+@bloomberg.com
+
+Follow Bloomberg India on WhatsApp for exclusive content and analysis on what billionaires, businesses and markets are doing. whatsapp.com/channel/0029...
+
+[2025-12-22 15:00:13](https://bsky.app/profile/bloomberg.com/post/3makklzl3e72d)
+
+---
+
+@washingtonpost.com
+
+Review: “Ruth Asawa: A Retrospective” at the Museum of Modern Art only scratches the surface of Asawa’s contribution.
+
+Artists who need inspiration or who need reassurance that what they do matters should visit this show.
+
+[2025-12-22 15:00:10](https://bsky.app/profile/washingtonpost.com/post/3makklwphik2m)
 
 ---
 
