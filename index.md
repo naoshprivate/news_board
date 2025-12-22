@@ -1,9 +1,9 @@
-# [2025-12-23 02:50 updated](2025_12_23.md)
+# [2025-12-23 03:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">イランは２２日に複数の都市でミサイル演習を実施したと、国営メディアが匿名の関係筋や目撃者の情報として報じた。 bit.ly/4qkxSHn <a href="https://bsky.app/profile/japan.reuters.com/post/3mals76kntx2c" target="_blank">japan.reuters.com</a> (2025-12-23 02:48:52)</span><span style="padding-right:50px;">New Salford-based team enters Championship after Red Devils liquidated reut.rs/4p8AWFB <a href="https://bsky.app/profile/reuters.com/post/3malrymbwdh2s" target="_blank">reuters.com</a> (2025-12-23 02:45:11)</span><span style="padding-right:50px;">ロシアのラブロフ外相は２２日、ベネズエラのヒル外相と電話会談し、「カリブ海における米国の行動のエスカレーションに深い懸念」を表明した。ロシア外務省が発表した。 bit.ly/3YHGiwE <a href="https://bsky.app/profile/japan.reuters.com/post/3malrxcxwdx2q" target="_blank">japan.reuters.com</a> (2025-12-23 02:44:28)</span><span style="padding-right:50px;">Epstein Files: Schumer to force Senate vote on suing DOJ over partial release <a href="https://bsky.app/profile/cnbc.com/post/3malrx3o3sn2b" target="_blank">cnbc.com</a> (2025-12-23 02:44:20)</span><span style="padding-right:50px;">How a 26‑year‑old turned wellness into her biggest investment reut.rs/4qhGsXj <a href="https://bsky.app/profile/reuters.com/post/3malrpwwque2p" target="_blank">reuters.com</a> (2025-12-23 02:40:20)</span>
+<span style="padding-right:50px;">Gold, silver hit record highs as precious metals pace toward best year since 1979 <a href="https://bsky.app/profile/yahoofinance.com/post/3malt5zotyr2q" target="_blank">yahoofinance.com</a> (2025-12-23 03:06:07)</span><span style="padding-right:50px;">Lawyers representing hundreds of former rugby players who allege they suffered brain injuries during their careers have lost a bid to challenge orders that could lead to their High Court claims being thrown out 🏉 ⚕️ ⤵️  u.afp.com/S8GK <a href="https://bsky.app/profile/en.afp.com/post/3malt56lv5h2f" target="_blank">en.afp.com</a> (2025-12-23 03:05:38)</span><span style="padding-right:50px;">Equinor says it is evaluating impact of US pause on leases for five offshore wind projects reut.rs/497zQnB <a href="https://bsky.app/profile/reuters.com/post/3malt4bmuqr2i" target="_blank">reuters.com</a> (2025-12-23 03:05:08)</span><span style="padding-right:50px;">New York City Mayor-elect Zohran Mamdani will be sworn in by two prominent Democrats on New Year's Day.  <a href="https://bsky.app/profile/cbsnews.com/post/3malswpfx732m" target="_blank">cbsnews.com</a> (2025-12-23 03:02:01)</span><span style="padding-right:50px;">Michigan interim coach Biff Poggi said AD Warde Manuel is looking to hire a new football coach between Christmas and the team's bowl game on Dec. 31. <a href="https://bsky.app/profile/usatoday.com/post/3malsv3wdb62t" target="_blank">usatoday.com</a> (2025-12-23 03:01:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48420.29 (🔺208.41 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23433.96 (🔻16.57 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 182.95 (🔻0.97 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.79 (🔻0.96 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48404.61 (🔺192.73 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23435.40 (🔻15.13 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.16 (🔻0.76 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.92 (🔻0.83 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,93 +32,98 @@
 
 ## News Headlines
 
-- Iran Conducts Missile Exercises in Multiple Cities
-- New Salford-based Team Enters Championship After Red Devils Liquidation
-- Russia Expresses Concern Over US Escalation in Caribbean
-- US Justice Department Faces Backlash Over Partial Epstein File Release
-- China Possibly Deploys Over 100 ICBMs in Underground Silos
-- Google Parent Invests in Renewable Energy to Power AI Expansion
+- Gold, silver hit record highs as precious metals pace toward best year since 1979
+- Lawyers for ex-rugby players lose bid to challenge brain injury claims
+- Equinor evaluates impact of US pause on offshore wind projects
+- New York City Mayor-elect to be sworn in by two prominent Democrats
+- Pension dispute may prolong strike at Brazil's Petrobras
+- Reindeer herder in Finland losing animals to wolves from Russia
 
 
 ----
 
-@japan.reuters.com
+@yahoofinance.com
 
-イランは２２日に複数の都市でミサイル演習を実施したと、国営メディアが匿名の関係筋や目撃者の情報として報じた。 bit.ly/4qkxSHn
+Gold, silver hit record highs as precious metals pace toward best year since 1979
 
-[2025-12-23 02:48:52](https://bsky.app/profile/japan.reuters.com/post/3mals76kntx2c)
+[2025-12-23 03:06:07](https://bsky.app/profile/yahoofinance.com/post/3malt5zotyr2q)
+
+---
+
+@en.afp.com
+
+Lawyers representing hundreds of former rugby players who allege they suffered brain injuries during their careers have lost a bid to challenge orders that could lead to their High Court claims being thrown out
+🏉 ⚕️ ⤵️
+
+u.afp.com/S8GK
+
+[2025-12-23 03:05:38](https://bsky.app/profile/en.afp.com/post/3malt56lv5h2f)
 
 ---
 
 @reuters.com
 
-New Salford-based team enters Championship after Red Devils liquidated reut.rs/4p8AWFB
+Equinor says it is evaluating impact of US pause on leases for five offshore wind projects reut.rs/497zQnB
 
-[2025-12-23 02:45:11](https://bsky.app/profile/reuters.com/post/3malrymbwdh2s)
-
----
-
-@japan.reuters.com
-
-ロシアのラブロフ外相は２２日、ベネズエラのヒル外相と電話会談し、「カリブ海における米国の行動のエスカレーションに深い懸念」を表明した。ロシア外務省が発表した。 bit.ly/3YHGiwE
-
-[2025-12-23 02:44:28](https://bsky.app/profile/japan.reuters.com/post/3malrxcxwdx2q)
-
----
-
-@cnbc.com
-
-Epstein Files: Schumer to force Senate vote on suing DOJ over partial release
-
-[2025-12-23 02:44:20](https://bsky.app/profile/cnbc.com/post/3malrx3o3sn2b)
-
----
-
-@reuters.com
-
-How a 26‑year‑old turned wellness into her biggest investment reut.rs/4qhGsXj
-
-[2025-12-23 02:40:20](https://bsky.app/profile/reuters.com/post/3malrpwwque2p)
+[2025-12-23 03:05:08](https://bsky.app/profile/reuters.com/post/3malt4bmuqr2i)
 
 ---
 
 @cbsnews.com
 
-The Justice Department is facing continued backlash over its partial releases of the Epstein files, with lawmakers and survivors denouncing the limited nature of the disclosures. 
+New York City Mayor-elect Zohran Mamdani will be sworn in by two prominent Democrats on New Year's Day. 
 
-[2025-12-23 02:40:01](https://bsky.app/profile/cbsnews.com/post/3malrpex47w2z)
-
----
-
-@japan.reuters.com
-
-米国防総省の報告書草案から、中国が３カ所のサイロ（地下式ミサイル格納施設）に１００基以上の大陸間弾道ミサイル（ＩＣＢＭ）を配備している可能性が高いことが明らかとなった。中国は軍備管理協議の意向も示していないとみられ、同国の軍事的野心の高まりが改めて浮き彫りとなった。 bit.ly/4qnLh1A
-
-[2025-12-23 02:38:48](https://bsky.app/profile/japan.reuters.com/post/3malrn6uny726)
+[2025-12-23 03:02:01](https://bsky.app/profile/cbsnews.com/post/3malswpfx732m)
 
 ---
 
-@wsj.com
+@usatoday.com
 
-The Google parent said the deal would help address the near insatiable demand for energy to power the expansion of artificial intelligence.
+Michigan interim coach Biff Poggi said AD Warde Manuel is looking to hire a new football coach between Christmas and the team's bowl game on Dec. 31.
 
-[2025-12-23 02:37:46](https://bsky.app/profile/wsj.com/post/3malrlelqa22q)
-
----
-
-@nytimes.com
-
-A growing number of brands are making cashmere sweaters far more affordable. Is this cut-rate cashmere really worth buying, or is it a bad deal — no matter the price? To find out, we selected four inexpensive cashmere sweaters (our maximum budget was $100 a pop). Then we put them to the test.
-
-[2025-12-23 02:37:05](https://bsky.app/profile/nytimes.com/post/3malrk4yasd2r)
+[2025-12-23 03:01:07](https://bsky.app/profile/usatoday.com/post/3malsv3wdb62t)
 
 ---
 
 @reuters.com
 
-Henk Ovink: To fix the climate, we need to change course on how we treat water reut.rs/4azwPip
+Pension dispute could prolong strike at Brazil's Petrobras reut.rs/3YFUNRH
 
-[2025-12-23 02:35:08](https://bsky.app/profile/reuters.com/post/3malrgn3rll2i)
+[2025-12-23 03:01:06](https://bsky.app/profile/reuters.com/post/3malsv3kqsv24)
+
+---
+
+@cnn.com
+
+Reindeer herder Juha Kujala says he’s losing many of his animals to wolves. Finnish scientists suspect the predators are crossing from Russia, where the war in Ukraine means fewer hunters. https://cnn.it/4j6JMCe
+
+[2025-12-23 03:01:05](https://bsky.app/profile/cnn.com/post/3malsv2eord22)
+
+---
+
+@washingtonpost.com
+
+For months, the seven states of the Colorado River basin have failed to reach an agreement on new rules to share the river’s dwindling supply of water. 
+
+The current rules expire next year, risking water supply and power generation.
+
+[2025-12-23 03:00:30](https://bsky.app/profile/washingtonpost.com/post/3malstyphl325)
+
+---
+
+@nbcnews.com
+
+George Conway, the former conservative lawyer turned critic of President Trump, has filed paperwork to run for Congress in New York City as a Democrat, a source close to Conway confirms.
+
+[2025-12-23 03:00:24](https://bsky.app/profile/nbcnews.com/post/3malstsockz2p)
+
+---
+
+@apnews.com
+
+A pitch-perfect Timothée Chalamet finds his greatest role to date in "Marty Supreme," a breakneck ride from director Josh Safdie, writes AP's Jocelyn Noveck in her review. 
+
+[2025-12-23 03:00:22](https://bsky.app/profile/apnews.com/post/3malstqrgdb2p)
 
 ---
 
