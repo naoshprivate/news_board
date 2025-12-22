@@ -1,9 +1,9 @@
-# [2025-12-23 06:30 updated](2025_12_23.md)
+# [2025-12-23 06:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Trump administration recalled more than two dozen career diplomats from ambassadorial and other senior posts worldwide as it seeks to enforce President Trump’s “America First” agenda, according to current and former U.S. officials. <a href="https://bsky.app/profile/washingtonpost.com/post/3mam6ggnjbf2e" target="_blank">washingtonpost.com</a> (2025-12-23 06:27:40)</span><span style="padding-right:50px;">Monkeys and turtles and sloths, oh my! Wildlife abounds in Metropolitan Natural Park,  the main green lung of Panama City and one of the few tropical forests in a Latin American capital. AFP's @MartinBernetti captured a howler monkey, slider turtles, 3-toed sloths -- and tourists at a viewpoint 🇵🇦 <a href="https://bsky.app/profile/en.afp.com/post/3mam6fedaa42f" target="_blank">en.afp.com</a> (2025-12-23 06:27:04)</span><span style="padding-right:50px;">就活エントリーシート 廃止の動きも AI利用で記述が似かよる https://news.web.nhk/newsweb/na/na-k10015010831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mam6fewqer2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 06:27:02)</span><span style="padding-right:50px;">The exit of more than a dozen staffers follows turmoil at Heritage and the larger conservative movement over the role of right-wing influencers who've promoted antisemitic and other extremist ideas. n.pr/4qeX9Te <a href="https://bsky.app/profile/npr.org/post/3mam6eoc7o72i" target="_blank">npr.org</a> (2025-12-23 06:26:41)</span><span style="padding-right:50px;">ニューヨーク外為市場では、円が対ドルで上昇した。政府・日銀による円買い・ドル売りの為替介入の実施が引き続き意識される中、三村淳財務官が「為替の一方向で急激な動き」を憂慮していると発言。日本当局が為替介入を実施する用意を示唆した可能性が高いとの見方が市場で広がった。 bit.ly/4p6sTJq <a href="https://bsky.app/profile/japan.reuters.com/post/3mam6ejsbc327" target="_blank">japan.reuters.com</a> (2025-12-23 06:26:36)</span>
+<span style="padding-right:50px;">AIで得た情報｢自らファクトチェック｣は10代で7割　60代は5割、電通調べ www.nikkei.com/article/DGXZQO...  仕事や学業にAIを使うことで「楽をしていると思われることが心配」という人は全体の42.2%でした。若い世代ほど不安に思う傾向が強まりました。 <a href="https://bsky.app/profile/nikkei.com/post/3mam7ifrmwi2c" target="_blank">nikkei.com</a> (2025-12-23 06:46:40)</span><span style="padding-right:50px;">At Wirecutter this year, we tested over 4,000 products in tons of categories across our catalog, from baby products to items for older adults (and everyone in between). These were the most popular products of 2025. nyti.ms/4s877HR <a href="https://bsky.app/profile/nytimes.com/post/3mam7hcnn5n2r" target="_blank">nytimes.com</a> (2025-12-23 06:46:03)</span><span style="padding-right:50px;">In a letter, more than a dozen women who have said they were victims of Jeffrey Epstein called for congressional hearings to ensure that the Justice Department is fully complying with the Epstein Files Transparency Act. <a href="https://bsky.app/profile/nytimes.com/post/3mam7g6eokn2e" target="_blank">nytimes.com</a> (2025-12-23 06:45:25)</span><span style="padding-right:50px;">US Interior Dept weakens sage-grouse protection to open more oil and mineral development reut.rs/4p4aGfv <a href="https://bsky.app/profile/reuters.com/post/3mam7g22d2a2r" target="_blank">reuters.com</a> (2025-12-23 06:45:20)</span><span style="padding-right:50px;">The executive producer of “60 Minutes” said she “ultimately had to comply” with CBS News editor in chief Bari Weiss and pull a segment on the Trump administration’s deportations, according to a partial transcript of the meeting obtained by The Post.  <a href="https://bsky.app/profile/washingtonpost.com/post/3mam7fksl622i" target="_blank">washingtonpost.com</a> (2025-12-23 06:45:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.01 (🔻0.74 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.04 (🔻0.71 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,98 +32,98 @@
 
 ## News Headlines
 
-- U.S. Diplomats Recalled in Bid to Enforce Trump's 'America First' Agenda
-- Wildlife Abounds in Panama City's Metropolitan Natural Park
-- Heritage Staffers Exit Amid Turmoil Over Right-Wing Influencers
-- Japanese Yen Rises Against Dollar Amid Speculation of Intervention
-- IMF Reports Slight Decline in U.S. Dollar's Share of Global Reserves
-- Gun Safety Group Introduces Firearms Training Classes Amid Backlash
+- Many Young People in Japan Are Fact-checking News on Their Own
+- US Congress Set to Hold Hearings on Epstein Files Transparency Act
+- US Interior Department Weakened Sage-Grouse Protection to Open More Oil and Mineral Development
+- CBS News Editor Pressured 60 Minutes Executive Producer to Pull Trump Administration Deportations Segment
+- Stock Market Rises as Technology Stocks Recover, Sectors See Broad Gains
+- US Seizes Oil Tanker in Venezuela-Related Rivalry with China
 
 
 ----
 
-@washingtonpost.com
+@nikkei.com
 
-The Trump administration recalled more than two dozen career diplomats from ambassadorial and other senior posts worldwide as it seeks to enforce President Trump’s “America First” agenda, according to current and former U.S. officials.
+AIで得た情報｢自らファクトチェック｣は10代で7割　60代は5割、電通調べ
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-23 06:27:40](https://bsky.app/profile/washingtonpost.com/post/3mam6ggnjbf2e)
+仕事や学業にAIを使うことで「楽をしていると思われることが心配」という人は全体の42.2%でした。若い世代ほど不安に思う傾向が強まりました。
 
----
-
-@en.afp.com
-
-Monkeys and turtles and sloths, oh my!
-Wildlife abounds in Metropolitan Natural Park,  the main green lung of Panama City and one of the few tropical forests in a Latin American capital. AFP's @MartinBernetti captured a howler monkey, slider turtles, 3-toed sloths -- and tourists at a viewpoint
-🇵🇦
-
-[2025-12-23 06:27:04](https://bsky.app/profile/en.afp.com/post/3mam6fedaa42f)
+[2025-12-23 06:46:40](https://bsky.app/profile/nikkei.com/post/3mam7ifrmwi2c)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nytimes.com
 
-就活エントリーシート 廃止の動きも AI利用で記述が似かよる
-https://news.web.nhk/newsweb/na/na-k10015010831000
+At Wirecutter this year, we tested over 4,000 products in tons of categories across our catalog, from baby products to items for older adults (and everyone in between). These were the most popular products of 2025. nyti.ms/4s877HR
 
-[2025-12-23 06:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mam6fewqer2d)
-
----
-
-@npr.org
-
-The exit of more than a dozen staffers follows turmoil at Heritage and the larger conservative movement over the role of right-wing influencers who've promoted antisemitic and other extremist ideas. n.pr/4qeX9Te
-
-[2025-12-23 06:26:41](https://bsky.app/profile/npr.org/post/3mam6eoc7o72i)
+[2025-12-23 06:46:03](https://bsky.app/profile/nytimes.com/post/3mam7hcnn5n2r)
 
 ---
 
-@japan.reuters.com
+@nytimes.com
 
-ニューヨーク外為市場では、円が対ドルで上昇した。政府・日銀による円買い・ドル売りの為替介入の実施が引き続き意識される中、三村淳財務官が「為替の一方向で急激な動き」を憂慮していると発言。日本当局が為替介入を実施する用意を示唆した可能性が高いとの見方が市場で広がった。 bit.ly/4p6sTJq
+In a letter, more than a dozen women who have said they were victims of Jeffrey Epstein called for congressional hearings to ensure that the Justice Department is fully complying with the Epstein Files Transparency Act.
 
-[2025-12-23 06:26:36](https://bsky.app/profile/japan.reuters.com/post/3mam6ejsbc327)
+[2025-12-23 06:45:25](https://bsky.app/profile/nytimes.com/post/3mam7g6eokn2e)
 
 ---
 
 @reuters.com
 
-Wall Street advances with broad gains, tech gains continue reut.rs/4jdKRZa
+US Interior Dept weakens sage-grouse protection to open more oil and mineral development reut.rs/4p4aGfv
 
-[2025-12-23 06:25:08](https://bsky.app/profile/reuters.com/post/3mam6bvwdej2r)
+[2025-12-23 06:45:20](https://bsky.app/profile/reuters.com/post/3mam7g22d2a2r)
 
 ---
 
-@legal.reuters.com
+@washingtonpost.com
 
-<strong><span style="color: red;">JUST IN:</span> Democratic-led states sue to block US consumer watchdog's defunding under Trump reut.rs/4b0NUlg</strong>
+The executive producer of “60 Minutes” said she “ultimately had to comply” with CBS News editor in chief Bari Weiss and pull a segment on the Trump administration’s deportations, according to a partial transcript of the meeting obtained by The Post. 
 
-[2025-12-23 06:22:56](https://bsky.app/profile/legal.reuters.com/post/3mam65xsbb22r)
+[2025-12-23 06:45:04](https://bsky.app/profile/washingtonpost.com/post/3mam7fksl622i)
 
 ---
 
 @japan.reuters.com
 
-国際通貨基金（ＩＭＦ）が１９日公表したデータによると、ＩＭＦに報告された２０２５年第３・四半期の外貨準備に米ドルが占める比率は５６．９２％と、第２・四半期の５７．０８％から小幅低下した。一方、ユーロ建て準備金が占める割合は２０．３３％と第２・四半期の２０．２４％から小幅上昇した。 bit.ly/4jauyMJ
+米国株式市場は上昇して取引を終えた。テクノロジー株の反発が続いたほか、幅広い銘柄が買われ、Ｓ＆Ｐ総合５００種の主要１１セクターがほぼ全て上昇する展開となった。 bit.ly/4jdN7j6
 
-[2025-12-23 06:20:23](https://bsky.app/profile/japan.reuters.com/post/3mam5zgk77e2u)
-
----
-
-@cbsnews.com
-
-When the advocacy group Everytown for Gun Safety announced it would introduce a new array of firearms training classes, it caught some longtime supporters off guard.
-
-
-[2025-12-23 06:20:01](https://bsky.app/profile/cbsnews.com/post/3mam5yr7odw2g)
+[2025-12-23 06:44:23](https://bsky.app/profile/japan.reuters.com/post/3mam7ecw4ip22)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@japan.reuters.com
 
-NY外国為替市場 円相場 一時1ドル156円台後半まで値上がり
-https://news.web.nhk/newsweb/na/na-k10015011061000
+ＬＳＥＧの追跡データや関係筋の情報などから、ベネズエラの石油タンカーの積み込みが減速していることが分かった。また、大半の石油タンカーの移動は国内港湾間に限られているもよう。米沿岸警備隊が週末、ベネズエラ沖の国際水域で石油タンカーを新たに拿捕（だほ）したことが背景にある。 bit.ly/49o122C
 
-[2025-12-23 06:18:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mam5vgbbri2b)
+[2025-12-23 06:40:19](https://bsky.app/profile/japan.reuters.com/post/3mam752uxu32q)
+
+---
+
+@reuters.com
+
+Neres double as Napoli outclass Bologna to win Italian Super Cup reut.rs/4pKq41K
+
+[2025-12-23 06:40:17](https://bsky.app/profile/reuters.com/post/3mam74yqczu2s)
+
+---
+
+@nbcnews.com
+
+A federal judge noted that Abrego was already deported without legal authority once and said she was "growing beyond impatient" with government misrepresentations in her court.
+
+[2025-12-23 06:40:09](https://bsky.app/profile/nbcnews.com/post/3mam74rjwk62r)
+
+---
+
+@washingtonpost.com
+
+The Justice Department is suing the D.C. police, arguing the city’s ban on AR-15s and other firearms is unconstitutional.
+
+The lawsuit targets a D.C. law that prohibits the registration of most semiautomatic rifles, including AR-15s and AK-47s.
+
+[2025-12-23 06:40:01](https://bsky.app/profile/washingtonpost.com/post/3mam74jszbw2i)
 
 ---
 
