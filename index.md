@@ -1,9 +1,9 @@
-# [2025-12-23 02:30 updated](2025_12_23.md)
+# [2025-12-23 02:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">#BREAKING The US Department of the Interior says it has paused -- 'effective immediately' -- all leases for offshore wind projects in the United States over unspecified national security risks, casting new doubt over the future of a renewable energy industry detested by President Donald Trump <a href="https://bsky.app/profile/en.afp.com/post/3malr2lfy3c2u" target="_blank">en.afp.com</a> (2025-12-23 02:28:24)</span><span style="padding-right:50px;">Why Warner Bros. Discovery shareholders might opt for Paramount's offer — and why they might not <a href="https://bsky.app/profile/cnbc.com/post/3malqwrqzkk23" target="_blank">cnbc.com</a> (2025-12-23 02:26:16)</span><span style="padding-right:50px;">UK to ban boiling lobsters alive as animal welfare standards tightened ft.trib.al/PifF1nN <a href="https://bsky.app/profile/financialtimes.com/post/3malqvk6ft62b" target="_blank">financialtimes.com</a> (2025-12-23 02:25:34)</span><span style="padding-right:50px;">Turkey says Kurdish-led SDF does not appear to advance integration with Damascus reut.rs/3MXn2sp <a href="https://bsky.app/profile/reuters.com/post/3malqutcgks2r" target="_blank">reuters.com</a> (2025-12-23 02:25:10)</span><span style="padding-right:50px;">Opinion: Remember the one about the software CEO, the head of HR and the Jumbotron camera? Here's how the whole affair illustrates the joys and the horror of the modern world. ft.trib.al/FaDe0aG <a href="https://bsky.app/profile/financialtimes.com/post/3malqs4bqmo2b" target="_blank">financialtimes.com</a> (2025-12-23 02:23:39)</span>
+<span style="padding-right:50px;">イランは２２日に複数の都市でミサイル演習を実施したと、国営メディアが匿名の関係筋や目撃者の情報として報じた。 bit.ly/4qkxSHn <a href="https://bsky.app/profile/japan.reuters.com/post/3mals76kntx2c" target="_blank">japan.reuters.com</a> (2025-12-23 02:48:52)</span><span style="padding-right:50px;">New Salford-based team enters Championship after Red Devils liquidated reut.rs/4p8AWFB <a href="https://bsky.app/profile/reuters.com/post/3malrymbwdh2s" target="_blank">reuters.com</a> (2025-12-23 02:45:11)</span><span style="padding-right:50px;">ロシアのラブロフ外相は２２日、ベネズエラのヒル外相と電話会談し、「カリブ海における米国の行動のエスカレーションに深い懸念」を表明した。ロシア外務省が発表した。 bit.ly/3YHGiwE <a href="https://bsky.app/profile/japan.reuters.com/post/3malrxcxwdx2q" target="_blank">japan.reuters.com</a> (2025-12-23 02:44:28)</span><span style="padding-right:50px;">Epstein Files: Schumer to force Senate vote on suing DOJ over partial release <a href="https://bsky.app/profile/cnbc.com/post/3malrx3o3sn2b" target="_blank">cnbc.com</a> (2025-12-23 02:44:20)</span><span style="padding-right:50px;">How a 26‑year‑old turned wellness into her biggest investment reut.rs/4qhGsXj <a href="https://bsky.app/profile/reuters.com/post/3malrpwwque2p" target="_blank">reuters.com</a> (2025-12-23 02:40:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48385.58 (🔺173.70 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23442.69 (🔻7.84 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.15 (🔻0.77 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.84 (🔻0.91 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48420.29 (🔺208.41 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23433.96 (🔻16.57 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 182.95 (🔻0.97 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.79 (🔻0.96 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,96 +32,93 @@
 
 ## News Headlines
 
-- US Pauses Offshore Wind Leases Over National Security Risks
-- UK to Ban Boiling Lobsters Alive for Animal Welfare
-- Turkey Says Kurdish-Led SDF Not Advancing with Damascus
-- Lobster Trap Christmas Trees Gain Popularity Along New England Coast
-- Space Stocks Surge as Sector Optimism Gains Steam
-- Treasury Uses New Tech to Target Money Lenders Along Mexican Border
+- Iran Conducts Missile Exercises in Multiple Cities
+- New Salford-based Team Enters Championship After Red Devils Liquidation
+- Russia Expresses Concern Over US Escalation in Caribbean
+- US Justice Department Faces Backlash Over Partial Epstein File Release
+- China Possibly Deploys Over 100 ICBMs in Underground Silos
+- Google Parent Invests in Renewable Energy to Power AI Expansion
 
 
 ----
 
-@en.afp.com
+@japan.reuters.com
 
-<strong><span style="color: red;">#BREAKING</span> The US Department of the Interior says it has paused -- 'effective immediately' -- all leases for offshore wind projects in the United States over unspecified national security risks, casting new doubt over the future of a renewable energy industry detested by President Donald Trump</strong>
+イランは２２日に複数の都市でミサイル演習を実施したと、国営メディアが匿名の関係筋や目撃者の情報として報じた。 bit.ly/4qkxSHn
 
-[2025-12-23 02:28:24](https://bsky.app/profile/en.afp.com/post/3malr2lfy3c2u)
-
----
-
-@cnbc.com
-
-Why Warner Bros. Discovery shareholders might opt for Paramount's offer — and why they might not
-
-[2025-12-23 02:26:16](https://bsky.app/profile/cnbc.com/post/3malqwrqzkk23)
-
----
-
-@financialtimes.com
-
-UK to ban boiling lobsters alive as animal welfare standards tightened ft.trib.al/PifF1nN
-
-[2025-12-23 02:25:34](https://bsky.app/profile/financialtimes.com/post/3malqvk6ft62b)
+[2025-12-23 02:48:52](https://bsky.app/profile/japan.reuters.com/post/3mals76kntx2c)
 
 ---
 
 @reuters.com
 
-Turkey says Kurdish-led SDF does not appear to advance integration with Damascus reut.rs/3MXn2sp
+New Salford-based team enters Championship after Red Devils liquidated reut.rs/4p8AWFB
 
-[2025-12-23 02:25:10](https://bsky.app/profile/reuters.com/post/3malqutcgks2r)
-
----
-
-@financialtimes.com
-
-Opinion: Remember the one about the software CEO, the head of HR and the Jumbotron camera? Here's how the whole affair illustrates the joys and the horror of the modern world. ft.trib.al/FaDe0aG
-
-[2025-12-23 02:23:39](https://bsky.app/profile/financialtimes.com/post/3malqs4bqmo2b)
+[2025-12-23 02:45:11](https://bsky.app/profile/reuters.com/post/3malrymbwdh2s)
 
 ---
 
-@sokuho.news
+@japan.reuters.com
 
-🛎️ANNより【速報】です。
+ロシアのラブロフ外相は２２日、ベネズエラのヒル外相と電話会談し、「カリブ海における米国の行動のエスカレーションに深い懸念」を表明した。ロシア外務省が発表した。 bit.ly/3YHGiwE
 
-【速報】東京・品川区の商店街で火事 40代男性が搬送 現在も延焼中
-(2025-12-23 02:01:08) #ニュース
-
-[2025-12-23 02:20:24](https://bsky.app/profile/sokuho.news/post/3malqmbty6r2b)
+[2025-12-23 02:44:28](https://bsky.app/profile/japan.reuters.com/post/3malrxcxwdx2q)
 
 ---
 
-@nytimes.com
+@cnbc.com
 
-What began as a quaint and unique nod to New England’s seafaring heritage is proliferating in Hallmarkian proportions: the lobster trap Christmas tree. At least 20 of the structures dot the coastline from Connecticut to Maine.
+Epstein Files: Schumer to force Senate vote on suing DOJ over partial release
 
-[2025-12-23 02:20:07](https://bsky.app/profile/nytimes.com/post/3malqlruymr2b)
+[2025-12-23 02:44:20](https://bsky.app/profile/cnbc.com/post/3malrx3o3sn2b)
+
+---
+
+@reuters.com
+
+How a 26‑year‑old turned wellness into her biggest investment reut.rs/4qhGsXj
+
+[2025-12-23 02:40:20](https://bsky.app/profile/reuters.com/post/3malrpwwque2p)
+
+---
+
+@cbsnews.com
+
+The Justice Department is facing continued backlash over its partial releases of the Epstein files, with lawmakers and survivors denouncing the limited nature of the disclosures. 
+
+[2025-12-23 02:40:01](https://bsky.app/profile/cbsnews.com/post/3malrpex47w2z)
+
+---
+
+@japan.reuters.com
+
+米国防総省の報告書草案から、中国が３カ所のサイロ（地下式ミサイル格納施設）に１００基以上の大陸間弾道ミサイル（ＩＣＢＭ）を配備している可能性が高いことが明らかとなった。中国は軍備管理協議の意向も示していないとみられ、同国の軍事的野心の高まりが改めて浮き彫りとなった。 bit.ly/4qnLh1A
+
+[2025-12-23 02:38:48](https://bsky.app/profile/japan.reuters.com/post/3malrn6uny726)
 
 ---
 
 @wsj.com
 
-In one of San Francisco’s priciest ZIP Codes, buyers are moving fast and paying cash. on.wsj.com/3N7AtpG
+The Google parent said the deal would help address the near insatiable demand for energy to power the expansion of artificial intelligence.
 
-[2025-12-23 02:18:59](https://bsky.app/profile/wsj.com/post/3malqjrcw7w2k)
+[2025-12-23 02:37:46](https://bsky.app/profile/wsj.com/post/3malrlelqa22q)
+
+---
+
+@nytimes.com
+
+A growing number of brands are making cashmere sweaters far more affordable. Is this cut-rate cashmere really worth buying, or is it a bad deal — no matter the price? To find out, we selected four inexpensive cashmere sweaters (our maximum budget was $100 a pop). Then we put them to the test.
+
+[2025-12-23 02:37:05](https://bsky.app/profile/nytimes.com/post/3malrk4yasd2r)
 
 ---
 
 @reuters.com
 
-Trian, General Catalyst to buy Janus Henderson for $7.4 billion reut.rs/3MN9AHD
+Henk Ovink: To fix the climate, we need to change course on how we treat water reut.rs/4azwPip
 
-[2025-12-23 02:15:12](https://bsky.app/profile/reuters.com/post/3malqcywoih2y)
-
----
-
-@cnbc.com
-
-Space stocks rocket higher as sector optimism gains steam into 2026
-
-[2025-12-23 02:12:53](https://bsky.app/profile/cnbc.com/post/3malq6u7ltl2y)
+[2025-12-23 02:35:08](https://bsky.app/profile/reuters.com/post/3malrgn3rll2i)
 
 ---
 
