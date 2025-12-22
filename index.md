@@ -1,9 +1,9 @@
-# [2025-12-22 19:10 updated](2025_12_22.md)
+# [2025-12-22 19:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Officials said the error is likely be too minute for the general public to clock it, but it could affect applications such as critical infrastructure, telecommunications and GPS signals. n.pr/3NbOdQk <a href="https://bsky.app/profile/npr.org/post/3makyjlgf6u2m" target="_blank">npr.org</a> (2025-12-22 19:09:23)</span><span style="padding-right:50px;">自民 萩生田幹事長代行 台湾 頼清徳総統と会談 交流深めたい https://news.web.nhk/newsweb/na/na-k10015010651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makyizgpsn2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 19:09:02)</span><span style="padding-right:50px;">スイス製薬大手ロシェのトーマス・シネッカー最高経営責任者（ＣＥＯ）は１９日のスイス紙とのインタビューで、米政権と製薬各社との米国での薬価引き下げに向けた合意により、スイスの新薬価格が押し上げられる公算が大きいとの見方を示した。 bit.ly/458fwkM <a href="https://bsky.app/profile/japan.reuters.com/post/3makyc2p6eg2c" target="_blank">japan.reuters.com</a> (2025-12-22 19:05:11)</span><span style="padding-right:50px;">NHL roundup: Red Wings edge Caps on Moritz Seider's late OT goal reut.rs/44GYaeG <a href="https://bsky.app/profile/reuters.com/post/3makybxfcwa2i" target="_blank">reuters.com</a> (2025-12-22 19:05:07)</span><span style="padding-right:50px;">China slaps tariffs of up to 42.7% on EU dairy products, alleging 'damage' to the domestic dairy industry <a href="https://bsky.app/profile/cnbc.com/post/3makyb2bxoc24" target="_blank">cnbc.com</a> (2025-12-22 19:04:37)</span>
+<span style="padding-right:50px;">欧州中央銀行（ＥＣＢ）理事会メンバーのカジミール・スロバキア中銀総裁は２２日、ユーロ圏のインフレ見通しには満足しているとしながらも、必要であれば再び介入する用意があるとの考えを示した。 bit.ly/3MWqB22 <a href="https://bsky.app/profile/japan.reuters.com/post/3makzisbujb2u" target="_blank">japan.reuters.com</a> (2025-12-22 19:26:51)</span><span style="padding-right:50px;">Relief for hosts Morocco as they start Cup of Nations with win reut.rs/3MM9rUV <a href="https://bsky.app/profile/reuters.com/post/3makzfqg5qz2i" target="_blank">reuters.com</a> (2025-12-22 19:25:08)</span><span style="padding-right:50px;"> Don’t forget the other hostile bid battle in US media ft.trib.al/1MxGClu  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3makz62hmpy2o" target="_blank">financialtimes.com</a> (2025-12-22 19:20:50)</span><span style="padding-right:50px;">中国人民銀行（中央銀行）は２２日、２０２０年以降に発生した１万元（１４２０．４７ドル）までの延滞個人債務について、２６年３月３１日までに完済すれば信用記録から削除できるようにすると発表した。 bit.ly/4jcC3Tm <a href="https://bsky.app/profile/japan.reuters.com/post/3makz4y2t5m2v" target="_blank">japan.reuters.com</a> (2025-12-22 19:20:14)</span><span style="padding-right:50px;">Last group of freed Nigerian schoolchildren to be reunited with their families reut.rs/4an9q3w <a href="https://bsky.app/profile/reuters.com/post/3makytwz6e62k" target="_blank">reuters.com</a> (2025-12-22 19:15:11)</span>
   </div>
 </div>
 
@@ -32,15 +32,79 @@
 
 ## News Headlines
 
-- Swiss pharmaceutical giant Roche CEO says new drug prices in Switzerland may rise due to US government agreement on drug price cuts
-- Japan's government instructs defense minister to increase pay for all military personnel a year earlier than planned
-- Japan's largest nuclear power plant to resume operations after 15 years
-- UBS chair warns Switzerland is 'losing its lustre' and at a 'crossroads with major challenges'
-- Russian general killed in Moscow car bombing
-- Asian currencies face rocky start to 2026, US Treasury yields edge higher
+- ECB Board Member Kazimierz Slawinski Suggests Possible Intervention in Eurozone Inflation
+- Morocco Wins First Game in Cup of Nations
+- People's Bank of China Announces Waiver for Outstanding Personal Debts of Up to 1,420.47 USD
+- Last Group of Freed Nigerian Schoolchildren Reunited with Families
+- Fuji Media Holdings Receives Notification of Increased Share Ownership
+- Uber and Lyft to Test Baidu Robotaxis in UK Next Year
 
 
 ----
+
+@japan.reuters.com
+
+欧州中央銀行（ＥＣＢ）理事会メンバーのカジミール・スロバキア中銀総裁は２２日、ユーロ圏のインフレ見通しには満足しているとしながらも、必要であれば再び介入する用意があるとの考えを示した。 bit.ly/3MWqB22
+
+[2025-12-22 19:26:51](https://bsky.app/profile/japan.reuters.com/post/3makzisbujb2u)
+
+---
+
+@reuters.com
+
+Relief for hosts Morocco as they start Cup of Nations with win reut.rs/3MM9rUV
+
+[2025-12-22 19:25:08](https://bsky.app/profile/reuters.com/post/3makzfqg5qz2i)
+
+---
+
+@financialtimes.com
+
+ Don’t forget the other hostile bid battle in US media ft.trib.al/1MxGClu  | opinion
+
+[2025-12-22 19:20:50](https://bsky.app/profile/financialtimes.com/post/3makz62hmpy2o)
+
+---
+
+@japan.reuters.com
+
+中国人民銀行（中央銀行）は２２日、２０２０年以降に発生した１万元（１４２０．４７ドル）までの延滞個人債務について、２６年３月３１日までに完済すれば信用記録から削除できるようにすると発表した。 bit.ly/4jcC3Tm
+
+[2025-12-22 19:20:14](https://bsky.app/profile/japan.reuters.com/post/3makz4y2t5m2v)
+
+---
+
+@reuters.com
+
+Last group of freed Nigerian schoolchildren to be reunited with their families reut.rs/4an9q3w
+
+[2025-12-22 19:15:11](https://bsky.app/profile/reuters.com/post/3makytwz6e62k)
+
+---
+
+@japan.reuters.com
+
+フジ・メディア・ホールディングスは２２日、村上世彰氏や長女の野村絢氏などから議決権比率３３．３％まで同社株を買い増すとの通知を受け取ったことを受け、目的などに関する情報提供を要請する「情報リスト」を交付したと発表した。 bit.ly/4b1ZBrY
+
+[2025-12-22 19:10:13](https://bsky.app/profile/japan.reuters.com/post/3makyl3bkm42c)
+
+---
+
+@reuters.com
+
+Uber, Lyft to test Baidu robotaxis in UK from next year reut.rs/4j8PnIv
+
+[2025-12-22 19:10:11](https://bsky.app/profile/reuters.com/post/3makykzdtxw24)
+
+---
+
+@wsj.com
+
+CBS News pulled a planned “60 Minutes” segment on an El Salvador maximum-security prison where the Trump administration sent hundreds of Venezuelan migrants.
+
+[2025-12-22 19:09:40](https://bsky.app/profile/wsj.com/post/3makyk34jbb2t)
+
+---
 
 @npr.org
 
@@ -56,78 +120,6 @@ Officials said the error is likely be too minute for the general public to clock
 https://news.web.nhk/newsweb/na/na-k10015010651000
 
 [2025-12-22 19:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makyizgpsn2b)
-
----
-
-@japan.reuters.com
-
-スイス製薬大手ロシェのトーマス・シネッカー最高経営責任者（ＣＥＯ）は１９日のスイス紙とのインタビューで、米政権と製薬各社との米国での薬価引き下げに向けた合意により、スイスの新薬価格が押し上げられる公算が大きいとの見方を示した。 bit.ly/458fwkM
-
-[2025-12-22 19:05:11](https://bsky.app/profile/japan.reuters.com/post/3makyc2p6eg2c)
-
----
-
-@reuters.com
-
-NHL roundup: Red Wings edge Caps on Moritz Seider's late OT goal reut.rs/44GYaeG
-
-[2025-12-22 19:05:07](https://bsky.app/profile/reuters.com/post/3makybxfcwa2i)
-
----
-
-@cnbc.com
-
-China slaps tariffs of up to 42.7% on EU dairy products, alleging 'damage' to the domestic dairy industry
-
-[2025-12-22 19:04:37](https://bsky.app/profile/cnbc.com/post/3makyb2bxoc24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相 自衛官全体の給与引き上げ 1年前倒しを指示
-https://news.web.nhk/newsweb/na/na-k10015010621000
-
-[2025-12-22 19:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maky6cjuq32s)
-
----
-
-@nikkei.com
-
-うつ病治療薬、投与3日後から改善効果　塩野義製薬が国内承認を取得（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-治療薬「ズラノロン」について承認を取得。
-
-従来の抗うつ薬は効果が出るまでに6〜8週間かかる場合が多く、治療期間の短縮が期待されます。
-
-#ニュース
-
-[2025-12-22 19:00:40](https://bsky.app/profile/nikkei.com/post/3makxzy2suu2i)
-
----
-
-@reuters.com
-
-South African rand gains as precious metals prices jump reut.rs/4jdbnBZ
-
-[2025-12-22 19:00:36](https://bsky.app/profile/reuters.com/post/3makxzufn6x2p)
-
----
-
-@financialtimes.com
-
-Gold and silver hit record highs on geopolitical tensions ft.trib.al/nLsC3cq
-
-[2025-12-22 19:00:31](https://bsky.app/profile/financialtimes.com/post/3makxzpjrwz2o)
-
----
-
-@apnews.com
-
-James Ransone, the actor who played Ziggy Sobotka in the HBO series “The Wire” and appeared in many other TV shows and movies, has died. He was 46.
-
-[2025-12-22 19:00:23](https://bsky.app/profile/apnews.com/post/3makxzhrzbe2u)
 
 ---
 
