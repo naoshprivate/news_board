@@ -1,9 +1,9 @@
-# [2025-12-22 08:50 updated](2025_12_22.md)
+# [2025-12-22 09:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The future of AI is dividing the Democratic Party, as potential 2028 presidential candidates and key stakeholders stake out clashing positions in what's already shaping up as a major policy battle in the primary. <a href="https://bsky.app/profile/axios.com/post/3majvu44yek2l" target="_blank">axios.com</a> (2025-12-22 08:48:55)</span><span style="padding-right:50px;">Oil price gains after US interception of Venezuelan oil tanker over weekend reut.rs/49m1Ox3 <a href="https://bsky.app/profile/reuters.com/post/3majvneypgr2i" target="_blank">reuters.com</a> (2025-12-22 08:45:10)</span><span style="padding-right:50px;">A man was arrested on Sunday after a bizarre killing with a bow and arrow, an hourslong standoff and an early-morning fire that shut down a street in a New Jersey suburb. <a href="https://bsky.app/profile/nytimes.com/post/3majvna4x2e25" target="_blank">nytimes.com</a> (2025-12-22 08:45:05)</span><span style="padding-right:50px;">【地震速報】岩手 宮古市で震度3 津波の心配なし https://news.web.nhk/newsweb/na/na-k10015009651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majvn7lpj32b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 08:45:02)</span><span style="padding-right:50px;">In a country once known for its factory workforce, some 200 million people are turning to food delivery and other informal roles as job creation slows. <a href="https://bsky.app/profile/wsj.com/post/3majvmhq66r2s" target="_blank">wsj.com</a> (2025-12-22 08:44:39)</span>
+<span style="padding-right:50px;">＜０９：０２＞　新発10年債利回りが2.045％に上昇、1999年2月以来の高水準 bit.ly/4atRa8O <a href="https://bsky.app/profile/japan.reuters.com/post/3majwxapnrr2f" target="_blank">japan.reuters.com</a> (2025-12-22 09:08:35)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】日経平均株価 5万円の節目回復 (09:06) #ニュース  📈世界の株価 🔗https://sekai-kabuka.com/ <a href="https://bsky.app/profile/sokuho.news/post/3majwuxq2eq2b" target="_blank">sokuho.news</a> (2025-12-22 09:07:18)</span><span style="padding-right:50px;">Pittsburgh Steelers star DK Metcalf took a swipe at a Detroit Lions fan in a blue wig, who was leaning over a railing appearing to talk with the wide receiver. The NFL will review the incident. <a href="https://bsky.app/profile/nbcnews.com/post/3majwqzgykn22" target="_blank">nbcnews.com</a> (2025-12-22 09:05:06)</span><span style="padding-right:50px;">A paraplegic engineer from Germany became the first wheelchair user to rocket into space on Saturday. She was part of a crew that made an approximately 10-minute flight on a spacecraft operated by Jeff Bezos’ private company, Blue Origin. <a href="https://bsky.app/profile/nytimes.com/post/3majwqxkjhi2b" target="_blank">nytimes.com</a> (2025-12-22 09:05:04)</span><span style="padding-right:50px;">サッカーのフランス・カップ（杯）は２１日、各地で試合を行い、モナコの南野拓実はアウェーのオセール戦で負傷交代するアクシデントに見舞われた。 bit.ly/4j6w2HI <a href="https://bsky.app/profile/japan.reuters.com/post/3majwns4alr26" target="_blank">japan.reuters.com</a> (2025-12-22 09:03:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.66 (🔻0.09 : 2025-12-21)</span>
+<span style="padding-right:50px;">^N225: Error</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">7203.T: Error</span><span style="padding-right:50px;">USD/JPY: 157.58 (🔻0.17 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,111 +32,108 @@
 
 ## News Headlines
 
-- US Intercepts Venezuelan Oil Tanker, Oil Prices Rise
-- Man Arrested After Bizarre Bow and Arrow Killing in New Jersey
-- Japan Hit by Magnitude 4.2 Earthquake, No Tsunami Expected
-- Japan's Job Market Slows, 200 Million People Turn to Informal Work
-- MLB's White Sox Sign Japanese Player Kaito Yuki from Yakult
-- Nordic Skiing World Cup: Japan's Kobayashi Wins Second Win of the Season
-- UK Chefs Turn to Venison as a Greener Option
-- Georgetown Men's Basketball Coach Suspended After Throwing Water Bottle at Fan
-- California City's Power Outage Restored After 100,000 Customers Affected
-- Justice Department Restores Trump Photo to Public Database of Epstein Files
-- Figure Skating: Japan's Sakamoto Wins National Championships, Secures Olympic Spot
-- US Stocks Outperform Wall Street, Investors See More Upside Ahead
-- China's Power Reforms and Global Data Centre Buildout Drive Battery Boom
-- Truck Collision Causes Traffic Jam on National Highway in Japan
-- Massive Die-Off of Fish in Norway Due to Climate Change-Related Algal Bloom
-- Shipping Company Seatrium and Maersk Settle Dispute Over Offshore Wind Vessel Contract
+- Japan 10-year Bond Yield Surges to 2.045%, Highest Since 1999
+- NFL to Review Incident with Steelers' DK Metcalf and Detroit Lions Fan
+- Paraplegic Engineer Makes History as First Wheelchair User in Space
+- French Cup Football Match Postponed Due to Injury to Monaco Player
+- US Oil Price Gains After US Interception of Venezuelan Oil Tanker
+- Avatar 3 Drives Estimated $88 Million in Domestic Box Office
 
 
 ----
 
-@axios.com
-
-The future of AI is dividing the Democratic Party, as potential 2028 presidential candidates and key stakeholders stake out clashing positions in what's already shaping up as a major policy battle in the primary.
-
-[2025-12-22 08:48:55](https://bsky.app/profile/axios.com/post/3majvu44yek2l)
-
----
-
-@reuters.com
-
-Oil price gains after US interception of Venezuelan oil tanker over weekend reut.rs/49m1Ox3
-
-[2025-12-22 08:45:10](https://bsky.app/profile/reuters.com/post/3majvneypgr2i)
-
----
-
-@nytimes.com
-
-A man was arrested on Sunday after a bizarre killing with a bow and arrow, an hourslong standoff and an early-morning fire that shut down a street in a New Jersey suburb.
-
-[2025-12-22 08:45:05](https://bsky.app/profile/nytimes.com/post/3majvna4x2e25)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震速報】岩手 宮古市で震度3 津波の心配なし
-https://news.web.nhk/newsweb/na/na-k10015009651000
-
-[2025-12-22 08:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majvn7lpj32b)
-
----
-
-@wsj.com
-
-In a country once known for its factory workforce, some 200 million people are turning to food delivery and other informal roles as job creation slows.
-
-[2025-12-22 08:44:39](https://bsky.app/profile/wsj.com/post/3majvmhq66r2s)
-
----
-
-@cnbc.com
-
-Asia-Pacific markets poised for gains ahead of China's key lending rate decision
-
-[2025-12-22 08:42:46](https://bsky.app/profile/cnbc.com/post/3majvj46qgn2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震速報】岩手県で震度3 津波の心配なし
-https://news.web.nhk/newsweb/na/na-k10015009651000
-
-[2025-12-22 08:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majvhtrsjv24)
-
----
-
 @japan.reuters.com
 
-米大リーグ（ＭＬＢ）ホワイトソックスは２１日、プロ野球ヤクルトからポスティングシステム（入札制度）を利用してＭＬＢ移籍を目指していた村上宗隆内野手（２５）と２年総額３４００万ドル（約５３億６０００万円）で契約を結んだことを発表した。 bit.ly/3YDB6Kb
+＜０９：０２＞　新発10年債利回りが2.045％に上昇、1999年2月以来の高水準 bit.ly/4atRa8O
 
-[2025-12-22 08:39:34](https://bsky.app/profile/japan.reuters.com/post/3majvded5bn2c)
-
----
-
-@japan.reuters.com
-
-＜０８：２１＞　寄り前の板状況、日本空調サービスが買い優勢　ＦＰＧは売り優勢 bit.ly/3MM7oQF
-
-[2025-12-22 08:38:31](https://bsky.app/profile/japan.reuters.com/post/3majvbijybj2q)
+[2025-12-22 09:08:35](https://bsky.app/profile/japan.reuters.com/post/3majwxapnrr2f)
 
 ---
 
 @sokuho.news
 
-🔔防災科研より【強震モニタ】動画です。
+🔔ANNより【速報】です。
 
-震源:岩手県沖, 深さ:50km
-マグニチュード:4.2, 最大震度:3
-📍https://www.google.com/maps?q=39.6,142.1&ll=39.6,142.1&z=7&t=h
-地震発生日時:2025-12-22 08:33頃
-(10倍速▶180s→18s) #地震
+【速報】日経平均株価 5万円の節目回復
+(09:06) #ニュース
 
-[2025-12-22 08:37:22](https://bsky.app/profile/sokuho.news/post/3majv7h6gxm2b)
+📈世界の株価
+🔗https://sekai-kabuka.com/
+
+[2025-12-22 09:07:18](https://bsky.app/profile/sokuho.news/post/3majwuxq2eq2b)
+
+---
+
+@nbcnews.com
+
+Pittsburgh Steelers star DK Metcalf took a swipe at a Detroit Lions fan in a blue wig, who was leaning over a railing appearing to talk with the wide receiver. The NFL will review the incident.
+
+[2025-12-22 09:05:06](https://bsky.app/profile/nbcnews.com/post/3majwqzgykn22)
+
+---
+
+@nytimes.com
+
+A paraplegic engineer from Germany became the first wheelchair user to rocket into space on Saturday. She was part of a crew that made an approximately 10-minute flight on a spacecraft operated by Jeff Bezos’ private company, Blue Origin.
+
+[2025-12-22 09:05:04](https://bsky.app/profile/nytimes.com/post/3majwqxkjhi2b)
+
+---
+
+@japan.reuters.com
+
+サッカーのフランス・カップ（杯）は２１日、各地で試合を行い、モナコの南野拓実はアウェーのオセール戦で負傷交代するアクシデントに見舞われた。 bit.ly/4j6w2HI
+
+[2025-12-22 09:03:17](https://bsky.app/profile/japan.reuters.com/post/3majwns4alr26)
+
+---
+
+@japan.reuters.com
+
+米原油先物は週明け２２日アジア時間の取引で上昇している。米沿岸警備隊が週末にベネズエラ沖の国際水域で石油タンカーを拿捕（だほ）したことを受けた。 bit.ly/4pc2eLp
+
+[2025-12-22 09:02:15](https://bsky.app/profile/japan.reuters.com/post/3majwlx2va62n)
+
+---
+
+@cnn.com
+
+Moviegoers escaped into director James Cameron’s sci-fi universe this weekend, driving the third installment of the “Avatar” franchise to an estimated $88 million domestically. https://cnn.it/4aoMlxr
+
+[2025-12-22 09:01:02](https://bsky.app/profile/cnn.com/post/3majwjqrwl62b)
+
+---
+
+@wsj.com
+
+After years of being the IT person for all her loved ones, Nicole Nguyen has made a list of practical, proactive tuneups to keep their tech running smoothly.
+
+[2025-12-22 09:01:01](https://bsky.app/profile/wsj.com/post/3majwjqdexw2z)
+
+---
+
+@usatoday.com
+
+Former Texas A&M quarterback Johnny Manziel issued a statement on Dec. 21 regarding his late scratch on "College GameDay" as this week's guest picker.
+
+[2025-12-22 09:00:48](https://bsky.app/profile/usatoday.com/post/3majwjdwwde2l)
+
+---
+
+@nikkei.com
+
+県民手帳、地域の特色にじむ　「市民手帳」出す自治体も
+www.nikkei.com/article/DGXZQO...
+
+表紙が「くまモン」の熊本県、方言辞書のページがある三重県…。
+
+自治体公認の手帳には行政機関の連絡先や路線図、道の駅の一覧表などご当地情報が満載です。
+
+スマートフォンの普及などで発行部数は減少しているものの、人気は根強く。
+
+2026年版は34県で発行される予定です。
+
+[2025-12-22 09:00:41](https://bsky.app/profile/nikkei.com/post/3majwj4m4vi2x)
 
 ---
 
