@@ -1,9 +1,9 @@
-# [2025-12-22 12:30 updated](2025_12_22.md)
+# [2025-12-22 12:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">トランプ米大統領は２１日、ランドリー・ルイジアナ州知事をグリーンランド特使に任命すると発表した。 bit.ly/48VqOtC <a href="https://bsky.app/profile/japan.reuters.com/post/3makbzi2b5m2q" target="_blank">japan.reuters.com</a> (2025-12-22 12:26:41)</span><span style="padding-right:50px;">The deaths of some pilots and crew members are being blamed on serious illnesses they developed after their exposures to toxic fumes while working aboard planes. <a href="https://bsky.app/profile/wsj.com/post/3makbz3omxs2c" target="_blank">wsj.com</a> (2025-12-22 12:26:27)</span><span style="padding-right:50px;">H3ロケット8号機、打ち上げ後に「第2段エンジン早期に燃焼終了」 www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3makbyppmtp2c" target="_blank">nikkei.com</a> (2025-12-22 12:26:15)</span><span style="padding-right:50px;">ロシア軍はウクライナ北東部スムイ州にあるロシア国境沿いのフラボウシケ村に越境し、住民約５０人をロシアに連れ去った。ウクライナのメディアが２１日、軍の発表として伝えた。 bit.ly/4b0QAPO <a href="https://bsky.app/profile/japan.reuters.com/post/3makbwpljnz2s" target="_blank">japan.reuters.com</a> (2025-12-22 12:25:08)</span><span style="padding-right:50px;">US envoy Witkoff calls Ukraine, Russia talks productive reut.rs/4b3rJuJ <a href="https://bsky.app/profile/reuters.com/post/3makbnvktj62y" target="_blank">reuters.com</a> (2025-12-22 12:20:12)</span>
+<span style="padding-right:50px;">埼玉 狭山 ひき逃げで男性死亡 特徴の似た車の運転手を逮捕 https://news.web.nhk/newsweb/na/na-k10015010171000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makd7qi3pl2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 12:48:02)</span><span style="padding-right:50px;">今週の外為市場でドル／円は、日銀の金融政策決定会合の余韻が残る中、財政懸念に伴う根強い円安圧力が想定される。欧米がクリスマス休暇に入るため、取引量が薄くなることが見込まれ、材料次第で値幅が出やすい点も要注意だ。 bit.ly/49aXtM7 <a href="https://bsky.app/profile/japan.reuters.com/post/3makd2iz4hz2c" target="_blank">japan.reuters.com</a> (2025-12-22 12:45:09)</span><span style="padding-right:50px;">午前のドルは１５７円半ばへ小幅下落した。今週はクリスマスで週後半にかけて取引量が減少する見通しで、日銀利上げ後に進んだ円安も一服となった。しかし市場では、円が下落しやすい地合いは変わらないとの声が多く出ている。 bit.ly/3Y9qYJ7 <a href="https://bsky.app/profile/japan.reuters.com/post/3makczyvz742c" target="_blank">japan.reuters.com</a> (2025-12-22 12:44:52)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】時価1900万円相当の金やプラチナの板、現金700万円をだまし取った罪 26歳男起訴 被害にあった70代男性「老後の資金を全て渡してしまった」 (2025-12-22 12:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makcshsi7o2s" target="_blank">sokuho.news</a> (2025-12-22 12:40:39)</span><span style="padding-right:50px;">South Korea parliament passes bill to launch probe into 2024 Jeju Air crash reut.rs/4pM06Lh <a href="https://bsky.app/profile/reuters.com/post/3makcrprdgh2y" target="_blank">reuters.com</a> (2025-12-22 12:40:14)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50480.76 (🔺396.21 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3461.00 (🔻33.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.43 (🔻0.32 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50385.93 (🔺301.38 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3459.00 (🔻35.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.32 (🔻0.43 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,73 +32,38 @@
 
 ## News Headlines
 
-- Trump Names Louisiana Governor as Greenland Special Envoy
-- US Envoy Calls Ukraine, Russia Talks Productive
-- Bitcoin, Ethereum Prices Forecasted to Rise by 14000 and 4304 Dollars
-- Ukrainian Drone Attack Damages Two Vessels in Russia
-- Nikkei Average Stock Price Recovers to 50000 JPY
-- Stock Market Expects Steady Performance with Nikkei Average
+- Man Dies in Hit-and-Run in Saitama Prefecture
+- Yen Weakens Amid Concerns Over Fiscal Policy
+- Former Malaysian Prime Minister Najib Razak Loses Appeal over Graft Sentence
+- US Envoy Calls Ukraine-Russia Talks Productive
+- Malaysian Court Rejects Najib Razak's Bid to Serve Remaining Graft Sentence Under House Arrest
+- US Stocks Rally as Investors Bet on Economic Growth
 
 
 ----
 
-@japan.reuters.com
-
-トランプ米大統領は２１日、ランドリー・ルイジアナ州知事をグリーンランド特使に任命すると発表した。 bit.ly/48VqOtC
-
-[2025-12-22 12:26:41](https://bsky.app/profile/japan.reuters.com/post/3makbzi2b5m2q)
-
----
-
-@wsj.com
-
-The deaths of some pilots and crew members are being blamed on serious illnesses they developed after their exposures to toxic fumes while working aboard planes.
-
-[2025-12-22 12:26:27](https://bsky.app/profile/wsj.com/post/3makbz3omxs2c)
-
----
-
-@nikkei.com
-
-H3ロケット8号機、打ち上げ後に「第2段エンジン早期に燃焼終了」
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-12-22 12:26:15](https://bsky.app/profile/nikkei.com/post/3makbyppmtp2c)
-
----
-
-@japan.reuters.com
-
-ロシア軍はウクライナ北東部スムイ州にあるロシア国境沿いのフラボウシケ村に越境し、住民約５０人をロシアに連れ去った。ウクライナのメディアが２１日、軍の発表として伝えた。 bit.ly/4b0QAPO
-
-[2025-12-22 12:25:08](https://bsky.app/profile/japan.reuters.com/post/3makbwpljnz2s)
-
----
-
-@reuters.com
-
-US envoy Witkoff calls Ukraine, Russia talks productive reut.rs/4b3rJuJ
-
-[2025-12-22 12:20:12](https://bsky.app/profile/reuters.com/post/3makbnvktj62y)
-
----
-
-@japan.reuters.com
-
-シティグループは、暗号資産（仮想通貨）ビットコインとイーサの１２カ月予測をそれぞれ１４万３０００ドルと４３０４ドルに設定した。普及を後押しする方向の規制整備を追い風に上昇を見込んだ。 bit.ly/45gaEtN
-
-[2025-12-22 12:20:11](https://bsky.app/profile/japan.reuters.com/post/3makbnuvqsz2s)
-
----
-
 @nhknewsunofficial.bsky.social
 
-アミューズメントカジノ店に一斉立ち入り 6割が風俗営業法違反
-https://news.web.nhk/newsweb/na/na-k10015010341000
+埼玉 狭山 ひき逃げで男性死亡 特徴の似た車の運転手を逮捕
+https://news.web.nhk/newsweb/na/na-k10015010171000
 
-[2025-12-22 12:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makbk4cgjr22)
+[2025-12-22 12:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makd7qi3pl2v)
+
+---
+
+@japan.reuters.com
+
+今週の外為市場でドル／円は、日銀の金融政策決定会合の余韻が残る中、財政懸念に伴う根強い円安圧力が想定される。欧米がクリスマス休暇に入るため、取引量が薄くなることが見込まれ、材料次第で値幅が出やすい点も要注意だ。 bit.ly/49aXtM7
+
+[2025-12-22 12:45:09](https://bsky.app/profile/japan.reuters.com/post/3makd2iz4hz2c)
+
+---
+
+@japan.reuters.com
+
+午前のドルは１５７円半ばへ小幅下落した。今週はクリスマスで週後半にかけて取引量が減少する見通しで、日銀利上げ後に進んだ円安も一服となった。しかし市場では、円が下落しやすい地合いは変わらないとの声が多く出ている。 bit.ly/3Y9qYJ7
+
+[2025-12-22 12:44:52](https://bsky.app/profile/japan.reuters.com/post/3makczyvz742c)
 
 ---
 
@@ -106,27 +71,59 @@ https://news.web.nhk/newsweb/na/na-k10015010341000
 
 🛎️FNNより【速報】です。
 
-【速報】釧路湿原周辺に響くチェーンソーの騒音！釧路市昭和地区のメガソーラー建設問題で会社側「工事は着工した」＿地元住民との確執続く現場で工事強硬！地元住民との確執深刻化か〈北海道…
-(2025-12-22 11:50) #ニュース
+【速報】時価1900万円相当の金やプラチナの板、現金700万円をだまし取った罪 26歳男起訴 被害にあった70代男性「老後の資金を全て渡してしまった」
+(2025-12-22 12:21) #ニュース
 
-[2025-12-22 12:16:00](https://bsky.app/profile/sokuho.news/post/3makbgfalt42x)
+[2025-12-22 12:40:39](https://bsky.app/profile/sokuho.news/post/3makcshsi7o2s)
+
+---
+
+@reuters.com
+
+South Korea parliament passes bill to launch probe into 2024 Jeju Air crash reut.rs/4pM06Lh
+
+[2025-12-22 12:40:14](https://bsky.app/profile/reuters.com/post/3makcrprdgh2y)
 
 ---
 
 @japan.reuters.com
 
-米政権のウィットコフ特使は２１日、ウクライナ戦争終結に向けてフロリダで過去３日間に行われた米・欧州・ウクライナ当局者間の協議について、生産的だったと評価し、立場の調整に重点が置かれたと明らかにした。 bit.ly/3MPdSOH
+原油先物は週明け２２日アジア時間の取引で上昇している。米沿岸警備隊が週末にベネズエラ沖の国際水域で石油タンカーを拿捕（だほ）したことを受けた。 bit.ly/4aLHIOf
 
-[2025-12-22 12:15:13](https://bsky.app/profile/japan.reuters.com/post/3makbexybpb2c)
+[2025-12-22 12:40:10](https://bsky.app/profile/japan.reuters.com/post/3makcrlq2pi2c)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領が任命したパルト連邦住宅金融局（ＦＨＦＡ）局長が、保守系ニュースサイトの記事を引用し、民主党のエリック・スウォルウェル下院議員を住宅ローン詐欺の疑いで捜査するよう求めていたことが、ロイターの確認した政府電子メールで明らかになった。 bit.ly/49axvIE
+
+[2025-12-22 12:38:31](https://bsky.app/profile/japan.reuters.com/post/3makconqzyb2c)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-ファーストリテイリング 来春の初任給37万円に 若手人材確保へ
-https://news.web.nhk/newsweb/na/na-k10015010311000
+足立区14人死傷事故 女性はねられた交差点中心に現場検証
+https://news.web.nhk/newsweb/na/na-k10015010321000
 
-[2025-12-22 12:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makbeqdwyd2x)
+[2025-12-22 12:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makckccvuz22)
+
+---
+
+@japan.reuters.com
+
+米カリフォルニア州サンフランシスコ市の緊急管理当局と同州の主要電力会社ＰＧ＆Ｅは２１日、市内で２０日に発生した大規模停電について、約１１万件の顧客の電力が復旧したと発表した。 bit.ly/3YBQXJk
+
+[2025-12-22 12:35:07](https://bsky.app/profile/japan.reuters.com/post/3makcikpw2r2c)
+
+---
+
+@japan.reuters.com
+
+１２月１日の植田和男総裁の講演から「地ならし」を強化してきた日銀は、１９日の金融政策決定会合で、政策金利を０．５％から０．７５％に引き上げた。市場の関心はその先に向いており、さまざまな予想が出ている。 bit.ly/4pSQUVA
+
+[2025-12-22 12:32:10](https://bsky.app/profile/japan.reuters.com/post/3makcdcebia2v)
 
 ---
 
