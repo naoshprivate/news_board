@@ -1,9 +1,9 @@
-# [2025-12-23 00:30 updated](2025_12_23.md)
+# [2025-12-23 00:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Circle CEO Jeremy Allaire shares his 10-year vision: We want to be foundational to the internet <a href="https://bsky.app/profile/yahoofinance.com/post/3malk7mrwt32h" target="_blank">yahoofinance.com</a> (2025-12-23 00:25:57)</span><span style="padding-right:50px;">We've reached the line on what Americans are willing to pay for a new car. on.wsj.com/4s20ZRt <a href="https://bsky.app/profile/wsj.com/post/3malk7m4cmk2g" target="_blank">wsj.com</a> (2025-12-23 00:25:56)</span><span style="padding-right:50px;">US halts offshore wind licences over national security concerns ft.trib.al/1xrTrOt <a href="https://bsky.app/profile/financialtimes.com/post/3malk7lntqx2p" target="_blank">financialtimes.com</a> (2025-12-23 00:25:55)</span><span style="padding-right:50px;">Sputnik developer becomes head of Russia's top vaccine centre reut.rs/4jd6jNW <a href="https://bsky.app/profile/reuters.com/post/3malk6chkmf2o" target="_blank">reuters.com</a> (2025-12-23 00:25:12)</span><span style="padding-right:50px;">The commerce ministry said in a preliminary decision on Monday that it had found dairy imports from the EU were subsidised and that China’s domestic industry 'suffered material injury' as a result. ft.trib.al/WgyxlQ7 <a href="https://bsky.app/profile/financialtimes.com/post/3malk63lbig25" target="_blank">financialtimes.com</a> (2025-12-23 00:25:05)</span>
+<span style="padding-right:50px;">ロシアのリャプコフ外務次官は２２日、ロシアは北大西洋条約機構（ＮＡＴＯ）や欧州連合（ＥＵ）を攻撃する意図はないと、法的拘束力のある文書で確認する用意があると述べた。ロシアの国営通信社ＲＩＡが伝えた。 bit.ly/4pS9MUJ <a href="https://bsky.app/profile/japan.reuters.com/post/3mallidks5f2q" target="_blank">japan.reuters.com</a> (2025-12-23 00:48:43)</span><span style="padding-right:50px;">Over a dozen Heritage Foundation employees recently walked away from their jobs.  Heritage has been wrapped in controversy after its president defended Tucker Carlson’s interview of Nick Fuentes, a white supremacist who routinely espouses antisemitic views.  <a href="https://bsky.app/profile/washingtonpost.com/post/3mallbzj5do25" target="_blank">washingtonpost.com</a> (2025-12-23 00:45:11)</span><span style="padding-right:50px;">Daiwa to raise M&A revenue target to 100 billion yen by 2031, CEO says reut.rs/4j9KwXe <a href="https://bsky.app/profile/reuters.com/post/3mallbzlq6r24" target="_blank">reuters.com</a> (2025-12-23 00:45:11)</span><span style="padding-right:50px;">Jimmy Kimmel will deliver the so-called alternative Christmas message, a uniquely British tradition, in which he will speak out against fascism on Britain’s Channel 4. <a href="https://bsky.app/profile/nytimes.com/post/3mallbrlcgq2r" target="_blank">nytimes.com</a> (2025-12-23 00:45:02)</span><span style="padding-right:50px;">The NBA is pursuing ownership groups for a potential basketball league in Europe <a href="https://bsky.app/profile/cnbc.com/post/3mallakymib2e" target="_blank">cnbc.com</a> (2025-12-23 00:44:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48328.43 (🔺116.55 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23417.02 (🔻33.51 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.46 (🔻0.46 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.05 (🔻0.70 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48368.01 (🔺156.13 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23408.07 (🔻42.46 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.32 (🔻0.60 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.98 (🔻0.77 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,97 +32,97 @@
 
 ## News Headlines
 
-- Circle CEO Jeremy Allaire shares 10-year vision for company
-- US halts offshore wind projects over national security concerns
-- Russia's top vaccine centre gets new head, a Sputnik developer
-- China finds dairy imports from EU are subsidised, affects domestic industry
-- Oracle's Larry Ellison backs $40.4 billion financing for Paramount's Warner Bros acquisition
-- Ferrari remains committed to internal combustion engines despite electrification plans
+- Russia Prepares to Confirm Intent Not to Attack NATO and EU in Binding Document
+- Heritage Foundation Employees Quit Amid Controversy Over Tucker Carlson Interview
+- Daiwa to Raise M&A Revenue Target to 100 Billion Yen by 2031
+- Jimmy Kimmel to Deliver Alternative Christmas Message in Britain
+- NVIDIA to Begin Shipping AI Chips to Chinese Customers in February
+- Actor James Ransone Dies at 46
 
 
 ----
 
-@yahoofinance.com
+@japan.reuters.com
 
-Circle CEO Jeremy Allaire shares his 10-year vision: We want to be foundational to the internet
+ロシアのリャプコフ外務次官は２２日、ロシアは北大西洋条約機構（ＮＡＴＯ）や欧州連合（ＥＵ）を攻撃する意図はないと、法的拘束力のある文書で確認する用意があると述べた。ロシアの国営通信社ＲＩＡが伝えた。 bit.ly/4pS9MUJ
 
-[2025-12-23 00:25:57](https://bsky.app/profile/yahoofinance.com/post/3malk7mrwt32h)
-
----
-
-@wsj.com
-
-We've reached the line on what Americans are willing to pay for a new car. on.wsj.com/4s20ZRt
-
-[2025-12-23 00:25:56](https://bsky.app/profile/wsj.com/post/3malk7m4cmk2g)
+[2025-12-23 00:48:43](https://bsky.app/profile/japan.reuters.com/post/3mallidks5f2q)
 
 ---
 
-@financialtimes.com
+@washingtonpost.com
 
-US halts offshore wind licences over national security concerns ft.trib.al/1xrTrOt
+Over a dozen Heritage Foundation employees recently walked away from their jobs.
 
-[2025-12-23 00:25:55](https://bsky.app/profile/financialtimes.com/post/3malk7lntqx2p)
+Heritage has been wrapped in controversy after its president defended Tucker Carlson’s interview of Nick Fuentes, a white supremacist who routinely espouses antisemitic views. 
+
+[2025-12-23 00:45:11](https://bsky.app/profile/washingtonpost.com/post/3mallbzj5do25)
 
 ---
 
 @reuters.com
 
-Sputnik developer becomes head of Russia's top vaccine centre reut.rs/4jd6jNW
+Daiwa to raise M&A revenue target to 100 billion yen by 2031, CEO says reut.rs/4j9KwXe
 
-[2025-12-23 00:25:12](https://bsky.app/profile/reuters.com/post/3malk6chkmf2o)
-
----
-
-@financialtimes.com
-
-The commerce ministry said in a preliminary decision on Monday that it had found dairy imports from the EU were subsidised and that China’s domestic industry 'suffered material injury' as a result. ft.trib.al/WgyxlQ7
-
-[2025-12-23 00:25:05](https://bsky.app/profile/financialtimes.com/post/3malk63lbig25)
-
----
-
-@nhknewsunofficial.bsky.social
-
-木原官房長官 韓国の国家安保室長と会談 緊密に連携で一致
-https://news.web.nhk/newsweb/na/na-k10015010781000
-
-[2025-12-23 00:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malk4cmhnu22)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】自転車に乗った男子高校生が軽自動車と衝突 頭がい骨を骨折する重傷 兵庫・福崎町
-(2025-12-23 00:22) #ニュース
-
-[2025-12-23 00:22:57](https://bsky.app/profile/sokuho.news/post/3malk2bovo52y)
-
----
-
-@japan.reuters.com
-
-関係筋によると、ロシアの今年の中国向け天然ガス輸出（パイプライン経由）は前年比で約２５％の増加となる見通し。 bit.ly/4auwrS6
-
-[2025-12-23 00:20:21](https://bsky.app/profile/japan.reuters.com/post/3maljvnbenl2q)
+[2025-12-23 00:45:11](https://bsky.app/profile/reuters.com/post/3mallbzlq6r24)
 
 ---
 
 @nytimes.com
 
-Larry Ellison, one the richest men in the world and the father of Paramount’s chief executive, made a personal guarantee to provide the roughly $40.4 billion in equity that the company is offering as part of its bid for Warner Bros. Discovery.
+Jimmy Kimmel will deliver the so-called alternative Christmas message, a uniquely British tradition, in which he will speak out against fascism on Britain’s Channel 4.
 
-[2025-12-23 00:20:02](https://bsky.app/profile/nytimes.com/post/3maljv2qv6k25)
+[2025-12-23 00:45:02](https://bsky.app/profile/nytimes.com/post/3mallbrlcgq2r)
 
 ---
 
-@cbsnews.com
+@cnbc.com
 
-The maker of Jim Beam bourbon whiskey said it plans to pause production at its main distillery in Kentucky starting Jan. 1.  
+The NBA is pursuing ownership groups for a potential basketball league in Europe
 
-[2025-12-23 00:20:01](https://bsky.app/profile/cbsnews.com/post/3maljuzvjve2j)
+[2025-12-23 00:44:22](https://bsky.app/profile/cnbc.com/post/3mallakymib2e)
+
+---
+
+@japan.reuters.com
+
+米半導体大手エヌビディアは人工知能（ＡＩ）向け先端半導体「Ｈ２００」について、中国の顧客に対し来年２月の春節（旧正月）連休前に出荷を開始することを目指している。関係筋３人がロイターに対し明らかにした。 bit.ly/3KH6Db6
+
+[2025-12-23 00:44:20](https://bsky.app/profile/japan.reuters.com/post/3mallaj2pt72c)
+
+---
+
+@usatoday.com
+
+James Ransone, an actor who starred on "The Wire" and "Poker Face" and also appeared in films such as "It: Chapter Two" and "Black Phone," has died. He was 46. bit.ly/4qkgkLv
+
+[2025-12-23 00:43:26](https://bsky.app/profile/usatoday.com/post/3mall6vur6l2z)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Élysée Palace staff member to stand trial over theft of precious tableware 
+
+[2025-12-23 00:42:45](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mall5ovat427)
+
+---
+
+@wsj.com
+
+Some of the fastest-growing careers lie in tech-infused, middle-skill roles. If only more people knew about them.
+
+🔗: on.wsj.com/4pEOQjO
+
+[2025-12-23 00:42:08](https://bsky.app/profile/wsj.com/post/3mall4lgtev2h)
+
+---
+
+@axios.com
+
+The DHS is offering a $3,000 "holiday stipend" to self-deport by 2026
+
+[2025-12-23 00:42:07](https://bsky.app/profile/axios.com/post/3mall4jxt5c2x)
 
 ---
 
