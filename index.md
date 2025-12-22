@@ -1,9 +1,9 @@
-# [2025-12-23 08:30 updated](2025_12_23.md)
+# [2025-12-23 08:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-23 08:29:17) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mamfa46xbc2b" target="_blank">sokuho.news</a> (2025-12-23 08:29:24)</span><span style="padding-right:50px;">An apparently frustrated federal judge pressed the Trump administration to share what it was going to do next in the saga over Kilmar Abrego Garcia days after she found he was being unlawfully held in immigration custody: https://cnn.it/4b4hyWT <a href="https://bsky.app/profile/cnn.com/post/3mamf7gyggq2q" target="_blank">cnn.com</a> (2025-12-23 08:29:01)</span><span style="padding-right:50px;">サッカーのフランス１部、モナコは２２日、日本代表ＭＦ南野拓実が左膝の前十字靱帯を断裂していることを発表した。 bit.ly/4j7Gpeo <a href="https://bsky.app/profile/japan.reuters.com/post/3mamf45ksmv22" target="_blank">japan.reuters.com</a> (2025-12-23 08:27:11)</span><span style="padding-right:50px;">German tax revenues down 1.3% in November, finance ministry says reut.rs/4pQufcm <a href="https://bsky.app/profile/reuters.com/post/3mameyjtqtr2c" target="_blank">reuters.com</a> (2025-12-23 08:25:09)</span><span style="padding-right:50px;">ウクライナ南部オデーサ州の港湾およびエネルギーインフラでロシア軍が夜間攻撃を実施し、主要港で火災が発生したほか、数万人が停電に見舞われた。ウクライナのクレバ副首相が２２日、明らかにした。 bit.ly/3MLE6BP <a href="https://bsky.app/profile/japan.reuters.com/post/3mamepvwan427" target="_blank">japan.reuters.com</a> (2025-12-23 08:20:20)</span>
+<span style="padding-right:50px;">Democratic-led states sue to block US consumer watchdog's defunding under Trump reut.rs/4s1Pk58 <a href="https://bsky.app/profile/reuters.com/post/3mamg4f3ibg2s" target="_blank">reuters.com</a> (2025-12-23 08:45:13)</span><span style="padding-right:50px;">Trump says U.S. will keep the crude oil and tankers seized near Venezuela <a href="https://bsky.app/profile/cnbc.com/post/3mamfyes42t2e" target="_blank">cnbc.com</a> (2025-12-23 08:42:58)</span><span style="padding-right:50px;">ニューヨーク外為市場では、円が対ドルで上昇した。政府・日銀による円買い・ドル売りの為替介入の実施が引き続き意識される中、三村淳財務官が「為替の一方向で急激な動き」を憂慮していると発言。日本当局が為替介入を実施する用意を示唆した可能性が高いとの見方が市場で広がった。 bit.ly/4qrihGg <a href="https://bsky.app/profile/japan.reuters.com/post/3mamftlfxdj2q" target="_blank">japan.reuters.com</a> (2025-12-23 08:40:17)</span><span style="padding-right:50px;">Trump pulls 30 envoys in ‘America First’ push, critics say it weakens US abroad reut.rs/45l3tAA <a href="https://bsky.app/profile/reuters.com/post/3mamftgptww2s" target="_blank">reuters.com</a> (2025-12-23 08:40:12)</span><span style="padding-right:50px;">At a New York City training, educators explored how artificial intelligence could support teaching, while also discussing their concerns around the technology. <a href="https://bsky.app/profile/nbcnews.com/post/3mamftdx2p72r" target="_blank">nbcnews.com</a> (2025-12-23 08:40:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.88 (🔻0.13 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.85 (🔻0.15 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,99 +32,95 @@
 
 ## News Headlines
 
-- US judge presses Trump administration on detention of Kilmar Abrego Garcia
-- Monaco's French Ligue 1 side confirms Japan international midfielder Takefusa Kubo has ruptured his left ACL
-- Ukraine's southern Odessa region hit by Russian attacks, major port fire and power outage
-- Kansas City Chiefs to move to Kansas in 2031
-- FDA approves first GLP-1 pill for obesity from Novo Nordisk
-- Alphabet to acquire Intersect for $4.75 billion, expanding in clean energy
+- Democratic-led states sue to block US consumer watchdog's defunding under Trump
+- Trump says US will keep seized oil and tankers near Venezuela
+- NYC educators explore AI in teaching, discuss concerns
+- Syrian government and Kurdish-led forces order ceasefire following clashes
+- FDA approves daily pill version of weight-loss drug Wegovy
+- US economy is slowing, Invesco predicts, tipping Europe to outperform
 
 
 ----
 
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-23 08:29:17) #緊急地震速報
-
-[2025-12-23 08:29:24](https://bsky.app/profile/sokuho.news/post/3mamfa46xbc2b)
-
----
-
-@cnn.com
-
-An apparently frustrated federal judge pressed the Trump administration to share what it was going to do next in the saga over Kilmar Abrego Garcia days after she found he was being unlawfully held in immigration custody: https://cnn.it/4b4hyWT
-
-[2025-12-23 08:29:01](https://bsky.app/profile/cnn.com/post/3mamf7gyggq2q)
-
----
-
-@japan.reuters.com
-
-サッカーのフランス１部、モナコは２２日、日本代表ＭＦ南野拓実が左膝の前十字靱帯を断裂していることを発表した。 bit.ly/4j7Gpeo
-
-[2025-12-23 08:27:11](https://bsky.app/profile/japan.reuters.com/post/3mamf45ksmv22)
-
----
-
 @reuters.com
 
-German tax revenues down 1.3% in November, finance ministry says reut.rs/4pQufcm
+Democratic-led states sue to block US consumer watchdog's defunding under Trump reut.rs/4s1Pk58
 
-[2025-12-23 08:25:09](https://bsky.app/profile/reuters.com/post/3mameyjtqtr2c)
-
----
-
-@japan.reuters.com
-
-ウクライナ南部オデーサ州の港湾およびエネルギーインフラでロシア軍が夜間攻撃を実施し、主要港で火災が発生したほか、数万人が停電に見舞われた。ウクライナのクレバ副首相が２２日、明らかにした。 bit.ly/3MLE6BP
-
-[2025-12-23 08:20:20](https://bsky.app/profile/japan.reuters.com/post/3mamepvwan427)
-
----
-
-@nbcnews.com
-
-The Kansas City Chiefs will leave their longtime home in Missouri and play in neighboring Kansas starting in 2031, team officials say.
-
-[2025-12-23 08:20:08](https://bsky.app/profile/nbcnews.com/post/3mamepkkb7x23)
+[2025-12-23 08:45:13](https://bsky.app/profile/reuters.com/post/3mamg4f3ibg2s)
 
 ---
 
 @cnbc.com
 
-FDA approves first GLP-1 pill for obesity from Novo Nordisk
+Trump says U.S. will keep the crude oil and tankers seized near Venezuela
 
-[2025-12-23 08:16:53](https://bsky.app/profile/cnbc.com/post/3mamejpsap62b)
+[2025-12-23 08:42:58](https://bsky.app/profile/cnbc.com/post/3mamfyes42t2e)
 
 ---
 
 @japan.reuters.com
 
-グーグルの親会社アルファベットは２２日、クリーンエネルギー開発を手がけるインターセクトを、債務を含めて現金４７億５０００万ドルで買収すると発表した。 bit.ly/4p4iHkB
+ニューヨーク外為市場では、円が対ドルで上昇した。政府・日銀による円買い・ドル売りの為替介入の実施が引き続き意識される中、三村淳財務官が「為替の一方向で急激な動き」を憂慮していると発言。日本当局が為替介入を実施する用意を示唆した可能性が高いとの見方が市場で広がった。 bit.ly/4qrihGg
 
-[2025-12-23 08:16:17](https://bsky.app/profile/japan.reuters.com/post/3mameinkqsd2p)
+[2025-12-23 08:40:17](https://bsky.app/profile/japan.reuters.com/post/3mamftlfxdj2q)
 
 ---
 
 @reuters.com
 
-Jets sticking with Brady Cook as starting QB vs. Patriots reut.rs/3Y4PcEp
+Trump pulls 30 envoys in ‘America First’ push, critics say it weakens US abroad reut.rs/45l3tAA
 
-[2025-12-23 08:15:12](https://bsky.app/profile/reuters.com/post/3mamegpx5de2x)
+[2025-12-23 08:40:12](https://bsky.app/profile/reuters.com/post/3mamftgptww2s)
 
 ---
 
-@washingtonpost.com
+@nbcnews.com
 
-George Conway, a onetime supporter of President Donald Trump who has become a vocal critic in recent years, has filed paperwork to run for an open congressional seat in New York City.
+At a New York City training, educators explored how artificial intelligence could support teaching, while also discussing their concerns around the technology.
 
-[2025-12-23 08:15:05](https://bsky.app/profile/washingtonpost.com/post/3mamegixr5y2p)
+[2025-12-23 08:40:09](https://bsky.app/profile/nbcnews.com/post/3mamftdx2p72r)
+
+---
+
+@en.afp.com
+
+The Syrian government and Kurdish-led forces order their fighters to cease fire following deadly clashes that came as Turkey's top diplomat urged the Kurds to integrate into the Syrian army ⤵️ 
+
+u.afp.com/S8Nx
+
+[2025-12-23 08:40:01](https://bsky.app/profile/en.afp.com/post/3mamft3zcfd2y)
+
+---
+
+@cnn.com
+
+The FDA has approved a daily pill version of the weight-loss drug Wegovy, introducing a new option for how patients can take medicines in a class of drugs that has revolutionized obesity treatment: https://cnn.it/4p1TOG9
+
+[2025-12-23 08:39:04](https://bsky.app/profile/cnn.com/post/3mamfrftpty2q)
+
+---
+
+@japan.reuters.com
+
+＜０８：２１＞　寄り前の板状況、ＳＯＭＰＯ　ＨＬＤＧが買い優勢　中電工は売り優勢 bit.ly/3YEGg8K
+
+[2025-12-23 08:38:37](https://bsky.app/profile/japan.reuters.com/post/3mamfqlmnye2c)
+
+---
+
+@nytimes.com
+
+"I am fussy when it comes to Manhattans and I have experimented with lots of different ingredients. But hand down this one really is the best I have made or had! dangerously delicious!" nyti.ms/4s9T3Ok
+
+[2025-12-23 08:38:05](https://bsky.app/profile/nytimes.com/post/3mamfpn4wcl2r)
+
+---
+
+@cnbc.com
+
+‘No doubt’ U.S. economy is slowing, Invesco says, tipping Europe to outperform
+
+[2025-12-23 08:36:26](https://bsky.app/profile/cnbc.com/post/3mamfmoxxhl2g)
 
 ---
 
