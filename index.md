@@ -1,9 +1,9 @@
-# [2025-12-23 04:50 updated](2025_12_23.md)
+# [2025-12-23 05:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Norway's McGrath wins men's slalom in Alta Badia reut.rs/3Y5vcS7 <a href="https://bsky.app/profile/reuters.com/post/3malypbq53r2r" target="_blank">reuters.com</a> (2025-12-23 04:45:14)</span><span style="padding-right:50px;">If you’ve procrastinated in buying a gift, don’t panic. These great last-minute finds from Wirecutter can be picked up in minutes or be delivered straight to their doorstep in two days or less. <a href="https://bsky.app/profile/nytimes.com/post/3malyoyy2em2y" target="_blank">nytimes.com</a> (2025-12-23 04:45:05)</span><span style="padding-right:50px;">The charts show a possible breakout in this insurance stock, says Katie Stockton <a href="https://bsky.app/profile/cnbc.com/post/3malyoaamip2b" target="_blank">cnbc.com</a> (2025-12-23 04:44:39)</span><span style="padding-right:50px;">シンクタンクのロジウム・グループは、中国経済の２０２５年の成長率は２．５─３％にとどまったとの推計を発表した。これは公式データが示唆するペースのほぼ半分となる。年後半の固定資産投資の落ち込みが響いたという。 bit.ly/3MN5j77 <a href="https://bsky.app/profile/japan.reuters.com/post/3malygjswyd2c" target="_blank">japan.reuters.com</a> (2025-12-23 04:40:21)</span><span style="padding-right:50px;">Coinbase doubles down on prediction markets with deal for The Clearing Company reut.rs/4s5Ir2V <a href="https://bsky.app/profile/reuters.com/post/3malygiu5y32i" target="_blank">reuters.com</a> (2025-12-23 04:40:20)</span>
+<span style="padding-right:50px;">米連邦準備理事会（ＦＲＢ）のミラン理事は２２日、近い将来における景気後退リスクはみられないとしつつも、「金利を下方に調整しなければ、景気後退リスクが高まる」という認識を示した。 bit.ly/497MTFB <a href="https://bsky.app/profile/japan.reuters.com/post/3malzygbnud2v" target="_blank">japan.reuters.com</a> (2025-12-23 05:08:15)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:日高地方東部, 深さ:50km マグニチュード:3.7, 最大震度:2 📍https://www.google.com/maps?q=42.3,143.0&ll=42.3,143.0&z=7&t=h 地震発生日時:2025-12-23 05:03頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3malzwd3koa2e" target="_blank">sokuho.news</a> (2025-12-23 05:07:04)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  5時3分頃、北海道で最大震度2の地震を観測しました。 震源:日高地方東部, 深さ:50km, 規模:M3.7 この地震による津波の心配はありません。 (2025-12-23 05:06:38) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/23/2025-12-23-05-03-57.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3malzvkwp7y2e" target="_blank">sokuho.news</a> (2025-12-23 05:06:38)</span><span style="padding-right:50px;">政府 成長戦略策定で官房副長官トップの分科会 来月新設へ https://news.web.nhk/newsweb/na/na-k10015010871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malzujtzew2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 05:06:02)</span><span style="padding-right:50px;">LIVE: UN Security Council meets on Sudan in New York youtube.com/live/M399t8w... <a href="https://bsky.app/profile/reuters.com/post/3malzud7bkc2r" target="_blank">reuters.com</a> (2025-12-23 05:05:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48387.82 (🔺175.94 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23430.97 (🔻19.56 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.35 (🔻0.57 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.95 (🔻0.80 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48388.56 (🔺176.68 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23422.40 (🔻28.13 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.27 (🔻0.65 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.95 (🔻0.80 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,124 +32,127 @@
 
 ## News Headlines
 
-- Norway's McGrath wins men's slalom in Alta Badia
-- Last-minute gift ideas from Wirecutter
-- China's 2025 economic growth rate estimated at 2.5-3%
-- Coinbase acquires The Clearing Company for prediction markets
-- Trump's appointment of Greenland envoy sparks row with Denmark
-- Banksy unveils new artwork in central London
-- Mercedes reaches $150 million settlement with US states over diesel scandal
-- Powerful tax-free investment option for people with disabilities
-- Oil loading in Venezuela slows due to US interceptions
-- Maury Povich on his return to fame
-- Mid-Atlantic residents face high electricity bills
-- Russia escalates attacks on key Ukrainian region of Odesa
-- Turning Point USA resonates with women after Charlie Kirk's assassination
-- Popular Filipino dish Lechon Kawali
-- Chris Rea, singer of 'Driving Home for Christmas', dies at 74
-- Uncomfortable Instagram messages and emotional outbursts paint picture of coach
-- Feds see low risk of near-term recession
-- UK's Reeves sets March 3 as date for next economic forecasts
-- Viewing line for Monday night's game stretches to Minnesota-Iowa border
-- President Trump reshapes America's climate and energy landscape
-- London stock market ends mixed
-- NYSE's Jay Woods on 'Magnificent Seven' stock breaking out
-- Preppy brand becomes one of today's most coveted
-- Alphabet to buy clean energy developer Intersect
-- Barry Manilow diagnosed with lung cancer
-- Mexico antitrust commission to revise Volaris-Viva Aerobus tie-up
-- How to play Connections
-- Crypto laments loss of key ally on Capitol Hill
-- Man arrested for fatal bow and arrow shooting in New Jersey
-- AI spending drives global tech debt issuance to record high
-- CBS pulls 60 Minutes segment
-- Child psychologist reveals key to raising emotionally intelligent kids
-- Cancellation of USAID funding leaves victims vulnerable in Congo
-- Copper supply needed for green energy and AI boom
+- US Federal Reserve Official Sees No Imminent Economic Contraction, But Warns of Rising Risk
+- Magnitude 3.7 Earthquake Hits Hokkaido, Japan
+- Japan's Government to Establish a New Subcommittee for Formulating Growth Strategy
+- UN Security Council Holds Emergency Meeting on Sudan
+- NFL Playoff Picture Takes Shape, With Jaguars Joining the Race for the Top Spot in the AFC
+- UPS Faces Challenges as Holiday Season Approaches Amid Shifting Trade Rules
 
 
 ----
 
-@reuters.com
-
-Norway's McGrath wins men's slalom in Alta Badia reut.rs/3Y5vcS7
-
-[2025-12-23 04:45:14](https://bsky.app/profile/reuters.com/post/3malypbq53r2r)
-
----
-
-@nytimes.com
-
-If you’ve procrastinated in buying a gift, don’t panic. These great last-minute finds from Wirecutter can be picked up in minutes or be delivered straight to their doorstep in two days or less.
-
-[2025-12-23 04:45:05](https://bsky.app/profile/nytimes.com/post/3malyoyy2em2y)
-
----
-
-@cnbc.com
-
-The charts show a possible breakout in this insurance stock, says Katie Stockton
-
-[2025-12-23 04:44:39](https://bsky.app/profile/cnbc.com/post/3malyoaamip2b)
-
----
-
 @japan.reuters.com
 
-シンクタンクのロジウム・グループは、中国経済の２０２５年の成長率は２．５─３％にとどまったとの推計を発表した。これは公式データが示唆するペースのほぼ半分となる。年後半の固定資産投資の落ち込みが響いたという。 bit.ly/3MN5j77
+米連邦準備理事会（ＦＲＢ）のミラン理事は２２日、近い将来における景気後退リスクはみられないとしつつも、「金利を下方に調整しなければ、景気後退リスクが高まる」という認識を示した。 bit.ly/497MTFB
 
-[2025-12-23 04:40:21](https://bsky.app/profile/japan.reuters.com/post/3malygjswyd2c)
+[2025-12-23 05:08:15](https://bsky.app/profile/japan.reuters.com/post/3malzygbnud2v)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:日高地方東部, 深さ:50km
+マグニチュード:3.7, 最大震度:2
+📍https://www.google.com/maps?q=42.3,143.0&ll=42.3,143.0&z=7&t=h
+地震発生日時:2025-12-23 05:03頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-23 05:07:04](https://bsky.app/profile/sokuho.news/post/3malzwd3koa2e)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+5時3分頃、北海道で最大震度2の地震を観測しました。
+震源:日高地方東部, 深さ:50km, 規模:M3.7
+この地震による津波の心配はありません。
+(2025-12-23 05:06:38) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/23/2025-12-23-05-03-57.html?xlarge_image=1
+
+[2025-12-23 05:06:38](https://bsky.app/profile/sokuho.news/post/3malzvkwp7y2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+政府 成長戦略策定で官房副長官トップの分科会 来月新設へ
+https://news.web.nhk/newsweb/na/na-k10015010871000
+
+[2025-12-23 05:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malzujtzew2b)
 
 ---
 
 @reuters.com
 
-Coinbase doubles down on prediction markets with deal for The Clearing Company reut.rs/4s5Ir2V
+LIVE: UN Security Council meets on Sudan in New York youtube.com/live/M399t8w...
 
-[2025-12-23 04:40:20](https://bsky.app/profile/reuters.com/post/3malygiu5y32i)
-
----
-
-@nbcnews.com
-
-@nbcselect.nbcnews.com rounded up the best holiday gifts that will still arrive in time.
-
-[2025-12-23 04:40:16](https://bsky.app/profile/nbcnews.com/post/3malygfrd442k)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Trump's appointment of Greenland envoy sparks fresh row with Denmark
-
-[2025-12-23 04:38:23](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3malyd2bvho2a)
-
----
-
-@en.afp.com
-
-British street artist Banksy unveils his latest work in central London, amid speculation over an identical second black and white mural which has appeared elsewhere in the city
-🇬🇧 🧑🏼
-
-u.afp.com/S8Nk
-
-[2025-12-23 04:38:01](https://bsky.app/profile/en.afp.com/post/3malyceqgf72v)
-
----
-
-@cnn.com
-
-Singer Barry Manilow has been diagnosed with lung cancer and is rescheduling his January arena concerts https://cnn.it/44EOeSS
-
-[2025-12-23 04:36:32](https://bsky.app/profile/cnn.com/post/3maly7pppzw2c)
+[2025-12-23 05:05:57](https://bsky.app/profile/reuters.com/post/3malzud7bkc2r)
 
 ---
 
 @reuters.com
 
-Mercedes reaches $150 million settlement with US states over diesel scandal reut.rs/49ubTXZ
+NFL Playoff Picture: NFC nearly set, Jaguars join race for No. 1 in AFC reut.rs/45e6jr7
 
-[2025-12-23 04:35:11](https://bsky.app/profile/reuters.com/post/3maly5cknet2s)
+[2025-12-23 05:05:10](https://bsky.app/profile/reuters.com/post/3malzswbymm2i)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像5🈡
+(2025-12-23 05:04:36) #緊急地震速報
+
+[2025-12-23 05:04:43](https://bsky.app/profile/sokuho.news/post/3malzs442j52a)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3
+(2025-12-23 05:04:20) #緊急地震速報
+
+[2025-12-23 05:04:28](https://bsky.app/profile/sokuho.news/post/3malzrnplgk2s)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-23 05:04:07) #緊急地震速報
+
+[2025-12-23 05:04:16](https://bsky.app/profile/sokuho.news/post/3malzrcv66u2b)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-23 05:04:01) #緊急地震速報
+
+[2025-12-23 05:04:09](https://bsky.app/profile/sokuho.news/post/3malzr4grnk2y)
 
 ---
 
