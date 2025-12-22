@@ -1,9 +1,9 @@
-# [2025-12-22 20:30 updated](2025_12_22.md)
+# [2025-12-22 20:50 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Who is Coty's new interim CEO? reut.rs/4j7f9gh <a href="https://bsky.app/profile/reuters.com/post/3mal4r2wlw42x" target="_blank">reuters.com</a> (2025-12-22 20:25:09)</span><span style="padding-right:50px;">2025年 注目ニュースふりかえり 物価高や猛暑 スポーツも https://news.web.nhk/newsweb/na/na-k10015009441000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mal4p4wsh22y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 20:24:02)</span><span style="padding-right:50px;">Netflix secured a $5 billion revolving credit facility and two $10 billion delayed-draw term loans to refinance part of the bridge facility it took out for its bid for Warner Bros. Read more: bloom.bg/4qm4QHu  📷️: Ethan Swope/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3mal4j5lfmq2x" target="_blank">bloomberg.com</a> (2025-12-22 20:20:44)</span><span style="padding-right:50px;">人民元建ての債券や融資が伸びている。低い金利で人民元を資金調達通貨と化し、中国政府の推進する「人民元国際化」を後押ししている。 bit.ly/4pQWwQj <a href="https://bsky.app/profile/japan.reuters.com/post/3mal4iatgge2v" target="_blank">japan.reuters.com</a> (2025-12-22 20:20:14)</span><span style="padding-right:50px;">The U.S. Coast Guard is reportedly attempting to seize a third Venezuelan oil tanker in the Caribbean Sea, escalating its pressure campaign against the Nicholas Maduro regime.  <a href="https://bsky.app/profile/forbes.com/post/3mal4i3zcg42l" target="_blank">forbes.com</a> (2025-12-22 20:20:08)</span>
+<span style="padding-right:50px;">精神疾患で休職の教員7000人余“保護者のハラスメント”要因に https://news.web.nhk/newsweb/na/na-k10015010461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mal6226vm22b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 20:48:02)</span><span style="padding-right:50px;">India's November infrastructure output grows 1.8% y/y reut.rs/44J45zY <a href="https://bsky.app/profile/reuters.com/post/3mal5uvtvkz2b" target="_blank">reuters.com</a> (2025-12-22 20:45:12)</span><span style="padding-right:50px;">厚労省の「ケアマネジメント」一部有料化方針 大筋了承される https://news.web.nhk/newsweb/na/na-k10015010741000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mal5pci3ix2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 20:42:02)</span><span style="padding-right:50px;">モスクワ南部で２２日に自動車爆弾が爆発し、ロシア参謀本部陸軍作戦訓練局長ファニル・サルバロフ中将が死亡した。ロシア捜査当局が発表した。ウクライナ諜報機関が関わった疑いもあるという。 bit.ly/4aud4IS <a href="https://bsky.app/profile/japan.reuters.com/post/3mal5m3yl6p27" target="_blank">japan.reuters.com</a> (2025-12-22 20:40:16)</span><span style="padding-right:50px;">Sovereignty of Kingdom of Denmark must be preserved, EU spokesperson says reut.rs/4saLabf <a href="https://bsky.app/profile/reuters.com/post/3mal5lw4ewz2b" target="_blank">reuters.com</a> (2025-12-22 20:40:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.38 (🔻0.38 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.41 (🔻0.34 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,105 +32,117 @@
 
 ## News Headlines
 
-- Coty Names New Interim CEO
-- Japan's JAXA Misfires on H3 Rocket Launch
-- US Coast Guard Seizes Third Venezuelan Oil Tanker
-- Russia Denies Putin's Goal to Annex Ukraine
-- Wall Street Strategists Predict 2026 Market Trends
-- Thailand Urges Cambodia to Implement Border Agreement
-- Russia's Gas Exports to China to Increase by 25%
-- V. Falken's Mateus and Yago Receive J2 Awards
-- Brazil's Banco do Brasil Exceeds FDI Expectations
-- EU to Investigate Czech State Support for Nuclear Units
-- Russian General Killed in Moscow Car Bomb
-- Australian PM Apologizes for Bondi Attack
-- American Airlines Ends Basic Economy Rewards
-- Malaysia Urges Thailand and Cambodia to Implement ASEAN Agreement
-- Earthquake Hits Papua New Guinea with Magnitude 6.4
+- 7000+ Teachers on Leave Due to Mental Illness Face Harassment from Parents
+- India's November Infrastructure Output Grows 1.8% Y/Y
+- Japan's Care Management Policy Partially Privatized
+- Russian General Killed in Moscow Car Bombing, Ukraine Suspected
+- US Coast Guard Seizes Another Tanker, Escalating Pressure on Venezuela
+- India and New Zealand Conclude Free Trade Agreement
+- Russia's Natural Gas Exports to China to Increase by 25%
+- French Prime Minister Races to Pass Stopgap Budget Law
+- Thailand and Cambodia to Hold Border Talks
+- Venezuela Oil Tanker Seized by US Coast Guard
+- Lululemon's Turnaround Will Require More Than Just Management
+- Japan's Rocket Launch Fails with MICHIBIKI 5 Satellite
+- People's Bank of China's Dollar-Swap Facility Grows
+- US Dollar Faces Bleak Outlook in 2026
+- Netflix Secures $15 Billion in Credit Facility
+- Brazil's Foreign Direct Investment Surpasses Expectations
+- Spanish Christmas Lottery Winners Celebrate
+- Hong Kong's Jimmy Lai Found Guilty of Sedition
+- Russia's Prisons Fill Up Again with Detainees
+- Thai Footballer V. Matheus Wins J2 Best Eleven Award
+- Cambodian Footballer V. Matheus Wins J2 Most Valuable Player Award
+- Tokyo Stock Market Continues to Rise
+- US Share of People with Severe Mental Illness Increases
+- Russia Denies Putin's Goal to Conquer Ukraine
+- French Prime Minister Fights to Pass Budget Law
+- Thailand and Cambodia to Hold Border Talks
+- Russian General Killed in Moscow Car Bombing
 
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+精神疾患で休職の教員7000人余“保護者のハラスメント”要因に
+https://news.web.nhk/newsweb/na/na-k10015010461000
+
+[2025-12-22 20:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mal6226vm22b)
+
+---
+
 @reuters.com
 
-Who is Coty's new interim CEO? reut.rs/4j7f9gh
+India's November infrastructure output grows 1.8% y/y reut.rs/44J45zY
 
-[2025-12-22 20:25:09](https://bsky.app/profile/reuters.com/post/3mal4r2wlw42x)
+[2025-12-22 20:45:12](https://bsky.app/profile/reuters.com/post/3mal5uvtvkz2b)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-2025年 注目ニュースふりかえり 物価高や猛暑 スポーツも
-https://news.web.nhk/newsweb/na/na-k10015009441000
+厚労省の「ケアマネジメント」一部有料化方針 大筋了承される
+https://news.web.nhk/newsweb/na/na-k10015010741000
 
-[2025-12-22 20:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mal4p4wsh22y)
-
----
-
-@bloomberg.com
-
-Netflix secured a $5 billion revolving credit facility and two $10 billion delayed-draw term loans to refinance part of the bridge facility it took out for its bid for Warner Bros. Read more: bloom.bg/4qm4QHu
-
-📷️: Ethan Swope/Bloomberg
-
-[2025-12-22 20:20:44](https://bsky.app/profile/bloomberg.com/post/3mal4j5lfmq2x)
+[2025-12-22 20:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mal5pci3ix2y)
 
 ---
 
 @japan.reuters.com
 
-人民元建ての債券や融資が伸びている。低い金利で人民元を資金調達通貨と化し、中国政府の推進する「人民元国際化」を後押ししている。 bit.ly/4pQWwQj
+モスクワ南部で２２日に自動車爆弾が爆発し、ロシア参謀本部陸軍作戦訓練局長ファニル・サルバロフ中将が死亡した。ロシア捜査当局が発表した。ウクライナ諜報機関が関わった疑いもあるという。 bit.ly/4aud4IS
 
-[2025-12-22 20:20:14](https://bsky.app/profile/japan.reuters.com/post/3mal4iatgge2v)
-
----
-
-@forbes.com
-
-The U.S. Coast Guard is reportedly attempting to seize a third Venezuelan oil tanker in the Caribbean Sea, escalating its pressure campaign against the Nicholas Maduro regime. 
-
-[2025-12-22 20:20:08](https://bsky.app/profile/forbes.com/post/3mal4i3zcg42l)
-
----
-
-@wsj.com
-
-A turnaround at Lululemon will take more than just management chops, writes Heard on the Street columnist Jinjoo Lee.
-
-[2025-12-22 20:17:28](https://bsky.app/profile/wsj.com/post/3mal4dcqz7g2c)
-
----
-
-@japan.reuters.com
-
-宇宙航空研究開発機構（ＪＡＸＡ）の山川宏理事長は２２日午後に開いた記者会見で、同日午前に行ったＨ３ロケット８号機による準天頂衛星システム「みちびき５号機」の打ち上げに失敗したと語った。 bit.ly/4s9RY95
-
-[2025-12-22 20:15:14](https://bsky.app/profile/japan.reuters.com/post/3mal47d6wqq2c)
+[2025-12-22 20:40:16](https://bsky.app/profile/japan.reuters.com/post/3mal5m3yl6p27)
 
 ---
 
 @reuters.com
 
-Dire year for dollar has little light at end of tunnel in 2026 reut.rs/48RHVOt
+Sovereignty of Kingdom of Denmark must be preserved, EU spokesperson says reut.rs/4saLabf
 
-[2025-12-22 20:15:10](https://bsky.app/profile/reuters.com/post/3mal477jbgb2b)
-
----
-
-@japan.reuters.com
-
-ロシア大統領府のぺスコフ報道官は２２日、プーチン大統領がウクライナ全土を掌握し、旧ソ連に属していた欧州の一部地域を取り戻そうとしているとの見方を否定した。 bit.ly/3YE1T9d
-
-[2025-12-22 20:14:46](https://bsky.app/profile/japan.reuters.com/post/3mal46ifzsp27)
+[2025-12-22 20:40:10](https://bsky.app/profile/reuters.com/post/3mal5lw4ewz2b)
 
 ---
 
-@cnbc.com
+@en.afp.com
 
-Here’s where the stock market is headed in 2026, according to Wall Street’s top strategists
+🇺🇸 🇻🇪 The US Coast Guard is pursuing another allegedly sanctioned tanker, as Washington ramps up its pressure campaign targeting Venezuela's vital oil sector. 
+➡️ u.afp.com/S8pZ
 
-[2025-12-22 20:12:39](https://bsky.app/profile/cnbc.com/post/3mal42pch3y2e)
+[2025-12-22 20:40:02](https://bsky.app/profile/en.afp.com/post/3mal5loakjl2u)
+
+---
+
+@cbsnews.com
+
+A Russian general was killed when a bomb detonated under his car in Moscow and investigators said Ukraine  could be behind the attack.  
+
+[2025-12-22 20:36:08](https://bsky.app/profile/cbsnews.com/post/3mal5eownm22a)
+
+---
+
+@wsj.com
+
+Russian prisoners of war who return to Russia are isolated from their families for as long as a month while authorities interrogate them. Most are then sent back to their units.
+
+[2025-12-22 20:35:25](https://bsky.app/profile/wsj.com/post/3mal5dgc3ko2t)
+
+---
+
+@npr.org
+
+More immigrants are not showing up for their mandatory immigration court hearings compared to prior years, an NPR analysis shows, allowing the government to order their immediate deportation. n.pr/4saLnem
+
+[2025-12-22 20:35:23](https://bsky.app/profile/npr.org/post/3mal5de4xuw2i)
+
+---
+
+@reuters.com
+
+Tanker pursuit, 2026 immigration and UK asylum hotels reut.rs/3LfpNou
+
+[2025-12-22 20:35:08](https://bsky.app/profile/reuters.com/post/3mal5cvhupb2b)
 
 ---
 
