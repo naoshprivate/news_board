@@ -1,9 +1,9 @@
-# [2025-12-22 22:50 updated](2025_12_22.md)
+# [2025-12-22 23:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">CACI expands space, defense footprint with $2.6 billion ARKA buy reut.rs/4p8MHf8 <a href="https://bsky.app/profile/reuters.com/post/3malelg23dk2b" target="_blank">reuters.com</a> (2025-12-22 22:45:09)</span><span style="padding-right:50px;">Brick trophies, a life-size pink Cadillac and a team sponsorship: Why Lego is going all in on F1 <a href="https://bsky.app/profile/cnbc.com/post/3malejz3hmo2i" target="_blank">cnbc.com</a> (2025-12-22 22:44:23)</span><span style="padding-right:50px;">Fastenal CEO Daniel Florness to step down in July 2026 reut.rs/4p6FjkA <a href="https://bsky.app/profile/reuters.com/post/3malecjanbg2i" target="_blank">reuters.com</a> (2025-12-22 22:40:11)</span><span style="padding-right:50px;">Warner Bros. Discovery requested a guarantee from the world’s third-richest person after Paramount’s hostile takeover offer. <a href="https://bsky.app/profile/forbes.com/post/3malecgkv5a2w" target="_blank">forbes.com</a> (2025-12-22 22:40:08)</span><span style="padding-right:50px;">🇨🇭 A Swiss court has decided to hear a landmark climate case pitting residents of a tiny Indonesian island being swallowed by rising sea levels against cement giant Holcim, NGOs helping the islanders said Monday.  ➡️ u.afp.com/S8pA <a href="https://bsky.app/profile/en.afp.com/post/3malec7orfp2u" target="_blank">en.afp.com</a> (2025-12-22 22:40:01)</span>
+<span style="padding-right:50px;">Court documents reveal what police say were the movements and motivation of the Bondi Beach terror suspects in the months, days and minutes before the attack. <a href="https://bsky.app/profile/wsj.com/post/3malfsnrlt72h" target="_blank">wsj.com</a> (2025-12-22 23:07:06)</span><span style="padding-right:50px;">Paramount revises its bid for Warner Bros. Discovery, with Oracle founder Larry Ellison personally guaranteeing $40 billion to help finance the deal https://cnn.it/4pbpxoH <a href="https://bsky.app/profile/cnn.com/post/3malfsig3gr23" target="_blank">cnn.com</a> (2025-12-22 23:07:01)</span><span style="padding-right:50px;">European investment banks fail to capitalise on Trump Tariff turmoil reut.rs/4qmdQfI <a href="https://bsky.app/profile/reuters.com/post/3malfp6zoqo2o" target="_blank">reuters.com</a> (2025-12-22 23:05:10)</span><span style="padding-right:50px;">President Trump’s appointment of a special envoy for Greenland drew an angry response from Denmark and reignited its concerns about U.S. efforts to control the strategic Arctic territory. <a href="https://bsky.app/profile/wsj.com/post/3malfoblvdy2e" target="_blank">wsj.com</a> (2025-12-22 23:04:39)</span><span style="padding-right:50px;">A northern English town loses its best choral singers to fighting in World War I but finds new hope in a time of loss through music in Nicholas Hytner's new film "The Choral," featuring Ralph Fiennes. n.pr/496WPiy <a href="https://bsky.app/profile/npr.org/post/3malfo7iutn24" target="_blank">npr.org</a> (2025-12-22 23:04:37)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.13 (🔻0.62 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.17 (🔻0.58 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,100 +32,98 @@
 
 ## News Headlines
 
-- CACI Expands Space, Defense Footprint with $2.6 Billion ARKA Buy
-- Lego Goes All In on F1 with Brick Trophies, Life-Size Pink Cadillac
-- Fastenal CEO Daniel Florness to Step Down in July 2026
-- Warner Bros. Discovery Seeks Guarantee from Warren Buffett after Paramount's Hostile Takeover Offer
-- Swiss Court to Hear Landmark Climate Case Pitting Indonesian Island Against Cement Giant Holcim
+- Bondi Beach Terror Suspects' Motivation and Movements Revealed
+- Trump Appoints Special Envoy to Greenland, Spurring Tensions with Denmark
 - US Pauses Five Offshore Wind Projects Over National Security Concerns
+- Larry Ellison Backs Warner Bros. Discovery Bid with $40 Billion Guarantee
+- European Regulators Crack Down on Big Tech
+- Swiss Court to Hear Landmark Climate Case Involving Indonesian Island
 
 
 ----
 
-@reuters.com
+@wsj.com
 
-CACI expands space, defense footprint with $2.6 billion ARKA buy reut.rs/4p8MHf8
+Court documents reveal what police say were the movements and motivation of the Bondi Beach terror suspects in the months, days and minutes before the attack.
 
-[2025-12-22 22:45:09](https://bsky.app/profile/reuters.com/post/3malelg23dk2b)
-
----
-
-@cnbc.com
-
-Brick trophies, a life-size pink Cadillac and a team sponsorship: Why Lego is going all in on F1
-
-[2025-12-22 22:44:23](https://bsky.app/profile/cnbc.com/post/3malejz3hmo2i)
+[2025-12-22 23:07:06](https://bsky.app/profile/wsj.com/post/3malfsnrlt72h)
 
 ---
 
-@reuters.com
+@cnn.com
 
-Fastenal CEO Daniel Florness to step down in July 2026 reut.rs/4p6FjkA
+Paramount revises its bid for Warner Bros. Discovery, with Oracle founder Larry Ellison personally guaranteeing $40 billion to help finance the deal
+https://cnn.it/4pbpxoH
 
-[2025-12-22 22:40:11](https://bsky.app/profile/reuters.com/post/3malecjanbg2i)
-
----
-
-@forbes.com
-
-Warner Bros. Discovery requested a guarantee from the world’s third-richest person after Paramount’s hostile takeover offer.
-
-[2025-12-22 22:40:08](https://bsky.app/profile/forbes.com/post/3malecgkv5a2w)
-
----
-
-@en.afp.com
-
-🇨🇭 A Swiss court has decided to hear a landmark climate case pitting residents of a tiny Indonesian island being swallowed by rising sea levels against cement giant Holcim, NGOs helping the islanders said Monday. 
-➡️ u.afp.com/S8pA
-
-[2025-12-22 22:40:01](https://bsky.app/profile/en.afp.com/post/3malec7orfp2u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-都立公園でトイレの金属製の部品盗難が相次ぐ
-https://news.web.nhk/newsweb/na/na-k10015010851000
-
-[2025-12-22 22:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3male35nx7p2u)
+[2025-12-22 23:07:01](https://bsky.app/profile/cnn.com/post/3malfsig3gr23)
 
 ---
 
 @reuters.com
 
-Uniform retailer Cintas makes $5.2 billion bid for UniFirst reut.rs/49pAluw
+European investment banks fail to capitalise on Trump Tariff turmoil reut.rs/4qmdQfI
 
-[2025-12-22 22:35:10](https://bsky.app/profile/reuters.com/post/3maldzjvlxm2s)
+[2025-12-22 23:05:10](https://bsky.app/profile/reuters.com/post/3malfp6zoqo2o)
 
 ---
 
 @wsj.com
 
-Exclusive: Mike Pence’s political group is poaching top officials from the Heritage Foundation as the conservative movement continues to splinter.
+President Trump’s appointment of a special envoy for Greenland drew an angry response from Denmark and reignited its concerns about U.S. efforts to control the strategic Arctic territory.
 
-[2025-12-22 22:34:34](https://bsky.app/profile/wsj.com/post/3maldyhy47u23)
+[2025-12-22 23:04:39](https://bsky.app/profile/wsj.com/post/3malfoblvdy2e)
 
 ---
 
 @npr.org
 
-A daily preventive pill can be invaluable for people at risk for HIV. But some doctors don't know much about prescribing them. And billing headaches are common. Here's how to overcome those hurdles. n.pr/49mT6i6
+A northern English town loses its best choral singers to fighting in World War I but finds new hope in a time of loss through music in Nicholas Hytner's new film "The Choral," featuring Ralph Fiennes. n.pr/496WPiy
 
-[2025-12-22 22:33:36](https://bsky.app/profile/npr.org/post/3maldwqvftd2d)
+[2025-12-22 23:04:37](https://bsky.app/profile/npr.org/post/3malfo7iutn24)
 
 ---
 
 @nikkei.com
 
-ボンタンアメが尿意抑える!?　2025年「バズった」 商品振り返る
+対シリアODA、15年ぶり再開へ　生活インフラ再建を後押し
 www.nikkei.com/article/DGXZQO...
 
-ボンタンアメは3時間近い「国宝」対策で映画館近くのコンビニでは品薄になることも。
+#ニュース
 
-そのほか入手困難となった「ババアの粉」や「指輪型G-SHOCK」などについて記者が語り合いました。
+[2025-12-22 23:04:02](https://bsky.app/profile/nikkei.com/post/3malfn6fdnb2m)
 
-[2025-12-22 22:30:40](https://bsky.app/profile/nikkei.com/post/3maldris6xt2n)
+---
+
+@cnn.com
+
+They are still the rarest of Republicans – those who have spoken out and stood up to President Donald Trump over the past year, willfully saying something he rarely hears: No.
+https://cnn.it/4ap0Ukz
+
+[2025-12-22 23:00:54](https://bsky.app/profile/cnn.com/post/3malfhkry222o)
+
+---
+
+@washingtonpost.com
+
+CBS News abruptly pulled a “60 Minutes” segment on the Trump administration’s deportations of Venezuelan migrants to El Salvador’s CECOT prison after the Trump administration refused to grant an interview, according to an email obtained by The Post.
+
+[2025-12-22 23:00:53](https://bsky.app/profile/washingtonpost.com/post/3malfhjtfxy25)
+
+---
+
+@reuters.com
+
+Afreximbank, Heirs Energies seal $750 million financing deal to boost Nigeria's oil and gas output reut.rs/3YClAhM
+
+[2025-12-22 23:00:47](https://bsky.app/profile/reuters.com/post/3malfhdyckd24)
+
+---
+
+@japan.reuters.com
+
+東南アジア諸国連合（ＡＳＥＡＮ）は２２日、議長国マレーシアの首都クアラルンプールで臨時外相会合を開き、タイとカンボジアの国防当局者が両国間の停戦の再開について２４日に協議することを決めた。タイのシーハサック外相が記者会見で明らかにした。 bit.ly/4j9WS1z
+
+[2025-12-22 23:00:29](https://bsky.app/profile/japan.reuters.com/post/3malfgsxxoj2c)
 
 ---
 
