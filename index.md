@@ -1,9 +1,9 @@
-# [2025-12-22 13:10 updated](2025_12_22.md)
+# [2025-12-22 13:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  長期金利 10年もの国債の利回り2.1%に 約26年ぶりの高水準 (2025-12-22 13:08:18) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makeenlhz52r" target="_blank">sokuho.news</a> (2025-12-22 13:08:43)</span><span style="padding-right:50px;">米実業家イーロン・マスク氏率いる米宇宙開発企業スペースＸが計画中の新規株式公開（ＩＰＯ）で、マスク氏と関係の深い米金融大手モルガン・スタンレーが中心的な主幹事（リードレフト）の最有力候補となっていることが、情報筋の話で明らかになった。 bit.ly/4qgLcMR <a href="https://bsky.app/profile/japan.reuters.com/post/3make6bnonk2n" target="_blank">japan.reuters.com</a> (2025-12-22 13:05:09)</span><span style="padding-right:50px;">Greece was recently named the world’s best place to retire for 2026, according to an annual index by International Living. Panama and Costa Rica ranked second and third on the list and are particularly popular with North Americans. https://cnn.it/3MOGFmu <a href="https://bsky.app/profile/cnn.com/post/3makdyokkyf2a" target="_blank">cnn.com</a> (2025-12-22 13:02:01)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】住宅火災 高齢の夫婦が病院に搬送 80歳の夫死亡、81歳妻はやけど 大阪・堺市 (2025-12-22 12:38) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3makdwxi62m2r" target="_blank">sokuho.news</a> (2025-12-22 13:01:03)</span><span style="padding-right:50px;">意外と近い「青森・函館」、北のゴールデンルートに www.nikkei.com/article/DGXZQO...  函館から札幌や小樽を巡るツアーはバスの運転手不足などで作りにくく。  青森なら新幹線で1時間。  まちおこしグループは「津軽海峡を回遊するマグロのように、観光客も『海遊』するエリアに」と意気込みます。 <a href="https://bsky.app/profile/nikkei.com/post/3makdwa2or62m" target="_blank">nikkei.com</a> (2025-12-22 13:00:39)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】近鉄奈良線の一部区間で一時運転見合わせ 富雄駅で人身事故 (2025-12-22 13:26:31) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3makffmb5gy2y" target="_blank">sokuho.news</a> (2025-12-22 13:27:09)</span><span style="padding-right:50px;">中国が１１月にロシアから輸入した原油は、前年同月比３．４％減の８３５万トン（日量２０３万バレル）だった。ロシアは中国への最大供給国となっている。 bit.ly/4pM1ldp <a href="https://bsky.app/profile/japan.reuters.com/post/3makfejquis2s" target="_blank">japan.reuters.com</a> (2025-12-22 13:26:33)</span><span style="padding-right:50px;">中国商務省が１９日に発表した１─１１月の外国からの直接投資（ＦＤＩ）は６９３２億元（９８４億６０００万ドル）で、前年同期比７．５％減少した。 bit.ly/3MNnDNo <a href="https://bsky.app/profile/japan.reuters.com/post/3makfbymum62p" target="_blank">japan.reuters.com</a> (2025-12-22 13:25:08)</span><span style="padding-right:50px;">H3ロケット みちびき5号機搭載 2段目エンジン 早期に停止 https://news.web.nhk/newsweb/na/na-k10015009941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makfa3xix222" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 13:24:02)</span><span style="padding-right:50px;">AI-linked IPOs in China are exploding. But it's not easy for foreigners to join the party <a href="https://bsky.app/profile/cnbc.com/post/3makf4zex7p24" target="_blank">cnbc.com</a> (2025-12-22 13:22:21)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50410.58 (🔺326.03 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3454.00 (🔻40.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.28 (🔻0.47 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50471.12 (🔺386.57 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.32 (🔻0.43 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,134 +32,101 @@
 
 ## News Headlines
 
-- Long-term interest rates reach 10-year high of 2.1% for Japan's 10-year government bond
-- Morgan Stanley to lead IPO of SpaceX, led by Elon Musk
-- Greece named the world's best place to retire in 2026
-- Residential fire in Osaka, Japan: elderly couple hospitalized, husband dead
-- India passes bill to probe 2024 Jeju Air crash
-- Russian drone attack damages two ships and two piers in Black Sea
-- SpaceX's Starship to launch around the moon next year
-- China's Vanke faces default risk as bondholders weigh options
-- Malaysian court rejects Najib Razak's bid to serve graft sentence under house arrest
-- U.S. Treasury announces new policy to address housing affordability
-- Japan's BOJ raises interest rate to 0.75%
-- Japanese city of Sapporo hit by massive snowfall
-- Malaysian court rejects Najib Razak's bid to serve graft sentence under house arrest
-- Russian military says it has captured Ukraine's FSB general
-- South Korean parliament passes bill to probe 2024 Jeju Air crash
-- Japanese police arrest man over ¥1.9 billion theft from 70-year-old man
-- India's rupee set to fall after RBI raises interest rates
-- China's Vanke faces default risk as bondholders weigh options
-- Malaysian court rejects Najib Razak's bid to serve graft sentence under house arrest
-- US Treasury announces new policy to address housing affordability
-- Russian military says it has captured Ukraine's FSB general
-- US Treasury announces new policy to address housing affordability
-- India's rupee set to fall after RBI raises interest rates
-- Russian military says it has captured Ukraine's FSB general
-- US Treasury announces new policy to address housing affordability
-- Japanese police arrest man over ¥1.9 billion theft from 70-year-old man
-- Japan's BOJ raises interest rate to 0.75%
-- Japanese city of Sapporo hit by massive snowfall
-- Russian drone attack damages two ships and two piers in Black Sea
-- India passes bill to probe 2024 Jeju Air crash
-- Malaysian court rejects Najib Razak's bid to serve graft sentence under house arrest
-- South Korean parliament passes bill to probe 2024 Jeju Air crash
-- US Treasury announces new policy to address housing affordability
-- Russian military says it has captured Ukraine's FSB general
-- China's Vanke faces default risk as bondholders weigh options
+- Partial train service suspended on Kintetsu Nara Line after human accident near Fujiyoshi Station
+- China's direct investment in November falls 7.5% from a year earlier
+- Mitsubishi Heavy Industries' H3 rocket's second stage engine shuts down early
+- Australian government to require LNG producers to reserve 25% of output for domestic use
+- Gold hits record high on expectations of Fed rate cut; silver reaches fresh peak
+- Former Japanese prime minister's song featured in Brazilian music show
 
 
 ----
 
 @sokuho.news
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>長期金利 10年もの国債の利回り2.1%に 約26年ぶりの高水準</strong><br><strong>(2025-12-22 13:08:18) #ニュース</strong>
+🛎️JNNより【速報】です。
 
-[2025-12-22 13:08:43](https://bsky.app/profile/sokuho.news/post/3makeenlhz52r)
+【速報】近鉄奈良線の一部区間で一時運転見合わせ 富雄駅で人身事故
+(2025-12-22 13:26:31) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-22 13:27:09](https://bsky.app/profile/sokuho.news/post/3makffmb5gy2y)
 
 ---
 
 @japan.reuters.com
 
-米実業家イーロン・マスク氏率いる米宇宙開発企業スペースＸが計画中の新規株式公開（ＩＰＯ）で、マスク氏と関係の深い米金融大手モルガン・スタンレーが中心的な主幹事（リードレフト）の最有力候補となっていることが、情報筋の話で明らかになった。 bit.ly/4qgLcMR
+中国が１１月にロシアから輸入した原油は、前年同月比３．４％減の８３５万トン（日量２０３万バレル）だった。ロシアは中国への最大供給国となっている。 bit.ly/4pM1ldp
 
-[2025-12-22 13:05:09](https://bsky.app/profile/japan.reuters.com/post/3make6bnonk2n)
-
----
-
-@cnn.com
-
-Greece was recently named the world’s best place to retire for 2026, according to an annual index by International Living. Panama and Costa Rica ranked second and third on the list and are particularly popular with North Americans. https://cnn.it/3MOGFmu
-
-[2025-12-22 13:02:01](https://bsky.app/profile/cnn.com/post/3makdyokkyf2a)
+[2025-12-22 13:26:33](https://bsky.app/profile/japan.reuters.com/post/3makfejquis2s)
 
 ---
 
-@sokuho.news
+@japan.reuters.com
 
-🛎️FNNより【速報】です。
+中国商務省が１９日に発表した１─１１月の外国からの直接投資（ＦＤＩ）は６９３２億元（９８４億６０００万ドル）で、前年同期比７．５％減少した。 bit.ly/3MNnDNo
 
-【速報】住宅火災 高齢の夫婦が病院に搬送 80歳の夫死亡、81歳妻はやけど 大阪・堺市
-(2025-12-22 12:38) #ニュース
-
-[2025-12-22 13:01:03](https://bsky.app/profile/sokuho.news/post/3makdwxi62m2r)
+[2025-12-22 13:25:08](https://bsky.app/profile/japan.reuters.com/post/3makfbymum62p)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-意外と近い「青森・函館」、北のゴールデンルートに
-www.nikkei.com/article/DGXZQO...
+H3ロケット みちびき5号機搭載 2段目エンジン 早期に停止
+https://news.web.nhk/newsweb/na/na-k10015009941000
 
-函館から札幌や小樽を巡るツアーはバスの運転手不足などで作りにくく。
+[2025-12-22 13:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makfa3xix222)
 
-青森なら新幹線で1時間。
+---
 
-まちおこしグループは「津軽海峡を回遊するマグロのように、観光客も『海遊』するエリアに」と意気込みます。
+@cnbc.com
 
-[2025-12-22 13:00:39](https://bsky.app/profile/nikkei.com/post/3makdwa2or62m)
+AI-linked IPOs in China are exploding. But it's not easy for foreigners to join the party
+
+[2025-12-22 13:22:21](https://bsky.app/profile/cnbc.com/post/3makf4zex7p24)
+
+---
+
+@japan.reuters.com
+
+オーストラリア政府は２２日、東部沿岸から液化天然ガス（ＬＮＧ）を輸出する事業者に対し、２０２７年以降、生産量の最大２５％を国内向けに留保する制度を導入する方針を示した。 bit.ly/496LyyK
+
+[2025-12-22 13:20:15](https://bsky.app/profile/japan.reuters.com/post/3makezb62fr25)
 
 ---
 
 @reuters.com
 
-Rupee set to slip after RBI's double strike fuelled biggest rally in six months reut.rs/48Z6p8B
+Gold hits record high on Fed rate-cut bets; silver scales fresh peak reut.rs/4s9S0xI
 
-[2025-12-22 13:00:29](https://bsky.app/profile/reuters.com/post/3makdvwzcse2b)
+[2025-12-22 13:20:09](https://bsky.app/profile/reuters.com/post/3makez3rtsr2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+フィギュア 五輪代表内定から一夜明け 坂本花織ら意気込み
+https://news.web.nhk/newsweb/na/na-k10015010371000
+
+[2025-12-22 13:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3makevg6b232k)
 
 ---
 
 @japan.reuters.com
 
-カナダ統計局が１９日発表した１０月の小売売上高は前月比０．２％減の６９４億４０００万カナダドル（５０４億米ドル）となった。食品・飲料の減少が押し下げた。 bit.ly/4asKRSJ
+ブラジルのルラ大統領は２０日、隣国ベネズエラに対し米国が圧力を強化する中、「ベネズエラへの武力介入は人道的大惨事となる」と警告した。 bit.ly/3MMgblG
 
-[2025-12-22 13:00:22](https://bsky.app/profile/japan.reuters.com/post/3makdvpyy5y2f)
-
----
-
-@apnews.com
-
-The NBA fined Minnesota Timberwolves coach Chris Finch $35,000 on Sunday for "directing inappropriate language toward game officials and failing to leave the court in a timely manner following his ejection" on Friday.
-
-[2025-12-22 13:00:14](https://bsky.app/profile/apnews.com/post/3makdvhv7sr23)
+[2025-12-22 13:15:13](https://bsky.app/profile/japan.reuters.com/post/3makeqbvwu22s)
 
 ---
 
-@washingtonpost.com
+@japan.reuters.com
 
-Pakistan’s military is tightening its grip on the country with sweeping legal changes that critics say are centralizing power in the hands of army chief Gen. Syed Asim Munir.
+＊この記事は見出しのみの速報です。 bit.ly/4s98kyB
 
-He will have more power than any Pakistani military official. 
-
-[2025-12-22 13:00:06](https://bsky.app/profile/washingtonpost.com/post/3makdvamw6w2d)
-
----
-
-@aljazeera.com
-
-Fighting resumes hours before regional foreign ministers meet in Malaysia to discuss steps to de-escalate hostilities.
-
-[2025-12-22 13:00:03](https://bsky.app/profile/aljazeera.com/post/3makdv63ecl2d)
+[2025-12-22 13:14:54](https://bsky.app/profile/japan.reuters.com/post/3makepozfld2q)
 
 ---
 
