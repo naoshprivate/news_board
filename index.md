@@ -1,9 +1,9 @@
-# [2025-12-23 00:10 updated](2025_12_23.md)
+# [2025-12-23 00:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">CBS News Editor-in-Chief Bari Weiss addressed her controversial decision to pull a “60 Minutes” segment over the weekend, saying that the story wasn’t ready for publication and “we simply need to do more.” <a href="https://bsky.app/profile/wsj.com/post/3malj7oylem2h" target="_blank">wsj.com</a> (2025-12-23 00:08:05)</span><span style="padding-right:50px;">Nandi Owolo started junk journaling in June 2024. A year and a half later, she's turning the crafting hobby into her full-time business.  <a href="https://bsky.app/profile/cnbc.com/post/3malj2ijppj2b" target="_blank">cnbc.com</a> (2025-12-23 00:05:11)</span><span style="padding-right:50px;">By the numbers: How the Netflix, Paramount bids for Warner Bros stack up reut.rs/45gM77V <a href="https://bsky.app/profile/reuters.com/post/3malj2gzvip2r" target="_blank">reuters.com</a> (2025-12-23 00:05:09)</span><span style="padding-right:50px;">The Trump business empire’s expansion into nuclear fusion is alarming ethics experts, who warn it poses glaring conflicts of interest and risks the federal government playing favorites in what could be the holy grail of clean energy https://cnn.it/497rlJ6 <a href="https://bsky.app/profile/cnn.com/post/3malit6qra42o" target="_blank">cnn.com</a> (2025-12-23 00:01:05)</span><span style="padding-right:50px;">A shoplifting suspect is accused of trying to shoot a police officer at a Walmart in Ohio, as seen in a chilling bodycam video. <a href="https://bsky.app/profile/nbcnews.com/post/3malit54m3y23" target="_blank">nbcnews.com</a> (2025-12-23 00:01:04)</span>
+<span style="padding-right:50px;">Circle CEO Jeremy Allaire shares his 10-year vision: We want to be foundational to the internet <a href="https://bsky.app/profile/yahoofinance.com/post/3malk7mrwt32h" target="_blank">yahoofinance.com</a> (2025-12-23 00:25:57)</span><span style="padding-right:50px;">We've reached the line on what Americans are willing to pay for a new car. on.wsj.com/4s20ZRt <a href="https://bsky.app/profile/wsj.com/post/3malk7m4cmk2g" target="_blank">wsj.com</a> (2025-12-23 00:25:56)</span><span style="padding-right:50px;">US halts offshore wind licences over national security concerns ft.trib.al/1xrTrOt <a href="https://bsky.app/profile/financialtimes.com/post/3malk7lntqx2p" target="_blank">financialtimes.com</a> (2025-12-23 00:25:55)</span><span style="padding-right:50px;">Sputnik developer becomes head of Russia's top vaccine centre reut.rs/4jd6jNW <a href="https://bsky.app/profile/reuters.com/post/3malk6chkmf2o" target="_blank">reuters.com</a> (2025-12-23 00:25:12)</span><span style="padding-right:50px;">The commerce ministry said in a preliminary decision on Monday that it had found dairy imports from the EU were subsidised and that China’s domestic industry 'suffered material injury' as a result. ft.trib.al/WgyxlQ7 <a href="https://bsky.app/profile/financialtimes.com/post/3malk63lbig25" target="_blank">financialtimes.com</a> (2025-12-23 00:25:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48252.33 (🔺40.45 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23422.78 (🔻27.75 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.47 (🔻0.45 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.05 (🔻0.70 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48328.43 (🔺116.55 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23417.02 (🔻33.51 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.46 (🔻0.46 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 157.05 (🔻0.70 : 2025-12-22)</span>
   </div>
 </div>
 
@@ -32,100 +32,97 @@
 
 ## News Headlines
 
-- CBS News Editor-in-Chief Defends Decision to Pull '60 Minutes' Segment
-- Woman Turns Junk Journaling Hobby into Full-Time Business
-- Netflix and Paramount Bids for Warner Bros Stack Up
-- Trump Business Empire's Nuclear Fusion Expansion Raises Ethics Concerns
-- Ohio Shoplifting Suspect Accused of Trying to Shoot Police Officer
-- Trump Administration Suspends Leases for Offshore Wind Farms Over National Security Fears
-- India's Economic Growth Remains Steady in November
-- Intellectual Disability Ruling Sparks Concerns Over Death Penalty Case
-- AI Deepfakes Pose Nightmarish Threat to Children's Lives
-- Ferrari to Meet 2030 Electric Car Goal, But Focus Remains on Internal Combustion
-- America's Cup to Take Place Every Two Years Starting in 2027
-- Animal Welfare Strategy Unveiled with Ambitious Legal Reforms
-- Japan Enters Year 2026, 357 Days into Reiwa Era
+- Circle CEO Jeremy Allaire shares 10-year vision for company
+- US halts offshore wind projects over national security concerns
+- Russia's top vaccine centre gets new head, a Sputnik developer
+- China finds dairy imports from EU are subsidised, affects domestic industry
+- Oracle's Larry Ellison backs $40.4 billion financing for Paramount's Warner Bros acquisition
+- Ferrari remains committed to internal combustion engines despite electrification plans
 
 
 ----
 
-@wsj.com
+@yahoofinance.com
 
-CBS News Editor-in-Chief Bari Weiss addressed her controversial decision to pull a “60 Minutes” segment over the weekend, saying that the story wasn’t ready for publication and “we simply need to do more.”
+Circle CEO Jeremy Allaire shares his 10-year vision: We want to be foundational to the internet
 
-[2025-12-23 00:08:05](https://bsky.app/profile/wsj.com/post/3malj7oylem2h)
+[2025-12-23 00:25:57](https://bsky.app/profile/yahoofinance.com/post/3malk7mrwt32h)
 
 ---
 
-@cnbc.com
+@wsj.com
 
-Nandi Owolo started junk journaling in June 2024. A year and a half later, she's turning the crafting hobby into her full-time business. 
+We've reached the line on what Americans are willing to pay for a new car. on.wsj.com/4s20ZRt
 
-[2025-12-23 00:05:11](https://bsky.app/profile/cnbc.com/post/3malj2ijppj2b)
+[2025-12-23 00:25:56](https://bsky.app/profile/wsj.com/post/3malk7m4cmk2g)
+
+---
+
+@financialtimes.com
+
+US halts offshore wind licences over national security concerns ft.trib.al/1xrTrOt
+
+[2025-12-23 00:25:55](https://bsky.app/profile/financialtimes.com/post/3malk7lntqx2p)
 
 ---
 
 @reuters.com
 
-By the numbers: How the Netflix, Paramount bids for Warner Bros stack up reut.rs/45gM77V
+Sputnik developer becomes head of Russia's top vaccine centre reut.rs/4jd6jNW
 
-[2025-12-23 00:05:09](https://bsky.app/profile/reuters.com/post/3malj2gzvip2r)
-
----
-
-@cnn.com
-
-The Trump business empire’s expansion into nuclear fusion is alarming ethics experts, who warn it poses glaring conflicts of interest and risks the federal government playing favorites in what could be the holy grail of clean energy https://cnn.it/497rlJ6
-
-[2025-12-23 00:01:05](https://bsky.app/profile/cnn.com/post/3malit6qra42o)
+[2025-12-23 00:25:12](https://bsky.app/profile/reuters.com/post/3malk6chkmf2o)
 
 ---
 
-@nbcnews.com
+@financialtimes.com
 
-A shoplifting suspect is accused of trying to shoot a police officer at a Walmart in Ohio, as seen in a chilling bodycam video.
+The commerce ministry said in a preliminary decision on Monday that it had found dairy imports from the EU were subsidised and that China’s domestic industry 'suffered material injury' as a result. ft.trib.al/WgyxlQ7
 
-[2025-12-23 00:01:04](https://bsky.app/profile/nbcnews.com/post/3malit54m3y23)
+[2025-12-23 00:25:05](https://bsky.app/profile/financialtimes.com/post/3malk63lbig25)
 
 ---
 
-@washingtonpost.com
+@nhknewsunofficial.bsky.social
 
-Betty Reid Soskin, who served as the nation’s oldest park ranger and related firsthand accounts of segregation as a Black woman on the World War II home front, has died. She was 104.
+木原官房長官 韓国の国家安保室長と会談 緊密に連携で一致
+https://news.web.nhk/newsweb/na/na-k10015010781000
 
-[2025-12-23 00:00:54](https://bsky.app/profile/washingtonpost.com/post/3malistkntc2y)
+[2025-12-23 00:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3malk4cmhnu22)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】自転車に乗った男子高校生が軽自動車と衝突 頭がい骨を骨折する重傷 兵庫・福崎町
+(2025-12-23 00:22) #ニュース
+
+[2025-12-23 00:22:57](https://bsky.app/profile/sokuho.news/post/3malk2bovo52y)
+
+---
+
+@japan.reuters.com
+
+関係筋によると、ロシアの今年の中国向け天然ガス輸出（パイプライン経由）は前年比で約２５％の増加となる見通し。 bit.ly/4auwrS6
+
+[2025-12-23 00:20:21](https://bsky.app/profile/japan.reuters.com/post/3maljvnbenl2q)
+
+---
+
+@nytimes.com
+
+Larry Ellison, one the richest men in the world and the father of Paramount’s chief executive, made a personal guarantee to provide the roughly $40.4 billion in equity that the company is offering as part of its bid for Warner Bros. Discovery.
+
+[2025-12-23 00:20:02](https://bsky.app/profile/nytimes.com/post/3maljv2qv6k25)
 
 ---
 
 @cbsnews.com
 
-The Trump administration said it is suspending leases for five offshore U.S. wind farms because of national security risks identified by the Department of Defense in classified reports.  
+The maker of Jim Beam bourbon whiskey said it plans to pause production at its main distillery in Kentucky starting Jan. 1.  
 
-[2025-12-23 00:00:49](https://bsky.app/profile/cbsnews.com/post/3malisp5tky2f)
-
----
-
-@reuters.com
-
-India's growth holds up in November on urban consumption demand, central bank's report says reut.rs/3Le8ELW
-
-[2025-12-23 00:00:27](https://bsky.app/profile/reuters.com/post/3malirzw6sd2r)
-
----
-
-@usatoday.com
-
-Is an intellectual disability a condition, or a number on an IQ test? Here's why an Alabama death penalty case at the Supreme Court is worrying advocates.
-
-[2025-12-23 00:00:19](https://bsky.app/profile/usatoday.com/post/3malirswx7c2w)
-
----
-
-@apnews.com
-
-A case in Louisiana highlights the nightmarish potential of AI deepfakes to upend children’s lives. And while schools are working to address artificial intelligence in classroom instruction, they often have done little to prepare for what the new tech means for cyberbullying and harassment.
-
-[2025-12-23 00:00:14](https://bsky.app/profile/apnews.com/post/3maliro3hiy2x)
+[2025-12-23 00:20:01](https://bsky.app/profile/cbsnews.com/post/3maljuzvjve2j)
 
 ---
 
