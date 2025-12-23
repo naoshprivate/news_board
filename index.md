@@ -1,9 +1,9 @@
-# [2025-12-23 17:50 updated](2025_12_23.md)
+# [2025-12-23 18:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">政府は、近く閣議決定する２０２６年度一般会計予算案で、国債利払いの想定金利を３％程度とする方向で調整に入った。複数の政府筋が明らかにした。日銀の利上げなどで市中利回りが上昇基調にある現状を踏まえ、１９９７年度の３．２％以来２９年ぶりの高水準とする。 bit.ly/4sbP2sA <a href="https://bsky.app/profile/japan.reuters.com/post/3manebxg7le2q" target="_blank">japan.reuters.com</a> (2025-12-23 17:45:12)</span><span style="padding-right:50px;">Indonesia expects normal wet season in 2026, weather agency says reut.rs/498GgTB <a href="https://bsky.app/profile/reuters.com/post/3manebx4wuy2k" target="_blank">reuters.com</a> (2025-12-23 17:45:11)</span><span style="padding-right:50px;">ブラジルのボルソナロ前大統領の長男フラビオ上院議員は１９日、ロイターのインタビューに応じ、出馬意向を表明している来年の大統領選について、父親より穏健な政策を掲げ、小さな政府、減税、民営化を実現することを計画していると述べた。 bit.ly/4sbo30f <a href="https://bsky.app/profile/japan.reuters.com/post/3mandywcm472c" target="_blank">japan.reuters.com</a> (2025-12-23 17:40:09)</span><span style="padding-right:50px;">Brock Purdy's 5-TD night powers 49ers past Colts reut.rs/3MWd5vm <a href="https://bsky.app/profile/reuters.com/post/3mandyvz4gt2r" target="_blank">reuters.com</a> (2025-12-23 17:40:08)</span><span style="padding-right:50px;">スペイン国家統計局が２３日発表した第３・四半期の国内総生産（ＧＤＰ）改定値は前期比０．６％増だった。速報値から修正はなかった。 bit.ly/48U2ppG <a href="https://bsky.app/profile/japan.reuters.com/post/3mandwcbc7e2q" target="_blank">japan.reuters.com</a> (2025-12-23 17:38:41)</span>
+<span style="padding-right:50px;">賞味期限切れ食品支給問題 “不適切だった” 徳島市長 https://news.web.nhk/newsweb/na/na-k10015011581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manfhbi6rp2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 18:06:02)</span><span style="padding-right:50px;">米国がロシアのウクライナ侵攻終結に向けた和平合意の交渉を進めているが、欧州ではロシアの脅威の矢面に立つことを懸念する。欧州各国は、米国の圧力もあり国防費を増額し、軍装備品の充実化を図っている。だが強化は兵器などの物的資源にとどまらず、人的資源にも及んでいる。 bit.ly/4pSSGpK <a href="https://bsky.app/profile/japan.reuters.com/post/3manffnko3o26" target="_blank">japan.reuters.com</a> (2025-12-23 18:05:09)</span><span style="padding-right:50px;">Vanke may adopt a familiar playbook in China to tackle debt crisis, say analysts reut.rs/4pNQ7oJ <a href="https://bsky.app/profile/reuters.com/post/3manffl2ln32r" target="_blank">reuters.com</a> (2025-12-23 18:05:07)</span><span style="padding-right:50px;">千葉ロッテ サインボール必ずもらえるかのような表示でおわび https://news.web.nhk/newsweb/na/na-k10015011551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manfbwf4l52l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 18:03:02)</span><span style="padding-right:50px;">成城石井「黒毛和牛牛すじカレー」、専門店に着想 www.nikkei.com/article/DGXZQO...  牛すじ肉のカレーを家庭で作る場合にかかる、長時間煮込んでから味付けする手間を省きます。  開発にあたって担当者が10店舗以上の専門店を食べ歩きました。欧風ベースのスープが多かったことから、日本人になじみがある和風スープを使いました。 <a href="https://bsky.app/profile/nikkei.com/post/3manf5mb7562x" target="_blank">nikkei.com</a> (2025-12-23 18:00:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.02 (🔻0.99 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.69 (🔻1.32 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,116 +32,114 @@
 
 ## News Headlines
 
-- Japan's government sets 3% expected bond yield for 2026 budget
-- US Treasury yields decline ahead of key debt auctions
-- Brazil's Lula da Silva's son reveals plans for a more moderate presidency
-- Spain's GDP grows 0.6% in Q3, beating expectations
-- US Treasury yields decline ahead of key debt auctions
-- US Treasury yields decline ahead of key debt auctions
-- US Treasury yields decline ahead of key debt auctions
-- US Treasury yields decline ahead of key debt auctions
-- US Treasury yields decline ahead of key debt auctions
-- Indonesia expects normal wet season in 2026, weather agency says
-- Heavy rain and flash flooding hit northern California, one death confirmed
-- Gold price surges to record high, silver also reaches new high
-- Thai government considers taxing online gold transactions
-- Novo Nordisk's shares surge 6% on approval of GLP-1 pill
-- China's foreign ministry urges US to take responsibility for nuclear disarmament
-- Japan's government to introduce emergency legislation to avoid shutdown
-- HSBC's Ann Godbehere to retire as chair search ends with Nelson's appointment
-- French government seeks emergency legislation to avoid shutdown
-- US military conducts strike against suspected drug-smuggling boat
-- Tokyo Stock Exchange releases market credit data
-- Research suggests video games can prevent burnout and depression
-- Vietnam's Communist Party concludes Central Committee meeting
-- Evenepoel seeks to challenge Pogacar in Tour de France
-- Indonesia's trade minister says trade agreement with US nearing completion
+- Tokushima Mayor Apologizes for Expired Food Distribution Issue
+- Europe Worries About Russian Threat as US Negotiates Peace Deal with Russia
+- China's Vanke May Adopt Debt Crisis Strategy from Other Chinese Companies
+- Chiba Lotte Apologizes for Misleading Sign
+- Ukraine Reports Russian Air Strikes on Kyiv
+- BOJ's Hawkish Stance Suggests Next Rate Hike May Be Sooner Than Expected
+- Indonesia Expects Normal Wet Season in 2026: Weather Agency
+- Brazil's Former President's Son Announces Presidential Run
+- Spain's GDP Growth Revised to 0.6% in Q3
+- US Treasury Yields Decline Ahead of Key Debt Auctions
+- Heavy Rain and Flash Flooding Hit Northern California
+- Gold Price Reaches Record High of $4,400 per Ounce
+- Japan School Suffers Damage from Magnitude 6.0 Earthquake
+- Japanese Government Considering Increasing National Debt Interest Rate
+- Thai Finance Ministry Considers Regulating Online Gold Trading
+- Spanish Regulator Sets 6.58% Return for Power Grids for 2026-2031
+- Tokyo Police Drop Charges Against 3 Employees in Forgery Case
+- Chinese Foreign Ministry Urges US to Take Responsibility for Nuclear Disarmament
 
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-政府は、近く閣議決定する２０２６年度一般会計予算案で、国債利払いの想定金利を３％程度とする方向で調整に入った。複数の政府筋が明らかにした。日銀の利上げなどで市中利回りが上昇基調にある現状を踏まえ、１９９７年度の３．２％以来２９年ぶりの高水準とする。 bit.ly/4sbP2sA
+賞味期限切れ食品支給問題 “不適切だった” 徳島市長
+https://news.web.nhk/newsweb/na/na-k10015011581000
 
-[2025-12-23 17:45:12](https://bsky.app/profile/japan.reuters.com/post/3manebxg7le2q)
-
----
-
-@reuters.com
-
-Indonesia expects normal wet season in 2026, weather agency says reut.rs/498GgTB
-
-[2025-12-23 17:45:11](https://bsky.app/profile/reuters.com/post/3manebx4wuy2k)
+[2025-12-23 18:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manfhbi6rp2u)
 
 ---
 
 @japan.reuters.com
 
-ブラジルのボルソナロ前大統領の長男フラビオ上院議員は１９日、ロイターのインタビューに応じ、出馬意向を表明している来年の大統領選について、父親より穏健な政策を掲げ、小さな政府、減税、民営化を実現することを計画していると述べた。 bit.ly/4sbo30f
+米国がロシアのウクライナ侵攻終結に向けた和平合意の交渉を進めているが、欧州ではロシアの脅威の矢面に立つことを懸念する。欧州各国は、米国の圧力もあり国防費を増額し、軍装備品の充実化を図っている。だが強化は兵器などの物的資源にとどまらず、人的資源にも及んでいる。 bit.ly/4pSSGpK
 
-[2025-12-23 17:40:09](https://bsky.app/profile/japan.reuters.com/post/3mandywcm472c)
-
----
-
-@reuters.com
-
-Brock Purdy's 5-TD night powers 49ers past Colts reut.rs/3MWd5vm
-
-[2025-12-23 17:40:08](https://bsky.app/profile/reuters.com/post/3mandyvz4gt2r)
-
----
-
-@japan.reuters.com
-
-スペイン国家統計局が２３日発表した第３・四半期の国内総生産（ＧＤＰ）改定値は前期比０．６％増だった。速報値から修正はなかった。 bit.ly/48U2ppG
-
-[2025-12-23 17:38:41](https://bsky.app/profile/japan.reuters.com/post/3mandwcbc7e2q)
-
----
-
-@wsj.com
-
-They’re too historic to tear down but too costly to save. America’s iconic office towers are on life support. on.wsj.com/490MMvm
-
-[2025-12-23 17:37:44](https://bsky.app/profile/wsj.com/post/3mandum5cyc2r)
+[2025-12-23 18:05:09](https://bsky.app/profile/japan.reuters.com/post/3manffnko3o26)
 
 ---
 
 @reuters.com
 
-Stephen Curry, Warriors blow out Magic to avenge earlier loss reut.rs/4p4BQmr
+Vanke may adopt a familiar playbook in China to tackle debt crisis, say analysts reut.rs/4pNQ7oJ
 
-[2025-12-23 17:35:08](https://bsky.app/profile/reuters.com/post/3mandpxlihg2o)
+[2025-12-23 18:05:07](https://bsky.app/profile/reuters.com/post/3manffl2ln32r)
 
 ---
 
-@cnbc.com
+@nhknewsunofficial.bsky.social
 
-U.S. Treasury yields decline ahead of key debt auctions
+千葉ロッテ サインボール必ずもらえるかのような表示でおわび
+https://news.web.nhk/newsweb/na/na-k10015011551000
 
-[2025-12-23 17:34:19](https://bsky.app/profile/cnbc.com/post/3mandoiynx32e)
+[2025-12-23 18:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manfbwf4l52l)
 
 ---
 
 @nikkei.com
 
-アメリカでインフルエンザ流行、8割が変異型
+成城石井「黒毛和牛牛すじカレー」、専門店に着想
 www.nikkei.com/article/DGXZQO...
 
-H3N2型のサブクレードKと呼ばれるタイプで、既存の免疫が効きにくいとされます。
+牛すじ肉のカレーを家庭で作る場合にかかる、長時間煮込んでから味付けする手間を省きます。
 
-日本でもこの変異型の感染が広がっています。
+開発にあたって担当者が10店舗以上の専門店を食べ歩きました。欧風ベースのスープが多かったことから、日本人になじみがある和風スープを使いました。
 
-[2025-12-23 17:30:39](https://bsky.app/profile/nikkei.com/post/3mandhx3mdh2f)
+[2025-12-23 18:00:40](https://bsky.app/profile/nikkei.com/post/3manf5mb7562x)
 
 ---
 
-@apnews.com
+@japan.reuters.com
 
-Heavy rain and flash flooding have soaked roads in northern California, leading to water rescues and at least one confirmed death.
+ウクライナ軍は、ロシアが２３日早朝にキーウへの空爆を開始したと発表した。 bit.ly/4qqBh7D
 
-[2025-12-23 17:30:21](https://bsky.app/profile/apnews.com/post/3mandhfkejx2d)
+[2025-12-23 18:00:30](https://bsky.app/profile/japan.reuters.com/post/3manf5dihup2f)
+
+---
+
+@reuters.com
+
+BOJ's hawkish wink suggests next hike may be sooner than markets think reut.rs/4b2FWIk
+
+[2025-12-23 18:00:22](https://bsky.app/profile/reuters.com/post/3manf52ym7p2o)
+
+---
+
+@cnbc.com
+
+The "big beautiful" budget bill created a $2,000 above-the-line deduction on charitable donations for tax year 2026.
+
+Here's how to take full advantage.
+
+[2025-12-23 18:00:13](https://bsky.app/profile/cnbc.com/post/3manf4sznxh2i)
+
+---
+
+@aljazeera.com
+
+Gaza buildings bombed by Israel become refuge for Palestinians https://aje.io/3iaim5
+
+[2025-12-23 18:00:11](https://bsky.app/profile/aljazeera.com/post/3manf4qnzll2d)
+
+---
+
+@nytimes.com
+
+This year, “Christmas Spectacular Starring the Radio City Rockettes” pays homage to the legacy of the group, but its future seems to be more about sisterhood than dancing, our critic writes.
+
+[2025-12-23 18:00:06](https://bsky.app/profile/nytimes.com/post/3manf4mlc5c25)
 
 ---
 
