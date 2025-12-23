@@ -1,9 +1,9 @@
-# [2025-12-23 10:50 updated](2025_12_23.md)
+# [2025-12-23 11:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Huawei’s ultra-luxury Maextro S800 sedan is so popular in China nowadays, it’s outselling Porsche’s Panamera, Mercedes-Benz’s S-Class and all other vehicles with sticker prices of at least $100,000. bloom.bg/3Y8ZJON  📷: Huawei Technologies Co. <a href="https://bsky.app/profile/bloomberg.com/post/3mamn2bgsvg23" target="_blank">bloomberg.com</a> (2025-12-23 10:49:18)</span><span style="padding-right:50px;">The U.S. Department of Education said it will investigate whether Brown University had sufficient security and properly notified students after a mass shooting on campus killed two students a little over a week ago. <a href="https://bsky.app/profile/washingtonpost.com/post/3mammsne5dy24" target="_blank">washingtonpost.com</a> (2025-12-23 10:45:02)</span><span style="padding-right:50px;">Brown University's police chief has been placed on leave after the mass shooting that killed two students. <a href="https://bsky.app/profile/cbsnews.com/post/3mammpjedjf2m" target="_blank">cbsnews.com</a> (2025-12-23 10:43:17)</span><span style="padding-right:50px;">ウクライナのゼレンスキー大統領は２２日、ロシア軍に占領された北東部スムイ州の国境沿いの村の住民は何年もの間、ロシア領の隣人と交流していたと述べ、このフラボウシケ村の住民がロシアに連れ去られたとの報道を確認した。 bit.ly/45mE8Gq <a href="https://bsky.app/profile/japan.reuters.com/post/3mammopnrih27" target="_blank">japan.reuters.com</a> (2025-12-23 10:42:50)</span><span style="padding-right:50px;">He left the FBI but refused to give up his hunt for the spy called Hades. A phony job interview was just the trap he needed. on.wsj.com/4pUvK9m <a href="https://bsky.app/profile/wsj.com/post/3mammlbnmql2h" target="_blank">wsj.com</a> (2025-12-23 10:40:54)</span>
+<span style="padding-right:50px;">Data centres: The new tech stopping chips from overheating <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mamo3nlunu2s" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-23 11:07:57)</span><span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/3L3J8sP <a href="https://bsky.app/profile/nytimes.com/post/3mamnwkkjh32x" target="_blank">nytimes.com</a> (2025-12-23 11:05:07)</span><span style="padding-right:50px;">中国人民銀行（中央銀行）は２３日、世界的なドル安を反映し、人民元の対ドル基準値（中間値）を約１年３カ月ぶりの元高水準に設定した。 bit.ly/4j7PP9K <a href="https://bsky.app/profile/japan.reuters.com/post/3mamnvi3dst22" target="_blank">japan.reuters.com</a> (2025-12-23 11:04:31)</span><span style="padding-right:50px;">🛎️NNNより【独自】です。  【独自】国民民主・岡野純子議員が公選法違反の疑いで書類送検 今夏の参院選で正しい標旗掲げずに応援演説したか～千葉県警 (2025-12-23 11:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mamnv2e2ta2y" target="_blank">sokuho.news</a> (2025-12-23 11:04:16)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】国民民主・岡野純子議員が公選法違反の疑いで書類送検 今夏の参院選で正しい標旗掲げずに応援演説したか～千葉県警 (2025-12-23 11:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mamnsz2hud2x" target="_blank">sokuho.news</a> (2025-12-23 11:03:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50405.87 (🔺31.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3440.00 (🔻39.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.47 (🔻0.54 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50494.27 (🔺119.79 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3443.00 (🔻36.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔻0.64 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,95 +32,105 @@
 
 ## News Headlines
 
-- Huawei's Ultra-Luxury Sedan Outselling Porsche and Mercedes-Benz in China
-- Brown University to Face Investigation Over Mass Shooting Response
-- President Zelensky Confirms Ukrainian Villagers Were Abducted by Russia
-- Google Parent Alphabet Acquires Intersect for $475 Million
-- White Sox's Yamato Kuroda to Play for Japan in 2023 World Baseball Classic
-- Trump Announces Plan to Build Largest, Most Powerful Ship Ever Made
+- Data Centres to Surpass Office Buildings in Construction Spending
+- India's Rural Jobs Guarantee Scheme Faces Threat from G RAM G
+- US to Investigate Brown University Over Campus Shooting
+- Trump Unveils New Class of Battleships Named After Himself
+- ByteDance Plans $23bn AI Spending Spree to Keep Pace with US Rivals
+- Silver Price Hits Record High at $69.59/oz
 
 
 ----
 
-@bloomberg.com
+@bbcnews-world-rss.bsky.social
 
-Huawei’s ultra-luxury Maextro S800 sedan is so popular in China nowadays, it’s outselling Porsche’s Panamera, Mercedes-Benz’s S-Class and all other vehicles with sticker prices of at least $100,000. bloom.bg/3Y8ZJON
+Data centres: The new tech stopping chips from overheating
 
-📷: Huawei Technologies Co.
-
-[2025-12-23 10:49:18](https://bsky.app/profile/bloomberg.com/post/3mamn2bgsvg23)
-
----
-
-@washingtonpost.com
-
-The U.S. Department of Education said it will investigate whether Brown University had sufficient security and properly notified students after a mass shooting on campus killed two students a little over a week ago.
-
-[2025-12-23 10:45:02](https://bsky.app/profile/washingtonpost.com/post/3mammsne5dy24)
-
----
-
-@cbsnews.com
-
-Brown University's police chief has been placed on leave after the mass shooting that killed two students.
-
-[2025-12-23 10:43:17](https://bsky.app/profile/cbsnews.com/post/3mammpjedjf2m)
-
----
-
-@japan.reuters.com
-
-ウクライナのゼレンスキー大統領は２２日、ロシア軍に占領された北東部スムイ州の国境沿いの村の住民は何年もの間、ロシア領の隣人と交流していたと述べ、このフラボウシケ村の住民がロシアに連れ去られたとの報道を確認した。 bit.ly/45mE8Gq
-
-[2025-12-23 10:42:50](https://bsky.app/profile/japan.reuters.com/post/3mammopnrih27)
-
----
-
-@wsj.com
-
-He left the FBI but refused to give up his hunt for the spy called Hades. A phony job interview was just the trap he needed. on.wsj.com/4pUvK9m
-
-[2025-12-23 10:40:54](https://bsky.app/profile/wsj.com/post/3mammlbnmql2h)
-
----
-
-@reuters.com
-
-Chiefs crossing border to Kansas for new stadium reut.rs/4pS3jsY
-
-[2025-12-23 10:40:16](https://bsky.app/profile/reuters.com/post/3mammk4qgg52s)
+[2025-12-23 11:07:57](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mamo3nlunu2s)
 
 ---
 
 @nytimes.com
 
-Could a customized pillow take the guesswork out of pillow shopping? Would it be as supportive and comfortable as our beloved picks? Wirecutter assembled a crew of four members from the sleep team to find out.
+Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/3L3J8sP
 
-[2025-12-23 10:39:04](https://bsky.app/profile/nytimes.com/post/3mammhyctfu2b)
-
----
-
-@financialtimes.com
-
-ByteDance plans $23bn AI spending spree to keep pace with US rivals ft.trib.al/qaAAi7S
-
-[2025-12-23 10:37:24](https://bsky.app/profile/financialtimes.com/post/3mammeyu4o42o)
+[2025-12-23 11:05:07](https://bsky.app/profile/nytimes.com/post/3mamnwkkjh32x)
 
 ---
 
 @japan.reuters.com
 
-＜１０：０８＞　日経平均は一進一退、利益確定が上値抑制　金利低下は下支え bit.ly/4aqeFPZ
+中国人民銀行（中央銀行）は２３日、世界的なドル安を反映し、人民元の対ドル基準値（中間値）を約１年３カ月ぶりの元高水準に設定した。 bit.ly/4j7PP9K
 
-[2025-12-23 10:32:52](https://bsky.app/profile/japan.reuters.com/post/3mamm4vf4qx2u)
+[2025-12-23 11:04:31](https://bsky.app/profile/japan.reuters.com/post/3mamnvi3dst22)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-Spot silver rises to record high at $69.59/oz reut.rs/4pNGS83
+🛎️NNNより【独自】です。
 
-[2025-12-23 10:30:35](https://bsky.app/profile/reuters.com/post/3mamlyso3lt23)
+【独自】国民民主・岡野純子議員が公選法違反の疑いで書類送検 今夏の参院選で正しい標旗掲げずに応援演説したか～千葉県警
+(2025-12-23 11:02) #ニュース
+
+[2025-12-23 11:04:16](https://bsky.app/profile/sokuho.news/post/3mamnv2e2ta2y)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】国民民主・岡野純子議員が公選法違反の疑いで書類送検 今夏の参院選で正しい標旗掲げずに応援演説したか～千葉県警
+(2025-12-23 11:02) #ニュース
+
+[2025-12-23 11:03:08](https://bsky.app/profile/sokuho.news/post/3mamnsz2hud2x)
+
+---
+
+@japan.reuters.com
+
+しまむらが３日続落し、前営業日比４％超安の１万０１００円付近を推移している。午前１０時４５分現在、東証プライム市場の値下がり率トップ。前日に２０２５年２月期の第３・四半期（２月２１日─１１月２０日）の連結決算を発表し、失望感が広がっている。 bit.ly/4jaKBKg
+
+[2025-12-23 11:02:22](https://bsky.app/profile/japan.reuters.com/post/3mamnrnhvje26)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】JR阪和線の和泉砂川～和歌山で運転見合わせ 列車が倒木と接触 正午すぎに運転再開見込み
+(2025-12-23 11:01:26) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-23 11:02:21](https://bsky.app/profile/sokuho.news/post/3mamnrm4xh32r)
+
+---
+
+@wsj.com
+
+Spending on data-center construction is poised to surpass office-building construction for the first time, changing the nature of property investing. on.wsj.com/4pQk3Az
+
+[2025-12-23 11:01:34](https://bsky.app/profile/wsj.com/post/3mamnqabpfk2s)
+
+---
+
+@wsj.com
+
+A Blade Runner-style megacity has somehow stayed a hidden gem, but not for much longer. on.wsj.com/4pTo6MD
+
+[2025-12-23 11:01:28](https://bsky.app/profile/wsj.com/post/3mamnpzywpm2c)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+MNREGA: Is India's landmark rural jobs guarantee scheme under threat from G RAM G?
+
+[2025-12-23 11:01:18](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mamnprcz2w2a)
 
 ---
 
