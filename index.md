@@ -1,9 +1,9 @@
-# [2025-12-23 19:10 updated](2025_12_23.md)
+# [2025-12-23 19:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国財政省は２３日、債券引受会社との会合で、２０２６年の政府債発行総額が引き続き「高水準」にとどまるとの見通しを示した。関係筋が明らかにした。 bit.ly/4scnKSG <a href="https://bsky.app/profile/japan.reuters.com/post/3manixpapml2q" target="_blank">japan.reuters.com</a> (2025-12-23 19:08:56)</span><span style="padding-right:50px;">静岡 長泉町強盗事件 3人組の男ら2時間以上前から付近下見か https://news.web.nhk/newsweb/na/na-k10015011721000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manisllvm42y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 19:06:03)</span><span style="padding-right:50px;">Big tech's depreciation games are a hidden risk to watch in 2026 reut.rs/4pkcCAU <a href="https://bsky.app/profile/reuters.com/post/3maniqzgc5d23" target="_blank">reuters.com</a> (2025-12-23 19:05:12)</span><span style="padding-right:50px;">🔔NHKより【速報】です。  福井県の新型転換炉「ふげん」で トリチウム含む水が漏れる 解体作業中 (2025-12-23 19:03) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3manioayubn2r" target="_blank">sokuho.news</a> (2025-12-23 19:03:39)</span><span style="padding-right:50px;">福井 転換炉「ふげん」でトリチウム含む水漏れる 原子力規制庁 https://news.web.nhk/newsweb/na/na-k10015011761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manin6oy5q2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 19:03:01)</span>
+<span style="padding-right:50px;">‘We have to have’ Greenland, says Trump ft.trib.al/a5DfDbW <a href="https://bsky.app/profile/financialtimes.com/post/3manjzkt6ty2c" target="_blank">financialtimes.com</a> (2025-12-23 19:27:53)</span><span style="padding-right:50px;">President Trump said he wants to pressure America’s largest defense contractors to speed up weapons production by investing in new facilities and ending the practice of repurchasing stocks. <a href="https://bsky.app/profile/wsj.com/post/3manjzd4dna2k" target="_blank">wsj.com</a> (2025-12-23 19:27:44)</span><span style="padding-right:50px;">韓国のサムスン電子は２３日、子会社ハーマンを通じてドイツの自動車部品大手ＺＦフリードリヒスハーフェンの先進運転支援システム（ＡＤＡＳ）事業を１５億ユーロ（１７億７０００万ドル）で買収すると発表した。 bit.ly/3MIxHr4 <a href="https://bsky.app/profile/japan.reuters.com/post/3manjy3llsq2c" target="_blank">japan.reuters.com</a> (2025-12-23 19:27:03)</span><span style="padding-right:50px;">日銀が２３日に発表した１１月の基調的なインフレ率を捕捉するための３指標は、「加重中央値」と「最頻値」が前月からプラス幅を縮小した。一方、「刈込平均値」は横ばい。全体的にみれば前月から大きな変化はなく、基調的な物価の上昇に陰りはみられていない。 bit.ly/48RNbBF <a href="https://bsky.app/profile/japan.reuters.com/post/3manjuo4yeb25" target="_blank">japan.reuters.com</a> (2025-12-23 19:25:08)</span><span style="padding-right:50px;">NHL roundup: Kraken stun Ducks with two goals in 3rd reut.rs/4pRey4P <a href="https://bsky.app/profile/reuters.com/post/3manjumrg5y24" target="_blank">reuters.com</a> (2025-12-23 19:25:07)</span>
   </div>
 </div>
 
@@ -32,105 +32,95 @@
 
 ## News Headlines
 
-- Japan's Finance Ministry maintains high government bond issuance plan for 2026
-- Three men suspected in Longjing robbery case in Shizuoka's Nagaizumi-cho
-- Big tech's depreciation games are a hidden risk to watch in 2026
-- Trichloride leak detected at Japan's Fukui nuclear power plant, operator says
-- Italy antitrust regulator fines Ryanair $300 million over dealings with travel agencies
-- EU might see a Ukraine peace deal, but energy supplies are a concern
-
+[{"en": "Trump says it would be 'smart' for Venezuelan President to step down"}, 
+ {"en": "US President Donald Trump says it would be "smart" for Venezuelan President Nicolas Maduro to step down as US naval forces pressed a blockade on the South American country's oil wealth"}, 
+ {"en": "US President Donald Trump says it would be "smart" for Venezuelan President to step down"}, 
+ {"en": "Novo Nordisk's GLP-1 anti-obesity drug Wegovy approved by US FDA"}, 
+ {"en": "US President Donald Trump says it would be "smart" for Venezuelan President to step down"}, 
+ {"en": "Germany's import prices down 1.9% y/y in November"}, 
+ {"en": "Novo Nordisk's GLP-1 anti-obesity drug Wegovy approved by US FDA to be administered in pill form for weight loss"}]
 
 ----
 
+@financialtimes.com
+
+‘We have to have’ Greenland, says Trump ft.trib.al/a5DfDbW
+
+[2025-12-23 19:27:53](https://bsky.app/profile/financialtimes.com/post/3manjzkt6ty2c)
+
+---
+
+@wsj.com
+
+President Trump said he wants to pressure America’s largest defense contractors to speed up weapons production by investing in new facilities and ending the practice of repurchasing stocks.
+
+[2025-12-23 19:27:44](https://bsky.app/profile/wsj.com/post/3manjzd4dna2k)
+
+---
+
 @japan.reuters.com
 
-中国財政省は２３日、債券引受会社との会合で、２０２６年の政府債発行総額が引き続き「高水準」にとどまるとの見通しを示した。関係筋が明らかにした。 bit.ly/4scnKSG
+韓国のサムスン電子は２３日、子会社ハーマンを通じてドイツの自動車部品大手ＺＦフリードリヒスハーフェンの先進運転支援システム（ＡＤＡＳ）事業を１５億ユーロ（１７億７０００万ドル）で買収すると発表した。 bit.ly/3MIxHr4
 
-[2025-12-23 19:08:56](https://bsky.app/profile/japan.reuters.com/post/3manixpapml2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-静岡 長泉町強盗事件 3人組の男ら2時間以上前から付近下見か
-https://news.web.nhk/newsweb/na/na-k10015011721000
-
-[2025-12-23 19:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manisllvm42y)
+[2025-12-23 19:27:03](https://bsky.app/profile/japan.reuters.com/post/3manjy3llsq2c)
 
 ---
 
-@reuters.com
+@japan.reuters.com
 
-Big tech's depreciation games are a hidden risk to watch in 2026 reut.rs/4pkcCAU
+日銀が２３日に発表した１１月の基調的なインフレ率を捕捉するための３指標は、「加重中央値」と「最頻値」が前月からプラス幅を縮小した。一方、「刈込平均値」は横ばい。全体的にみれば前月から大きな変化はなく、基調的な物価の上昇に陰りはみられていない。 bit.ly/48RNbBF
 
-[2025-12-23 19:05:12](https://bsky.app/profile/reuters.com/post/3maniqzgc5d23)
-
----
-
-@sokuho.news
-
-🔔NHKより【速報】です。
-
-福井県の新型転換炉「ふげん」で トリチウム含む水が漏れる 解体作業中
-(2025-12-23 19:03) #ニュース
-
-[2025-12-23 19:03:39](https://bsky.app/profile/sokuho.news/post/3manioayubn2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-福井 転換炉「ふげん」でトリチウム含む水漏れる 原子力規制庁
-https://news.web.nhk/newsweb/na/na-k10015011761000
-
-[2025-12-23 19:03:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manin6oy5q2k)
-
----
-
-@cnbc.com
-
-What a Russia-Ukraine peace deal could mean for Europe's gas supplies
-
-[2025-12-23 19:02:10](https://bsky.app/profile/cnbc.com/post/3manilm3db325)
-
----
-
-@nikkei.com
-
-ビュッフェ、おなかいっぱい満喫する極意は？
-www.nikkei.com/article/DGXZQO...
-
-迷っているうちに時間が過ぎたり、見落とした料理があっても満腹で食べられなかったり…。
-
-まず店内1周して必ず食べたい料理を決め、炭水化物やデザートは後半にするのがおすすめ。
-
-京王プラザホテル「スーパーブッフェ・グラスコート」店長の石部和明さんに、上手に楽しむコツを聞きました。
-
-[2025-12-23 19:01:04](https://bsky.app/profile/nikkei.com/post/3manijmxiyn2i)
+[2025-12-23 19:25:08](https://bsky.app/profile/japan.reuters.com/post/3manjuo4yeb25)
 
 ---
 
 @reuters.com
 
-Italy antitrust regulator fines Ryanair $300 million over dealings with travel agencies reut.rs/4avRUtV
+NHL roundup: Kraken stun Ducks with two goals in 3rd reut.rs/4pRey4P
 
-[2025-12-23 19:00:34](https://bsky.app/profile/reuters.com/post/3maniiq36wo24)
-
----
-
-@apnews.com
-
-Elusive street artist Banksy appeared to confirm Monday that a new mural in London, depicting two children lying down and pointing up at the sky, is his latest work.
-
-[2025-12-23 19:00:20](https://bsky.app/profile/apnews.com/post/3maniicqy5k24)
+[2025-12-23 19:25:07](https://bsky.app/profile/reuters.com/post/3manjumrg5y24)
 
 ---
 
-@cnn.com
+@japan.reuters.com
 
-Viktor Pinkhasov can't stop smiling. He has just managed to escape Ukraine after hiking alone for five days across the Carpathian Mountains. He is one of dozens making the illegal crossing from western Ukraine every week. https://cnn.it/4pNO585
+三井住友トラストグループ（ＳＭＴＧ）は２３日、社長に三井住友信託銀行の大山一也社長（６０）が昇格する人事を発表した。株価純資産倍率（ＰＢＲ）１倍超達成を前倒しで進める中、さらなる成長に向けて経営陣を刷新する。大山氏は会見で、グループの成長エンジンの一つとして掲げている資産運用業では、海外での成長も追求していく考えを示した。 bit.ly/4sa0mFx
 
-[2025-12-23 19:00:16](https://bsky.app/profile/cnn.com/post/3manii75bla2u)
+[2025-12-23 19:20:20](https://bsky.app/profile/japan.reuters.com/post/3manjm34qwr25)
+
+---
+
+@en.afp.com
+
+🇺🇸 Danish pharmaceutical giant Novo Nordisk says the US Food and Drug Administration (FDA) has approved its popular GLP-1 anti-obesity drug Wegovy to be administered in pill form for weight loss. 
+➡️ u.afp.com/S8xH
+
+[2025-12-23 19:20:01](https://bsky.app/profile/en.afp.com/post/3manjljbezz26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+秋田 卸売市場倉庫に入り込んでいたクマ 箱わなで捕獲され駆除
+https://news.web.nhk/newsweb/na/na-k10015011751000
+
+[2025-12-23 19:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manjhztqh42d)
+
+---
+
+@reuters.com
+
+German import prices down 1.9% y/y in November reut.rs/48XfVre
+
+[2025-12-23 19:15:14](https://bsky.app/profile/reuters.com/post/3manjcx23wz2i)
+
+---
+
+@japan.reuters.com
+
+フランス政府は２２日、議会が２０２６年予算案で合意に至らなかったことを受け、政府閉鎖を回避するために１月までの緊急立法措置を求めることになった。 bit.ly/4p4IadH
+
+[2025-12-23 19:15:13](https://bsky.app/profile/japan.reuters.com/post/3manjcwukhr2p)
 
 ---
 
