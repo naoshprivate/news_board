@@ -1,9 +1,9 @@
-# [2025-12-23 11:50 updated](2025_12_23.md)
+# [2025-12-23 12:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">全日空と日本航空 予約サイトのシステム障害 午前中に復旧 https://news.web.nhk/newsweb/na/na-k10015011131000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamqde74nq2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 11:48:02)</span><span style="padding-right:50px;">アクティビスト（物言う投資家）のネルソン・ペルツ氏のトライアン、ベンチャーキャピタル（ＶＣ）ジェネラル・カタリストなどの投資家グループは、アクティブ運用大手ジャナス・ヘンダーソンを７４億ドルで買収し非公開化することで合意した。 bit.ly/4pT7qVD <a href="https://bsky.app/profile/japan.reuters.com/post/3mamq66qtbr2p" target="_blank">japan.reuters.com</a> (2025-12-23 11:45:10)</span><span style="padding-right:50px;">来年度予算案 過去最大 122兆円台の方向で調整 きょう閣僚折衝 https://news.web.nhk/newsweb/na/na-k10015011201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamq65b2qm2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 11:45:07)</span><span style="padding-right:50px;">政府 AIの利活用や開発の方向性示した初の基本計画を決定 https://news.web.nhk/newsweb/na/na-k10015011161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamq5yorst24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 11:45:02)</span><span style="padding-right:50px;">＜１１：３４＞　前場の日経平均は小幅続伸、利益確定が上値抑制　マイナス圏と往来 bit.ly/4963VUB <a href="https://bsky.app/profile/japan.reuters.com/post/3mamq5rvdsi2n" target="_blank">japan.reuters.com</a> (2025-12-23 11:44:57)</span>
+<span style="padding-right:50px;">インドネシアの対米関税交渉を率いるハルタルト経済担当調整相は、米国との間の「全ての重要な問題」は双方で解決済みであり、貿易協定は来年早々にも両国首脳によって署名される可能性があると述べた。米通商代表部（ＵＳＴＲ）のグリア代表と会談した後、２２日遅くにワシントンからインドネシアメディアとのビデオブリーフィングに応じた。 bit.ly/48Qu9LV <a href="https://bsky.app/profile/japan.reuters.com/post/3mamrhjvvzj2f" target="_blank">japan.reuters.com</a> (2025-12-23 12:08:18)</span><span style="padding-right:50px;">株価 小幅な値動き 売り買いが交錯する展開 https://news.web.nhk/newsweb/na/na-k10015011231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamrdklwkf2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 12:06:02)</span><span style="padding-right:50px;">片山さつき財務相は２２日のブルームバーグのインタビューで、植田和男日銀総裁の１９日の記者会見後に進んだ円安について「非常に短い時間での動き。完全にファンダメンタルズではなくて投機だ」と指摘し、このような動きに対し、９月の日米財務相共同声明に基づき「断固として措置を取る、アクションを取るということを申し上げている」と述べた。 bit.ly/3Y8NPo8 <a href="https://bsky.app/profile/japan.reuters.com/post/3mamrbuhbjj2f" target="_blank">japan.reuters.com</a> (2025-12-23 12:05:08)</span><span style="padding-right:50px;">Democratic Rep. Rep. Joyce Beatty filed a lawsuit today aimed at stopping the Trump administration from renaming the John F. Kennedy Center for the Performing Arts the "Trump-Kennedy Center." <a href="https://bsky.app/profile/axios.com/post/3mamr7lordk2x" target="_blank">axios.com</a> (2025-12-23 12:03:51)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】名古屋大学から｢掃除中、何らかの薬品が爆発した｣と通報 名古屋・千種区 (2025-12-23 11:59:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mamr55fwd22v" target="_blank">sokuho.news</a> (2025-12-23 12:02:29)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50442.12 (🔺67.64 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3435.00 (🔻44.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔻0.71 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50442.12 (🔺67.64 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3435.00 (🔻44.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔻0.73 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,65 +32,60 @@
 
 ## News Headlines
 
-- ANA and Japan Airlines Reservation System Failure Repaired in the Morning
-- Nelson Peltz-led Investor Group Agrees to Acquire Jana Henderson for $7.4 Billion
-- Government to Decide on Budget for Next Year, Expected to be Over ¥122 Trillion
-- Government to Decide on AI Utilization and Development Plan
+- Indonesia Says All Major Trade Issues Resolved, Trade Deal May Be Signed Early Next Year
+- Stocks Experience Small Price Movements with Buying and Selling in Conflict
+- Japan's Finance Minister Suggests Yen's Drop is Speculative
+- U.S. Coast Guard Continues to Pursue Oil Tanker near Venezuela
+- Saks Fifth Avenue Parent Company Considers Bankruptcy Filing
+- U.K. Chancellor Asks for Budget Outlook in March
+- U.S. Treasury Department Faces Backlash Over Handling of Epstein Documents
+- Government to Decide on Discontinuation of Solar Power Feed-in Tariff
+- South Korea's Hanwha Ocean Sees Shares Jump 10% After Trump's Announcement
+- Japanese Government to Decide on New Cybersecurity Strategy
+- Oil Prices Fall as Market Weighs Venezuela and Russia Supply Risks
+- Activist Investor Nelson Peltz's Firm Agrees to Buy Jana Henderson for $7.4 Billion
+- Japan's Government to Decide on Budget for Next Year, Expected to Exceed 122 Trillion Yen
+- Government to Decide on Basic Plan for AI Utilization and Development
+- U.S. FCC Bans Importation and Sale of All Foreign-Made Drones and Parts
+- Eye Drop Approved for Drooping Eyelid Condition
 - Stocks and Precious Metals Rise, Yen on Intervention Watch
-- U.S. Stocks Close Higher, Technology Stocks Lead the Charge
-- Uganda Coach Unfazed by Tunisia's Unbeaten Streak
-- China's Central Bank Sets Yuan to Highest Level in Over a Year
-- Japan's Nikkei Falls, Shimamura Continues to Decline
-- JR Keihan Line Suspension due to Train Collision with Tree
-- U.S. Stocks Rise, Technology Stocks Lead the Charge
-- China's Central Bank Sets Yuan to Highest Level in Over a Year
-- Uganda Coach Unfazed by Tunisia's Unbeaten Streak
-- Japan's Nikkei Falls, Shimamura Continues to Decline
-- JR Keihan Line Suspension due to Train Collision with Tree
+- Retail Stores Open on Christmas Eve: Kohl's, TJ Maxx Hours and More
+- Barry Manilow to Undergo Surgery for Cancerous Lung Spot
+- FDA Approves Wegovy Pill for Weight Loss
 
 
 ----
 
+@japan.reuters.com
+
+インドネシアの対米関税交渉を率いるハルタルト経済担当調整相は、米国との間の「全ての重要な問題」は双方で解決済みであり、貿易協定は来年早々にも両国首脳によって署名される可能性があると述べた。米通商代表部（ＵＳＴＲ）のグリア代表と会談した後、２２日遅くにワシントンからインドネシアメディアとのビデオブリーフィングに応じた。 bit.ly/48Qu9LV
+
+[2025-12-23 12:08:18](https://bsky.app/profile/japan.reuters.com/post/3mamrhjvvzj2f)
+
+---
+
 @nhknewsunofficial.bsky.social
 
-全日空と日本航空 予約サイトのシステム障害 午前中に復旧
-https://news.web.nhk/newsweb/na/na-k10015011131000
+株価 小幅な値動き 売り買いが交錯する展開
+https://news.web.nhk/newsweb/na/na-k10015011231000
 
-[2025-12-23 11:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamqde74nq2w)
+[2025-12-23 12:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamrdklwkf2d)
 
 ---
 
 @japan.reuters.com
 
-アクティビスト（物言う投資家）のネルソン・ペルツ氏のトライアン、ベンチャーキャピタル（ＶＣ）ジェネラル・カタリストなどの投資家グループは、アクティブ運用大手ジャナス・ヘンダーソンを７４億ドルで買収し非公開化することで合意した。 bit.ly/4pT7qVD
+片山さつき財務相は２２日のブルームバーグのインタビューで、植田和男日銀総裁の１９日の記者会見後に進んだ円安について「非常に短い時間での動き。完全にファンダメンタルズではなくて投機だ」と指摘し、このような動きに対し、９月の日米財務相共同声明に基づき「断固として措置を取る、アクションを取るということを申し上げている」と述べた。 bit.ly/3Y8NPo8
 
-[2025-12-23 11:45:10](https://bsky.app/profile/japan.reuters.com/post/3mamq66qtbr2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-来年度予算案 過去最大 122兆円台の方向で調整 きょう閣僚折衝
-https://news.web.nhk/newsweb/na/na-k10015011201000
-
-[2025-12-23 11:45:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamq65b2qm2m)
+[2025-12-23 12:05:08](https://bsky.app/profile/japan.reuters.com/post/3mamrbuhbjj2f)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@axios.com
 
-政府 AIの利活用や開発の方向性示した初の基本計画を決定
-https://news.web.nhk/newsweb/na/na-k10015011161000
+Democratic Rep. Rep. Joyce Beatty filed a lawsuit today aimed at stopping the Trump administration from renaming the John F. Kennedy Center for the Performing Arts the "Trump-Kennedy Center."
 
-[2025-12-23 11:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamq5yorst24)
-
----
-
-@japan.reuters.com
-
-＜１１：３４＞　前場の日経平均は小幅続伸、利益確定が上値抑制　マイナス圏と往来 bit.ly/4963VUB
-
-[2025-12-23 11:44:57](https://bsky.app/profile/japan.reuters.com/post/3mamq5rvdsi2n)
+[2025-12-23 12:03:51](https://bsky.app/profile/axios.com/post/3mamr7lordk2x)
 
 ---
 
@@ -98,42 +93,59 @@ https://news.web.nhk/newsweb/na/na-k10015011161000
 
 🛎️JNNより【速報】です。
 
-【速報】住宅火災で60代男性1人けが 現在も消防が消火活動 青森市浪岡
-(2025-12-23 11:34:00) #ニュース
+【速報】名古屋大学から｢掃除中、何らかの薬品が爆発した｣と通報 名古屋・千種区
+(2025-12-23 11:59:00) #ニュース
 
-[2025-12-23 11:42:13](https://bsky.app/profile/sokuho.news/post/3mampyvbsn52v)
-
----
-
-@japan.reuters.com
-
-片山さつき財務相は２３日の閣議後会見で、足元の為替相場についてファンダメンタルズを反映しているとは思えないと指摘、行き過ぎた動きに対しては９月の日米財務相共同声明の考え方を踏まえて「対応を取る」と語った。 bit.ly/45bLMn4
-
-[2025-12-23 11:40:41](https://bsky.app/profile/japan.reuters.com/post/3mampw5xcdr2p)
+[2025-12-23 12:02:29](https://bsky.app/profile/sokuho.news/post/3mamr55fwd22v)
 
 ---
 
-@japan.reuters.com
+@nikkei.com
 
-オランダの半導体企業ネクスペリアと、親会社の電子機器大手ウイングテック（聞泰科技）が先週、第１回目の協議を実施し、対話を続けることで合意した。中国商務省が２２日公表した声明で明らかになった。 bit.ly/4j7RtrW
+男性にも不妊の知識を　「プレコンケア」広がる
+www.nikkei.com/article/DGXZQO...
+ 
+不妊のうち半分は男性側に原因があることが分かっています。
+ 
+ただ男性は妊娠に関する知識が不足していることが多く、不妊リスクを高める生活習慣をしてしまったり、治療が遅れたりすることが多々あります。
+ 
+そのなかで、将来を見据えて性や妊娠に関する知識を身につける「プレコンセプションケア」が注目されてきています。
 
-[2025-12-23 11:40:18](https://bsky.app/profile/japan.reuters.com/post/3mampvhwyln2q)
+[2025-12-23 12:00:53](https://bsky.app/profile/nikkei.com/post/3mamr2brest2x)
 
 ---
 
 @reuters.com
 
-Oil slips as market weighs Venezuela, Russia supply risks reut.rs/4auGRRO
+Indian shares set for muted start after two sessions of rally reut.rs/4aNmfED
 
-[2025-12-23 11:40:14](https://bsky.app/profile/reuters.com/post/3mampved7su2r)
+[2025-12-23 12:00:50](https://bsky.app/profile/reuters.com/post/3mamr26ksuv2r)
 
 ---
 
-@japan.reuters.com
+@usatoday.com
 
-＜１１：０９＞　前場の国債先物は反発、長期金利2.045％　買い戻し優勢 bit.ly/3KZrqXu
+It's "A Charlie Brown Christmas" week. Here's how to watch the "Peanuts" holiday special, including if will air on TV this year.
 
-[2025-12-23 11:38:29](https://bsky.app/profile/japan.reuters.com/post/3mamps7qyo425)
+[2025-12-23 12:00:31](https://bsky.app/profile/usatoday.com/post/3mamqzn2v222g)
+
+---
+
+@washingtonpost.com
+
+Winter storms. Mechanical delays. Other people. There are many factors beyond your control that can ruin traveling. But one that is squarely on you can slow you down at security: how you pack.
+
+Here are some of the most common items that get flagged.
+
+[2025-12-23 12:00:08](https://bsky.app/profile/washingtonpost.com/post/3mamqywi3mk24)
+
+---
+
+@cbsnews.com
+
+U.S. Coast Guard still pursuing an oil tanker near Venezuela, source says, as Trump administration continues pressure campaign.
+
+[2025-12-23 12:00:01](https://bsky.app/profile/cbsnews.com/post/3mamqypqhou2i)
 
 ---
 
