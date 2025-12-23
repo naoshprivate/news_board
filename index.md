@@ -1,9 +1,9 @@
-# [2025-12-23 12:50 updated](2025_12_23.md)
+# [2025-12-23 13:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ウクライナのゼレンスキー大統領は２２日、ロシア軍に占領された北東部スムイ州の国境沿いの村の住民は何年もの間、ロシア領の隣人と交流していたと述べ、このフラボウシケ村の住民がロシアに連れ去られたとの報道を確認した。 bit.ly/4qrq1rK <a href="https://bsky.app/profile/japan.reuters.com/post/3mamtjlsxz72p" target="_blank">japan.reuters.com</a> (2025-12-23 12:45:14)</span><span style="padding-right:50px;">【きょうのおはBiz 12月23日(火)】長期金利2.1％ 期待と不安感 https://news.web.nhk/newsweb/na/na-k10015011151000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamtjchy2u24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 12:45:02)</span><span style="padding-right:50px;">米国がロシアのウクライナ侵攻終結に向けた和平合意の交渉を進めているが、欧州ではロシアの脅威の矢面に立つことを懸念する。欧州各国は、米国の圧力もあり国防費を増額し、軍装備品の充実化を図っている。だが強化は兵器などの物的資源にとどまらず、人的資源にも及んでいる。 bit.ly/44GOa5a <a href="https://bsky.app/profile/japan.reuters.com/post/3mamtj3fg4h2c" target="_blank">japan.reuters.com</a> (2025-12-23 12:44:57)</span><span style="padding-right:50px;">高市首相 来年度予算案の閣議決定へ 詰めの作業進める考え示す https://news.web.nhk/newsweb/na/na-k10015011281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamtdwz2xs26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 12:42:03)</span><span style="padding-right:50px;">午前のドルは１５６円前半に下落している。利益確定の動きなどで、ドル／円は日銀の金融政策決定会合後の上げ幅の大半を削った。日本の当局者からの口先介入が強まっており、為替介入の警戒感も重しになっているとの声がある。 bit.ly/4jbqTy3 <a href="https://bsky.app/profile/japan.reuters.com/post/3mamtb7svoi22" target="_blank">japan.reuters.com</a> (2025-12-23 12:40:33)</span>
+<span style="padding-right:50px;">韓国銀行（中央銀行）のチャン・ヨンソン金融政策委員は２３日、ウォン安の進行や住宅価格の上昇圧力など、金融安定を巡るリスクに引き続き警戒する必要があると述べた。 bit.ly/4pdb2ka <a href="https://bsky.app/profile/japan.reuters.com/post/3mamutye2hw2u" target="_blank">japan.reuters.com</a> (2025-12-23 13:08:57)</span><span style="padding-right:50px;">トランプ米政権は、大使館に「米国第一」主義の優先事項を反映させるため、約30人の大使および上級キャリア外交官を召還する。この措置に対し、米国の外国における信頼性を弱めるとの批判が出ている。 bit.ly/3Y9520F <a href="https://bsky.app/profile/japan.reuters.com/post/3mamun6g5nn26" target="_blank">japan.reuters.com</a> (2025-12-23 13:05:08)</span><span style="padding-right:50px;">ドイツ自動車大手メルセデス・ベンツは、同社が関与したとされるディーゼル車の排ガス規制不正問題で米４８州、プエルトリコ、コロンビア特別区と１億４９６０万ドルを支払う和解案で合意した。米ニューヨーク州のレティシア・ジェームズ司法長官が２２日、発表した。 bit.ly/4pONW4d <a href="https://bsky.app/profile/japan.reuters.com/post/3mamuihlqwz2c" target="_blank">japan.reuters.com</a> (2025-12-23 13:02:30)</span><span style="padding-right:50px;">US president cites national security as rationale for his efforts to take control of the self-governing Arctic island. <a href="https://bsky.app/profile/aljazeera.com/post/3mamuhmyefh27" target="_blank">aljazeera.com</a> (2025-12-23 13:02:02)</span><span style="padding-right:50px;">Raheem Morris: 'Frustrating' that wins are coming too late reut.rs/4jeFc59 <a href="https://bsky.app/profile/reuters.com/post/3mamufcxl3x2s" target="_blank">reuters.com</a> (2025-12-23 13:00:45)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50420.84 (🔺46.36 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3445.00 (🔻34.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔻0.72 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50420.49 (🔺46.01 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3426.00 (🔻53.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.04 (🔻0.97 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,113 +32,105 @@
 
 ## News Headlines
 
-- Ukraine's Zelensky confirms Ukrainians taken by Russia
-- Long-term interest rates remain high at 2.1%
-- European countries boost defense spending amid Russia's threat
-- Japanese government to finalize budget plan for next year
-- Dollar falls in morning trade, yen gains
-- Australia's central bank considers interest rate hike for 2026
-- Indian states and state-run firms to test demand with $5.5 billion debt sales
-- Three people injured in pedestrian accident in Nagoya, Japan
-- Japanese police officer disciplined for leaking information to organized crime group
-- US FDA approves Danish company's obesity treatment
-- Indian economy grows strongly in November, driven by private and urban consumption
-- Multi-vehicle accident in Ibaraki, Japan
-- Australian dollar and New Zealand dollar rise in the Pacific foreign exchange market
-- Google's parent company acquires Intersect Energy for $475 million
-- US President Trump approves construction of two new warships, named 'Trump-class'
-- Google may offer cryptocurrency trading services to institutional investors
-- Barry Manilow diagnosed with lung cancer, cancels tour
-- Former Japanese Emperor commemorates 92nd birthday
-- Ukraine's Zelensky says peace talks with Russia are close to achieving real results
-- Tokyo stock market experiences small fluctuations, with buying and selling intermingling
+- Japan's central bank warns of risks to financial stability
+- US president's diplomatic row deepens over recall of diplomats
+- Mercedes-Benz agrees to pay nearly $150 million to settle emissions allegations
+- Japan to back clean-energy users with $1.3 billion in investment subsidies
+- US to test debt sales with $5.5 billion cluster
+- Judge orders Trump administration to file plan to return Venezuelans sent to El Salvador prison to US or give them hearings
+- New York City Mayor Eric Adams' failed promises and controversies
+- Volkswagen's Porsche to stop electric car charging infrastructure in China
+- Google's parent company Alphabet acquires Intersect Clean Energy for $475 million
 
 
 ----
 
 @japan.reuters.com
 
-ウクライナのゼレンスキー大統領は２２日、ロシア軍に占領された北東部スムイ州の国境沿いの村の住民は何年もの間、ロシア領の隣人と交流していたと述べ、このフラボウシケ村の住民がロシアに連れ去られたとの報道を確認した。 bit.ly/4qrq1rK
+韓国銀行（中央銀行）のチャン・ヨンソン金融政策委員は２３日、ウォン安の進行や住宅価格の上昇圧力など、金融安定を巡るリスクに引き続き警戒する必要があると述べた。 bit.ly/4pdb2ka
 
-[2025-12-23 12:45:14](https://bsky.app/profile/japan.reuters.com/post/3mamtjlsxz72p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【きょうのおはBiz 12月23日(火)】長期金利2.1％ 期待と不安感
-https://news.web.nhk/newsweb/na/na-k10015011151000
-
-[2025-12-23 12:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamtjchy2u24)
+[2025-12-23 13:08:57](https://bsky.app/profile/japan.reuters.com/post/3mamutye2hw2u)
 
 ---
 
 @japan.reuters.com
 
-米国がロシアのウクライナ侵攻終結に向けた和平合意の交渉を進めているが、欧州ではロシアの脅威の矢面に立つことを懸念する。欧州各国は、米国の圧力もあり国防費を増額し、軍装備品の充実化を図っている。だが強化は兵器などの物的資源にとどまらず、人的資源にも及んでいる。 bit.ly/44GOa5a
+トランプ米政権は、大使館に「米国第一」主義の優先事項を反映させるため、約30人の大使および上級キャリア外交官を召還する。この措置に対し、米国の外国における信頼性を弱めるとの批判が出ている。 bit.ly/3Y9520F
 
-[2025-12-23 12:44:57](https://bsky.app/profile/japan.reuters.com/post/3mamtj3fg4h2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相 来年度予算案の閣議決定へ 詰めの作業進める考え示す
-https://news.web.nhk/newsweb/na/na-k10015011281000
-
-[2025-12-23 12:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamtdwz2xs26)
+[2025-12-23 13:05:08](https://bsky.app/profile/japan.reuters.com/post/3mamun6g5nn26)
 
 ---
 
 @japan.reuters.com
 
-午前のドルは１５６円前半に下落している。利益確定の動きなどで、ドル／円は日銀の金融政策決定会合後の上げ幅の大半を削った。日本の当局者からの口先介入が強まっており、為替介入の警戒感も重しになっているとの声がある。 bit.ly/4jbqTy3
+ドイツ自動車大手メルセデス・ベンツは、同社が関与したとされるディーゼル車の排ガス規制不正問題で米４８州、プエルトリコ、コロンビア特別区と１億４９６０万ドルを支払う和解案で合意した。米ニューヨーク州のレティシア・ジェームズ司法長官が２２日、発表した。 bit.ly/4pONW4d
 
-[2025-12-23 12:40:33](https://bsky.app/profile/japan.reuters.com/post/3mamtb7svoi22)
+[2025-12-23 13:02:30](https://bsky.app/profile/japan.reuters.com/post/3mamuihlqwz2c)
 
 ---
 
-@japan.reuters.com
+@aljazeera.com
 
-オーストラリア準備銀行（中央銀行）は２３日公表した１２月８─９日の理事会の議事要旨で、このところのインフレ率上昇を踏まえ、２０２６年に利上げが必要かどうかを検討したが、確実に判断するには「もう少し」時間がかかるとの見解を示した。 bit.ly/3MR1fTl
+US president cites national security as rationale for his efforts to take control of the self-governing Arctic island.
 
-[2025-12-23 12:40:17](https://bsky.app/profile/japan.reuters.com/post/3mamtaqdfaa22)
+[2025-12-23 13:02:02](https://bsky.app/profile/aljazeera.com/post/3mamuhmyefh27)
 
 ---
 
 @reuters.com
 
-Indian states, state-run firms to test demand with $5.5 bln cluster of debt sales reut.rs/3MR17Dl
+Raheem Morris: 'Frustrating' that wins are coming too late reut.rs/4jeFc59
 
-[2025-12-23 12:40:14](https://bsky.app/profile/reuters.com/post/3mamtannmuv2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-名古屋 歩行者3人死傷事故の初公判 71歳被告 起訴内容認める
-https://news.web.nhk/newsweb/na/na-k10015011271000
-
-[2025-12-23 12:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamt6kjnyt2b)
+[2025-12-23 13:00:45](https://bsky.app/profile/reuters.com/post/3mamufcxl3x2s)
 
 ---
 
-@sokuho.news
+@nikkei.com
 
-🛎️JNNより【速報】です。
+リニア運賃「のぞみ＋700円」薄れる現実味
+www.nikkei.com/article/DGXZQO...
+ 
+JR東海は、物価高や工事難航を理由にリニア中央新幹線の東京・品川〜名古屋間の総工費を11兆円に増額。当初想定の約2倍です。
+ 
+「のぞみ＋700円」という価格設定は、初登場した2010年から見直されていません。
+ 
+JR東海はこの価格設定でも、リニア開業直後の営業キャッシュフローは同水準を保てると試算しています。一方で、価格を1000円上げるごとに年300億円ほどの増収効果があるとの見通しも示しました。
 
-【速報】警視庁暴力団対策課の警部補の男を懲戒免職処分へ 当時の上司約10人も処分方針 スカウトグループ「ナチュラル」に捜査情報を漏洩か 警視庁
-(2025-12-23 12:35:35) #ニュース
+[2025-12-23 13:00:40](https://bsky.app/profile/nikkei.com/post/3mamuf6tdht22)
 
-[2025-12-23 12:38:34](https://bsky.app/profile/sokuho.news/post/3mamt5nmc442a)
+---
+
+@cnbc.com
+
+"Start communicating like someone who deserves to be taken seriously and others will follow suit," says executive coach Melody Wilding, author of "Managing Up."
+
+The ability to package your ideas and communicate decisively changes how people perceive and respond to you in every setting.
+
+[2025-12-23 13:00:39](https://bsky.app/profile/cnbc.com/post/3mamuf54nqp23)
 
 ---
 
 @japan.reuters.com
 
-米食品医薬品局（ＦＤＡ）は２２日、デンマーク製薬大手ノボノルディスクの肥満症治療用の経口薬を承認した。注射薬に続く新たな選択肢となり、競合の米イーライ・リリーに奪われた市場シェアの奪還を目指す同社に追い風となる。 bit.ly/4apgoFb
+政府は、近く閣議決定する２０２６年度一般会計予算案で、国債利払いの想定金利を３％程度とする方向で調整に入った。複数の政府筋が明らかにした。日銀の利上げなどで市中利回りが上昇基調にある現状を踏まえ、１９９７年度の３．２％以来２９年ぶりの高水準とする。 bit.ly/3KNviuB
 
-[2025-12-23 12:38:23](https://bsky.app/profile/japan.reuters.com/post/3mamt5degh22n)
+[2025-12-23 13:00:25](https://bsky.app/profile/japan.reuters.com/post/3mamueprfuw2u)
+
+---
+
+@apnews.com
+
+Waymos stopped in the middle of intersections during a mass power outage in San Francisco over the weekend, causing the robotaxi company to suspend service for a day.
+
+[2025-12-23 13:00:08](https://bsky.app/profile/apnews.com/post/3mamue7tlay2n)
+
+---
+
+@washingtonpost.com
+
+Column: Vince Zampella, the visionary developer who was reported dead at 55 this week, oversaw Call of Duty and the industry’s biggest franchises — defining games as the artform began to crest.
+
+[2025-12-23 13:00:07](https://bsky.app/profile/washingtonpost.com/post/3mamue72dlo2m)
 
 ---
 
