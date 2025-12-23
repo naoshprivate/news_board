@@ -1,9 +1,9 @@
-# [2025-12-23 16:10 updated](2025_12_23.md)
+# [2025-12-23 16:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国の政府系業界団体である中国有色金属工業協会は２３日、スズ価格の「不当な」高騰が業界に打撃を与えているとの声明を発表した。投資家に対し、過度な投機取引を控えるよう呼びかけている。 bit.ly/4964VrT <a href="https://bsky.app/profile/japan.reuters.com/post/3man6virlns2q" target="_blank">japan.reuters.com</a> (2025-12-23 16:08:45)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】タイ少女の母親 飛行機で台湾からタイへ出発 タイ警察が人身取引などの容疑で逮捕状 (2025-12-23 16:05:31) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3man6saxqry2a" target="_blank">sokuho.news</a> (2025-12-23 16:06:56)</span><span style="padding-right:50px;">中国本土から香港へ 事前申請で車乗り入れ認める取り組み開始 https://news.web.nhk/newsweb/na/na-k10015011491000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3man6qpqn4b2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 16:06:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】認定こども園で4歳女児に暴行 保育士の女（40）逮捕 椅子を引いて転倒させる 函館市 (2025-12-23 16:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3man6pcbb3t2b" target="_blank">sokuho.news</a> (2025-12-23 16:05:17)</span><span style="padding-right:50px;">Nestle's stake in L'Oreal is a financial investment, Nestle CEO says reut.rs/44HtdXJ <a href="https://bsky.app/profile/reuters.com/post/3man6ozbdhi2x" target="_blank">reuters.com</a> (2025-12-23 16:05:07)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】認定こども園で4歳女児に暴行「イラっとしてやった」保育士の女（40）逮捕 函館市 (2025-12-23 16:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3man7zdyzan2a" target="_blank">sokuho.news</a> (2025-12-23 16:28:48)</span><span style="padding-right:50px;">北朝鮮の金正恩朝鮮労働党総書記が娘のジュエ氏と共に観光地区にあるホテルの開業式典に出席した。来年初めに開かれる予定の党大会を控え、経済発展をアピールする狙いがある。 bit.ly/3Y9bG77 <a href="https://bsky.app/profile/japan.reuters.com/post/3man7wdwh3y2u" target="_blank">japan.reuters.com</a> (2025-12-23 16:27:07)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - Marc Andreessen will summon NYC swagger for IPO reut.rs/3KIcnRW <a href="https://bsky.app/profile/reuters.com/post/3man7sqnljk2y" target="_blank">reuters.com</a> (2025-12-23 16:25:06)</span><span style="padding-right:50px;">高市早苗首相は２３日、来年度当初予算案の編成に向けた大詰めの作業を迎えた。首相就任から２カ月余り。連立の組み替えや首脳外交、今年度補正予算の編成などに取り組み、内閣支持率は高水準で推移する。２０２６年、初めての通常国会に臨む首相はどう安定政権の確立を目指すのか。国民民主党との向き合い方が問われる一方、野党内には「５月解散説」も出始めた。 bit.ly/4qmVX0a <a href="https://bsky.app/profile/japan.reuters.com/post/3man7kumxkm2c" target="_blank">japan.reuters.com</a> (2025-12-23 16:20:42)</span><span style="padding-right:50px;">性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関する資料開示を巡る米司法省の対応を受け、超党派の間で反発が強まっている。議員らはボンディ司法長官を議会侮辱罪に問うと警告し、クリントン元大統領は自身に言及したあらゆる関連文書の即時公開を求めた。 bit.ly/4qpB1Wx <a href="https://bsky.app/profile/japan.reuters.com/post/3man7jvercb2v" target="_blank">japan.reuters.com</a> (2025-12-23 16:20:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.08 (🔻0.93 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.09 (🔻0.92 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,100 +32,96 @@
 
 ## News Headlines
 
-[{"en": "China\'s state-run industry association urges restraint in copper price speculation"}, 
-{"en": "Thai mother of missing girl arrested after being accused of human trafficking"}, 
-{"en": "Japan to allow mainland China-registered cars to enter Hong Kong"}, 
-{"en": "Japanese bank to buy back up to 2.3 million shares worth 30 billion yen"}, 
-{"en": "Poland scrambles fighter jets in response to Russia\'s air strike near Ukraine border"}, 
-{"en": "Amtrak\'s new high-speed trains delayed due to planning and track issues"}]
+- North Korean Leader's Daughter Attends Hotel Opening with Him
+- Japanese Prime Minister Faces Crucial Budget Talks
+- US Analyst Warns of Doom for College Degrees
+- Nestle's Stake in L'Oreal is a Financial Investment, CEO Says
+- Japanese Bank to Buy Back Shares Worth ¥30 Billion
+- Polish Military Scrambles Jets in Response to Russian Airstrike
+
 
 ----
-
-@japan.reuters.com
-
-中国の政府系業界団体である中国有色金属工業協会は２３日、スズ価格の「不当な」高騰が業界に打撃を与えているとの声明を発表した。投資家に対し、過度な投機取引を控えるよう呼びかけている。 bit.ly/4964VrT
-
-[2025-12-23 16:08:45](https://bsky.app/profile/japan.reuters.com/post/3man6virlns2q)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】タイ少女の母親 飛行機で台湾からタイへ出発 タイ警察が人身取引などの容疑で逮捕状
-(2025-12-23 16:05:31) #ニュース
-
-[2025-12-23 16:06:56](https://bsky.app/profile/sokuho.news/post/3man6saxqry2a)
-
----
-
-@nhknewsunofficial.bsky.social
-
-中国本土から香港へ 事前申請で車乗り入れ認める取り組み開始
-https://news.web.nhk/newsweb/na/na-k10015011491000
-
-[2025-12-23 16:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3man6qpqn4b2m)
-
----
 
 @sokuho.news
 
 🛎️NNNより【速報】です。
 
-【速報】認定こども園で4歳女児に暴行 保育士の女（40）逮捕 椅子を引いて転倒させる 函館市
+【速報】認定こども園で4歳女児に暴行「イラっとしてやった」保育士の女（40）逮捕 函館市
 (2025-12-23 16:05) #ニュース
 
-[2025-12-23 16:05:17](https://bsky.app/profile/sokuho.news/post/3man6pcbb3t2b)
+[2025-12-23 16:28:48](https://bsky.app/profile/sokuho.news/post/3man7zdyzan2a)
+
+---
+
+@japan.reuters.com
+
+北朝鮮の金正恩朝鮮労働党総書記が娘のジュエ氏と共に観光地区にあるホテルの開業式典に出席した。来年初めに開かれる予定の党大会を控え、経済発展をアピールする狙いがある。 bit.ly/3Y9bG77
+
+[2025-12-23 16:27:07](https://bsky.app/profile/japan.reuters.com/post/3man7wdwh3y2u)
 
 ---
 
 @reuters.com
 
-Nestle's stake in L'Oreal is a financial investment, Nestle CEO says reut.rs/44HtdXJ
+From Breakingviews - Breakingviews - Marc Andreessen will summon NYC swagger for IPO reut.rs/3KIcnRW
 
-[2025-12-23 16:05:07](https://bsky.app/profile/reuters.com/post/3man6ozbdhi2x)
-
----
-
-@japan.reuters.com
-
-ゆうちょ銀行は２３日、発行済み株式の０．６％に当たる２３００万株・３００億円を上限とする自社株買いを決議したと発表した。取得期間は２４日から来年３月２４日まで。 bit.ly/4j7CKNA
-
-[2025-12-23 16:04:22](https://bsky.app/profile/japan.reuters.com/post/3man6nnsn452f)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ガス途中解約 “会社側 購入者に設置費用請求できず” 最高裁
-https://news.web.nhk/newsweb/na/na-k10015011451000
-
-[2025-12-23 16:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3man6ldqtx32b)
+[2025-12-23 16:25:06](https://bsky.app/profile/reuters.com/post/3man7sqnljk2y)
 
 ---
 
 @japan.reuters.com
 
-ポーランド軍は２３日、ロシアがポーランド国境付近のウクライナ西部を標的とした空爆を実施したことを受け、ポーランドと同盟国の航空機を緊急発進（スクランブル）させ、領空の安全を確保したと発表した。 bit.ly/4j7CtKy
+高市早苗首相は２３日、来年度当初予算案の編成に向けた大詰めの作業を迎えた。首相就任から２カ月余り。連立の組み替えや首脳外交、今年度補正予算の編成などに取り組み、内閣支持率は高水準で推移する。２０２６年、初めての通常国会に臨む首相はどう安定政権の確立を目指すのか。国民民主党との向き合い方が問われる一方、野党内には「５月解散説」も出始めた。 bit.ly/4qmVX0a
 
-[2025-12-23 16:02:14](https://bsky.app/profile/japan.reuters.com/post/3man6jtgule26)
+[2025-12-23 16:20:42](https://bsky.app/profile/japan.reuters.com/post/3man7kumxkm2c)
+
+---
+
+@japan.reuters.com
+
+性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関する資料開示を巡る米司法省の対応を受け、超党派の間で反発が強まっている。議員らはボンディ司法長官を議会侮辱罪に問うと警告し、クリントン元大統領は自身に言及したあらゆる関連文書の即時公開を求めた。 bit.ly/4qpB1Wx
+
+[2025-12-23 16:20:09](https://bsky.app/profile/japan.reuters.com/post/3man7jvercb2v)
 
 ---
 
 @reuters.com
 
-Report says Amtrak's new higher-speed trains delayed by planning, track issues reut.rs/3MNI3pA
+From Breakingviews - Breakingviews - Graduate job cull spells doom for college degrees reut.rs/3MR8yKL
 
-[2025-12-23 16:00:48](https://bsky.app/profile/reuters.com/post/3man6hburls2k)
+[2025-12-23 16:15:09](https://bsky.app/profile/reuters.com/post/3man7awshiy2c)
 
 ---
 
 @japan.reuters.com
 
-米国がロシアのウクライナ侵攻終結に向けた和平合意の交渉を進めているが、欧州ではロシアの脅威の矢面に立つことを懸念する。欧州各国は、米国の圧力もあり国防費を増額し、軍装備品の充実化を図っている。だが強化は兵器などの物的資源にとどまらず、人的資源にも及んでいる。 bit.ly/4apm6qB
+シドニー株式市場の株価は続伸し、１カ月超ぶりの高値を付けた。年末のポジション調整と世界的な堅調ムードを背景に、買いが優勢となった。 bit.ly/4qpAUdz
 
-[2025-12-23 16:00:34](https://bsky.app/profile/japan.reuters.com/post/3man6gulsmm2p)
+[2025-12-23 16:14:07](https://bsky.app/profile/japan.reuters.com/post/3man773h2qv26)
+
+---
+
+@wsj.com
+
+Young and hungry entrepreneurs are nothing new: Bill Gates was 19 when he co-founded Microsoft; Mark Zuckerberg was the same age when he started Facebook. But today’s founders might well have a learner’s permit and a mouthful of braces. 🔗 on.wsj.com/3LglYPU
+
+[2025-12-23 16:13:51](https://bsky.app/profile/wsj.com/post/3man76mgltk2c)
+
+---
+
+@cnbc.com
+
+European markets expected to open lower in final full session before Christmas
+
+[2025-12-23 16:13:03](https://bsky.app/profile/cnbc.com/post/3man756zhfl2p)
+
+---
+
+@japan.reuters.com
+
+ＬＩＮＥヤフーは２３日、川辺健太郎会長が来年６月の定時株主総会で退任すると発表した。川辺氏から同総会の任期満了時に退任したいとの申し出があった。今後の体制は指名報酬委員会と取締役会で検討する。 bit.ly/4p4CQXL
+
+[2025-12-23 16:10:53](https://bsky.app/profile/japan.reuters.com/post/3man6zcceqn2f)
 
 ---
 
