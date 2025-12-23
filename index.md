@@ -1,9 +1,9 @@
-# [2025-12-24 07:10 updated](2025_12_24.md)
+# [2025-12-24 07:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞大規模災害時の地域リスクを具体化 来年1月に指針策定検討会 防災庁主要事業に (2025/12/24 05:00) #ニュース https://www.sankei.com/article/20251224-KOBI4PWLXBJTNH5L34HK3OU7UA/ <a href="https://bsky.app/profile/sokuho.news/post/3maor2lpcs22s" target="_blank">sokuho.news</a> (2025-12-24 07:06:22)</span><span style="padding-right:50px;">AI companions meet the law: New York and California draw the first lines reut.rs/4pSdFsL <a href="https://bsky.app/profile/reuters.com/post/3maoqyhfodn2k" target="_blank">reuters.com</a> (2025-12-24 07:05:11)</span><span style="padding-right:50px;">The Justice Department now says a handwritten letter it released Tuesday that was signed by “J. Epstein” and addressed to convicted sex offender Larry Nassar is “fake,” asserting that the handwriting did not appear to match that of Jeffrey Epstein. https://cnn.it/4awKRRI <a href="https://bsky.app/profile/cnn.com/post/3maoqxk3aht2q" target="_blank">cnn.com</a> (2025-12-24 07:04:41)</span><span style="padding-right:50px;">Supreme Court rejects Trump's bid to send National Guard to Chicago <a href="https://bsky.app/profile/cnbc.com/post/3maoqwmkn7z2n" target="_blank">cnbc.com</a> (2025-12-24 07:04:10)</span><span style="padding-right:50px;">注）手数料は上限。税込み。単位は％。 bit.ly/4qpJ7P0 <a href="https://bsky.app/profile/japan.reuters.com/post/3maoqukf6462q" target="_blank">japan.reuters.com</a> (2025-12-24 07:03:00)</span>
+<span style="padding-right:50px;">His kids are calling it elder abuse. She says they're just mad about getting cut off. The bitter fight that erupted when a wealthy widower married his banker. on.wsj.com/3KDjsTP <a href="https://bsky.app/profile/wsj.com/post/3maosdmkvwd2e" target="_blank">wsj.com</a> (2025-12-24 07:29:19)</span><span style="padding-right:50px;">バイオ素材ベンチャーのスパイバー（山形県鶴岡市）は２３日、ソフトバンクグループの孫正義会長兼社長の長女で、ブランドコンサルティングや投資事業を手掛けるＢＯＬＤ（東京都渋谷区）の川名麻耶最高経営責任者（ＣＥＯ）と事業支援契約を結んだと発表した。条件が充足され次第、２０２６年上半期をめどに支援を行う予定。 bit.ly/497201T <a href="https://bsky.app/profile/japan.reuters.com/post/3maosblwbg42p" target="_blank">japan.reuters.com</a> (2025-12-24 07:28:12)</span><span style="padding-right:50px;">Budget shortfalls and nearly $1 trillion in looming federal Medicaid cuts have prompted states to rein in spending on a widely embraced autism therapy, pinching families who depend on the services. n.pr/496jHPj <a href="https://bsky.app/profile/npr.org/post/3maos7cr5762x" target="_blank">npr.org</a> (2025-12-24 07:26:55)</span><span style="padding-right:50px;">US drillers add oil, gas rigs for first time in three weeks, Baker Hughes says reut.rs/3L0DpUE <a href="https://bsky.app/profile/reuters.com/post/3maos46msip2k" target="_blank">reuters.com</a> (2025-12-24 07:25:10)</span><span style="padding-right:50px;">【ウーブン・シティ、2026年本格稼働】 富士山裾野のトヨタ実験都市、居住者増へ www.nikkei.com/article/DGXZQO...  UCC上島珈琲は来店客の動作をAIで分析し、コーヒーの香りや店舗の環境が集中力や作業効率に与える影響を検証。  トヨタは開発中の立ち乗り電動三輪車「Swake」と歩行者との街中での共存を模索します。 <a href="https://bsky.app/profile/nikkei.com/post/3maormxt3zd2i" target="_blank">nikkei.com</a> (2025-12-24 07:16:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.20 (🔻0.81 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.18 (🔻0.83 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,97 +32,99 @@
 
 ## News Headlines
 
-- Japan and Syria to Resume Economic Cooperation for First Time in 15 Years
-- US Subjecting Caracas to 'Greatest Extortion' in Its History: Venezuela Envoy to UN
-- South Carolina Measles Cases Rise by Nine to 153, State Health Department Says
-- Trump's AI Hiring Campaign Draws Interest from 25,000 Hopefuls
-- British Street Artist Banksy Unveils Latest Work in Central London
-- Oklahoma University Graduate Student Barred from Teaching over Gender Essay Grading Dispute
+- Widower's Marriage Sparks Bitter Fight with Kids Over Inheritance
+- SoftBank's Son Invests in Bio Material Venture
+- States Reim in Spending on Autism Therapy Amid Budget Shortfalls
+- US Drillers Add Rigs for First Time in Three Weeks
+- Toyota's Experiment City in Japan to Expand Population
+- UN Experts Urge Iran to Stop Execution of Woman Activist
 
 
 ----
 
-@sokuho.news
+@wsj.com
 
-🛎️産経より【独自】です。
+His kids are calling it elder abuse. She says they're just mad about getting cut off. The bitter fight that erupted when a wealthy widower married his banker. on.wsj.com/3KDjsTP
 
-＜独自＞大規模災害時の地域リスクを具体化 来年1月に指針策定検討会 防災庁主要事業に
-(2025/12/24 05:00) #ニュース
-https://www.sankei.com/article/20251224-KOBI4PWLXBJTNH5L34HK3OU7UA/
-
-[2025-12-24 07:06:22](https://bsky.app/profile/sokuho.news/post/3maor2lpcs22s)
-
----
-
-@reuters.com
-
-AI companions meet the law: New York and California draw the first lines reut.rs/4pSdFsL
-
-[2025-12-24 07:05:11](https://bsky.app/profile/reuters.com/post/3maoqyhfodn2k)
-
----
-
-@cnn.com
-
-The Justice Department now says a handwritten letter it released Tuesday that was signed by “J. Epstein” and addressed to convicted sex offender Larry Nassar is “fake,” asserting that the handwriting did not appear to match that of Jeffrey Epstein. https://cnn.it/4awKRRI
-
-[2025-12-24 07:04:41](https://bsky.app/profile/cnn.com/post/3maoqxk3aht2q)
-
----
-
-@cnbc.com
-
-Supreme Court rejects Trump's bid to send National Guard to Chicago
-
-[2025-12-24 07:04:10](https://bsky.app/profile/cnbc.com/post/3maoqwmkn7z2n)
+[2025-12-24 07:29:19](https://bsky.app/profile/wsj.com/post/3maosdmkvwd2e)
 
 ---
 
 @japan.reuters.com
 
-注）手数料は上限。税込み。単位は％。 bit.ly/4qpJ7P0
+バイオ素材ベンチャーのスパイバー（山形県鶴岡市）は２３日、ソフトバンクグループの孫正義会長兼社長の長女で、ブランドコンサルティングや投資事業を手掛けるＢＯＬＤ（東京都渋谷区）の川名麻耶最高経営責任者（ＣＥＯ）と事業支援契約を結んだと発表した。条件が充足され次第、２０２６年上半期をめどに支援を行う予定。 bit.ly/497201T
 
-[2025-12-24 07:03:00](https://bsky.app/profile/japan.reuters.com/post/3maoqukf6462q)
-
----
-
-@aljazeera.com
-
-Belgium joins South Africa’s genocide case against Israel at ICJ https://aje.io/49ttvf
-
-[2025-12-24 07:02:04](https://bsky.app/profile/aljazeera.com/post/3maoqsuhonl27)
+[2025-12-24 07:28:12](https://bsky.app/profile/japan.reuters.com/post/3maosblwbg42p)
 
 ---
 
-@japan.reuters.com
+@npr.org
 
-イスラエルのカッツ国防相は ２３日、パレスチナ自治区ガザへの将来的な再入植の意向を示唆した後、否定する声明を発表した。 bit.ly/4qmpvuO
+Budget shortfalls and nearly $1 trillion in looming federal Medicaid cuts have prompted states to rein in spending on a widely embraced autism therapy, pinching families who depend on the services. n.pr/496jHPj
 
-[2025-12-24 07:01:23](https://bsky.app/profile/japan.reuters.com/post/3maoqrn6m5d2v)
+[2025-12-24 07:26:55](https://bsky.app/profile/npr.org/post/3maos7cr5762x)
 
 ---
 
 @reuters.com
 
-London’s FTSE 100 edges higher as miners rally on record copper prices reut.rs/4avkiMT
+US drillers add oil, gas rigs for first time in three weeks, Baker Hughes says reut.rs/3L0DpUE
 
-[2025-12-24 07:01:04](https://bsky.app/profile/reuters.com/post/3maoqr3lzqs2p)
-
----
-
-@apnews.com
-
-It's not too late to turn the page on old habits and start reading again in 2026.
-
-[2025-12-24 07:01:00](https://bsky.app/profile/apnews.com/post/3maoqqy4boq22)
+[2025-12-24 07:25:10](https://bsky.app/profile/reuters.com/post/3maos46msip2k)
 
 ---
 
-@washingtonpost.com
+@nikkei.com
 
-Dozens of Christmas carolers gathered at Portland International Airport to greet and send travelers off with a holiday song, "O Holy Night."
+【ウーブン・シティ、2026年本格稼働】
+富士山裾野のトヨタ実験都市、居住者増へ
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-24 07:00:57](https://bsky.app/profile/washingtonpost.com/post/3maoqqv7v6s2b)
+UCC上島珈琲は来店客の動作をAIで分析し、コーヒーの香りや店舗の環境が集中力や作業効率に与える影響を検証。
+
+トヨタは開発中の立ち乗り電動三輪車「Swake」と歩行者との街中での共存を模索します。
+
+[2025-12-24 07:16:40](https://bsky.app/profile/nikkei.com/post/3maormxt3zd2i)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+UN experts urge Iran to stop execution of woman activist
+
+[2025-12-24 07:15:20](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maorkmjxg22s)
+
+---
+
+@reuters.com
+
+US judge blocks Texas app store age law meant to protect children reut.rs/49d7sk9
+
+[2025-12-24 07:15:17](https://bsky.app/profile/reuters.com/post/3maorkipgke2o)
+
+---
+
+@japan.reuters.com
+
+中南米金融市場では株式が上昇。インフレ指標が予想を下回ったブラジルとメキシコが上げを主導した。一方、通貨は米国内総生産（ＧＤＰ）統計を受けて狭いレンジで推移し、横ばいとなった。 bit.ly/3MZfXrk
+
+[2025-12-24 07:14:31](https://bsky.app/profile/japan.reuters.com/post/3maorj4zcd327)
+
+---
+
+@reuters.com
+
+Libyan army's chief dies in plane crash in Turkey reut.rs/3L0C9Rq
+
+[2025-12-24 07:10:34](https://bsky.app/profile/reuters.com/post/3maorc3gtf523)
+
+---
+
+@japan.reuters.com
+
+カナダ銀行（中央銀行）が２３日に公表した１２月１０日の政策決定会合の議事要旨で、米国の通商政策の予測が困難になっていることのほか、経済指標が大きく変動していることを背景に、７人の政策委員が中銀の次の一手が利上げになるのか、利下げになるのかを見通すのは難しいとの認識で一致していたことが分かった。 bit.ly/499Okn5
+
+[2025-12-24 07:10:19](https://bsky.app/profile/japan.reuters.com/post/3maorbmh5so2q)
 
 ---
 
