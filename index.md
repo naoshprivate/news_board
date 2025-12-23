@@ -1,9 +1,9 @@
-# [2025-12-23 14:10 updated](2025_12_23.md)
+# [2025-12-23 14:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ロシア南部スタブロポリ地方の工業施設がウクライナ無人機（ドローン）による夜間攻撃を受け、火災が発生した。ウラジミロフ知事が２３日に発表した。負傷者の報告はないという。 bit.ly/4pXU7TY <a href="https://bsky.app/profile/japan.reuters.com/post/3mamy76ojqq2u" target="_blank">japan.reuters.com</a> (2025-12-23 14:08:54)</span><span style="padding-right:50px;">AI debt boom pushes US corporate bond sales close to record ft.trib.al/6QP9Q9X <a href="https://bsky.app/profile/financialtimes.com/post/3mamxz2v6b22c" target="_blank">financialtimes.com</a> (2025-12-23 14:05:29)</span><span style="padding-right:50px;">性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関する資料開示を巡る米司法省の対応を受け、超党派の間で反発が強まっている。議員らはボンディ司法長官を議会侮辱罪に問うと警告し、クリントン元大統領は自身に言及したあらゆる関連文書の即時公開を求めた。 bit.ly/4qnvrUA <a href="https://bsky.app/profile/japan.reuters.com/post/3mamxygswyj2c" target="_blank">japan.reuters.com</a> (2025-12-23 14:05:08)</span><span style="padding-right:50px;">神戸 エレベーター転落死亡事故 事故前に制御盤の回路変更か https://news.web.nhk/newsweb/na/na-k10015011321000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamxur6blg2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 14:03:01)</span><span style="padding-right:50px;"> The good, the bad and the ugly of Britain’s labour market reforms ft.trib.al/aVLvqui  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mamxrif2s32k" target="_blank">financialtimes.com</a> (2025-12-23 14:01:14)</span>
+<span style="padding-right:50px;">ウクライナ軍は、ロシアが２３日早朝にキーウへの空爆を開始したと発表した。 bit.ly/4j7W5yg <a href="https://bsky.app/profile/japan.reuters.com/post/3mamz6betpw27" target="_blank">japan.reuters.com</a> (2025-12-23 14:26:17)</span><span style="padding-right:50px;">The Powerball jackpot has jumped to an eye-popping $1.7 billion after yet another drawing passed without a big winner. <a href="https://bsky.app/profile/apnews.com/post/3mamyyuisb42r" target="_blank">apnews.com</a> (2025-12-23 14:23:16)</span><span style="padding-right:50px;">トランプ政権 約30か国の大使や幹部に配置転換通告 米メディア https://news.web.nhk/newsweb/na/na-k10015011391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamyuy5scz2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 14:21:03)</span><span style="padding-right:50px;">上海外国為替市場の人民元相場は、中国人民銀行（中央銀行）が元高を警戒する中で、幅広く下落するドルに対し１年３カ月ぶりの高値まで上昇した。 bit.ly/45hSSX5 <a href="https://bsky.app/profile/japan.reuters.com/post/3mamyuj62vh2c" target="_blank">japan.reuters.com</a> (2025-12-23 14:20:49)</span><span style="padding-right:50px;">米配車大手ウーバー・テクノロジーズとリフトは２２日、中国の百度（バイドゥ） と提携し、来年英国で自動運転タクシーの試験運行を開始すると発表した。百度の自動運転車両「アポロ・ゴーＲＴ６」が両社の配車プラットフォームに導入される。英国は自動運転タクシー商業化に向けた試験の場として存在感を強める。 bit.ly/3LfhSYk <a href="https://bsky.app/profile/japan.reuters.com/post/3mamytfgnro27" target="_blank">japan.reuters.com</a> (2025-12-23 14:20:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50298.67 (🔻75.81 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.02 (🔻0.99 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50274.66 (🔻99.82 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3414.00 (🔻65.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.91 (🔻1.10 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,99 +32,94 @@
 
 ## News Headlines
 
-- Russia Industrial Facility Attacked by Ukrainian Drones, Fire Breaks Out
-- US Corporate Bond Sales Near Record High Due to AI Debt Boom
-- Biden Justice Department Faces Backlash Over Epstein Documents
--  Kobe Elevator Crash Investigation Points to Pre-Existing Circuit Change
-- Vietnam's Next Leadership Candidates Selected as January Congress Nears
-- France to Take Emergency Measures to Avoid Government Shutdown
+- Ukraine reports Russian air strikes on Kyiv
+- US Powerball jackpot surges to $1.7 billion
+- Dollar surges to 1-year high against yen in Shanghai
+- Uber and Lyft partner with Baidu for self-driving taxi tests in UK
+- Singapore core inflation rate lower than expected in November
+- Private credit firms pile into consumer debt, increasing risk
 
 
 ----
 
 @japan.reuters.com
 
-ロシア南部スタブロポリ地方の工業施設がウクライナ無人機（ドローン）による夜間攻撃を受け、火災が発生した。ウラジミロフ知事が２３日に発表した。負傷者の報告はないという。 bit.ly/4pXU7TY
+ウクライナ軍は、ロシアが２３日早朝にキーウへの空爆を開始したと発表した。 bit.ly/4j7W5yg
 
-[2025-12-23 14:08:54](https://bsky.app/profile/japan.reuters.com/post/3mamy76ojqq2u)
-
----
-
-@financialtimes.com
-
-AI debt boom pushes US corporate bond sales close to record ft.trib.al/6QP9Q9X
-
-[2025-12-23 14:05:29](https://bsky.app/profile/financialtimes.com/post/3mamxz2v6b22c)
+[2025-12-23 14:26:17](https://bsky.app/profile/japan.reuters.com/post/3mamz6betpw27)
 
 ---
 
-@japan.reuters.com
+@apnews.com
 
-性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関する資料開示を巡る米司法省の対応を受け、超党派の間で反発が強まっている。議員らはボンディ司法長官を議会侮辱罪に問うと警告し、クリントン元大統領は自身に言及したあらゆる関連文書の即時公開を求めた。 bit.ly/4qnvrUA
+The Powerball jackpot has jumped to an eye-popping $1.7 billion after yet another drawing passed without a big winner.
 
-[2025-12-23 14:05:08](https://bsky.app/profile/japan.reuters.com/post/3mamxygswyj2c)
+[2025-12-23 14:23:16](https://bsky.app/profile/apnews.com/post/3mamyyuisb42r)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-神戸 エレベーター転落死亡事故 事故前に制御盤の回路変更か
-https://news.web.nhk/newsweb/na/na-k10015011321000
+トランプ政権 約30か国の大使や幹部に配置転換通告 米メディア
+https://news.web.nhk/newsweb/na/na-k10015011391000
 
-[2025-12-23 14:03:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamxur6blg2v)
-
----
-
-@financialtimes.com
-
- The good, the bad and the ugly of Britain’s labour market reforms ft.trib.al/aVLvqui  | opinion
-
-[2025-12-23 14:01:14](https://bsky.app/profile/financialtimes.com/post/3mamxrif2s32k)
-
----
-
-@financialtimes.com
-
- Venture philanthropy can transform small charities ft.trib.al/pr3CLFZ  | opinion
-
-[2025-12-23 14:01:14](https://bsky.app/profile/financialtimes.com/post/3mamxrhxju42w)
-
----
-
-@nikkei.com
-
-カカオ価格急落でもチョコレート高値続き　値下げは2027年以降か
-www.nikkei.com/article/DGXZQO...
- 
-日本で現在チョコ製品に使用されているカカオは、2025年初めの最高値圏で推移していた時期に購入されたものが多数です。
- 
-高値在庫を多く抱える一方、高値による需要減退や代替油脂の使用でカカオの消費量が減少。このため、チョコレート製品の値下げは後ずれする可能性があります。
-
-[2025-12-23 14:00:40](https://bsky.app/profile/nikkei.com/post/3mamxqi3db324)
-
----
-
-@reuters.com
-
-To Lam, reformist risk-taker, seeks to extend his hold on Vietnam reut.rs/4aNpGev
-
-[2025-12-23 14:00:39](https://bsky.app/profile/reuters.com/post/3mamxqh6jjj2i)
+[2025-12-23 14:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamyuy5scz2b)
 
 ---
 
 @japan.reuters.com
 
-片山さつき財務相は２３日の閣議後会見で、足元の為替相場の動きについて「ファンダメンタルズを反映しているとは到底思えない」と指摘、投機的な動きも含め、行き過ぎた動きに対しては９月に出した日米財務相共同声明の考え方を踏まえて「対応を取る」と語った。 bit.ly/498WqfE
+上海外国為替市場の人民元相場は、中国人民銀行（中央銀行）が元高を警戒する中で、幅広く下落するドルに対し１年３カ月ぶりの高値まで上昇した。 bit.ly/45hSSX5
 
-[2025-12-23 14:00:35](https://bsky.app/profile/japan.reuters.com/post/3mamxqctypy2u)
+[2025-12-23 14:20:49](https://bsky.app/profile/japan.reuters.com/post/3mamyuj62vh2c)
 
 ---
 
-@bloomberg.com
+@japan.reuters.com
 
-President Donald Trump announced the US Navy will build a two new types of warship, including one named after himself, as part of the White House push to modernize the service’s surface fleet
+米配車大手ウーバー・テクノロジーズとリフトは２２日、中国の百度（バイドゥ） と提携し、来年英国で自動運転タクシーの試験運行を開始すると発表した。百度の自動運転車両「アポロ・ゴーＲＴ６」が両社の配車プラットフォームに導入される。英国は自動運転タクシー商業化に向けた試験の場として存在感を強める。 bit.ly/3LfhSYk
 
-[2025-12-23 14:00:33](https://bsky.app/profile/bloomberg.com/post/3mamxqapry62p)
+[2025-12-23 14:20:12](https://bsky.app/profile/japan.reuters.com/post/3mamytfgnro27)
+
+---
+
+@reuters.com
+
+Singapore core inflation at 1.2% y/y in November, lower than expected reut.rs/44Iuqy2
+
+[2025-12-23 14:20:10](https://bsky.app/profile/reuters.com/post/3mamyte4zyb2s)
+
+---
+
+@financialtimes.com
+
+Private credit firms pile into consumer debt as risk-taking mounts ft.trib.al/8NjlAws
+
+[2025-12-23 14:18:46](https://bsky.app/profile/financialtimes.com/post/3mamyqsyzjn2f)
+
+---
+
+@financialtimes.com
+
+John Elkann’s year to forget: a pile-up of problems from family to Ferrari ft.trib.al/X0rQvnI
+
+[2025-12-23 14:16:30](https://bsky.app/profile/financialtimes.com/post/3mamyms2cnh2y)
+
+---
+
+@japan.reuters.com
+
+米国が１１月下旬から西アフリカのナイジェリア上空で情報収集飛行を実施していることが飛行追跡データや米政府高官の話で分かった。トランプ大統領は１１月初め、ナイジェリア政府が国内のキリスト教徒を保護していないとして軍事行動の可能性を示唆している。 bit.ly/49bTqix
+
+[2025-12-23 14:14:19](https://bsky.app/profile/japan.reuters.com/post/3mamyiutmp42p)
+
+---
+
+@financialtimes.com
+
+House prices fall in half of London boroughs ft.trib.al/ZAJ6pqQ
+
+[2025-12-23 14:12:14](https://bsky.app/profile/financialtimes.com/post/3mamyf5qsrr24)
 
 ---
 
