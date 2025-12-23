@@ -1,9 +1,9 @@
-# [2025-12-24 07:50 updated](2025_12_24.md)
+# [2025-12-24 08:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">リビア軍のハダッド参謀総長が２３日、トルコの公式訪問からの帰途、搭乗機が墜落して死亡した。リビア暫定統一政府のドベイバ首相が発表した。 bit.ly/4pUnDKd <a href="https://bsky.app/profile/japan.reuters.com/post/3maotglo72p2n" target="_blank">japan.reuters.com</a> (2025-12-24 07:48:53)</span><span style="padding-right:50px;">An obscure company pivoted, then pivoted again, nearly ran out of money—and built a hit product on.wsj.com/4p3lwCp <a href="https://bsky.app/profile/wsj.com/post/3maotgaltg72c" target="_blank">wsj.com</a> (2025-12-24 07:48:41)</span><span style="padding-right:50px;">Modi turns his focus to reforming India’s economy ft.trib.al/b1Tu6TQ <a href="https://bsky.app/profile/financialtimes.com/post/3maotefaxjw2y" target="_blank">financialtimes.com</a> (2025-12-24 07:47:39)</span><span style="padding-right:50px;">ホンダ「シン・原チャリ」まずは好発進 www.nikkei.com/article/DGXZQO...  排ガス規制の強化で、各社が総排気量50cc以下のバイクの生産を終了。  ホンダは新基準に対応した「スーパーカブ110 Lite」などをいち早く発売しました。  価格は従来から3〜4割上がったものの、すでに2026年12月までの年間販売目標の7割弱を受注しています。 <a href="https://bsky.app/profile/nikkei.com/post/3maotclgcom2x" target="_blank">nikkei.com</a> (2025-12-24 07:46:39)</span><span style="padding-right:50px;">Suspension lifted for Bucs rookie RB Josh Williams reut.rs/4as1pKJ <a href="https://bsky.app/profile/reuters.com/post/3maota46t6f23" target="_blank">reuters.com</a> (2025-12-24 07:45:15)</span>
+<span style="padding-right:50px;">経済産業省は２４日、日米関税合意に基づく５５００億ドル（約８５兆円）の対米投融資を巡り、赤沢亮正経済産業相やラトニック米商務長官、ライト米エネルギー長官が参加する協議委員会を２３日夜にオンラインで開いたと発表した。 bit.ly/4j8J5se <a href="https://bsky.app/profile/japan.reuters.com/post/3maoujtxqkx2v" target="_blank">japan.reuters.com</a> (2025-12-24 08:08:36)</span><span style="padding-right:50px;">After years of buying shiny, new gifts for Christmas, more Americans are secondhand shopping for the holidays and strategizing how to avoid angering friends and family.  🔗: on.wsj.com/48RhHvp <a href="https://bsky.app/profile/wsj.com/post/3maougvg7ns2u" target="_blank">wsj.com</a> (2025-12-24 08:06:57)</span><span style="padding-right:50px;">警察庁 大学スポーツ部員らに薬物の使用防止など呼びかけ 横浜 https://news.web.nhk/newsweb/na/na-k10015011951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maoufctt5c2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 08:06:02)</span><span style="padding-right:50px;">Atlanta United sign Argentine GK Lucas Hoyos reut.rs/3LhcGDh <a href="https://bsky.app/profile/reuters.com/post/3maoudpjenz2i" target="_blank">reuters.com</a> (2025-12-24 08:05:10)</span><span style="padding-right:50px;">Motive, an Alphabet-backed fleet management software company, files for IPO <a href="https://bsky.app/profile/cnbc.com/post/3maou7pplbi25" target="_blank">cnbc.com</a> (2025-12-24 08:02:56)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.19 (🔻0.82 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.13 (🔻0.05 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,102 +32,97 @@
 
 ## News Headlines
 
-- Libyan army's chief dies in plane crash in Turkey
-- US Supreme Court blocks Trump's immigration crackdown in Chicago
-- US drillers add oil, gas rigs for first time in three weeks
-- Bank of Canada uncertain on next rate move
-- Autism therapy spending cut in US states due to budget shortfalls
-- Woman arrested in California on charge of murdering her missing 9-year-old daughter
+- Japan and US Agree on $55 Billion Loan to US
+- Secondhand Shopping Gains Popularity in US During Holiday Season
+- Police Urge University Athletes in Japan to Prevent Drug Abuse
+- Atlanta United Signs Argentine Goalkeeper Lucas Hoyos
+- Barry Manilow Recovering After Lung Cancer Diagnosis
+- Frida CEO Shares Her Journey of Taking Risks
 
 
 ----
 
 @japan.reuters.com
 
-リビア軍のハダッド参謀総長が２３日、トルコの公式訪問からの帰途、搭乗機が墜落して死亡した。リビア暫定統一政府のドベイバ首相が発表した。 bit.ly/4pUnDKd
+経済産業省は２４日、日米関税合意に基づく５５００億ドル（約８５兆円）の対米投融資を巡り、赤沢亮正経済産業相やラトニック米商務長官、ライト米エネルギー長官が参加する協議委員会を２３日夜にオンラインで開いたと発表した。 bit.ly/4j8J5se
 
-[2025-12-24 07:48:53](https://bsky.app/profile/japan.reuters.com/post/3maotglo72p2n)
+[2025-12-24 08:08:36](https://bsky.app/profile/japan.reuters.com/post/3maoujtxqkx2v)
 
 ---
 
 @wsj.com
 
-An obscure company pivoted, then pivoted again, nearly ran out of money—and built a hit product on.wsj.com/4p3lwCp
+After years of buying shiny, new gifts for Christmas, more Americans are secondhand shopping for the holidays and strategizing how to avoid angering friends and family.
 
-[2025-12-24 07:48:41](https://bsky.app/profile/wsj.com/post/3maotgaltg72c)
+🔗: on.wsj.com/48RhHvp
 
----
-
-@financialtimes.com
-
-Modi turns his focus to reforming India’s economy ft.trib.al/b1Tu6TQ
-
-[2025-12-24 07:47:39](https://bsky.app/profile/financialtimes.com/post/3maotefaxjw2y)
+[2025-12-24 08:06:57](https://bsky.app/profile/wsj.com/post/3maougvg7ns2u)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-ホンダ「シン・原チャリ」まずは好発進
-www.nikkei.com/article/DGXZQO...
+警察庁 大学スポーツ部員らに薬物の使用防止など呼びかけ 横浜
+https://news.web.nhk/newsweb/na/na-k10015011951000
 
-排ガス規制の強化で、各社が総排気量50cc以下のバイクの生産を終了。
-
-ホンダは新基準に対応した「スーパーカブ110 Lite」などをいち早く発売しました。
-
-価格は従来から3〜4割上がったものの、すでに2026年12月までの年間販売目標の7割弱を受注しています。
-
-[2025-12-24 07:46:39](https://bsky.app/profile/nikkei.com/post/3maotclgcom2x)
+[2025-12-24 08:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maoufctt5c2v)
 
 ---
 
 @reuters.com
 
-Suspension lifted for Bucs rookie RB Josh Williams reut.rs/4as1pKJ
+Atlanta United sign Argentine GK Lucas Hoyos reut.rs/3LhcGDh
 
-[2025-12-24 07:45:15](https://bsky.app/profile/reuters.com/post/3maota46t6f23)
-
----
-
-@cnn.com
-
-The mother of a missing 9-year-old California girl has been arrested on a charge of first-degree murder after her daughter’s remains were found in a rural area of southern Utah, Santa Barbara County Sheriff-Coroner Bill Brown said. https://cnn.it/4qrHbp3
-
-[2025-12-24 07:44:20](https://bsky.app/profile/cnn.com/post/3maot6hnlhe2v)
+[2025-12-24 08:05:10](https://bsky.app/profile/reuters.com/post/3maoudpjenz2i)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Bank of Canada can't tell if next rate move will be a hike or a cut, say minutes reut.rs/4pQvW9E
+Motive, an Alphabet-backed fleet management software company, files for IPO
 
-[2025-12-24 07:40:18](https://bsky.app/profile/reuters.com/post/3maosxafnai2o)
+[2025-12-24 08:02:56](https://bsky.app/profile/cnbc.com/post/3maou7pplbi25)
 
 ---
 
 @usatoday.com
 
-The Justice Department said a letter signed "J. Epstein" and addressed to convicted sex offender Larry Nassar is fake. 
+Barry Manilow is recovering after catching a "cancerous spot" on his lung. Here's what to know about lung cancer's signs, symptoms and prognosis.
 
-The department said the FBI reviewed the letter, which was included in the latest tranche of Epstein files released Dec. 23.
-
-[2025-12-24 07:39:13](https://bsky.app/profile/usatoday.com/post/3maosvctkee2z)
+[2025-12-24 08:01:22](https://bsky.app/profile/usatoday.com/post/3maou4vnyip2t)
 
 ---
 
 @japan.reuters.com
 
-＜日本企業ＡＤＲ銘柄＞ bit.ly/4sd71Pe
+ニューヨーク外為市場ではクリスマスを控えた薄商いの中、ドルが円やユーロなどの主要通貨に対し下落した。第３・四半期の米経済成長率が予想を上回ったものの、連邦準備理事会（ＦＲＢ）に対する利下げ圧力が意識されていることがドル相場の重しになっている。 bit.ly/44GzF18
 
-[2025-12-24 07:38:50](https://bsky.app/profile/japan.reuters.com/post/3maosum2uvc22)
+[2025-12-24 08:01:14](https://bsky.app/profile/japan.reuters.com/post/3maou4nrmdx2v)
 
 ---
 
 @reuters.com
 
-Egypt's Salah ties African greats with AFCON scoring streak reut.rs/4qbqm29
+Turkey says signal lost with jet carrying Libyan army chief after takeoff from Ankara reut.rs/3L6jy6u
 
-[2025-12-24 07:35:09](https://bsky.app/profile/reuters.com/post/3maosnzor4f2b)
+[2025-12-24 08:01:04](https://bsky.app/profile/reuters.com/post/3maou4ets242y)
+
+---
+
+@cnbc.com
+
+Frida CEO Chelsea Hirschhorn shared how she got comfortable taking risks. 
+
+[2025-12-24 08:00:26](https://bsky.app/profile/cnbc.com/post/3maou3aquvs2y)
+
+---
+
+@washingtonpost.com
+
+Thousands of internal chat messages show how ICE’s public affairs arm has raced to satisfy the White House by pumping out viral videos of confrontations and arrests.
+https://wapo.st/4j7GWgk
+
+[2025-12-24 08:00:22](https://bsky.app/profile/washingtonpost.com/post/3maou34xlq723)
 
 ---
 
