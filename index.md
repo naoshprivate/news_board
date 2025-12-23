@@ -1,9 +1,9 @@
-# [2025-12-23 22:10 updated](2025_12_23.md)
+# [2025-12-23 22:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Catholic Bishops is Florida want a holiday moratorium on immigration enforcement so people can go to church and celebrate Christmas and New Years. <a href="https://bsky.app/profile/npr.org/post/3mansus4e6c24" target="_blank">npr.org</a> (2025-12-23 22:06:16)</span><span style="padding-right:50px;">デンマーク製薬大手ノボノルディスクの株価が２３日朝方の取引で７．５％上昇した。米食品医薬品局（ＦＤＡ）が同社の肥満治療用飲み薬を承認したことを受け、急成長する肥満治療市場で競争上の優位を確保したとの見方が広がった。 bit.ly/4j8CYEe <a href="https://bsky.app/profile/japan.reuters.com/post/3manssygs5b2q" target="_blank">japan.reuters.com</a> (2025-12-23 22:05:16)</span><span style="padding-right:50px;">Visa and Mastercard report 4% growth in US holiday retail sales reut.rs/3YFKA7J <a href="https://bsky.app/profile/reuters.com/post/3manssutfdn2x" target="_blank">reuters.com</a> (2025-12-23 22:05:12)</span><span style="padding-right:50px;">Three dead after Russia launches 'massive' attack across Ukraine <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3manssq2iur2s" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-23 22:05:06)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】青森・八戸 地震で損傷のNTTビル「鉄塔倒壊恐れなし」避難指示通行止め解除 (2025年12月23日 22:03) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/02/ <a href="https://bsky.app/profile/sokuho.news/post/3mansqm7uig2b" target="_blank">sokuho.news</a> (2025-12-23 22:03:56)</span>
+<span style="padding-right:50px;">Government forced into climbdown on inheritance tax for farmers ft.trib.al/NyTBpkn <a href="https://bsky.app/profile/financialtimes.com/post/3manu3jyvkt2k" target="_blank">financialtimes.com</a> (2025-12-23 22:27:56)</span><span style="padding-right:50px;">China launches trade dispute against India over solar cells and IT goods reut.rs/45ppJcC <a href="https://bsky.app/profile/reuters.com/post/3mantwjov672i" target="_blank">reuters.com</a> (2025-12-23 22:25:08)</span><span style="padding-right:50px;">BREAKING: Justice Department releases third batch of Jeffrey Epstein files, including some that mention President Trump. <a href="https://bsky.app/profile/nbcnews.com/post/3manttcedmj2d" target="_blank">nbcnews.com</a> (2025-12-23 22:23:20)</span><span style="padding-right:50px;">カーリング女子日本代表が帰国 五輪へ意気込み話す https://news.web.nhk/newsweb/na/na-k10015011971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mantpbc6pl2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 22:21:04)</span><span style="padding-right:50px;">The FDA approved the first GLP-1 weight-loss pill—a tablet formulation of Novo Nordisk’s Ozempic and Wegovy—ushering in a new era of the obesity-drugs revolution that is expected to broaden their use.  Read more: 🔗 on.wsj.com/4qrOPjm <a href="https://bsky.app/profile/wsj.com/post/3mantp6q6bo2o" target="_blank">wsj.com</a> (2025-12-23 22:21:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.05 (🔻0.96 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.06 (🔻0.95 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,105 +32,97 @@
 
 ## News Headlines
 
-- Catholic Bishops in Florida Seek Immigration Enforcement Holiday Moratorium
-- Novo Nordisk Stock Jumps 7.5% After FDA Approves Obesity Pill
-- Three Dead in 'Massive' Russian Attack on Ukraine
-- Country Bars Boom Across US, Drawing Outlaws to Line Dancing
-- Trump's Anti-DEI Campaign Faces High Legal Hurdles
-- North Korea's Kim Jong Un Opens Lavish Mountain Resort for Daughter
+- Government Forced into Inheritance Tax Climbdown on Farmers
+- China Launches Trade Dispute Against India Over Solar Cells and IT Goods
+- Justice Department Releases Third Batch of Jeffrey Epstein Files, Including Some That Mention President Trump
+- FDA Approves First GLP-1 Weight-Loss Pill
+- Thailand Rejects Cambodia's Request for Bilateral Talks on Border Clashes
+- At Least Five Killed in Mexican Navy Plane Crash in Texas
 
 
 ----
 
-@npr.org
+@financialtimes.com
 
-Catholic Bishops is Florida want a holiday moratorium on immigration enforcement so people can go to church and celebrate Christmas and New Years.
+Government forced into climbdown on inheritance tax for farmers ft.trib.al/NyTBpkn
 
-[2025-12-23 22:06:16](https://bsky.app/profile/npr.org/post/3mansus4e6c24)
-
----
-
-@japan.reuters.com
-
-デンマーク製薬大手ノボノルディスクの株価が２３日朝方の取引で７．５％上昇した。米食品医薬品局（ＦＤＡ）が同社の肥満治療用飲み薬を承認したことを受け、急成長する肥満治療市場で競争上の優位を確保したとの見方が広がった。 bit.ly/4j8CYEe
-
-[2025-12-23 22:05:16](https://bsky.app/profile/japan.reuters.com/post/3manssygs5b2q)
+[2025-12-23 22:27:56](https://bsky.app/profile/financialtimes.com/post/3manu3jyvkt2k)
 
 ---
 
 @reuters.com
 
-Visa and Mastercard report 4% growth in US holiday retail sales reut.rs/3YFKA7J
+China launches trade dispute against India over solar cells and IT goods reut.rs/45ppJcC
 
-[2025-12-23 22:05:12](https://bsky.app/profile/reuters.com/post/3manssutfdn2x)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Three dead after Russia launches 'massive' attack across Ukraine
-
-[2025-12-23 22:05:06](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3manssq2iur2s)
+[2025-12-23 22:25:08](https://bsky.app/profile/reuters.com/post/3mantwjov672i)
 
 ---
 
-@sokuho.news
+@nbcnews.com
 
-🔔ANNより【速報】です。
+<strong><span style="color: red;">BREAKING:</span> Justice Department releases third batch of Jeffrey Epstein files, including some that mention President Trump.</strong>
 
-【速報】青森・八戸 地震で損傷のNTTビル「鉄塔倒壊恐れなし」避難指示通行止め解除
-(2025年12月23日 22:03) #ニュース
-
-🟪避難情報
-🔗https://crisis.yahoo.co.jp/evacuation/02/
-
-[2025-12-23 22:03:56](https://bsky.app/profile/sokuho.news/post/3mansqm7uig2b)
+[2025-12-23 22:23:20](https://bsky.app/profile/nbcnews.com/post/3manttcedmj2d)
 
 ---
 
-@cnbc.com
+@nhknewsunofficial.bsky.social
 
-Successful couples know how to compromise in a high stakes time like the holidays, says Sabrina Romanoff. 
+カーリング女子日本代表が帰国 五輪へ意気込み話す
+https://news.web.nhk/newsweb/na/na-k10015011971000
 
-[2025-12-23 22:02:58](https://bsky.app/profile/cnbc.com/post/3mansouowv62e)
+[2025-12-23 22:21:04](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mantpbc6pl2x)
 
 ---
 
 @wsj.com
 
-From New York City to Chicago to Portland, bars are riding a country boom, drawing everyone from outlaw singers to finance bros for ‘countryoke’ and line dancing. on.wsj.com/498VAzk
+The FDA approved the first GLP-1 weight-loss pill—a tablet formulation of Novo Nordisk’s Ozempic and Wegovy—ushering in a new era of the obesity-drugs revolution that is expected to broaden their use.
 
-[2025-12-23 22:02:40](https://bsky.app/profile/wsj.com/post/3mansodyen62t)
+Read more: 🔗 on.wsj.com/4qrOPjm
+
+[2025-12-23 22:21:02](https://bsky.app/profile/wsj.com/post/3mantp6q6bo2o)
+
+---
+
+@en.afp.com
+
+🇹🇭 🇰🇭 Thailand has rejected a request by Cambodia to hold bilateral talks in a neutral country, leaving a planned meeting to negotiate an end to deadly border clashes in doubt. 
+➡️ u.afp.com/S8fF
+
+[2025-12-23 22:20:02](https://bsky.app/profile/en.afp.com/post/3mantnfgf6p2q)
 
 ---
 
 @reuters.com
 
-Trump's anti-corporate DEI campaign faces high legal hurdles reut.rs/44HFXO3
+Jared Kushner's withdrawal from Serbia will hurt investment, official says reut.rs/49qluzV
 
-[2025-12-23 22:01:11](https://bsky.app/profile/reuters.com/post/3manslpnxlq2y)
-
----
-
-@nikkei.com
-
-【将来は｢月の砂｣でガラスも】
-タカラスタンダード、ホーローを宇宙用素材に
-www.nikkei.com/article/DGXZQO...
-
-国内の住宅市場が縮小に向かうなか、月面の建物向けに素材を開発することを目指します。
-
-月の砂はガラス質を含むため、性質が近い砂を用いて真空下でホーローを作る実験を始めています。
-
-[2025-12-23 22:00:39](https://bsky.app/profile/nikkei.com/post/3manskqh4uj2n)
+[2025-12-23 22:15:15](https://bsky.app/profile/reuters.com/post/3manteu4chy2y)
 
 ---
 
-@apnews.com
+@cnbc.com
 
-Paramount is sweetening its hostile takeover bid for Warner Bros. Discovery with an "irrevocable personal guarantee" from Larry Ellison, who is putting up billions of dollars to back the deal for his son's company.
+Here are Tuesday's biggest analyst calls: Nvidia, Apple, Tesla, Levi's, Coty, Meta, First Solar, Live Nation & more
 
-[2025-12-23 22:00:32](https://bsky.app/profile/apnews.com/post/3manskjvvm42x)
+[2025-12-23 22:14:25](https://bsky.app/profile/cnbc.com/post/3mantdegv7t2e)
+
+---
+
+@reuters.com
+
+Syria detains prominent American Islamist journalist, sources say reut.rs/4p77fEI
+
+[2025-12-23 22:10:29](https://bsky.app/profile/reuters.com/post/3mant4d27o723)
+
+---
+
+@japan.reuters.com
+
+オランダの市場監督当局（ＡＦＭ）への提出資料によると、物言う株主として知られる投資会社セビアン・キャピタルは、塗料大手アクゾノーベルの保有比率を１０％超に引き上げた。２３日に明らかになった。 bit.ly/4j7R0pA
+
+[2025-12-23 22:10:23](https://bsky.app/profile/japan.reuters.com/post/3mant45r47r27)
 
 ---
 
