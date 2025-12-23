@@ -1,9 +1,9 @@
-# [2025-12-23 15:10 updated](2025_12_23.md)
+# [2025-12-23 15:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ブラジルのボルソナロ前大統領の長男フラビオ上院議員は１９日、ロイターのインタビューに応じ、出馬意向を表明している来年の大統領選について、父親より穏健な政策を掲げ、小さな政府、減税、民営化を実現することを計画していると述べた。 bit.ly/4pNPDyX <a href="https://bsky.app/profile/japan.reuters.com/post/3man3jvvzqc2q" target="_blank">japan.reuters.com</a> (2025-12-23 15:08:35)</span><span style="padding-right:50px;">Maple Leafs fire assistant coach Marc Savard reut.rs/4qnwXWM <a href="https://bsky.app/profile/reuters.com/post/3man3dpfyit2i" target="_blank">reuters.com</a> (2025-12-23 15:05:07)</span><span style="padding-right:50px;">午前中盤のインド株式市場は小動き。ＩＴ株の下落が重しとなった。アナリストによると、新たな手掛かりが少なく、年末の薄商いも相場の下げ要因となっている。 bit.ly/4p4GEYX <a href="https://bsky.app/profile/japan.reuters.com/post/3man3a5vvve2f" target="_blank">japan.reuters.com</a> (2025-12-23 15:03:08)</span><span style="padding-right:50px;">Singapore consumer inflation remains steady at 1.2% in November, missing estimates <a href="https://bsky.app/profile/cnbc.com/post/3man3a4e3ae2e" target="_blank">cnbc.com</a> (2025-12-23 15:03:06)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR阪和線 きょう2度目の運転見合わせ…車両・線路確認の影響で (2025-12-23 14:52) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3man34g2yd425" target="_blank">sokuho.news</a> (2025-12-23 15:01:02)</span>
+<span style="padding-right:50px;">＜１５：０３＞　午後3時のドルは156円ちょうど付近へ反落、日銀利上げ前の水準迫る bit.ly/44GQNUF <a href="https://bsky.app/profile/japan.reuters.com/post/3man47byzhc2q" target="_blank">japan.reuters.com</a> (2025-12-23 15:20:32)</span><span style="padding-right:50px;">ブルームバーグは２２日、米高級百貨店サックス・フィフス・アベニューの親会社が巨額の債務返済を前にした最終手段として、連邦破産法１１条（日本の民事再生法に相当）を裁判所に申請することを検討していると報じた。 bit.ly/45lk47m <a href="https://bsky.app/profile/japan.reuters.com/post/3man46ngwez25" target="_blank">japan.reuters.com</a> (2025-12-23 15:20:11)</span><span style="padding-right:50px;">Novo's Wegovy pill to test demand from consumers with cash reut.rs/4ba3wD0 <a href="https://bsky.app/profile/reuters.com/post/3man3vph3tf23" target="_blank">reuters.com</a> (2025-12-23 15:15:11)</span><span style="padding-right:50px;">金の現物価格が２３日、史上最高値を更新し、１オンス＝４５００ドルに迫った。米国とベネズエラの緊張の高まりを受け、安全資産とされる金に投資家が殺到している。銀も最高値を更新した。 bit.ly/4jbatFT <a href="https://bsky.app/profile/japan.reuters.com/post/3man3vig5at2c" target="_blank">japan.reuters.com</a> (2025-12-23 15:15:03)</span><span style="padding-right:50px;">How many friends are too many? Your brain has an actual number. on.wsj.com/3L0sKJr <a href="https://bsky.app/profile/wsj.com/post/3man3ptcwfg2r" target="_blank">wsj.com</a> (2025-12-23 15:11:54)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50363.15 (🔻11.33 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3421.00 (🔻58.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.04 (🔻0.96 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50362.69 (🔻11.79 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3421.00 (🔻58.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.09 (🔻0.92 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,15 +32,79 @@
 
 ## News Headlines
 
-- Brazilian Former President's Son Announces Presidential Bid with Moderate Policies
-- Maple Leafs Fire Assistant Coach Marc Savard
-- Singapore Consumer Inflation Remains Steady at 1.2% in November
-- Oversupply of Whisky in Scotland Increases Risk of Job Cuts and Distillery Closures
-- Ukraine Drone Attack Sparks Fire at Industrial Site in Russia's Stavropol Region
-- US Treasury Department Chooses Different Coin Designs for America's 250th Anniversary
+- Dollar Plummets to 156 Japanese Yen Ahead of BOJ Interest Rate Decision
+- Saks Fifth Avenue Parent Company Considers Bankruptcy as Debt Repayment Looms
+- Gold and Silver Prices Hit Record Highs Amid Rising US-Venezuela Tensions
+- India's Economy Remains Strong, Driven by Private Consumption and Urban Demand
+- Pakistan to Receive Bids for PIA Privatization in Televised Auction
+- Bolsonaro's Son Announces Presidential Bid with Promise of Smaller Government and Tax Cuts
 
 
 ----
+
+@japan.reuters.com
+
+＜１５：０３＞　午後3時のドルは156円ちょうど付近へ反落、日銀利上げ前の水準迫る bit.ly/44GQNUF
+
+[2025-12-23 15:20:32](https://bsky.app/profile/japan.reuters.com/post/3man47byzhc2q)
+
+---
+
+@japan.reuters.com
+
+ブルームバーグは２２日、米高級百貨店サックス・フィフス・アベニューの親会社が巨額の債務返済を前にした最終手段として、連邦破産法１１条（日本の民事再生法に相当）を裁判所に申請することを検討していると報じた。 bit.ly/45lk47m
+
+[2025-12-23 15:20:11](https://bsky.app/profile/japan.reuters.com/post/3man46ngwez25)
+
+---
+
+@reuters.com
+
+Novo's Wegovy pill to test demand from consumers with cash reut.rs/4ba3wD0
+
+[2025-12-23 15:15:11](https://bsky.app/profile/reuters.com/post/3man3vph3tf23)
+
+---
+
+@japan.reuters.com
+
+金の現物価格が２３日、史上最高値を更新し、１オンス＝４５００ドルに迫った。米国とベネズエラの緊張の高まりを受け、安全資産とされる金に投資家が殺到している。銀も最高値を更新した。 bit.ly/4jbatFT
+
+[2025-12-23 15:15:03](https://bsky.app/profile/japan.reuters.com/post/3man3vig5at2c)
+
+---
+
+@wsj.com
+
+How many friends are too many? Your brain has an actual number. on.wsj.com/3L0sKJr
+
+[2025-12-23 15:11:54](https://bsky.app/profile/wsj.com/post/3man3ptcwfg2r)
+
+---
+
+@japan.reuters.com
+
+インド準備銀行（中央銀行）は２２日発表した月報で、インド経済は民間と都市部の消費需要に支えられ、１１月も力強い成長の勢いを維持したと明らかにした。 bit.ly/4pPn6ce
+
+[2025-12-23 15:10:10](https://bsky.app/profile/japan.reuters.com/post/3man3mqfgvq22)
+
+---
+
+@reuters.com
+
+Pakistan to receive bids for PIA privatisation in televised auction reut.rs/45eFEuh
+
+[2025-12-23 15:10:09](https://bsky.app/profile/reuters.com/post/3man3mpblm42y)
+
+---
+
+@forbes.com
+
+This is now the fourth biggest lottery prize of all time and the second biggest of 2025 so far.
+
+[2025-12-23 15:10:04](https://bsky.app/profile/forbes.com/post/3man3ml6car2g)
+
+---
 
 @japan.reuters.com
 
@@ -55,78 +119,6 @@
 Maple Leafs fire assistant coach Marc Savard reut.rs/4qnwXWM
 
 [2025-12-23 15:05:07](https://bsky.app/profile/reuters.com/post/3man3dpfyit2i)
-
----
-
-@japan.reuters.com
-
-午前中盤のインド株式市場は小動き。ＩＴ株の下落が重しとなった。アナリストによると、新たな手掛かりが少なく、年末の薄商いも相場の下げ要因となっている。 bit.ly/4p4GEYX
-
-[2025-12-23 15:03:08](https://bsky.app/profile/japan.reuters.com/post/3man3a5vvve2f)
-
----
-
-@cnbc.com
-
-Singapore consumer inflation remains steady at 1.2% in November, missing estimates
-
-[2025-12-23 15:03:06](https://bsky.app/profile/cnbc.com/post/3man3a4e3ae2e)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】JR阪和線 きょう2度目の運転見合わせ…車両・線路確認の影響で
-(2025-12-23 14:52) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-23 15:01:02](https://bsky.app/profile/sokuho.news/post/3man34g2yd425)
-
----
-
-@reuters.com
-
-Ukrainian drone attack sparks fire at industrial site in Russia's Stavropol region, governor says reut.rs/498UROU
-
-[2025-12-23 15:00:41](https://bsky.app/profile/reuters.com/post/3man33shlqh2r)
-
----
-
-@japan.reuters.com
-
-米有力右派シンクタンク、ヘリテージ財団は過去数日で十数人の職員が辞職したり、解雇されたりしたと明らかにした。同財団は反ユダヤ主義とされる人物と同調していると元支持者から批判されている。 bit.ly/498Up3a
-
-[2025-12-23 15:00:30](https://bsky.app/profile/japan.reuters.com/post/3man33h2u342f)
-
----
-
-@washingtonpost.com
-
-The U.S. Citizens Coinage Advisory Committee settled on five options for coins marking America’s 250th anniversary, including Frederick Douglass and Ruby Bridges.
-
-But the Treasury Department instead will include George Washington, Thomas Jefferson and Abraham Lincoln. https://wapo.st/49c6WCU
-
-[2025-12-23 15:00:13](https://bsky.app/profile/washingtonpost.com/post/3man32wp2ts24)
-
----
-
-@aljazeera.com
-
-Follow the news? Take our quiz to see if you can locate some of the biggest stories of 2025.
-
-[2025-12-23 15:00:04](https://bsky.app/profile/aljazeera.com/post/3man32olrkl2i)
-
----
-
-@japan.reuters.com
-
-格付け会社フィッチは２２日、外部の民間債権者の大半との関係が正常化したことを受け、ウクライナの長期外貨建てソブリン格付けを「制限付きデフォルト」（ＲＤ）から「ＣＣＣ」に引き上げた。ウクライナは先週１８日、国内総生産（ＧＤＰ）連動ワラント債（経済成長が一定水準を超えると返済額が上乗せされる債券）の２６億ドル規模の債務再編について合意した。 bit.ly/3MPxN08
-
-[2025-12-23 14:56:28](https://bsky.app/profile/japan.reuters.com/post/3man2uazdzs2q)
 
 ---
 
