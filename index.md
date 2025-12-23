@@ -1,9 +1,9 @@
-# [2025-12-23 09:30 updated](2025_12_23.md)
+# [2025-12-23 09:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Trump bemoans destroyed reputations from Epstein files in his first public comments since Dept. of Justice release: https://cnn.it/3YbK2GD <a href="https://bsky.app/profile/cnn.com/post/3mamikpzm2i23" target="_blank">cnn.com</a> (2025-12-23 09:29:01)</span><span style="padding-right:50px;">President Trump said he will oversee the development of a new class of Navy battleship — named after himself. <a href="https://bsky.app/profile/washingtonpost.com/post/3mamihjad2v2x" target="_blank">washingtonpost.com</a> (2025-12-23 09:27:14)</span><span style="padding-right:50px;">象印マホービンが急伸している。２０２５年１１月期の連結純利益予想を前期比７％減の５９億８０００万円（従来予想は４８億円）に上方修正し、手掛かりになっている。株価は一時４％超高の１６８２円に上昇した。 bit.ly/496YRPU <a href="https://bsky.app/profile/japan.reuters.com/post/3mamihfqdjs2q" target="_blank">japan.reuters.com</a> (2025-12-23 09:27:10)</span><span style="padding-right:50px;">IMF reaches staff-level agreement on Egypt's fifth, sixth loan-programme reviews reut.rs/4avoRXo <a href="https://bsky.app/profile/reuters.com/post/3mamidrzcr42c" target="_blank">reuters.com</a> (2025-12-23 09:25:08)</span><span style="padding-right:50px;">米連邦通信委員会（ＦＣＣ）は２２日、中国のＤＪＩなど全ての外国製ドローンと部品について、米国内での新モデルの輸入または販売の承認を禁止すると発表した。これらのメーカーを国家安全保障上、容認できないリスクをもたらすと見なされる企業のリストに追加する。 bit.ly/3YGwgff <a href="https://bsky.app/profile/japan.reuters.com/post/3mamidf4jj222" target="_blank">japan.reuters.com</a> (2025-12-23 09:24:55)</span>
+<span style="padding-right:50px;">欧州中央銀行（ＥＣＢ）のシュナーベル理事は２２日公表のインタビューで、当面はＥＣＢの利上げは予想していないとの考えを示した。ただ、根強いインフレ圧力を背景に、最終的には金利を引き上げる必要があると述べた。 bit.ly/3YLxZ2Q <a href="https://bsky.app/profile/japan.reuters.com/post/3mamjhptyx32q" target="_blank">japan.reuters.com</a> (2025-12-23 09:45:14)</span><span style="padding-right:50px;">Brazil's Azul launches share offering to raise $1.33 billion reut.rs/4p9cJir <a href="https://bsky.app/profile/reuters.com/post/3mamjhnvz2i2y" target="_blank">reuters.com</a> (2025-12-23 09:45:12)</span><span style="padding-right:50px;">The US president said construction of the ships, outfitted with hypersonic weapons, electric railguns and high-powered lasers, would begin ‘almost immediately’. ft.trib.al/q1hjPTh <a href="https://bsky.app/profile/financialtimes.com/post/3mamjecpefg2y" target="_blank">financialtimes.com</a> (2025-12-23 09:43:20)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】国道53号で路線バスと軽乗用車が衝突 乗客が軽傷の模様【岡山】 (2025-12-23 09:13:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mamj7if4r725" target="_blank">sokuho.news</a> (2025-12-23 09:40:38)</span><span style="padding-right:50px;">The Food and Drug Administration today approved a daily pill version of Novo Nordisk's blockbuster weight-loss drug Wegovy that the company said will be available early in the new year. <a href="https://bsky.app/profile/axios.com/post/3mamj76qac22v" target="_blank">axios.com</a> (2025-12-23 09:40:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50484.25 (🔺109.77 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3466.00 (🔻13.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.79 (🔻0.22 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50360.77 (🔻13.71 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3451.00 (🔻28.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.74 (🔻0.27 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,96 +32,100 @@
 
 ## News Headlines
 
-- Trump bemoans destroyed reputations from Epstein files
-- Trump announces 'Trump-class' battleships for US Navy's 'Golden Fleet'
+- ECB's Schnabel says no rate hike expected in near term
+- Azul raises $1.33 billion in share offering
+- US President announces 'Trump-class' battleships
+- Bus and light car crash in Japan's Okayama, passengers slightly injured
+- FDA approves daily pill version of Novo Nordisk's weight-loss drug
 - IMF reaches staff-level agreement on Egypt's fifth, sixth loan-programme reviews
-- US FCC bans all Chinese drone makers and components from new model imports and sales
-- Activist investor Nelson Peltz's Trian, VC General Catalyst agree to buy Jana Henderson for $7.4B
-- FAFO parents are back, and they're not tiptoeing around their kids' feelings anymore
 
 
 ----
 
-@cnn.com
-
-President Trump bemoans destroyed reputations from Epstein files in his first public comments since Dept. of Justice release: https://cnn.it/3YbK2GD
-
-[2025-12-23 09:29:01](https://bsky.app/profile/cnn.com/post/3mamikpzm2i23)
-
----
-
-@washingtonpost.com
-
-President Trump said he will oversee the development of a new class of Navy battleship — named after himself.
-
-[2025-12-23 09:27:14](https://bsky.app/profile/washingtonpost.com/post/3mamihjad2v2x)
-
----
-
 @japan.reuters.com
 
-象印マホービンが急伸している。２０２５年１１月期の連結純利益予想を前期比７％減の５９億８０００万円（従来予想は４８億円）に上方修正し、手掛かりになっている。株価は一時４％超高の１６８２円に上昇した。 bit.ly/496YRPU
+欧州中央銀行（ＥＣＢ）のシュナーベル理事は２２日公表のインタビューで、当面はＥＣＢの利上げは予想していないとの考えを示した。ただ、根強いインフレ圧力を背景に、最終的には金利を引き上げる必要があると述べた。 bit.ly/3YLxZ2Q
 
-[2025-12-23 09:27:10](https://bsky.app/profile/japan.reuters.com/post/3mamihfqdjs2q)
+[2025-12-23 09:45:14](https://bsky.app/profile/japan.reuters.com/post/3mamjhptyx32q)
 
 ---
 
 @reuters.com
 
-IMF reaches staff-level agreement on Egypt's fifth, sixth loan-programme reviews reut.rs/4avoRXo
+Brazil's Azul launches share offering to raise $1.33 billion reut.rs/4p9cJir
 
-[2025-12-23 09:25:08](https://bsky.app/profile/reuters.com/post/3mamidrzcr42c)
-
----
-
-@japan.reuters.com
-
-米連邦通信委員会（ＦＣＣ）は２２日、中国のＤＪＩなど全ての外国製ドローンと部品について、米国内での新モデルの輸入または販売の承認を禁止すると発表した。これらのメーカーを国家安全保障上、容認できないリスクをもたらすと見なされる企業のリストに追加する。 bit.ly/3YGwgff
-
-[2025-12-23 09:24:55](https://bsky.app/profile/japan.reuters.com/post/3mamidf4jj222)
-
----
-
-@japan.reuters.com
-
-アクティビスト（物言う投資家）のネルソン・ペルツ氏のトライアン、ベンチャーキャピタル（ＶＣ）ジェネラル・カタリストなどの投資家グループは、アクティブ運用大手ジャナス・ヘンダーソンを７４億ドルで買収し非公開化することで合意した。 bit.ly/4qrkTE4
-
-[2025-12-23 09:20:27](https://bsky.app/profile/japan.reuters.com/post/3mami3fwfui2q)
-
----
-
-@wsj.com
-
-Done with tiptoeing around their kids’ feelings, FAFO parents are back. 🔗: on.wsj.com/4p6wZ4r
-
-[2025-12-23 09:20:21](https://bsky.app/profile/wsj.com/post/3mami3aamj42h)
-
----
-
-@japan.reuters.com
-
-米金融・債券市場では、国債利回りが上昇した。市場は年末を控え、様子見ムードが広がっている。 bit.ly/4qlJJ8b
-
-[2025-12-23 09:20:21](https://bsky.app/profile/japan.reuters.com/post/3mami37kgww2c)
-
----
-
-@en.afp.com
-
-Victims of Jeffrey Epstein join a chorus of criticism over the Trump administration's slow release and heavy redaction of records from the investigation into the disgraced US financier's alleged sex crimes   
-🇺🇸 ⤵️
-
-u.afp.com/S8NP
-
-[2025-12-23 09:20:01](https://bsky.app/profile/en.afp.com/post/3mami2mv54i2u)
+[2025-12-23 09:45:12](https://bsky.app/profile/reuters.com/post/3mamjhnvz2i2y)
 
 ---
 
 @financialtimes.com
 
-Donald Trump announces ‘Trump-class’ battleships for US Navy’s ‘Golden Fleet’ ft.trib.al/2H8cRp2
+The US president said construction of the ships, outfitted with hypersonic weapons, electric railguns and high-powered lasers, would begin ‘almost immediately’. ft.trib.al/q1hjPTh
 
-[2025-12-23 09:17:27](https://bsky.app/profile/financialtimes.com/post/3mamhvzpbjc2y)
+[2025-12-23 09:43:20](https://bsky.app/profile/financialtimes.com/post/3mamjecpefg2y)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】国道53号で路線バスと軽乗用車が衝突 乗客が軽傷の模様【岡山】
+(2025-12-23 09:13:00) #ニュース
+
+[2025-12-23 09:40:38](https://bsky.app/profile/sokuho.news/post/3mamj7if4r725)
+
+---
+
+@axios.com
+
+The Food and Drug Administration today approved a daily pill version of Novo Nordisk's blockbuster weight-loss drug Wegovy that the company said will be available early in the new year.
+
+[2025-12-23 09:40:28](https://bsky.app/profile/axios.com/post/3mamj76qac22v)
+
+---
+
+@reuters.com
+
+Report: Chiefs sign QB Shane Buechele as Gardner Minshew lands on IR reut.rs/4b02TMj
+
+[2025-12-23 09:40:22](https://bsky.app/profile/reuters.com/post/3mamj6zpizi2y)
+
+---
+
+@japan.reuters.com
+
+米動画配信大手ネットフリックスは、メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）買収に向け、約５９０億ドルのつなぎ融資の一部を借り換えた。規制当局に２２日付で届け出た書類で明らかになった。 bit.ly/4jcXLGL
+
+[2025-12-23 09:40:17](https://bsky.app/profile/japan.reuters.com/post/3mamj6uvmh72c)
+
+---
+
+@wsj.com
+
+The Amazonification of Whole Foods is ramping up. Cue the Red Bull and Spicy Sweet Chili Doritos by the exit. on.wsj.com/4s22Gyj
+
+[2025-12-23 09:40:13](https://bsky.app/profile/wsj.com/post/3mamj6quecz2i)
+
+---
+
+@sokuho.news
+
+🛎️産経より【独自】です。
+
+＜独自＞大阪メトロ導入の「顔パス改札」、利用可能な券購入者わずか1・3万人 程遠い普及
+(2025/12/23 09:30) #ニュース
+https://www.sankei.com/article/20251223-5CBCXDSSSBKMTGAO6CREHBTKUI/
+
+[2025-12-23 09:40:00](https://bsky.app/profile/sokuho.news/post/3mamj6efqzl2b)
+
+---
+
+@japan.reuters.com
+
+国際サッカー連盟（ＦＩＦＡ）は２２日、最新の男子世界ランキングを発表し、日本は前回と変わらず１８位に入った。アジア勢最上位。年内の発表は今回が最後となる。 bit.ly/48RmgG1
+
+[2025-12-23 09:39:39](https://bsky.app/profile/japan.reuters.com/post/3mamj5qaifx2c)
 
 ---
 
