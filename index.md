@@ -1,9 +1,9 @@
-# [2025-12-23 12:10 updated](2025_12_23.md)
+# [2025-12-23 12:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">インドネシアの対米関税交渉を率いるハルタルト経済担当調整相は、米国との間の「全ての重要な問題」は双方で解決済みであり、貿易協定は来年早々にも両国首脳によって署名される可能性があると述べた。米通商代表部（ＵＳＴＲ）のグリア代表と会談した後、２２日遅くにワシントンからインドネシアメディアとのビデオブリーフィングに応じた。 bit.ly/48Qu9LV <a href="https://bsky.app/profile/japan.reuters.com/post/3mamrhjvvzj2f" target="_blank">japan.reuters.com</a> (2025-12-23 12:08:18)</span><span style="padding-right:50px;">株価 小幅な値動き 売り買いが交錯する展開 https://news.web.nhk/newsweb/na/na-k10015011231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamrdklwkf2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 12:06:02)</span><span style="padding-right:50px;">片山さつき財務相は２２日のブルームバーグのインタビューで、植田和男日銀総裁の１９日の記者会見後に進んだ円安について「非常に短い時間での動き。完全にファンダメンタルズではなくて投機だ」と指摘し、このような動きに対し、９月の日米財務相共同声明に基づき「断固として措置を取る、アクションを取るということを申し上げている」と述べた。 bit.ly/3Y8NPo8 <a href="https://bsky.app/profile/japan.reuters.com/post/3mamrbuhbjj2f" target="_blank">japan.reuters.com</a> (2025-12-23 12:05:08)</span><span style="padding-right:50px;">Democratic Rep. Rep. Joyce Beatty filed a lawsuit today aimed at stopping the Trump administration from renaming the John F. Kennedy Center for the Performing Arts the "Trump-Kennedy Center." <a href="https://bsky.app/profile/axios.com/post/3mamr7lordk2x" target="_blank">axios.com</a> (2025-12-23 12:03:51)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】名古屋大学から｢掃除中、何らかの薬品が爆発した｣と通報 名古屋・千種区 (2025-12-23 11:59:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mamr55fwd22v" target="_blank">sokuho.news</a> (2025-12-23 12:02:29)</span>
+<span style="padding-right:50px;">New York City Mayor Eric Adams once called himself the "future of the Democratic Party." What went wrong? https://cnn.it/49qt2Tm <a href="https://bsky.app/profile/cnn.com/post/3mamsmll5ew23" target="_blank">cnn.com</a> (2025-12-23 12:29:01)</span><span style="padding-right:50px;">ドイツ自動車大手フォルクスワーゲン（ＶＷ）の高級スポーツ車部門ポルシェは来年、中国で電気自動車（ＥＶ）向け充電インフラを廃止する計画だ。中国政府系メディアの第一財経が２２日、同社中国法人の話として報じた。 bit.ly/498U6Fs <a href="https://bsky.app/profile/japan.reuters.com/post/3mamsmhcpfd2q" target="_blank">japan.reuters.com</a> (2025-12-23 12:28:57)</span><span style="padding-right:50px;">俳優の女性2人に性的暴行の罪 映画監督に懲役10年求刑 https://news.web.nhk/newsweb/na/na-k10015011241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamsj4ncb424" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 12:27:02)</span><span style="padding-right:50px;">＜１２：１５＞　午前のドル156円前半に下落、利食いなど　介入警戒も重し bit.ly/3YGFvvX <a href="https://bsky.app/profile/japan.reuters.com/post/3mamsipm33h25" target="_blank">japan.reuters.com</a> (2025-12-23 12:26:51)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】名古屋大学「掃除中に薬品が爆発」119番通報 テトラクロロシランか 3人病院に搬送 (2025-12-23 12:09) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mamsgahvzf2x" target="_blank">sokuho.news</a> (2025-12-23 12:25:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50442.12 (🔺67.64 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3435.00 (🔻44.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔻0.73 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50442.12 (🔺67.64 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3435.00 (🔻44.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.30 (🔻0.71 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,60 +32,76 @@
 
 ## News Headlines
 
-- Indonesia Says All Major Trade Issues Resolved, Trade Deal May Be Signed Early Next Year
-- Stocks Experience Small Price Movements with Buying and Selling in Conflict
-- Japan's Finance Minister Suggests Yen's Drop is Speculative
-- U.S. Coast Guard Continues to Pursue Oil Tanker near Venezuela
-- Saks Fifth Avenue Parent Company Considers Bankruptcy Filing
-- U.K. Chancellor Asks for Budget Outlook in March
-- U.S. Treasury Department Faces Backlash Over Handling of Epstein Documents
-- Government to Decide on Discontinuation of Solar Power Feed-in Tariff
-- South Korea's Hanwha Ocean Sees Shares Jump 10% After Trump's Announcement
-- Japanese Government to Decide on New Cybersecurity Strategy
-- Oil Prices Fall as Market Weighs Venezuela and Russia Supply Risks
-- Activist Investor Nelson Peltz's Firm Agrees to Buy Jana Henderson for $7.4 Billion
-- Japan's Government to Decide on Budget for Next Year, Expected to Exceed 122 Trillion Yen
-- Government to Decide on Basic Plan for AI Utilization and Development
-- U.S. FCC Bans Importation and Sale of All Foreign-Made Drones and Parts
-- Eye Drop Approved for Drooping Eyelid Condition
-- Stocks and Precious Metals Rise, Yen on Intervention Watch
-- Retail Stores Open on Christmas Eve: Kohl's, TJ Maxx Hours and More
-- Barry Manilow to Undergo Surgery for Cancerous Lung Spot
-- FDA Approves Wegovy Pill for Weight Loss
+- New York City Mayor Eric Adams' Future in Question
+- Volkswagen to Discontinue EV Charging Infrastructure in China
+- Film Director Sentenced to 10 Years in Prison for Sexual Assault
+- Nagoya University Explosion: 3 Injured in Cleaning Accident
+- Google Parent Alphabet Acquires Intertech for $475 Million
+- US Approves Two New Aircraft Carriers, Naming Them After Trump
 
 
 ----
 
+@cnn.com
+
+New York City Mayor Eric Adams once called himself the "future of the Democratic Party." What went wrong? https://cnn.it/49qt2Tm
+
+[2025-12-23 12:29:01](https://bsky.app/profile/cnn.com/post/3mamsmll5ew23)
+
+---
+
 @japan.reuters.com
 
-インドネシアの対米関税交渉を率いるハルタルト経済担当調整相は、米国との間の「全ての重要な問題」は双方で解決済みであり、貿易協定は来年早々にも両国首脳によって署名される可能性があると述べた。米通商代表部（ＵＳＴＲ）のグリア代表と会談した後、２２日遅くにワシントンからインドネシアメディアとのビデオブリーフィングに応じた。 bit.ly/48Qu9LV
+ドイツ自動車大手フォルクスワーゲン（ＶＷ）の高級スポーツ車部門ポルシェは来年、中国で電気自動車（ＥＶ）向け充電インフラを廃止する計画だ。中国政府系メディアの第一財経が２２日、同社中国法人の話として報じた。 bit.ly/498U6Fs
 
-[2025-12-23 12:08:18](https://bsky.app/profile/japan.reuters.com/post/3mamrhjvvzj2f)
+[2025-12-23 12:28:57](https://bsky.app/profile/japan.reuters.com/post/3mamsmhcpfd2q)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-株価 小幅な値動き 売り買いが交錯する展開
-https://news.web.nhk/newsweb/na/na-k10015011231000
+俳優の女性2人に性的暴行の罪 映画監督に懲役10年求刑
+https://news.web.nhk/newsweb/na/na-k10015011241000
 
-[2025-12-23 12:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamrdklwkf2d)
+[2025-12-23 12:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamsj4ncb424)
 
 ---
 
 @japan.reuters.com
 
-片山さつき財務相は２２日のブルームバーグのインタビューで、植田和男日銀総裁の１９日の記者会見後に進んだ円安について「非常に短い時間での動き。完全にファンダメンタルズではなくて投機だ」と指摘し、このような動きに対し、９月の日米財務相共同声明に基づき「断固として措置を取る、アクションを取るということを申し上げている」と述べた。 bit.ly/3Y8NPo8
+＜１２：１５＞　午前のドル156円前半に下落、利食いなど　介入警戒も重し bit.ly/3YGFvvX
 
-[2025-12-23 12:05:08](https://bsky.app/profile/japan.reuters.com/post/3mamrbuhbjj2f)
+[2025-12-23 12:26:51](https://bsky.app/profile/japan.reuters.com/post/3mamsipm33h25)
 
 ---
 
-@axios.com
+@sokuho.news
 
-Democratic Rep. Rep. Joyce Beatty filed a lawsuit today aimed at stopping the Trump administration from renaming the John F. Kennedy Center for the Performing Arts the "Trump-Kennedy Center."
+🛎️NNNより【速報】です。
 
-[2025-12-23 12:03:51](https://bsky.app/profile/axios.com/post/3mamr7lordk2x)
+【速報】名古屋大学「掃除中に薬品が爆発」119番通報 テトラクロロシランか 3人病院に搬送
+(2025-12-23 12:09) #ニュース
+
+[2025-12-23 12:25:28](https://bsky.app/profile/sokuho.news/post/3mamsgahvzf2x)
+
+---
+
+@japan.reuters.com
+
+グーグルの親会社アルファベットは２２日、クリーンエネルギー開発を手がけるインターセクトを、債務を含めて現金４７億５０００万ドルで買収すると発表した。 bit.ly/4aqpFgc
+
+[2025-12-23 12:25:09](https://bsky.app/profile/japan.reuters.com/post/3mamsfnryft27)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】名古屋大学「掃除中に薬品が爆発」119番通報 テトロクロロシランか 3人病院に搬送
+(2025-12-23 12:09) #ニュース
+
+[2025-12-23 12:23:17](https://bsky.app/profile/sokuho.news/post/3mamscczlqm2b)
 
 ---
 
@@ -93,59 +109,27 @@ Democratic Rep. Rep. Joyce Beatty filed a lawsuit today aimed at stopping the Tr
 
 🛎️JNNより【速報】です。
 
-【速報】名古屋大学から｢掃除中、何らかの薬品が爆発した｣と通報 名古屋・千種区
+【速報】｢掃除中 何らかの薬品が爆発した｣と名古屋大学から通報 けが人がいるとの情報も 名古屋・千種区
 (2025-12-23 11:59:00) #ニュース
 
-[2025-12-23 12:02:29](https://bsky.app/profile/sokuho.news/post/3mamr55fwd22v)
+[2025-12-23 12:22:16](https://bsky.app/profile/sokuho.news/post/3mamsajetfm2z)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-男性にも不妊の知識を　「プレコンケア」広がる
-www.nikkei.com/article/DGXZQO...
- 
-不妊のうち半分は男性側に原因があることが分かっています。
- 
-ただ男性は妊娠に関する知識が不足していることが多く、不妊リスクを高める生活習慣をしてしまったり、治療が遅れたりすることが多々あります。
- 
-そのなかで、将来を見据えて性や妊娠に関する知識を身につける「プレコンセプションケア」が注目されてきています。
+米大統領 「トランプ級」と名付け 新たな戦艦2隻の建造を承認
+https://news.web.nhk/newsweb/na/na-k10015011251000
 
-[2025-12-23 12:00:53](https://bsky.app/profile/nikkei.com/post/3mamr2brest2x)
+[2025-12-23 12:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mams6fdqd32b)
 
 ---
 
 @reuters.com
 
-Indian shares set for muted start after two sessions of rally reut.rs/4aNmfED
+Beijing court jails Zhongzhi Enterprise's former chairman for illegally taking public funds reut.rs/459Mr8A
 
-[2025-12-23 12:00:50](https://bsky.app/profile/reuters.com/post/3mamr26ksuv2r)
-
----
-
-@usatoday.com
-
-It's "A Charlie Brown Christmas" week. Here's how to watch the "Peanuts" holiday special, including if will air on TV this year.
-
-[2025-12-23 12:00:31](https://bsky.app/profile/usatoday.com/post/3mamqzn2v222g)
-
----
-
-@washingtonpost.com
-
-Winter storms. Mechanical delays. Other people. There are many factors beyond your control that can ruin traveling. But one that is squarely on you can slow you down at security: how you pack.
-
-Here are some of the most common items that get flagged.
-
-[2025-12-23 12:00:08](https://bsky.app/profile/washingtonpost.com/post/3mamqywi3mk24)
-
----
-
-@cbsnews.com
-
-U.S. Coast Guard still pursuing an oil tanker near Venezuela, source says, as Trump administration continues pressure campaign.
-
-[2025-12-23 12:00:01](https://bsky.app/profile/cbsnews.com/post/3mamqypqhou2i)
+[2025-12-23 12:20:17](https://bsky.app/profile/reuters.com/post/3mams4xhqkp2k)
 
 ---
 
