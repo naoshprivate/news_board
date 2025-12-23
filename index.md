@@ -1,9 +1,9 @@
-# [2025-12-23 09:10 updated](2025_12_23.md)
+# [2025-12-23 09:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米国時間の原油先物は２％超上昇して取引を終えた。米沿岸警備隊が週末にベネズエラ沖の国際水域で石油タンカーの拿捕（だほ）を試みたことや、ウクライナがロシア南部にある黒海沿岸の村でドローン（無人機）攻撃を行ったことなどが材料となり、石油供給が途絶するリスクが高まった。 bit.ly/4pU00S2 <a href="https://bsky.app/profile/japan.reuters.com/post/3mamh7ztpd625" target="_blank">japan.reuters.com</a> (2025-12-23 09:05:09)</span><span style="padding-right:50px;">New York Times reporter sues Google, xAI, OpenAI over chatbot training reut.rs/44CVjDx <a href="https://bsky.app/profile/reuters.com/post/3mamh7znlyi2i" target="_blank">reuters.com</a> (2025-12-23 09:05:08)</span><span style="padding-right:50px;">Jim Cramer looks back at 2025's biggest market themes <a href="https://bsky.app/profile/cnbc.com/post/3mamh7kjydx2n" target="_blank">cnbc.com</a> (2025-12-23 09:04:53)</span><span style="padding-right:50px;">“Stranger Things” actor Finn Wolfhard says he once called Jesse Eisenberg to ask for help on managing anxiety. “I thought, who’s the most anxious actor I know?” 🔗 on.wsj.com/4pKt5zb <a href="https://bsky.app/profile/wsj.com/post/3mamh5eefbk2c" target="_blank">wsj.com</a> (2025-12-23 09:03:39)</span><span style="padding-right:50px;">カナダのカーニー首相は２２日、新駐米大使に米資産運用大手ブラックロックの元幹部であるマーク・ワイズマン氏を任命したと明らかにした。トランプ米大統領の関税政策に対する取り組みに重点を置くという。 bit.ly/4p8FuMk <a href="https://bsky.app/profile/japan.reuters.com/post/3mamh3pvrv62u" target="_blank">japan.reuters.com</a> (2025-12-23 09:02:44)</span>
+<span style="padding-right:50px;">President Trump bemoans destroyed reputations from Epstein files in his first public comments since Dept. of Justice release: https://cnn.it/3YbK2GD <a href="https://bsky.app/profile/cnn.com/post/3mamikpzm2i23" target="_blank">cnn.com</a> (2025-12-23 09:29:01)</span><span style="padding-right:50px;">President Trump said he will oversee the development of a new class of Navy battleship — named after himself. <a href="https://bsky.app/profile/washingtonpost.com/post/3mamihjad2v2x" target="_blank">washingtonpost.com</a> (2025-12-23 09:27:14)</span><span style="padding-right:50px;">象印マホービンが急伸している。２０２５年１１月期の連結純利益予想を前期比７％減の５９億８０００万円（従来予想は４８億円）に上方修正し、手掛かりになっている。株価は一時４％超高の１６８２円に上昇した。 bit.ly/496YRPU <a href="https://bsky.app/profile/japan.reuters.com/post/3mamihfqdjs2q" target="_blank">japan.reuters.com</a> (2025-12-23 09:27:10)</span><span style="padding-right:50px;">IMF reaches staff-level agreement on Egypt's fifth, sixth loan-programme reviews reut.rs/4avoRXo <a href="https://bsky.app/profile/reuters.com/post/3mamidrzcr42c" target="_blank">reuters.com</a> (2025-12-23 09:25:08)</span><span style="padding-right:50px;">米連邦通信委員会（ＦＣＣ）は２２日、中国のＤＪＩなど全ての外国製ドローンと部品について、米国内での新モデルの輸入または販売の承認を禁止すると発表した。これらのメーカーを国家安全保障上、容認できないリスクをもたらすと見なされる企業のリストに追加する。 bit.ly/3YGwgff <a href="https://bsky.app/profile/japan.reuters.com/post/3mamidf4jj222" target="_blank">japan.reuters.com</a> (2025-12-23 09:24:55)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.79 (🔻0.21 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50484.25 (🔺109.77 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3466.00 (🔻13.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.79 (🔻0.22 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,100 +32,96 @@
 
 ## News Headlines
 
-- US Crude Oil Futures Surge 2% Ahead of Trading Cessation
-- New York Times Reporter Sues Google, xAI, OpenAI Over Chatbot Training
-- Jim Cramer Looks Back at 2025's Biggest Market Themes
-- Canadian Prime Minister Appoints New US Ambassador with Focus on Trump Tariffs
-- US Stocks Close Higher as Tech Stocks Rebound
-- Former Trump Official Mark Wiseman Named Canada's New US Ambassador
+- Trump bemoans destroyed reputations from Epstein files
+- Trump announces 'Trump-class' battleships for US Navy's 'Golden Fleet'
+- IMF reaches staff-level agreement on Egypt's fifth, sixth loan-programme reviews
+- US FCC bans all Chinese drone makers and components from new model imports and sales
+- Activist investor Nelson Peltz's Trian, VC General Catalyst agree to buy Jana Henderson for $7.4B
+- FAFO parents are back, and they're not tiptoeing around their kids' feelings anymore
 
 
 ----
 
+@cnn.com
+
+President Trump bemoans destroyed reputations from Epstein files in his first public comments since Dept. of Justice release: https://cnn.it/3YbK2GD
+
+[2025-12-23 09:29:01](https://bsky.app/profile/cnn.com/post/3mamikpzm2i23)
+
+---
+
+@washingtonpost.com
+
+President Trump said he will oversee the development of a new class of Navy battleship — named after himself.
+
+[2025-12-23 09:27:14](https://bsky.app/profile/washingtonpost.com/post/3mamihjad2v2x)
+
+---
+
 @japan.reuters.com
 
-米国時間の原油先物は２％超上昇して取引を終えた。米沿岸警備隊が週末にベネズエラ沖の国際水域で石油タンカーの拿捕（だほ）を試みたことや、ウクライナがロシア南部にある黒海沿岸の村でドローン（無人機）攻撃を行ったことなどが材料となり、石油供給が途絶するリスクが高まった。 bit.ly/4pU00S2
+象印マホービンが急伸している。２０２５年１１月期の連結純利益予想を前期比７％減の５９億８０００万円（従来予想は４８億円）に上方修正し、手掛かりになっている。株価は一時４％超高の１６８２円に上昇した。 bit.ly/496YRPU
 
-[2025-12-23 09:05:09](https://bsky.app/profile/japan.reuters.com/post/3mamh7ztpd625)
+[2025-12-23 09:27:10](https://bsky.app/profile/japan.reuters.com/post/3mamihfqdjs2q)
 
 ---
 
 @reuters.com
 
-New York Times reporter sues Google, xAI, OpenAI over chatbot training reut.rs/44CVjDx
+IMF reaches staff-level agreement on Egypt's fifth, sixth loan-programme reviews reut.rs/4avoRXo
 
-[2025-12-23 09:05:08](https://bsky.app/profile/reuters.com/post/3mamh7znlyi2i)
+[2025-12-23 09:25:08](https://bsky.app/profile/reuters.com/post/3mamidrzcr42c)
 
 ---
 
-@cnbc.com
+@japan.reuters.com
 
-Jim Cramer looks back at 2025's biggest market themes
+米連邦通信委員会（ＦＣＣ）は２２日、中国のＤＪＩなど全ての外国製ドローンと部品について、米国内での新モデルの輸入または販売の承認を禁止すると発表した。これらのメーカーを国家安全保障上、容認できないリスクをもたらすと見なされる企業のリストに追加する。 bit.ly/3YGwgff
 
-[2025-12-23 09:04:53](https://bsky.app/profile/cnbc.com/post/3mamh7kjydx2n)
+[2025-12-23 09:24:55](https://bsky.app/profile/japan.reuters.com/post/3mamidf4jj222)
+
+---
+
+@japan.reuters.com
+
+アクティビスト（物言う投資家）のネルソン・ペルツ氏のトライアン、ベンチャーキャピタル（ＶＣ）ジェネラル・カタリストなどの投資家グループは、アクティブ運用大手ジャナス・ヘンダーソンを７４億ドルで買収し非公開化することで合意した。 bit.ly/4qrkTE4
+
+[2025-12-23 09:20:27](https://bsky.app/profile/japan.reuters.com/post/3mami3fwfui2q)
 
 ---
 
 @wsj.com
 
-“Stranger Things” actor Finn Wolfhard says he once called Jesse Eisenberg to ask for help on managing anxiety. “I thought, who’s the most anxious actor I know?” 🔗 on.wsj.com/4pKt5zb
+Done with tiptoeing around their kids’ feelings, FAFO parents are back. 🔗: on.wsj.com/4p6wZ4r
 
-[2025-12-23 09:03:39](https://bsky.app/profile/wsj.com/post/3mamh5eefbk2c)
-
----
-
-@japan.reuters.com
-
-カナダのカーニー首相は２２日、新駐米大使に米資産運用大手ブラックロックの元幹部であるマーク・ワイズマン氏を任命したと明らかにした。トランプ米大統領の関税政策に対する取り組みに重点を置くという。 bit.ly/4p8FuMk
-
-[2025-12-23 09:02:44](https://bsky.app/profile/japan.reuters.com/post/3mamh3pvrv62u)
-
----
-
-@bloomberg.com
-
-Across the US, affordability concerns are intensifying and infusing the political conversation. How do you feel about your finances right now?
-
-Bloomberg reporters want to hear your story 
-
-[2025-12-23 09:01:19](https://bsky.app/profile/bloomberg.com/post/3mamgz74bc723)
-
----
-
-@usatoday.com
-
-Chris Rea, the British blues-rock singer known for the holiday classic "Driving Home for Christmas," has died at age 74.
-
-[2025-12-23 09:01:05](https://bsky.app/profile/usatoday.com/post/3mamgyrr3z72l)
-
----
-
-@cnn.com
-
-Now a full-throated MAGA supporter, the rapper spent years criticizing Trump’s anti-immigration stance. https://cnn.it/4qkTa7L
-
-[2025-12-23 09:01:04](https://bsky.app/profile/cnn.com/post/3mamgyqmici2o)
+[2025-12-23 09:20:21](https://bsky.app/profile/wsj.com/post/3mami3aamj42h)
 
 ---
 
 @japan.reuters.com
 
-米国株式市場は上昇して取引を終えた。テクノロジー株の反発が続いたほか、幅広い銘柄が買われ、Ｓ＆Ｐ総合５００種の主要１１セクターがほぼ全て上昇する展開となった。 bit.ly/4jgMy8o
+米金融・債券市場では、国債利回りが上昇した。市場は年末を控え、様子見ムードが広がっている。 bit.ly/4qlJJ8b
 
-[2025-12-23 09:00:58](https://bsky.app/profile/japan.reuters.com/post/3mamgykdhu622)
+[2025-12-23 09:20:21](https://bsky.app/profile/japan.reuters.com/post/3mami37kgww2c)
 
 ---
 
-@nikkei.com
+@en.afp.com
 
-アメリカ特使「グリーンランドを米国の一部に」　トランプ氏の任命に欧州が一斉反発
-www.nikkei.com/article/DGXZQO...
- 
-SNSで南部ルイジアナ州の知事をデンマーク自治領グリーンランド担当特使に任命すると発表。
- 
-国ではないグリーンランドのために特使を用意するのは、領有に向けたトランプ氏の野心のあらわれ。世論工作の形跡も報じられ、欧州で危機感が強まっています。
+Victims of Jeffrey Epstein join a chorus of criticism over the Trump administration's slow release and heavy redaction of records from the investigation into the disgraced US financier's alleged sex crimes   
+🇺🇸 ⤵️
 
-[2025-12-23 09:00:40](https://bsky.app/profile/nikkei.com/post/3mamgxzdgdc2y)
+u.afp.com/S8NP
+
+[2025-12-23 09:20:01](https://bsky.app/profile/en.afp.com/post/3mami2mv54i2u)
+
+---
+
+@financialtimes.com
+
+Donald Trump announces ‘Trump-class’ battleships for US Navy’s ‘Golden Fleet’ ft.trib.al/2H8cRp2
+
+[2025-12-23 09:17:27](https://bsky.app/profile/financialtimes.com/post/3mamhvzpbjc2y)
 
 ---
 
