@@ -1,9 +1,9 @@
-# [2025-12-23 15:30 updated](2025_12_23.md)
+# [2025-12-23 15:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">＜１５：０３＞　午後3時のドルは156円ちょうど付近へ反落、日銀利上げ前の水準迫る bit.ly/44GQNUF <a href="https://bsky.app/profile/japan.reuters.com/post/3man47byzhc2q" target="_blank">japan.reuters.com</a> (2025-12-23 15:20:32)</span><span style="padding-right:50px;">ブルームバーグは２２日、米高級百貨店サックス・フィフス・アベニューの親会社が巨額の債務返済を前にした最終手段として、連邦破産法１１条（日本の民事再生法に相当）を裁判所に申請することを検討していると報じた。 bit.ly/45lk47m <a href="https://bsky.app/profile/japan.reuters.com/post/3man46ngwez25" target="_blank">japan.reuters.com</a> (2025-12-23 15:20:11)</span><span style="padding-right:50px;">Novo's Wegovy pill to test demand from consumers with cash reut.rs/4ba3wD0 <a href="https://bsky.app/profile/reuters.com/post/3man3vph3tf23" target="_blank">reuters.com</a> (2025-12-23 15:15:11)</span><span style="padding-right:50px;">金の現物価格が２３日、史上最高値を更新し、１オンス＝４５００ドルに迫った。米国とベネズエラの緊張の高まりを受け、安全資産とされる金に投資家が殺到している。銀も最高値を更新した。 bit.ly/4jbatFT <a href="https://bsky.app/profile/japan.reuters.com/post/3man3vig5at2c" target="_blank">japan.reuters.com</a> (2025-12-23 15:15:03)</span><span style="padding-right:50px;">How many friends are too many? Your brain has an actual number. on.wsj.com/3L0sKJr <a href="https://bsky.app/profile/wsj.com/post/3man3ptcwfg2r" target="_blank">wsj.com</a> (2025-12-23 15:11:54)</span>
+<span style="padding-right:50px;">政府 メガソーラー導入支援 廃止含め検討 どうなる太陽光発電 https://news.web.nhk/newsweb/na/na-k10015011191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3man5qozr5h2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 15:48:08)</span><span style="padding-right:50px;">新潟県知事 原子力規制委に原発の安全性向上を要望 https://news.web.nhk/newsweb/na/na-k10015011461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3man5qjwks32u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 15:48:02)</span><span style="padding-right:50px;">Thai central bank, finance ministry to hold briefing on baht on Tuesday reut.rs/4pR7C7N <a href="https://bsky.app/profile/reuters.com/post/3man5ldz2bt2b" target="_blank">reuters.com</a> (2025-12-23 15:45:11)</span><span style="padding-right:50px;">午後３時のドル／円は、前日ニューヨーク市場の終盤から下落し１５６円ちょうど付近で取引されている。一時１５５円後半まで一段安となり、日銀が利上げを実施した１９日以来の水準へ反落した。クリスマス休暇前に短期筋がドル買いや円売りを巻き戻しているという。 bit.ly/4pTej9r <a href="https://bsky.app/profile/japan.reuters.com/post/3man5kjwolb25" target="_blank">japan.reuters.com</a> (2025-12-23 15:44:43)</span><span style="padding-right:50px;"> The year in review (part two) ft.trib.al/4A5SncQ  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3man5g7xkqt2k" target="_blank">financialtimes.com</a> (2025-12-23 15:42:19)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50362.69 (🔻11.79 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3421.00 (🔻58.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.09 (🔻0.92 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.06 (🔻0.95 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,93 +32,103 @@
 
 ## News Headlines
 
-- Dollar Plummets to 156 Japanese Yen Ahead of BOJ Interest Rate Decision
-- Saks Fifth Avenue Parent Company Considers Bankruptcy as Debt Repayment Looms
-- Gold and Silver Prices Hit Record Highs Amid Rising US-Venezuela Tensions
-- India's Economy Remains Strong, Driven by Private Consumption and Urban Demand
+- Japanese Government Considers Abolishing Solar Power Support
+- Nagano Governor Requests Nuclear Power Plant Safety Improvement
+- Thai Central Bank and Finance Ministry to Hold Briefing on Baht
+- Dollar/Yen Falls to 156.00, Sinks to Pre-BoC Level
+- China's Reusable Rocket Fails to Recover After Maiden Flight
+- Gold Hits Record High on Safe-Haven Demand, Silver Climbs to New Peak
+- HSBC Board Member Who Led Chair Search to Retire
 - Pakistan to Receive Bids for PIA Privatization in Televised Auction
-- Bolsonaro's Son Announces Presidential Bid with Promise of Smaller Government and Tax Cuts
+- Chinese Reusable Rocket Fails to Recover After Maiden Flight
 
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-＜１５：０３＞　午後3時のドルは156円ちょうど付近へ反落、日銀利上げ前の水準迫る bit.ly/44GQNUF
+政府 メガソーラー導入支援 廃止含め検討 どうなる太陽光発電
+https://news.web.nhk/newsweb/na/na-k10015011191000
 
-[2025-12-23 15:20:32](https://bsky.app/profile/japan.reuters.com/post/3man47byzhc2q)
-
----
-
-@japan.reuters.com
-
-ブルームバーグは２２日、米高級百貨店サックス・フィフス・アベニューの親会社が巨額の債務返済を前にした最終手段として、連邦破産法１１条（日本の民事再生法に相当）を裁判所に申請することを検討していると報じた。 bit.ly/45lk47m
-
-[2025-12-23 15:20:11](https://bsky.app/profile/japan.reuters.com/post/3man46ngwez25)
+[2025-12-23 15:48:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3man5qozr5h2d)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Novo's Wegovy pill to test demand from consumers with cash reut.rs/4ba3wD0
+新潟県知事 原子力規制委に原発の安全性向上を要望
+https://news.web.nhk/newsweb/na/na-k10015011461000
 
-[2025-12-23 15:15:11](https://bsky.app/profile/reuters.com/post/3man3vph3tf23)
-
----
-
-@japan.reuters.com
-
-金の現物価格が２３日、史上最高値を更新し、１オンス＝４５００ドルに迫った。米国とベネズエラの緊張の高まりを受け、安全資産とされる金に投資家が殺到している。銀も最高値を更新した。 bit.ly/4jbatFT
-
-[2025-12-23 15:15:03](https://bsky.app/profile/japan.reuters.com/post/3man3vig5at2c)
-
----
-
-@wsj.com
-
-How many friends are too many? Your brain has an actual number. on.wsj.com/3L0sKJr
-
-[2025-12-23 15:11:54](https://bsky.app/profile/wsj.com/post/3man3ptcwfg2r)
-
----
-
-@japan.reuters.com
-
-インド準備銀行（中央銀行）は２２日発表した月報で、インド経済は民間と都市部の消費需要に支えられ、１１月も力強い成長の勢いを維持したと明らかにした。 bit.ly/4pPn6ce
-
-[2025-12-23 15:10:10](https://bsky.app/profile/japan.reuters.com/post/3man3mqfgvq22)
+[2025-12-23 15:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3man5qjwks32u)
 
 ---
 
 @reuters.com
 
-Pakistan to receive bids for PIA privatisation in televised auction reut.rs/45eFEuh
+Thai central bank, finance ministry to hold briefing on baht on Tuesday reut.rs/4pR7C7N
 
-[2025-12-23 15:10:09](https://bsky.app/profile/reuters.com/post/3man3mpblm42y)
-
----
-
-@forbes.com
-
-This is now the fourth biggest lottery prize of all time and the second biggest of 2025 so far.
-
-[2025-12-23 15:10:04](https://bsky.app/profile/forbes.com/post/3man3ml6car2g)
+[2025-12-23 15:45:11](https://bsky.app/profile/reuters.com/post/3man5ldz2bt2b)
 
 ---
 
 @japan.reuters.com
 
-ブラジルのボルソナロ前大統領の長男フラビオ上院議員は１９日、ロイターのインタビューに応じ、出馬意向を表明している来年の大統領選について、父親より穏健な政策を掲げ、小さな政府、減税、民営化を実現することを計画していると述べた。 bit.ly/4pNPDyX
+午後３時のドル／円は、前日ニューヨーク市場の終盤から下落し１５６円ちょうど付近で取引されている。一時１５５円後半まで一段安となり、日銀が利上げを実施した１９日以来の水準へ反落した。クリスマス休暇前に短期筋がドル買いや円売りを巻き戻しているという。 bit.ly/4pTej9r
 
-[2025-12-23 15:08:35](https://bsky.app/profile/japan.reuters.com/post/3man3jvvzqc2q)
+[2025-12-23 15:44:43](https://bsky.app/profile/japan.reuters.com/post/3man5kjwolb25)
+
+---
+
+@financialtimes.com
+
+ The year in review (part two) ft.trib.al/4A5SncQ  | opinion
+
+[2025-12-23 15:42:19](https://bsky.app/profile/financialtimes.com/post/3man5g7xkqt2k)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】京都・亀岡市の養鶏場で「高病原性鳥インフルエンザ」発生か 京都府内の農場での鳥インフル発生なら21年ぶり
+(2025-12-23 15:35:00) #ニュース
+
+[2025-12-23 15:40:14](https://bsky.app/profile/sokuho.news/post/3man5cir22r2a)
+
+---
+
+@japan.reuters.com
+
+政府は、近く閣議決定する２０２６年度一般会計予算案で、国債利払いの想定金利を３％程度とする方向で調整に入った。複数の政府筋が明らかにした。日銀の利上げなどで市中利回りが上昇基調にある現状を踏まえ、１９９７年度の３．２％以来２９年ぶりの高水準とする。 bit.ly/48Su9Lw
+
+[2025-12-23 15:40:12](https://bsky.app/profile/japan.reuters.com/post/3man5cgqmiz2v)
 
 ---
 
 @reuters.com
 
-Maple Leafs fire assistant coach Marc Savard reut.rs/4qnwXWM
+Gold hits record high on safe-haven demand; silver climbs to new peak reut.rs/493envV
 
-[2025-12-23 15:05:07](https://bsky.app/profile/reuters.com/post/3man3dpfyit2i)
+[2025-12-23 15:40:11](https://bsky.app/profile/reuters.com/post/3man5cg6rxf23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+H3ロケット8号機 打ち上げ失敗は保護カバー分離が起点か
+https://news.web.nhk/newsweb/na/na-k10015011471000
+
+[2025-12-23 15:39:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3man5akhz2s2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+相次ぐ出火受け リチウムイオン電池「対策パッケージ」公表
+https://news.web.nhk/newsweb/na/na-k10015011361000
+
+[2025-12-23 15:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3man5afyyh42x)
 
 ---
 
