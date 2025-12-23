@@ -1,9 +1,9 @@
-# [2025-12-23 16:50 updated](2025_12_23.md)
+# [2025-12-23 17:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">アクティビストのストラテジックキャピタル（東京都渋谷区）が京阪神ビルディング株の保有比率を１０．３０％に引き上げたことが２３日提出の変更報告書で分かった。従来は９．２９％だった。報告義務発生日は１６日。 bit.ly/4jcA2Xo <a href="https://bsky.app/profile/japan.reuters.com/post/3manb4zgf762q" target="_blank">japan.reuters.com</a> (2025-12-23 16:48:45)</span><span style="padding-right:50px;">EU plans checks against cheap plastic imports, FT says reut.rs/4aoHAnw <a href="https://bsky.app/profile/reuters.com/post/3manawnc42k2r" target="_blank">reuters.com</a> (2025-12-23 16:45:11)</span><span style="padding-right:50px;">日本チェーンストア協会が２３日発表した１１月の全国スーパーマーケット総販売額（４６社９４６４店）は前年同月比２．８％増の１兆０９６３億４３４８万円だった。増加は９カ月連続。 bit.ly/4s97BNR <a href="https://bsky.app/profile/japan.reuters.com/post/3manavbfiv42u" target="_blank">japan.reuters.com</a> (2025-12-23 16:44:25)</span><span style="padding-right:50px;">「イカ倉庫でエビ養殖」「ミシュラン星シェフ密度世界一に」　能登復興、食でけん引 www.nikkei.com/article/DGXZQO...  「能登の里山里海」として日本で初めて世界農業遺産に認定された地域。  「一流シェフが店を開きいい値段で料理を出せば、食材の仕入れ値も上がり、農家も持続的な生産ができる」  能登の復興に向けて資源や人材を戦略的に育てようという意識が芽生えています。 <a href="https://bsky.app/profile/nikkei.com/post/3manasfzkip24" target="_blank">nikkei.com</a> (2025-12-23 16:42:49)</span><span style="padding-right:50px;">New car sales in Europe rise for fifth month helped by EVs reut.rs/4qrBVBW <a href="https://bsky.app/profile/reuters.com/post/3manano23q623" target="_blank">reuters.com</a> (2025-12-23 16:40:10)</span>
+<span style="padding-right:50px;">日本相撲協会100周年記念式典 八角理事長 次の100年に向け決意 https://news.web.nhk/newsweb/na/na-k10015011541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mancbek4e42b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 17:09:02)</span><span style="padding-right:50px;">Global investors turn to Chinese AI as Wall Street fears bubble reut.rs/44Kvn98 <a href="https://bsky.app/profile/reuters.com/post/3manc2erp6e2y" target="_blank">reuters.com</a> (2025-12-23 17:05:10)</span><span style="padding-right:50px;">The U.S. military said Monday that it had conducted another strike against a boat it said was smuggling drugs in the eastern Pacific Ocean, killing one person. n.pr/4p772S4 <a href="https://bsky.app/profile/npr.org/post/3manbx6iel42e" target="_blank">npr.org</a> (2025-12-23 17:03:23)</span><span style="padding-right:50px;">東京証券取引所がまとめた１２月１９日申し込み現在の２市場信用取引現在高（概算）は以下のとおり。 bit.ly/3Lb04O5 <a href="https://bsky.app/profile/japan.reuters.com/post/3manbwgrrpy25" target="_blank">japan.reuters.com</a> (2025-12-23 17:02:58)</span><span style="padding-right:50px;">マリオやヨッシー、燃え尽き症候群予防に効果か www.nikkei.com/article/DGXZQO...  イギリスと日本の研究チームは、ゲームを通じて驚きを感じると幸福感が高まり、燃え尽き症候群のリスクが下がると結論づけました。   燃え尽き症候群は長期化すると、うつ病に移行する可能性があります。研究者は「マリオやヨッシーは強力な解毒剤になり得る」とコメントしました。 <a href="https://bsky.app/profile/nikkei.com/post/3manbssbjel26" target="_blank">nikkei.com</a> (2025-12-23 17:00:56)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.96 (🔻1.05 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.00 (🔻1.01 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,123 +32,116 @@
 
 ## News Headlines
 
-- Activist investor raises stake in Kansai Building to 10.3%
-- EU plans to check cheap plastic imports
-- Japanese convenience store sales rise for 9th month
-- Noto region in Japan recognized as world agricultural heritage
-- New car sales in Europe rise for fifth month thanks to EVs
-- Mitsui Sumitomo Trust Group appoints new CEO
-- US economic growth likely remained strong in third quarter
-- Japan's Cabinet Minister urges people to check their land registration status
-- Tokyo stocks inch higher in thin trade
-- Small change in lithium-ion battery design could reduce fires
-- FDA approves Danish drugmaker's obesity treatment
-- Ainslie strikes Oakley Capital deal to fund British America's Cup bid
-- India yet to open its market to GM soya or corn
-- Japanese minister warns of excessive exchange rate volatility
-- US Justice Department faces backlash over Epstein documents
-- Sydney stock market surges to new highs
-- LINE's CEO to step down in June
-- Japan's finance minister criticizes excessive currency market volatility
-- Two killed in underground explosion at Polish coal mine
-- China's industry association warns of excessive speculation in metals market
-- China to allow pre-approved vehicles to enter Hong Kong
-- Japan's postal bank to buy back own shares
-- Japan's top court rules on gas contract termination
-- Polish military scrambled fighter jets after Russian air raid
-- Amtrak's new high-speed trains delayed due to planning and track issues
-- US and Europe strengthen military capabilities in response to Russia's threat
-- Bondi shooting: Injured officer released from hospital
+- Japan Sumo Association Marks 100-Year Anniversary With Ceremonies
+- Global Investors Turn to Chinese AI Amid Wall Street Bubble Fears
+- US Military Conducts Another Strike Against Drug-Smuggling Boat in Eastern Pacific Ocean
+- Japanese and British Researchers Find Playing Video Games Can Reduce Burnout Risk
+- Vietnam's Communist Party Concludes Central Committee Meeting, Next Leadership Candidates Selected
+- Indonesia's Trade Minister Says All Major Issues with US Resolved, Trade Deal Possible Soon
+- Indian Government to Provide $450 Million Cyclone Relief Package to Sri Lanka
+- Uber, Lyft Partner with Baidu for Autonomous Taxi Testing in the UK
+- EU Plans Checks on Cheap Plastic Imports
+- Japanese Supermarkets See 9th Consecutive Month of Sales Growth
+- New Car Sales in Europe Rise for Fifth Month, Helped by Electric Vehicles
+- Three People Injured in Explosion at Nagoya University
+- US Economic Growth Likely Remained Strong in Third Quarter
+- Japan's Nikkei Average Rises Slightly on Day 3 of Trading
+- FDA Approves Danish Company's Obesity Treatment Drug
+- Ainslie Strikes Deal to Fund British America's Cup Bid
+- North Korea's Kim Jong-un Attends Hotel Opening in Tourist Area
+- Japanese Government to Finalize Budget for Next Year
+- US Department of Justice Faces Backlash Over Handling of Epstein Documents
+- European Markets Expected to Open Lower Before Christmas
+- Graduate Job Cuts Spell Doom for College Degrees
+- Sydney Stock Market Reaches New High, Ends Year on a High Note
 
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-アクティビストのストラテジックキャピタル（東京都渋谷区）が京阪神ビルディング株の保有比率を１０．３０％に引き上げたことが２３日提出の変更報告書で分かった。従来は９．２９％だった。報告義務発生日は１６日。 bit.ly/4jcA2Xo
+日本相撲協会100周年記念式典 八角理事長 次の100年に向け決意
+https://news.web.nhk/newsweb/na/na-k10015011541000
 
-[2025-12-23 16:48:45](https://bsky.app/profile/japan.reuters.com/post/3manb4zgf762q)
+[2025-12-23 17:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mancbek4e42b)
 
 ---
 
 @reuters.com
 
-EU plans checks against cheap plastic imports, FT says reut.rs/4aoHAnw
+Global investors turn to Chinese AI as Wall Street fears bubble reut.rs/44Kvn98
 
-[2025-12-23 16:45:11](https://bsky.app/profile/reuters.com/post/3manawnc42k2r)
+[2025-12-23 17:05:10](https://bsky.app/profile/reuters.com/post/3manc2erp6e2y)
+
+---
+
+@npr.org
+
+The U.S. military said Monday that it had conducted another strike against a boat it said was smuggling drugs in the eastern Pacific Ocean, killing one person. n.pr/4p772S4
+
+[2025-12-23 17:03:23](https://bsky.app/profile/npr.org/post/3manbx6iel42e)
 
 ---
 
 @japan.reuters.com
 
-日本チェーンストア協会が２３日発表した１１月の全国スーパーマーケット総販売額（４６社９４６４店）は前年同月比２．８％増の１兆０９６３億４３４８万円だった。増加は９カ月連続。 bit.ly/4s97BNR
+東京証券取引所がまとめた１２月１９日申し込み現在の２市場信用取引現在高（概算）は以下のとおり。 bit.ly/3Lb04O5
 
-[2025-12-23 16:44:25](https://bsky.app/profile/japan.reuters.com/post/3manavbfiv42u)
+[2025-12-23 17:02:58](https://bsky.app/profile/japan.reuters.com/post/3manbwgrrpy25)
 
 ---
 
 @nikkei.com
 
-「イカ倉庫でエビ養殖」「ミシュラン星シェフ密度世界一に」　能登復興、食でけん引
+マリオやヨッシー、燃え尽き症候群予防に効果か
 www.nikkei.com/article/DGXZQO...
 
-「能登の里山里海」として日本で初めて世界農業遺産に認定された地域。
+イギリスと日本の研究チームは、ゲームを通じて驚きを感じると幸福感が高まり、燃え尽き症候群のリスクが下がると結論づけました。
+ 
+燃え尽き症候群は長期化すると、うつ病に移行する可能性があります。研究者は「マリオやヨッシーは強力な解毒剤になり得る」とコメントしました。
 
-「一流シェフが店を開きいい値段で料理を出せば、食材の仕入れ値も上がり、農家も持続的な生産ができる」
-
-能登の復興に向けて資源や人材を戦略的に育てようという意識が芽生えています。
-
-[2025-12-23 16:42:49](https://bsky.app/profile/nikkei.com/post/3manasfzkip24)
-
----
-
-@reuters.com
-
-New car sales in Europe rise for fifth month helped by EVs reut.rs/4qrBVBW
-
-[2025-12-23 16:40:10](https://bsky.app/profile/reuters.com/post/3manano23q623)
+[2025-12-23 17:00:56](https://bsky.app/profile/nikkei.com/post/3manbssbjel26)
 
 ---
 
 @japan.reuters.com
 
-三井住友トラストグループは２３日、社長に三井住友信託銀行の大山一也社長（６０）が昇格する人事を発表した。後任の三井住友信託銀行の社長には同行の米山学朋専務執行役員（５７）が就く。 bit.ly/4pc4baF
+ベトナム共産党は２３日、ハノイで２日間にわたり開催した中央委員会総会を終えた。トー・ラム書記長は閉幕演説で、次期指導部候補者の選定を完了したと述べた。具体的な氏名は公表されていない。 bit.ly/3YIbpZ0
 
-[2025-12-23 16:39:01](https://bsky.app/profile/japan.reuters.com/post/3manalmaufl2s)
-
----
-
-@wsj.com
-
-Makan Delrahim, a former Justice Department antitrust chief, tried to block a deal that included the sale of Warner Bros. Now he’s trying to help his boss at Paramount buy it.
-
-[2025-12-23 16:36:58](https://bsky.app/profile/wsj.com/post/3manahxmo7m23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-名古屋大で薬品が入った瓶が爆発 3人けが
-https://news.web.nhk/newsweb/na/na-k10015011411000
-
-[2025-12-23 16:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3managdmqdk2w)
+[2025-12-23 17:00:51](https://bsky.app/profile/japan.reuters.com/post/3manbsnnjwx22)
 
 ---
 
 @reuters.com
 
-US economic growth likely remained strong in third quarter reut.rs/3LdYPxC
+Evenepoel seeking to 'break through ceiling' and challenge Pogacar reut.rs/4j7vS2S
 
-[2025-12-23 16:35:07](https://bsky.app/profile/reuters.com/post/3manaeneh5l2b)
+[2025-12-23 17:00:32](https://bsky.app/profile/reuters.com/post/3manbs4bi3w2y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@japan.reuters.com
 
-平口法相“年末年始に登記状況の確認を” 相続登記に履行期限
-https://news.web.nhk/newsweb/na/na-k10015011481000
+インドネシアの対米関税交渉を率いるアイルランガ・ハルタルト経済担当調整相
+ は、米国との間の「全ての重要な問題」は双方で解決済みであり、貿易協定は来年早々にも両国首脳によって署名される可能性があると述べた。米通商代表部（ＵＳＴＲ）のグリア代表と会談した後、２２日遅くにワシントンからインドネシアメディアとのビデオブリーフィングに応じた。 bit.ly/4b0jr6T
 
-[2025-12-23 16:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manaaydeci2k)
+[2025-12-23 17:00:24](https://bsky.app/profile/japan.reuters.com/post/3manbruccq32v)
+
+---
+
+@nytimes.com
+
+Does creatine really work? Are LED face masks worth the money? Test your knowledge of bogus remedies and real treatments.
+
+[2025-12-23 17:00:05](https://bsky.app/profile/nytimes.com/post/3manbrccczq2y)
+
+---
+
+@aljazeera.com
+
+The large-scale Russian attacks come two days after US-led peace talks end in Miami.
+
+[2025-12-23 17:00:02](https://bsky.app/profile/aljazeera.com/post/3manbr7ksg72z)
 
 ---
 
