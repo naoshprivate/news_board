@@ -1,9 +1,9 @@
-# [2025-12-23 16:30 updated](2025_12_23.md)
+# [2025-12-23 16:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】認定こども園で4歳女児に暴行「イラっとしてやった」保育士の女（40）逮捕 函館市 (2025-12-23 16:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3man7zdyzan2a" target="_blank">sokuho.news</a> (2025-12-23 16:28:48)</span><span style="padding-right:50px;">北朝鮮の金正恩朝鮮労働党総書記が娘のジュエ氏と共に観光地区にあるホテルの開業式典に出席した。来年初めに開かれる予定の党大会を控え、経済発展をアピールする狙いがある。 bit.ly/3Y9bG77 <a href="https://bsky.app/profile/japan.reuters.com/post/3man7wdwh3y2u" target="_blank">japan.reuters.com</a> (2025-12-23 16:27:07)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - Marc Andreessen will summon NYC swagger for IPO reut.rs/3KIcnRW <a href="https://bsky.app/profile/reuters.com/post/3man7sqnljk2y" target="_blank">reuters.com</a> (2025-12-23 16:25:06)</span><span style="padding-right:50px;">高市早苗首相は２３日、来年度当初予算案の編成に向けた大詰めの作業を迎えた。首相就任から２カ月余り。連立の組み替えや首脳外交、今年度補正予算の編成などに取り組み、内閣支持率は高水準で推移する。２０２６年、初めての通常国会に臨む首相はどう安定政権の確立を目指すのか。国民民主党との向き合い方が問われる一方、野党内には「５月解散説」も出始めた。 bit.ly/4qmVX0a <a href="https://bsky.app/profile/japan.reuters.com/post/3man7kumxkm2c" target="_blank">japan.reuters.com</a> (2025-12-23 16:20:42)</span><span style="padding-right:50px;">性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関する資料開示を巡る米司法省の対応を受け、超党派の間で反発が強まっている。議員らはボンディ司法長官を議会侮辱罪に問うと警告し、クリントン元大統領は自身に言及したあらゆる関連文書の即時公開を求めた。 bit.ly/4qpB1Wx <a href="https://bsky.app/profile/japan.reuters.com/post/3man7jvercb2v" target="_blank">japan.reuters.com</a> (2025-12-23 16:20:09)</span>
+<span style="padding-right:50px;">アクティビストのストラテジックキャピタル（東京都渋谷区）が京阪神ビルディング株の保有比率を１０．３０％に引き上げたことが２３日提出の変更報告書で分かった。従来は９．２９％だった。報告義務発生日は１６日。 bit.ly/4jcA2Xo <a href="https://bsky.app/profile/japan.reuters.com/post/3manb4zgf762q" target="_blank">japan.reuters.com</a> (2025-12-23 16:48:45)</span><span style="padding-right:50px;">EU plans checks against cheap plastic imports, FT says reut.rs/4aoHAnw <a href="https://bsky.app/profile/reuters.com/post/3manawnc42k2r" target="_blank">reuters.com</a> (2025-12-23 16:45:11)</span><span style="padding-right:50px;">日本チェーンストア協会が２３日発表した１１月の全国スーパーマーケット総販売額（４６社９４６４店）は前年同月比２．８％増の１兆０９６３億４３４８万円だった。増加は９カ月連続。 bit.ly/4s97BNR <a href="https://bsky.app/profile/japan.reuters.com/post/3manavbfiv42u" target="_blank">japan.reuters.com</a> (2025-12-23 16:44:25)</span><span style="padding-right:50px;">「イカ倉庫でエビ養殖」「ミシュラン星シェフ密度世界一に」　能登復興、食でけん引 www.nikkei.com/article/DGXZQO...  「能登の里山里海」として日本で初めて世界農業遺産に認定された地域。  「一流シェフが店を開きいい値段で料理を出せば、食材の仕入れ値も上がり、農家も持続的な生産ができる」  能登の復興に向けて資源や人材を戦略的に育てようという意識が芽生えています。 <a href="https://bsky.app/profile/nikkei.com/post/3manasfzkip24" target="_blank">nikkei.com</a> (2025-12-23 16:42:49)</span><span style="padding-right:50px;">New car sales in Europe rise for fifth month helped by EVs reut.rs/4qrBVBW <a href="https://bsky.app/profile/reuters.com/post/3manano23q623" target="_blank">reuters.com</a> (2025-12-23 16:40:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.09 (🔻0.92 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.96 (🔻1.05 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,96 +32,123 @@
 
 ## News Headlines
 
-- North Korean Leader's Daughter Attends Hotel Opening with Him
-- Japanese Prime Minister Faces Crucial Budget Talks
-- US Analyst Warns of Doom for College Degrees
-- Nestle's Stake in L'Oreal is a Financial Investment, CEO Says
-- Japanese Bank to Buy Back Shares Worth ¥30 Billion
-- Polish Military Scrambles Jets in Response to Russian Airstrike
+- Activist investor raises stake in Kansai Building to 10.3%
+- EU plans to check cheap plastic imports
+- Japanese convenience store sales rise for 9th month
+- Noto region in Japan recognized as world agricultural heritage
+- New car sales in Europe rise for fifth month thanks to EVs
+- Mitsui Sumitomo Trust Group appoints new CEO
+- US economic growth likely remained strong in third quarter
+- Japan's Cabinet Minister urges people to check their land registration status
+- Tokyo stocks inch higher in thin trade
+- Small change in lithium-ion battery design could reduce fires
+- FDA approves Danish drugmaker's obesity treatment
+- Ainslie strikes Oakley Capital deal to fund British America's Cup bid
+- India yet to open its market to GM soya or corn
+- Japanese minister warns of excessive exchange rate volatility
+- US Justice Department faces backlash over Epstein documents
+- Sydney stock market surges to new highs
+- LINE's CEO to step down in June
+- Japan's finance minister criticizes excessive currency market volatility
+- Two killed in underground explosion at Polish coal mine
+- China's industry association warns of excessive speculation in metals market
+- China to allow pre-approved vehicles to enter Hong Kong
+- Japan's postal bank to buy back own shares
+- Japan's top court rules on gas contract termination
+- Polish military scrambled fighter jets after Russian air raid
+- Amtrak's new high-speed trains delayed due to planning and track issues
+- US and Europe strengthen military capabilities in response to Russia's threat
+- Bondi shooting: Injured officer released from hospital
 
 
 ----
 
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】認定こども園で4歳女児に暴行「イラっとしてやった」保育士の女（40）逮捕 函館市
-(2025-12-23 16:05) #ニュース
-
-[2025-12-23 16:28:48](https://bsky.app/profile/sokuho.news/post/3man7zdyzan2a)
-
----
-
 @japan.reuters.com
 
-北朝鮮の金正恩朝鮮労働党総書記が娘のジュエ氏と共に観光地区にあるホテルの開業式典に出席した。来年初めに開かれる予定の党大会を控え、経済発展をアピールする狙いがある。 bit.ly/3Y9bG77
+アクティビストのストラテジックキャピタル（東京都渋谷区）が京阪神ビルディング株の保有比率を１０．３０％に引き上げたことが２３日提出の変更報告書で分かった。従来は９．２９％だった。報告義務発生日は１６日。 bit.ly/4jcA2Xo
 
-[2025-12-23 16:27:07](https://bsky.app/profile/japan.reuters.com/post/3man7wdwh3y2u)
+[2025-12-23 16:48:45](https://bsky.app/profile/japan.reuters.com/post/3manb4zgf762q)
 
 ---
 
 @reuters.com
 
-From Breakingviews - Breakingviews - Marc Andreessen will summon NYC swagger for IPO reut.rs/3KIcnRW
+EU plans checks against cheap plastic imports, FT says reut.rs/4aoHAnw
 
-[2025-12-23 16:25:06](https://bsky.app/profile/reuters.com/post/3man7sqnljk2y)
-
----
-
-@japan.reuters.com
-
-高市早苗首相は２３日、来年度当初予算案の編成に向けた大詰めの作業を迎えた。首相就任から２カ月余り。連立の組み替えや首脳外交、今年度補正予算の編成などに取り組み、内閣支持率は高水準で推移する。２０２６年、初めての通常国会に臨む首相はどう安定政権の確立を目指すのか。国民民主党との向き合い方が問われる一方、野党内には「５月解散説」も出始めた。 bit.ly/4qmVX0a
-
-[2025-12-23 16:20:42](https://bsky.app/profile/japan.reuters.com/post/3man7kumxkm2c)
+[2025-12-23 16:45:11](https://bsky.app/profile/reuters.com/post/3manawnc42k2r)
 
 ---
 
 @japan.reuters.com
 
-性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関する資料開示を巡る米司法省の対応を受け、超党派の間で反発が強まっている。議員らはボンディ司法長官を議会侮辱罪に問うと警告し、クリントン元大統領は自身に言及したあらゆる関連文書の即時公開を求めた。 bit.ly/4qpB1Wx
+日本チェーンストア協会が２３日発表した１１月の全国スーパーマーケット総販売額（４６社９４６４店）は前年同月比２．８％増の１兆０９６３億４３４８万円だった。増加は９カ月連続。 bit.ly/4s97BNR
 
-[2025-12-23 16:20:09](https://bsky.app/profile/japan.reuters.com/post/3man7jvercb2v)
+[2025-12-23 16:44:25](https://bsky.app/profile/japan.reuters.com/post/3manavbfiv42u)
+
+---
+
+@nikkei.com
+
+「イカ倉庫でエビ養殖」「ミシュラン星シェフ密度世界一に」　能登復興、食でけん引
+www.nikkei.com/article/DGXZQO...
+
+「能登の里山里海」として日本で初めて世界農業遺産に認定された地域。
+
+「一流シェフが店を開きいい値段で料理を出せば、食材の仕入れ値も上がり、農家も持続的な生産ができる」
+
+能登の復興に向けて資源や人材を戦略的に育てようという意識が芽生えています。
+
+[2025-12-23 16:42:49](https://bsky.app/profile/nikkei.com/post/3manasfzkip24)
 
 ---
 
 @reuters.com
 
-From Breakingviews - Breakingviews - Graduate job cull spells doom for college degrees reut.rs/3MR8yKL
+New car sales in Europe rise for fifth month helped by EVs reut.rs/4qrBVBW
 
-[2025-12-23 16:15:09](https://bsky.app/profile/reuters.com/post/3man7awshiy2c)
+[2025-12-23 16:40:10](https://bsky.app/profile/reuters.com/post/3manano23q623)
 
 ---
 
 @japan.reuters.com
 
-シドニー株式市場の株価は続伸し、１カ月超ぶりの高値を付けた。年末のポジション調整と世界的な堅調ムードを背景に、買いが優勢となった。 bit.ly/4qpAUdz
+三井住友トラストグループは２３日、社長に三井住友信託銀行の大山一也社長（６０）が昇格する人事を発表した。後任の三井住友信託銀行の社長には同行の米山学朋専務執行役員（５７）が就く。 bit.ly/4pc4baF
 
-[2025-12-23 16:14:07](https://bsky.app/profile/japan.reuters.com/post/3man773h2qv26)
+[2025-12-23 16:39:01](https://bsky.app/profile/japan.reuters.com/post/3manalmaufl2s)
 
 ---
 
 @wsj.com
 
-Young and hungry entrepreneurs are nothing new: Bill Gates was 19 when he co-founded Microsoft; Mark Zuckerberg was the same age when he started Facebook. But today’s founders might well have a learner’s permit and a mouthful of braces. 🔗 on.wsj.com/3LglYPU
+Makan Delrahim, a former Justice Department antitrust chief, tried to block a deal that included the sale of Warner Bros. Now he’s trying to help his boss at Paramount buy it.
 
-[2025-12-23 16:13:51](https://bsky.app/profile/wsj.com/post/3man76mgltk2c)
-
----
-
-@cnbc.com
-
-European markets expected to open lower in final full session before Christmas
-
-[2025-12-23 16:13:03](https://bsky.app/profile/cnbc.com/post/3man756zhfl2p)
+[2025-12-23 16:36:58](https://bsky.app/profile/wsj.com/post/3manahxmo7m23)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-ＬＩＮＥヤフーは２３日、川辺健太郎会長が来年６月の定時株主総会で退任すると発表した。川辺氏から同総会の任期満了時に退任したいとの申し出があった。今後の体制は指名報酬委員会と取締役会で検討する。 bit.ly/4p4CQXL
+名古屋大で薬品が入った瓶が爆発 3人けが
+https://news.web.nhk/newsweb/na/na-k10015011411000
 
-[2025-12-23 16:10:53](https://bsky.app/profile/japan.reuters.com/post/3man6zcceqn2f)
+[2025-12-23 16:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3managdmqdk2w)
+
+---
+
+@reuters.com
+
+US economic growth likely remained strong in third quarter reut.rs/3LdYPxC
+
+[2025-12-23 16:35:07](https://bsky.app/profile/reuters.com/post/3manaeneh5l2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+平口法相“年末年始に登記状況の確認を” 相続登記に履行期限
+https://news.web.nhk/newsweb/na/na-k10015011481000
+
+[2025-12-23 16:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manaaydeci2k)
 
 ---
 
