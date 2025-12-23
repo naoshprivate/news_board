@@ -1,9 +1,9 @@
-# [2025-12-24 05:30 updated](2025_12_24.md)
+# [2025-12-24 05:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The remains of missing 9-year-old California girl Melodee Buzzard have been found, a law enforcement source familiar with the case told CNN. https://cnn.it/49dDn3R <a href="https://bsky.app/profile/cnn.com/post/3maolkbk2z72t" target="_blank">cnn.com</a> (2025-12-24 05:27:47)</span><span style="padding-right:50px;">In less than two weeks, the Trump administration will begin to forcibly seize pay from student loan borrowers who are in default. Here's what to know. <a href="https://bsky.app/profile/axios.com/post/3maolihwc6k2g" target="_blank">axios.com</a> (2025-12-24 05:26:46)</span><span style="padding-right:50px;">BREAKING: The Supreme Court keeps President Trump’s National Guard deployment blocked in the Chicago area for now. <a href="https://bsky.app/profile/apnews.com/post/3maolfw4lzg2r" target="_blank">apnews.com</a> (2025-12-24 05:25:21)</span><span style="padding-right:50px;">Travis Kelce, Trent Williams hit milestones as Pro Bowl rosters set reut.rs/4j9lGa2 <a href="https://bsky.app/profile/reuters.com/post/3maolfmfi7b23" target="_blank">reuters.com</a> (2025-12-24 05:25:10)</span><span style="padding-right:50px;">Florida's Catholic bishops appealed to President Trump to pause immigration enforcement activities during the Christmas holidays. The White House, in response, says it would be business as usual. <a href="https://bsky.app/profile/nbcnews.com/post/3maol53yvap2q" target="_blank">nbcnews.com</a> (2025-12-24 05:20:25)</span>
+<span style="padding-right:50px;">Ukrainian troops withdraw from eastern town of Siversk reut.rs/496l3th <a href="https://bsky.app/profile/reuters.com/post/3maomjh3dm22y" target="_blank">reuters.com</a> (2025-12-24 05:45:13)</span><span style="padding-right:50px;">The high court declined to issue a stay on a lower court’s ruling blocking the deployment. <a href="https://bsky.app/profile/forbes.com/post/3maomjcgx2t2g" target="_blank">forbes.com</a> (2025-12-24 05:45:08)</span><span style="padding-right:50px;">The Supreme Court rebuffs the Trump administration over its plan to deploy National Guard troops in Illinois over the strenuous objections of local officials. <a href="https://bsky.app/profile/nbcnews.com/post/3maomeea2v22j" target="_blank">nbcnews.com</a> (2025-12-24 05:42:22)</span><span style="padding-right:50px;">Breaking news: The Supreme Court said it would not allow President Trump to deploy the National Guard in Chicago for now, a significant setback for his campaign to push troops into cities across the country. <a href="https://bsky.app/profile/washingtonpost.com/post/3maomcxnc642i" target="_blank">washingtonpost.com</a> (2025-12-24 05:41:35)</span><span style="padding-right:50px;">Navigating privacy laws in the collection and processing of ESI reut.rs/4sgTPZW <a href="https://bsky.app/profile/reuters.com/post/3maomb2n3v42r" target="_blank">reuters.com</a> (2025-12-24 05:40:31)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48440.11 (🔺119.52 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23552.46 (🔺144.76 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.77 (🔺5.81 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.24 (🔻0.77 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48439.00 (🔺118.41 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23556.09 (🔺148.39 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.83 (🔺5.87 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.27 (🔻0.74 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,97 +32,94 @@
 
 ## News Headlines
 
-- Human Remains of Missing 9-Year-Old California Girl Found
-- Trump Administration to Forcibly Seize Pay from Student Loan Borrowers in Default
-- Supreme Court Blocks Trump's National Guard Deployment in Chicago Area
-- Trump's Name Appears on Jeffrey Epstein's Flight Logs More Times Than Previously Reported
-- Congo Halts Artisanal Copper and Cobalt Processing Amid Corruption Crackdown
-- US GDP Growth Accelerates to 4.3% in Third Quarter
+- Ukrainian troops withdraw from eastern town of Siversk
+- Supreme Court blocks President Trump's plan to deploy National Guard in Illinois
+- U.S. Justice Department releases new documents related to Jeffrey Epstein
+- Supreme Court blocks President Trump's plan to deploy National Guard in Chicago
+- Remains of missing 9-year-old California girl found
+- Supreme Court rejects Trump's military deployment in Chicago area
 
 
 ----
 
-@cnn.com
-
-The remains of missing 9-year-old California girl Melodee Buzzard have been found, a law enforcement source familiar with the case told CNN. https://cnn.it/49dDn3R
-
-[2025-12-24 05:27:47](https://bsky.app/profile/cnn.com/post/3maolkbk2z72t)
-
----
-
-@axios.com
-
-In less than two weeks, the Trump administration will begin to forcibly seize pay from student loan borrowers who are in default. Here's what to know.
-
-[2025-12-24 05:26:46](https://bsky.app/profile/axios.com/post/3maolihwc6k2g)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> The Supreme Court keeps President Trump’s National Guard deployment blocked in the Chicago area for now.</strong>
-
-[2025-12-24 05:25:21](https://bsky.app/profile/apnews.com/post/3maolfw4lzg2r)
-
----
-
 @reuters.com
 
-Travis Kelce, Trent Williams hit milestones as Pro Bowl rosters set reut.rs/4j9lGa2
+Ukrainian troops withdraw from eastern town of Siversk reut.rs/496l3th
 
-[2025-12-24 05:25:10](https://bsky.app/profile/reuters.com/post/3maolfmfi7b23)
+[2025-12-24 05:45:13](https://bsky.app/profile/reuters.com/post/3maomjh3dm22y)
+
+---
+
+@forbes.com
+
+The high court declined to issue a stay on a lower court’s ruling blocking the deployment.
+
+[2025-12-24 05:45:08](https://bsky.app/profile/forbes.com/post/3maomjcgx2t2g)
 
 ---
 
 @nbcnews.com
 
-Florida's Catholic bishops appealed to President Trump to pause immigration enforcement activities during the Christmas holidays. The White House, in response, says it would be business as usual.
+The Supreme Court rebuffs the Trump administration over its plan to deploy National Guard troops in Illinois over the strenuous objections of local officials.
 
-[2025-12-24 05:20:25](https://bsky.app/profile/nbcnews.com/post/3maol53yvap2q)
+[2025-12-24 05:42:22](https://bsky.app/profile/nbcnews.com/post/3maomeea2v22j)
+
+---
+
+@washingtonpost.com
+
+<strong><span style="color: red;">Breaking news:</span> The Supreme Court said it would not allow President Trump to deploy the National Guard in Chicago for now, a significant setback for his campaign to push troops into cities across the country.</strong>
+
+[2025-12-24 05:41:35](https://bsky.app/profile/washingtonpost.com/post/3maomcxnc642i)
+
+---
+
+@reuters.com
+
+Navigating privacy laws in the collection and processing of ESI reut.rs/4sgTPZW
+
+[2025-12-24 05:40:31](https://bsky.app/profile/reuters.com/post/3maomb2n3v42r)
 
 ---
 
 @japan.reuters.com
 
-米司法省は２３日、性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏の捜査に関する新たな資料を公開した。その中には、トランプ大統領がエプスタイン氏の自家用ジェット機に「これまで報告されていたよりもはるかに多く」搭乗していたことを示す検察官からの電子メールも含まれているという。 bit.ly/49cSU3P
+米連邦準備理事会（ＦＲＢ）が３日発表した１１月の製造業生産指数は横ばいとなった。エコノミスト予想も横ばいだった。１０月は０．４％減だった。 bit.ly/44Egu8f
 
-[2025-12-24 05:20:24](https://bsky.app/profile/japan.reuters.com/post/3maol532vdu27)
-
----
-
-@nytimes.com
-
-In a 2020 email released by the Justice Department, a prosecutor informed colleagues that President Trump’s name appeared on the flight logs for Jeffrey Epstein’s private jet “many more times than previously has been reported (or that we were aware).”
-
-[2025-12-24 05:20:05](https://bsky.app/profile/nytimes.com/post/3maol4jds3626)
+[2025-12-24 05:40:26](https://bsky.app/profile/japan.reuters.com/post/3maomavp22x2q)
 
 ---
 
-@npr.org
+@en.afp.com
 
-TV critic David Bianculli says 2025 offered so many great shows he couldn't narrow them down. But in a year of intense TV, Netflix's haunting series Adolescence, stands apart. n.pr/499a2HE
+Nicki Minaj long reigned as pop's unruliest shape-shifter -- a hyper-sexual, neon-bright provocateur whose latex-clad persona and explicit lyrics made her a global icon. Today, she commands a different spotlight -- conservatively dressed and warmly received by Republican activists.
+u.afp.com/S8gb
 
-[2025-12-24 05:19:47](https://bsky.app/profile/npr.org/post/3maol3yfd2o2n)
-
----
-
-@cbsnews.com
-
-<strong><span style="color: red;">BREAKING:</span> The Supreme Court says President Trump can't deploy the National Guard to Chicago as a legal challenge moves ahead.</strong>
-
-[2025-12-24 05:18:40](https://bsky.app/profile/cbsnews.com/post/3maokzyigx52a)
+[2025-12-24 05:37:31](https://bsky.app/profile/en.afp.com/post/3maom3plri42h)
 
 ---
 
-@wsj.com
+@reuters.com
 
-Millennials who become top earners are taking strikingly similar paths to get there.
+Venezuela resorts to floating storage as onshore storage tanks fill up reut.rs/4jdvT5w
 
-They are often working in a small number of lucrative fields in a small number of superstar cities after attending a small number of top-tier universities.
+[2025-12-24 05:35:09](https://bsky.app/profile/reuters.com/post/3maolxho6cq2k)
 
-🔗: on.wsj.com/4qhPN1x
+---
 
-[2025-12-24 05:17:46](https://bsky.app/profile/wsj.com/post/3maokyepz4i2e)
+@forbes.com
+
+Some regions in Southern California could see life-threatening floods through Christmas day.
+
+[2025-12-24 05:35:04](https://bsky.app/profile/forbes.com/post/3maolxctc2s2t)
+
+---
+
+@apnews.com
+
+The prime minister of Libya confirmed the deaths of Libyan military chief Muhammad Ali Ahmad al-Haddad and four others in a plane crash in Turkey.
+
+[2025-12-24 05:33:18](https://bsky.app/profile/apnews.com/post/3maolu5fvyv2p)
 
 ---
 
