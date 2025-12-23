@@ -1,9 +1,9 @@
-# [2025-12-24 02:50 updated](2025_12_24.md)
+# [2025-12-24 03:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">From Pope Francis to Rob Reiner, a glance at some notable deaths this year. <a href="https://bsky.app/profile/wsj.com/post/3maocnjd5pv2g" target="_blank">wsj.com</a> (2025-12-24 02:48:32)</span><span style="padding-right:50px;">U.S. pushes additional tariffs on Chinese chips to June 2027 <a href="https://bsky.app/profile/cnbc.com/post/3maockgxylr2m" target="_blank">cnbc.com</a> (2025-12-24 02:46:49)</span><span style="padding-right:50px;">Breaking News: The Trump administration said it would soon begin to garnish pay from federal student loan borrowers who are in default, stepping up a repayment enforcement effort that began this year. trib.al/9KWd6Iw <a href="https://bsky.app/profile/nytimes.com/post/3maoci54tvk2f" target="_blank">nytimes.com</a> (2025-12-24 02:45:31)</span><span style="padding-right:50px;">Key Petrobras field hits output pace equivalent to 1 million bpd, sources say reut.rs/4b10ocD <a href="https://bsky.app/profile/reuters.com/post/3maochkwhjv2k" target="_blank">reuters.com</a> (2025-12-24 02:45:12)</span><span style="padding-right:50px;">"We are ghosts on the night shift," says Leandro Cristovao from Angola, who has worked the graveyard shift at a south London market for seven years. In the last decade, Britain's nine-million-strong nighttime workforce has become increasingly reliant on migrants like Cristovao. u.afp.com/S8Yy <a href="https://bsky.app/profile/en.afp.com/post/3maocheyqii2v" target="_blank">en.afp.com</a> (2025-12-24 02:45:05)</span>
+<span style="padding-right:50px;">陸自オスプレイ 平均稼働率40％切る状態続く 整備員不足課題 https://news.web.nhk/newsweb/na/na-k10015012131000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maodsaqjcz2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 03:09:02)</span><span style="padding-right:50px;">French lawmakers are expected Tuesday to approve a bill averting a government shutdown after weeks of debate in Parliament failed to reach agreement on a new budget. <a href="https://bsky.app/profile/wsj.com/post/3maodpgqxic23" target="_blank">wsj.com</a> (2025-12-24 03:07:30)</span><span style="padding-right:50px;">US core capital goods orders, shipments increase in October reut.rs/44E0EKP <a href="https://bsky.app/profile/reuters.com/post/3maodlb7lyd2b" target="_blank">reuters.com</a> (2025-12-24 03:05:10)</span><span style="padding-right:50px;">The Department of Justice has been publicly posting files related to the Jeffrey Epstein investigation since Friday. n.pr/4jfepWm <a href="https://bsky.app/profile/npr.org/post/3maodh7e46k24" target="_blank">npr.org</a> (2025-12-24 03:02:54)</span><span style="padding-right:50px;">Need movies to see this holiday break? Watch these 25 at home now, including "One Battle After Another." All are free on your streaming services. <a href="https://bsky.app/profile/usatoday.com/post/3maodeeaup32f" target="_blank">usatoday.com</a> (2025-12-24 03:01:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.76 (🔺122.17 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23513.62 (🔺105.93 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.12 (🔺5.16 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔻0.73 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48475.09 (🔺154.50 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23521.54 (🔺113.84 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.27 (🔺5.31 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.31 (🔻0.70 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,94 +32,96 @@
 
 ## News Headlines
 
-- Pope Francis and Rob Reiner among notable deaths this year
-- US Tariffs on Chinese Chips to be Extended to June 2027
-- US to Garnish Pay of Federal Student Loan Borrowers in Default
-- Petrobras Field Hits 1 Million Bpd Output Pace
-- Britain's Nighttime Workforce Relies on Migrants
-- US Economy Posts Fastest Growth in Two Years
+- Japan's Land Self-Defense Forces' Aircraft Carrier Ohsu-ryu Sees Reduced Operational Rate
+- French Lawmakers Approve Spending Bill to Avoid Government Shutdown
+- US Core Capital Goods Orders and Shipments Rise in October
+- Jeffrey Epstein Investigation Files Released by US Department of Justice
+- Greta Thunberg Arrested at London Protest Supporting Palestine Action Hunger Strikers
+- Brazil's Bolsonaro to Undergo Hernia Surgery on Thursday
 
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+陸自オスプレイ 平均稼働率40％切る状態続く 整備員不足課題
+https://news.web.nhk/newsweb/na/na-k10015012131000
+
+[2025-12-24 03:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maodsaqjcz2y)
+
+---
+
 @wsj.com
 
-From Pope Francis to Rob Reiner, a glance at some notable deaths this year.
+French lawmakers are expected Tuesday to approve a bill averting a government shutdown after weeks of debate in Parliament failed to reach agreement on a new budget.
 
-[2025-12-24 02:48:32](https://bsky.app/profile/wsj.com/post/3maocnjd5pv2g)
-
----
-
-@cnbc.com
-
-U.S. pushes additional tariffs on Chinese chips to June 2027
-
-[2025-12-24 02:46:49](https://bsky.app/profile/cnbc.com/post/3maockgxylr2m)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: The Trump administration said it would soon begin to garnish pay from federal student loan borrowers who are in default, stepping up a repayment enforcement effort that began this year. trib.al/9KWd6Iw</strong>
-
-[2025-12-24 02:45:31](https://bsky.app/profile/nytimes.com/post/3maoci54tvk2f)
+[2025-12-24 03:07:30](https://bsky.app/profile/wsj.com/post/3maodpgqxic23)
 
 ---
 
 @reuters.com
 
-Key Petrobras field hits output pace equivalent to 1 million bpd, sources say reut.rs/4b10ocD
+US core capital goods orders, shipments increase in October reut.rs/44E0EKP
 
-[2025-12-24 02:45:12](https://bsky.app/profile/reuters.com/post/3maochkwhjv2k)
-
----
-
-@en.afp.com
-
-"We are ghosts on the night shift," says Leandro Cristovao from Angola, who has worked the graveyard shift at a south London market for seven years. In the last decade, Britain's nine-million-strong nighttime workforce has become increasingly reliant on migrants like Cristovao.
-u.afp.com/S8Yy
-
-[2025-12-24 02:45:05](https://bsky.app/profile/en.afp.com/post/3maocheyqii2v)
+[2025-12-24 03:05:10](https://bsky.app/profile/reuters.com/post/3maodlb7lyd2b)
 
 ---
 
-@cnbc.com
+@npr.org
 
-Southwest's profits are down 42% this year but it's the top U.S. airline stock
+The Department of Justice has been publicly posting files related to the Jeffrey Epstein investigation since Friday. n.pr/4jfepWm
 
-[2025-12-24 02:44:31](https://bsky.app/profile/cnbc.com/post/3maocgdeyh52i)
+[2025-12-24 03:02:54](https://bsky.app/profile/npr.org/post/3maodh7e46k24)
+
+---
+
+@usatoday.com
+
+Need movies to see this holiday break? Watch these 25 at home now, including "One Battle After Another." All are free on your streaming services.
+
+[2025-12-24 03:01:18](https://bsky.app/profile/usatoday.com/post/3maodeeaup32f)
+
+---
+
+@nbcnews.com
+
+Climate activist Greta Thunberg is arrested in central London at a demonstration in support of Palestine Action hunger strikers. The Swedish activist was at the rally to support multiple members of the banned group who are currently in prison on remand and have been on strike since November 2nd.
+
+[2025-12-24 03:01:16](https://bsky.app/profile/nbcnews.com/post/3maodecaep723)
+
+---
+
+@cnn.com
+
+Here are some of the most memorable findings in 2025 that provided answers to long-standing historical mysteries: https://cnn.it/3KZQL3y
+
+[2025-12-24 03:01:04](https://bsky.app/profile/cnn.com/post/3maoddwkura24)
 
 ---
 
 @reuters.com
 
-Italy removes emphatic 'Yes!' from national anthem reut.rs/4pa7WNM
+Brazil's Bolsonaro to undergo hernia surgery on Thursday reut.rs/4pa9GGO
 
-[2025-12-24 02:40:14](https://bsky.app/profile/reuters.com/post/3maoc6o5zuv24)
-
----
-
-@nytimes.com
-
-Connor Storrie and Hudson Williams star in “Heated Rivalry,” a drama about the hot-and-heavy romance between two closeted male professional hockey players. The Canadian series has been a surprise hit for HBO Max. Read our full interview with the show's stars. nyti.ms/4s67Jhb
-
-[2025-12-24 02:40:04](https://bsky.app/profile/nytimes.com/post/3maoc6esx472r)
+[2025-12-24 03:00:49](https://bsky.app/profile/reuters.com/post/3maoddic6pb2r)
 
 ---
 
-@cbsnews.com
+@bloomberg.com
 
-American consumers in December remained downbeat about the state of the economy, a new survey shows.  
+The enhanced ACA subsidies are set to expire at the end of 2025, a change that could sharply raise premiums and leave millions without coverage. Congress is divided over whether to extend them. Here's what to know:
 
-[2025-12-24 02:40:01](https://bsky.app/profile/cbsnews.com/post/3maoc6cfnig2m)
+[2025-12-24 03:00:33](https://bsky.app/profile/bloomberg.com/post/3maodcyuhrm2h)
 
 ---
 
-@yahoofinance.com
+@washingtonpost.com
 
-Gold, silver rise to records as metals stand out as trade of the year: 'Investors are just getting smarter'
+The FDA has approved the first GLP-1 pill for weight loss, a milestone in the growth of the revolutionary drugs.
 
-[2025-12-24 02:36:06](https://bsky.app/profile/yahoofinance.com/post/3maobxc6v7r26)
+Here's what you need to know:
+
+[2025-12-24 03:00:30](https://bsky.app/profile/washingtonpost.com/post/3maodcwclrm2n)
 
 ---
 
