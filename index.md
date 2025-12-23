@@ -1,9 +1,9 @@
-# [2025-12-24 03:30 updated](2025_12_24.md)
+# [2025-12-24 03:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">U.S. GDP grew much faster than expected in the third quarter. What that means for rate cuts in 2026 <a href="https://bsky.app/profile/cnbc.com/post/3maoerlhynh23" target="_blank">cnbc.com</a> (2025-12-24 03:26:36)</span><span style="padding-right:50px;">The Education Department said that it will resume garnishing the wages of student loan borrowers who are in default starting early next year on.wsj.com/45fqpRP <a href="https://bsky.app/profile/wsj.com/post/3maoeqjdbth2h" target="_blank">wsj.com</a> (2025-12-24 03:26:00)</span><span style="padding-right:50px;">Bank of Spain upgrades growth outlook but many Spaniards feel stretched reut.rs/4p5x5ZN <a href="https://bsky.app/profile/reuters.com/post/3maoeowz66z23" target="_blank">reuters.com</a> (2025-12-24 03:25:07)</span><span style="padding-right:50px;">Tanger CEO says retailers are 'discounting to meet the consumer' this holiday season <a href="https://bsky.app/profile/cnbc.com/post/3maoennohze2e" target="_blank">cnbc.com</a> (2025-12-24 03:24:24)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “The Trump administration had adopted policies condemning a sizable group of its core MAGA supporters — miners, firemen, manufacturing workers — to slow deaths from diseases that cut off their ability to breath,” Thomas B. Edsall writes. <a href="https://bsky.app/profile/nytimes.com/post/3maoefx3inj2b" target="_blank">nytimes.com</a> (2025-12-24 03:20:05)</span>
+<span style="padding-right:50px;">About 5.5 million borrowers are currently in default. They haven't risked wage garnishment since the beginning of the pandemic, when policymakers paused the practice. n.pr/49mlYXT <a href="https://bsky.app/profile/npr.org/post/3maofzf44xr24" target="_blank">npr.org</a> (2025-12-24 03:48:51)</span><span style="padding-right:50px;">US consumer confidence deteriorates in December reut.rs/496J2bH <a href="https://bsky.app/profile/reuters.com/post/3maofswktq52i" target="_blank">reuters.com</a> (2025-12-24 03:45:15)</span><span style="padding-right:50px;">Buy these three stocks as part of your ‘set-it & forget it’ 2026 portfolio, says Evercore ISI <a href="https://bsky.app/profile/cnbc.com/post/3maofrxgl4f2e" target="_blank">cnbc.com</a> (2025-12-24 03:44:42)</span><span style="padding-right:50px;">Trump says he invited Kazakh, Uzbek leaders to G20 Summit next year reut.rs/4av395Z <a href="https://bsky.app/profile/reuters.com/post/3maofk5wevz2y" target="_blank">reuters.com</a> (2025-12-24 03:40:20)</span><span style="padding-right:50px;">An assortment of absurd, useful and funny words and phrases entered the vernacular this year. How well do you know them? <a href="https://bsky.app/profile/nytimes.com/post/3maofjq2g3a25" target="_blank">nytimes.com</a> (2025-12-24 03:40:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48516.74 (🔺196.15 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23525.38 (🔺117.69 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 187.96 (🔺5.00 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔻0.72 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48486.42 (🔺165.83 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23532.96 (🔺125.26 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.48 (🔺5.52 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔻0.73 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,97 +32,94 @@
 
 ## News Headlines
 
-- US GDP Grows Faster Than Expected, Boosting Rate Cut Hopes for 2026
-- Bank of Spain Boosts Growth Outlook, But Many Spaniards Feel Pinched
-- Tanger CEO Says Retailers Are Discounting to Meet Consumer Demand This Holiday Season
-- Climate Activist Greta Thunberg Arrested in London During Palestine Protest
-- FDA Approves First GLP-1 Pill for Weight Loss, Revolutionizing Obesity Treatment
-- US Manufacturing Output Remains Unchanged in November, Despite Recent Gains
+- 5.5 million US borrowers at risk of wage garnishment as pandemic pause ends
+- US consumer confidence drops in December
+- Evercore ISI recommends 'set-it & forget it' 2026 portfolio
+- Trump invites Kazakh, Uzbek leaders to G20 Summit
+- US economy grows faster than expected in third quarter
+- US Education Department to resume garnishing wages of student loan borrowers in default
 
 
 ----
 
-@cnbc.com
+@npr.org
 
-U.S. GDP grew much faster than expected in the third quarter. What that means for rate cuts in 2026
+About 5.5 million borrowers are currently in default. They haven't risked wage garnishment since the beginning of the pandemic, when policymakers paused the practice. n.pr/49mlYXT
 
-[2025-12-24 03:26:36](https://bsky.app/profile/cnbc.com/post/3maoerlhynh23)
-
----
-
-@wsj.com
-
-The Education Department said that it will resume garnishing the wages of student loan borrowers who are in default starting early next year on.wsj.com/45fqpRP
-
-[2025-12-24 03:26:00](https://bsky.app/profile/wsj.com/post/3maoeqjdbth2h)
+[2025-12-24 03:48:51](https://bsky.app/profile/npr.org/post/3maofzf44xr24)
 
 ---
 
 @reuters.com
 
-Bank of Spain upgrades growth outlook but many Spaniards feel stretched reut.rs/4p5x5ZN
+US consumer confidence deteriorates in December reut.rs/496J2bH
 
-[2025-12-24 03:25:07](https://bsky.app/profile/reuters.com/post/3maoeowz66z23)
+[2025-12-24 03:45:15](https://bsky.app/profile/reuters.com/post/3maofswktq52i)
 
 ---
 
 @cnbc.com
 
-Tanger CEO says retailers are 'discounting to meet the consumer' this holiday season
+Buy these three stocks as part of your ‘set-it & forget it’ 2026 portfolio, says Evercore ISI
 
-[2025-12-24 03:24:24](https://bsky.app/profile/cnbc.com/post/3maoennohze2e)
+[2025-12-24 03:44:42](https://bsky.app/profile/cnbc.com/post/3maofrxgl4f2e)
+
+---
+
+@reuters.com
+
+Trump says he invited Kazakh, Uzbek leaders to G20 Summit next year reut.rs/4av395Z
+
+[2025-12-24 03:40:20](https://bsky.app/profile/reuters.com/post/3maofk5wevz2y)
 
 ---
 
 @nytimes.com
 
-In @nytopinion.nytimes.com 
+An assortment of absurd, useful and funny words and phrases entered the vernacular this year. How well do you know them?
 
-“The Trump administration had adopted policies condemning a sizable group of its core MAGA supporters — miners, firemen, manufacturing workers — to slow deaths from diseases that cut off their ability to breath,” Thomas B. Edsall writes.
-
-[2025-12-24 03:20:05](https://bsky.app/profile/nytimes.com/post/3maoefx3inj2b)
-
----
-
-@reuters.com
-
-US manufacturing production unchanged in November reut.rs/4qgGzCG
-
-[2025-12-24 03:15:17](https://bsky.app/profile/reuters.com/post/3maoe5eiv752c)
-
----
-
-@en.afp.com
-
-Manhattan's Le Petit Village restaurant is among a growing number of dining establishments in New York offering smaller portions at lower prices, as the prevalence of medications that reduce hunger like Ozempic grows. 
-u.afp.com/S8gJ
-
-[2025-12-24 03:15:05](https://bsky.app/profile/en.afp.com/post/3maoe4zksob2f)
+[2025-12-24 03:40:06](https://bsky.app/profile/nytimes.com/post/3maofjq2g3a25)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-三重県 外国籍の県職員採用 来年度から取りやめる方向で検討
-https://news.web.nhk/newsweb/na/na-k10015012091000
+金融業界 来年春闘前年並みか上回る賃上げ方針 相次ぎ明らかに
+https://news.web.nhk/newsweb/na/na-k10015012021000
 
-[2025-12-24 03:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maodxltmn62u)
+[2025-12-24 03:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maofhuvkcg2m)
 
 ---
 
-@aljazeera.com
+@yahoofinance.com
 
-Israeli Defence Minister Israel Katz has said the Israeli military “will never leave Gaza”, announcing plans to establish a “civilian-military army unit” to replace illegal Israeli settlements dismantled in 2005.
+Americans are going home for the holidays  — no matter the cost. 
 
-[2025-12-24 03:11:36](https://bsky.app/profile/aljazeera.com/post/3maodwrnvg22o)
+[2025-12-24 03:36:05](https://bsky.app/profile/yahoofinance.com/post/3maofckieel2j)
 
 ---
 
 @reuters.com
 
-US dollar falters as markets focus on Fed easing over growth data reut.rs/4aOe0rV
+Canada November wholesale trade most likely up 0.1% - Statscan flash estimate reut.rs/4sgZYVW
 
-[2025-12-24 03:10:22](https://bsky.app/profile/reuters.com/post/3maodukt6mj2k)
+[2025-12-24 03:35:09](https://bsky.app/profile/reuters.com/post/3maofaumb642k)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は２３日、市場が堅調であれば米連邦準備理事会（ＦＲＢ）次期議長には金利を引き下げてほしいとの考えを示した。また、「私の考えに同意しない者はＦＲＢ議長にはなれない」と述べた。 bit.ly/4pRzcBI
+
+[2025-12-24 03:32:17](https://bsky.app/profile/japan.reuters.com/post/3maof3r7q5k2u)
+
+---
+
+@usatoday.com
+
+President Trump has renewed his interest in acquiring Greenland by appointing Louisiana Gov. Jeff Landry to be his envoy for the Arctic island.
+
+[2025-12-24 03:30:13](https://bsky.app/profile/usatoday.com/post/3maoey2nfn52o)
 
 ---
 
