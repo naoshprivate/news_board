@@ -1,9 +1,9 @@
-# [2025-12-23 20:30 updated](2025_12_23.md)
+# [2025-12-23 20:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Top 25 roundup: Caleb Wilson, No. 12 UNC keep rolling reut.rs/4pRh6Qr <a href="https://bsky.app/profile/reuters.com/post/3manna4t4pu2b" target="_blank">reuters.com</a> (2025-12-23 20:25:14)</span><span style="padding-right:50px;">スペイン国家統計局が２３日発表した第３・四半期の国内総生産（ＧＤＰ）改定値は前期比０．６％増だった。速報値から修正はなかった。 bit.ly/3YEMG7V <a href="https://bsky.app/profile/japan.reuters.com/post/3mann7x3o2z2v" target="_blank">japan.reuters.com</a> (2025-12-23 20:25:08)</span><span style="padding-right:50px;">Lexington, Neb., has been hit hard by the news that Tyson Foods is closing its sprawling meatpacking plant, which has provided steady paychecks for more than 3,000 workers. <a href="https://bsky.app/profile/wsj.com/post/3mann27327m2r" target="_blank">wsj.com</a> (2025-12-23 20:21:55)</span><span style="padding-right:50px;">韓国 サムスン電子元幹部らを起訴 半導体生産技術を中国へ流出 https://news.web.nhk/newsweb/na/na-k10015011811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manmytzsfo2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 20:21:08)</span><span style="padding-right:50px;">高市首相 来年度予算案“来年のできるだけ早期に成立目指す” https://news.web.nhk/newsweb/na/na-k10015011821000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manmyp4j762s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 20:21:03)</span>
+<span style="padding-right:50px;">🔊 ‘It really speaks to the concrete steps and the practical impacts of China's growing military ambitions.’ On the Reuters World News podcast, we discuss how China has likely loaded more than 100 ICBMs in silo fields reut.rs/4pRhaQb <a href="https://bsky.app/profile/reuters.com/post/3manokj6wyk2q" target="_blank">reuters.com</a> (2025-12-23 20:48:56)</span><span style="padding-right:50px;">三井住友トラストグループ 新社長に大山一也氏が昇格 https://news.web.nhk/newsweb/na/na-k10015011831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manoj3zgpl2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 20:48:07)</span><span style="padding-right:50px;">赤澤経産相 24日～1月5日まで入院 健康管理のための軽微手術で https://news.web.nhk/newsweb/na/na-k10015011841000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manoixihpb22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 20:48:02)</span><span style="padding-right:50px;">世界の半導体販売、月間で11兆円超え www.nikkei.com/article/DGXZQO...  10月に初めて700億ドルを突破。600億ドル台に乗せてから、わずか3カ月でした。  初めて500億ドル台を付けてから600億ドル台に乗せるまでには、3年8カ月かかっていました。  データセンター関連の引き合いが強く、販売の勢いが加速しています。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3manogfqmor22" target="_blank">nikkei.com</a> (2025-12-23 20:46:38)</span><span style="padding-right:50px;">Since Trump took office, officials have transferred ten of the 37 men Biden spared from execution to the "Alcatraz of the Rockies." One prisoner still awaiting transfer has attempted suicide. n.pr/4jaZyvS <a href="https://bsky.app/profile/npr.org/post/3manofu5bpk23" target="_blank">npr.org</a> (2025-12-23 20:46:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.89 (🔻1.12 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.97 (🔻1.04 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,104 +32,106 @@
 
 ## News Headlines
 
-- Caleb Wilson, UNC Keep Rolling
-- Japan GDP Growth Remains Stable at 0.6% in Q3
-- Tyson Foods to Close Meatpacking Plant in Lexington, Nebraska
-- Samsung Electronics Executives Charged in South Korea for Technology Leak
-- Ukraine Hit by Russian Strikes, Power Cuts in Freezing Temperatures
-- Japan's Prime Minister Fumio Kishida to Push for Early Passage of Budget
-
+[{"en": "China Loads Over 100 ICBMs in Silo Fields"}, 
+{"en": "New Trustee Elected for Mitsui Sumitomo Trust Group"}, 
+{"en": "Japan's Minister of Economy, Trade and Industry to Undergo Minor Surgery"}, 
+{"en": "Global Semiconductor Sales Surpass $11 Trillion in a Month"}, 
+{"en": "US Officials Transfer More Death Row Prisoners to "Alcatraz of the Rockies""}, 
+{"en": "Major Central Banks Deliver Largest Easing Push in Over a Decade"}]
 
 ----
 
 @reuters.com
 
-Top 25 roundup: Caleb Wilson, No. 12 UNC keep rolling reut.rs/4pRh6Qr
+🔊 ‘It really speaks to the concrete steps and the practical impacts of China's growing military ambitions.’ On the Reuters World News podcast, we discuss how China has likely loaded more than 100 ICBMs in silo fields reut.rs/4pRhaQb
 
-[2025-12-23 20:25:14](https://bsky.app/profile/reuters.com/post/3manna4t4pu2b)
-
----
-
-@japan.reuters.com
-
-スペイン国家統計局が２３日発表した第３・四半期の国内総生産（ＧＤＰ）改定値は前期比０．６％増だった。速報値から修正はなかった。 bit.ly/3YEMG7V
-
-[2025-12-23 20:25:08](https://bsky.app/profile/japan.reuters.com/post/3mann7x3o2z2v)
-
----
-
-@wsj.com
-
-Lexington, Neb., has been hit hard by the news that Tyson Foods is closing its sprawling meatpacking plant, which has provided steady paychecks for more than 3,000 workers.
-
-[2025-12-23 20:21:55](https://bsky.app/profile/wsj.com/post/3mann27327m2r)
+[2025-12-23 20:48:56](https://bsky.app/profile/reuters.com/post/3manokj6wyk2q)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-韓国 サムスン電子元幹部らを起訴 半導体生産技術を中国へ流出
-https://news.web.nhk/newsweb/na/na-k10015011811000
+三井住友トラストグループ 新社長に大山一也氏が昇格
+https://news.web.nhk/newsweb/na/na-k10015011831000
 
-[2025-12-23 20:21:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manmytzsfo2s)
+[2025-12-23 20:48:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manoj3zgpl2u)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-高市首相 来年度予算案“来年のできるだけ早期に成立目指す”
-https://news.web.nhk/newsweb/na/na-k10015011821000
+赤澤経産相 24日～1月5日まで入院 健康管理のための軽微手術で
+https://news.web.nhk/newsweb/na/na-k10015011841000
 
-[2025-12-23 20:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manmyp4j762s)
-
----
-
-@japan.reuters.com
-
-ゆうちょ銀行は２３日、発行済み株式の０．６％に当たる２３００万株・３００億円を上限とする自社株買いを決議したと発表した。取得期間は２４日から来年３月２４日まで。 bit.ly/498vU63
-
-[2025-12-23 20:20:18](https://bsky.app/profile/japan.reuters.com/post/3manmxcic5g2q)
-
----
-
-@en.afp.com
-
-🇺🇦 Large-scale Russian strikes killed at least three people and cut power to thousands in freezing winter temperatures across Ukraine, as US-led talks to end the nearly four-year war faltered. 
-➡️ u.afp.com/S8fk
-
-[2025-12-23 20:20:01](https://bsky.app/profile/en.afp.com/post/3manmwsbzng2j)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】福井の転換炉「ふげん」放射性物質含む水漏れで作業員3人に被ばくなし
-(2025年12月23日 20:19) #ニュース
-
-[2025-12-23 20:19:56](https://bsky.app/profile/sokuho.news/post/3manmwni2qq2e)
+[2025-12-23 20:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manoixihpb22)
 
 ---
 
 @nikkei.com
 
-福井「ふげん」で放射性物質含む水漏れ、廃炉作業中に　原子力規制委（無料記事）
+世界の半導体販売、月間で11兆円超え
 www.nikkei.com/article/DGXZQO...
 
-作業員は防護服と全面マスクを着用しており、現時点で被曝は確認されていません。
+10月に初めて700億ドルを突破。600億ドル台に乗せてから、わずか3カ月でした。
+
+初めて500億ドル台を付けてから600億ドル台に乗せるまでには、3年8カ月かかっていました。
+
+データセンター関連の引き合いが強く、販売の勢いが加速しています。
 
 #ニュース
 
-[2025-12-23 20:16:40](https://bsky.app/profile/nikkei.com/post/3manmqslbyk2m)
+[2025-12-23 20:46:38](https://bsky.app/profile/nikkei.com/post/3manogfqmor22)
+
+---
+
+@npr.org
+
+Since Trump took office, officials have transferred ten of the 37 men Biden spared from execution to the "Alcatraz of the Rockies." One prisoner still awaiting transfer has attempted suicide. n.pr/4jaZyvS
+
+[2025-12-23 20:46:20](https://bsky.app/profile/npr.org/post/3manofu5bpk23)
 
 ---
 
 @reuters.com
 
-European shares hit record high as Novo Nordisk drives healthcare boost reut.rs/4s9YpJj
+Major central banks deliver biggest easing push in over a decade in 2025 reut.rs/3NfRX3e
 
-[2025-12-23 20:15:25](https://bsky.app/profile/reuters.com/post/3manmoktanr2y)
+[2025-12-23 20:45:11](https://bsky.app/profile/reuters.com/post/3manodsg4mi2o)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+サッカーJリーグ J1町田 黒田監督に懲罰処分 暴言や不適切指導
+https://news.web.nhk/newsweb/na/na-k10015011851000
+
+[2025-12-23 20:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manodltv4624)
+
+---
+
+@reuters.com
+
+AI data centers are forcing obsolete ‘peaker’ power plants back into service reut.rs/4s9ZdOl
+
+[2025-12-23 20:40:21](https://bsky.app/profile/reuters.com/post/3mano364d4r2i)
+
+---
+
+@japan.reuters.com
+
+台湾経済部が２３日発表した１１月の輸出受注は前年同月比３９．５％増の７２９．２億ドルだった。年末商戦を控え、人工知能（ＡＩ）関連技術への旺盛な需要が継続し、２０２１年４月以来の高い伸びを記録した。 bit.ly/49oMRKO
+
+[2025-12-23 20:40:18](https://bsky.app/profile/japan.reuters.com/post/3mano32kk5n2c)
+
+---
+
+@en.afp.com
+
+🇸🇦 Saudi belly dancers shake off taboos behind closed doors
+
+In a Riyadh fitness studio, dozens of women move to Arabic music, practising belly dance in secret. Despite their enthusiasm, none reveal their names or faces -— a reflection of the deep stigma that surrounds the dance in Saudi Arabia.
+
+[2025-12-23 20:40:04](https://bsky.app/profile/en.afp.com/post/3mano2nnga32j)
 
 ---
 
