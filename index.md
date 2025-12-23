@@ -1,9 +1,9 @@
-# [2025-12-24 01:30 updated](2025_12_24.md)
+# [2025-12-24 01:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">After Bari Weiss, the new CBS News editor in chief, abruptly postponed a segment of “60 Minutes” that was critical of the Trump administration, several veteran correspondents questioned how she had handled the segment after she defended her decision on a call with the newsroom. trib.al/nS4UDkt <a href="https://bsky.app/profile/nytimes.com/post/3mao65og5ys2f" target="_blank">nytimes.com</a> (2025-12-24 01:28:05)</span><span style="padding-right:50px;">Former Republican Sen. Ben Sasse announced that he’s been diagnosed with “metastasized, stage 4 pancreatic cancer, and am gonna die. https://cnn.it/45hqdBB <a href="https://bsky.app/profile/cnn.com/post/3mao64iv27x23" target="_blank">cnn.com</a> (2025-12-24 01:27:26)</span><span style="padding-right:50px;">Campari's top shareholder regains seized shares after tax deal reut.rs/48PY2Mq <a href="https://bsky.app/profile/reuters.com/post/3mao5yfqyfi2y" target="_blank">reuters.com</a> (2025-12-24 01:25:08)</span><span style="padding-right:50px;">Here are seven takeaways from the final episodes of “The End of an Era,” the Disney+ series exploring Taylor Swift’s globe-trotting concert extravaganza. <a href="https://bsky.app/profile/nytimes.com/post/3mao5pcuqqm2b" target="_blank">nytimes.com</a> (2025-12-24 01:20:03)</span><span style="padding-right:50px;">🇻🇳 Vietnam's Communist Party on Tuesday endorsed General Secretary To Lam to remain in the top job for the next five years, according to two sources briefed on a meeting where senior officials agreed a slate of candidates to be announced at the party congress in January.  ➡️ u.afp.com/S8g5 <a href="https://bsky.app/profile/en.afp.com/post/3mao5pb4ljt2j" target="_blank">en.afp.com</a> (2025-12-24 01:20:02)</span>
+<span style="padding-right:50px;">This cloud stock is due for a big rebound heading into the new year. Using options to play it <a href="https://bsky.app/profile/cnbc.com/post/3mao7cpvuz42e" target="_blank">cnbc.com</a> (2025-12-24 01:48:49)</span><span style="padding-right:50px;">Consumers are taking on more debt this holiday, even as they grow less confident in the economy <a href="https://bsky.app/profile/cnbc.com/post/3mao76ss23f23" target="_blank">cnbc.com</a> (2025-12-24 01:46:37)</span><span style="padding-right:50px;">Israel to tax banks extra 15% on 'excessive' profits reut.rs/3MYI7Tk <a href="https://bsky.app/profile/reuters.com/post/3mao74guojf2c" target="_blank">reuters.com</a> (2025-12-24 01:45:18)</span><span style="padding-right:50px;">Former Sen. Ben Sasse announces that he has been diagnosed with "metastasized, stage-four pancreatic cancer," writing in an X post that the diagnosis is "a death sentence." <a href="https://bsky.app/profile/nbcnews.com/post/3mao73qj5ls2r" target="_blank">nbcnews.com</a> (2025-12-24 01:44:54)</span><span style="padding-right:50px;">Prediction markets are booming. Taxing them is a mess <a href="https://bsky.app/profile/cnbc.com/post/3mao72knyn42x" target="_blank">cnbc.com</a> (2025-12-24 01:44:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48419.37 (🔺98.78 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23493.54 (🔺85.85 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 187.86 (🔺4.90 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.36 (🔻0.65 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48432.35 (🔺111.76 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23508.46 (🔺100.76 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 187.78 (🔺4.82 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.32 (🔻0.69 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,95 +32,93 @@
 
 ## News Headlines
 
-- CBS News Editor in Chief Postpones Critical Segment of 60 Minutes Amid Trump Administration Criticism
-- Former Senator Ben Sasse Diagnosed with Terminal Pancreatic Cancer
-- Campari Shareholder Regains Seized Shares After Tax Deal
-- Vietnam's Communist Party Endorses General Secretary To Lam for Top Job
-- US Economy Grows Faster Than Expected in Third Quarter, But Momentum Fades
-- Trump Administration Announces Tariffs on Chinese Semiconductors Starting in 2027
+- This Cloud Stock Is Due for a Big Rebound Heading into the New Year
+- US Economy Grows at 4.3% Annual Rate in Q3 Despite Tariffs and Affordability Concerns
+- Israel to Tax Banks 15% on 'Excessive' Profits
+- US President Trump's Interest in Greenland Not Down to Rare Minerals and Mining Opportunities
+- Ben Sasse, Former Republican Senator, Diagnosed with Terminal Pancreatic Cancer
+- Vietnam's Communist Party Endorses General Secretary To Lam for Another Five Years
 
 
 ----
 
-@nytimes.com
+@cnbc.com
 
-After Bari Weiss, the new CBS News editor in chief, abruptly postponed a segment of “60 Minutes” that was critical of the Trump administration, several veteran correspondents questioned how she had handled the segment after she defended her decision on a call with the newsroom. trib.al/nS4UDkt
+This cloud stock is due for a big rebound heading into the new year. Using options to play it
 
-[2025-12-24 01:28:05](https://bsky.app/profile/nytimes.com/post/3mao65og5ys2f)
-
----
-
-@cnn.com
-
-Former Republican Sen. Ben Sasse announced that he’s been diagnosed with “metastasized, stage 4 pancreatic cancer, and am gonna die. https://cnn.it/45hqdBB
-
-[2025-12-24 01:27:26](https://bsky.app/profile/cnn.com/post/3mao64iv27x23)
+[2025-12-24 01:48:49](https://bsky.app/profile/cnbc.com/post/3mao7cpvuz42e)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Campari's top shareholder regains seized shares after tax deal reut.rs/48PY2Mq
+Consumers are taking on more debt this holiday, even as they grow less confident in the economy
 
-[2025-12-24 01:25:08](https://bsky.app/profile/reuters.com/post/3mao5yfqyfi2y)
-
----
-
-@nytimes.com
-
-Here are seven takeaways from the final episodes of “The End of an Era,” the Disney+ series exploring Taylor Swift’s globe-trotting concert extravaganza.
-
-[2025-12-24 01:20:03](https://bsky.app/profile/nytimes.com/post/3mao5pcuqqm2b)
-
----
-
-@en.afp.com
-
-🇻🇳 Vietnam's Communist Party on Tuesday endorsed General Secretary To Lam to remain in the top job for the next five years, according to two sources briefed on a meeting where senior officials agreed a slate of candidates to be announced at the party congress in January. 
-➡️ u.afp.com/S8g5
-
-[2025-12-24 01:20:02](https://bsky.app/profile/en.afp.com/post/3mao5pb4ljt2j)
-
----
-
-@nytimes.com
-
-"A new winter favorite!" This lentil soup with smoked sausage and apples takes only a few minutes to throw together, and most of the time is spent in hands-off simmering time. nyti.ms/3KI43Sa
-
-[2025-12-24 01:19:02](https://bsky.app/profile/nytimes.com/post/3mao5nhrlbq25)
+[2025-12-24 01:46:37](https://bsky.app/profile/cnbc.com/post/3mao76ss23f23)
 
 ---
 
 @reuters.com
 
-Tunisia's powerful union chief resigns, sources say, ahead of planned nationwide strike reut.rs/3MRTY5E
+Israel to tax banks extra 15% on 'excessive' profits reut.rs/3MYI7Tk
 
-[2025-12-24 01:15:15](https://bsky.app/profile/reuters.com/post/3mao5gpywfz2s)
-
----
-
-@japan.reuters.com
-
-米商務省が２３日発表した第３・四半期の国内総生産（ＧＤＰ）速報値は年率換算で前期比４．３％増加し、伸びは
- 第２・四半期の３．８％から加速した。旺盛な個人消費にけん引され、エコノミスト予想の３．３％を上回って成長。ただ、生活費の上昇のほか、この秋の政府機関の一部閉鎖などの影響で勢いは足元で鈍化している可能性がある。 bit.ly/48QNwEC
-
-[2025-12-24 01:10:16](https://bsky.app/profile/japan.reuters.com/post/3mao55sg2wv27)
+[2025-12-24 01:45:18](https://bsky.app/profile/reuters.com/post/3mao74guojf2c)
 
 ---
 
-@reuters.com
+@nbcnews.com
 
-TSX steady as financial gains offset mining losses; investors assess economic data reut.rs/4sd9Pfd
+Former Sen. Ben Sasse announces that he has been diagnosed with "metastasized, stage-four pancreatic cancer," writing in an X post that the diagnosis is "a death sentence."
 
-[2025-12-24 01:10:10](https://bsky.app/profile/reuters.com/post/3mao55n6ir52r)
+[2025-12-24 01:44:54](https://bsky.app/profile/nbcnews.com/post/3mao73qj5ls2r)
+
+---
+
+@cnbc.com
+
+Prediction markets are booming. Taxing them is a mess
+
+[2025-12-24 01:44:15](https://bsky.app/profile/cnbc.com/post/3mao72knyn42x)
 
 ---
 
 @nytimes.com
 
-At least five people were killed on Monday when a Mexican Navy medical plane crashed into Galveston Bay in Texas as it was flying a child with burns to a specialized pediatric hospital for treatment, Mexico’s president said on Tuesday.
+<strong><span style="color: red;">Breaking News</span>: Ben Sasse, a Republican former senator from Nebraska and a former president of the University of Florida, announced that he had received a diagnosis of terminal Stage 4 pancreatic cancer.</strong>
 
-[2025-12-24 01:09:12](https://bsky.app/profile/nytimes.com/post/3mao53v3yla2a)
+[2025-12-24 01:42:57](https://bsky.app/profile/nytimes.com/post/3mao6yae33v2y)
+
+---
+
+@cbsnews.com
+
+A crane was stationed outside the Louvre Museum in Paris on Tuesday — but this time it wasn't being used by jewel thieves stealing some of the nation's historic treasures. 
+
+[2025-12-24 01:41:27](https://bsky.app/profile/cbsnews.com/post/3mao6vl4aqa2c)
+
+---
+
+@reuters.com
+
+China's LandSpace completes 'tutoring' process ahead of Shanghai IPO reut.rs/4b1UCYb
+
+[2025-12-24 01:40:11](https://bsky.app/profile/reuters.com/post/3mao6tcgzgq2p)
+
+---
+
+@nytimes.com
+
+The U.S. economy grew at a 4.3% annual rate in the third quarter, despite the uncertainty created by tariffs and widespread concerns about affordability among households.
+
+[2025-12-24 01:40:02](https://bsky.app/profile/nytimes.com/post/3mao6szqjps2y)
+
+---
+
+@reuters.com
+
+IOC invites Russian ski mountaineer Filippov to compete in Winter Games reut.rs/4jaWEYj
+
+[2025-12-24 01:35:08](https://bsky.app/profile/reuters.com/post/3mao6kbq6k524)
 
 ---
 
