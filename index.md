@@ -1,9 +1,9 @@
-# [2025-12-24 01:50 updated](2025_12_24.md)
+# [2025-12-24 02:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">This cloud stock is due for a big rebound heading into the new year. Using options to play it <a href="https://bsky.app/profile/cnbc.com/post/3mao7cpvuz42e" target="_blank">cnbc.com</a> (2025-12-24 01:48:49)</span><span style="padding-right:50px;">Consumers are taking on more debt this holiday, even as they grow less confident in the economy <a href="https://bsky.app/profile/cnbc.com/post/3mao76ss23f23" target="_blank">cnbc.com</a> (2025-12-24 01:46:37)</span><span style="padding-right:50px;">Israel to tax banks extra 15% on 'excessive' profits reut.rs/3MYI7Tk <a href="https://bsky.app/profile/reuters.com/post/3mao74guojf2c" target="_blank">reuters.com</a> (2025-12-24 01:45:18)</span><span style="padding-right:50px;">Former Sen. Ben Sasse announces that he has been diagnosed with "metastasized, stage-four pancreatic cancer," writing in an X post that the diagnosis is "a death sentence." <a href="https://bsky.app/profile/nbcnews.com/post/3mao73qj5ls2r" target="_blank">nbcnews.com</a> (2025-12-24 01:44:54)</span><span style="padding-right:50px;">Prediction markets are booming. Taxing them is a mess <a href="https://bsky.app/profile/cnbc.com/post/3mao72knyn42x" target="_blank">cnbc.com</a> (2025-12-24 01:44:15)</span>
+<span style="padding-right:50px;">トランプ米大統領は２３日、カザフスタンとウズベキスタンの大統領と電話会談し、両首脳を来年フロリダ州マイアミで開催される２０カ国・地域（Ｇ２０）首脳会議に招待したと明らかにした。 bit.ly/4b5U6bH <a href="https://bsky.app/profile/japan.reuters.com/post/3maoag6fsqx2c" target="_blank">japan.reuters.com</a> (2025-12-24 02:08:38)</span><span style="padding-right:50px;">UK police say comedian Russell Brand charged with two more sex offences reut.rs/4awuZi7 <a href="https://bsky.app/profile/reuters.com/post/3maoa7xg6nn24" target="_blank">reuters.com</a> (2025-12-24 02:05:09)</span><span style="padding-right:50px;">A lot of us automatically use certain emotionally immature phrases without even thinking about it, according to communication experts. Here’s a list of the most common ones to avoid. <a href="https://bsky.app/profile/cnbc.com/post/3maoa6q6gu424" target="_blank">cnbc.com</a> (2025-12-24 02:04:28)</span><span style="padding-right:50px;">Americans leave more than $4 billion in flexible-spending accounts each year, money that goes straight back to their employers. What can you do with money that is about to expire? Here are some tips. <a href="https://bsky.app/profile/wsj.com/post/3maoa5slr7o2o" target="_blank">wsj.com</a> (2025-12-24 02:03:57)</span><span style="padding-right:50px;">ユーロ圏金融・債券市場では、ドイツ３０年債利回りが１日としては２カ月超ぶりの低下幅となる見通しとなった。世界的な国債売りが一服したことが背景にある。 bit.ly/3Nen3by <a href="https://bsky.app/profile/japan.reuters.com/post/3maoa3vsdhs2q" target="_blank">japan.reuters.com</a> (2025-12-24 02:02:54)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48432.35 (🔺111.76 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23508.46 (🔺100.76 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 187.78 (🔺4.82 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.32 (🔻0.69 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48418.34 (🔺97.75 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23527.82 (🔺120.12 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.43 (🔺5.46 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.32 (🔻0.69 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,93 +32,96 @@
 
 ## News Headlines
 
-- This Cloud Stock Is Due for a Big Rebound Heading into the New Year
-- US Economy Grows at 4.3% Annual Rate in Q3 Despite Tariffs and Affordability Concerns
-- Israel to Tax Banks 15% on 'Excessive' Profits
-- US President Trump's Interest in Greenland Not Down to Rare Minerals and Mining Opportunities
-- Ben Sasse, Former Republican Senator, Diagnosed with Terminal Pancreatic Cancer
-- Vietnam's Communist Party Endorses General Secretary To Lam for Another Five Years
+- Trump Invites Kazakh and Uzbek Presidents to G20 Summit in Miami
+- Russell Brand Charged with Two More Sex Offences
+- Trump's Jet Trips to Epstein's Private Plane Revealed in New Docs
+- Former Call of Duty Creator Vince Zampella Dies at 55
+- Ukraine Deploys Low-Cost Drones to Counter Russia's Aerial Attacks
+- Ben Sasse Diagnosed with Terminal Pancreatic Cancer
 
 
 ----
 
-@cnbc.com
+@japan.reuters.com
 
-This cloud stock is due for a big rebound heading into the new year. Using options to play it
+トランプ米大統領は２３日、カザフスタンとウズベキスタンの大統領と電話会談し、両首脳を来年フロリダ州マイアミで開催される２０カ国・地域（Ｇ２０）首脳会議に招待したと明らかにした。 bit.ly/4b5U6bH
 
-[2025-12-24 01:48:49](https://bsky.app/profile/cnbc.com/post/3mao7cpvuz42e)
-
----
-
-@cnbc.com
-
-Consumers are taking on more debt this holiday, even as they grow less confident in the economy
-
-[2025-12-24 01:46:37](https://bsky.app/profile/cnbc.com/post/3mao76ss23f23)
+[2025-12-24 02:08:38](https://bsky.app/profile/japan.reuters.com/post/3maoag6fsqx2c)
 
 ---
 
 @reuters.com
 
-Israel to tax banks extra 15% on 'excessive' profits reut.rs/3MYI7Tk
+UK police say comedian Russell Brand charged with two more sex offences reut.rs/4awuZi7
 
-[2025-12-24 01:45:18](https://bsky.app/profile/reuters.com/post/3mao74guojf2c)
+[2025-12-24 02:05:09](https://bsky.app/profile/reuters.com/post/3maoa7xg6nn24)
+
+---
+
+@cnbc.com
+
+A lot of us automatically use certain emotionally immature phrases without even thinking about it, according to communication experts. Here’s a list of the most common ones to avoid.
+
+[2025-12-24 02:04:28](https://bsky.app/profile/cnbc.com/post/3maoa6q6gu424)
+
+---
+
+@wsj.com
+
+Americans leave more than $4 billion in flexible-spending accounts each year, money that goes straight back to their employers. What can you do with money that is about to expire? Here are some tips.
+
+[2025-12-24 02:03:57](https://bsky.app/profile/wsj.com/post/3maoa5slr7o2o)
+
+---
+
+@japan.reuters.com
+
+ユーロ圏金融・債券市場では、ドイツ３０年債利回りが１日としては２カ月超ぶりの低下幅となる見通しとなった。世界的な国債売りが一服したことが背景にある。 bit.ly/3Nen3by
+
+[2025-12-24 02:02:54](https://bsky.app/profile/japan.reuters.com/post/3maoa3vsdhs2q)
+
+---
+
+@cnn.com
+
+A major storm is gearing up to deliver months’ worth of rain and powerful winds to Southern California — the most potent in a slew of atmospheric river-fueled storms aiming for the region this week. https://cnn.it/4auRcgt
+
+[2025-12-24 02:02:03](https://bsky.app/profile/cnn.com/post/3maoa2ffk7m2o)
+
+---
+
+@en.afp.com
+
+🇬🇧 Greta Thunberg arrested at pro-Palestinian protest in London
+
+London police have arrested Swedish activist Greta Thunberg at a demonstration in support of pro-Palestinian hunger strikers, Palestinian activist groups said. 
+#AFPVertical
+
+[2025-12-24 02:01:48](https://bsky.app/profile/en.afp.com/post/3mao7zxku6k2j)
+
+---
+
+@bloomberg.com
+
+OpenAI’s valuation is skyrocketing, but the stock is out of reach for ordinary investors. Here are the workarounds — and what they really offer
+
+[2025-12-24 02:01:38](https://bsky.app/profile/bloomberg.com/post/3mao7zni6wu2w)
+
+---
+
+@reuters.com
+
+Obamacare enrollment declines as US subsidies expire reut.rs/45nvsQ6
+
+[2025-12-24 02:01:07](https://bsky.app/profile/reuters.com/post/3mao7yq4x2n2b)
 
 ---
 
 @nbcnews.com
 
-Former Sen. Ben Sasse announces that he has been diagnosed with "metastasized, stage-four pancreatic cancer," writing in an X post that the diagnosis is "a death sentence."
+Vince Zambella, one of the creators behind best-selling video game series 'Call Of Duty,' has died. He was 55. 
 
-[2025-12-24 01:44:54](https://bsky.app/profile/nbcnews.com/post/3mao73qj5ls2r)
-
----
-
-@cnbc.com
-
-Prediction markets are booming. Taxing them is a mess
-
-[2025-12-24 01:44:15](https://bsky.app/profile/cnbc.com/post/3mao72knyn42x)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: Ben Sasse, a Republican former senator from Nebraska and a former president of the University of Florida, announced that he had received a diagnosis of terminal Stage 4 pancreatic cancer.</strong>
-
-[2025-12-24 01:42:57](https://bsky.app/profile/nytimes.com/post/3mao6yae33v2y)
-
----
-
-@cbsnews.com
-
-A crane was stationed outside the Louvre Museum in Paris on Tuesday — but this time it wasn't being used by jewel thieves stealing some of the nation's historic treasures. 
-
-[2025-12-24 01:41:27](https://bsky.app/profile/cbsnews.com/post/3mao6vl4aqa2c)
-
----
-
-@reuters.com
-
-China's LandSpace completes 'tutoring' process ahead of Shanghai IPO reut.rs/4b1UCYb
-
-[2025-12-24 01:40:11](https://bsky.app/profile/reuters.com/post/3mao6tcgzgq2p)
-
----
-
-@nytimes.com
-
-The U.S. economy grew at a 4.3% annual rate in the third quarter, despite the uncertainty created by tariffs and widespread concerns about affordability among households.
-
-[2025-12-24 01:40:02](https://bsky.app/profile/nytimes.com/post/3mao6szqjps2y)
-
----
-
-@reuters.com
-
-IOC invites Russian ski mountaineer Filippov to compete in Winter Games reut.rs/4jaWEYj
-
-[2025-12-24 01:35:08](https://bsky.app/profile/reuters.com/post/3mao6kbq6k524)
+[2025-12-24 02:01:05](https://bsky.app/profile/nbcnews.com/post/3mao7yoixyp2x)
 
 ---
 
