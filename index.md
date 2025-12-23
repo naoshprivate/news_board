@@ -1,9 +1,9 @@
-# [2025-12-24 06:10 updated](2025_12_24.md)
+# [2025-12-24 06:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ウクライナ軍は２３日、ロシアとの激戦が続いている東部ドネツク州のシベルスクから撤退したと発表した。ロシア軍はウクライナ東部の要衝掌握を狙った攻勢を展開している。 bit.ly/45fHYkJ <a href="https://bsky.app/profile/japan.reuters.com/post/3maonso4moe2q" target="_blank">japan.reuters.com</a> (2025-12-24 06:08:16)</span><span style="padding-right:50px;">The Government Media Office in the Gaza Strip reports that Israeli forces have committed 875 violations over 74 days of the ceasefire, killing 411 Palestinians and injuring 1,112 as they also arrested 45 people. <a href="https://bsky.app/profile/aljazeera.com/post/3maonrrxhy222" target="_blank">aljazeera.com</a> (2025-12-24 06:07:46)</span><span style="padding-right:50px;">A Delaware state trooper was killed along with the suspected gunman during a shooting at a motor vehicle agency near Wilmington. <a href="https://bsky.app/profile/apnews.com/post/3maonqnt4py23" target="_blank">apnews.com</a> (2025-12-24 06:07:08)</span><span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞大規模災害リスク具体化 自治体支援へ指針策定検討会 防災庁主要事業に (2025/12/24 05:00) #ニュース https://www.sankei.com/article/20251224-KOBI4PWLXBJTNH5L34HK3OU7UA/ <a href="https://bsky.app/profile/sokuho.news/post/3maonoftbkv2b" target="_blank">sokuho.news</a> (2025-12-24 06:05:52)</span><span style="padding-right:50px;">Venezuela passes law against piracy, blockades amid US oil ship seizures reut.rs/3KP5EFQ <a href="https://bsky.app/profile/reuters.com/post/3maonn3vy7v23" target="_blank">reuters.com</a> (2025-12-24 06:05:09)</span>
+<span style="padding-right:50px;">米国株式市場は続伸。Ｓ＆Ｐ総合５００種は終値で最高値を更新した。国内総生産（ＧＤＰ）統計を受けてグロース（成長）株が買われた。 bit.ly/3KXEf4z <a href="https://bsky.app/profile/japan.reuters.com/post/3maoosyoza72f" target="_blank">japan.reuters.com</a> (2025-12-24 06:26:21)</span><span style="padding-right:50px;">Former US Senator Ben Sasse announces he has terminal cancer reut.rs/44E59oO <a href="https://bsky.app/profile/reuters.com/post/3maooqwp3nk2c" target="_blank">reuters.com</a> (2025-12-24 06:25:11)</span><span style="padding-right:50px;">D'Angelo. Brian Wilson. Sly Stone. We lost these greats and so many more in 2025 — singers, producers, conductors and writers whose departures gave us a pang of loss, but whose art still lifts us up. n.pr/3YIJurW <a href="https://bsky.app/profile/npr.org/post/3maooksa33424" target="_blank">npr.org</a> (2025-12-24 06:21:45)</span><span style="padding-right:50px;">トランプ米大統領は２３日、カザフスタンとウズベキスタンの大統領と電話会談し、両首脳を来年フロリダ州マイアミで開催される２０カ国・地域（Ｇ２０）首脳会議に招待したと明らかにした。 bit.ly/3YEISUe <a href="https://bsky.app/profile/japan.reuters.com/post/3maooiup3pd2c" target="_blank">japan.reuters.com</a> (2025-12-24 06:20:41)</span><span style="padding-right:50px;">米連邦最高裁は２３日、トランプ大統領による中西部イリノイ州シカゴへの州兵派遣を巡り、下級審の派遣差し止め命令の取り消しを求めた政権側の申し立てを退ける判断を下した。 bit.ly/453r74P <a href="https://bsky.app/profile/japan.reuters.com/post/3maooipzmdf2q" target="_blank">japan.reuters.com</a> (2025-12-24 06:20:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔻0.73 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔻0.72 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,100 +32,94 @@
 
 ## News Headlines
 
-- Ukrainian Troops Withdraw from Eastern Town of Siversk
-- LinkedIn Predicts High Demand for Young Jobseekers in 2026
-- US Justice Department Releases More Documents on Jeffrey Epstein Case
-- Supreme Court Blocks President Trump's Plan to Deploy National Guard in Chicago
-- Venezuela Passes Law Against Piracy and Blockades Amid US Oil Ship Seizures
-- Magnitude 3.6 Earthquake Hits Near Amami Oshima in Japan
+- US Stock Market Continues Rally, S&P 500 Hits New Record High
+- Former US Senator Ben Sasse Announces Terminal Cancer Diagnosis
+- Legendary Musicians D'Angelo, Brian Wilson, and Sly Stone Pass Away in 2025
+- Trump Invites Kazakh and Uzbek Presidents to G20 Summit in Florida
+- US Supreme Court Upholds Lower Court Ruling on Trump's National Guard Deployment
+- Norwegian Athlete Bakken Dies at 27
 
 
 ----
 
 @japan.reuters.com
 
-ウクライナ軍は２３日、ロシアとの激戦が続いている東部ドネツク州のシベルスクから撤退したと発表した。ロシア軍はウクライナ東部の要衝掌握を狙った攻勢を展開している。 bit.ly/45fHYkJ
+米国株式市場は続伸。Ｓ＆Ｐ総合５００種は終値で最高値を更新した。国内総生産（ＧＤＰ）統計を受けてグロース（成長）株が買われた。 bit.ly/3KXEf4z
 
-[2025-12-24 06:08:16](https://bsky.app/profile/japan.reuters.com/post/3maonso4moe2q)
-
----
-
-@aljazeera.com
-
-The Government Media Office in the Gaza Strip reports that Israeli forces have committed 875 violations over 74 days of the ceasefire, killing 411 Palestinians and injuring 1,112 as they also arrested 45 people.
-
-[2025-12-24 06:07:46](https://bsky.app/profile/aljazeera.com/post/3maonrrxhy222)
-
----
-
-@apnews.com
-
-A Delaware state trooper was killed along with the suspected gunman during a shooting at a motor vehicle agency near Wilmington.
-
-[2025-12-24 06:07:08](https://bsky.app/profile/apnews.com/post/3maonqnt4py23)
-
----
-
-@sokuho.news
-
-🛎️産経より【独自】です。
-
-＜独自＞大規模災害リスク具体化 自治体支援へ指針策定検討会 防災庁主要事業に
-(2025/12/24 05:00) #ニュース
-https://www.sankei.com/article/20251224-KOBI4PWLXBJTNH5L34HK3OU7UA/
-
-[2025-12-24 06:05:52](https://bsky.app/profile/sokuho.news/post/3maonoftbkv2b)
+[2025-12-24 06:26:21](https://bsky.app/profile/japan.reuters.com/post/3maoosyoza72f)
 
 ---
 
 @reuters.com
 
-Venezuela passes law against piracy, blockades amid US oil ship seizures reut.rs/3KP5EFQ
+Former US Senator Ben Sasse announces he has terminal cancer reut.rs/44E59oO
 
-[2025-12-24 06:05:09](https://bsky.app/profile/reuters.com/post/3maonn3vy7v23)
+[2025-12-24 06:25:11](https://bsky.app/profile/reuters.com/post/3maooqwp3nk2c)
 
 ---
 
 @npr.org
 
-Photographs help us look back on the moments that defined the year. Taken by NPR photojournalists nationwide, this collection goes beyond the headlines to reveal quietly powerful human stories. n.pr/3KLI1Ot
+D'Angelo. Brian Wilson. Sly Stone. We lost these greats and so many more in 2025 — singers, producers, conductors and writers whose departures gave us a pang of loss, but whose art still lifts us up. n.pr/3YIJurW
 
-[2025-12-24 06:05:01](https://bsky.app/profile/npr.org/post/3maonmu366s2n)
+[2025-12-24 06:21:45](https://bsky.app/profile/npr.org/post/3maooksa33424)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は２３日、カザフスタンとウズベキスタンの大統領と電話会談し、両首脳を来年フロリダ州マイアミで開催される２０カ国・地域（Ｇ２０）首脳会議に招待したと明らかにした。 bit.ly/3YEISUe
+
+[2025-12-24 06:20:41](https://bsky.app/profile/japan.reuters.com/post/3maooiup3pd2c)
+
+---
+
+@japan.reuters.com
+
+米連邦最高裁は２３日、トランプ大統領による中西部イリノイ州シカゴへの州兵派遣を巡り、下級審の派遣差し止め命令の取り消しを求めた政権側の申し立てを退ける判断を下した。 bit.ly/453r74P
+
+[2025-12-24 06:20:36](https://bsky.app/profile/japan.reuters.com/post/3maooipzmdf2q)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-男子ゴルフ 松山英樹 来年に向けて抱負「1つでも多く優勝を」
-https://news.web.nhk/newsweb/na/na-k10015011901000
+グレタさんロンドンで拘束「パレスチナアクション」支持活動で
+https://news.web.nhk/newsweb/na/na-k10015012071000
 
-[2025-12-24 06:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maonjfnqk62k)
-
----
-
-@cnn.com
-
-A handwritten letter signed by “J. Epstein” appears to make crude references to President Donald Trump in a short 2019 message from jail addressed to convicted sex offender Larry Nassar.
-
-The letter does not explicitly name Trump, but instead refers to “our president.” https://cnn.it/48SNcFx
-
-[2025-12-24 06:02:04](https://bsky.app/profile/cnn.com/post/3maonhlp7xb2a)
+[2025-12-24 06:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maooe74rwk2v)
 
 ---
 
-@cnbc.com
+@reuters.com
 
-Many recent grads and other entry-level workers are struggling to find work. LinkedIn predicts this will be "the top destination for young jobseekers in 2026." 
+Norwegian athlete Bakken dies at 27 reut.rs/4pONmn7
 
-[2025-12-24 06:01:36](https://bsky.app/profile/cnbc.com/post/3maongqlvl22d)
+[2025-12-24 06:15:14](https://bsky.app/profile/reuters.com/post/3maoo74xdiy24)
 
 ---
 
-@apnews.com
+@japan.reuters.com
 
-Greta Thunberg has been arrested in central London while supporting pro-Palestinian activists on a hunger strike.
+＜為替＞　クリスマスを控えた薄商いの中、ドルが円やユーロなどの主要通貨に対し下落した。第３・四半期の米経済成長率が予想を上回ったものの、連邦準備理事会（ＦＲＢ）に対する利下げ圧力が意識されていることがドル相場の重しになっている。 bit.ly/3MVMKxt
 
-[2025-12-24 06:01:30](https://bsky.app/profile/apnews.com/post/3maongkpbkm24)
+[2025-12-24 06:14:54](https://bsky.app/profile/japan.reuters.com/post/3maoo6jjmy62q)
+
+---
+
+@usatoday.com
+
+<strong><span style="color: red;">JUST IN:</span> Delaware state trooper killed in shooting near Wilmington DMV, and suspect has been confirmed dead.</strong>
+
+[2025-12-24 06:12:10](https://bsky.app/profile/usatoday.com/post/3maonznnjmr2f)
+
+---
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: The Supreme Court refused to immediately allow President Trump to deploy the National Guard in Chicago, casting doubt on deployments elsewhere.</strong>
+
+[2025-12-24 06:11:44](https://bsky.app/profile/nytimes.com/post/3maonyutgh32b)
 
 ---
 
