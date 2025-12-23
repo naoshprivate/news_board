@@ -1,9 +1,9 @@
-# [2025-12-24 00:10 updated](2025_12_24.md)
+# [2025-12-24 00:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">K-Pop concert to be held in Hong Kong and aired in mainland China, organisers say reut.rs/497qOqu <a href="https://bsky.app/profile/reuters.com/post/3manzjdm34q2o" target="_blank">reuters.com</a> (2025-12-24 00:05:08)</span><span style="padding-right:50px;">Italy's competition authority has fined the budget airline for unfair tactics which sought to force customers to purchase tickets directly through its own website. ft.trib.al/g0T0q3e <a href="https://bsky.app/profile/financialtimes.com/post/3manzgy2mmx2y" target="_blank">financialtimes.com</a> (2025-12-24 00:03:49)</span><span style="padding-right:50px;">"The economy, the wars, everything is really depressing and serious, whereas toys just bring a little bit of joy back into life," one toy director said.  <a href="https://bsky.app/profile/cnbc.com/post/3manzg237xz25" target="_blank">cnbc.com</a> (2025-12-24 00:03:17)</span><span style="padding-right:50px;">中国不動産大手の万科企業は、資金繰りに苦しんだ他のデベロッパーと同様、最終的に債務再編を提案する前に、社債返済の短期的な猶予を複数回求める可能性が高そうだ。複数のクレジットアナリストがこうした見方を示した。 bit.ly/45hhxv1 <a href="https://bsky.app/profile/japan.reuters.com/post/3manzcxb65f2c" target="_blank">japan.reuters.com</a> (2025-12-24 00:01:34)</span><span style="padding-right:50px;">US EPA meets with Make America Healthy Again leaders about pesticides, chemicals reut.rs/4b1Ipmm <a href="https://bsky.app/profile/reuters.com/post/3manzcgkyd72r" target="_blank">reuters.com</a> (2025-12-24 00:01:16)</span>
+<span style="padding-right:50px;">Liverpool's Isak out for at least two months, says Slot reut.rs/4aNUJH5 <a href="https://bsky.app/profile/reuters.com/post/3mao2n5wxmq2k" target="_blank">reuters.com</a> (2025-12-24 00:25:10)</span><span style="padding-right:50px;">🇫🇷  Macron trains with fitness influencer in Abu Dhabi during visit to troops   French President Emmanuel Macron was filmed doing push ups with fitness influencer Tibo InShape during a visit to celebrate Christmas with French soldiers stationed in Abu Dhabi. <a href="https://bsky.app/profile/en.afp.com/post/3mao2gnl7px2j" target="_blank">en.afp.com</a> (2025-12-24 00:21:32)</span><span style="padding-right:50px;">Google started the year behind in the AI race. It ended 2025 on top. <a href="https://bsky.app/profile/yahoofinance.com/post/3mao2fv3mhp2v" target="_blank">yahoofinance.com</a> (2025-12-24 00:21:06)</span><span style="padding-right:50px;">Video shows the moment a rogue firework landed on the field during the player introductions at an NFL game in Baltimore’s M&T Bank Stadium, almost hitting a staff member. <a href="https://bsky.app/profile/aljazeera.com/post/3mao2eqyssc2o" target="_blank">aljazeera.com</a> (2025-12-24 00:20:28)</span><span style="padding-right:50px;">On today’s episode of “The Daily,” David Enrich, an investigations editor at The New York Times, explains how he worked with a team of reporters to reveal the truth about Jeffrey Epstein’s rise to power and his connections to President Trump. <a href="https://bsky.app/profile/nytimes.com/post/3mao2e3rp5y2b" target="_blank">nytimes.com</a> (2025-12-24 00:20:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48368.56 (🔺47.97 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23405.47 (🔻2.22 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 184.46 (🔺1.50 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.26 (🔻0.75 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48379.47 (🔺58.88 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23425.25 (🔺17.56 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 185.47 (🔺2.51 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.22 (🔻0.79 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,95 +32,96 @@
 
 ## News Headlines
 
-- K-Pop concert to be held in Hong Kong and aired in mainland China
-- Italian airline fined for unfair ticket sales tactics
-- Toy industry brings joy to people amidst economic gloom
-- North Korea's Kim and daughter visit new mountain resort
-- FDA approves pill version of popular weight-loss drug
-- Police arrest three people outside Israeli arms maker's insurer
+- Macron Trains with Fitness Influencer in Abu Dhabi
+- Google Rises to Top of AI Race by End of 2025
+- Firework Nearly Hits Staff Member at NFL Game
+- Laborers Forced to Run Online Scams in Cambodia
+- Citadel to Return $5 Billion in Profit to Investors
+- North Korea's Kim and Daughter Tour Lavish Mountain Resort
 
 
 ----
 
 @reuters.com
 
-K-Pop concert to be held in Hong Kong and aired in mainland China, organisers say reut.rs/497qOqu
+Liverpool's Isak out for at least two months, says Slot reut.rs/4aNUJH5
 
-[2025-12-24 00:05:08](https://bsky.app/profile/reuters.com/post/3manzjdm34q2o)
-
----
-
-@financialtimes.com
-
-Italy's competition authority has fined the budget airline for unfair tactics which sought to force customers to purchase tickets directly through its own website. ft.trib.al/g0T0q3e
-
-[2025-12-24 00:03:49](https://bsky.app/profile/financialtimes.com/post/3manzgy2mmx2y)
-
----
-
-@cnbc.com
-
-"The economy, the wars, everything is really depressing and serious, whereas toys just bring a little bit of joy back into life," one toy director said. 
-
-[2025-12-24 00:03:17](https://bsky.app/profile/cnbc.com/post/3manzg237xz25)
-
----
-
-@japan.reuters.com
-
-中国不動産大手の万科企業は、資金繰りに苦しんだ他のデベロッパーと同様、最終的に債務再編を提案する前に、社債返済の短期的な猶予を複数回求める可能性が高そうだ。複数のクレジットアナリストがこうした見方を示した。 bit.ly/45hhxv1
-
-[2025-12-24 00:01:34](https://bsky.app/profile/japan.reuters.com/post/3manzcxb65f2c)
-
----
-
-@reuters.com
-
-US EPA meets with Make America Healthy Again leaders about pesticides, chemicals reut.rs/4b1Ipmm
-
-[2025-12-24 00:01:16](https://bsky.app/profile/reuters.com/post/3manzcgkyd72r)
-
----
-
-@usatoday.com
-
-As thousands of people descended on Stonehenge in England to see the winter solstice, one furry feline stole the show.
-
-[2025-12-24 00:01:07](https://bsky.app/profile/usatoday.com/post/3manzc5wt6o2z)
-
----
-
-@financialtimes.com
-
-The roles given to Staley, the former chief executive of Barclays, and Summers, the former US Treasury secretary, were revealed among thousands of new documents published on Tuesday by the US Department of Justice ft.trib.al/ADaaWLW
-
-[2025-12-24 00:01:05](https://bsky.app/profile/financialtimes.com/post/3manzc3rfoj2k)
+[2025-12-24 00:25:10](https://bsky.app/profile/reuters.com/post/3mao2n5wxmq2k)
 
 ---
 
 @en.afp.com
 
-🇰🇵 North Korea's Kim and daughter tour lavish new mountain resort
+🇫🇷  Macron trains with fitness influencer in Abu Dhabi during visit to troops
+ 
+French President Emmanuel Macron was filmed doing push ups with fitness influencer Tibo InShape during a visit to celebrate Christmas with French soldiers stationed in Abu Dhabi.
 
-Images broadcast by North Korean state media KCTV show leader Kim Jong Un and his daughter, Ju Ae, inspecting newly-completed hotels at a mountain resort.
-
-[2025-12-24 00:01:01](https://bsky.app/profile/en.afp.com/post/3manzbxlwon2u)
-
----
-
-@washingtonpost.com
-
-With home affordability increasingly out of reach, many young adults are making choices that are reshaping the economy — and mostly for the worse, a new research paper says.
-
-[2025-12-24 00:00:45](https://bsky.app/profile/washingtonpost.com/post/3manzbifmlb24)
+[2025-12-24 00:21:32](https://bsky.app/profile/en.afp.com/post/3mao2gnl7px2j)
 
 ---
 
-@apnews.com
+@yahoofinance.com
 
-The oldest baby boomers are turning 80 in 2026. Now they're the second-largest age group and the influence of these octogenarians will continue to impact America's society and economics.
+Google started the year behind in the AI race. It ended 2025 on top.
 
-[2025-12-24 00:00:30](https://bsky.app/profile/apnews.com/post/3manzb2cziz2q)
+[2025-12-24 00:21:06](https://bsky.app/profile/yahoofinance.com/post/3mao2fv3mhp2v)
+
+---
+
+@aljazeera.com
+
+Video shows the moment a rogue firework landed on the field during the player introductions at an NFL game in Baltimore’s M&T Bank Stadium, almost hitting a staff member.
+
+[2025-12-24 00:20:28](https://bsky.app/profile/aljazeera.com/post/3mao2eqyssc2o)
+
+---
+
+@nytimes.com
+
+On today’s episode of “The Daily,” David Enrich, an investigations editor at The New York Times, explains how he worked with a team of reporters to reveal the truth about Jeffrey Epstein’s rise to power and his connections to President Trump.
+
+[2025-12-24 00:20:06](https://bsky.app/profile/nytimes.com/post/3mao2e3rp5y2b)
+
+---
+
+@wsj.com
+
+Exclusive: Laborers being held against their will in Cambodia to run online scams were forced to keep working even amid Thai military attacks.
+
+[2025-12-24 00:20:00](https://bsky.app/profile/wsj.com/post/3mao2dwfiyx2h)
+
+---
+
+@cnbc.com
+
+Citadel to return $5 billion in profit to investors, source says
+
+[2025-12-24 00:16:40](https://bsky.app/profile/cnbc.com/post/3mao25xb57c2b)
+
+---
+
+@reuters.com
+
+Oyo parent Prism gets shareholder nod to raise $742 million via IPO reut.rs/4pPjirr
+
+[2025-12-24 00:15:15](https://bsky.app/profile/reuters.com/post/3mao23gwjmc2c)
+
+---
+
+@cnbc.com
+
+AI spending is expected to stay strong in 2026. Barclays thinks these stocks will benefit
+
+[2025-12-24 00:14:22](https://bsky.app/profile/cnbc.com/post/3manzzthpks2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+青森 八戸 ビル屋上の鉄塔 同程度の揺れで倒壊のおそれなし
+https://news.web.nhk/newsweb/na/na-k10015012121000
+
+[2025-12-24 00:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manzvqissc22)
 
 ---
 
