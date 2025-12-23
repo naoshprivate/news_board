@@ -1,9 +1,9 @@
-# [2025-12-23 23:30 updated](2025_12_23.md)
+# [2025-12-23 23:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Mexican Navy said at least five people were killed on Monday when one of its medical aircraft crashed into Galveston Bay in Texas. Two people on board survived and another was missing. <a href="https://bsky.app/profile/nytimes.com/post/3manxj3jbuq2z" target="_blank">nytimes.com</a> (2025-12-23 23:29:12)</span><span style="padding-right:50px;">How investors buy gold and what fuels the market reut.rs/4pfb1w1 <a href="https://bsky.app/profile/reuters.com/post/3manxbvjivn2r" target="_blank">reuters.com</a> (2025-12-23 23:25:11)</span><span style="padding-right:50px;">The Justice Department said some documents “contain untrue and sensationalist claims” against Trump. <a href="https://bsky.app/profile/forbes.com/post/3manxboi7ft2t" target="_blank">forbes.com</a> (2025-12-23 23:25:03)</span><span style="padding-right:50px;">🔊 Novo Nordisk ends a tough year with a big win: US regulatory approval for its weight-loss pill. Find out how markets reacted on today's Morning Bid podcast reut.rs/44FKIaS <a href="https://bsky.app/profile/reuters.com/post/3manxawpvfc2q" target="_blank">reuters.com</a> (2025-12-23 23:24:39)</span><span style="padding-right:50px;">The latest release comes days after the Trump administration published a large cache of Epstein files in an attempt to comply with a new law forcing disclosure. <a href="https://bsky.app/profile/handle.invalid/post/3manx5tlfsd2t" target="_blank">handle.invalid</a> (2025-12-23 23:22:55)</span>
+<span style="padding-right:50px;">Now in their 50s, trans Latinas reclaim a youthful rite of passage reut.rs/4p9P959 <a href="https://bsky.app/profile/reuters.com/post/3manyfnut5y24" target="_blank">reuters.com</a> (2025-12-23 23:45:11)</span><span style="padding-right:50px;">New Epstein files release includes Trump mentions. What they say <a href="https://bsky.app/profile/axios.com/post/3manyao6ngc2n" target="_blank">axios.com</a> (2025-12-23 23:42:23)</span><span style="padding-right:50px;">US seeks to cancel thousands of asylum cases, CBS News reports reut.rs/3LhiigO <a href="https://bsky.app/profile/reuters.com/post/3many4qu7v52s" target="_blank">reuters.com</a> (2025-12-23 23:40:12)</span><span style="padding-right:50px;">Greta Thunberg was arrested on Tuesday under terrorism laws in Britain for holding a sign that the police said showed support for the banned group Palestine Action, her lawyer and organizers of the protest said. <a href="https://bsky.app/profile/nytimes.com/post/3many4nmb2a2r" target="_blank">nytimes.com</a> (2025-12-23 23:40:09)</span><span style="padding-right:50px;">Russia fired more than 650 drones and three dozen missiles at Ukraine in a major pre-Christmas attack, killing at least three people including a child.  <a href="https://bsky.app/profile/cbsnews.com/post/3many4gm7rd2a" target="_blank">cbsnews.com</a> (2025-12-23 23:40:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48285.56 (🔻35.03 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.00 (🔺0.04 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.46 (🔻0.55 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48339.26 (🔺18.67 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23477.88 (🔺70.18 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 184.31 (🔺1.35 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.42 (🔻0.59 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,98 +32,96 @@
 
 ## News Headlines
 
-- Five killed in Mexican Navy plane crash in Texas
-- US GDP grows at 4.3% annual pace in third quarter
-- Novo Nordisk wins US approval for weight-loss pill
-- Russian missile and drone attack kills at least three in Ukraine
-- Justice Department releases more Epstein investigation files
-- ServiceNow to buy cybersecurity startup Armis for $7.75 billion
+- US Seeks to Cancel Thousands of Asylum Cases
+- Russia Fires Over 650 Drones and Missiles at Ukraine
+- New Documents in Epstein Investigation Include Trump Mentions
+- Gold Trades at Record Levels, May Hit $5,000 an Ounce
+- ServiceNow Acquires Cybersecurity Startup Armis for $7.75 Billion
+- US GDP Grows 4.3% in Q3, Exceeding Expectations
 
 
 ----
 
+@reuters.com
+
+Now in their 50s, trans Latinas reclaim a youthful rite of passage reut.rs/4p9P959
+
+[2025-12-23 23:45:11](https://bsky.app/profile/reuters.com/post/3manyfnut5y24)
+
+---
+
+@axios.com
+
+New Epstein files release includes Trump mentions. What they say
+
+[2025-12-23 23:42:23](https://bsky.app/profile/axios.com/post/3manyao6ngc2n)
+
+---
+
+@reuters.com
+
+US seeks to cancel thousands of asylum cases, CBS News reports reut.rs/3LhiigO
+
+[2025-12-23 23:40:12](https://bsky.app/profile/reuters.com/post/3many4qu7v52s)
+
+---
+
 @nytimes.com
 
-The Mexican Navy said at least five people were killed on Monday when one of its medical aircraft crashed into Galveston Bay in Texas. Two people on board survived and another was missing.
+Greta Thunberg was arrested on Tuesday under terrorism laws in Britain for holding a sign that the police said showed support for the banned group Palestine Action, her lawyer and organizers of the protest said.
 
-[2025-12-23 23:29:12](https://bsky.app/profile/nytimes.com/post/3manxj3jbuq2z)
-
----
-
-@reuters.com
-
-How investors buy gold and what fuels the market reut.rs/4pfb1w1
-
-[2025-12-23 23:25:11](https://bsky.app/profile/reuters.com/post/3manxbvjivn2r)
-
----
-
-@forbes.com
-
-The Justice Department said some documents “contain untrue and sensationalist claims” against Trump.
-
-[2025-12-23 23:25:03](https://bsky.app/profile/forbes.com/post/3manxboi7ft2t)
-
----
-
-@reuters.com
-
-🔊 Novo Nordisk ends a tough year with a big win: US regulatory approval for its weight-loss pill. Find out how markets reacted on today's Morning Bid podcast reut.rs/44FKIaS
-
-[2025-12-23 23:24:39](https://bsky.app/profile/reuters.com/post/3manxawpvfc2q)
-
----
-
-@handle.invalid
-
-The latest release comes days after the Trump administration published a large cache of Epstein files in an attempt to comply with a new law forcing disclosure.
-
-[2025-12-23 23:22:55](https://bsky.app/profile/handle.invalid/post/3manx5tlfsd2t)
-
----
-
-@japan.reuters.com
-
-ロシア軍は２３日、ウクライナに対しミサイルとドローン（無人機）による大規模な空爆を実施した。ウクライナ当局によると、クリスマスを控える中、子供１人を含む少なくとも３人が死亡。各地でエネルギー施設が損傷し広範囲に停電が発生している。 bit.ly/496ednv
-
-[2025-12-23 23:20:16](https://bsky.app/profile/japan.reuters.com/post/3manwz4d27g2c)
+[2025-12-23 23:40:09](https://bsky.app/profile/nytimes.com/post/3many4nmb2a2r)
 
 ---
 
 @cbsnews.com
 
-The FCC said it would ban new foreign-made drones, a move that will keep new Chinese-made drones such as those from DJI and Autel out of the U.S. market.  
+Russia fired more than 650 drones and three dozen missiles at Ukraine in a major pre-Christmas attack, killing at least three people including a child. 
 
-[2025-12-23 23:20:01](https://bsky.app/profile/cbsnews.com/post/3manwynmt7i2z)
+[2025-12-23 23:40:01](https://bsky.app/profile/cbsnews.com/post/3many4gm7rd2a)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-ロキソニンやアレグラに上乗せ料金　OTC類似薬、77成分判明
-www.nikkei.com/article/DGXZQO...
+茨城県警 証拠品のDNA型鑑定結果取り違え 男性の起訴取り消し
+https://news.web.nhk/newsweb/na/na-k10015012031000
 
-政府は処方を受けた患者から薬剤費の4分の1の追加料金を集める仕組みを2026年度にも始めます。
-
-#ニュース
-
-[2025-12-23 23:16:40](https://bsky.app/profile/nikkei.com/post/3manwso7ju724)
+[2025-12-23 23:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3many2q62np24)
 
 ---
 
 @reuters.com
 
-China's commerce ministry urges US to drop drone supplier ban reut.rs/4s9Dl5J
+LIVE: A view of Bethlehem before Christmas
+www.youtube.com/live/bk0F0UL...
 
-[2025-12-23 23:15:14](https://bsky.app/profile/reuters.com/post/3manwq3sn5l2c)
+[2025-12-23 23:35:59](https://bsky.app/profile/reuters.com/post/3manxv77zqs2q)
 
 ---
 
-@cnbc.com
+@reuters.com
 
-ServiceNow acquiring cybersecurity startup Armis for nearly $8 billion
+UK softens stance on farm tax after months of protests reut.rs/492Wpty
 
-[2025-12-23 23:15:05](https://bsky.app/profile/cnbc.com/post/3manwptx4xt24)
+[2025-12-23 23:35:08](https://bsky.app/profile/reuters.com/post/3manxtpfx5w2i)
+
+---
+
+@en.afp.com
+
+🇺🇦 A Russian strike could collapse the internal radiation shelter at the defunct Chernobyl nuclear power station in Ukraine, the plant's director has told AFP. 
+➡️ u.afp.com/S8YM
+
+[2025-12-23 23:30:13](https://bsky.app/profile/en.afp.com/post/3manxkvqkzl2u)
+
+---
+
+@cnn.com
+
+As millions of Americans hit the road or take to the skies for the holidays, another seasonal traveler is picking up speed: influenza. https://cnn.it/4ar4SJv
+
+[2025-12-23 23:30:10](https://bsky.app/profile/cnn.com/post/3manxksv5ax22)
 
 ---
 
