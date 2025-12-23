@@ -1,9 +1,9 @@
-# [2025-12-23 10:30 updated](2025_12_23.md)
+# [2025-12-23 10:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Novo Nordisk weight-loss drug wins US approval as a daily pill ft.trib.al/XCYJBmK <a href="https://bsky.app/profile/financialtimes.com/post/3mamluvndqz24" target="_blank">financialtimes.com</a> (2025-12-23 10:28:24)</span><span style="padding-right:50px;">サッカーのイタリア・スーパーカップ（杯）は２２日、リヤドで決勝を行い、リーグ王者ナポリがイタリア杯覇者のボローニャに２─０で勝利を収め、優勝を果たした。 bit.ly/4jblzuz <a href="https://bsky.app/profile/japan.reuters.com/post/3mamlsqujae2s" target="_blank">japan.reuters.com</a> (2025-12-23 10:27:12)</span><span style="padding-right:50px;">＊この記事は見出しのみの速報です。 bit.ly/3L66IF9 <a href="https://bsky.app/profile/japan.reuters.com/post/3mamlsponum22" target="_blank">japan.reuters.com</a> (2025-12-23 10:27:11)</span><span style="padding-right:50px;">米大リーグ（ＭＬＢ）公式サイトは２２日、今季の「バットフリップ（本塁打後のバット投げ）」ベスト４０を選出した記事を掲載し、１位には大谷翔平選手が勝ち越し３点本塁打の際に見せたパフォーマンスが選ばれた。 bit.ly/4qnMZzZ <a href="https://bsky.app/profile/japan.reuters.com/post/3mamliwczai2c" target="_blank">japan.reuters.com</a> (2025-12-23 10:21:42)</span><span style="padding-right:50px;">Aegea takes steps towards an IPO that could be Brazil's first in over 4 years reut.rs/4prQzbz <a href="https://bsky.app/profile/reuters.com/post/3mamlggxnmd2b" target="_blank">reuters.com</a> (2025-12-23 10:20:19)</span>
+<span style="padding-right:50px;">Huawei’s ultra-luxury Maextro S800 sedan is so popular in China nowadays, it’s outselling Porsche’s Panamera, Mercedes-Benz’s S-Class and all other vehicles with sticker prices of at least $100,000. bloom.bg/3Y8ZJON  📷: Huawei Technologies Co. <a href="https://bsky.app/profile/bloomberg.com/post/3mamn2bgsvg23" target="_blank">bloomberg.com</a> (2025-12-23 10:49:18)</span><span style="padding-right:50px;">The U.S. Department of Education said it will investigate whether Brown University had sufficient security and properly notified students after a mass shooting on campus killed two students a little over a week ago. <a href="https://bsky.app/profile/washingtonpost.com/post/3mammsne5dy24" target="_blank">washingtonpost.com</a> (2025-12-23 10:45:02)</span><span style="padding-right:50px;">Brown University's police chief has been placed on leave after the mass shooting that killed two students. <a href="https://bsky.app/profile/cbsnews.com/post/3mammpjedjf2m" target="_blank">cbsnews.com</a> (2025-12-23 10:43:17)</span><span style="padding-right:50px;">ウクライナのゼレンスキー大統領は２２日、ロシア軍に占領された北東部スムイ州の国境沿いの村の住民は何年もの間、ロシア領の隣人と交流していたと述べ、このフラボウシケ村の住民がロシアに連れ去られたとの報道を確認した。 bit.ly/45mE8Gq <a href="https://bsky.app/profile/japan.reuters.com/post/3mammopnrih27" target="_blank">japan.reuters.com</a> (2025-12-23 10:42:50)</span><span style="padding-right:50px;">He left the FBI but refused to give up his hunt for the spy called Hades. A phony job interview was just the trap he needed. on.wsj.com/4pUvK9m <a href="https://bsky.app/profile/wsj.com/post/3mammlbnmql2h" target="_blank">wsj.com</a> (2025-12-23 10:40:54)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50424.01 (🔺49.53 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻24.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.57 (🔻0.43 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50405.87 (🔺31.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3440.00 (🔻39.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.47 (🔻0.54 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,94 +32,95 @@
 
 ## News Headlines
 
-- Novo Nordisk weight-loss drug wins US approval as a daily pill
-- Italian Super Cup: Napoli wins title with 2-0 victory over Bologna
-- MLB names best 40 home run celebrations, Shohei Ohtani tops the list
-- Alphabet invests $4.75 billion in Intercity, a clean energy developer
-- Trump announces plan to build largest and fastest US warship, with 100 times more firepower
-- Japan's economy grows at a strong pace in November, driven by private consumption
+- Huawei's Ultra-Luxury Sedan Outselling Porsche and Mercedes-Benz in China
+- Brown University to Face Investigation Over Mass Shooting Response
+- President Zelensky Confirms Ukrainian Villagers Were Abducted by Russia
+- Google Parent Alphabet Acquires Intersect for $475 Million
+- White Sox's Yamato Kuroda to Play for Japan in 2023 World Baseball Classic
+- Trump Announces Plan to Build Largest, Most Powerful Ship Ever Made
 
 
 ----
 
-@financialtimes.com
+@bloomberg.com
 
-Novo Nordisk weight-loss drug wins US approval as a daily pill ft.trib.al/XCYJBmK
+Huawei’s ultra-luxury Maextro S800 sedan is so popular in China nowadays, it’s outselling Porsche’s Panamera, Mercedes-Benz’s S-Class and all other vehicles with sticker prices of at least $100,000. bloom.bg/3Y8ZJON
 
-[2025-12-23 10:28:24](https://bsky.app/profile/financialtimes.com/post/3mamluvndqz24)
+📷: Huawei Technologies Co.
+
+[2025-12-23 10:49:18](https://bsky.app/profile/bloomberg.com/post/3mamn2bgsvg23)
+
+---
+
+@washingtonpost.com
+
+The U.S. Department of Education said it will investigate whether Brown University had sufficient security and properly notified students after a mass shooting on campus killed two students a little over a week ago.
+
+[2025-12-23 10:45:02](https://bsky.app/profile/washingtonpost.com/post/3mammsne5dy24)
+
+---
+
+@cbsnews.com
+
+Brown University's police chief has been placed on leave after the mass shooting that killed two students.
+
+[2025-12-23 10:43:17](https://bsky.app/profile/cbsnews.com/post/3mammpjedjf2m)
 
 ---
 
 @japan.reuters.com
 
-サッカーのイタリア・スーパーカップ（杯）は２２日、リヤドで決勝を行い、リーグ王者ナポリがイタリア杯覇者のボローニャに２─０で勝利を収め、優勝を果たした。 bit.ly/4jblzuz
+ウクライナのゼレンスキー大統領は２２日、ロシア軍に占領された北東部スムイ州の国境沿いの村の住民は何年もの間、ロシア領の隣人と交流していたと述べ、このフラボウシケ村の住民がロシアに連れ去られたとの報道を確認した。 bit.ly/45mE8Gq
 
-[2025-12-23 10:27:12](https://bsky.app/profile/japan.reuters.com/post/3mamlsqujae2s)
-
----
-
-@japan.reuters.com
-
-＊この記事は見出しのみの速報です。 bit.ly/3L66IF9
-
-[2025-12-23 10:27:11](https://bsky.app/profile/japan.reuters.com/post/3mamlsponum22)
+[2025-12-23 10:42:50](https://bsky.app/profile/japan.reuters.com/post/3mammopnrih27)
 
 ---
 
-@japan.reuters.com
+@wsj.com
 
-米大リーグ（ＭＬＢ）公式サイトは２２日、今季の「バットフリップ（本塁打後のバット投げ）」ベスト４０を選出した記事を掲載し、１位には大谷翔平選手が勝ち越し３点本塁打の際に見せたパフォーマンスが選ばれた。 bit.ly/4qnMZzZ
+He left the FBI but refused to give up his hunt for the spy called Hades. A phony job interview was just the trap he needed. on.wsj.com/4pUvK9m
 
-[2025-12-23 10:21:42](https://bsky.app/profile/japan.reuters.com/post/3mamliwczai2c)
+[2025-12-23 10:40:54](https://bsky.app/profile/wsj.com/post/3mammlbnmql2h)
 
 ---
 
 @reuters.com
 
-Aegea takes steps towards an IPO that could be Brazil's first in over 4 years reut.rs/4prQzbz
+Chiefs crossing border to Kansas for new stadium reut.rs/4pS3jsY
 
-[2025-12-23 10:20:19](https://bsky.app/profile/reuters.com/post/3mamlggxnmd2b)
+[2025-12-23 10:40:16](https://bsky.app/profile/reuters.com/post/3mammk4qgg52s)
+
+---
+
+@nytimes.com
+
+Could a customized pillow take the guesswork out of pillow shopping? Would it be as supportive and comfortable as our beloved picks? Wirecutter assembled a crew of four members from the sleep team to find out.
+
+[2025-12-23 10:39:04](https://bsky.app/profile/nytimes.com/post/3mammhyctfu2b)
+
+---
+
+@financialtimes.com
+
+ByteDance plans $23bn AI spending spree to keep pace with US rivals ft.trib.al/qaAAi7S
+
+[2025-12-23 10:37:24](https://bsky.app/profile/financialtimes.com/post/3mammeyu4o42o)
 
 ---
 
 @japan.reuters.com
 
-グーグルの親会社アルファベットは２２日、クリーンエネルギー開発を手がけるインターセクトを、債務を含めて現金４７億５０００万ドルで買収すると発表した。 bit.ly/3YcKPai
+＜１０：０８＞　日経平均は一進一退、利益確定が上値抑制　金利低下は下支え bit.ly/4aqeFPZ
 
-[2025-12-23 10:20:16](https://bsky.app/profile/japan.reuters.com/post/3mamlgeehnu2s)
-
----
-
-@japan.reuters.com
-
-米大リーグ（ＭＬＢ）のホワイトソックス入りが決まった村上宗隆内野手は２２日、来年３月に開催されるワールド・ベースボール・クラシック（ＷＢＣ）に日本代表として出場する意向を表明した。ＭＬＢ公式サイトが報じた。 bit.ly/4sc9l96
-
-[2025-12-23 10:15:58](https://bsky.app/profile/japan.reuters.com/post/3maml6nv3pr27)
+[2025-12-23 10:32:52](https://bsky.app/profile/japan.reuters.com/post/3mamm4vf4qx2u)
 
 ---
 
-@japan.reuters.com
+@reuters.com
 
-トランプ米大統領は２２日、海軍がこれまでで最も大型で高速、かつ１００倍の威力を持つ「トランプ級」の新型戦艦の建造を開始する計画だと発表した。トランプ氏の「ゴールデン艦隊」構想の一環で、米国の海軍力の優位性を強化するのが狙い。 bit.ly/4pSCZ1O
+Spot silver rises to record high at $69.59/oz reut.rs/4pNGS83
 
-[2025-12-23 10:15:15](https://bsky.app/profile/japan.reuters.com/post/3maml5ev3dr27)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相動静 2025年12月22日
-https://news.web.nhk/newsweb/na/na-k10015011091000
-
-[2025-12-23 10:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maml53d6qt2u)
-
----
-
-@japan.reuters.com
-
-午前のシドニー株式市場は３営業日続伸している。鉱業株指数が上げを主導した。 bit.ly/3KZlg9K
-
-[2025-12-23 10:14:52](https://bsky.app/profile/japan.reuters.com/post/3maml4p2abo2n)
+[2025-12-23 10:30:35](https://bsky.app/profile/reuters.com/post/3mamlyso3lt23)
 
 ---
 
