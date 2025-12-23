@@ -1,9 +1,9 @@
-# [2025-12-24 02:10 updated](2025_12_24.md)
+# [2025-12-24 02:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">トランプ米大統領は２３日、カザフスタンとウズベキスタンの大統領と電話会談し、両首脳を来年フロリダ州マイアミで開催される２０カ国・地域（Ｇ２０）首脳会議に招待したと明らかにした。 bit.ly/4b5U6bH <a href="https://bsky.app/profile/japan.reuters.com/post/3maoag6fsqx2c" target="_blank">japan.reuters.com</a> (2025-12-24 02:08:38)</span><span style="padding-right:50px;">UK police say comedian Russell Brand charged with two more sex offences reut.rs/4awuZi7 <a href="https://bsky.app/profile/reuters.com/post/3maoa7xg6nn24" target="_blank">reuters.com</a> (2025-12-24 02:05:09)</span><span style="padding-right:50px;">A lot of us automatically use certain emotionally immature phrases without even thinking about it, according to communication experts. Here’s a list of the most common ones to avoid. <a href="https://bsky.app/profile/cnbc.com/post/3maoa6q6gu424" target="_blank">cnbc.com</a> (2025-12-24 02:04:28)</span><span style="padding-right:50px;">Americans leave more than $4 billion in flexible-spending accounts each year, money that goes straight back to their employers. What can you do with money that is about to expire? Here are some tips. <a href="https://bsky.app/profile/wsj.com/post/3maoa5slr7o2o" target="_blank">wsj.com</a> (2025-12-24 02:03:57)</span><span style="padding-right:50px;">ユーロ圏金融・債券市場では、ドイツ３０年債利回りが１日としては２カ月超ぶりの低下幅となる見通しとなった。世界的な国債売りが一服したことが背景にある。 bit.ly/3Nen3by <a href="https://bsky.app/profile/japan.reuters.com/post/3maoa3vsdhs2q" target="_blank">japan.reuters.com</a> (2025-12-24 02:02:54)</span>
+<span style="padding-right:50px;">Canadian economy posts big October drop, partial recovery seen in November reut.rs/4b20RLE <a href="https://bsky.app/profile/reuters.com/post/3maobdosrwg23" target="_blank">reuters.com</a> (2025-12-24 02:25:08)</span><span style="padding-right:50px;">Fed chair candidate Hassett says U.S. is way behind the curve on lowering interest rates <a href="https://bsky.app/profile/cnbc.com/post/3maobca5r4b2d" target="_blank">cnbc.com</a> (2025-12-24 02:24:19)</span><span style="padding-right:50px;">The three men who escaped from an Atlanta-area jail have been recaptured, local authorities said, ending a tense but brief manhunt for a convicted murderer and murder suspect. <a href="https://bsky.app/profile/wsj.com/post/3maobag7wur2i" target="_blank">wsj.com</a> (2025-12-24 02:23:18)</span><span style="padding-right:50px;">France’s parliament voted to roll over the 2025 budget into the new year, allowing the country to avoid a US-style shutdown. The stopgap solution ensures that police, teachers and civil servants can continue to function over the next few weeks. ft.trib.al/YU9IBle <a href="https://bsky.app/profile/financialtimes.com/post/3maob7wyvsb2k" target="_blank">financialtimes.com</a> (2025-12-24 02:23:03)</span><span style="padding-right:50px;">‘A stream of negativity and abuse’: why are Labour MPs still sticking with X? ft.trib.al/t3f73Dm <a href="https://bsky.app/profile/financialtimes.com/post/3maob5xfrfl24" target="_blank">financialtimes.com</a> (2025-12-24 02:21:56)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48418.34 (🔺97.75 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23527.82 (🔺120.12 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.43 (🔺5.46 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.32 (🔻0.69 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48448.53 (🔺127.94 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23520.24 (🔺112.55 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.21 (🔺5.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.27 (🔻0.74 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,96 +32,93 @@
 
 ## News Headlines
 
-- Trump Invites Kazakh and Uzbek Presidents to G20 Summit in Miami
-- Russell Brand Charged with Two More Sex Offences
-- Trump's Jet Trips to Epstein's Private Plane Revealed in New Docs
-- Former Call of Duty Creator Vince Zampella Dies at 55
-- Ukraine Deploys Low-Cost Drones to Counter Russia's Aerial Attacks
-- Ben Sasse Diagnosed with Terminal Pancreatic Cancer
+- Canadian economy posts big October drop, partial recovery seen in November
+- US economy grows at fastest pace in two years
+- US delays announcement of China chip tariffs until 2027
+- UK police say comedian Russell Brand charged with two more sex offences
+- Greta Thunberg arrested at pro-Palestinian protest in London
+- Former Sen. Ben Sasse announces he has terminal pancreatic cancer
 
 
 ----
 
-@japan.reuters.com
-
-トランプ米大統領は２３日、カザフスタンとウズベキスタンの大統領と電話会談し、両首脳を来年フロリダ州マイアミで開催される２０カ国・地域（Ｇ２０）首脳会議に招待したと明らかにした。 bit.ly/4b5U6bH
-
-[2025-12-24 02:08:38](https://bsky.app/profile/japan.reuters.com/post/3maoag6fsqx2c)
-
----
-
 @reuters.com
 
-UK police say comedian Russell Brand charged with two more sex offences reut.rs/4awuZi7
+Canadian economy posts big October drop, partial recovery seen in November reut.rs/4b20RLE
 
-[2025-12-24 02:05:09](https://bsky.app/profile/reuters.com/post/3maoa7xg6nn24)
+[2025-12-24 02:25:08](https://bsky.app/profile/reuters.com/post/3maobdosrwg23)
 
 ---
 
 @cnbc.com
 
-A lot of us automatically use certain emotionally immature phrases without even thinking about it, according to communication experts. Here’s a list of the most common ones to avoid.
+Fed chair candidate Hassett says U.S. is way behind the curve on lowering interest rates
 
-[2025-12-24 02:04:28](https://bsky.app/profile/cnbc.com/post/3maoa6q6gu424)
+[2025-12-24 02:24:19](https://bsky.app/profile/cnbc.com/post/3maobca5r4b2d)
 
 ---
 
 @wsj.com
 
-Americans leave more than $4 billion in flexible-spending accounts each year, money that goes straight back to their employers. What can you do with money that is about to expire? Here are some tips.
+The three men who escaped from an Atlanta-area jail have been recaptured, local authorities said, ending a tense but brief manhunt for a convicted murderer and murder suspect.
 
-[2025-12-24 02:03:57](https://bsky.app/profile/wsj.com/post/3maoa5slr7o2o)
-
----
-
-@japan.reuters.com
-
-ユーロ圏金融・債券市場では、ドイツ３０年債利回りが１日としては２カ月超ぶりの低下幅となる見通しとなった。世界的な国債売りが一服したことが背景にある。 bit.ly/3Nen3by
-
-[2025-12-24 02:02:54](https://bsky.app/profile/japan.reuters.com/post/3maoa3vsdhs2q)
+[2025-12-24 02:23:18](https://bsky.app/profile/wsj.com/post/3maobag7wur2i)
 
 ---
 
-@cnn.com
+@financialtimes.com
 
-A major storm is gearing up to deliver months’ worth of rain and powerful winds to Southern California — the most potent in a slew of atmospheric river-fueled storms aiming for the region this week. https://cnn.it/4auRcgt
+France’s parliament voted to roll over the 2025 budget into the new year, allowing the country to avoid a US-style shutdown. The stopgap solution ensures that police, teachers and civil servants can continue to function over the next few weeks. ft.trib.al/YU9IBle
 
-[2025-12-24 02:02:03](https://bsky.app/profile/cnn.com/post/3maoa2ffk7m2o)
-
----
-
-@en.afp.com
-
-🇬🇧 Greta Thunberg arrested at pro-Palestinian protest in London
-
-London police have arrested Swedish activist Greta Thunberg at a demonstration in support of pro-Palestinian hunger strikers, Palestinian activist groups said. 
-#AFPVertical
-
-[2025-12-24 02:01:48](https://bsky.app/profile/en.afp.com/post/3mao7zxku6k2j)
+[2025-12-24 02:23:03](https://bsky.app/profile/financialtimes.com/post/3maob7wyvsb2k)
 
 ---
 
-@bloomberg.com
+@financialtimes.com
 
-OpenAI’s valuation is skyrocketing, but the stock is out of reach for ordinary investors. Here are the workarounds — and what they really offer
+‘A stream of negativity and abuse’: why are Labour MPs still sticking with X? ft.trib.al/t3f73Dm
 
-[2025-12-24 02:01:38](https://bsky.app/profile/bloomberg.com/post/3mao7zni6wu2w)
+[2025-12-24 02:21:56](https://bsky.app/profile/financialtimes.com/post/3maob5xfrfl24)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-Obamacare enrollment declines as US subsidies expire reut.rs/45nvsQ6
+Trump administration accuses China of unfair chip trade practices ft.trib.al/nhbGlxx
 
-[2025-12-24 02:01:07](https://bsky.app/profile/reuters.com/post/3mao7yq4x2n2b)
+[2025-12-24 02:21:26](https://bsky.app/profile/financialtimes.com/post/3maob52klcd25)
+
+---
+
+@financialtimes.com
+
+The US has accused China of using unfair trade practices to try and dominate the global semiconductor industry but said it will not increase tariffs on Chinese imports until mid-2027. ft.trib.al/wFqrzqK
+
+[2025-12-24 02:20:28](https://bsky.app/profile/financialtimes.com/post/3maob3d5qk52k)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Nigeria kidnappings: Gunmen abduct Muslim travellers in Plateau state
+
+[2025-12-24 02:19:28](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maoazkf4ds2y)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+US economy grows at fastest pace in two years 
+
+[2025-12-24 02:18:23](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maoaxn26m327)
 
 ---
 
 @nbcnews.com
 
-Vince Zambella, one of the creators behind best-selling video game series 'Call Of Duty,' has died. He was 55. 
+The University of Oklahoma says that the graduate teaching assistant who assigned a failing grade to a student for a psychology essay on gender stereotypes will “no longer have instructional duties” at the university.
 
-[2025-12-24 02:01:05](https://bsky.app/profile/nbcnews.com/post/3mao7yoixyp2x)
+[2025-12-24 02:16:29](https://bsky.app/profile/nbcnews.com/post/3maoau7lmuc2h)
 
 ---
 
