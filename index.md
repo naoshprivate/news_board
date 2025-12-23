@@ -1,9 +1,9 @@
-# [2025-12-24 06:30 updated](2025_12_24.md)
+# [2025-12-24 06:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米国株式市場は続伸。Ｓ＆Ｐ総合５００種は終値で最高値を更新した。国内総生産（ＧＤＰ）統計を受けてグロース（成長）株が買われた。 bit.ly/3KXEf4z <a href="https://bsky.app/profile/japan.reuters.com/post/3maoosyoza72f" target="_blank">japan.reuters.com</a> (2025-12-24 06:26:21)</span><span style="padding-right:50px;">Former US Senator Ben Sasse announces he has terminal cancer reut.rs/44E59oO <a href="https://bsky.app/profile/reuters.com/post/3maooqwp3nk2c" target="_blank">reuters.com</a> (2025-12-24 06:25:11)</span><span style="padding-right:50px;">D'Angelo. Brian Wilson. Sly Stone. We lost these greats and so many more in 2025 — singers, producers, conductors and writers whose departures gave us a pang of loss, but whose art still lifts us up. n.pr/3YIJurW <a href="https://bsky.app/profile/npr.org/post/3maooksa33424" target="_blank">npr.org</a> (2025-12-24 06:21:45)</span><span style="padding-right:50px;">トランプ米大統領は２３日、カザフスタンとウズベキスタンの大統領と電話会談し、両首脳を来年フロリダ州マイアミで開催される２０カ国・地域（Ｇ２０）首脳会議に招待したと明らかにした。 bit.ly/3YEISUe <a href="https://bsky.app/profile/japan.reuters.com/post/3maooiup3pd2c" target="_blank">japan.reuters.com</a> (2025-12-24 06:20:41)</span><span style="padding-right:50px;">米連邦最高裁は２３日、トランプ大統領による中西部イリノイ州シカゴへの州兵派遣を巡り、下級審の派遣差し止め命令の取り消しを求めた政権側の申し立てを退ける判断を下した。 bit.ly/453r74P <a href="https://bsky.app/profile/japan.reuters.com/post/3maooipzmdf2q" target="_blank">japan.reuters.com</a> (2025-12-24 06:20:36)</span>
+<span style="padding-right:50px;">The French capital’s Museum of Decorative Arts devotes an extravagant exhibition to the design movement that takes its name from a trade fair held in the city a century ago. on.wsj.com/45cYF0a <a href="https://bsky.app/profile/wsj.com/post/3maoq3wufdq2t" target="_blank">wsj.com</a> (2025-12-24 06:49:15)</span><span style="padding-right:50px;">The Modernist New York home designed by Norman Jaffe is hitting the market following a two-year renovation. on.wsj.com/3KZZvXo <a href="https://bsky.app/profile/wsj.com/post/3maoq3wedcz2e" target="_blank">wsj.com</a> (2025-12-24 06:49:14)</span><span style="padding-right:50px;">#BREAKING: US subjecting Caracas to 'greatest extortion' in its history: Venezuela envoy to UN <a href="https://bsky.app/profile/en.afp.com/post/3maoq3utrgu2d" target="_blank">en.afp.com</a> (2025-12-24 06:49:12)</span><span style="padding-right:50px;">BREAKING: Multiple people are hurt after an explosion and fire at a nursing home in Bristol, Pennsylvania, officials say. <a href="https://bsky.app/profile/cbsnews.com/post/3maoq2unicr2m" target="_blank">cbsnews.com</a> (2025-12-24 06:48:39)</span><span style="padding-right:50px;">【中古住宅選び、修繕費に注意】 マンションの4割弱が積立金不足 www.nikkei.com/article/DGXZQO...  木造2階建ての戸建てでは築30年で、雨漏りを防ぐなど基礎的な修繕だけで約1200万円が必要との試算も。  マンションでは住宅ローン返済の負担が重いからと、積立金が安い物件を安易に選ばないことも重要です。 <a href="https://bsky.app/profile/nikkei.com/post/3maopxcqryc2c" target="_blank">nikkei.com</a> (2025-12-24 06:46:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔻0.72 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.21 (🔻0.80 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,94 +32,99 @@
 
 ## News Headlines
 
-- US Stock Market Continues Rally, S&P 500 Hits New Record High
-- Former US Senator Ben Sasse Announces Terminal Cancer Diagnosis
-- Legendary Musicians D'Angelo, Brian Wilson, and Sly Stone Pass Away in 2025
-- Trump Invites Kazakh and Uzbek Presidents to G20 Summit in Florida
-- US Supreme Court Upholds Lower Court Ruling on Trump's National Guard Deployment
-- Norwegian Athlete Bakken Dies at 27
+- Trump says anybody that disagrees with him will never be Fed Chair
+- US subjecting Caracas to 'greatest extortion' in its history: Venezuela envoy to UN
+- Multiple people hurt after explosion and fire at a nursing home in Bristol, Pennsylvania
+- US watchdog says F-35s flew half the time in 2024 due to Lockheed maintenance issues
+- Former US Senator Ben Sasse announces he has terminal cancer
+- Norwegian athlete Bakken dies at 27
 
 
 ----
 
-@japan.reuters.com
+@wsj.com
 
-米国株式市場は続伸。Ｓ＆Ｐ総合５００種は終値で最高値を更新した。国内総生産（ＧＤＰ）統計を受けてグロース（成長）株が買われた。 bit.ly/3KXEf4z
+The French capital’s Museum of Decorative Arts devotes an extravagant exhibition to the design movement that takes its name from a trade fair held in the city a century ago. on.wsj.com/45cYF0a
 
-[2025-12-24 06:26:21](https://bsky.app/profile/japan.reuters.com/post/3maoosyoza72f)
+[2025-12-24 06:49:15](https://bsky.app/profile/wsj.com/post/3maoq3wufdq2t)
+
+---
+
+@wsj.com
+
+The Modernist New York home designed by Norman Jaffe is hitting the market following a two-year renovation. on.wsj.com/3KZZvXo
+
+[2025-12-24 06:49:14](https://bsky.app/profile/wsj.com/post/3maoq3wedcz2e)
+
+---
+
+@en.afp.com
+
+<strong>#<span style="color: red;">BREAKING:</span> US subjecting Caracas to 'greatest extortion' in its history: Venezuela envoy to UN</strong>
+
+[2025-12-24 06:49:12](https://bsky.app/profile/en.afp.com/post/3maoq3utrgu2d)
+
+---
+
+@cbsnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Multiple people are hurt after an explosion and fire at a nursing home in Bristol, Pennsylvania, officials say.</strong>
+
+[2025-12-24 06:48:39](https://bsky.app/profile/cbsnews.com/post/3maoq2unicr2m)
+
+---
+
+@nikkei.com
+
+【中古住宅選び、修繕費に注意】
+マンションの4割弱が積立金不足
+www.nikkei.com/article/DGXZQO...
+
+木造2階建ての戸建てでは築30年で、雨漏りを防ぐなど基礎的な修繕だけで約1200万円が必要との試算も。
+
+マンションでは住宅ローン返済の負担が重いからと、積立金が安い物件を安易に選ばないことも重要です。
+
+[2025-12-24 06:46:39](https://bsky.app/profile/nikkei.com/post/3maopxcqryc2c)
 
 ---
 
 @reuters.com
 
-Former US Senator Ben Sasse announces he has terminal cancer reut.rs/44E59oO
+Oklahoma university graduate student barred from teaching over gender essay grading dispute reut.rs/4sdeXAa
 
-[2025-12-24 06:25:11](https://bsky.app/profile/reuters.com/post/3maooqwp3nk2c)
-
----
-
-@npr.org
-
-D'Angelo. Brian Wilson. Sly Stone. We lost these greats and so many more in 2025 — singers, producers, conductors and writers whose departures gave us a pang of loss, but whose art still lifts us up. n.pr/3YIJurW
-
-[2025-12-24 06:21:45](https://bsky.app/profile/npr.org/post/3maooksa33424)
+[2025-12-24 06:45:11](https://bsky.app/profile/reuters.com/post/3maopuovfqy24)
 
 ---
 
 @japan.reuters.com
 
-トランプ米大統領は２３日、カザフスタンとウズベキスタンの大統領と電話会談し、両首脳を来年フロリダ州マイアミで開催される２０カ国・地域（Ｇ２０）首脳会議に招待したと明らかにした。 bit.ly/3YEISUe
+米国時間の原油先物は上昇。市場は、予想を上回る第３・四半期の国内総生産（ＧＤＰ）のほか、ベネズエラおよびロシアからの原油供給途絶リスクを見極めようとしている。 bit.ly/44Elud1
 
-[2025-12-24 06:20:41](https://bsky.app/profile/japan.reuters.com/post/3maooiup3pd2c)
+[2025-12-24 06:44:55](https://bsky.app/profile/japan.reuters.com/post/3maopu7oqxm2s)
+
+---
+
+@wsj.com
+
+Kyra Sedgwick and Kevin Bacon lead a funny, poignant feature about a woman who, married to a much older man, starts to fall for a security guard. on.wsj.com/49qQa44
+
+[2025-12-24 06:44:42](https://bsky.app/profile/wsj.com/post/3maopttlbda2k)
 
 ---
 
 @japan.reuters.com
 
-米連邦最高裁は２３日、トランプ大統領による中西部イリノイ州シカゴへの州兵派遣を巡り、下級審の派遣差し止め命令の取り消しを求めた政権側の申し立てを退ける判断を下した。 bit.ly/453r74P
+トランプ米大統領は２３日、市場が堅調であれば米連邦準備理事会（ＦＲＢ）次期議長には金利を引き下げてほしいとの考えを示した。また、「私の考えに同意しない者はＦＲＢ議長にはなれない」と述べた。 bit.ly/4pTRwu8
 
-[2025-12-24 06:20:36](https://bsky.app/profile/japan.reuters.com/post/3maooipzmdf2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-グレタさんロンドンで拘束「パレスチナアクション」支持活動で
-https://news.web.nhk/newsweb/na/na-k10015012071000
-
-[2025-12-24 06:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maooe74rwk2v)
+[2025-12-24 06:40:22](https://bsky.app/profile/japan.reuters.com/post/3maopm3cqc326)
 
 ---
 
 @reuters.com
 
-Norwegian athlete Bakken dies at 27 reut.rs/4pONmn7
+South Carolina measles cases rise by nine to 153, state health department says reut.rs/3L5Wogz
 
-[2025-12-24 06:15:14](https://bsky.app/profile/reuters.com/post/3maoo74xdiy24)
-
----
-
-@japan.reuters.com
-
-＜為替＞　クリスマスを控えた薄商いの中、ドルが円やユーロなどの主要通貨に対し下落した。第３・四半期の米経済成長率が予想を上回ったものの、連邦準備理事会（ＦＲＢ）に対する利下げ圧力が意識されていることがドル相場の重しになっている。 bit.ly/3MVMKxt
-
-[2025-12-24 06:14:54](https://bsky.app/profile/japan.reuters.com/post/3maoo6jjmy62q)
-
----
-
-@usatoday.com
-
-<strong><span style="color: red;">JUST IN:</span> Delaware state trooper killed in shooting near Wilmington DMV, and suspect has been confirmed dead.</strong>
-
-[2025-12-24 06:12:10](https://bsky.app/profile/usatoday.com/post/3maonznnjmr2f)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: The Supreme Court refused to immediately allow President Trump to deploy the National Guard in Chicago, casting doubt on deployments elsewhere.</strong>
-
-[2025-12-24 06:11:44](https://bsky.app/profile/nytimes.com/post/3maonyutgh32b)
+[2025-12-24 06:40:20](https://bsky.app/profile/reuters.com/post/3maoplyxcft2i)
 
 ---
 
