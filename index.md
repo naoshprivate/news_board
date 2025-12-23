@@ -1,9 +1,9 @@
-# [2025-12-23 21:10 updated](2025_12_23.md)
+# [2025-12-23 21:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米決済大手ビザとマスターカードが２３日に公表した暫定値によると、今年のホリデーシーズンの米小売売上高は約４％増加した。消費者は限られた予算と新製品・衣料品への購入意欲のバランスを取ったもよう。 bit.ly/44BvEew <a href="https://bsky.app/profile/japan.reuters.com/post/3manpmxrv7q2n" target="_blank">japan.reuters.com</a> (2025-12-23 21:08:12)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】八戸市 NTT鉄塔倒壊の恐れによる避難指示を解除 (2025-12-23 21:06) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/ <a href="https://bsky.app/profile/sokuho.news/post/3manpjeu6w72b" target="_blank">sokuho.news</a> (2025-12-23 21:06:12)</span><span style="padding-right:50px;">Sweden's Vattenfall applies for state aid for new nuclear reactors reut.rs/4pSs2NO <a href="https://bsky.app/profile/reuters.com/post/3manphirdt22y" target="_blank">reuters.com</a> (2025-12-23 21:05:09)</span><span style="padding-right:50px;">Good morning, New York. While you were sleeping, house prices falling in about half of London’s local council districts was the most-read story ft.trib.al/tPAU1DU <a href="https://bsky.app/profile/financialtimes.com/post/3manpebrun22w" target="_blank">financialtimes.com</a> (2025-12-23 21:03:21)</span><span style="padding-right:50px;">Canaccord says Tesla demand slowdown is temporary, hikes price target <a href="https://bsky.app/profile/cnbc.com/post/3manpd2al272m" target="_blank">cnbc.com</a> (2025-12-23 21:02:39)</span>
+<span style="padding-right:50px;">Most Gulf markets ease on soft oil prices reut.rs/4b0sTqT <a href="https://bsky.app/profile/reuters.com/post/3manqlajlar2c" target="_blank">reuters.com</a> (2025-12-23 21:25:08)</span><span style="padding-right:50px;">中国財政省は２３日、債券引受会社との会合で、２０２６年の政府債発行総額が引き続き「高水準」にとどまるとの見通しを示した。関係筋が明らかにした。 bit.ly/3MNTddX <a href="https://bsky.app/profile/japan.reuters.com/post/3manqcm3buc25" target="_blank">japan.reuters.com</a> (2025-12-23 21:20:18)</span><span style="padding-right:50px;">⚽ Alexander Isak faces two months on the sidelines after fracturing his leg in a "reckless challenge" from Tottenham's Micky van de Ven, Liverpool boss Arne Slot said Tuesday.  ➡️ u.afp.com/S8fj <a href="https://bsky.app/profile/en.afp.com/post/3manqc4c2yr2d" target="_blank">en.afp.com</a> (2025-12-23 21:20:02)</span><span style="padding-right:50px;">With no winner in Monday's drawing, the Powerball jackpot on Christmas Eve will be an estimated $1.7 billion.  <a href="https://bsky.app/profile/cbsnews.com/post/3manqc2ut2z2a" target="_blank">cbsnews.com</a> (2025-12-23 21:20:00)</span><span style="padding-right:50px;">The price of new cars and trucks in the U.S. has increased 33% since 2020, and consumers are piling on interest as they stretch out loan terms to eight, nine and nearly 10 years. <a href="https://bsky.app/profile/wsj.com/post/3manqbwfoxk2h" target="_blank">wsj.com</a> (2025-12-23 21:19:55)</span>
   </div>
 </div>
 
@@ -32,109 +32,95 @@
 
 ## News Headlines
 
-- US Retail Sales Increase 4% During Holiday Season
-- NTT Tower Collapse in Hachinohe City: Evacuation Order Lifted
-- Vattenfall Seeks State Aid for New Nuclear Reactors in Sweden
-- House Prices Falling in Half of London's Local Council Districts
-- Canaccord Hikes Tesla Price Target Amid Demand Slowdown
-- Miami Dolphins' Tua Tagovailoa Mega Contract Turns Out to Be a Mistake
+- Most Gulf markets ease on soft oil prices
+- Japan to keep 2026 government bond issuance at high level: MOF
+- Liverpool's Alexander Isak faces two months on the sidelines after leg fracture
+- Powerball jackpot to reach $1.7 billion on Christmas Eve
+- US new vehicle prices up 33% since 2020, loan terms stretch to 10 years
+- Missouri officials disappointed at Kansas City team's stadium deal
 
 
 ----
 
-@japan.reuters.com
-
-米決済大手ビザとマスターカードが２３日に公表した暫定値によると、今年のホリデーシーズンの米小売売上高は約４％増加した。消費者は限られた予算と新製品・衣料品への購入意欲のバランスを取ったもよう。 bit.ly/44BvEew
-
-[2025-12-23 21:08:12](https://bsky.app/profile/japan.reuters.com/post/3manpmxrv7q2n)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】八戸市 NTT鉄塔倒壊の恐れによる避難指示を解除
-(2025-12-23 21:06) #ニュース
-
-🟪避難情報
-🔗https://crisis.yahoo.co.jp/evacuation/
-
-[2025-12-23 21:06:12](https://bsky.app/profile/sokuho.news/post/3manpjeu6w72b)
-
----
-
 @reuters.com
 
-Sweden's Vattenfall applies for state aid for new nuclear reactors reut.rs/4pSs2NO
+Most Gulf markets ease on soft oil prices reut.rs/4b0sTqT
 
-[2025-12-23 21:05:09](https://bsky.app/profile/reuters.com/post/3manphirdt22y)
-
----
-
-@financialtimes.com
-
-Good morning, New York. While you were sleeping, house prices falling in about half of London’s local council districts was the most-read story ft.trib.al/tPAU1DU
-
-[2025-12-23 21:03:21](https://bsky.app/profile/financialtimes.com/post/3manpebrun22w)
+[2025-12-23 21:25:08](https://bsky.app/profile/reuters.com/post/3manqlajlar2c)
 
 ---
 
-@cnbc.com
+@japan.reuters.com
 
-Canaccord says Tesla demand slowdown is temporary, hikes price target
+中国財政省は２３日、債券引受会社との会合で、２０２６年の政府債発行総額が引き続き「高水準」にとどまるとの見通しを示した。関係筋が明らかにした。 bit.ly/3MNTddX
 
-[2025-12-23 21:02:39](https://bsky.app/profile/cnbc.com/post/3manpd2al272m)
-
----
-
-@wsj.com
-
-The Miami Dolphins gave quarterback Tua Tagovailoa a mega contract last year as a reward for his improved play. Now, just 18 months on, it’s blown up in their faces. on.wsj.com/4aulS1x
-
-[2025-12-23 21:02:01](https://bsky.app/profile/wsj.com/post/3manpbvxesq2e)
-
----
-
-@nikkei.com
-
-「放っておかれた過疎、震災で見えた」　御厨貴・東大先端研フェロー
-www.nikkei.com/article/DGXZQO...
-
-「ただ悪いことばかりではない。ボランティアだけでなく定住者も出てきた。次の発展の人材になる。大きな芽に育てたい」
-
-都市と地方の共存に何が必要なのでしょうか。
-
-（MESSAGE 戦後80年）
-
-[2025-12-23 21:00:55](https://bsky.app/profile/nikkei.com/post/3manp7wofsb22)
+[2025-12-23 21:20:18](https://bsky.app/profile/japan.reuters.com/post/3manqcm3buc25)
 
 ---
 
 @en.afp.com
 
-🇺🇦 Kyiv resembles a Hallmark-worthy December scene from any city in Europe as the Ukrainian capital tries to celebrate another Christmas at war. 
-🗒️ Barbara Wojazer
-📸 Sergei Supinsky & Tetiana Dzhafarova 
-➡️ u.afp.com/S8fW
+⚽ Alexander Isak faces two months on the sidelines after fracturing his leg in a "reckless challenge" from Tottenham's Micky van de Ven, Liverpool boss Arne Slot said Tuesday. 
+➡️ u.afp.com/S8fj
 
-[2025-12-23 21:00:33](https://bsky.app/profile/en.afp.com/post/3manp7bflvh2v)
+[2025-12-23 21:20:02](https://bsky.app/profile/en.afp.com/post/3manqc4c2yr2d)
 
 ---
 
-@nbcnews.com
+@cbsnews.com
 
-Video game development figure Vince Zampella, known for the creation of the hit “Call of Duty” franchise, has died, Electronic Arts said Monday. He was 55.
+With no winner in Monday's drawing, the Powerball jackpot on Christmas Eve will be an estimated $1.7 billion. 
 
-[2025-12-23 21:00:30](https://bsky.app/profile/nbcnews.com/post/3manp774hcq2d)
+[2025-12-23 21:20:00](https://bsky.app/profile/cbsnews.com/post/3manqc2ut2z2a)
 
 ---
 
-@reuters.com
+@wsj.com
 
-Bankers urge RBI action as dollar glut, NDF pressure roil Indian rupee forwards reut.rs/4sqvukq
+The price of new cars and trucks in the U.S. has increased 33% since 2020, and consumers are piling on interest as they stretch out loan terms to eight, nine and nearly 10 years.
 
-[2025-12-23 21:00:29](https://bsky.app/profile/reuters.com/post/3manp75opd52b)
+[2025-12-23 21:19:55](https://bsky.app/profile/wsj.com/post/3manqbwfoxk2h)
+
+---
+
+@cnbc.com
+
+EV realism is here. How automakers react in 2026 will be telling
+
+[2025-12-23 21:18:12](https://bsky.app/profile/cnbc.com/post/3manq6te2cp2m)
+
+---
+
+@npr.org
+
+Under the deal, the team would play in a new stadium in Kansas in 2031. Missouri officials say they're disappointed, ready to respond if deal falls through.
+
+[2025-12-23 21:18:07](https://bsky.app/profile/npr.org/post/3manq6ombav2e)
+
+---
+
+@cnbc.com
+
+Holiday retail spending rose 4.2% this season, driven by e-commerce and electronics: Visa report
+
+[2025-12-23 21:17:01](https://bsky.app/profile/cnbc.com/post/3manq4qau632i)
+
+---
+
+@nikkei.com
+
+高市早苗首相の12月23日の単独インタビュー・全文
+www.nikkei.com/article/DGXZQO...
+
+[2025-12-23 21:16:39](https://bsky.app/profile/nikkei.com/post/3manq42xopr2y)
+
+---
+
+@financialtimes.com
+
+Epstein appointed Staley and Summers as executors of his will ft.trib.al/8lj2kku
+
+[2025-12-23 21:15:49](https://bsky.app/profile/financialtimes.com/post/3manq2ky2q723)
 
 ---
 
