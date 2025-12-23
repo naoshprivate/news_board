@@ -1,9 +1,9 @@
-# [2025-12-24 03:50 updated](2025_12_24.md)
+# [2025-12-24 04:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">About 5.5 million borrowers are currently in default. They haven't risked wage garnishment since the beginning of the pandemic, when policymakers paused the practice. n.pr/49mlYXT <a href="https://bsky.app/profile/npr.org/post/3maofzf44xr24" target="_blank">npr.org</a> (2025-12-24 03:48:51)</span><span style="padding-right:50px;">US consumer confidence deteriorates in December reut.rs/496J2bH <a href="https://bsky.app/profile/reuters.com/post/3maofswktq52i" target="_blank">reuters.com</a> (2025-12-24 03:45:15)</span><span style="padding-right:50px;">Buy these three stocks as part of your ‘set-it & forget it’ 2026 portfolio, says Evercore ISI <a href="https://bsky.app/profile/cnbc.com/post/3maofrxgl4f2e" target="_blank">cnbc.com</a> (2025-12-24 03:44:42)</span><span style="padding-right:50px;">Trump says he invited Kazakh, Uzbek leaders to G20 Summit next year reut.rs/4av395Z <a href="https://bsky.app/profile/reuters.com/post/3maofk5wevz2y" target="_blank">reuters.com</a> (2025-12-24 03:40:20)</span><span style="padding-right:50px;">An assortment of absurd, useful and funny words and phrases entered the vernacular this year. How well do you know them? <a href="https://bsky.app/profile/nytimes.com/post/3maofjq2g3a25" target="_blank">nytimes.com</a> (2025-12-24 03:40:06)</span>
+<span style="padding-right:50px;">The woman who brutally stabbed her sixth-grade classmate more than a decade ago is returning to institutionalized care on Tuesday after running away from a group home last month. <a href="https://bsky.app/profile/nbcnews.com/post/3maoh26a6fo2x" target="_blank">nbcnews.com</a> (2025-12-24 04:07:11)</span><span style="padding-right:50px;">Tesla's charts look attractive as the new year approaches. Here's why <a href="https://bsky.app/profile/cnbc.com/post/3maogwt3lc52i" target="_blank">cnbc.com</a> (2025-12-24 04:05:19)</span><span style="padding-right:50px;">Norway's Botn turns to Bjoerndalen for help dealing with 'ugly' medical condition reut.rs/45cKIiO <a href="https://bsky.app/profile/reuters.com/post/3maogwisb5k2y" target="_blank">reuters.com</a> (2025-12-24 04:05:08)</span><span style="padding-right:50px;">トランプ米政権は、米国への亡命申請者を自国以外の国に強制送還することが可能と主張し、移民裁判所で係争中の数千人の亡命申請を無効とする試みを全米で進めている。米ＣＢＳニュースが２３日報じた。 bit.ly/3Y9RO3W <a href="https://bsky.app/profile/japan.reuters.com/post/3maogpwv3762c" target="_blank">japan.reuters.com</a> (2025-12-24 04:01:28)</span><span style="padding-right:50px;">Theo Wolf has spent a decade coaching kids and helping them get into Ivy Leagues, including Harvard, Stanford and Princeton. He says parents of highly successful children do four things early on. <a href="https://bsky.app/profile/cnbc.com/post/3maogpjbjfm2b" target="_blank">cnbc.com</a> (2025-12-24 04:01:14)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48486.42 (🔺165.83 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23532.96 (🔺125.26 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.48 (🔺5.52 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔻0.73 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48471.88 (🔺151.29 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23540.22 (🔺132.53 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.54 (🔺5.58 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.21 (🔻0.80 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,94 +32,93 @@
 
 ## News Headlines
 
-- 5.5 million US borrowers at risk of wage garnishment as pandemic pause ends
-- US consumer confidence drops in December
-- Evercore ISI recommends 'set-it & forget it' 2026 portfolio
-- Trump invites Kazakh, Uzbek leaders to G20 Summit
-- US economy grows faster than expected in third quarter
-- US Education Department to resume garnishing wages of student loan borrowers in default
+- Woman who stabbed classmate in 6th grade returns to institutionalized care
+- Tesla charts look attractive as new year approaches
+- Biden Administration to Force Deportation of Migrants to Other Countries
+- US Troops Moved to Caribbean Amid Rising Tensions
+- Trump Invites Kazakh, Uzbek Leaders to G20 Summit Next Year
+- US Consumer Confidence Deteriorates in December
 
 
 ----
 
-@npr.org
+@nbcnews.com
 
-About 5.5 million borrowers are currently in default. They haven't risked wage garnishment since the beginning of the pandemic, when policymakers paused the practice. n.pr/49mlYXT
+The woman who brutally stabbed her sixth-grade classmate more than a decade ago is returning to institutionalized care on Tuesday after running away from a group home last month.
 
-[2025-12-24 03:48:51](https://bsky.app/profile/npr.org/post/3maofzf44xr24)
-
----
-
-@reuters.com
-
-US consumer confidence deteriorates in December reut.rs/496J2bH
-
-[2025-12-24 03:45:15](https://bsky.app/profile/reuters.com/post/3maofswktq52i)
+[2025-12-24 04:07:11](https://bsky.app/profile/nbcnews.com/post/3maoh26a6fo2x)
 
 ---
 
 @cnbc.com
 
-Buy these three stocks as part of your ‘set-it & forget it’ 2026 portfolio, says Evercore ISI
+Tesla's charts look attractive as the new year approaches. Here's why
 
-[2025-12-24 03:44:42](https://bsky.app/profile/cnbc.com/post/3maofrxgl4f2e)
-
----
-
-@reuters.com
-
-Trump says he invited Kazakh, Uzbek leaders to G20 Summit next year reut.rs/4av395Z
-
-[2025-12-24 03:40:20](https://bsky.app/profile/reuters.com/post/3maofk5wevz2y)
-
----
-
-@nytimes.com
-
-An assortment of absurd, useful and funny words and phrases entered the vernacular this year. How well do you know them?
-
-[2025-12-24 03:40:06](https://bsky.app/profile/nytimes.com/post/3maofjq2g3a25)
-
----
-
-@nhknewsunofficial.bsky.social
-
-金融業界 来年春闘前年並みか上回る賃上げ方針 相次ぎ明らかに
-https://news.web.nhk/newsweb/na/na-k10015012021000
-
-[2025-12-24 03:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maofhuvkcg2m)
-
----
-
-@yahoofinance.com
-
-Americans are going home for the holidays  — no matter the cost. 
-
-[2025-12-24 03:36:05](https://bsky.app/profile/yahoofinance.com/post/3maofckieel2j)
+[2025-12-24 04:05:19](https://bsky.app/profile/cnbc.com/post/3maogwt3lc52i)
 
 ---
 
 @reuters.com
 
-Canada November wholesale trade most likely up 0.1% - Statscan flash estimate reut.rs/4sgZYVW
+Norway's Botn turns to Bjoerndalen for help dealing with 'ugly' medical condition reut.rs/45cKIiO
 
-[2025-12-24 03:35:09](https://bsky.app/profile/reuters.com/post/3maofaumb642k)
+[2025-12-24 04:05:08](https://bsky.app/profile/reuters.com/post/3maogwisb5k2y)
 
 ---
 
 @japan.reuters.com
 
-トランプ米大統領は２３日、市場が堅調であれば米連邦準備理事会（ＦＲＢ）次期議長には金利を引き下げてほしいとの考えを示した。また、「私の考えに同意しない者はＦＲＢ議長にはなれない」と述べた。 bit.ly/4pRzcBI
+トランプ米政権は、米国への亡命申請者を自国以外の国に強制送還することが可能と主張し、移民裁判所で係争中の数千人の亡命申請を無効とする試みを全米で進めている。米ＣＢＳニュースが２３日報じた。 bit.ly/3Y9RO3W
 
-[2025-12-24 03:32:17](https://bsky.app/profile/japan.reuters.com/post/3maof3r7q5k2u)
+[2025-12-24 04:01:28](https://bsky.app/profile/japan.reuters.com/post/3maogpwv3762c)
+
+---
+
+@cnbc.com
+
+Theo Wolf has spent a decade coaching kids and helping them get into Ivy Leagues, including Harvard, Stanford and Princeton. He says parents of highly successful children do four things early on.
+
+[2025-12-24 04:01:14](https://bsky.app/profile/cnbc.com/post/3maogpjbjfm2b)
 
 ---
 
 @usatoday.com
 
-President Trump has renewed his interest in acquiring Greenland by appointing Louisiana Gov. Jeff Landry to be his envoy for the Arctic island.
+Maury Povich says he's keeping an open mind about the major changes happening at CBS – even if his wife Connie Chung might not agree.
 
-[2025-12-24 03:30:13](https://bsky.app/profile/usatoday.com/post/3maoey2nfn52o)
+[2025-12-24 04:01:08](https://bsky.app/profile/usatoday.com/post/3maogpd6vbp2f)
+
+---
+
+@bloomberg.com
+
+There’s been a new arrival in Washington’s corridors of power. Jane Street has hired lobbyists for the first time in 20 years, and top executives have been proactively meeting with lawmakers
+
+[2025-12-24 04:00:56](https://bsky.app/profile/bloomberg.com/post/3maogoycrw62d)
+
+---
+
+@washingtonpost.com
+
+Exclusive: Thousands of internal ICE messages reviewed by The Post show how the team has produced videos for social media of immigrant arrests to portray the White House’s push for mass deportation as critical to protecting the American way of life.
+
+[2025-12-24 04:00:23](https://bsky.app/profile/washingtonpost.com/post/3maognydpdb2e)
+
+---
+
+@reuters.com
+
+Nestle sells remaining 40% Herta stake to Casa Tarradellas, ending joint venture reut.rs/3NdG6Tk
+
+[2025-12-24 04:00:20](https://bsky.app/profile/reuters.com/post/3maognvueau23)
+
+---
+
+@apnews.com
+
+Bolivian miners have marched in the country's capital, and union-organized protesters took to the streets elsewhere on the first day of a strike over the government's scrapping of fuel subsidies that have been blamed for contributing to dollar shortages and economic turmoil.
+
+[2025-12-24 04:00:09](https://bsky.app/profile/apnews.com/post/3maognlapso2k)
 
 ---
 
