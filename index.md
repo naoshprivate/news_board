@@ -1,9 +1,9 @@
-# [2025-12-24 08:10 updated](2025_12_24.md)
+# [2025-12-24 08:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">経済産業省は２４日、日米関税合意に基づく５５００億ドル（約８５兆円）の対米投融資を巡り、赤沢亮正経済産業相やラトニック米商務長官、ライト米エネルギー長官が参加する協議委員会を２３日夜にオンラインで開いたと発表した。 bit.ly/4j8J5se <a href="https://bsky.app/profile/japan.reuters.com/post/3maoujtxqkx2v" target="_blank">japan.reuters.com</a> (2025-12-24 08:08:36)</span><span style="padding-right:50px;">After years of buying shiny, new gifts for Christmas, more Americans are secondhand shopping for the holidays and strategizing how to avoid angering friends and family.  🔗: on.wsj.com/48RhHvp <a href="https://bsky.app/profile/wsj.com/post/3maougvg7ns2u" target="_blank">wsj.com</a> (2025-12-24 08:06:57)</span><span style="padding-right:50px;">警察庁 大学スポーツ部員らに薬物の使用防止など呼びかけ 横浜 https://news.web.nhk/newsweb/na/na-k10015011951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maoufctt5c2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 08:06:02)</span><span style="padding-right:50px;">Atlanta United sign Argentine GK Lucas Hoyos reut.rs/3LhcGDh <a href="https://bsky.app/profile/reuters.com/post/3maoudpjenz2i" target="_blank">reuters.com</a> (2025-12-24 08:05:10)</span><span style="padding-right:50px;">Motive, an Alphabet-backed fleet management software company, files for IPO <a href="https://bsky.app/profile/cnbc.com/post/3maou7pplbi25" target="_blank">cnbc.com</a> (2025-12-24 08:02:56)</span>
+<span style="padding-right:50px;">The data, which was delayed from October by the government shutdown, comes as the economy takes center stage for voters and the Trump administration. n.pr/3KKykQj <a href="https://bsky.app/profile/npr.org/post/3maovnc7u462n" target="_blank">npr.org</a> (2025-12-24 08:28:26)</span><span style="padding-right:50px;">An airplane has, for the first time, automatically landed itself after an in-flight emergency, according to the system’s manufacturer.  <a href="https://bsky.app/profile/cnn.com/post/3maovkryrby2k" target="_blank">cnn.com</a> (2025-12-24 08:27:01)</span><span style="padding-right:50px;">ロンドン金属取引所（ＬＭＥ）の銅価格の指標となる銅３カ月先物が２３日、一時１トン＝１万２１５９．５０ドルと過去最高値を更新し、１万２０００ドルの大台を突破した。年末の薄商いの中で、供給が逼迫するとの見方やドル下落を背景に投機的な買いが膨らんだのが要因。 bit.ly/4qj6klK <a href="https://bsky.app/profile/japan.reuters.com/post/3maovjrlf6y2f" target="_blank">japan.reuters.com</a> (2025-12-24 08:26:27)</span><span style="padding-right:50px;">Spirit sign D Gabby Carle through 2029 season reut.rs/4pU004s <a href="https://bsky.app/profile/reuters.com/post/3maovhgb5mb2i" target="_blank">reuters.com</a> (2025-12-24 08:25:08)</span><span style="padding-right:50px;">Emerging markets had a bumper year — here’s what could be in store in 2026 <a href="https://bsky.app/profile/cnbc.com/post/3maovfnys472e" target="_blank">cnbc.com</a> (2025-12-24 08:24:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.13 (🔻0.05 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.14 (🔻0.04 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,97 +32,95 @@
 
 ## News Headlines
 
-- Japan and US Agree on $55 Billion Loan to US
-- Secondhand Shopping Gains Popularity in US During Holiday Season
-- Police Urge University Athletes in Japan to Prevent Drug Abuse
-- Atlanta United Signs Argentine Goalkeeper Lucas Hoyos
-- Barry Manilow Recovering After Lung Cancer Diagnosis
-- Frida CEO Shares Her Journey of Taking Risks
+- US Economy Takes Center Stage for Voters as Shutdown Delayed GDP Data
+- Airplane Automatically Lands After In-Flight Emergency for First Time
+- Copper Price Hits Record High as Supply Concerns and Dollar Weakness Fuel Speculation
+- Venezuela Opposition Leader María Corina Machado Escapes Military Checkpoints
+- UN Security Council Holds Emergency Meeting on Venezuela Crisis
+- Pope Francis Expresses Sadness Over Russia's Rejection of Christmas Truce in Ukraine War
 
 
 ----
 
+@npr.org
+
+The data, which was delayed from October by the government shutdown, comes as the economy takes center stage for voters and the Trump administration. n.pr/3KKykQj
+
+[2025-12-24 08:28:26](https://bsky.app/profile/npr.org/post/3maovnc7u462n)
+
+---
+
+@cnn.com
+
+An airplane has, for the first time, automatically landed itself after an in-flight emergency, according to the system’s manufacturer. 
+
+[2025-12-24 08:27:01](https://bsky.app/profile/cnn.com/post/3maovkryrby2k)
+
+---
+
 @japan.reuters.com
 
-経済産業省は２４日、日米関税合意に基づく５５００億ドル（約８５兆円）の対米投融資を巡り、赤沢亮正経済産業相やラトニック米商務長官、ライト米エネルギー長官が参加する協議委員会を２３日夜にオンラインで開いたと発表した。 bit.ly/4j8J5se
+ロンドン金属取引所（ＬＭＥ）の銅価格の指標となる銅３カ月先物が２３日、一時１トン＝１万２１５９．５０ドルと過去最高値を更新し、１万２０００ドルの大台を突破した。年末の薄商いの中で、供給が逼迫するとの見方やドル下落を背景に投機的な買いが膨らんだのが要因。 bit.ly/4qj6klK
 
-[2025-12-24 08:08:36](https://bsky.app/profile/japan.reuters.com/post/3maoujtxqkx2v)
+[2025-12-24 08:26:27](https://bsky.app/profile/japan.reuters.com/post/3maovjrlf6y2f)
+
+---
+
+@reuters.com
+
+Spirit sign D Gabby Carle through 2029 season reut.rs/4pU004s
+
+[2025-12-24 08:25:08](https://bsky.app/profile/reuters.com/post/3maovhgb5mb2i)
+
+---
+
+@cnbc.com
+
+Emerging markets had a bumper year — here’s what could be in store in 2026
+
+[2025-12-24 08:24:10](https://bsky.app/profile/cnbc.com/post/3maovfnys472e)
 
 ---
 
 @wsj.com
 
-After years of buying shiny, new gifts for Christmas, more Americans are secondhand shopping for the holidays and strategizing how to avoid angering friends and family.
+María Corina Machado, Venezuela’s opposition leader, slipped through 10 military checkpoints to reach a fishing boat bound for Curaçao and a private jet headed to Norway.
 
-🔗: on.wsj.com/48RhHvp
+Read more about the Nobel Peace Prize Winner's journey: 🔗 on.wsj.com/4qj1XHm
 
-[2025-12-24 08:06:57](https://bsky.app/profile/wsj.com/post/3maougvg7ns2u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-警察庁 大学スポーツ部員らに薬物の使用防止など呼びかけ 横浜
-https://news.web.nhk/newsweb/na/na-k10015011951000
-
-[2025-12-24 08:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maoufctt5c2v)
-
----
-
-@reuters.com
-
-Atlanta United sign Argentine GK Lucas Hoyos reut.rs/3LhcGDh
-
-[2025-12-24 08:05:10](https://bsky.app/profile/reuters.com/post/3maoudpjenz2i)
+[2025-12-24 08:23:48](https://bsky.app/profile/wsj.com/post/3maovezqxdr2h)
 
 ---
 
 @cnbc.com
 
-Motive, an Alphabet-backed fleet management software company, files for IPO
+China’s mineral dominance gives Western magnet makers a moment in the sun
 
-[2025-12-24 08:02:56](https://bsky.app/profile/cnbc.com/post/3maou7pplbi25)
-
----
-
-@usatoday.com
-
-Barry Manilow is recovering after catching a "cancerous spot" on his lung. Here's what to know about lung cancer's signs, symptoms and prognosis.
-
-[2025-12-24 08:01:22](https://bsky.app/profile/usatoday.com/post/3maou4vnyip2t)
+[2025-12-24 08:23:01](https://bsky.app/profile/cnbc.com/post/3maovdmqvdb2p)
 
 ---
 
 @japan.reuters.com
 
-ニューヨーク外為市場ではクリスマスを控えた薄商いの中、ドルが円やユーロなどの主要通貨に対し下落した。第３・四半期の米経済成長率が予想を上回ったものの、連邦準備理事会（ＦＲＢ）に対する利下げ圧力が意識されていることがドル相場の重しになっている。 bit.ly/44GzF18
+国連安全保障理事会は２３日、ベネズエラ情勢を巡る緊急会合を開催した。米国はマドゥロ大統領から資金源を奪うために「最大限」の制裁を科すと表明。一方、ロシアは他の中南米諸国が米国の次の標的になる可能性があると警告した。 bit.ly/3MZloXg
 
-[2025-12-24 08:01:14](https://bsky.app/profile/japan.reuters.com/post/3maou4nrmdx2v)
-
----
-
-@reuters.com
-
-Turkey says signal lost with jet carrying Libyan army chief after takeoff from Ankara reut.rs/3L6jy6u
-
-[2025-12-24 08:01:04](https://bsky.app/profile/reuters.com/post/3maou4ets242y)
+[2025-12-24 08:20:49](https://bsky.app/profile/japan.reuters.com/post/3maov7p3c542u)
 
 ---
 
-@cnbc.com
+@japan.reuters.com
 
-Frida CEO Chelsea Hirschhorn shared how she got comfortable taking risks. 
+＜為替＞　クリスマスを控えた薄商いの中、ドルが円やユーロなどの主要通貨に対し下落した。第３・四半期の米経済成長率が予想を上回ったものの、連邦準備理事会（ＦＲＢ）に対する利下げ圧力が意識されていることがドル相場の重しになっている。 bit.ly/4pSQWwN
 
-[2025-12-24 08:00:26](https://bsky.app/profile/cnbc.com/post/3maou3aquvs2y)
+[2025-12-24 08:20:25](https://bsky.app/profile/japan.reuters.com/post/3maov6xgrip2q)
 
 ---
 
-@washingtonpost.com
+@japan.reuters.com
 
-Thousands of internal chat messages show how ICE’s public affairs arm has raced to satisfy the White House by pumping out viral videos of confrontations and arrests.
-https://wapo.st/4j7GWgk
+ローマ教皇レオは２３日、ロシアが対ウクライナ戦争でクリスマスの停戦要請を拒否したことに「大きな悲しみ」を感じていると記者団に語った。 bit.ly/4pLGQxw
 
-[2025-12-24 08:00:22](https://bsky.app/profile/washingtonpost.com/post/3maou34xlq723)
+[2025-12-24 08:18:37](https://bsky.app/profile/japan.reuters.com/post/3maov3qrpf222)
 
 ---
 
