@@ -1,9 +1,9 @@
-# [2025-12-23 21:30 updated](2025_12_23.md)
+# [2025-12-23 21:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Most Gulf markets ease on soft oil prices reut.rs/4b0sTqT <a href="https://bsky.app/profile/reuters.com/post/3manqlajlar2c" target="_blank">reuters.com</a> (2025-12-23 21:25:08)</span><span style="padding-right:50px;">中国財政省は２３日、債券引受会社との会合で、２０２６年の政府債発行総額が引き続き「高水準」にとどまるとの見通しを示した。関係筋が明らかにした。 bit.ly/3MNTddX <a href="https://bsky.app/profile/japan.reuters.com/post/3manqcm3buc25" target="_blank">japan.reuters.com</a> (2025-12-23 21:20:18)</span><span style="padding-right:50px;">⚽ Alexander Isak faces two months on the sidelines after fracturing his leg in a "reckless challenge" from Tottenham's Micky van de Ven, Liverpool boss Arne Slot said Tuesday.  ➡️ u.afp.com/S8fj <a href="https://bsky.app/profile/en.afp.com/post/3manqc4c2yr2d" target="_blank">en.afp.com</a> (2025-12-23 21:20:02)</span><span style="padding-right:50px;">With no winner in Monday's drawing, the Powerball jackpot on Christmas Eve will be an estimated $1.7 billion.  <a href="https://bsky.app/profile/cbsnews.com/post/3manqc2ut2z2a" target="_blank">cbsnews.com</a> (2025-12-23 21:20:00)</span><span style="padding-right:50px;">The price of new cars and trucks in the U.S. has increased 33% since 2020, and consumers are piling on interest as they stretch out loan terms to eight, nine and nearly 10 years. <a href="https://bsky.app/profile/wsj.com/post/3manqbwfoxk2h" target="_blank">wsj.com</a> (2025-12-23 21:19:55)</span>
+<span style="padding-right:50px;">自民 鈴木前法相 台湾 頼総統と会談 抑止力強化の必要性を強調 https://news.web.nhk/newsweb/na/na-k10015011871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manrufjmjo2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 21:48:07)</span><span style="padding-right:50px;">国民 玉木代表 与党との連携めぐり“今の選挙制度が課題に” https://news.web.nhk/newsweb/na/na-k10015011961000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manruaq3h422" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 21:48:02)</span><span style="padding-right:50px;">東京BRT、臨海部から東京駅まで延伸　2026年秋ごろ（無料記事） www.nikkei.com/article/DGXZQO...  従来の4つのルートに加え、中央区晴海から築地、銀座を経由して東京駅八重洲口に向かうルートを新設します。  東京BRT（バス高速輸送システム）は、東京テレポート駅と虎ノ門ヒルズを結ぶルートなどを運行しています。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3manrrpjnfl24" target="_blank">nikkei.com</a> (2025-12-23 21:46:39)</span><span style="padding-right:50px;">President Trump has announced the Navy will begin building a new fleet of warships. And, a federal judge has ruled the deportations of more than 100 Venezuelan men to El Salvador were illegal. n.pr/4965AJD <a href="https://bsky.app/profile/npr.org/post/3manrpsjheg24" target="_blank">npr.org</a> (2025-12-23 21:45:35)</span><span style="padding-right:50px;">タイ財務省は２３日、オンラインでの金取引に対する課税導入を検討するとともに、取引量を制限する措置も検討すると発表した。 bit.ly/49fPJZo <a href="https://bsky.app/profile/japan.reuters.com/post/3manrp6gqzr22" target="_blank">japan.reuters.com</a> (2025-12-23 21:45:14)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔻1.07 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.95 (🔻1.06 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,95 +32,109 @@
 
 ## News Headlines
 
-- Most Gulf markets ease on soft oil prices
-- Japan to keep 2026 government bond issuance at high level: MOF
-- Liverpool's Alexander Isak faces two months on the sidelines after leg fracture
-- Powerball jackpot to reach $1.7 billion on Christmas Eve
-- US new vehicle prices up 33% since 2020, loan terms stretch to 10 years
-- Missouri officials disappointed at Kansas City team's stadium deal
+- Japanese politician Suzuki urges Taiwan to strengthen deterrent
+- Japanese politician warns current election system is a challenge
+- Tokyo BRT to be extended to Tokyo Station by 2026
+- US Navy to build new fleet of warships with nuclear capabilities
+- Taiwan to limit online gold transactions and consider taxing them
+- Evercore ISI predicts accelerating growth at Live Nation in 2026
 
 
 ----
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Most Gulf markets ease on soft oil prices reut.rs/4b0sTqT
+自民 鈴木前法相 台湾 頼総統と会談 抑止力強化の必要性を強調
+https://news.web.nhk/newsweb/na/na-k10015011871000
 
-[2025-12-23 21:25:08](https://bsky.app/profile/reuters.com/post/3manqlajlar2c)
-
----
-
-@japan.reuters.com
-
-中国財政省は２３日、債券引受会社との会合で、２０２６年の政府債発行総額が引き続き「高水準」にとどまるとの見通しを示した。関係筋が明らかにした。 bit.ly/3MNTddX
-
-[2025-12-23 21:20:18](https://bsky.app/profile/japan.reuters.com/post/3manqcm3buc25)
+[2025-12-23 21:48:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manrufjmjo2s)
 
 ---
 
-@en.afp.com
+@nhknewsunofficial.bsky.social
 
-⚽ Alexander Isak faces two months on the sidelines after fracturing his leg in a "reckless challenge" from Tottenham's Micky van de Ven, Liverpool boss Arne Slot said Tuesday. 
-➡️ u.afp.com/S8fj
+国民 玉木代表 与党との連携めぐり“今の選挙制度が課題に”
+https://news.web.nhk/newsweb/na/na-k10015011961000
 
-[2025-12-23 21:20:02](https://bsky.app/profile/en.afp.com/post/3manqc4c2yr2d)
-
----
-
-@cbsnews.com
-
-With no winner in Monday's drawing, the Powerball jackpot on Christmas Eve will be an estimated $1.7 billion. 
-
-[2025-12-23 21:20:00](https://bsky.app/profile/cbsnews.com/post/3manqc2ut2z2a)
-
----
-
-@wsj.com
-
-The price of new cars and trucks in the U.S. has increased 33% since 2020, and consumers are piling on interest as they stretch out loan terms to eight, nine and nearly 10 years.
-
-[2025-12-23 21:19:55](https://bsky.app/profile/wsj.com/post/3manqbwfoxk2h)
-
----
-
-@cnbc.com
-
-EV realism is here. How automakers react in 2026 will be telling
-
-[2025-12-23 21:18:12](https://bsky.app/profile/cnbc.com/post/3manq6te2cp2m)
-
----
-
-@npr.org
-
-Under the deal, the team would play in a new stadium in Kansas in 2031. Missouri officials say they're disappointed, ready to respond if deal falls through.
-
-[2025-12-23 21:18:07](https://bsky.app/profile/npr.org/post/3manq6ombav2e)
-
----
-
-@cnbc.com
-
-Holiday retail spending rose 4.2% this season, driven by e-commerce and electronics: Visa report
-
-[2025-12-23 21:17:01](https://bsky.app/profile/cnbc.com/post/3manq4qau632i)
+[2025-12-23 21:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manruaq3h422)
 
 ---
 
 @nikkei.com
 
-高市早苗首相の12月23日の単独インタビュー・全文
+東京BRT、臨海部から東京駅まで延伸　2026年秋ごろ（無料記事）
 www.nikkei.com/article/DGXZQO...
 
-[2025-12-23 21:16:39](https://bsky.app/profile/nikkei.com/post/3manq42xopr2y)
+従来の4つのルートに加え、中央区晴海から築地、銀座を経由して東京駅八重洲口に向かうルートを新設します。
+
+東京BRT（バス高速輸送システム）は、東京テレポート駅と虎ノ門ヒルズを結ぶルートなどを運行しています。
+
+#ニュース
+
+[2025-12-23 21:46:39](https://bsky.app/profile/nikkei.com/post/3manrrpjnfl24)
+
+---
+
+@npr.org
+
+President Trump has announced the Navy will begin building a new fleet of warships. And, a federal judge has ruled the deportations of more than 100 Venezuelan men to El Salvador were illegal. n.pr/4965AJD
+
+[2025-12-23 21:45:35](https://bsky.app/profile/npr.org/post/3manrpsjheg24)
+
+---
+
+@japan.reuters.com
+
+タイ財務省は２３日、オンラインでの金取引に対する課税導入を検討するとともに、取引量を制限する措置も検討すると発表した。 bit.ly/49fPJZo
+
+[2025-12-23 21:45:14](https://bsky.app/profile/japan.reuters.com/post/3manrp6gqzr22)
+
+---
+
+@reuters.com
+
+Paramount's new offer for Warner Bros is not sufficient, major investor says reut.rs/49v0RBN
+
+[2025-12-23 21:45:12](https://bsky.app/profile/reuters.com/post/3manrp47mmz2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ゴルフ 全英女子OP優勝 山下美夢有「世界ナンバー1へ努力」
+https://news.web.nhk/newsweb/na/na-k10015011891000
+
+[2025-12-23 21:45:04](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manrowwubd24)
+
+---
+
+@axios.com
+
+MAGA entered the year with a sheen of invincibility, riding the high of Trump's victory and united in his promise of a new "Golden Age." 
+
+It's ending 2025 locked in an existential war over the future of conservatism.
+
+5 flashpoint moments:
+
+[2025-12-23 21:43:51](https://bsky.app/profile/axios.com/post/3manrmp5ywc2h)
 
 ---
 
 @financialtimes.com
 
-Epstein appointed Staley and Summers as executors of his will ft.trib.al/8lj2kku
+Keen to find out Nigella Lawson's secrets for a perfect Christmas meal?⁠
+⁠
+From the perfect turkey to potatoes and cocktail sausages, tap here to discover them: ft.trib.al/9B1ARMz
 
-[2025-12-23 21:15:49](https://bsky.app/profile/financialtimes.com/post/3manq2ky2q723)
+[2025-12-23 21:43:00](https://bsky.app/profile/financialtimes.com/post/3manrl727sc2k)
+
+---
+
+@cnbc.com
+
+Evercore ISI sees accelerating growth at Live Nation, names it top media pick for 2026
+
+[2025-12-23 21:42:51](https://bsky.app/profile/cnbc.com/post/3manrkwirzd2p)
 
 ---
 
