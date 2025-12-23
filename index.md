@@ -1,9 +1,9 @@
-# [2025-12-23 21:50 updated](2025_12_23.md)
+# [2025-12-23 22:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">自民 鈴木前法相 台湾 頼総統と会談 抑止力強化の必要性を強調 https://news.web.nhk/newsweb/na/na-k10015011871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manrufjmjo2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 21:48:07)</span><span style="padding-right:50px;">国民 玉木代表 与党との連携めぐり“今の選挙制度が課題に” https://news.web.nhk/newsweb/na/na-k10015011961000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manruaq3h422" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 21:48:02)</span><span style="padding-right:50px;">東京BRT、臨海部から東京駅まで延伸　2026年秋ごろ（無料記事） www.nikkei.com/article/DGXZQO...  従来の4つのルートに加え、中央区晴海から築地、銀座を経由して東京駅八重洲口に向かうルートを新設します。  東京BRT（バス高速輸送システム）は、東京テレポート駅と虎ノ門ヒルズを結ぶルートなどを運行しています。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3manrrpjnfl24" target="_blank">nikkei.com</a> (2025-12-23 21:46:39)</span><span style="padding-right:50px;">President Trump has announced the Navy will begin building a new fleet of warships. And, a federal judge has ruled the deportations of more than 100 Venezuelan men to El Salvador were illegal. n.pr/4965AJD <a href="https://bsky.app/profile/npr.org/post/3manrpsjheg24" target="_blank">npr.org</a> (2025-12-23 21:45:35)</span><span style="padding-right:50px;">タイ財務省は２３日、オンラインでの金取引に対する課税導入を検討するとともに、取引量を制限する措置も検討すると発表した。 bit.ly/49fPJZo <a href="https://bsky.app/profile/japan.reuters.com/post/3manrp6gqzr22" target="_blank">japan.reuters.com</a> (2025-12-23 21:45:14)</span>
+<span style="padding-right:50px;">Catholic Bishops is Florida want a holiday moratorium on immigration enforcement so people can go to church and celebrate Christmas and New Years. <a href="https://bsky.app/profile/npr.org/post/3mansus4e6c24" target="_blank">npr.org</a> (2025-12-23 22:06:16)</span><span style="padding-right:50px;">デンマーク製薬大手ノボノルディスクの株価が２３日朝方の取引で７．５％上昇した。米食品医薬品局（ＦＤＡ）が同社の肥満治療用飲み薬を承認したことを受け、急成長する肥満治療市場で競争上の優位を確保したとの見方が広がった。 bit.ly/4j8CYEe <a href="https://bsky.app/profile/japan.reuters.com/post/3manssygs5b2q" target="_blank">japan.reuters.com</a> (2025-12-23 22:05:16)</span><span style="padding-right:50px;">Visa and Mastercard report 4% growth in US holiday retail sales reut.rs/3YFKA7J <a href="https://bsky.app/profile/reuters.com/post/3manssutfdn2x" target="_blank">reuters.com</a> (2025-12-23 22:05:12)</span><span style="padding-right:50px;">Three dead after Russia launches 'massive' attack across Ukraine <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3manssq2iur2s" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-23 22:05:06)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】青森・八戸 地震で損傷のNTTビル「鉄塔倒壊恐れなし」避難指示通行止め解除 (2025年12月23日 22:03) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/02/ <a href="https://bsky.app/profile/sokuho.news/post/3mansqm7uig2b" target="_blank">sokuho.news</a> (2025-12-23 22:03:56)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.95 (🔻1.06 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.05 (🔻0.96 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,109 +32,105 @@
 
 ## News Headlines
 
-- Japanese politician Suzuki urges Taiwan to strengthen deterrent
-- Japanese politician warns current election system is a challenge
-- Tokyo BRT to be extended to Tokyo Station by 2026
-- US Navy to build new fleet of warships with nuclear capabilities
-- Taiwan to limit online gold transactions and consider taxing them
-- Evercore ISI predicts accelerating growth at Live Nation in 2026
+- Catholic Bishops in Florida Seek Immigration Enforcement Holiday Moratorium
+- Novo Nordisk Stock Jumps 7.5% After FDA Approves Obesity Pill
+- Three Dead in 'Massive' Russian Attack on Ukraine
+- Country Bars Boom Across US, Drawing Outlaws to Line Dancing
+- Trump's Anti-DEI Campaign Faces High Legal Hurdles
+- North Korea's Kim Jong Un Opens Lavish Mountain Resort for Daughter
 
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-自民 鈴木前法相 台湾 頼総統と会談 抑止力強化の必要性を強調
-https://news.web.nhk/newsweb/na/na-k10015011871000
-
-[2025-12-23 21:48:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manrufjmjo2s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-国民 玉木代表 与党との連携めぐり“今の選挙制度が課題に”
-https://news.web.nhk/newsweb/na/na-k10015011961000
-
-[2025-12-23 21:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manruaq3h422)
-
----
-
-@nikkei.com
-
-東京BRT、臨海部から東京駅まで延伸　2026年秋ごろ（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-従来の4つのルートに加え、中央区晴海から築地、銀座を経由して東京駅八重洲口に向かうルートを新設します。
-
-東京BRT（バス高速輸送システム）は、東京テレポート駅と虎ノ門ヒルズを結ぶルートなどを運行しています。
-
-#ニュース
-
-[2025-12-23 21:46:39](https://bsky.app/profile/nikkei.com/post/3manrrpjnfl24)
-
----
-
 @npr.org
 
-President Trump has announced the Navy will begin building a new fleet of warships. And, a federal judge has ruled the deportations of more than 100 Venezuelan men to El Salvador were illegal. n.pr/4965AJD
+Catholic Bishops is Florida want a holiday moratorium on immigration enforcement so people can go to church and celebrate Christmas and New Years.
 
-[2025-12-23 21:45:35](https://bsky.app/profile/npr.org/post/3manrpsjheg24)
+[2025-12-23 22:06:16](https://bsky.app/profile/npr.org/post/3mansus4e6c24)
 
 ---
 
 @japan.reuters.com
 
-タイ財務省は２３日、オンラインでの金取引に対する課税導入を検討するとともに、取引量を制限する措置も検討すると発表した。 bit.ly/49fPJZo
+デンマーク製薬大手ノボノルディスクの株価が２３日朝方の取引で７．５％上昇した。米食品医薬品局（ＦＤＡ）が同社の肥満治療用飲み薬を承認したことを受け、急成長する肥満治療市場で競争上の優位を確保したとの見方が広がった。 bit.ly/4j8CYEe
 
-[2025-12-23 21:45:14](https://bsky.app/profile/japan.reuters.com/post/3manrp6gqzr22)
+[2025-12-23 22:05:16](https://bsky.app/profile/japan.reuters.com/post/3manssygs5b2q)
 
 ---
 
 @reuters.com
 
-Paramount's new offer for Warner Bros is not sufficient, major investor says reut.rs/49v0RBN
+Visa and Mastercard report 4% growth in US holiday retail sales reut.rs/3YFKA7J
 
-[2025-12-23 21:45:12](https://bsky.app/profile/reuters.com/post/3manrp47mmz2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ゴルフ 全英女子OP優勝 山下美夢有「世界ナンバー1へ努力」
-https://news.web.nhk/newsweb/na/na-k10015011891000
-
-[2025-12-23 21:45:04](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manrowwubd24)
+[2025-12-23 22:05:12](https://bsky.app/profile/reuters.com/post/3manssutfdn2x)
 
 ---
 
-@axios.com
+@bbcnews-world-rss.bsky.social
 
-MAGA entered the year with a sheen of invincibility, riding the high of Trump's victory and united in his promise of a new "Golden Age." 
+Three dead after Russia launches 'massive' attack across Ukraine
 
-It's ending 2025 locked in an existential war over the future of conservatism.
-
-5 flashpoint moments:
-
-[2025-12-23 21:43:51](https://bsky.app/profile/axios.com/post/3manrmp5ywc2h)
+[2025-12-23 22:05:06](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3manssq2iur2s)
 
 ---
 
-@financialtimes.com
+@sokuho.news
 
-Keen to find out Nigella Lawson's secrets for a perfect Christmas meal?⁠
-⁠
-From the perfect turkey to potatoes and cocktail sausages, tap here to discover them: ft.trib.al/9B1ARMz
+🔔ANNより【速報】です。
 
-[2025-12-23 21:43:00](https://bsky.app/profile/financialtimes.com/post/3manrl727sc2k)
+【速報】青森・八戸 地震で損傷のNTTビル「鉄塔倒壊恐れなし」避難指示通行止め解除
+(2025年12月23日 22:03) #ニュース
+
+🟪避難情報
+🔗https://crisis.yahoo.co.jp/evacuation/02/
+
+[2025-12-23 22:03:56](https://bsky.app/profile/sokuho.news/post/3mansqm7uig2b)
 
 ---
 
 @cnbc.com
 
-Evercore ISI sees accelerating growth at Live Nation, names it top media pick for 2026
+Successful couples know how to compromise in a high stakes time like the holidays, says Sabrina Romanoff. 
 
-[2025-12-23 21:42:51](https://bsky.app/profile/cnbc.com/post/3manrkwirzd2p)
+[2025-12-23 22:02:58](https://bsky.app/profile/cnbc.com/post/3mansouowv62e)
+
+---
+
+@wsj.com
+
+From New York City to Chicago to Portland, bars are riding a country boom, drawing everyone from outlaw singers to finance bros for ‘countryoke’ and line dancing. on.wsj.com/498VAzk
+
+[2025-12-23 22:02:40](https://bsky.app/profile/wsj.com/post/3mansodyen62t)
+
+---
+
+@reuters.com
+
+Trump's anti-corporate DEI campaign faces high legal hurdles reut.rs/44HFXO3
+
+[2025-12-23 22:01:11](https://bsky.app/profile/reuters.com/post/3manslpnxlq2y)
+
+---
+
+@nikkei.com
+
+【将来は｢月の砂｣でガラスも】
+タカラスタンダード、ホーローを宇宙用素材に
+www.nikkei.com/article/DGXZQO...
+
+国内の住宅市場が縮小に向かうなか、月面の建物向けに素材を開発することを目指します。
+
+月の砂はガラス質を含むため、性質が近い砂を用いて真空下でホーローを作る実験を始めています。
+
+[2025-12-23 22:00:39](https://bsky.app/profile/nikkei.com/post/3manskqh4uj2n)
+
+---
+
+@apnews.com
+
+Paramount is sweetening its hostile takeover bid for Warner Bros. Discovery with an "irrevocable personal guarantee" from Larry Ellison, who is putting up billions of dollars to back the deal for his son's company.
+
+[2025-12-23 22:00:32](https://bsky.app/profile/apnews.com/post/3manskjvvm42x)
 
 ---
 
