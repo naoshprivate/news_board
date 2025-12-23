@@ -1,9 +1,9 @@
-# [2025-12-24 03:10 updated](2025_12_24.md)
+# [2025-12-24 03:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">陸自オスプレイ 平均稼働率40％切る状態続く 整備員不足課題 https://news.web.nhk/newsweb/na/na-k10015012131000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maodsaqjcz2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 03:09:02)</span><span style="padding-right:50px;">French lawmakers are expected Tuesday to approve a bill averting a government shutdown after weeks of debate in Parliament failed to reach agreement on a new budget. <a href="https://bsky.app/profile/wsj.com/post/3maodpgqxic23" target="_blank">wsj.com</a> (2025-12-24 03:07:30)</span><span style="padding-right:50px;">US core capital goods orders, shipments increase in October reut.rs/44E0EKP <a href="https://bsky.app/profile/reuters.com/post/3maodlb7lyd2b" target="_blank">reuters.com</a> (2025-12-24 03:05:10)</span><span style="padding-right:50px;">The Department of Justice has been publicly posting files related to the Jeffrey Epstein investigation since Friday. n.pr/4jfepWm <a href="https://bsky.app/profile/npr.org/post/3maodh7e46k24" target="_blank">npr.org</a> (2025-12-24 03:02:54)</span><span style="padding-right:50px;">Need movies to see this holiday break? Watch these 25 at home now, including "One Battle After Another." All are free on your streaming services. <a href="https://bsky.app/profile/usatoday.com/post/3maodeeaup32f" target="_blank">usatoday.com</a> (2025-12-24 03:01:18)</span>
+<span style="padding-right:50px;">U.S. GDP grew much faster than expected in the third quarter. What that means for rate cuts in 2026 <a href="https://bsky.app/profile/cnbc.com/post/3maoerlhynh23" target="_blank">cnbc.com</a> (2025-12-24 03:26:36)</span><span style="padding-right:50px;">The Education Department said that it will resume garnishing the wages of student loan borrowers who are in default starting early next year on.wsj.com/45fqpRP <a href="https://bsky.app/profile/wsj.com/post/3maoeqjdbth2h" target="_blank">wsj.com</a> (2025-12-24 03:26:00)</span><span style="padding-right:50px;">Bank of Spain upgrades growth outlook but many Spaniards feel stretched reut.rs/4p5x5ZN <a href="https://bsky.app/profile/reuters.com/post/3maoeowz66z23" target="_blank">reuters.com</a> (2025-12-24 03:25:07)</span><span style="padding-right:50px;">Tanger CEO says retailers are 'discounting to meet the consumer' this holiday season <a href="https://bsky.app/profile/cnbc.com/post/3maoennohze2e" target="_blank">cnbc.com</a> (2025-12-24 03:24:24)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “The Trump administration had adopted policies condemning a sizable group of its core MAGA supporters — miners, firemen, manufacturing workers — to slow deaths from diseases that cut off their ability to breath,” Thomas B. Edsall writes. <a href="https://bsky.app/profile/nytimes.com/post/3maoefx3inj2b" target="_blank">nytimes.com</a> (2025-12-24 03:20:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48475.09 (🔺154.50 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23521.54 (🔺113.84 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.27 (🔺5.31 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.31 (🔻0.70 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48516.74 (🔺196.15 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23525.38 (🔺117.69 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 187.96 (🔺5.00 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔻0.72 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,96 +32,97 @@
 
 ## News Headlines
 
-- Japan's Land Self-Defense Forces' Aircraft Carrier Ohsu-ryu Sees Reduced Operational Rate
-- French Lawmakers Approve Spending Bill to Avoid Government Shutdown
-- US Core Capital Goods Orders and Shipments Rise in October
-- Jeffrey Epstein Investigation Files Released by US Department of Justice
-- Greta Thunberg Arrested at London Protest Supporting Palestine Action Hunger Strikers
-- Brazil's Bolsonaro to Undergo Hernia Surgery on Thursday
+- US GDP Grows Faster Than Expected, Boosting Rate Cut Hopes for 2026
+- Bank of Spain Boosts Growth Outlook, But Many Spaniards Feel Pinched
+- Tanger CEO Says Retailers Are Discounting to Meet Consumer Demand This Holiday Season
+- Climate Activist Greta Thunberg Arrested in London During Palestine Protest
+- FDA Approves First GLP-1 Pill for Weight Loss, Revolutionizing Obesity Treatment
+- US Manufacturing Output Remains Unchanged in November, Despite Recent Gains
 
 
 ----
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-陸自オスプレイ 平均稼働率40％切る状態続く 整備員不足課題
-https://news.web.nhk/newsweb/na/na-k10015012131000
+U.S. GDP grew much faster than expected in the third quarter. What that means for rate cuts in 2026
 
-[2025-12-24 03:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maodsaqjcz2y)
+[2025-12-24 03:26:36](https://bsky.app/profile/cnbc.com/post/3maoerlhynh23)
 
 ---
 
 @wsj.com
 
-French lawmakers are expected Tuesday to approve a bill averting a government shutdown after weeks of debate in Parliament failed to reach agreement on a new budget.
+The Education Department said that it will resume garnishing the wages of student loan borrowers who are in default starting early next year on.wsj.com/45fqpRP
 
-[2025-12-24 03:07:30](https://bsky.app/profile/wsj.com/post/3maodpgqxic23)
-
----
-
-@reuters.com
-
-US core capital goods orders, shipments increase in October reut.rs/44E0EKP
-
-[2025-12-24 03:05:10](https://bsky.app/profile/reuters.com/post/3maodlb7lyd2b)
-
----
-
-@npr.org
-
-The Department of Justice has been publicly posting files related to the Jeffrey Epstein investigation since Friday. n.pr/4jfepWm
-
-[2025-12-24 03:02:54](https://bsky.app/profile/npr.org/post/3maodh7e46k24)
-
----
-
-@usatoday.com
-
-Need movies to see this holiday break? Watch these 25 at home now, including "One Battle After Another." All are free on your streaming services.
-
-[2025-12-24 03:01:18](https://bsky.app/profile/usatoday.com/post/3maodeeaup32f)
-
----
-
-@nbcnews.com
-
-Climate activist Greta Thunberg is arrested in central London at a demonstration in support of Palestine Action hunger strikers. The Swedish activist was at the rally to support multiple members of the banned group who are currently in prison on remand and have been on strike since November 2nd.
-
-[2025-12-24 03:01:16](https://bsky.app/profile/nbcnews.com/post/3maodecaep723)
-
----
-
-@cnn.com
-
-Here are some of the most memorable findings in 2025 that provided answers to long-standing historical mysteries: https://cnn.it/3KZQL3y
-
-[2025-12-24 03:01:04](https://bsky.app/profile/cnn.com/post/3maoddwkura24)
+[2025-12-24 03:26:00](https://bsky.app/profile/wsj.com/post/3maoeqjdbth2h)
 
 ---
 
 @reuters.com
 
-Brazil's Bolsonaro to undergo hernia surgery on Thursday reut.rs/4pa9GGO
+Bank of Spain upgrades growth outlook but many Spaniards feel stretched reut.rs/4p5x5ZN
 
-[2025-12-24 03:00:49](https://bsky.app/profile/reuters.com/post/3maoddic6pb2r)
-
----
-
-@bloomberg.com
-
-The enhanced ACA subsidies are set to expire at the end of 2025, a change that could sharply raise premiums and leave millions without coverage. Congress is divided over whether to extend them. Here's what to know:
-
-[2025-12-24 03:00:33](https://bsky.app/profile/bloomberg.com/post/3maodcyuhrm2h)
+[2025-12-24 03:25:07](https://bsky.app/profile/reuters.com/post/3maoeowz66z23)
 
 ---
 
-@washingtonpost.com
+@cnbc.com
 
-The FDA has approved the first GLP-1 pill for weight loss, a milestone in the growth of the revolutionary drugs.
+Tanger CEO says retailers are 'discounting to meet the consumer' this holiday season
 
-Here's what you need to know:
+[2025-12-24 03:24:24](https://bsky.app/profile/cnbc.com/post/3maoennohze2e)
 
-[2025-12-24 03:00:30](https://bsky.app/profile/washingtonpost.com/post/3maodcwclrm2n)
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com 
+
+“The Trump administration had adopted policies condemning a sizable group of its core MAGA supporters — miners, firemen, manufacturing workers — to slow deaths from diseases that cut off their ability to breath,” Thomas B. Edsall writes.
+
+[2025-12-24 03:20:05](https://bsky.app/profile/nytimes.com/post/3maoefx3inj2b)
+
+---
+
+@reuters.com
+
+US manufacturing production unchanged in November reut.rs/4qgGzCG
+
+[2025-12-24 03:15:17](https://bsky.app/profile/reuters.com/post/3maoe5eiv752c)
+
+---
+
+@en.afp.com
+
+Manhattan's Le Petit Village restaurant is among a growing number of dining establishments in New York offering smaller portions at lower prices, as the prevalence of medications that reduce hunger like Ozempic grows. 
+u.afp.com/S8gJ
+
+[2025-12-24 03:15:05](https://bsky.app/profile/en.afp.com/post/3maoe4zksob2f)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+三重県 外国籍の県職員採用 来年度から取りやめる方向で検討
+https://news.web.nhk/newsweb/na/na-k10015012091000
+
+[2025-12-24 03:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maodxltmn62u)
+
+---
+
+@aljazeera.com
+
+Israeli Defence Minister Israel Katz has said the Israeli military “will never leave Gaza”, announcing plans to establish a “civilian-military army unit” to replace illegal Israeli settlements dismantled in 2005.
+
+[2025-12-24 03:11:36](https://bsky.app/profile/aljazeera.com/post/3maodwrnvg22o)
+
+---
+
+@reuters.com
+
+US dollar falters as markets focus on Fed easing over growth data reut.rs/4aOe0rV
+
+[2025-12-24 03:10:22](https://bsky.app/profile/reuters.com/post/3maodukt6mj2k)
 
 ---
 
