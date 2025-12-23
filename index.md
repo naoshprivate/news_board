@@ -1,9 +1,9 @@
-# [2025-12-23 17:10 updated](2025_12_23.md)
+# [2025-12-23 17:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">日本相撲協会100周年記念式典 八角理事長 次の100年に向け決意 https://news.web.nhk/newsweb/na/na-k10015011541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mancbek4e42b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 17:09:02)</span><span style="padding-right:50px;">Global investors turn to Chinese AI as Wall Street fears bubble reut.rs/44Kvn98 <a href="https://bsky.app/profile/reuters.com/post/3manc2erp6e2y" target="_blank">reuters.com</a> (2025-12-23 17:05:10)</span><span style="padding-right:50px;">The U.S. military said Monday that it had conducted another strike against a boat it said was smuggling drugs in the eastern Pacific Ocean, killing one person. n.pr/4p772S4 <a href="https://bsky.app/profile/npr.org/post/3manbx6iel42e" target="_blank">npr.org</a> (2025-12-23 17:03:23)</span><span style="padding-right:50px;">東京証券取引所がまとめた１２月１９日申し込み現在の２市場信用取引現在高（概算）は以下のとおり。 bit.ly/3Lb04O5 <a href="https://bsky.app/profile/japan.reuters.com/post/3manbwgrrpy25" target="_blank">japan.reuters.com</a> (2025-12-23 17:02:58)</span><span style="padding-right:50px;">マリオやヨッシー、燃え尽き症候群予防に効果か www.nikkei.com/article/DGXZQO...  イギリスと日本の研究チームは、ゲームを通じて驚きを感じると幸福感が高まり、燃え尽き症候群のリスクが下がると結論づけました。   燃え尽き症候群は長期化すると、うつ病に移行する可能性があります。研究者は「マリオやヨッシーは強力な解毒剤になり得る」とコメントしました。 <a href="https://bsky.app/profile/nikkei.com/post/3manbssbjel26" target="_blank">nikkei.com</a> (2025-12-23 17:00:56)</span>
+<span style="padding-right:50px;">J&J vows appeal after US jury hits it with record $1.5 billion talc cancer award reut.rs/4sbMNp8 <a href="https://bsky.app/profile/reuters.com/post/3mand62n4nk23" target="_blank">reuters.com</a> (2025-12-23 17:25:07)</span><span style="padding-right:50px;">教員採用の処分歴活用めぐり 松本文科相“実効性ある対策を” https://news.web.nhk/newsweb/na/na-k10015011501000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mand4ct54u2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 17:24:07)</span><span style="padding-right:50px;">鳥インフルエンザ 農水省が都道府県と緊急対策会議 https://news.web.nhk/newsweb/na/na-k10015011531000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mand46ntbo26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 17:24:02)</span><span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞リピーターが支えた万博 40万枚売れた通期パス、来場平均はなんと11.8回 (2025/12/23 17:15) #ニュース https://www.sankei.com/article/20251223-3D5LKATTARLL7H4VYASRS7JYBA/ <a href="https://bsky.app/profile/sokuho.news/post/3mancxr5lln25" target="_blank">sokuho.news</a> (2025-12-23 17:21:35)</span><span style="padding-right:50px;">パラリンピック スノーボード 代表内定選手が練習を公開 静岡 https://news.web.nhk/newsweb/na/na-k10015011511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mancwtcqal2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 17:21:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.00 (🔻1.01 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.02 (🔻0.99 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,116 +32,101 @@
 
 ## News Headlines
 
-- Japan Sumo Association Marks 100-Year Anniversary With Ceremonies
-- Global Investors Turn to Chinese AI Amid Wall Street Bubble Fears
-- US Military Conducts Another Strike Against Drug-Smuggling Boat in Eastern Pacific Ocean
-- Japanese and British Researchers Find Playing Video Games Can Reduce Burnout Risk
-- Vietnam's Communist Party Concludes Central Committee Meeting, Next Leadership Candidates Selected
-- Indonesia's Trade Minister Says All Major Issues with US Resolved, Trade Deal Possible Soon
-- Indian Government to Provide $450 Million Cyclone Relief Package to Sri Lanka
-- Uber, Lyft Partner with Baidu for Autonomous Taxi Testing in the UK
-- EU Plans Checks on Cheap Plastic Imports
-- Japanese Supermarkets See 9th Consecutive Month of Sales Growth
-- New Car Sales in Europe Rise for Fifth Month, Helped by Electric Vehicles
-- Three People Injured in Explosion at Nagoya University
-- US Economic Growth Likely Remained Strong in Third Quarter
-- Japan's Nikkei Average Rises Slightly on Day 3 of Trading
-- FDA Approves Danish Company's Obesity Treatment Drug
-- Ainslie Strikes Deal to Fund British America's Cup Bid
-- North Korea's Kim Jong-un Attends Hotel Opening in Tourist Area
-- Japanese Government to Finalize Budget for Next Year
-- US Department of Justice Faces Backlash Over Handling of Epstein Documents
-- European Markets Expected to Open Lower Before Christmas
-- Graduate Job Cuts Spell Doom for College Degrees
-- Sydney Stock Market Reaches New High, Ends Year on a High Note
+- US Jury Awards Johnson & Johnson $1.5 Billion in Talc Cancer Lawsuit
+- Education Ministry to Utilize Disciplinary Records for Teacher Hiring
+- Japan to Hold Emergency Meeting with Prefectures over Bird Flu Outbreak
+- Wegovy Maker Novo Nordisk Sees Shares Jump 6% After GLP-1 Pill Approval
+- Japan's Top Government Spokesman Calls for Effective Measures to Prevent Teacher Misconduct
+- HSBC's Ann Godbehere to Retire as Chair After Nelson's Appointment
 
 
 ----
 
+@reuters.com
+
+J&J vows appeal after US jury hits it with record $1.5 billion talc cancer award reut.rs/4sbMNp8
+
+[2025-12-23 17:25:07](https://bsky.app/profile/reuters.com/post/3mand62n4nk23)
+
+---
+
 @nhknewsunofficial.bsky.social
 
-日本相撲協会100周年記念式典 八角理事長 次の100年に向け決意
-https://news.web.nhk/newsweb/na/na-k10015011541000
+教員採用の処分歴活用めぐり 松本文科相“実効性ある対策を”
+https://news.web.nhk/newsweb/na/na-k10015011501000
 
-[2025-12-23 17:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mancbek4e42b)
+[2025-12-23 17:24:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mand4ct54u2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+鳥インフルエンザ 農水省が都道府県と緊急対策会議
+https://news.web.nhk/newsweb/na/na-k10015011531000
+
+[2025-12-23 17:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mand46ntbo26)
+
+---
+
+@sokuho.news
+
+🛎️産経より【独自】です。
+
+＜独自＞リピーターが支えた万博 40万枚売れた通期パス、来場平均はなんと11.8回
+(2025/12/23 17:15) #ニュース
+https://www.sankei.com/article/20251223-3D5LKATTARLL7H4VYASRS7JYBA/
+
+[2025-12-23 17:21:35](https://bsky.app/profile/sokuho.news/post/3mancxr5lln25)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+パラリンピック スノーボード 代表内定選手が練習を公開 静岡
+https://news.web.nhk/newsweb/na/na-k10015011511000
+
+[2025-12-23 17:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mancwtcqal2d)
+
+---
+
+@japan.reuters.com
+
+日銀が２３日に発表した１１月の基調的なインフレ率を捕捉するための３指標は、「加重中央値」と「最頻値」が前月からプラス幅を縮小した。一方、「刈込平均値」は横ばい。全体的にみれば前月から大きな変化はなく、基調的な物価の上昇に陰りはみられていない。 bit.ly/44HvEtl
+
+[2025-12-23 17:20:07](https://bsky.app/profile/japan.reuters.com/post/3mancv4rmuo2c)
 
 ---
 
 @reuters.com
 
-Global investors turn to Chinese AI as Wall Street fears bubble reut.rs/44Kvn98
+Spanish regulator sets 6.58% return for power grids for 2026-2031 reut.rs/4j8rXTo
 
-[2025-12-23 17:05:10](https://bsky.app/profile/reuters.com/post/3manc2erp6e2y)
-
----
-
-@npr.org
-
-The U.S. military said Monday that it had conducted another strike against a boat it said was smuggling drugs in the eastern Pacific Ocean, killing one person. n.pr/4p772S4
-
-[2025-12-23 17:03:23](https://bsky.app/profile/npr.org/post/3manbx6iel42e)
+[2025-12-23 17:15:10](https://bsky.app/profile/reuters.com/post/3mancmbigrk2r)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-東京証券取引所がまとめた１２月１９日申し込み現在の２市場信用取引現在高（概算）は以下のとおり。 bit.ly/3Lb04O5
+大川原化工機えん罪事件 警視庁公安部の捜査員3人改めて不起訴
+https://news.web.nhk/newsweb/na/na-k10015011571000
 
-[2025-12-23 17:02:58](https://bsky.app/profile/japan.reuters.com/post/3manbwgrrpy25)
-
----
-
-@nikkei.com
-
-マリオやヨッシー、燃え尽き症候群予防に効果か
-www.nikkei.com/article/DGXZQO...
-
-イギリスと日本の研究チームは、ゲームを通じて驚きを感じると幸福感が高まり、燃え尽き症候群のリスクが下がると結論づけました。
- 
-燃え尽き症候群は長期化すると、うつ病に移行する可能性があります。研究者は「マリオやヨッシーは強力な解毒剤になり得る」とコメントしました。
-
-[2025-12-23 17:00:56](https://bsky.app/profile/nikkei.com/post/3manbssbjel26)
+[2025-12-23 17:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mancm3qby52y)
 
 ---
 
 @japan.reuters.com
 
-ベトナム共産党は２３日、ハノイで２日間にわたり開催した中央委員会総会を終えた。トー・ラム書記長は閉幕演説で、次期指導部候補者の選定を完了したと述べた。具体的な氏名は公表されていない。 bit.ly/3YIbpZ0
+タイ財務省は２３日、オンラインでの金取引に対する課税導入を検討するとともに、取引量を制限する措置も検討すると発表した。 bit.ly/4jcADIC
 
-[2025-12-23 17:00:51](https://bsky.app/profile/japan.reuters.com/post/3manbsnnjwx22)
-
----
-
-@reuters.com
-
-Evenepoel seeking to 'break through ceiling' and challenge Pogacar reut.rs/4j7vS2S
-
-[2025-12-23 17:00:32](https://bsky.app/profile/reuters.com/post/3manbs4bi3w2y)
+[2025-12-23 17:14:51](https://bsky.app/profile/japan.reuters.com/post/3manclomt5627)
 
 ---
 
-@japan.reuters.com
+@cnbc.com
 
-インドネシアの対米関税交渉を率いるアイルランガ・ハルタルト経済担当調整相
- は、米国との間の「全ての重要な問題」は双方で解決済みであり、貿易協定は来年早々にも両国首脳によって署名される可能性があると述べた。米通商代表部（ＵＳＴＲ）のグリア代表と会談した後、２２日遅くにワシントンからインドネシアメディアとのビデオブリーフィングに応じた。 bit.ly/4b0jr6T
+Shares in Wegovy-maker Novo Nordisk pop 6% after GLP-1 pill approval
 
-[2025-12-23 17:00:24](https://bsky.app/profile/japan.reuters.com/post/3manbruccq32v)
-
----
-
-@nytimes.com
-
-Does creatine really work? Are LED face masks worth the money? Test your knowledge of bogus remedies and real treatments.
-
-[2025-12-23 17:00:05](https://bsky.app/profile/nytimes.com/post/3manbrccczq2y)
-
----
-
-@aljazeera.com
-
-The large-scale Russian attacks come two days after US-led peace talks end in Miami.
-
-[2025-12-23 17:00:02](https://bsky.app/profile/aljazeera.com/post/3manbr7ksg72z)
+[2025-12-23 17:12:45](https://bsky.app/profile/cnbc.com/post/3manchwhhz62g)
 
 ---
 
