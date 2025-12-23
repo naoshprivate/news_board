@@ -1,9 +1,9 @@
-# [2025-12-24 01:10 updated](2025_12_24.md)
+# [2025-12-24 01:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">At least five people were killed on Monday when a Mexican Navy medical plane crashed into Galveston Bay in Texas as it was flying a child with burns to a specialized pediatric hospital for treatment, Mexico’s president said on Tuesday. <a href="https://bsky.app/profile/nytimes.com/post/3mao53v3yla2a" target="_blank">nytimes.com</a> (2025-12-24 01:09:12)</span><span style="padding-right:50px;">Germany deports criminal to Syria as pressure mounts on migration reut.rs/3YEbCMS <a href="https://bsky.app/profile/reuters.com/post/3mao4une46k2i" target="_blank">reuters.com</a> (2025-12-24 01:05:08)</span><span style="padding-right:50px;"> Melting chocolate prices are a festive gift for the sweet-toothed ft.trib.al/n2kM9BW  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mao4raoebd2o" target="_blank">financialtimes.com</a> (2025-12-24 01:03:15)</span><span style="padding-right:50px;">With just a few gear upgrades and some canny strategies, you can make your experience not just tolerable, but maybe even a little luxurious on.wsj.com/49qd0J6 <a href="https://bsky.app/profile/wsj.com/post/3mao4qbxour2h" target="_blank">wsj.com</a> (2025-12-24 01:02:42)</span><span style="padding-right:50px;">The physician-scientist contributed to advances in understanding and treating the ailment now also called Hansen’s disease. on.wsj.com/4sgpOcI <a href="https://bsky.app/profile/wsj.com/post/3mao4qbzdxa2r" target="_blank">wsj.com</a> (2025-12-24 01:02:42)</span>
+<span style="padding-right:50px;">After Bari Weiss, the new CBS News editor in chief, abruptly postponed a segment of “60 Minutes” that was critical of the Trump administration, several veteran correspondents questioned how she had handled the segment after she defended her decision on a call with the newsroom. trib.al/nS4UDkt <a href="https://bsky.app/profile/nytimes.com/post/3mao65og5ys2f" target="_blank">nytimes.com</a> (2025-12-24 01:28:05)</span><span style="padding-right:50px;">Former Republican Sen. Ben Sasse announced that he’s been diagnosed with “metastasized, stage 4 pancreatic cancer, and am gonna die. https://cnn.it/45hqdBB <a href="https://bsky.app/profile/cnn.com/post/3mao64iv27x23" target="_blank">cnn.com</a> (2025-12-24 01:27:26)</span><span style="padding-right:50px;">Campari's top shareholder regains seized shares after tax deal reut.rs/48PY2Mq <a href="https://bsky.app/profile/reuters.com/post/3mao5yfqyfi2y" target="_blank">reuters.com</a> (2025-12-24 01:25:08)</span><span style="padding-right:50px;">Here are seven takeaways from the final episodes of “The End of an Era,” the Disney+ series exploring Taylor Swift’s globe-trotting concert extravaganza. <a href="https://bsky.app/profile/nytimes.com/post/3mao5pcuqqm2b" target="_blank">nytimes.com</a> (2025-12-24 01:20:03)</span><span style="padding-right:50px;">🇻🇳 Vietnam's Communist Party on Tuesday endorsed General Secretary To Lam to remain in the top job for the next five years, according to two sources briefed on a meeting where senior officials agreed a slate of candidates to be announced at the party congress in January.  ➡️ u.afp.com/S8g5 <a href="https://bsky.app/profile/en.afp.com/post/3mao5pb4ljt2j" target="_blank">en.afp.com</a> (2025-12-24 01:20:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48431.91 (🔺111.32 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23486.63 (🔺78.94 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 186.85 (🔺3.89 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.66 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48419.37 (🔺98.78 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23493.54 (🔺85.85 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 187.86 (🔺4.90 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.36 (🔻0.65 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,93 +32,95 @@
 
 ## News Headlines
 
-- At least 5 killed as Mexican Navy medical plane crashes into Texas bay
-- Germany deports criminal to Syria amid migration pressure
-- Melting chocolate prices bring sweet treats for consumers
-- US economy grows faster than expected in third quarter
-- Bangladesh summons Indian envoy over mob lynching of Hindu worker
-- US to start seizing pay of defaulted student loan borrowers in January
+- CBS News Editor in Chief Postpones Critical Segment of 60 Minutes Amid Trump Administration Criticism
+- Former Senator Ben Sasse Diagnosed with Terminal Pancreatic Cancer
+- Campari Shareholder Regains Seized Shares After Tax Deal
+- Vietnam's Communist Party Endorses General Secretary To Lam for Top Job
+- US Economy Grows Faster Than Expected in Third Quarter, But Momentum Fades
+- Trump Administration Announces Tariffs on Chinese Semiconductors Starting in 2027
 
 
 ----
 
 @nytimes.com
 
+After Bari Weiss, the new CBS News editor in chief, abruptly postponed a segment of “60 Minutes” that was critical of the Trump administration, several veteran correspondents questioned how she had handled the segment after she defended her decision on a call with the newsroom. trib.al/nS4UDkt
+
+[2025-12-24 01:28:05](https://bsky.app/profile/nytimes.com/post/3mao65og5ys2f)
+
+---
+
+@cnn.com
+
+Former Republican Sen. Ben Sasse announced that he’s been diagnosed with “metastasized, stage 4 pancreatic cancer, and am gonna die. https://cnn.it/45hqdBB
+
+[2025-12-24 01:27:26](https://bsky.app/profile/cnn.com/post/3mao64iv27x23)
+
+---
+
+@reuters.com
+
+Campari's top shareholder regains seized shares after tax deal reut.rs/48PY2Mq
+
+[2025-12-24 01:25:08](https://bsky.app/profile/reuters.com/post/3mao5yfqyfi2y)
+
+---
+
+@nytimes.com
+
+Here are seven takeaways from the final episodes of “The End of an Era,” the Disney+ series exploring Taylor Swift’s globe-trotting concert extravaganza.
+
+[2025-12-24 01:20:03](https://bsky.app/profile/nytimes.com/post/3mao5pcuqqm2b)
+
+---
+
+@en.afp.com
+
+🇻🇳 Vietnam's Communist Party on Tuesday endorsed General Secretary To Lam to remain in the top job for the next five years, according to two sources briefed on a meeting where senior officials agreed a slate of candidates to be announced at the party congress in January. 
+➡️ u.afp.com/S8g5
+
+[2025-12-24 01:20:02](https://bsky.app/profile/en.afp.com/post/3mao5pb4ljt2j)
+
+---
+
+@nytimes.com
+
+"A new winter favorite!" This lentil soup with smoked sausage and apples takes only a few minutes to throw together, and most of the time is spent in hands-off simmering time. nyti.ms/3KI43Sa
+
+[2025-12-24 01:19:02](https://bsky.app/profile/nytimes.com/post/3mao5nhrlbq25)
+
+---
+
+@reuters.com
+
+Tunisia's powerful union chief resigns, sources say, ahead of planned nationwide strike reut.rs/3MRTY5E
+
+[2025-12-24 01:15:15](https://bsky.app/profile/reuters.com/post/3mao5gpywfz2s)
+
+---
+
+@japan.reuters.com
+
+米商務省が２３日発表した第３・四半期の国内総生産（ＧＤＰ）速報値は年率換算で前期比４．３％増加し、伸びは
+ 第２・四半期の３．８％から加速した。旺盛な個人消費にけん引され、エコノミスト予想の３．３％を上回って成長。ただ、生活費の上昇のほか、この秋の政府機関の一部閉鎖などの影響で勢いは足元で鈍化している可能性がある。 bit.ly/48QNwEC
+
+[2025-12-24 01:10:16](https://bsky.app/profile/japan.reuters.com/post/3mao55sg2wv27)
+
+---
+
+@reuters.com
+
+TSX steady as financial gains offset mining losses; investors assess economic data reut.rs/4sd9Pfd
+
+[2025-12-24 01:10:10](https://bsky.app/profile/reuters.com/post/3mao55n6ir52r)
+
+---
+
+@nytimes.com
+
 At least five people were killed on Monday when a Mexican Navy medical plane crashed into Galveston Bay in Texas as it was flying a child with burns to a specialized pediatric hospital for treatment, Mexico’s president said on Tuesday.
 
 [2025-12-24 01:09:12](https://bsky.app/profile/nytimes.com/post/3mao53v3yla2a)
-
----
-
-@reuters.com
-
-Germany deports criminal to Syria as pressure mounts on migration reut.rs/3YEbCMS
-
-[2025-12-24 01:05:08](https://bsky.app/profile/reuters.com/post/3mao4une46k2i)
-
----
-
-@financialtimes.com
-
- Melting chocolate prices are a festive gift for the sweet-toothed ft.trib.al/n2kM9BW  | opinion
-
-[2025-12-24 01:03:15](https://bsky.app/profile/financialtimes.com/post/3mao4raoebd2o)
-
----
-
-@wsj.com
-
-With just a few gear upgrades and some canny strategies, you can make your experience not just tolerable, but maybe even a little luxurious on.wsj.com/49qd0J6
-
-[2025-12-24 01:02:42](https://bsky.app/profile/wsj.com/post/3mao4qbxour2h)
-
----
-
-@wsj.com
-
-The physician-scientist contributed to advances in understanding and treating the ailment now also called Hansen’s disease. on.wsj.com/4sgpOcI
-
-[2025-12-24 01:02:42](https://bsky.app/profile/wsj.com/post/3mao4qbzdxa2r)
-
----
-
-@reuters.com
-
-President Donald Trump reasserted on December 22 that the United States needs Greenland for national security and said a newly appointed special envoy would 'lead the charge,' drawing sharp criticism from Denmark and Greenland reut.rs/3MOf5G6
-
-[2025-12-24 01:02:14](https://bsky.app/profile/reuters.com/post/3mao4ph2kss2m)
-
----
-
-@usatoday.com
-
-Need movies to see this holiday break? Watch these 25 at home now, including "One Battle After Another." All are free on your streaming services.
-
-[2025-12-24 01:01:23](https://bsky.app/profile/usatoday.com/post/3mao4nwj6t22h)
-
----
-
-@washingtonpost.com
-
-Review: Every scene in “Marty Supreme” was high-stakes, propelling this compelling, unlikable man one step closer or further from a destiny you were never quite sure he deserved.
-
-[2025-12-24 01:00:50](https://bsky.app/profile/washingtonpost.com/post/3mao4mwjswz2d)
-
----
-
-@reuters.com
-
-South Korean president orders stern response to illegal fishing boats from China reut.rs/4qnr9wi
-
-[2025-12-24 01:00:42](https://bsky.app/profile/reuters.com/post/3mao4mopcky2b)
-
----
-
-@nbcnews.com
-
-A judge declares a mistrial in the corruption case of a former aide to New York governors, who sold her influence to China and profited from a medical equipment scheme during the pandemic, after jurors say they couldn't reach a verdict on the charges. 
-
-[2025-12-24 01:00:36](https://bsky.app/profile/nbcnews.com/post/3mao4mju7rl25)
 
 ---
 
