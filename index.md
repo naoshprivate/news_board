@@ -1,9 +1,9 @@
-# [2025-12-23 14:50 updated](2025_12_23.md)
+# [2025-12-23 15:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">An oversupply of the drink, reminiscent of the ‘whisky loch’ crisis of the 1980s, is heightening the risk of job cuts and distillery closures across Scotland. ft.trib.al/LXbPu9w <a href="https://bsky.app/profile/financialtimes.com/post/3man2csbqnn2b" target="_blank">financialtimes.com</a> (2025-12-23 14:46:43)</span><span style="padding-right:50px;">日銀が２３日に発表した１１月の基調的なインフレ率を捕捉するための３指標は、「加重中央値」と「最頻値」が前月からプラス幅を縮小した。一方、「刈込平均値」は横ばい。全体的にみれば前月から大きな変化はなく、基調的な物価の上昇に陰りはみられていない。 bit.ly/3KVwuMt <a href="https://bsky.app/profile/japan.reuters.com/post/3man26yeeya22" target="_blank">japan.reuters.com</a> (2025-12-23 14:44:35)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】民家火災で2人が救急搬送 JR周布駅近くの住宅密集地 島根県浜田市 (2025-12-23 14:39:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3man26nodw426" target="_blank">sokuho.news</a> (2025-12-23 14:44:23)</span><span style="padding-right:50px;">宇宙基本計画の新工程表決定 政府 1兆円規模の技術開発支援へ https://news.web.nhk/newsweb/na/na-k10015011381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3man22jcwjq22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 14:42:02)</span><span style="padding-right:50px;">European construction stocks face reality check after record run reut.rs/4saPHdD <a href="https://bsky.app/profile/reuters.com/post/3mamzx6hlzb2p" target="_blank">reuters.com</a> (2025-12-23 14:40:13)</span>
+<span style="padding-right:50px;">ブラジルのボルソナロ前大統領の長男フラビオ上院議員は１９日、ロイターのインタビューに応じ、出馬意向を表明している来年の大統領選について、父親より穏健な政策を掲げ、小さな政府、減税、民営化を実現することを計画していると述べた。 bit.ly/4pNPDyX <a href="https://bsky.app/profile/japan.reuters.com/post/3man3jvvzqc2q" target="_blank">japan.reuters.com</a> (2025-12-23 15:08:35)</span><span style="padding-right:50px;">Maple Leafs fire assistant coach Marc Savard reut.rs/4qnwXWM <a href="https://bsky.app/profile/reuters.com/post/3man3dpfyit2i" target="_blank">reuters.com</a> (2025-12-23 15:05:07)</span><span style="padding-right:50px;">午前中盤のインド株式市場は小動き。ＩＴ株の下落が重しとなった。アナリストによると、新たな手掛かりが少なく、年末の薄商いも相場の下げ要因となっている。 bit.ly/4p4GEYX <a href="https://bsky.app/profile/japan.reuters.com/post/3man3a5vvve2f" target="_blank">japan.reuters.com</a> (2025-12-23 15:03:08)</span><span style="padding-right:50px;">Singapore consumer inflation remains steady at 1.2% in November, missing estimates <a href="https://bsky.app/profile/cnbc.com/post/3man3a4e3ae2e" target="_blank">cnbc.com</a> (2025-12-23 15:03:06)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR阪和線 きょう2度目の運転見合わせ…車両・線路確認の影響で (2025-12-23 14:52) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3man34g2yd425" target="_blank">sokuho.news</a> (2025-12-23 15:01:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50372.32 (🔻2.16 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3421.00 (🔻58.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.03 (🔻0.98 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50363.15 (🔻11.33 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3421.00 (🔻58.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.04 (🔻0.96 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,97 +32,101 @@
 
 ## News Headlines
 
-- Scotland's whisky distilleries face job cuts and closures due to oversupply
-- Japan's fiscal woes may cause more yen falls and yield rises
-- Ukraine reports Russian air raid on Kyiv
-- Amazon blocks 1,800 job applications from suspected North Korean agents
-- US corporate bond sales near record high due to AI debt boom
-- Singapore's inflation rate lower than expected
+- Brazilian Former President's Son Announces Presidential Bid with Moderate Policies
+- Maple Leafs Fire Assistant Coach Marc Savard
+- Singapore Consumer Inflation Remains Steady at 1.2% in November
+- Oversupply of Whisky in Scotland Increases Risk of Job Cuts and Distillery Closures
+- Ukraine Drone Attack Sparks Fire at Industrial Site in Russia's Stavropol Region
+- US Treasury Department Chooses Different Coin Designs for America's 250th Anniversary
 
 
 ----
 
-@financialtimes.com
-
-An oversupply of the drink, reminiscent of the ‘whisky loch’ crisis of the 1980s, is heightening the risk of job cuts and distillery closures across Scotland. ft.trib.al/LXbPu9w
-
-[2025-12-23 14:46:43](https://bsky.app/profile/financialtimes.com/post/3man2csbqnn2b)
-
----
-
 @japan.reuters.com
 
-日銀が２３日に発表した１１月の基調的なインフレ率を捕捉するための３指標は、「加重中央値」と「最頻値」が前月からプラス幅を縮小した。一方、「刈込平均値」は横ばい。全体的にみれば前月から大きな変化はなく、基調的な物価の上昇に陰りはみられていない。 bit.ly/3KVwuMt
+ブラジルのボルソナロ前大統領の長男フラビオ上院議員は１９日、ロイターのインタビューに応じ、出馬意向を表明している来年の大統領選について、父親より穏健な政策を掲げ、小さな政府、減税、民営化を実現することを計画していると述べた。 bit.ly/4pNPDyX
 
-[2025-12-23 14:44:35](https://bsky.app/profile/japan.reuters.com/post/3man26yeeya22)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】民家火災で2人が救急搬送 JR周布駅近くの住宅密集地 島根県浜田市
-(2025-12-23 14:39:00) #ニュース
-
-[2025-12-23 14:44:23](https://bsky.app/profile/sokuho.news/post/3man26nodw426)
-
----
-
-@nhknewsunofficial.bsky.social
-
-宇宙基本計画の新工程表決定 政府 1兆円規模の技術開発支援へ
-https://news.web.nhk/newsweb/na/na-k10015011381000
-
-[2025-12-23 14:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3man22jcwjq22)
+[2025-12-23 15:08:35](https://bsky.app/profile/japan.reuters.com/post/3man3jvvzqc2q)
 
 ---
 
 @reuters.com
 
-European construction stocks face reality check after record run reut.rs/4saPHdD
+Maple Leafs fire assistant coach Marc Savard reut.rs/4qnwXWM
 
-[2025-12-23 14:40:13](https://bsky.app/profile/reuters.com/post/3mamzx6hlzb2p)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領は２２日、主要防衛関連企業と来週会談し、生産の遅れやコスト超過に対処すると発表した。 bit.ly/3Lc1HLo
-
-[2025-12-23 14:40:12](https://bsky.app/profile/japan.reuters.com/post/3mamzx5s6dq2u)
+[2025-12-23 15:05:07](https://bsky.app/profile/reuters.com/post/3man3dpfyit2i)
 
 ---
 
 @japan.reuters.com
 
-中国・香港株式市場は続伸して前場を終えた。非鉄金属株が上げを主導した。 bit.ly/3YGJ8SB
+午前中盤のインド株式市場は小動き。ＩＴ株の下落が重しとなった。アナリストによると、新たな手掛かりが少なく、年末の薄商いも相場の下げ要因となっている。 bit.ly/4p4GEYX
 
-[2025-12-23 14:38:06](https://bsky.app/profile/japan.reuters.com/post/3mamztg44dt2q)
+[2025-12-23 15:03:08](https://bsky.app/profile/japan.reuters.com/post/3man3a5vvve2f)
+
+---
+
+@cnbc.com
+
+Singapore consumer inflation remains steady at 1.2% in November, missing estimates
+
+[2025-12-23 15:03:06](https://bsky.app/profile/cnbc.com/post/3man3a4e3ae2e)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】JR阪和線 きょう2度目の運転見合わせ…車両・線路確認の影響で
+(2025-12-23 14:52) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-23 15:01:02](https://bsky.app/profile/sokuho.news/post/3man34g2yd425)
+
+---
+
+@reuters.com
+
+Ukrainian drone attack sparks fire at industrial site in Russia's Stavropol region, governor says reut.rs/498UROU
+
+[2025-12-23 15:00:41](https://bsky.app/profile/reuters.com/post/3man33shlqh2r)
 
 ---
 
 @japan.reuters.com
 
-米プロバスケットボール協会（ＮＢＡ）は２２日、各地で試合を行い、西地区首位のサンダーは１１９─１０３でグリズリーズに快勝した。 bit.ly/4jevijY
+米有力右派シンクタンク、ヘリテージ財団は過去数日で十数人の職員が辞職したり、解雇されたりしたと明らかにした。同財団は反ユダヤ主義とされる人物と同調していると元支持者から批判されている。 bit.ly/498Up3a
 
-[2025-12-23 14:33:53](https://bsky.app/profile/japan.reuters.com/post/3mamzltvveq2v)
+[2025-12-23 15:00:30](https://bsky.app/profile/japan.reuters.com/post/3man33h2u342f)
+
+---
+
+@washingtonpost.com
+
+The U.S. Citizens Coinage Advisory Committee settled on five options for coins marking America’s 250th anniversary, including Frederick Douglass and Ruby Bridges.
+
+But the Treasury Department instead will include George Washington, Thomas Jefferson and Abraham Lincoln. https://wapo.st/49c6WCU
+
+[2025-12-23 15:00:13](https://bsky.app/profile/washingtonpost.com/post/3man32wp2ts24)
+
+---
+
+@aljazeera.com
+
+Follow the news? Take our quiz to see if you can locate some of the biggest stories of 2025.
+
+[2025-12-23 15:00:04](https://bsky.app/profile/aljazeera.com/post/3man32olrkl2i)
 
 ---
 
 @japan.reuters.com
 
-＜１４：００＞　後場の日経平均は１００円超安、主力株がクリスマス前の手じまい売り bit.ly/4sc8ghM
+格付け会社フィッチは２２日、外部の民間債権者の大半との関係が正常化したことを受け、ウクライナの長期外貨建てソブリン格付けを「制限付きデフォルト」（ＲＤ）から「ＣＣＣ」に引き上げた。ウクライナは先週１８日、国内総生産（ＧＤＰ）連動ワラント債（経済成長が一定水準を超えると返済額が上乗せされる債券）の２６億ドル規模の債務再編について合意した。 bit.ly/3MPxN08
 
-[2025-12-23 14:32:43](https://bsky.app/profile/japan.reuters.com/post/3mamzjrk4dz25)
-
----
-
-@financialtimes.com
-
- Nuclear fusion is a brainteaser for investors as well as scientists ft.trib.al/FK8PxQP  | opinion
-
-[2025-12-23 14:31:16](https://bsky.app/profile/financialtimes.com/post/3mamzh6m7iu2k)
+[2025-12-23 14:56:28](https://bsky.app/profile/japan.reuters.com/post/3man2uazdzs2q)
 
 ---
 
