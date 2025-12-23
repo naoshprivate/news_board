@@ -1,9 +1,9 @@
-# [2025-12-23 14:30 updated](2025_12_23.md)
+# [2025-12-23 14:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ウクライナ軍は、ロシアが２３日早朝にキーウへの空爆を開始したと発表した。 bit.ly/4j7W5yg <a href="https://bsky.app/profile/japan.reuters.com/post/3mamz6betpw27" target="_blank">japan.reuters.com</a> (2025-12-23 14:26:17)</span><span style="padding-right:50px;">The Powerball jackpot has jumped to an eye-popping $1.7 billion after yet another drawing passed without a big winner. <a href="https://bsky.app/profile/apnews.com/post/3mamyyuisb42r" target="_blank">apnews.com</a> (2025-12-23 14:23:16)</span><span style="padding-right:50px;">トランプ政権 約30か国の大使や幹部に配置転換通告 米メディア https://news.web.nhk/newsweb/na/na-k10015011391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamyuy5scz2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 14:21:03)</span><span style="padding-right:50px;">上海外国為替市場の人民元相場は、中国人民銀行（中央銀行）が元高を警戒する中で、幅広く下落するドルに対し１年３カ月ぶりの高値まで上昇した。 bit.ly/45hSSX5 <a href="https://bsky.app/profile/japan.reuters.com/post/3mamyuj62vh2c" target="_blank">japan.reuters.com</a> (2025-12-23 14:20:49)</span><span style="padding-right:50px;">米配車大手ウーバー・テクノロジーズとリフトは２２日、中国の百度（バイドゥ） と提携し、来年英国で自動運転タクシーの試験運行を開始すると発表した。百度の自動運転車両「アポロ・ゴーＲＴ６」が両社の配車プラットフォームに導入される。英国は自動運転タクシー商業化に向けた試験の場として存在感を強める。 bit.ly/3LfhSYk <a href="https://bsky.app/profile/japan.reuters.com/post/3mamytfgnro27" target="_blank">japan.reuters.com</a> (2025-12-23 14:20:12)</span>
+<span style="padding-right:50px;">An oversupply of the drink, reminiscent of the ‘whisky loch’ crisis of the 1980s, is heightening the risk of job cuts and distillery closures across Scotland. ft.trib.al/LXbPu9w <a href="https://bsky.app/profile/financialtimes.com/post/3man2csbqnn2b" target="_blank">financialtimes.com</a> (2025-12-23 14:46:43)</span><span style="padding-right:50px;">日銀が２３日に発表した１１月の基調的なインフレ率を捕捉するための３指標は、「加重中央値」と「最頻値」が前月からプラス幅を縮小した。一方、「刈込平均値」は横ばい。全体的にみれば前月から大きな変化はなく、基調的な物価の上昇に陰りはみられていない。 bit.ly/3KVwuMt <a href="https://bsky.app/profile/japan.reuters.com/post/3man26yeeya22" target="_blank">japan.reuters.com</a> (2025-12-23 14:44:35)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】民家火災で2人が救急搬送 JR周布駅近くの住宅密集地 島根県浜田市 (2025-12-23 14:39:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3man26nodw426" target="_blank">sokuho.news</a> (2025-12-23 14:44:23)</span><span style="padding-right:50px;">宇宙基本計画の新工程表決定 政府 1兆円規模の技術開発支援へ https://news.web.nhk/newsweb/na/na-k10015011381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3man22jcwjq22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 14:42:02)</span><span style="padding-right:50px;">European construction stocks face reality check after record run reut.rs/4saPHdD <a href="https://bsky.app/profile/reuters.com/post/3mamzx6hlzb2p" target="_blank">reuters.com</a> (2025-12-23 14:40:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50274.66 (🔻99.82 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3414.00 (🔻65.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.91 (🔻1.10 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50372.32 (🔻2.16 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3421.00 (🔻58.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.03 (🔻0.98 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,94 +32,97 @@
 
 ## News Headlines
 
-- Ukraine reports Russian air strikes on Kyiv
-- US Powerball jackpot surges to $1.7 billion
-- Dollar surges to 1-year high against yen in Shanghai
-- Uber and Lyft partner with Baidu for self-driving taxi tests in UK
-- Singapore core inflation rate lower than expected in November
-- Private credit firms pile into consumer debt, increasing risk
+- Scotland's whisky distilleries face job cuts and closures due to oversupply
+- Japan's fiscal woes may cause more yen falls and yield rises
+- Ukraine reports Russian air raid on Kyiv
+- Amazon blocks 1,800 job applications from suspected North Korean agents
+- US corporate bond sales near record high due to AI debt boom
+- Singapore's inflation rate lower than expected
 
 
 ----
 
-@japan.reuters.com
+@financialtimes.com
 
-ウクライナ軍は、ロシアが２３日早朝にキーウへの空爆を開始したと発表した。 bit.ly/4j7W5yg
+An oversupply of the drink, reminiscent of the ‘whisky loch’ crisis of the 1980s, is heightening the risk of job cuts and distillery closures across Scotland. ft.trib.al/LXbPu9w
 
-[2025-12-23 14:26:17](https://bsky.app/profile/japan.reuters.com/post/3mamz6betpw27)
+[2025-12-23 14:46:43](https://bsky.app/profile/financialtimes.com/post/3man2csbqnn2b)
 
 ---
 
-@apnews.com
+@japan.reuters.com
 
-The Powerball jackpot has jumped to an eye-popping $1.7 billion after yet another drawing passed without a big winner.
+日銀が２３日に発表した１１月の基調的なインフレ率を捕捉するための３指標は、「加重中央値」と「最頻値」が前月からプラス幅を縮小した。一方、「刈込平均値」は横ばい。全体的にみれば前月から大きな変化はなく、基調的な物価の上昇に陰りはみられていない。 bit.ly/3KVwuMt
 
-[2025-12-23 14:23:16](https://bsky.app/profile/apnews.com/post/3mamyyuisb42r)
+[2025-12-23 14:44:35](https://bsky.app/profile/japan.reuters.com/post/3man26yeeya22)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】民家火災で2人が救急搬送 JR周布駅近くの住宅密集地 島根県浜田市
+(2025-12-23 14:39:00) #ニュース
+
+[2025-12-23 14:44:23](https://bsky.app/profile/sokuho.news/post/3man26nodw426)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-トランプ政権 約30か国の大使や幹部に配置転換通告 米メディア
-https://news.web.nhk/newsweb/na/na-k10015011391000
+宇宙基本計画の新工程表決定 政府 1兆円規模の技術開発支援へ
+https://news.web.nhk/newsweb/na/na-k10015011381000
 
-[2025-12-23 14:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamyuy5scz2b)
-
----
-
-@japan.reuters.com
-
-上海外国為替市場の人民元相場は、中国人民銀行（中央銀行）が元高を警戒する中で、幅広く下落するドルに対し１年３カ月ぶりの高値まで上昇した。 bit.ly/45hSSX5
-
-[2025-12-23 14:20:49](https://bsky.app/profile/japan.reuters.com/post/3mamyuj62vh2c)
-
----
-
-@japan.reuters.com
-
-米配車大手ウーバー・テクノロジーズとリフトは２２日、中国の百度（バイドゥ） と提携し、来年英国で自動運転タクシーの試験運行を開始すると発表した。百度の自動運転車両「アポロ・ゴーＲＴ６」が両社の配車プラットフォームに導入される。英国は自動運転タクシー商業化に向けた試験の場として存在感を強める。 bit.ly/3LfhSYk
-
-[2025-12-23 14:20:12](https://bsky.app/profile/japan.reuters.com/post/3mamytfgnro27)
+[2025-12-23 14:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3man22jcwjq22)
 
 ---
 
 @reuters.com
 
-Singapore core inflation at 1.2% y/y in November, lower than expected reut.rs/44Iuqy2
+European construction stocks face reality check after record run reut.rs/4saPHdD
 
-[2025-12-23 14:20:10](https://bsky.app/profile/reuters.com/post/3mamyte4zyb2s)
-
----
-
-@financialtimes.com
-
-Private credit firms pile into consumer debt as risk-taking mounts ft.trib.al/8NjlAws
-
-[2025-12-23 14:18:46](https://bsky.app/profile/financialtimes.com/post/3mamyqsyzjn2f)
-
----
-
-@financialtimes.com
-
-John Elkann’s year to forget: a pile-up of problems from family to Ferrari ft.trib.al/X0rQvnI
-
-[2025-12-23 14:16:30](https://bsky.app/profile/financialtimes.com/post/3mamyms2cnh2y)
+[2025-12-23 14:40:13](https://bsky.app/profile/reuters.com/post/3mamzx6hlzb2p)
 
 ---
 
 @japan.reuters.com
 
-米国が１１月下旬から西アフリカのナイジェリア上空で情報収集飛行を実施していることが飛行追跡データや米政府高官の話で分かった。トランプ大統領は１１月初め、ナイジェリア政府が国内のキリスト教徒を保護していないとして軍事行動の可能性を示唆している。 bit.ly/49bTqix
+トランプ米大統領は２２日、主要防衛関連企業と来週会談し、生産の遅れやコスト超過に対処すると発表した。 bit.ly/3Lc1HLo
 
-[2025-12-23 14:14:19](https://bsky.app/profile/japan.reuters.com/post/3mamyiutmp42p)
+[2025-12-23 14:40:12](https://bsky.app/profile/japan.reuters.com/post/3mamzx5s6dq2u)
+
+---
+
+@japan.reuters.com
+
+中国・香港株式市場は続伸して前場を終えた。非鉄金属株が上げを主導した。 bit.ly/3YGJ8SB
+
+[2025-12-23 14:38:06](https://bsky.app/profile/japan.reuters.com/post/3mamztg44dt2q)
+
+---
+
+@japan.reuters.com
+
+米プロバスケットボール協会（ＮＢＡ）は２２日、各地で試合を行い、西地区首位のサンダーは１１９─１０３でグリズリーズに快勝した。 bit.ly/4jevijY
+
+[2025-12-23 14:33:53](https://bsky.app/profile/japan.reuters.com/post/3mamzltvveq2v)
+
+---
+
+@japan.reuters.com
+
+＜１４：００＞　後場の日経平均は１００円超安、主力株がクリスマス前の手じまい売り bit.ly/4sc8ghM
+
+[2025-12-23 14:32:43](https://bsky.app/profile/japan.reuters.com/post/3mamzjrk4dz25)
 
 ---
 
 @financialtimes.com
 
-House prices fall in half of London boroughs ft.trib.al/ZAJ6pqQ
+ Nuclear fusion is a brainteaser for investors as well as scientists ft.trib.al/FK8PxQP  | opinion
 
-[2025-12-23 14:12:14](https://bsky.app/profile/financialtimes.com/post/3mamyf5qsrr24)
+[2025-12-23 14:31:16](https://bsky.app/profile/financialtimes.com/post/3mamzh6m7iu2k)
 
 ---
 
