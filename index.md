@@ -1,9 +1,9 @@
-# [2025-12-24 08:30 updated](2025_12_24.md)
+# [2025-12-24 08:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The data, which was delayed from October by the government shutdown, comes as the economy takes center stage for voters and the Trump administration. n.pr/3KKykQj <a href="https://bsky.app/profile/npr.org/post/3maovnc7u462n" target="_blank">npr.org</a> (2025-12-24 08:28:26)</span><span style="padding-right:50px;">An airplane has, for the first time, automatically landed itself after an in-flight emergency, according to the system’s manufacturer.  <a href="https://bsky.app/profile/cnn.com/post/3maovkryrby2k" target="_blank">cnn.com</a> (2025-12-24 08:27:01)</span><span style="padding-right:50px;">ロンドン金属取引所（ＬＭＥ）の銅価格の指標となる銅３カ月先物が２３日、一時１トン＝１万２１５９．５０ドルと過去最高値を更新し、１万２０００ドルの大台を突破した。年末の薄商いの中で、供給が逼迫するとの見方やドル下落を背景に投機的な買いが膨らんだのが要因。 bit.ly/4qj6klK <a href="https://bsky.app/profile/japan.reuters.com/post/3maovjrlf6y2f" target="_blank">japan.reuters.com</a> (2025-12-24 08:26:27)</span><span style="padding-right:50px;">Spirit sign D Gabby Carle through 2029 season reut.rs/4pU004s <a href="https://bsky.app/profile/reuters.com/post/3maovhgb5mb2i" target="_blank">reuters.com</a> (2025-12-24 08:25:08)</span><span style="padding-right:50px;">Emerging markets had a bumper year — here’s what could be in store in 2026 <a href="https://bsky.app/profile/cnbc.com/post/3maovfnys472e" target="_blank">cnbc.com</a> (2025-12-24 08:24:10)</span>
+<span style="padding-right:50px;">Hosting a dinner party doesn’t have to be a strain on your wallet. These recipes are both delicious and affordable. <a href="https://bsky.app/profile/nytimes.com/post/3maowqdkrku26" target="_blank">nytimes.com</a> (2025-12-24 08:48:01)</span><span style="padding-right:50px;">Argentina anota déficit de cuenta corriente por 1.581 mln dlr en 3er trim: Gobierno reut.rs/3MJcxZV <a href="https://bsky.app/profile/reuters.com/post/3maowlghbgx2s" target="_blank">reuters.com</a> (2025-12-24 08:45:16)</span><span style="padding-right:50px;">Crisis in India-Bangladesh relations spirals amid violent protests <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maowilrdph2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-24 08:43:41)</span><span style="padding-right:50px;">米連邦人事管理局（ＯＰＭ）のクポー局長は２３日、トランプ政権が立ち上げるハイテク技術者向けの人材プログラム「テックフォース」に、約２万５０００人が参加に関心を示していると明らかにした。 bit.ly/4paLDrd <a href="https://bsky.app/profile/japan.reuters.com/post/3maowcnppot2q" target="_blank">japan.reuters.com</a> (2025-12-24 08:40:22)</span><span style="padding-right:50px;">Browns RB Quinshon Judkins on IR after fibula/ankle surgery reut.rs/3Y6nwyZ <a href="https://bsky.app/profile/reuters.com/post/3maowcjipob2b" target="_blank">reuters.com</a> (2025-12-24 08:40:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.14 (🔻0.04 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.23 (🔺0.05 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,95 +32,93 @@
 
 ## News Headlines
 
-- US Economy Takes Center Stage for Voters as Shutdown Delayed GDP Data
-- Airplane Automatically Lands After In-Flight Emergency for First Time
-- Copper Price Hits Record High as Supply Concerns and Dollar Weakness Fuel Speculation
-- Venezuela Opposition Leader María Corina Machado Escapes Military Checkpoints
-- UN Security Council Holds Emergency Meeting on Venezuela Crisis
-- Pope Francis Expresses Sadness Over Russia's Rejection of Christmas Truce in Ukraine War
+- Argentine economy posts 1.581 million USD current account deficit in third quarter
+- India-Bangladesh relations spiral amid violent protests
+- Over 25,000 people interested in US tech program: Federal agency
+- Body of missing 9-year-old California girl found, mother arrested
+- US stocks surge as S&P 500 posts record close
+- UN Security Council holds emergency meeting on Venezuela crisis
 
 
 ----
 
-@npr.org
+@nytimes.com
 
-The data, which was delayed from October by the government shutdown, comes as the economy takes center stage for voters and the Trump administration. n.pr/3KKykQj
+Hosting a dinner party doesn’t have to be a strain on your wallet. These recipes are both delicious and affordable.
 
-[2025-12-24 08:28:26](https://bsky.app/profile/npr.org/post/3maovnc7u462n)
-
----
-
-@cnn.com
-
-An airplane has, for the first time, automatically landed itself after an in-flight emergency, according to the system’s manufacturer. 
-
-[2025-12-24 08:27:01](https://bsky.app/profile/cnn.com/post/3maovkryrby2k)
-
----
-
-@japan.reuters.com
-
-ロンドン金属取引所（ＬＭＥ）の銅価格の指標となる銅３カ月先物が２３日、一時１トン＝１万２１５９．５０ドルと過去最高値を更新し、１万２０００ドルの大台を突破した。年末の薄商いの中で、供給が逼迫するとの見方やドル下落を背景に投機的な買いが膨らんだのが要因。 bit.ly/4qj6klK
-
-[2025-12-24 08:26:27](https://bsky.app/profile/japan.reuters.com/post/3maovjrlf6y2f)
+[2025-12-24 08:48:01](https://bsky.app/profile/nytimes.com/post/3maowqdkrku26)
 
 ---
 
 @reuters.com
 
-Spirit sign D Gabby Carle through 2029 season reut.rs/4pU004s
+Argentina anota déficit de cuenta corriente por 1.581 mln dlr en 3er trim: Gobierno reut.rs/3MJcxZV
 
-[2025-12-24 08:25:08](https://bsky.app/profile/reuters.com/post/3maovhgb5mb2i)
-
----
-
-@cnbc.com
-
-Emerging markets had a bumper year — here’s what could be in store in 2026
-
-[2025-12-24 08:24:10](https://bsky.app/profile/cnbc.com/post/3maovfnys472e)
+[2025-12-24 08:45:16](https://bsky.app/profile/reuters.com/post/3maowlghbgx2s)
 
 ---
 
-@wsj.com
+@bbcnews-world-rss.bsky.social
 
-María Corina Machado, Venezuela’s opposition leader, slipped through 10 military checkpoints to reach a fishing boat bound for Curaçao and a private jet headed to Norway.
+Crisis in India-Bangladesh relations spirals amid violent protests
 
-Read more about the Nobel Peace Prize Winner's journey: 🔗 on.wsj.com/4qj1XHm
-
-[2025-12-24 08:23:48](https://bsky.app/profile/wsj.com/post/3maovezqxdr2h)
-
----
-
-@cnbc.com
-
-China’s mineral dominance gives Western magnet makers a moment in the sun
-
-[2025-12-24 08:23:01](https://bsky.app/profile/cnbc.com/post/3maovdmqvdb2p)
+[2025-12-24 08:43:41](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maowilrdph2r)
 
 ---
 
 @japan.reuters.com
 
-国連安全保障理事会は２３日、ベネズエラ情勢を巡る緊急会合を開催した。米国はマドゥロ大統領から資金源を奪うために「最大限」の制裁を科すと表明。一方、ロシアは他の中南米諸国が米国の次の標的になる可能性があると警告した。 bit.ly/3MZloXg
+米連邦人事管理局（ＯＰＭ）のクポー局長は２３日、トランプ政権が立ち上げるハイテク技術者向けの人材プログラム「テックフォース」に、約２万５０００人が参加に関心を示していると明らかにした。 bit.ly/4paLDrd
 
-[2025-12-24 08:20:49](https://bsky.app/profile/japan.reuters.com/post/3maov7p3c542u)
+[2025-12-24 08:40:22](https://bsky.app/profile/japan.reuters.com/post/3maowcnppot2q)
+
+---
+
+@reuters.com
+
+Browns RB Quinshon Judkins on IR after fibula/ankle surgery reut.rs/3Y6nwyZ
+
+[2025-12-24 08:40:18](https://bsky.app/profile/reuters.com/post/3maowcjipob2b)
+
+---
+
+@cbsnews.com
+
+Body of missing 9-year-old California girl Melodee Buzzard found, mother arrested, officials say.
+
+[2025-12-24 08:40:09](https://bsky.app/profile/cbsnews.com/post/3maowcbn2ae2j)
 
 ---
 
 @japan.reuters.com
 
-＜為替＞　クリスマスを控えた薄商いの中、ドルが円やユーロなどの主要通貨に対し下落した。第３・四半期の米経済成長率が予想を上回ったものの、連邦準備理事会（ＦＲＢ）に対する利下げ圧力が意識されていることがドル相場の重しになっている。 bit.ly/4pSQWwN
+＜０８：００＞　ドル155.40─157.10円の見通し、値動き鈍い bit.ly/4977lWZ
 
-[2025-12-24 08:20:25](https://bsky.app/profile/japan.reuters.com/post/3maov6xgrip2q)
+[2025-12-24 08:38:43](https://bsky.app/profile/japan.reuters.com/post/3maow7os6er26)
+
+---
+
+@reuters.com
+
+Real Madrid forward Endrick makes loan move to Lyon reut.rs/49pQwYO
+
+[2025-12-24 08:35:09](https://bsky.app/profile/reuters.com/post/3maovzcvx6r2b)
 
 ---
 
 @japan.reuters.com
 
-ローマ教皇レオは２３日、ロシアが対ウクライナ戦争でクリスマスの停戦要請を拒否したことに「大きな悲しみ」を感じていると記者団に語った。 bit.ly/4pLGQxw
+＜０８：２１＞　寄り前の板状況、ＴＯＡが買い優勢　立花エレテックは売り優勢 bit.ly/4jc92ap
 
-[2025-12-24 08:18:37](https://bsky.app/profile/japan.reuters.com/post/3maov3qrpf222)
+[2025-12-24 08:32:08](https://bsky.app/profile/japan.reuters.com/post/3maovtwrinx25)
+
+---
+
+@japan.reuters.com
+
+米国株式市場は続伸。Ｓ＆Ｐ総合５００種は終値で最高値を更新した。国内総生産（ＧＤＰ）統計を受けてグロース（成長）株が買われた。 bit.ly/44GE0l5
+
+[2025-12-24 08:30:57](https://bsky.app/profile/japan.reuters.com/post/3maovrsdu2m2u)
 
 ---
 
