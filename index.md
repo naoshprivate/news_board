@@ -1,9 +1,9 @@
-# [2025-12-23 17:30 updated](2025_12_23.md)
+# [2025-12-23 17:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">J&J vows appeal after US jury hits it with record $1.5 billion talc cancer award reut.rs/4sbMNp8 <a href="https://bsky.app/profile/reuters.com/post/3mand62n4nk23" target="_blank">reuters.com</a> (2025-12-23 17:25:07)</span><span style="padding-right:50px;">教員採用の処分歴活用めぐり 松本文科相“実効性ある対策を” https://news.web.nhk/newsweb/na/na-k10015011501000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mand4ct54u2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 17:24:07)</span><span style="padding-right:50px;">鳥インフルエンザ 農水省が都道府県と緊急対策会議 https://news.web.nhk/newsweb/na/na-k10015011531000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mand46ntbo26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 17:24:02)</span><span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞リピーターが支えた万博 40万枚売れた通期パス、来場平均はなんと11.8回 (2025/12/23 17:15) #ニュース https://www.sankei.com/article/20251223-3D5LKATTARLL7H4VYASRS7JYBA/ <a href="https://bsky.app/profile/sokuho.news/post/3mancxr5lln25" target="_blank">sokuho.news</a> (2025-12-23 17:21:35)</span><span style="padding-right:50px;">パラリンピック スノーボード 代表内定選手が練習を公開 静岡 https://news.web.nhk/newsweb/na/na-k10015011511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mancwtcqal2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 17:21:03)</span>
+<span style="padding-right:50px;">政府は、近く閣議決定する２０２６年度一般会計予算案で、国債利払いの想定金利を３％程度とする方向で調整に入った。複数の政府筋が明らかにした。日銀の利上げなどで市中利回りが上昇基調にある現状を踏まえ、１９９７年度の３．２％以来２９年ぶりの高水準とする。 bit.ly/4sbP2sA <a href="https://bsky.app/profile/japan.reuters.com/post/3manebxg7le2q" target="_blank">japan.reuters.com</a> (2025-12-23 17:45:12)</span><span style="padding-right:50px;">Indonesia expects normal wet season in 2026, weather agency says reut.rs/498GgTB <a href="https://bsky.app/profile/reuters.com/post/3manebx4wuy2k" target="_blank">reuters.com</a> (2025-12-23 17:45:11)</span><span style="padding-right:50px;">ブラジルのボルソナロ前大統領の長男フラビオ上院議員は１９日、ロイターのインタビューに応じ、出馬意向を表明している来年の大統領選について、父親より穏健な政策を掲げ、小さな政府、減税、民営化を実現することを計画していると述べた。 bit.ly/4sbo30f <a href="https://bsky.app/profile/japan.reuters.com/post/3mandywcm472c" target="_blank">japan.reuters.com</a> (2025-12-23 17:40:09)</span><span style="padding-right:50px;">Brock Purdy's 5-TD night powers 49ers past Colts reut.rs/3MWd5vm <a href="https://bsky.app/profile/reuters.com/post/3mandyvz4gt2r" target="_blank">reuters.com</a> (2025-12-23 17:40:08)</span><span style="padding-right:50px;">スペイン国家統計局が２３日発表した第３・四半期の国内総生産（ＧＤＰ）改定値は前期比０．６％増だった。速報値から修正はなかった。 bit.ly/48U2ppG <a href="https://bsky.app/profile/japan.reuters.com/post/3mandwcbc7e2q" target="_blank">japan.reuters.com</a> (2025-12-23 17:38:41)</span>
   </div>
 </div>
 
@@ -32,101 +32,116 @@
 
 ## News Headlines
 
-- US Jury Awards Johnson & Johnson $1.5 Billion in Talc Cancer Lawsuit
-- Education Ministry to Utilize Disciplinary Records for Teacher Hiring
-- Japan to Hold Emergency Meeting with Prefectures over Bird Flu Outbreak
-- Wegovy Maker Novo Nordisk Sees Shares Jump 6% After GLP-1 Pill Approval
-- Japan's Top Government Spokesman Calls for Effective Measures to Prevent Teacher Misconduct
-- HSBC's Ann Godbehere to Retire as Chair After Nelson's Appointment
+- Japan's government sets 3% expected bond yield for 2026 budget
+- US Treasury yields decline ahead of key debt auctions
+- Brazil's Lula da Silva's son reveals plans for a more moderate presidency
+- Spain's GDP grows 0.6% in Q3, beating expectations
+- US Treasury yields decline ahead of key debt auctions
+- US Treasury yields decline ahead of key debt auctions
+- US Treasury yields decline ahead of key debt auctions
+- US Treasury yields decline ahead of key debt auctions
+- US Treasury yields decline ahead of key debt auctions
+- Indonesia expects normal wet season in 2026, weather agency says
+- Heavy rain and flash flooding hit northern California, one death confirmed
+- Gold price surges to record high, silver also reaches new high
+- Thai government considers taxing online gold transactions
+- Novo Nordisk's shares surge 6% on approval of GLP-1 pill
+- China's foreign ministry urges US to take responsibility for nuclear disarmament
+- Japan's government to introduce emergency legislation to avoid shutdown
+- HSBC's Ann Godbehere to retire as chair search ends with Nelson's appointment
+- French government seeks emergency legislation to avoid shutdown
+- US military conducts strike against suspected drug-smuggling boat
+- Tokyo Stock Exchange releases market credit data
+- Research suggests video games can prevent burnout and depression
+- Vietnam's Communist Party concludes Central Committee meeting
+- Evenepoel seeks to challenge Pogacar in Tour de France
+- Indonesia's trade minister says trade agreement with US nearing completion
 
 
 ----
 
-@reuters.com
-
-J&J vows appeal after US jury hits it with record $1.5 billion talc cancer award reut.rs/4sbMNp8
-
-[2025-12-23 17:25:07](https://bsky.app/profile/reuters.com/post/3mand62n4nk23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-教員採用の処分歴活用めぐり 松本文科相“実効性ある対策を”
-https://news.web.nhk/newsweb/na/na-k10015011501000
-
-[2025-12-23 17:24:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mand4ct54u2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-鳥インフルエンザ 農水省が都道府県と緊急対策会議
-https://news.web.nhk/newsweb/na/na-k10015011531000
-
-[2025-12-23 17:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mand46ntbo26)
-
----
-
-@sokuho.news
-
-🛎️産経より【独自】です。
-
-＜独自＞リピーターが支えた万博 40万枚売れた通期パス、来場平均はなんと11.8回
-(2025/12/23 17:15) #ニュース
-https://www.sankei.com/article/20251223-3D5LKATTARLL7H4VYASRS7JYBA/
-
-[2025-12-23 17:21:35](https://bsky.app/profile/sokuho.news/post/3mancxr5lln25)
-
----
-
-@nhknewsunofficial.bsky.social
-
-パラリンピック スノーボード 代表内定選手が練習を公開 静岡
-https://news.web.nhk/newsweb/na/na-k10015011511000
-
-[2025-12-23 17:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mancwtcqal2d)
-
----
-
 @japan.reuters.com
 
-日銀が２３日に発表した１１月の基調的なインフレ率を捕捉するための３指標は、「加重中央値」と「最頻値」が前月からプラス幅を縮小した。一方、「刈込平均値」は横ばい。全体的にみれば前月から大きな変化はなく、基調的な物価の上昇に陰りはみられていない。 bit.ly/44HvEtl
+政府は、近く閣議決定する２０２６年度一般会計予算案で、国債利払いの想定金利を３％程度とする方向で調整に入った。複数の政府筋が明らかにした。日銀の利上げなどで市中利回りが上昇基調にある現状を踏まえ、１９９７年度の３．２％以来２９年ぶりの高水準とする。 bit.ly/4sbP2sA
 
-[2025-12-23 17:20:07](https://bsky.app/profile/japan.reuters.com/post/3mancv4rmuo2c)
+[2025-12-23 17:45:12](https://bsky.app/profile/japan.reuters.com/post/3manebxg7le2q)
 
 ---
 
 @reuters.com
 
-Spanish regulator sets 6.58% return for power grids for 2026-2031 reut.rs/4j8rXTo
+Indonesia expects normal wet season in 2026, weather agency says reut.rs/498GgTB
 
-[2025-12-23 17:15:10](https://bsky.app/profile/reuters.com/post/3mancmbigrk2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-大川原化工機えん罪事件 警視庁公安部の捜査員3人改めて不起訴
-https://news.web.nhk/newsweb/na/na-k10015011571000
-
-[2025-12-23 17:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mancm3qby52y)
+[2025-12-23 17:45:11](https://bsky.app/profile/reuters.com/post/3manebx4wuy2k)
 
 ---
 
 @japan.reuters.com
 
-タイ財務省は２３日、オンラインでの金取引に対する課税導入を検討するとともに、取引量を制限する措置も検討すると発表した。 bit.ly/4jcADIC
+ブラジルのボルソナロ前大統領の長男フラビオ上院議員は１９日、ロイターのインタビューに応じ、出馬意向を表明している来年の大統領選について、父親より穏健な政策を掲げ、小さな政府、減税、民営化を実現することを計画していると述べた。 bit.ly/4sbo30f
 
-[2025-12-23 17:14:51](https://bsky.app/profile/japan.reuters.com/post/3manclomt5627)
+[2025-12-23 17:40:09](https://bsky.app/profile/japan.reuters.com/post/3mandywcm472c)
+
+---
+
+@reuters.com
+
+Brock Purdy's 5-TD night powers 49ers past Colts reut.rs/3MWd5vm
+
+[2025-12-23 17:40:08](https://bsky.app/profile/reuters.com/post/3mandyvz4gt2r)
+
+---
+
+@japan.reuters.com
+
+スペイン国家統計局が２３日発表した第３・四半期の国内総生産（ＧＤＰ）改定値は前期比０．６％増だった。速報値から修正はなかった。 bit.ly/48U2ppG
+
+[2025-12-23 17:38:41](https://bsky.app/profile/japan.reuters.com/post/3mandwcbc7e2q)
+
+---
+
+@wsj.com
+
+They’re too historic to tear down but too costly to save. America’s iconic office towers are on life support. on.wsj.com/490MMvm
+
+[2025-12-23 17:37:44](https://bsky.app/profile/wsj.com/post/3mandum5cyc2r)
+
+---
+
+@reuters.com
+
+Stephen Curry, Warriors blow out Magic to avenge earlier loss reut.rs/4p4BQmr
+
+[2025-12-23 17:35:08](https://bsky.app/profile/reuters.com/post/3mandpxlihg2o)
 
 ---
 
 @cnbc.com
 
-Shares in Wegovy-maker Novo Nordisk pop 6% after GLP-1 pill approval
+U.S. Treasury yields decline ahead of key debt auctions
 
-[2025-12-23 17:12:45](https://bsky.app/profile/cnbc.com/post/3manchwhhz62g)
+[2025-12-23 17:34:19](https://bsky.app/profile/cnbc.com/post/3mandoiynx32e)
+
+---
+
+@nikkei.com
+
+アメリカでインフルエンザ流行、8割が変異型
+www.nikkei.com/article/DGXZQO...
+
+H3N2型のサブクレードKと呼ばれるタイプで、既存の免疫が効きにくいとされます。
+
+日本でもこの変異型の感染が広がっています。
+
+[2025-12-23 17:30:39](https://bsky.app/profile/nikkei.com/post/3mandhx3mdh2f)
+
+---
+
+@apnews.com
+
+Heavy rain and flash flooding have soaked roads in northern California, leading to water rescues and at least one confirmed death.
+
+[2025-12-23 17:30:21](https://bsky.app/profile/apnews.com/post/3mandhfkejx2d)
 
 ---
 
