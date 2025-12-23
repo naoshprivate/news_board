@@ -1,9 +1,9 @@
-# [2025-12-24 04:50 updated](2025_12_24.md)
+# [2025-12-24 05:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">UK police drop probe into Bob Vylan comments about Israeli military reut.rs/48QkNzQ <a href="https://bsky.app/profile/reuters.com/post/3maoj65cawj2b" target="_blank">reuters.com</a> (2025-12-24 04:45:12)</span><span style="padding-right:50px;">外国人住民 全国の市区町村96％で増加 うち半数で2倍以上に https://news.web.nhk/newsweb/na/na-k10015011861000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maoiykfhkv2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 04:42:02)</span><span style="padding-right:50px;">Lawsuit challenges Trump administration's ending of protections for South Sudanese migrants reut.rs/4qojcqD <a href="https://bsky.app/profile/reuters.com/post/3maoivnvnlt2r" target="_blank">reuters.com</a> (2025-12-24 04:40:27)</span><span style="padding-right:50px;">米商務省が２３日発表した１０月の耐久財受注は、前月比２．２％減だった。９月の０．７％増から反転した。一方、民間設備投資の先行指標とされるコア資本財（非国防資本財から航空機を除く）の受注は０．５％増と、ロイターがまとめたエコノミスト予想の０．４％増を上回った。９月も０．９％増から１．１％増に上方改定された。 bit.ly/4jf7Y5C <a href="https://bsky.app/profile/japan.reuters.com/post/3maoivgi6mn25" target="_blank">japan.reuters.com</a> (2025-12-24 04:40:20)</span><span style="padding-right:50px;">British prosecutors on Tuesday charged Russell Brand with two counts of sexual assault, including one of rape. <a href="https://bsky.app/profile/nytimes.com/post/3maoipz4fvy27" target="_blank">nytimes.com</a> (2025-12-24 04:37:18)</span>
+<span style="padding-right:50px;">メガソーラー支援廃止含め検討 太陽光発電の目標達成へ道筋は https://news.web.nhk/newsweb/na/na-k10015012011000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maokitkpmf2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 05:09:03)</span><span style="padding-right:50px;">Elon Musk's DOGE tally: The federal workforce is down while government spending is up <a href="https://bsky.app/profile/yahoofinance.com/post/3maokditm6g2f" target="_blank">yahoofinance.com</a> (2025-12-24 05:06:06)</span><span style="padding-right:50px;">Scoop: Bari Weiss plans overhaul of CBS News and "60 Minutes" standards and procedures <a href="https://bsky.app/profile/axios.com/post/3maokcyufbc27" target="_blank">axios.com</a> (2025-12-24 05:05:49)</span><span style="padding-right:50px;">White House adviser Hassett says GDP 'fantastic,' job gains to jump reut.rs/4pTcvxe <a href="https://bsky.app/profile/reuters.com/post/3maokbthors2o" target="_blank">reuters.com</a> (2025-12-24 05:05:10)</span><span style="padding-right:50px;">米商務省が２３日発表した第３・四半期の国内総生産（ＧＤＰ）速報値は年率換算で前期比４．３％増加した。伸びは第２・四半期の３．８％から加速し、過去２年間で最も速いペースでの成長となった。旺盛な個人消費にけん引され、エコノミスト予想の３．３％を上回って成長。輸出の増加による貿易赤字の縮小や政府支出、設備投資や人工知能（ＡＩ）関連投資の底堅さも寄与した。 bit.ly/4qsAtPO <a href="https://bsky.app/profile/japan.reuters.com/post/3maok2t6ybm25" target="_blank">japan.reuters.com</a> (2025-12-24 05:01:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48462.64 (🔺142.05 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23543.63 (🔺135.93 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.60 (🔺5.63 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.25 (🔻0.76 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48458.56 (🔺137.97 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23552.34 (🔺144.64 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.62 (🔺5.65 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.26 (🔻0.75 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-- UK police drop probe into Bob Vylan comments about Israeli military
-- Foreign residents account for 96% of all municipalities nationwide, with half seeing a doubling of population
-- Lawsuit challenges Trump administration's ending of protections for South Sudanese migrants
-- US Commerce Department announces 2.2% decline in durable goods orders in October
-- British prosecutors charge Russell Brand with two counts of sexual assault
-- Five killed as Mexican plane carrying burned 2-year-old crashes off Texas coast
+- Japan considers scrapping solar power support to meet renewable energy goals
+- Elon Musk's DOGE tally: Federal workforce down, government spending up
+- US GDP grows 4.3% in Q3, outpacing expectations
+- Amazon blocks hundreds of suspected North Korean job applications
+- Greta Thunberg released from custody after UK pro-Palestinian protest arrest
+- Nvidia and athleisure maker see big insider selling last week
 
 
 ----
 
-@reuters.com
-
-UK police drop probe into Bob Vylan comments about Israeli military reut.rs/48QkNzQ
-
-[2025-12-24 04:45:12](https://bsky.app/profile/reuters.com/post/3maoj65cawj2b)
-
----
-
 @nhknewsunofficial.bsky.social
 
-外国人住民 全国の市区町村96％で増加 うち半数で2倍以上に
-https://news.web.nhk/newsweb/na/na-k10015011861000
+メガソーラー支援廃止含め検討 太陽光発電の目標達成へ道筋は
+https://news.web.nhk/newsweb/na/na-k10015012011000
 
-[2025-12-24 04:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maoiykfhkv2l)
+[2025-12-24 05:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maokitkpmf2l)
+
+---
+
+@yahoofinance.com
+
+Elon Musk's DOGE tally: The federal workforce is down while government spending is up
+
+[2025-12-24 05:06:06](https://bsky.app/profile/yahoofinance.com/post/3maokditm6g2f)
+
+---
+
+@axios.com
+
+Scoop: Bari Weiss plans overhaul of CBS News and "60 Minutes" standards and procedures
+
+[2025-12-24 05:05:49](https://bsky.app/profile/axios.com/post/3maokcyufbc27)
 
 ---
 
 @reuters.com
 
-Lawsuit challenges Trump administration's ending of protections for South Sudanese migrants reut.rs/4qojcqD
+White House adviser Hassett says GDP 'fantastic,' job gains to jump reut.rs/4pTcvxe
 
-[2025-12-24 04:40:27](https://bsky.app/profile/reuters.com/post/3maoivnvnlt2r)
+[2025-12-24 05:05:10](https://bsky.app/profile/reuters.com/post/3maokbthors2o)
 
 ---
 
 @japan.reuters.com
 
-米商務省が２３日発表した１０月の耐久財受注は、前月比２．２％減だった。９月の０．７％増から反転した。一方、民間設備投資の先行指標とされるコア資本財（非国防資本財から航空機を除く）の受注は０．５％増と、ロイターがまとめたエコノミスト予想の０．４％増を上回った。９月も０．９％増から１．１％増に上方改定された。 bit.ly/4jf7Y5C
+米商務省が２３日発表した第３・四半期の国内総生産（ＧＤＰ）速報値は年率換算で前期比４．３％増加した。伸びは第２・四半期の３．８％から加速し、過去２年間で最も速いペースでの成長となった。旺盛な個人消費にけん引され、エコノミスト予想の３．３％を上回って成長。輸出の増加による貿易赤字の縮小や政府支出、設備投資や人工知能（ＡＩ）関連投資の底堅さも寄与した。 bit.ly/4qsAtPO
 
-[2025-12-24 04:40:20](https://bsky.app/profile/japan.reuters.com/post/3maoivgi6mn25)
-
----
-
-@nytimes.com
-
-British prosecutors on Tuesday charged Russell Brand with two counts of sexual assault, including one of rape.
-
-[2025-12-24 04:37:18](https://bsky.app/profile/nytimes.com/post/3maoipz4fvy27)
+[2025-12-24 05:01:15](https://bsky.app/profile/japan.reuters.com/post/3maok2t6ybm25)
 
 ---
 
-@reuters.com
+@nbcnews.com
 
-Five killed as Mexican plane carrying burned 2-year-old crashes off Texas coast reut.rs/3MMPX2x
+Hundreds of job applications from suspected North Korean operatives have been blocked by Amazon, according to the U.S. tech giant's chief security officer, amid growing concerns over cyber scams connected to Pyongyang.
 
-[2025-12-24 04:35:09](https://bsky.app/profile/reuters.com/post/3maoim6ml7a2b)
-
----
-
-@npr.org
-
-Our most popular global health and development stories in 2025 covered the human impact of the upheaval in U.S. foreign aid, surprising news about familiar diseases and the beauty of earth captured by drone cameras. n.pr/453fivt
-
-[2025-12-24 04:34:10](https://bsky.app/profile/npr.org/post/3maoikfy4xx24)
-
----
-
-@japan.reuters.com
-
-カナダ銀行（中央銀行）が２３日に公表した１２月１０日の政策決定会合の議事要旨で、米国の通商政策の予測が困難になっていることのほか、経済指標が大きく変動していることを背景に、７人の政策委員が中銀の次の一手が利上げになるのか、利下げになるのかを見通すのは難しいとの認識で一致していたことが分かった。 bit.ly/3KL7bN9
-
-[2025-12-24 04:32:20](https://bsky.app/profile/japan.reuters.com/post/3maoih4fhon2q)
+[2025-12-24 05:01:07](https://bsky.app/profile/nbcnews.com/post/3maok2lxtdo2x)
 
 ---
 
 @reuters.com
 
-Rapids name Matt Wells as head coach reut.rs/3MOXXQw
+Greta Thunberg released from custody after arrest at UK pro-Palestinian protest reut.rs/4sddXf8
 
-[2025-12-24 04:31:30](https://bsky.app/profile/reuters.com/post/3maoifmsvzr24)
+[2025-12-24 05:00:58](https://bsky.app/profile/reuters.com/post/3maok2dnms42i)
 
 ---
 
 @usatoday.com
 
-From felt ornaments to dried orange garlands, Gen Z is reviving handmade holiday decor in a sentimental way.
+Kate Hudson is back in the awards conversation with her Golden Globe-nominated "Song Sung Blue" role. Son Ryder summed up Mom's performance perfectly.
 
-[2025-12-24 04:30:37](https://bsky.app/profile/usatoday.com/post/3maoie2bb5i2t)
+[2025-12-24 05:00:57](https://bsky.app/profile/usatoday.com/post/3maok2buvpo2t)
+
+---
+
+@cnn.com
+
+Former CIA director John Brennan is accusing the Justice Department of “irregular activity,” including possible judge shopping and improper leaks to the media, in a letter from his defense attorney that also disclosed Brennan is the target of a grand jury investigation launched out of Florida.
+
+[2025-12-24 05:00:23](https://bsky.app/profile/cnn.com/post/3maojzbv4o22q)
+
+---
+
+@washingtonpost.com
+
+Exclusive: A closed-door meeting this spring showed how the Federal Reserve has safeguarded its independence to set interest rates by avoiding an open fight with President Trump.
+
+[2025-12-24 05:00:20](https://bsky.app/profile/washingtonpost.com/post/3maojz7hdv624)
 
 ---
 
