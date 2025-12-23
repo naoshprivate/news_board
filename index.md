@@ -1,9 +1,9 @@
-# [2025-12-23 13:50 updated](2025_12_23.md)
+# [2025-12-23 14:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Inside the back and forth at CBS over the "60 Minutes" segment that Bari Weiss decided to hold <a href="https://bsky.app/profile/wsj.com/post/3mamx3zpgpz2i" target="_blank">wsj.com</a> (2025-12-23 13:49:14)</span><span style="padding-right:50px;">金子国交相 北海道新幹線の札幌延伸にかかる事業費 精査の考え https://news.web.nhk/newsweb/na/na-k10015011341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamwzx2vjs2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 13:48:02)</span><span style="padding-right:50px;">【随時更新】ロシア ウクライナに軍事侵攻（12月23日の動き） https://news.web.nhk/newsweb/na/na-k10014990701000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamwun54zy2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 13:45:03)</span><span style="padding-right:50px;">A new mural by elusive British street artist Banksy appeared Monday in London, depicting two children in winter hats lying on the ground. <a href="https://bsky.app/profile/cnn.com/post/3mamwsbfng524" target="_blank">cnn.com</a> (2025-12-23 13:43:46)</span><span style="padding-right:50px;">China pledges to stabilise housing market in 2026 reut.rs/4qmQN4i <a href="https://bsky.app/profile/reuters.com/post/3mamwlv6c7x2b" target="_blank">reuters.com</a> (2025-12-23 13:40:13)</span>
+<span style="padding-right:50px;">ロシア南部スタブロポリ地方の工業施設がウクライナ無人機（ドローン）による夜間攻撃を受け、火災が発生した。ウラジミロフ知事が２３日に発表した。負傷者の報告はないという。 bit.ly/4pXU7TY <a href="https://bsky.app/profile/japan.reuters.com/post/3mamy76ojqq2u" target="_blank">japan.reuters.com</a> (2025-12-23 14:08:54)</span><span style="padding-right:50px;">AI debt boom pushes US corporate bond sales close to record ft.trib.al/6QP9Q9X <a href="https://bsky.app/profile/financialtimes.com/post/3mamxz2v6b22c" target="_blank">financialtimes.com</a> (2025-12-23 14:05:29)</span><span style="padding-right:50px;">性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関する資料開示を巡る米司法省の対応を受け、超党派の間で反発が強まっている。議員らはボンディ司法長官を議会侮辱罪に問うと警告し、クリントン元大統領は自身に言及したあらゆる関連文書の即時公開を求めた。 bit.ly/4qnvrUA <a href="https://bsky.app/profile/japan.reuters.com/post/3mamxygswyj2c" target="_blank">japan.reuters.com</a> (2025-12-23 14:05:08)</span><span style="padding-right:50px;">神戸 エレベーター転落死亡事故 事故前に制御盤の回路変更か https://news.web.nhk/newsweb/na/na-k10015011321000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamxur6blg2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 14:03:01)</span><span style="padding-right:50px;"> The good, the bad and the ugly of Britain’s labour market reforms ft.trib.al/aVLvqui  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mamxrif2s32k" target="_blank">financialtimes.com</a> (2025-12-23 14:01:14)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50381.11 (🔺6.63 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔻55.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.07 (🔻0.94 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50298.67 (🔻75.81 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.02 (🔻0.99 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,101 +32,99 @@
 
 ## News Headlines
 
-- US Department of Agriculture saw 20,300 employees quit within 5 months of Trump's presidency
-- US FCC bans Chinese-made drones and parts from US market
-- US Navy to build 'Trump-class' battleships for 'Golden Fleet'
-- US military conducts strike against alleged drug-trafficking vessel in Pacific Ocean
-- Trump administration to recall ambassadors and senior diplomats amid controversy
-- Mercedes-Benz agrees to pay $149.6 million to settle emissions allegations
+- Russia Industrial Facility Attacked by Ukrainian Drones, Fire Breaks Out
+- US Corporate Bond Sales Near Record High Due to AI Debt Boom
+- Biden Justice Department Faces Backlash Over Epstein Documents
+-  Kobe Elevator Crash Investigation Points to Pre-Existing Circuit Change
+- Vietnam's Next Leadership Candidates Selected as January Congress Nears
+- France to Take Emergency Measures to Avoid Government Shutdown
 
 
 ----
 
-@wsj.com
+@japan.reuters.com
 
-Inside the back and forth at CBS over the "60 Minutes" segment that Bari Weiss decided to hold
+ロシア南部スタブロポリ地方の工業施設がウクライナ無人機（ドローン）による夜間攻撃を受け、火災が発生した。ウラジミロフ知事が２３日に発表した。負傷者の報告はないという。 bit.ly/4pXU7TY
 
-[2025-12-23 13:49:14](https://bsky.app/profile/wsj.com/post/3mamx3zpgpz2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-金子国交相 北海道新幹線の札幌延伸にかかる事業費 精査の考え
-https://news.web.nhk/newsweb/na/na-k10015011341000
-
-[2025-12-23 13:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamwzx2vjs2w)
+[2025-12-23 14:08:54](https://bsky.app/profile/japan.reuters.com/post/3mamy76ojqq2u)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-【随時更新】ロシア ウクライナに軍事侵攻（12月23日の動き）
-https://news.web.nhk/newsweb/na/na-k10014990701000
+AI debt boom pushes US corporate bond sales close to record ft.trib.al/6QP9Q9X
 
-[2025-12-23 13:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamwun54zy2l)
-
----
-
-@cnn.com
-
-A new mural by elusive British street artist Banksy appeared Monday in London, depicting two children in winter hats lying on the ground.
-
-[2025-12-23 13:43:46](https://bsky.app/profile/cnn.com/post/3mamwsbfng524)
-
----
-
-@reuters.com
-
-China pledges to stabilise housing market in 2026 reut.rs/4qmQN4i
-
-[2025-12-23 13:40:13](https://bsky.app/profile/reuters.com/post/3mamwlv6c7x2b)
+[2025-12-23 14:05:29](https://bsky.app/profile/financialtimes.com/post/3mamxz2v6b22c)
 
 ---
 
 @japan.reuters.com
 
-トランプ米政権発足から５カ月間で、米農務省職員の約２割に当たる２万０３００人超が離職したことが、同省監察総監がまとめた報告書で明らかになった。 bit.ly/3KVuEv3
+性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関する資料開示を巡る米司法省の対応を受け、超党派の間で反発が強まっている。議員らはボンディ司法長官を議会侮辱罪に問うと警告し、クリントン元大統領は自身に言及したあらゆる関連文書の即時公開を求めた。 bit.ly/4qnvrUA
 
-[2025-12-23 13:40:12](https://bsky.app/profile/japan.reuters.com/post/3mamwludgzn2s)
+[2025-12-23 14:05:08](https://bsky.app/profile/japan.reuters.com/post/3mamxygswyj2c)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-片山財務相 円安の動きをけん制 “行き過ぎた動きには対応”
-https://news.web.nhk/newsweb/na/na-k10015011351000
+神戸 エレベーター転落死亡事故 事故前に制御盤の回路変更か
+https://news.web.nhk/newsweb/na/na-k10015011321000
 
-[2025-12-23 13:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamwjugguk2x)
-
----
-
-@japan.reuters.com
-
-米連邦通信委員会（ＦＣＣ）は２２日、中国のＤＪＩなど全ての外国製ドローンと部品について、米国内での新モデルの輸入または販売の承認を禁止すると発表した。これらのメーカーを国家安全保障上、容認できないリスクをもたらすと見なされる企業のリストに追加する。 bit.ly/49cCJDJ
-
-[2025-12-23 13:35:09](https://bsky.app/profile/japan.reuters.com/post/3mamwctncar25)
+[2025-12-23 14:03:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamxur6blg2v)
 
 ---
 
-@wsj.com
+@financialtimes.com
 
-Iranian-linked hackers have pulled off a series of successful breaches against Israeli institutions that aren’t as well-defended as the country’s critical infrastructure
+ The good, the bad and the ugly of Britain’s labour market reforms ft.trib.al/aVLvqui  | opinion
 
-[2025-12-23 13:34:15](https://bsky.app/profile/wsj.com/post/3mamwba3vri2u)
+[2025-12-23 14:01:14](https://bsky.app/profile/financialtimes.com/post/3mamxrif2s32k)
+
+---
+
+@financialtimes.com
+
+ Venture philanthropy can transform small charities ft.trib.al/pr3CLFZ  | opinion
+
+[2025-12-23 14:01:14](https://bsky.app/profile/financialtimes.com/post/3mamxrhxju42w)
 
 ---
 
 @nikkei.com
 
-「トランプ級」大型戦艦、アメリカ海軍が2隻建造へ
+カカオ価格急落でもチョコレート高値続き　値下げは2027年以降か
 www.nikkei.com/article/DGXZQO...
+ 
+日本で現在チョコ製品に使用されているカカオは、2025年初めの最高値圏で推移していた時期に購入されたものが多数です。
+ 
+高値在庫を多く抱える一方、高値による需要減退や代替油脂の使用でカカオの消費量が減少。このため、チョコレート製品の値下げは後ずれする可能性があります。
 
-排水量は排水量は3万〜4万トン超で、トランプ大統領が命名しました。
+[2025-12-23 14:00:40](https://bsky.app/profile/nikkei.com/post/3mamxqi3db324)
 
-トランプ氏は従来の大型戦艦と比べ「100倍の火力や戦力を持つ」と主張。将来的に計20〜25隻に増やす「黄金艦隊」構想に言及しました。
+---
 
-[2025-12-23 13:30:40](https://bsky.app/profile/nikkei.com/post/3mamw2t4wue2c)
+@reuters.com
+
+To Lam, reformist risk-taker, seeks to extend his hold on Vietnam reut.rs/4aNpGev
+
+[2025-12-23 14:00:39](https://bsky.app/profile/reuters.com/post/3mamxqh6jjj2i)
+
+---
+
+@japan.reuters.com
+
+片山さつき財務相は２３日の閣議後会見で、足元の為替相場の動きについて「ファンダメンタルズを反映しているとは到底思えない」と指摘、投機的な動きも含め、行き過ぎた動きに対しては９月に出した日米財務相共同声明の考え方を踏まえて「対応を取る」と語った。 bit.ly/498WqfE
+
+[2025-12-23 14:00:35](https://bsky.app/profile/japan.reuters.com/post/3mamxqctypy2u)
+
+---
+
+@bloomberg.com
+
+President Donald Trump announced the US Navy will build a two new types of warship, including one named after himself, as part of the White House push to modernize the service’s surface fleet
+
+[2025-12-23 14:00:33](https://bsky.app/profile/bloomberg.com/post/3mamxqapry62p)
 
 ---
 
