@@ -1,9 +1,9 @@
-# [2025-12-24 02:30 updated](2025_12_24.md)
+# [2025-12-24 02:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Canadian economy posts big October drop, partial recovery seen in November reut.rs/4b20RLE <a href="https://bsky.app/profile/reuters.com/post/3maobdosrwg23" target="_blank">reuters.com</a> (2025-12-24 02:25:08)</span><span style="padding-right:50px;">Fed chair candidate Hassett says U.S. is way behind the curve on lowering interest rates <a href="https://bsky.app/profile/cnbc.com/post/3maobca5r4b2d" target="_blank">cnbc.com</a> (2025-12-24 02:24:19)</span><span style="padding-right:50px;">The three men who escaped from an Atlanta-area jail have been recaptured, local authorities said, ending a tense but brief manhunt for a convicted murderer and murder suspect. <a href="https://bsky.app/profile/wsj.com/post/3maobag7wur2i" target="_blank">wsj.com</a> (2025-12-24 02:23:18)</span><span style="padding-right:50px;">France’s parliament voted to roll over the 2025 budget into the new year, allowing the country to avoid a US-style shutdown. The stopgap solution ensures that police, teachers and civil servants can continue to function over the next few weeks. ft.trib.al/YU9IBle <a href="https://bsky.app/profile/financialtimes.com/post/3maob7wyvsb2k" target="_blank">financialtimes.com</a> (2025-12-24 02:23:03)</span><span style="padding-right:50px;">‘A stream of negativity and abuse’: why are Labour MPs still sticking with X? ft.trib.al/t3f73Dm <a href="https://bsky.app/profile/financialtimes.com/post/3maob5xfrfl24" target="_blank">financialtimes.com</a> (2025-12-24 02:21:56)</span>
+<span style="padding-right:50px;">From Pope Francis to Rob Reiner, a glance at some notable deaths this year. <a href="https://bsky.app/profile/wsj.com/post/3maocnjd5pv2g" target="_blank">wsj.com</a> (2025-12-24 02:48:32)</span><span style="padding-right:50px;">U.S. pushes additional tariffs on Chinese chips to June 2027 <a href="https://bsky.app/profile/cnbc.com/post/3maockgxylr2m" target="_blank">cnbc.com</a> (2025-12-24 02:46:49)</span><span style="padding-right:50px;">Breaking News: The Trump administration said it would soon begin to garnish pay from federal student loan borrowers who are in default, stepping up a repayment enforcement effort that began this year. trib.al/9KWd6Iw <a href="https://bsky.app/profile/nytimes.com/post/3maoci54tvk2f" target="_blank">nytimes.com</a> (2025-12-24 02:45:31)</span><span style="padding-right:50px;">Key Petrobras field hits output pace equivalent to 1 million bpd, sources say reut.rs/4b10ocD <a href="https://bsky.app/profile/reuters.com/post/3maochkwhjv2k" target="_blank">reuters.com</a> (2025-12-24 02:45:12)</span><span style="padding-right:50px;">"We are ghosts on the night shift," says Leandro Cristovao from Angola, who has worked the graveyard shift at a south London market for seven years. In the last decade, Britain's nine-million-strong nighttime workforce has become increasingly reliant on migrants like Cristovao. u.afp.com/S8Yy <a href="https://bsky.app/profile/en.afp.com/post/3maocheyqii2v" target="_blank">en.afp.com</a> (2025-12-24 02:45:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48448.53 (🔺127.94 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23520.24 (🔺112.55 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.21 (🔺5.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.27 (🔻0.74 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.76 (🔺122.17 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23513.62 (🔺105.93 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.12 (🔺5.16 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔻0.73 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,93 +32,94 @@
 
 ## News Headlines
 
-- Canadian economy posts big October drop, partial recovery seen in November
-- US economy grows at fastest pace in two years
-- US delays announcement of China chip tariffs until 2027
-- UK police say comedian Russell Brand charged with two more sex offences
-- Greta Thunberg arrested at pro-Palestinian protest in London
-- Former Sen. Ben Sasse announces he has terminal pancreatic cancer
+- Pope Francis and Rob Reiner among notable deaths this year
+- US Tariffs on Chinese Chips to be Extended to June 2027
+- US to Garnish Pay of Federal Student Loan Borrowers in Default
+- Petrobras Field Hits 1 Million Bpd Output Pace
+- Britain's Nighttime Workforce Relies on Migrants
+- US Economy Posts Fastest Growth in Two Years
 
 
 ----
 
-@reuters.com
+@wsj.com
 
-Canadian economy posts big October drop, partial recovery seen in November reut.rs/4b20RLE
+From Pope Francis to Rob Reiner, a glance at some notable deaths this year.
 
-[2025-12-24 02:25:08](https://bsky.app/profile/reuters.com/post/3maobdosrwg23)
+[2025-12-24 02:48:32](https://bsky.app/profile/wsj.com/post/3maocnjd5pv2g)
 
 ---
 
 @cnbc.com
 
-Fed chair candidate Hassett says U.S. is way behind the curve on lowering interest rates
+U.S. pushes additional tariffs on Chinese chips to June 2027
 
-[2025-12-24 02:24:19](https://bsky.app/profile/cnbc.com/post/3maobca5r4b2d)
-
----
-
-@wsj.com
-
-The three men who escaped from an Atlanta-area jail have been recaptured, local authorities said, ending a tense but brief manhunt for a convicted murderer and murder suspect.
-
-[2025-12-24 02:23:18](https://bsky.app/profile/wsj.com/post/3maobag7wur2i)
+[2025-12-24 02:46:49](https://bsky.app/profile/cnbc.com/post/3maockgxylr2m)
 
 ---
 
-@financialtimes.com
+@nytimes.com
 
-France’s parliament voted to roll over the 2025 budget into the new year, allowing the country to avoid a US-style shutdown. The stopgap solution ensures that police, teachers and civil servants can continue to function over the next few weeks. ft.trib.al/YU9IBle
+<strong><span style="color: red;">Breaking News</span>: The Trump administration said it would soon begin to garnish pay from federal student loan borrowers who are in default, stepping up a repayment enforcement effort that began this year. trib.al/9KWd6Iw</strong>
 
-[2025-12-24 02:23:03](https://bsky.app/profile/financialtimes.com/post/3maob7wyvsb2k)
-
----
-
-@financialtimes.com
-
-‘A stream of negativity and abuse’: why are Labour MPs still sticking with X? ft.trib.al/t3f73Dm
-
-[2025-12-24 02:21:56](https://bsky.app/profile/financialtimes.com/post/3maob5xfrfl24)
+[2025-12-24 02:45:31](https://bsky.app/profile/nytimes.com/post/3maoci54tvk2f)
 
 ---
 
-@financialtimes.com
+@reuters.com
 
-Trump administration accuses China of unfair chip trade practices ft.trib.al/nhbGlxx
+Key Petrobras field hits output pace equivalent to 1 million bpd, sources say reut.rs/4b10ocD
 
-[2025-12-24 02:21:26](https://bsky.app/profile/financialtimes.com/post/3maob52klcd25)
-
----
-
-@financialtimes.com
-
-The US has accused China of using unfair trade practices to try and dominate the global semiconductor industry but said it will not increase tariffs on Chinese imports until mid-2027. ft.trib.al/wFqrzqK
-
-[2025-12-24 02:20:28](https://bsky.app/profile/financialtimes.com/post/3maob3d5qk52k)
+[2025-12-24 02:45:12](https://bsky.app/profile/reuters.com/post/3maochkwhjv2k)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@en.afp.com
 
-Nigeria kidnappings: Gunmen abduct Muslim travellers in Plateau state
+"We are ghosts on the night shift," says Leandro Cristovao from Angola, who has worked the graveyard shift at a south London market for seven years. In the last decade, Britain's nine-million-strong nighttime workforce has become increasingly reliant on migrants like Cristovao.
+u.afp.com/S8Yy
 
-[2025-12-24 02:19:28](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maoazkf4ds2y)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-US economy grows at fastest pace in two years 
-
-[2025-12-24 02:18:23](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maoaxn26m327)
+[2025-12-24 02:45:05](https://bsky.app/profile/en.afp.com/post/3maocheyqii2v)
 
 ---
 
-@nbcnews.com
+@cnbc.com
 
-The University of Oklahoma says that the graduate teaching assistant who assigned a failing grade to a student for a psychology essay on gender stereotypes will “no longer have instructional duties” at the university.
+Southwest's profits are down 42% this year but it's the top U.S. airline stock
 
-[2025-12-24 02:16:29](https://bsky.app/profile/nbcnews.com/post/3maoau7lmuc2h)
+[2025-12-24 02:44:31](https://bsky.app/profile/cnbc.com/post/3maocgdeyh52i)
+
+---
+
+@reuters.com
+
+Italy removes emphatic 'Yes!' from national anthem reut.rs/4pa7WNM
+
+[2025-12-24 02:40:14](https://bsky.app/profile/reuters.com/post/3maoc6o5zuv24)
+
+---
+
+@nytimes.com
+
+Connor Storrie and Hudson Williams star in “Heated Rivalry,” a drama about the hot-and-heavy romance between two closeted male professional hockey players. The Canadian series has been a surprise hit for HBO Max. Read our full interview with the show's stars. nyti.ms/4s67Jhb
+
+[2025-12-24 02:40:04](https://bsky.app/profile/nytimes.com/post/3maoc6esx472r)
+
+---
+
+@cbsnews.com
+
+American consumers in December remained downbeat about the state of the economy, a new survey shows.  
+
+[2025-12-24 02:40:01](https://bsky.app/profile/cbsnews.com/post/3maoc6cfnig2m)
+
+---
+
+@yahoofinance.com
+
+Gold, silver rise to records as metals stand out as trade of the year: 'Investors are just getting smarter'
+
+[2025-12-24 02:36:06](https://bsky.app/profile/yahoofinance.com/post/3maobxc6v7r26)
 
 ---
 
