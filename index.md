@@ -1,9 +1,9 @@
-# [2025-12-23 11:10 updated](2025_12_23.md)
+# [2025-12-23 11:32 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Data centres: The new tech stopping chips from overheating <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mamo3nlunu2s" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-23 11:07:57)</span><span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/3L3J8sP <a href="https://bsky.app/profile/nytimes.com/post/3mamnwkkjh32x" target="_blank">nytimes.com</a> (2025-12-23 11:05:07)</span><span style="padding-right:50px;">中国人民銀行（中央銀行）は２３日、世界的なドル安を反映し、人民元の対ドル基準値（中間値）を約１年３カ月ぶりの元高水準に設定した。 bit.ly/4j7PP9K <a href="https://bsky.app/profile/japan.reuters.com/post/3mamnvi3dst22" target="_blank">japan.reuters.com</a> (2025-12-23 11:04:31)</span><span style="padding-right:50px;">🛎️NNNより【独自】です。  【独自】国民民主・岡野純子議員が公選法違反の疑いで書類送検 今夏の参院選で正しい標旗掲げずに応援演説したか～千葉県警 (2025-12-23 11:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mamnv2e2ta2y" target="_blank">sokuho.news</a> (2025-12-23 11:04:16)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】国民民主・岡野純子議員が公選法違反の疑いで書類送検 今夏の参院選で正しい標旗掲げずに応援演説したか～千葉県警 (2025-12-23 11:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mamnsz2hud2x" target="_blank">sokuho.news</a> (2025-12-23 11:03:08)</span>
+<span style="padding-right:50px;">米教育省は２２日、ロードアイランド州プロビデンスのブラウン大学で今月発生した銃乱射事件を受け、同大の安全対策を再検討していると発表した。 bit.ly/48Q9ibA <a href="https://bsky.app/profile/japan.reuters.com/post/3mamp4p62al2u" target="_blank">japan.reuters.com</a> (2025-12-23 11:26:27)</span><span style="padding-right:50px;">カナダのカーニー首相は２２日、新駐米大使に米資産運用大手ブラックロックの元幹部であるマーク・ワイズマン氏を任命したと明らかにした。トランプ米大統領の関税政策に対する取り組みに重点を置くという。 bit.ly/48TQGra <a href="https://bsky.app/profile/japan.reuters.com/post/3mamp2dirhz2q" target="_blank">japan.reuters.com</a> (2025-12-23 11:25:07)</span><span style="padding-right:50px;">２０１９年に創設されたものの新型コロナウイルスのパンデミック（世界的大流行）などの影響で２１年を最後に休止されていた国際水泳リーグ（ＩＳＬ）が、早ければ２６年にも再開される計画であることが分かった。 bit.ly/3Y8RaDO <a href="https://bsky.app/profile/japan.reuters.com/post/3mamoustswd22" target="_blank">japan.reuters.com</a> (2025-12-23 11:22:02)</span><span style="padding-right:50px;">【エプスタイン文書】 司法省、削除したトランプ氏写真を修正せず再公開 www.nikkei.com/article/DGXZQO...   富豪エプスタイン氏に関して司法省が開示した資料には、トランプ大統領と水着姿の女性らが写った写真が含まれていました。   同省は被害者保護の観点から一時削除したと説明。閲覧できなくなったことを批判する声が広がっていました。   ブランチ司法副長官は削除について「トランプ氏とは一切関係がない」と主張しています。 <a href="https://bsky.app/profile/nikkei.com/post/3mamosekpx722" target="_blank">nikkei.com</a> (2025-12-23 11:20:40)</span><span style="padding-right:50px;">Frail yen whipped around as intervention threat swirls reut.rs/4aqKHLL <a href="https://bsky.app/profile/reuters.com/post/3mamormkfhc2p" target="_blank">reuters.com</a> (2025-12-23 11:20:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50494.27 (🔺119.79 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3443.00 (🔻36.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔻0.64 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50522.83 (🔺148.35 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3443.00 (🔻36.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.34 (🔻0.67 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -30,69 +30,75 @@
 
 ---
 
-## News Headlines
+@japan.reuters.com
 
-- Data Centres to Surpass Office Buildings in Construction Spending
-- India's Rural Jobs Guarantee Scheme Faces Threat from G RAM G
-- US to Investigate Brown University Over Campus Shooting
-- Trump Unveils New Class of Battleships Named After Himself
-- ByteDance Plans $23bn AI Spending Spree to Keep Pace with US Rivals
-- Silver Price Hits Record High at $69.59/oz
+米教育省は２２日、ロードアイランド州プロビデンスのブラウン大学で今月発生した銃乱射事件を受け、同大の安全対策を再検討していると発表した。 bit.ly/48Q9ibA
 
-
-----
-
-@bbcnews-world-rss.bsky.social
-
-Data centres: The new tech stopping chips from overheating
-
-[2025-12-23 11:07:57](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mamo3nlunu2s)
-
----
-
-@nytimes.com
-
-Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/3L3J8sP
-
-[2025-12-23 11:05:07](https://bsky.app/profile/nytimes.com/post/3mamnwkkjh32x)
+[2025-12-23 11:26:27](https://bsky.app/profile/japan.reuters.com/post/3mamp4p62al2u)
 
 ---
 
 @japan.reuters.com
 
-中国人民銀行（中央銀行）は２３日、世界的なドル安を反映し、人民元の対ドル基準値（中間値）を約１年３カ月ぶりの元高水準に設定した。 bit.ly/4j7PP9K
+カナダのカーニー首相は２２日、新駐米大使に米資産運用大手ブラックロックの元幹部であるマーク・ワイズマン氏を任命したと明らかにした。トランプ米大統領の関税政策に対する取り組みに重点を置くという。 bit.ly/48TQGra
 
-[2025-12-23 11:04:31](https://bsky.app/profile/japan.reuters.com/post/3mamnvi3dst22)
-
----
-
-@sokuho.news
-
-🛎️NNNより【独自】です。
-
-【独自】国民民主・岡野純子議員が公選法違反の疑いで書類送検 今夏の参院選で正しい標旗掲げずに応援演説したか～千葉県警
-(2025-12-23 11:02) #ニュース
-
-[2025-12-23 11:04:16](https://bsky.app/profile/sokuho.news/post/3mamnv2e2ta2y)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】国民民主・岡野純子議員が公選法違反の疑いで書類送検 今夏の参院選で正しい標旗掲げずに応援演説したか～千葉県警
-(2025-12-23 11:02) #ニュース
-
-[2025-12-23 11:03:08](https://bsky.app/profile/sokuho.news/post/3mamnsz2hud2x)
+[2025-12-23 11:25:07](https://bsky.app/profile/japan.reuters.com/post/3mamp2dirhz2q)
 
 ---
 
 @japan.reuters.com
 
-しまむらが３日続落し、前営業日比４％超安の１万０１００円付近を推移している。午前１０時４５分現在、東証プライム市場の値下がり率トップ。前日に２０２５年２月期の第３・四半期（２月２１日─１１月２０日）の連結決算を発表し、失望感が広がっている。 bit.ly/4jaKBKg
+２０１９年に創設されたものの新型コロナウイルスのパンデミック（世界的大流行）などの影響で２１年を最後に休止されていた国際水泳リーグ（ＩＳＬ）が、早ければ２６年にも再開される計画であることが分かった。 bit.ly/3Y8RaDO
 
-[2025-12-23 11:02:22](https://bsky.app/profile/japan.reuters.com/post/3mamnrnhvje26)
+[2025-12-23 11:22:02](https://bsky.app/profile/japan.reuters.com/post/3mamoustswd22)
+
+---
+
+@nikkei.com
+
+【エプスタイン文書】
+司法省、削除したトランプ氏写真を修正せず再公開
+www.nikkei.com/article/DGXZQO...
+ 
+富豪エプスタイン氏に関して司法省が開示した資料には、トランプ大統領と水着姿の女性らが写った写真が含まれていました。
+ 
+同省は被害者保護の観点から一時削除したと説明。閲覧できなくなったことを批判する声が広がっていました。
+ 
+ブランチ司法副長官は削除について「トランプ氏とは一切関係がない」と主張しています。
+
+[2025-12-23 11:20:40](https://bsky.app/profile/nikkei.com/post/3mamosekpx722)
+
+---
+
+@reuters.com
+
+Frail yen whipped around as intervention threat swirls reut.rs/4aqKHLL
+
+[2025-12-23 11:20:15](https://bsky.app/profile/reuters.com/post/3mamormkfhc2p)
+
+---
+
+@japan.reuters.com
+
+米国時間の原油先物は２％超上昇して取引を終えた。米沿岸警備隊が週末にベネズエラ沖の国際水域で石油タンカーの拿捕（だほ）を試みたことや、ウクライナがロシア南部にある黒海沿岸の村でドローン（無人機）攻撃を行ったことなどが材料となり、石油供給が途絶するリスクが高まった。 bit.ly/49pVogr
+
+[2025-12-23 11:20:14](https://bsky.app/profile/japan.reuters.com/post/3mamorlwxtk2q)
+
+---
+
+@wsj.com
+
+An odd offer from a reclusive billionaire: Have one of my babies and every one of them will get a share of my fortune. He has 100 kids and counting.
+
+[2025-12-23 11:19:33](https://bsky.app/profile/wsj.com/post/3mamoqerks42o)
+
+---
+
+@japan.reuters.com
+
+＜１０：４０＞　ドルが156円半ばに下落、円の自律反発 bit.ly/4aoxbZ0
+
+[2025-12-23 11:14:23](https://bsky.app/profile/japan.reuters.com/post/3mamoh4puff2c)
 
 ---
 
@@ -100,37 +106,18 @@ Pips is a logic puzzle where players must arrange a set of dominoes to meet the 
 
 🛎️JNNより【速報】です。
 
-【速報】JR阪和線の和泉砂川～和歌山で運転見合わせ 列車が倒木と接触 正午すぎに運転再開見込み
-(2025-12-23 11:01:26) #ニュース
+【速報】地方創生を推進するための総合戦略が閣議決定 AIなど徹底活用し、地方の労働生産性の成長率を東京圏以上目指す
+(2025-12-23 11:10:45) #ニュース
 
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-23 11:02:21](https://bsky.app/profile/sokuho.news/post/3mamnrm4xh32r)
+[2025-12-23 11:11:49](https://bsky.app/profile/sokuho.news/post/3mamocjt76f2x)
 
 ---
 
-@wsj.com
+@npr.org
 
-Spending on data-center construction is poised to surpass office-building construction for the first time, changing the nature of property investing. on.wsj.com/4pQk3Az
+President Trump claims the warship will be "the fastest, the biggest, and by far 100 times more powerful than any battleship ever built." A month ago, the Navy scrapped plans to build a new, small warship, citing delays and cost overruns. n.pr/4pSg7zB
 
-[2025-12-23 11:01:34](https://bsky.app/profile/wsj.com/post/3mamnqabpfk2s)
-
----
-
-@wsj.com
-
-A Blade Runner-style megacity has somehow stayed a hidden gem, but not for much longer. on.wsj.com/4pTo6MD
-
-[2025-12-23 11:01:28](https://bsky.app/profile/wsj.com/post/3mamnpzywpm2c)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-MNREGA: Is India's landmark rural jobs guarantee scheme under threat from G RAM G?
-
-[2025-12-23 11:01:18](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mamnprcz2w2a)
+[2025-12-23 11:10:42](https://bsky.app/profile/npr.org/post/3mamoaklvjj2p)
 
 ---
 
