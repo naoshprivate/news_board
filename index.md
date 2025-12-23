@@ -1,9 +1,9 @@
-# [2025-12-23 20:50 updated](2025_12_23.md)
+# [2025-12-23 21:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔊 ‘It really speaks to the concrete steps and the practical impacts of China's growing military ambitions.’ On the Reuters World News podcast, we discuss how China has likely loaded more than 100 ICBMs in silo fields reut.rs/4pRhaQb <a href="https://bsky.app/profile/reuters.com/post/3manokj6wyk2q" target="_blank">reuters.com</a> (2025-12-23 20:48:56)</span><span style="padding-right:50px;">三井住友トラストグループ 新社長に大山一也氏が昇格 https://news.web.nhk/newsweb/na/na-k10015011831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manoj3zgpl2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 20:48:07)</span><span style="padding-right:50px;">赤澤経産相 24日～1月5日まで入院 健康管理のための軽微手術で https://news.web.nhk/newsweb/na/na-k10015011841000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manoixihpb22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 20:48:02)</span><span style="padding-right:50px;">世界の半導体販売、月間で11兆円超え www.nikkei.com/article/DGXZQO...  10月に初めて700億ドルを突破。600億ドル台に乗せてから、わずか3カ月でした。  初めて500億ドル台を付けてから600億ドル台に乗せるまでには、3年8カ月かかっていました。  データセンター関連の引き合いが強く、販売の勢いが加速しています。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3manogfqmor22" target="_blank">nikkei.com</a> (2025-12-23 20:46:38)</span><span style="padding-right:50px;">Since Trump took office, officials have transferred ten of the 37 men Biden spared from execution to the "Alcatraz of the Rockies." One prisoner still awaiting transfer has attempted suicide. n.pr/4jaZyvS <a href="https://bsky.app/profile/npr.org/post/3manofu5bpk23" target="_blank">npr.org</a> (2025-12-23 20:46:20)</span>
+<span style="padding-right:50px;">米決済大手ビザとマスターカードが２３日に公表した暫定値によると、今年のホリデーシーズンの米小売売上高は約４％増加した。消費者は限られた予算と新製品・衣料品への購入意欲のバランスを取ったもよう。 bit.ly/44BvEew <a href="https://bsky.app/profile/japan.reuters.com/post/3manpmxrv7q2n" target="_blank">japan.reuters.com</a> (2025-12-23 21:08:12)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】八戸市 NTT鉄塔倒壊の恐れによる避難指示を解除 (2025-12-23 21:06) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/ <a href="https://bsky.app/profile/sokuho.news/post/3manpjeu6w72b" target="_blank">sokuho.news</a> (2025-12-23 21:06:12)</span><span style="padding-right:50px;">Sweden's Vattenfall applies for state aid for new nuclear reactors reut.rs/4pSs2NO <a href="https://bsky.app/profile/reuters.com/post/3manphirdt22y" target="_blank">reuters.com</a> (2025-12-23 21:05:09)</span><span style="padding-right:50px;">Good morning, New York. While you were sleeping, house prices falling in about half of London’s local council districts was the most-read story ft.trib.al/tPAU1DU <a href="https://bsky.app/profile/financialtimes.com/post/3manpebrun22w" target="_blank">financialtimes.com</a> (2025-12-23 21:03:21)</span><span style="padding-right:50px;">Canaccord says Tesla demand slowdown is temporary, hikes price target <a href="https://bsky.app/profile/cnbc.com/post/3manpd2al272m" target="_blank">cnbc.com</a> (2025-12-23 21:02:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.97 (🔻1.04 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔻1.07 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,106 +32,109 @@
 
 ## News Headlines
 
-[{"en": "China Loads Over 100 ICBMs in Silo Fields"}, 
-{"en": "New Trustee Elected for Mitsui Sumitomo Trust Group"}, 
-{"en": "Japan's Minister of Economy, Trade and Industry to Undergo Minor Surgery"}, 
-{"en": "Global Semiconductor Sales Surpass $11 Trillion in a Month"}, 
-{"en": "US Officials Transfer More Death Row Prisoners to "Alcatraz of the Rockies""}, 
-{"en": "Major Central Banks Deliver Largest Easing Push in Over a Decade"}]
+- US Retail Sales Increase 4% During Holiday Season
+- NTT Tower Collapse in Hachinohe City: Evacuation Order Lifted
+- Vattenfall Seeks State Aid for New Nuclear Reactors in Sweden
+- House Prices Falling in Half of London's Local Council Districts
+- Canaccord Hikes Tesla Price Target Amid Demand Slowdown
+- Miami Dolphins' Tua Tagovailoa Mega Contract Turns Out to Be a Mistake
+
 
 ----
 
+@japan.reuters.com
+
+米決済大手ビザとマスターカードが２３日に公表した暫定値によると、今年のホリデーシーズンの米小売売上高は約４％増加した。消費者は限られた予算と新製品・衣料品への購入意欲のバランスを取ったもよう。 bit.ly/44BvEew
+
+[2025-12-23 21:08:12](https://bsky.app/profile/japan.reuters.com/post/3manpmxrv7q2n)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】八戸市 NTT鉄塔倒壊の恐れによる避難指示を解除
+(2025-12-23 21:06) #ニュース
+
+🟪避難情報
+🔗https://crisis.yahoo.co.jp/evacuation/
+
+[2025-12-23 21:06:12](https://bsky.app/profile/sokuho.news/post/3manpjeu6w72b)
+
+---
+
 @reuters.com
 
-🔊 ‘It really speaks to the concrete steps and the practical impacts of China's growing military ambitions.’ On the Reuters World News podcast, we discuss how China has likely loaded more than 100 ICBMs in silo fields reut.rs/4pRhaQb
+Sweden's Vattenfall applies for state aid for new nuclear reactors reut.rs/4pSs2NO
 
-[2025-12-23 20:48:56](https://bsky.app/profile/reuters.com/post/3manokj6wyk2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-三井住友トラストグループ 新社長に大山一也氏が昇格
-https://news.web.nhk/newsweb/na/na-k10015011831000
-
-[2025-12-23 20:48:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manoj3zgpl2u)
+[2025-12-23 21:05:09](https://bsky.app/profile/reuters.com/post/3manphirdt22y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-赤澤経産相 24日～1月5日まで入院 健康管理のための軽微手術で
-https://news.web.nhk/newsweb/na/na-k10015011841000
+Good morning, New York. While you were sleeping, house prices falling in about half of London’s local council districts was the most-read story ft.trib.al/tPAU1DU
 
-[2025-12-23 20:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manoixihpb22)
+[2025-12-23 21:03:21](https://bsky.app/profile/financialtimes.com/post/3manpebrun22w)
+
+---
+
+@cnbc.com
+
+Canaccord says Tesla demand slowdown is temporary, hikes price target
+
+[2025-12-23 21:02:39](https://bsky.app/profile/cnbc.com/post/3manpd2al272m)
+
+---
+
+@wsj.com
+
+The Miami Dolphins gave quarterback Tua Tagovailoa a mega contract last year as a reward for his improved play. Now, just 18 months on, it’s blown up in their faces. on.wsj.com/4aulS1x
+
+[2025-12-23 21:02:01](https://bsky.app/profile/wsj.com/post/3manpbvxesq2e)
 
 ---
 
 @nikkei.com
 
-世界の半導体販売、月間で11兆円超え
+「放っておかれた過疎、震災で見えた」　御厨貴・東大先端研フェロー
 www.nikkei.com/article/DGXZQO...
 
-10月に初めて700億ドルを突破。600億ドル台に乗せてから、わずか3カ月でした。
+「ただ悪いことばかりではない。ボランティアだけでなく定住者も出てきた。次の発展の人材になる。大きな芽に育てたい」
 
-初めて500億ドル台を付けてから600億ドル台に乗せるまでには、3年8カ月かかっていました。
+都市と地方の共存に何が必要なのでしょうか。
 
-データセンター関連の引き合いが強く、販売の勢いが加速しています。
+（MESSAGE 戦後80年）
 
-#ニュース
-
-[2025-12-23 20:46:38](https://bsky.app/profile/nikkei.com/post/3manogfqmor22)
-
----
-
-@npr.org
-
-Since Trump took office, officials have transferred ten of the 37 men Biden spared from execution to the "Alcatraz of the Rockies." One prisoner still awaiting transfer has attempted suicide. n.pr/4jaZyvS
-
-[2025-12-23 20:46:20](https://bsky.app/profile/npr.org/post/3manofu5bpk23)
-
----
-
-@reuters.com
-
-Major central banks deliver biggest easing push in over a decade in 2025 reut.rs/3NfRX3e
-
-[2025-12-23 20:45:11](https://bsky.app/profile/reuters.com/post/3manodsg4mi2o)
-
----
-
-@nhknewsunofficial.bsky.social
-
-サッカーJリーグ J1町田 黒田監督に懲罰処分 暴言や不適切指導
-https://news.web.nhk/newsweb/na/na-k10015011851000
-
-[2025-12-23 20:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manodltv4624)
-
----
-
-@reuters.com
-
-AI data centers are forcing obsolete ‘peaker’ power plants back into service reut.rs/4s9ZdOl
-
-[2025-12-23 20:40:21](https://bsky.app/profile/reuters.com/post/3mano364d4r2i)
-
----
-
-@japan.reuters.com
-
-台湾経済部が２３日発表した１１月の輸出受注は前年同月比３９．５％増の７２９．２億ドルだった。年末商戦を控え、人工知能（ＡＩ）関連技術への旺盛な需要が継続し、２０２１年４月以来の高い伸びを記録した。 bit.ly/49oMRKO
-
-[2025-12-23 20:40:18](https://bsky.app/profile/japan.reuters.com/post/3mano32kk5n2c)
+[2025-12-23 21:00:55](https://bsky.app/profile/nikkei.com/post/3manp7wofsb22)
 
 ---
 
 @en.afp.com
 
-🇸🇦 Saudi belly dancers shake off taboos behind closed doors
+🇺🇦 Kyiv resembles a Hallmark-worthy December scene from any city in Europe as the Ukrainian capital tries to celebrate another Christmas at war. 
+🗒️ Barbara Wojazer
+📸 Sergei Supinsky & Tetiana Dzhafarova 
+➡️ u.afp.com/S8fW
 
-In a Riyadh fitness studio, dozens of women move to Arabic music, practising belly dance in secret. Despite their enthusiasm, none reveal their names or faces -— a reflection of the deep stigma that surrounds the dance in Saudi Arabia.
+[2025-12-23 21:00:33](https://bsky.app/profile/en.afp.com/post/3manp7bflvh2v)
 
-[2025-12-23 20:40:04](https://bsky.app/profile/en.afp.com/post/3mano2nnga32j)
+---
+
+@nbcnews.com
+
+Video game development figure Vince Zampella, known for the creation of the hit “Call of Duty” franchise, has died, Electronic Arts said Monday. He was 55.
+
+[2025-12-23 21:00:30](https://bsky.app/profile/nbcnews.com/post/3manp774hcq2d)
+
+---
+
+@reuters.com
+
+Bankers urge RBI action as dollar glut, NDF pressure roil Indian rupee forwards reut.rs/4sqvukq
+
+[2025-12-23 21:00:29](https://bsky.app/profile/reuters.com/post/3manp75opd52b)
 
 ---
 
