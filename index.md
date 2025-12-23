@@ -1,9 +1,9 @@
-# [2025-12-23 18:30 updated](2025_12_23.md)
+# [2025-12-23 18:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】コンサル会社「即決営業」経営者を起訴 2億3000万円以上を脱税した罪 架空の販売促進費を計上か 大阪地検特捜部 (2025-12-23 18:28) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mangpywmxz2v" target="_blank">sokuho.news</a> (2025-12-23 18:28:51)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】新型転換炉原型炉「ふげん」で放射性物質含む水が漏れる トリチウム濃度が上昇 (2025-12-23 18:27:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mangpwyf2z2r" target="_blank">sokuho.news</a> (2025-12-23 18:28:48)</span><span style="padding-right:50px;">高市首相 大型巡視船増強や海上保安官の処遇改善の考え示す https://news.web.nhk/newsweb/na/na-k10015011631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mangmt7cwy26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 18:27:02)</span><span style="padding-right:50px;">高市早苗首相は２３日、来年度当初予算案の編成に向けた大詰めの作業を迎えた。首相就任から２カ月余り。連立の組み替えや首脳外交、今年度補正予算の編成などに取り組み、内閣支持率は高水準で推移する。２０２６年、初めての通常国会に臨む首相はどう安定政権の確立を目指すのか。国民民主党との向き合い方が問われる一方、野党内には「５月解散説」も出始めた。 bit.ly/4jeOzBR <a href="https://bsky.app/profile/japan.reuters.com/post/3mangjhsqvj25" target="_blank">japan.reuters.com</a> (2025-12-23 18:25:11)</span><span style="padding-right:50px;">US military says one person killed in strike on suspected drug vessel in Pacific reut.rs/3Lb24pz <a href="https://bsky.app/profile/reuters.com/post/3mangjgp4me2k" target="_blank">reuters.com</a> (2025-12-23 18:25:10)</span>
+<span style="padding-right:50px;">ロシア軍は２３日、ウクライナに対しミサイルとドローン（無人機）による大規模な空爆を実施した。ウクライナ当局によると、クリスマスを控える中、子供１人を含む少なくとも３人が死亡。各地でエネルギー施設が損傷し、緊急停電が発生している。 bit.ly/3KNF0gx <a href="https://bsky.app/profile/japan.reuters.com/post/3manhtdvdej27" target="_blank">japan.reuters.com</a> (2025-12-23 18:48:37)</span><span style="padding-right:50px;">日本チェーンストア協会が２３日発表した１１月の全国スーパーマーケット総販売額（４６社９４６４店）は前年同月比２．８％増の１兆０９６３億４３４８万円だった。増加は９カ月連続。 bit.ly/4pOYcJL <a href="https://bsky.app/profile/japan.reuters.com/post/3manhnbe5ji2n" target="_blank">japan.reuters.com</a> (2025-12-23 18:45:13)</span><span style="padding-right:50px;">China implies US hypocrisy over nuclear disarmament reut.rs/44Fnh1q <a href="https://bsky.app/profile/reuters.com/post/3manhn6nyvd23" target="_blank">reuters.com</a> (2025-12-23 18:45:10)</span><span style="padding-right:50px;">JR東日本と伊藤忠商事 不動産開発手がける子会社統合を協議へ https://news.web.nhk/newsweb/na/na-k10015011741000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manhn2bkly2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 18:45:03)</span><span style="padding-right:50px;">Galveston: Five dead after plane carrying child burns victim crashes in Texas <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3manhmdlamr2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-23 18:44:41)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔻1.07 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔻1.11 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,24 +32,54 @@
 
 ## News Headlines
 
-- Consulting Firm CEO Accused of Tax Evasion, Allegedly Misusing Sales Promotion Funds
-- Radioactive Material Leaks from Prototype Nuclear Reactor in Japan
-- Japanese Prime Minister Fumio Kishida Considers Strengthening Coast Guard and Improving Treatment of Coast Guardsmen
-- Japan's Nominal GDP Ranks 24th Among Countries
-- Taiwan Sees Significant Increase in Export Orders in November
-- New Year's Bonus for Japanese Employees to Increase by ¥7,000 Due to Government Policy
+- Russia launches large-scale missile and drone attack on Ukraine
+- Japanese retail sales grow for 10th consecutive month
+- China urges Thailand and Cambodia to resume ceasefire as soon as possible
+- Japan's NHK reports on potential new reactor leak
+- US FDA approves daily pill version of Novo Nordisk's Wegovy
+- North Korea's Kim Jong Un tours hotels with daughter, lauds economic progress
 
 
 ----
 
-@sokuho.news
+@japan.reuters.com
 
-🛎️NNNより【速報】です。
+ロシア軍は２３日、ウクライナに対しミサイルとドローン（無人機）による大規模な空爆を実施した。ウクライナ当局によると、クリスマスを控える中、子供１人を含む少なくとも３人が死亡。各地でエネルギー施設が損傷し、緊急停電が発生している。 bit.ly/3KNF0gx
 
-【速報】コンサル会社「即決営業」経営者を起訴 2億3000万円以上を脱税した罪 架空の販売促進費を計上か 大阪地検特捜部
-(2025-12-23 18:28) #ニュース
+[2025-12-23 18:48:37](https://bsky.app/profile/japan.reuters.com/post/3manhtdvdej27)
 
-[2025-12-23 18:28:51](https://bsky.app/profile/sokuho.news/post/3mangpywmxz2v)
+---
+
+@japan.reuters.com
+
+日本チェーンストア協会が２３日発表した１１月の全国スーパーマーケット総販売額（４６社９４６４店）は前年同月比２．８％増の１兆０９６３億４３４８万円だった。増加は９カ月連続。 bit.ly/4pOYcJL
+
+[2025-12-23 18:45:13](https://bsky.app/profile/japan.reuters.com/post/3manhnbe5ji2n)
+
+---
+
+@reuters.com
+
+China implies US hypocrisy over nuclear disarmament reut.rs/44Fnh1q
+
+[2025-12-23 18:45:10](https://bsky.app/profile/reuters.com/post/3manhn6nyvd23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+JR東日本と伊藤忠商事 不動産開発手がける子会社統合を協議へ
+https://news.web.nhk/newsweb/na/na-k10015011741000
+
+[2025-12-23 18:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manhn2bkly2b)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Galveston: Five dead after plane carrying child burns victim crashes in Texas
+
+[2025-12-23 18:44:41](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3manhmdlamr2b)
 
 ---
 
@@ -57,77 +87,46 @@
 
 🛎️JNNより【速報】です。
 
-【速報】新型転換炉原型炉「ふげん」で放射性物質含む水が漏れる トリチウム濃度が上昇
-(2025-12-23 18:27:00) #ニュース
+【速報】警視庁暴対課警部補の男を懲戒免職処分 当時の上司11人も処分 スカウトグループ「ナチュラル」に捜査情報を漏洩か 警視庁
+(2025-12-23 18:40:44) #ニュース
 
-[2025-12-23 18:28:48](https://bsky.app/profile/sokuho.news/post/3mangpwyf2z2r)
+[2025-12-23 18:44:17](https://bsky.app/profile/sokuho.news/post/3manhlmowyg2r)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@en.afp.com
 
-高市首相 大型巡視船増強や海上保安官の処遇改善の考え示す
-https://news.web.nhk/newsweb/na/na-k10015011631000
+🎅 Santa Claus delivers presents around the world
 
-[2025-12-23 18:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mangmt7cwy26)
+From abseiling from a bridge to diving underwater with a shark, Santa Claus is taking on challenges around the world to deliver gifts and entertain children. 
+#AFPVertical
+
+[2025-12-23 18:41:17](https://bsky.app/profile/en.afp.com/post/3manhgaamwo2q)
 
 ---
 
 @japan.reuters.com
 
-高市早苗首相は２３日、来年度当初予算案の編成に向けた大詰めの作業を迎えた。首相就任から２カ月余り。連立の組み替えや首脳外交、今年度補正予算の編成などに取り組み、内閣支持率は高水準で推移する。２０２６年、初めての通常国会に臨む首相はどう安定政権の確立を目指すのか。国民民主党との向き合い方が問われる一方、野党内には「５月解散説」も出始めた。 bit.ly/4jeOzBR
+格付け会社フィッチは２２日、外部の民間債権者の大半との関係が正常化したことを受け、ウクライナの長期外貨建てソブリン格付けを「制限付きデフォルト」（ＲＤ）から「ＣＣＣ」に引き上げた。ウクライナは先週１８日、国内総生産（ＧＤＰ）連動ワラント債（経済成長が一定水準を超えると返済額が上乗せされる債券）の２６億ドル規模の債務再編について合意した。 bit.ly/3Lh07rA
 
-[2025-12-23 18:25:11](https://bsky.app/profile/japan.reuters.com/post/3mangjhsqvj25)
+[2025-12-23 18:40:12](https://bsky.app/profile/japan.reuters.com/post/3manhed4fyb27)
 
 ---
 
 @reuters.com
 
-US military says one person killed in strike on suspected drug vessel in Pacific reut.rs/3Lb24pz
+Chinese envoy urges Thailand-Cambodia to resume ceasefire as soon as possible reut.rs/3KNEO0N
 
-[2025-12-23 18:25:10](https://bsky.app/profile/reuters.com/post/3mangjgp4me2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-円相場 1円以上値上がり 政府・日銀の市場介入への警戒感から
-https://news.web.nhk/newsweb/na/na-k10015011671000
-
-[2025-12-23 18:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mangc4cxwp2b)
-
----
-
-@japan.reuters.com
-
-ロシア南部スタブロポリ地方の工業施設がウクライナ無人機（ドローン）による夜間攻撃を受け、火災が発生した。ウラジミロフ知事が２３日に発表した。負傷者の報告はないという。 bit.ly/4pKWedu
-
-[2025-12-23 18:20:20](https://bsky.app/profile/japan.reuters.com/post/3mangarnu3a27)
+[2025-12-23 18:40:09](https://bsky.app/profile/reuters.com/post/3manheaecdf2y)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-職場の熱中症 ことし10人超死亡 厚労省が初の対策強化検討会
-https://news.web.nhk/newsweb/na/na-k10015011651000
+1月と2月は冬らしい寒さの見込み 気象庁が3か月予報発表
+https://news.web.nhk/newsweb/na/na-k10015011701000
 
-[2025-12-23 18:18:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mang4pswzq22)
-
----
-
-@japan.reuters.com
-
-韓国銀行（中央銀行）のチャン・ヨンソン金融政策委員は２３日、ウォン安の進行や住宅価格の上昇圧力など、金融安定を巡るリスクに引き続き警戒する必要があると述べた。 bit.ly/3NcOgeG
-
-[2025-12-23 18:15:13](https://bsky.app/profile/japan.reuters.com/post/3manfxmux4b25)
-
----
-
-@reuters.com
-
-UK's Pets at Home recruits former Waitrose executive as CEO to lead turnaround reut.rs/3MIBoNv
-
-[2025-12-23 18:15:11](https://bsky.app/profile/reuters.com/post/3manfxlsc3t2c)
+[2025-12-23 18:39:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manhcgmnw72l)
 
 ---
 
