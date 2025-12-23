@@ -1,9 +1,9 @@
-# [2025-12-24 05:50 updated](2025_12_24.md)
+# [2025-12-24 06:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Ukrainian troops withdraw from eastern town of Siversk reut.rs/496l3th <a href="https://bsky.app/profile/reuters.com/post/3maomjh3dm22y" target="_blank">reuters.com</a> (2025-12-24 05:45:13)</span><span style="padding-right:50px;">The high court declined to issue a stay on a lower court’s ruling blocking the deployment. <a href="https://bsky.app/profile/forbes.com/post/3maomjcgx2t2g" target="_blank">forbes.com</a> (2025-12-24 05:45:08)</span><span style="padding-right:50px;">The Supreme Court rebuffs the Trump administration over its plan to deploy National Guard troops in Illinois over the strenuous objections of local officials. <a href="https://bsky.app/profile/nbcnews.com/post/3maomeea2v22j" target="_blank">nbcnews.com</a> (2025-12-24 05:42:22)</span><span style="padding-right:50px;">Breaking news: The Supreme Court said it would not allow President Trump to deploy the National Guard in Chicago for now, a significant setback for his campaign to push troops into cities across the country. <a href="https://bsky.app/profile/washingtonpost.com/post/3maomcxnc642i" target="_blank">washingtonpost.com</a> (2025-12-24 05:41:35)</span><span style="padding-right:50px;">Navigating privacy laws in the collection and processing of ESI reut.rs/4sgTPZW <a href="https://bsky.app/profile/reuters.com/post/3maomb2n3v42r" target="_blank">reuters.com</a> (2025-12-24 05:40:31)</span>
+<span style="padding-right:50px;">ウクライナ軍は２３日、ロシアとの激戦が続いている東部ドネツク州のシベルスクから撤退したと発表した。ロシア軍はウクライナ東部の要衝掌握を狙った攻勢を展開している。 bit.ly/45fHYkJ <a href="https://bsky.app/profile/japan.reuters.com/post/3maonso4moe2q" target="_blank">japan.reuters.com</a> (2025-12-24 06:08:16)</span><span style="padding-right:50px;">The Government Media Office in the Gaza Strip reports that Israeli forces have committed 875 violations over 74 days of the ceasefire, killing 411 Palestinians and injuring 1,112 as they also arrested 45 people. <a href="https://bsky.app/profile/aljazeera.com/post/3maonrrxhy222" target="_blank">aljazeera.com</a> (2025-12-24 06:07:46)</span><span style="padding-right:50px;">A Delaware state trooper was killed along with the suspected gunman during a shooting at a motor vehicle agency near Wilmington. <a href="https://bsky.app/profile/apnews.com/post/3maonqnt4py23" target="_blank">apnews.com</a> (2025-12-24 06:07:08)</span><span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞大規模災害リスク具体化 自治体支援へ指針策定検討会 防災庁主要事業に (2025/12/24 05:00) #ニュース https://www.sankei.com/article/20251224-KOBI4PWLXBJTNH5L34HK3OU7UA/ <a href="https://bsky.app/profile/sokuho.news/post/3maonoftbkv2b" target="_blank">sokuho.news</a> (2025-12-24 06:05:52)</span><span style="padding-right:50px;">Venezuela passes law against piracy, blockades amid US oil ship seizures reut.rs/3KP5EFQ <a href="https://bsky.app/profile/reuters.com/post/3maonn3vy7v23" target="_blank">reuters.com</a> (2025-12-24 06:05:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48439.00 (🔺118.41 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23556.09 (🔺148.39 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.83 (🔺5.87 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.27 (🔻0.74 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔻0.73 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,94 +32,100 @@
 
 ## News Headlines
 
-- Ukrainian troops withdraw from eastern town of Siversk
-- Supreme Court blocks President Trump's plan to deploy National Guard in Illinois
-- U.S. Justice Department releases new documents related to Jeffrey Epstein
-- Supreme Court blocks President Trump's plan to deploy National Guard in Chicago
-- Remains of missing 9-year-old California girl found
-- Supreme Court rejects Trump's military deployment in Chicago area
+- Ukrainian Troops Withdraw from Eastern Town of Siversk
+- LinkedIn Predicts High Demand for Young Jobseekers in 2026
+- US Justice Department Releases More Documents on Jeffrey Epstein Case
+- Supreme Court Blocks President Trump's Plan to Deploy National Guard in Chicago
+- Venezuela Passes Law Against Piracy and Blockades Amid US Oil Ship Seizures
+- Magnitude 3.6 Earthquake Hits Near Amami Oshima in Japan
 
 
 ----
 
-@reuters.com
-
-Ukrainian troops withdraw from eastern town of Siversk reut.rs/496l3th
-
-[2025-12-24 05:45:13](https://bsky.app/profile/reuters.com/post/3maomjh3dm22y)
-
----
-
-@forbes.com
-
-The high court declined to issue a stay on a lower court’s ruling blocking the deployment.
-
-[2025-12-24 05:45:08](https://bsky.app/profile/forbes.com/post/3maomjcgx2t2g)
-
----
-
-@nbcnews.com
-
-The Supreme Court rebuffs the Trump administration over its plan to deploy National Guard troops in Illinois over the strenuous objections of local officials.
-
-[2025-12-24 05:42:22](https://bsky.app/profile/nbcnews.com/post/3maomeea2v22j)
-
----
-
-@washingtonpost.com
-
-<strong><span style="color: red;">Breaking news:</span> The Supreme Court said it would not allow President Trump to deploy the National Guard in Chicago for now, a significant setback for his campaign to push troops into cities across the country.</strong>
-
-[2025-12-24 05:41:35](https://bsky.app/profile/washingtonpost.com/post/3maomcxnc642i)
-
----
-
-@reuters.com
-
-Navigating privacy laws in the collection and processing of ESI reut.rs/4sgTPZW
-
-[2025-12-24 05:40:31](https://bsky.app/profile/reuters.com/post/3maomb2n3v42r)
-
----
-
 @japan.reuters.com
 
-米連邦準備理事会（ＦＲＢ）が３日発表した１１月の製造業生産指数は横ばいとなった。エコノミスト予想も横ばいだった。１０月は０．４％減だった。 bit.ly/44Egu8f
+ウクライナ軍は２３日、ロシアとの激戦が続いている東部ドネツク州のシベルスクから撤退したと発表した。ロシア軍はウクライナ東部の要衝掌握を狙った攻勢を展開している。 bit.ly/45fHYkJ
 
-[2025-12-24 05:40:26](https://bsky.app/profile/japan.reuters.com/post/3maomavp22x2q)
-
----
-
-@en.afp.com
-
-Nicki Minaj long reigned as pop's unruliest shape-shifter -- a hyper-sexual, neon-bright provocateur whose latex-clad persona and explicit lyrics made her a global icon. Today, she commands a different spotlight -- conservatively dressed and warmly received by Republican activists.
-u.afp.com/S8gb
-
-[2025-12-24 05:37:31](https://bsky.app/profile/en.afp.com/post/3maom3plri42h)
+[2025-12-24 06:08:16](https://bsky.app/profile/japan.reuters.com/post/3maonso4moe2q)
 
 ---
 
-@reuters.com
+@aljazeera.com
 
-Venezuela resorts to floating storage as onshore storage tanks fill up reut.rs/4jdvT5w
+The Government Media Office in the Gaza Strip reports that Israeli forces have committed 875 violations over 74 days of the ceasefire, killing 411 Palestinians and injuring 1,112 as they also arrested 45 people.
 
-[2025-12-24 05:35:09](https://bsky.app/profile/reuters.com/post/3maolxho6cq2k)
-
----
-
-@forbes.com
-
-Some regions in Southern California could see life-threatening floods through Christmas day.
-
-[2025-12-24 05:35:04](https://bsky.app/profile/forbes.com/post/3maolxctc2s2t)
+[2025-12-24 06:07:46](https://bsky.app/profile/aljazeera.com/post/3maonrrxhy222)
 
 ---
 
 @apnews.com
 
-The prime minister of Libya confirmed the deaths of Libyan military chief Muhammad Ali Ahmad al-Haddad and four others in a plane crash in Turkey.
+A Delaware state trooper was killed along with the suspected gunman during a shooting at a motor vehicle agency near Wilmington.
 
-[2025-12-24 05:33:18](https://bsky.app/profile/apnews.com/post/3maolu5fvyv2p)
+[2025-12-24 06:07:08](https://bsky.app/profile/apnews.com/post/3maonqnt4py23)
+
+---
+
+@sokuho.news
+
+🛎️産経より【独自】です。
+
+＜独自＞大規模災害リスク具体化 自治体支援へ指針策定検討会 防災庁主要事業に
+(2025/12/24 05:00) #ニュース
+https://www.sankei.com/article/20251224-KOBI4PWLXBJTNH5L34HK3OU7UA/
+
+[2025-12-24 06:05:52](https://bsky.app/profile/sokuho.news/post/3maonoftbkv2b)
+
+---
+
+@reuters.com
+
+Venezuela passes law against piracy, blockades amid US oil ship seizures reut.rs/3KP5EFQ
+
+[2025-12-24 06:05:09](https://bsky.app/profile/reuters.com/post/3maonn3vy7v23)
+
+---
+
+@npr.org
+
+Photographs help us look back on the moments that defined the year. Taken by NPR photojournalists nationwide, this collection goes beyond the headlines to reveal quietly powerful human stories. n.pr/3KLI1Ot
+
+[2025-12-24 06:05:01](https://bsky.app/profile/npr.org/post/3maonmu366s2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+男子ゴルフ 松山英樹 来年に向けて抱負「1つでも多く優勝を」
+https://news.web.nhk/newsweb/na/na-k10015011901000
+
+[2025-12-24 06:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maonjfnqk62k)
+
+---
+
+@cnn.com
+
+A handwritten letter signed by “J. Epstein” appears to make crude references to President Donald Trump in a short 2019 message from jail addressed to convicted sex offender Larry Nassar.
+
+The letter does not explicitly name Trump, but instead refers to “our president.” https://cnn.it/48SNcFx
+
+[2025-12-24 06:02:04](https://bsky.app/profile/cnn.com/post/3maonhlp7xb2a)
+
+---
+
+@cnbc.com
+
+Many recent grads and other entry-level workers are struggling to find work. LinkedIn predicts this will be "the top destination for young jobseekers in 2026." 
+
+[2025-12-24 06:01:36](https://bsky.app/profile/cnbc.com/post/3maongqlvl22d)
+
+---
+
+@apnews.com
+
+Greta Thunberg has been arrested in central London while supporting pro-Palestinian activists on a hunger strike.
+
+[2025-12-24 06:01:30](https://bsky.app/profile/apnews.com/post/3maongkpbkm24)
 
 ---
 
