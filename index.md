@@ -1,9 +1,9 @@
-# [2025-12-23 12:30 updated](2025_12_23.md)
+# [2025-12-23 12:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">New York City Mayor Eric Adams once called himself the "future of the Democratic Party." What went wrong? https://cnn.it/49qt2Tm <a href="https://bsky.app/profile/cnn.com/post/3mamsmll5ew23" target="_blank">cnn.com</a> (2025-12-23 12:29:01)</span><span style="padding-right:50px;">ドイツ自動車大手フォルクスワーゲン（ＶＷ）の高級スポーツ車部門ポルシェは来年、中国で電気自動車（ＥＶ）向け充電インフラを廃止する計画だ。中国政府系メディアの第一財経が２２日、同社中国法人の話として報じた。 bit.ly/498U6Fs <a href="https://bsky.app/profile/japan.reuters.com/post/3mamsmhcpfd2q" target="_blank">japan.reuters.com</a> (2025-12-23 12:28:57)</span><span style="padding-right:50px;">俳優の女性2人に性的暴行の罪 映画監督に懲役10年求刑 https://news.web.nhk/newsweb/na/na-k10015011241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamsj4ncb424" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 12:27:02)</span><span style="padding-right:50px;">＜１２：１５＞　午前のドル156円前半に下落、利食いなど　介入警戒も重し bit.ly/3YGFvvX <a href="https://bsky.app/profile/japan.reuters.com/post/3mamsipm33h25" target="_blank">japan.reuters.com</a> (2025-12-23 12:26:51)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】名古屋大学「掃除中に薬品が爆発」119番通報 テトラクロロシランか 3人病院に搬送 (2025-12-23 12:09) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mamsgahvzf2x" target="_blank">sokuho.news</a> (2025-12-23 12:25:28)</span>
+<span style="padding-right:50px;">ウクライナのゼレンスキー大統領は２２日、ロシア軍に占領された北東部スムイ州の国境沿いの村の住民は何年もの間、ロシア領の隣人と交流していたと述べ、このフラボウシケ村の住民がロシアに連れ去られたとの報道を確認した。 bit.ly/4qrq1rK <a href="https://bsky.app/profile/japan.reuters.com/post/3mamtjlsxz72p" target="_blank">japan.reuters.com</a> (2025-12-23 12:45:14)</span><span style="padding-right:50px;">【きょうのおはBiz 12月23日(火)】長期金利2.1％ 期待と不安感 https://news.web.nhk/newsweb/na/na-k10015011151000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamtjchy2u24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 12:45:02)</span><span style="padding-right:50px;">米国がロシアのウクライナ侵攻終結に向けた和平合意の交渉を進めているが、欧州ではロシアの脅威の矢面に立つことを懸念する。欧州各国は、米国の圧力もあり国防費を増額し、軍装備品の充実化を図っている。だが強化は兵器などの物的資源にとどまらず、人的資源にも及んでいる。 bit.ly/44GOa5a <a href="https://bsky.app/profile/japan.reuters.com/post/3mamtj3fg4h2c" target="_blank">japan.reuters.com</a> (2025-12-23 12:44:57)</span><span style="padding-right:50px;">高市首相 来年度予算案の閣議決定へ 詰めの作業進める考え示す https://news.web.nhk/newsweb/na/na-k10015011281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamtdwz2xs26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 12:42:03)</span><span style="padding-right:50px;">午前のドルは１５６円前半に下落している。利益確定の動きなどで、ドル／円は日銀の金融政策決定会合後の上げ幅の大半を削った。日本の当局者からの口先介入が強まっており、為替介入の警戒感も重しになっているとの声がある。 bit.ly/4jbqTy3 <a href="https://bsky.app/profile/japan.reuters.com/post/3mamtb7svoi22" target="_blank">japan.reuters.com</a> (2025-12-23 12:40:33)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50442.12 (🔺67.64 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3435.00 (🔻44.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.30 (🔻0.71 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50420.84 (🔺46.36 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3445.00 (🔻34.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔻0.72 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,76 +32,94 @@
 
 ## News Headlines
 
-- New York City Mayor Eric Adams' Future in Question
-- Volkswagen to Discontinue EV Charging Infrastructure in China
-- Film Director Sentenced to 10 Years in Prison for Sexual Assault
-- Nagoya University Explosion: 3 Injured in Cleaning Accident
-- Google Parent Alphabet Acquires Intertech for $475 Million
-- US Approves Two New Aircraft Carriers, Naming Them After Trump
+- Ukraine's Zelensky confirms Ukrainians taken by Russia
+- Long-term interest rates remain high at 2.1%
+- European countries boost defense spending amid Russia's threat
+- Japanese government to finalize budget plan for next year
+- Dollar falls in morning trade, yen gains
+- Australia's central bank considers interest rate hike for 2026
+- Indian states and state-run firms to test demand with $5.5 billion debt sales
+- Three people injured in pedestrian accident in Nagoya, Japan
+- Japanese police officer disciplined for leaking information to organized crime group
+- US FDA approves Danish company's obesity treatment
+- Indian economy grows strongly in November, driven by private and urban consumption
+- Multi-vehicle accident in Ibaraki, Japan
+- Australian dollar and New Zealand dollar rise in the Pacific foreign exchange market
+- Google's parent company acquires Intersect Energy for $475 million
+- US President Trump approves construction of two new warships, named 'Trump-class'
+- Google may offer cryptocurrency trading services to institutional investors
+- Barry Manilow diagnosed with lung cancer, cancels tour
+- Former Japanese Emperor commemorates 92nd birthday
+- Ukraine's Zelensky says peace talks with Russia are close to achieving real results
+- Tokyo stock market experiences small fluctuations, with buying and selling intermingling
 
 
 ----
 
-@cnn.com
-
-New York City Mayor Eric Adams once called himself the "future of the Democratic Party." What went wrong? https://cnn.it/49qt2Tm
-
-[2025-12-23 12:29:01](https://bsky.app/profile/cnn.com/post/3mamsmll5ew23)
-
----
-
 @japan.reuters.com
 
-ドイツ自動車大手フォルクスワーゲン（ＶＷ）の高級スポーツ車部門ポルシェは来年、中国で電気自動車（ＥＶ）向け充電インフラを廃止する計画だ。中国政府系メディアの第一財経が２２日、同社中国法人の話として報じた。 bit.ly/498U6Fs
+ウクライナのゼレンスキー大統領は２２日、ロシア軍に占領された北東部スムイ州の国境沿いの村の住民は何年もの間、ロシア領の隣人と交流していたと述べ、このフラボウシケ村の住民がロシアに連れ去られたとの報道を確認した。 bit.ly/4qrq1rK
 
-[2025-12-23 12:28:57](https://bsky.app/profile/japan.reuters.com/post/3mamsmhcpfd2q)
+[2025-12-23 12:45:14](https://bsky.app/profile/japan.reuters.com/post/3mamtjlsxz72p)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-俳優の女性2人に性的暴行の罪 映画監督に懲役10年求刑
-https://news.web.nhk/newsweb/na/na-k10015011241000
+【きょうのおはBiz 12月23日(火)】長期金利2.1％ 期待と不安感
+https://news.web.nhk/newsweb/na/na-k10015011151000
 
-[2025-12-23 12:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamsj4ncb424)
-
----
-
-@japan.reuters.com
-
-＜１２：１５＞　午前のドル156円前半に下落、利食いなど　介入警戒も重し bit.ly/3YGFvvX
-
-[2025-12-23 12:26:51](https://bsky.app/profile/japan.reuters.com/post/3mamsipm33h25)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】名古屋大学「掃除中に薬品が爆発」119番通報 テトラクロロシランか 3人病院に搬送
-(2025-12-23 12:09) #ニュース
-
-[2025-12-23 12:25:28](https://bsky.app/profile/sokuho.news/post/3mamsgahvzf2x)
+[2025-12-23 12:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamtjchy2u24)
 
 ---
 
 @japan.reuters.com
 
-グーグルの親会社アルファベットは２２日、クリーンエネルギー開発を手がけるインターセクトを、債務を含めて現金４７億５０００万ドルで買収すると発表した。 bit.ly/4aqpFgc
+米国がロシアのウクライナ侵攻終結に向けた和平合意の交渉を進めているが、欧州ではロシアの脅威の矢面に立つことを懸念する。欧州各国は、米国の圧力もあり国防費を増額し、軍装備品の充実化を図っている。だが強化は兵器などの物的資源にとどまらず、人的資源にも及んでいる。 bit.ly/44GOa5a
 
-[2025-12-23 12:25:09](https://bsky.app/profile/japan.reuters.com/post/3mamsfnryft27)
+[2025-12-23 12:44:57](https://bsky.app/profile/japan.reuters.com/post/3mamtj3fg4h2c)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️NNNより【速報】です。
+高市首相 来年度予算案の閣議決定へ 詰めの作業進める考え示す
+https://news.web.nhk/newsweb/na/na-k10015011281000
 
-【速報】名古屋大学「掃除中に薬品が爆発」119番通報 テトロクロロシランか 3人病院に搬送
-(2025-12-23 12:09) #ニュース
+[2025-12-23 12:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamtdwz2xs26)
 
-[2025-12-23 12:23:17](https://bsky.app/profile/sokuho.news/post/3mamscczlqm2b)
+---
+
+@japan.reuters.com
+
+午前のドルは１５６円前半に下落している。利益確定の動きなどで、ドル／円は日銀の金融政策決定会合後の上げ幅の大半を削った。日本の当局者からの口先介入が強まっており、為替介入の警戒感も重しになっているとの声がある。 bit.ly/4jbqTy3
+
+[2025-12-23 12:40:33](https://bsky.app/profile/japan.reuters.com/post/3mamtb7svoi22)
+
+---
+
+@japan.reuters.com
+
+オーストラリア準備銀行（中央銀行）は２３日公表した１２月８─９日の理事会の議事要旨で、このところのインフレ率上昇を踏まえ、２０２６年に利上げが必要かどうかを検討したが、確実に判断するには「もう少し」時間がかかるとの見解を示した。 bit.ly/3MR1fTl
+
+[2025-12-23 12:40:17](https://bsky.app/profile/japan.reuters.com/post/3mamtaqdfaa22)
+
+---
+
+@reuters.com
+
+Indian states, state-run firms to test demand with $5.5 bln cluster of debt sales reut.rs/3MR17Dl
+
+[2025-12-23 12:40:14](https://bsky.app/profile/reuters.com/post/3mamtannmuv2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+名古屋 歩行者3人死傷事故の初公判 71歳被告 起訴内容認める
+https://news.web.nhk/newsweb/na/na-k10015011271000
+
+[2025-12-23 12:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamt6kjnyt2b)
 
 ---
 
@@ -109,27 +127,18 @@ https://news.web.nhk/newsweb/na/na-k10015011241000
 
 🛎️JNNより【速報】です。
 
-【速報】｢掃除中 何らかの薬品が爆発した｣と名古屋大学から通報 けが人がいるとの情報も 名古屋・千種区
-(2025-12-23 11:59:00) #ニュース
+【速報】警視庁暴力団対策課の警部補の男を懲戒免職処分へ 当時の上司約10人も処分方針 スカウトグループ「ナチュラル」に捜査情報を漏洩か 警視庁
+(2025-12-23 12:35:35) #ニュース
 
-[2025-12-23 12:22:16](https://bsky.app/profile/sokuho.news/post/3mamsajetfm2z)
-
----
-
-@nhknewsunofficial.bsky.social
-
-米大統領 「トランプ級」と名付け 新たな戦艦2隻の建造を承認
-https://news.web.nhk/newsweb/na/na-k10015011251000
-
-[2025-12-23 12:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mams6fdqd32b)
+[2025-12-23 12:38:34](https://bsky.app/profile/sokuho.news/post/3mamt5nmc442a)
 
 ---
 
-@reuters.com
+@japan.reuters.com
 
-Beijing court jails Zhongzhi Enterprise's former chairman for illegally taking public funds reut.rs/459Mr8A
+米食品医薬品局（ＦＤＡ）は２２日、デンマーク製薬大手ノボノルディスクの肥満症治療用の経口薬を承認した。注射薬に続く新たな選択肢となり、競合の米イーライ・リリーに奪われた市場シェアの奪還を目指す同社に追い風となる。 bit.ly/4apgoFb
 
-[2025-12-23 12:20:17](https://bsky.app/profile/reuters.com/post/3mams4xhqkp2k)
+[2025-12-23 12:38:23](https://bsky.app/profile/japan.reuters.com/post/3mamt5degh22n)
 
 ---
 
