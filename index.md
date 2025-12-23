@@ -1,9 +1,9 @@
-# [2025-12-24 00:50 updated](2025_12_24.md)
+# [2025-12-24 01:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ACA subsidies are expiring. Here’s who the lapse will hit hardest <a href="https://bsky.app/profile/cnbc.com/post/3mao3tyyl6n24" target="_blank">cnbc.com</a> (2025-12-24 00:46:53)</span><span style="padding-right:50px;">LIVE: UN Security Council meets on Iran's nuclear program www.youtube.com/live/g9Bdtk8... <a href="https://bsky.app/profile/reuters.com/post/3mao3r3ypjs2m" target="_blank">reuters.com</a> (2025-12-24 00:45:16)</span><span style="padding-right:50px;">Newcastle call for clarification on Gordon penalty denial in Chelsea draw reut.rs/4p9V2iL <a href="https://bsky.app/profile/reuters.com/post/3mao3qwqte72r" target="_blank">reuters.com</a> (2025-12-24 00:45:10)</span><span style="padding-right:50px;">Senator Richard Blumenthal of Connecticut is requesting information from an architect hired to oversee President Trump’s White House ballroom project and from people invited to a donor dinner with the president. <a href="https://bsky.app/profile/nytimes.com/post/3mao3qplfm52y" target="_blank">nytimes.com</a> (2025-12-24 00:45:03)</span><span style="padding-right:50px;">BREAKING: Former Republican Sen. Ben Sasse announced he has terminal stage-four pancreatic cancer.   <a href="https://bsky.app/profile/cbsnews.com/post/3mao3q5r7yn2a" target="_blank">cbsnews.com</a> (2025-12-24 00:44:44)</span>
+<span style="padding-right:50px;">At least five people were killed on Monday when a Mexican Navy medical plane crashed into Galveston Bay in Texas as it was flying a child with burns to a specialized pediatric hospital for treatment, Mexico’s president said on Tuesday. <a href="https://bsky.app/profile/nytimes.com/post/3mao53v3yla2a" target="_blank">nytimes.com</a> (2025-12-24 01:09:12)</span><span style="padding-right:50px;">Germany deports criminal to Syria as pressure mounts on migration reut.rs/3YEbCMS <a href="https://bsky.app/profile/reuters.com/post/3mao4une46k2i" target="_blank">reuters.com</a> (2025-12-24 01:05:08)</span><span style="padding-right:50px;"> Melting chocolate prices are a festive gift for the sweet-toothed ft.trib.al/n2kM9BW  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mao4raoebd2o" target="_blank">financialtimes.com</a> (2025-12-24 01:03:15)</span><span style="padding-right:50px;">With just a few gear upgrades and some canny strategies, you can make your experience not just tolerable, but maybe even a little luxurious on.wsj.com/49qd0J6 <a href="https://bsky.app/profile/wsj.com/post/3mao4qbxour2h" target="_blank">wsj.com</a> (2025-12-24 01:02:42)</span><span style="padding-right:50px;">The physician-scientist contributed to advances in understanding and treating the ailment now also called Hansen’s disease. on.wsj.com/4sgpOcI <a href="https://bsky.app/profile/wsj.com/post/3mao4qbzdxa2r" target="_blank">wsj.com</a> (2025-12-24 01:02:42)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48459.53 (🔺138.94 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23459.05 (🔺51.36 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 185.88 (🔺2.92 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.66 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48431.91 (🔺111.32 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23486.63 (🔺78.94 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 186.85 (🔺3.89 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.66 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,94 +32,93 @@
 
 ## News Headlines
 
-- US Economy Expands at 4.3% Rate in Third Quarter
-- Trump Administration to Impose Tariffs on Chinese Semiconductors in 2027
-- Senator Blumenthal Requests Information on Trump's White House Project
-- Former Senator Ben Sasse Announces Terminal Cancer Diagnosis
-- Sterling Rises to 12-Week High Against Weaker US Dollar
-- Google Takes Lead in AI Market by End of 2025
+- At least 5 killed as Mexican Navy medical plane crashes into Texas bay
+- Germany deports criminal to Syria amid migration pressure
+- Melting chocolate prices bring sweet treats for consumers
+- US economy grows faster than expected in third quarter
+- Bangladesh summons Indian envoy over mob lynching of Hindu worker
+- US to start seizing pay of defaulted student loan borrowers in January
 
 
 ----
 
-@cnbc.com
-
-ACA subsidies are expiring. Here’s who the lapse will hit hardest
-
-[2025-12-24 00:46:53](https://bsky.app/profile/cnbc.com/post/3mao3tyyl6n24)
-
----
-
-@reuters.com
-
-LIVE: UN Security Council meets on Iran's nuclear program
-www.youtube.com/live/g9Bdtk8...
-
-[2025-12-24 00:45:16](https://bsky.app/profile/reuters.com/post/3mao3r3ypjs2m)
-
----
-
-@reuters.com
-
-Newcastle call for clarification on Gordon penalty denial in Chelsea draw reut.rs/4p9V2iL
-
-[2025-12-24 00:45:10](https://bsky.app/profile/reuters.com/post/3mao3qwqte72r)
-
----
-
 @nytimes.com
 
-Senator Richard Blumenthal of Connecticut is requesting information from an architect hired to oversee President Trump’s White House ballroom project and from people invited to a donor dinner with the president.
+At least five people were killed on Monday when a Mexican Navy medical plane crashed into Galveston Bay in Texas as it was flying a child with burns to a specialized pediatric hospital for treatment, Mexico’s president said on Tuesday.
 
-[2025-12-24 00:45:03](https://bsky.app/profile/nytimes.com/post/3mao3qplfm52y)
-
----
-
-@cbsnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Former Republican Sen. Ben Sasse announced he has terminal stage-four pancreatic cancer.  </strong>
-
-[2025-12-24 00:44:44](https://bsky.app/profile/cbsnews.com/post/3mao3q5r7yn2a)
-
----
-
-@cnbc.com
-
-Here's how AI could influence the Fed's economic outlook
-
-[2025-12-24 00:44:39](https://bsky.app/profile/cnbc.com/post/3mao3pyv2dk2n)
-
----
-
-@japan.reuters.com
-
-米連邦準備理事会（ＦＲＢ）が３日発表した１１月の製造業生産指数は横ばいとなった。エコノミスト予想も横ばいだった。１０月は０．４％減だった。 bit.ly/3YtE6cl
-
-[2025-12-24 00:44:28](https://bsky.app/profile/japan.reuters.com/post/3mao3po2pae2s)
+[2025-12-24 01:09:12](https://bsky.app/profile/nytimes.com/post/3mao53v3yla2a)
 
 ---
 
 @reuters.com
 
-The US economy grew faster than expected in the third quarter, driven by robust consumer spending, but momentum appears to have faded amid the rising cost of living and recent government shutdown reut.rs/4s9JyP5
+Germany deports criminal to Syria as pressure mounts on migration reut.rs/3YEbCMS
 
-[2025-12-24 00:44:09](https://bsky.app/profile/reuters.com/post/3mao3p3u2xk2u)
+[2025-12-24 01:05:08](https://bsky.app/profile/reuters.com/post/3mao4une46k2i)
 
 ---
 
-@npr.org
+@financialtimes.com
 
-AFP's Dylan Collins was among journalists injured in an Israeli attack on Lebanon in 2023. The attack killed Reuters' Issam Abdallah. Collins was in Washington this month to press for accountability. n.pr/49oWjxH
+ Melting chocolate prices are a festive gift for the sweet-toothed ft.trib.al/n2kM9BW  | opinion
 
-[2025-12-24 00:43:35](https://bsky.app/profile/npr.org/post/3mao3o3dix22n)
+[2025-12-24 01:03:15](https://bsky.app/profile/financialtimes.com/post/3mao4raoebd2o)
+
+---
+
+@wsj.com
+
+With just a few gear upgrades and some canny strategies, you can make your experience not just tolerable, but maybe even a little luxurious on.wsj.com/49qd0J6
+
+[2025-12-24 01:02:42](https://bsky.app/profile/wsj.com/post/3mao4qbxour2h)
+
+---
+
+@wsj.com
+
+The physician-scientist contributed to advances in understanding and treating the ailment now also called Hansen’s disease. on.wsj.com/4sgpOcI
+
+[2025-12-24 01:02:42](https://bsky.app/profile/wsj.com/post/3mao4qbzdxa2r)
 
 ---
 
 @reuters.com
 
-Sterling rises to 12-week high versus weaker dollar reut.rs/3Y6AhJV
+President Donald Trump reasserted on December 22 that the United States needs Greenland for national security and said a newly appointed special envoy would 'lead the charge,' drawing sharp criticism from Denmark and Greenland reut.rs/3MOf5G6
 
-[2025-12-24 00:40:13](https://bsky.app/profile/reuters.com/post/3mao3i3anrx2r)
+[2025-12-24 01:02:14](https://bsky.app/profile/reuters.com/post/3mao4ph2kss2m)
+
+---
+
+@usatoday.com
+
+Need movies to see this holiday break? Watch these 25 at home now, including "One Battle After Another." All are free on your streaming services.
+
+[2025-12-24 01:01:23](https://bsky.app/profile/usatoday.com/post/3mao4nwj6t22h)
+
+---
+
+@washingtonpost.com
+
+Review: Every scene in “Marty Supreme” was high-stakes, propelling this compelling, unlikable man one step closer or further from a destiny you were never quite sure he deserved.
+
+[2025-12-24 01:00:50](https://bsky.app/profile/washingtonpost.com/post/3mao4mwjswz2d)
+
+---
+
+@reuters.com
+
+South Korean president orders stern response to illegal fishing boats from China reut.rs/4qnr9wi
+
+[2025-12-24 01:00:42](https://bsky.app/profile/reuters.com/post/3mao4mopcky2b)
+
+---
+
+@nbcnews.com
+
+A judge declares a mistrial in the corruption case of a former aide to New York governors, who sold her influence to China and profited from a medical equipment scheme during the pandemic, after jurors say they couldn't reach a verdict on the charges. 
+
+[2025-12-24 01:00:36](https://bsky.app/profile/nbcnews.com/post/3mao4mju7rl25)
 
 ---
 
