@@ -1,9 +1,9 @@
-# [2025-12-24 04:30 updated](2025_12_24.md)
+# [2025-12-24 04:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">トランプ大統領 FRBパウエル議長後任近く発表へ 人事の行方は https://news.web.nhk/newsweb/na/na-k10015011981000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maoi5q6eun2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 04:27:02)</span><span style="padding-right:50px;">CSG will supply trucks to Slovak army under framework deal worth up to $1.2 billion reut.rs/4jeZwDB <a href="https://bsky.app/profile/reuters.com/post/3maoi2comul2o" target="_blank">reuters.com</a> (2025-12-24 04:25:10)</span><span style="padding-right:50px;">トランプ米政権は２３日、中国が半導体産業の支配を狙うのは「不合理」として、中国から輸入する半導体に関税を課すと発表した。ただ、実際の適用は２０２７年６月まで延期する。中国のレアアース（希土類）輸出規制に直面する中、トランプ政権による中国との緊張緩和を図る一連の取り組みの一環とみられる。 bit.ly/3L0rMx2 <a href="https://bsky.app/profile/japan.reuters.com/post/3maohru4n7r22" target="_blank">japan.reuters.com</a> (2025-12-24 04:20:26)</span><span style="padding-right:50px;">The DOJ released a new batch of Epstein files on Tuesday.  Here's how the DOJ releases the documents and how others are making them easier to read. <a href="https://bsky.app/profile/axios.com/post/3maohrjsgfs23" target="_blank">axios.com</a> (2025-12-24 04:20:15)</span><span style="padding-right:50px;">A man who had once been known for performing stunts around Paris on his motorbike is suspected of being one of four who robbed the museum. <a href="https://bsky.app/profile/wsj.com/post/3maohovv5h52g" target="_blank">wsj.com</a> (2025-12-24 04:18:47)</span>
+<span style="padding-right:50px;">UK police drop probe into Bob Vylan comments about Israeli military reut.rs/48QkNzQ <a href="https://bsky.app/profile/reuters.com/post/3maoj65cawj2b" target="_blank">reuters.com</a> (2025-12-24 04:45:12)</span><span style="padding-right:50px;">外国人住民 全国の市区町村96％で増加 うち半数で2倍以上に https://news.web.nhk/newsweb/na/na-k10015011861000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maoiykfhkv2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 04:42:02)</span><span style="padding-right:50px;">Lawsuit challenges Trump administration's ending of protections for South Sudanese migrants reut.rs/4qojcqD <a href="https://bsky.app/profile/reuters.com/post/3maoivnvnlt2r" target="_blank">reuters.com</a> (2025-12-24 04:40:27)</span><span style="padding-right:50px;">米商務省が２３日発表した１０月の耐久財受注は、前月比２．２％減だった。９月の０．７％増から反転した。一方、民間設備投資の先行指標とされるコア資本財（非国防資本財から航空機を除く）の受注は０．５％増と、ロイターがまとめたエコノミスト予想の０．４％増を上回った。９月も０．９％増から１．１％増に上方改定された。 bit.ly/4jf7Y5C <a href="https://bsky.app/profile/japan.reuters.com/post/3maoivgi6mn25" target="_blank">japan.reuters.com</a> (2025-12-24 04:40:20)</span><span style="padding-right:50px;">British prosecutors on Tuesday charged Russell Brand with two counts of sexual assault, including one of rape. <a href="https://bsky.app/profile/nytimes.com/post/3maoipz4fvy27" target="_blank">nytimes.com</a> (2025-12-24 04:37:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48474.57 (🔺153.98 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23539.29 (🔺131.60 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.59 (🔺5.63 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.23 (🔻0.78 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48462.64 (🔺142.05 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23543.63 (🔺135.93 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 188.60 (🔺5.63 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.25 (🔻0.76 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-- Trump to Appoint FRB Chairman Nominee Near Future
-- US Imposes Tariffs on Chinese Semiconductors
-- DOJ Releases New Batch of Epstein Files
-- Turkey Raises Monthly Minimum Wage by 27%
-- EU Plans Stricter Controls on Plastic Imports
-- US Plans to Deport Migrants to Other Countries
+- UK police drop probe into Bob Vylan comments about Israeli military
+- Foreign residents account for 96% of all municipalities nationwide, with half seeing a doubling of population
+- Lawsuit challenges Trump administration's ending of protections for South Sudanese migrants
+- US Commerce Department announces 2.2% decline in durable goods orders in October
+- British prosecutors charge Russell Brand with two counts of sexual assault
+- Five killed as Mexican plane carrying burned 2-year-old crashes off Texas coast
 
 
 ----
 
+@reuters.com
+
+UK police drop probe into Bob Vylan comments about Israeli military reut.rs/48QkNzQ
+
+[2025-12-24 04:45:12](https://bsky.app/profile/reuters.com/post/3maoj65cawj2b)
+
+---
+
 @nhknewsunofficial.bsky.social
 
-トランプ大統領 FRBパウエル議長後任近く発表へ 人事の行方は
-https://news.web.nhk/newsweb/na/na-k10015011981000
+外国人住民 全国の市区町村96％で増加 うち半数で2倍以上に
+https://news.web.nhk/newsweb/na/na-k10015011861000
 
-[2025-12-24 04:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maoi5q6eun2v)
+[2025-12-24 04:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maoiykfhkv2l)
 
 ---
 
 @reuters.com
 
-CSG will supply trucks to Slovak army under framework deal worth up to $1.2 billion reut.rs/4jeZwDB
+Lawsuit challenges Trump administration's ending of protections for South Sudanese migrants reut.rs/4qojcqD
 
-[2025-12-24 04:25:10](https://bsky.app/profile/reuters.com/post/3maoi2comul2o)
+[2025-12-24 04:40:27](https://bsky.app/profile/reuters.com/post/3maoivnvnlt2r)
 
 ---
 
 @japan.reuters.com
 
-トランプ米政権は２３日、中国が半導体産業の支配を狙うのは「不合理」として、中国から輸入する半導体に関税を課すと発表した。ただ、実際の適用は２０２７年６月まで延期する。中国のレアアース（希土類）輸出規制に直面する中、トランプ政権による中国との緊張緩和を図る一連の取り組みの一環とみられる。 bit.ly/3L0rMx2
+米商務省が２３日発表した１０月の耐久財受注は、前月比２．２％減だった。９月の０．７％増から反転した。一方、民間設備投資の先行指標とされるコア資本財（非国防資本財から航空機を除く）の受注は０．５％増と、ロイターがまとめたエコノミスト予想の０．４％増を上回った。９月も０．９％増から１．１％増に上方改定された。 bit.ly/4jf7Y5C
 
-[2025-12-24 04:20:26](https://bsky.app/profile/japan.reuters.com/post/3maohru4n7r22)
-
----
-
-@axios.com
-
-The DOJ released a new batch of Epstein files on Tuesday.
-
-Here's how the DOJ releases the documents and how others are making them easier to read.
-
-[2025-12-24 04:20:15](https://bsky.app/profile/axios.com/post/3maohrjsgfs23)
-
----
-
-@wsj.com
-
-A man who had once been known for performing stunts around Paris on his motorbike is suspected of being one of four who robbed the museum.
-
-[2025-12-24 04:18:47](https://bsky.app/profile/wsj.com/post/3maohovv5h52g)
-
----
-
-@reuters.com
-
-Turkey raises monthly minimum wage by 27% for 2026 reut.rs/3MVCLIv
-
-[2025-12-24 04:15:16](https://bsky.app/profile/reuters.com/post/3maohim3khm2i)
-
----
-
-@financialtimes.com
-
-A person appearing to be the former Prince Andrew emailed Ghislaine Maxwell asking if she had any 'new inappropriate friends' for him ahead of an official royal visit to Peru. ft.trib.al/CunAjlw
-
-[2025-12-24 04:11:13](https://bsky.app/profile/financialtimes.com/post/3maohbelk7h23)
-
----
-
-@reuters.com
-
-EU plans stricter controls on plastic imports to help struggling recyclers reut.rs/44CbtNy
-
-[2025-12-24 04:10:13](https://bsky.app/profile/reuters.com/post/3maoh7l6pek2x)
+[2025-12-24 04:40:20](https://bsky.app/profile/japan.reuters.com/post/3maoivgi6mn25)
 
 ---
 
 @nytimes.com
 
-Brussels sprouts love fat, and here they get it in the best way: buried under cream. This dish is one of our best vegetarian Christmas recipes. nyti.ms/45kuJiG
+British prosecutors on Tuesday charged Russell Brand with two counts of sexual assault, including one of rape.
 
-[2025-12-24 04:10:05](https://bsky.app/profile/nytimes.com/post/3maoh7dzakz25)
+[2025-12-24 04:37:18](https://bsky.app/profile/nytimes.com/post/3maoipz4fvy27)
 
 ---
 
-@nbcnews.com
+@reuters.com
 
-The woman who brutally stabbed her sixth-grade classmate more than a decade ago is returning to institutionalized care on Tuesday after running away from a group home last month.
+Five killed as Mexican plane carrying burned 2-year-old crashes off Texas coast reut.rs/3MMPX2x
 
-[2025-12-24 04:07:11](https://bsky.app/profile/nbcnews.com/post/3maoh26a6fo2x)
+[2025-12-24 04:35:09](https://bsky.app/profile/reuters.com/post/3maoim6ml7a2b)
+
+---
+
+@npr.org
+
+Our most popular global health and development stories in 2025 covered the human impact of the upheaval in U.S. foreign aid, surprising news about familiar diseases and the beauty of earth captured by drone cameras. n.pr/453fivt
+
+[2025-12-24 04:34:10](https://bsky.app/profile/npr.org/post/3maoikfy4xx24)
+
+---
+
+@japan.reuters.com
+
+カナダ銀行（中央銀行）が２３日に公表した１２月１０日の政策決定会合の議事要旨で、米国の通商政策の予測が困難になっていることのほか、経済指標が大きく変動していることを背景に、７人の政策委員が中銀の次の一手が利上げになるのか、利下げになるのかを見通すのは難しいとの認識で一致していたことが分かった。 bit.ly/3KL7bN9
+
+[2025-12-24 04:32:20](https://bsky.app/profile/japan.reuters.com/post/3maoih4fhon2q)
+
+---
+
+@reuters.com
+
+Rapids name Matt Wells as head coach reut.rs/3MOXXQw
+
+[2025-12-24 04:31:30](https://bsky.app/profile/reuters.com/post/3maoifmsvzr24)
+
+---
+
+@usatoday.com
+
+From felt ornaments to dried orange garlands, Gen Z is reviving handmade holiday decor in a sentimental way.
+
+[2025-12-24 04:30:37](https://bsky.app/profile/usatoday.com/post/3maoie2bb5i2t)
 
 ---
 
