@@ -1,9 +1,9 @@
-# [2025-12-23 20:10 updated](2025_12_23.md)
+# [2025-12-23 20:30 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The U.S.’s pursuit of oil tankers around Venezuela is part of a new legal strategy under the Trump administration to seize ships that transport black market oil around the world, according to Justice Department officials. <a href="https://bsky.app/profile/wsj.com/post/3manm6z4syz2s" target="_blank">wsj.com</a> (2025-12-23 20:06:43)</span><span style="padding-right:50px;">中国の政府系業界団体である中国有色金属工業協会は２３日、スズ価格の「不当な」高騰が業界に打撃を与えているとの声明を発表した。投資家に対し、過度な投機取引を控えるよう呼びかけている。 bit.ly/4scmdMB <a href="https://bsky.app/profile/japan.reuters.com/post/3manm4dg5km2c" target="_blank">japan.reuters.com</a> (2025-12-23 20:05:13)</span><span style="padding-right:50px;">England to probe reports of excessive drinking during Ashes break reut.rs/3KOdvn4 <a href="https://bsky.app/profile/reuters.com/post/3manm46xvaq2b" target="_blank">reuters.com</a> (2025-12-23 20:05:08)</span><span style="padding-right:50px;">The suit filed by Beatty, who serves as an ex officio member of the Kennedy Center’s board of trustees, alleges the name change is illegal, as Congress has not approved it. <a href="https://bsky.app/profile/forbes.com/post/3manm44ydty2g" target="_blank">forbes.com</a> (2025-12-23 20:05:06)</span><span style="padding-right:50px;">高市首相「無責任な減税しない」、国債発行抑える　単独インタビュー www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3manlum5kri26" target="_blank">nikkei.com</a> (2025-12-23 20:00:54)</span>
+<span style="padding-right:50px;">Top 25 roundup: Caleb Wilson, No. 12 UNC keep rolling reut.rs/4pRh6Qr <a href="https://bsky.app/profile/reuters.com/post/3manna4t4pu2b" target="_blank">reuters.com</a> (2025-12-23 20:25:14)</span><span style="padding-right:50px;">スペイン国家統計局が２３日発表した第３・四半期の国内総生産（ＧＤＰ）改定値は前期比０．６％増だった。速報値から修正はなかった。 bit.ly/3YEMG7V <a href="https://bsky.app/profile/japan.reuters.com/post/3mann7x3o2z2v" target="_blank">japan.reuters.com</a> (2025-12-23 20:25:08)</span><span style="padding-right:50px;">Lexington, Neb., has been hit hard by the news that Tyson Foods is closing its sprawling meatpacking plant, which has provided steady paychecks for more than 3,000 workers. <a href="https://bsky.app/profile/wsj.com/post/3mann27327m2r" target="_blank">wsj.com</a> (2025-12-23 20:21:55)</span><span style="padding-right:50px;">韓国 サムスン電子元幹部らを起訴 半導体生産技術を中国へ流出 https://news.web.nhk/newsweb/na/na-k10015011811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manmytzsfo2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 20:21:08)</span><span style="padding-right:50px;">高市首相 来年度予算案“来年のできるだけ早期に成立目指す” https://news.web.nhk/newsweb/na/na-k10015011821000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manmyp4j762s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 20:21:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.95 (🔻1.06 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 155.89 (🔻1.12 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,96 +32,104 @@
 
 ## News Headlines
 
-- US Seizes Oil Tankers as Part of New Legal Strategy to Combat Black Market Oil
-- China's Rare Earth Prices Skyrocket, Industrial Association Warns of Crisis
-- England to Investigate Reports of Excessive Drinking During Ashes Break
-- Norway's November Oil and Gas Production Surpasses Forecast
-- Scientists Create Monkeys with Schizophrenia and Autism in China, Raising Ethical Concerns
-- Australia to Impose Sweeping Laws Cracking Down on Guns and Protests After Mass Shooting
+- Caleb Wilson, UNC Keep Rolling
+- Japan GDP Growth Remains Stable at 0.6% in Q3
+- Tyson Foods to Close Meatpacking Plant in Lexington, Nebraska
+- Samsung Electronics Executives Charged in South Korea for Technology Leak
+- Ukraine Hit by Russian Strikes, Power Cuts in Freezing Temperatures
+- Japan's Prime Minister Fumio Kishida to Push for Early Passage of Budget
 
 
 ----
 
-@wsj.com
+@reuters.com
 
-The U.S.’s pursuit of oil tankers around Venezuela is part of a new legal strategy under the Trump administration to seize ships that transport black market oil around the world, according to Justice Department officials.
+Top 25 roundup: Caleb Wilson, No. 12 UNC keep rolling reut.rs/4pRh6Qr
 
-[2025-12-23 20:06:43](https://bsky.app/profile/wsj.com/post/3manm6z4syz2s)
+[2025-12-23 20:25:14](https://bsky.app/profile/reuters.com/post/3manna4t4pu2b)
 
 ---
 
 @japan.reuters.com
 
-中国の政府系業界団体である中国有色金属工業協会は２３日、スズ価格の「不当な」高騰が業界に打撃を与えているとの声明を発表した。投資家に対し、過度な投機取引を控えるよう呼びかけている。 bit.ly/4scmdMB
+スペイン国家統計局が２３日発表した第３・四半期の国内総生産（ＧＤＰ）改定値は前期比０．６％増だった。速報値から修正はなかった。 bit.ly/3YEMG7V
 
-[2025-12-23 20:05:13](https://bsky.app/profile/japan.reuters.com/post/3manm4dg5km2c)
-
----
-
-@reuters.com
-
-England to probe reports of excessive drinking during Ashes break reut.rs/3KOdvn4
-
-[2025-12-23 20:05:08](https://bsky.app/profile/reuters.com/post/3manm46xvaq2b)
+[2025-12-23 20:25:08](https://bsky.app/profile/japan.reuters.com/post/3mann7x3o2z2v)
 
 ---
 
-@forbes.com
+@wsj.com
 
-The suit filed by Beatty, who serves as an ex officio member of the Kennedy Center’s board of trustees, alleges the name change is illegal, as Congress has not approved it.
+Lexington, Neb., has been hit hard by the news that Tyson Foods is closing its sprawling meatpacking plant, which has provided steady paychecks for more than 3,000 workers.
 
-[2025-12-23 20:05:06](https://bsky.app/profile/forbes.com/post/3manm44ydty2g)
+[2025-12-23 20:21:55](https://bsky.app/profile/wsj.com/post/3mann27327m2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+韓国 サムスン電子元幹部らを起訴 半導体生産技術を中国へ流出
+https://news.web.nhk/newsweb/na/na-k10015011811000
+
+[2025-12-23 20:21:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manmytzsfo2s)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相 来年度予算案“来年のできるだけ早期に成立目指す”
+https://news.web.nhk/newsweb/na/na-k10015011821000
+
+[2025-12-23 20:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3manmyp4j762s)
+
+---
+
+@japan.reuters.com
+
+ゆうちょ銀行は２３日、発行済み株式の０．６％に当たる２３００万株・３００億円を上限とする自社株買いを決議したと発表した。取得期間は２４日から来年３月２４日まで。 bit.ly/498vU63
+
+[2025-12-23 20:20:18](https://bsky.app/profile/japan.reuters.com/post/3manmxcic5g2q)
+
+---
+
+@en.afp.com
+
+🇺🇦 Large-scale Russian strikes killed at least three people and cut power to thousands in freezing winter temperatures across Ukraine, as US-led talks to end the nearly four-year war faltered. 
+➡️ u.afp.com/S8fk
+
+[2025-12-23 20:20:01](https://bsky.app/profile/en.afp.com/post/3manmwsbzng2j)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】福井の転換炉「ふげん」放射性物質含む水漏れで作業員3人に被ばくなし
+(2025年12月23日 20:19) #ニュース
+
+[2025-12-23 20:19:56](https://bsky.app/profile/sokuho.news/post/3manmwni2qq2e)
 
 ---
 
 @nikkei.com
 
-高市首相「無責任な減税しない」、国債発行抑える　単独インタビュー
+福井「ふげん」で放射性物質含む水漏れ、廃炉作業中に　原子力規制委（無料記事）
 www.nikkei.com/article/DGXZQO...
 
-[2025-12-23 20:00:54](https://bsky.app/profile/nikkei.com/post/3manlum5kri26)
+作業員は防護服と全面マスクを着用しており、現時点で被曝は確認されていません。
+
+#ニュース
+
+[2025-12-23 20:16:40](https://bsky.app/profile/nikkei.com/post/3manmqslbyk2m)
 
 ---
 
 @reuters.com
 
-Norway's November oil and gas production beats forecast reut.rs/4scsuI0
+European shares hit record high as Novo Nordisk drives healthcare boost reut.rs/4s9YpJj
 
-[2025-12-23 20:00:53](https://bsky.app/profile/reuters.com/post/3manlulta3c2p)
-
----
-
-@bloomberg.com
-
-Chinese scientists have created monkeys with schizophrenia and autism, research that’s shunned in the US and Europe due to ethical concerns.
-
-[2025-12-23 20:00:47](https://bsky.app/profile/bloomberg.com/post/3manluft7fz2h)
-
----
-
-@japan.reuters.com
-
-中国で「全国住宅城郷（都市と農村）建設工作会議」が２２─２３日に北京で開かれ、２０２６年に都市再開発と不動産市場安定化の取り組みを強化する方針を示した。 bit.ly/4qpI5T3
-
-[2025-12-23 20:00:36](https://bsky.app/profile/japan.reuters.com/post/3manlu2x2jw2q)
-
----
-
-@cnbc.com
-
-Dhruv Amin and Marcus Lowe shut down their developer marketplace in 2023 after predicting that the AI revolution would render their business model obsolete.
-
-Then, they shuttered the whole thing to start over from scratch — all due to ChatGPT, says Amin.
-
-[2025-12-23 20:00:22](https://bsky.app/profile/cnbc.com/post/3manlto7e6v2e)
-
----
-
-@nbcnews.com
-
-President Trump’s name is being attached to a new class of U.S. battleships that will have nuclear capabilities.
-
-[2025-12-23 20:00:09](https://bsky.app/profile/nbcnews.com/post/3manltbl52t23)
+[2025-12-23 20:15:25](https://bsky.app/profile/reuters.com/post/3manmoktanr2y)
 
 ---
 
