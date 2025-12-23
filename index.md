@@ -1,9 +1,9 @@
-# [2025-12-23 08:50 updated](2025_12_23.md)
+# [2025-12-23 09:10 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Democratic-led states sue to block US consumer watchdog's defunding under Trump reut.rs/4s1Pk58 <a href="https://bsky.app/profile/reuters.com/post/3mamg4f3ibg2s" target="_blank">reuters.com</a> (2025-12-23 08:45:13)</span><span style="padding-right:50px;">Trump says U.S. will keep the crude oil and tankers seized near Venezuela <a href="https://bsky.app/profile/cnbc.com/post/3mamfyes42t2e" target="_blank">cnbc.com</a> (2025-12-23 08:42:58)</span><span style="padding-right:50px;">ニューヨーク外為市場では、円が対ドルで上昇した。政府・日銀による円買い・ドル売りの為替介入の実施が引き続き意識される中、三村淳財務官が「為替の一方向で急激な動き」を憂慮していると発言。日本当局が為替介入を実施する用意を示唆した可能性が高いとの見方が市場で広がった。 bit.ly/4qrihGg <a href="https://bsky.app/profile/japan.reuters.com/post/3mamftlfxdj2q" target="_blank">japan.reuters.com</a> (2025-12-23 08:40:17)</span><span style="padding-right:50px;">Trump pulls 30 envoys in ‘America First’ push, critics say it weakens US abroad reut.rs/45l3tAA <a href="https://bsky.app/profile/reuters.com/post/3mamftgptww2s" target="_blank">reuters.com</a> (2025-12-23 08:40:12)</span><span style="padding-right:50px;">At a New York City training, educators explored how artificial intelligence could support teaching, while also discussing their concerns around the technology. <a href="https://bsky.app/profile/nbcnews.com/post/3mamftdx2p72r" target="_blank">nbcnews.com</a> (2025-12-23 08:40:09)</span>
+<span style="padding-right:50px;">米国時間の原油先物は２％超上昇して取引を終えた。米沿岸警備隊が週末にベネズエラ沖の国際水域で石油タンカーの拿捕（だほ）を試みたことや、ウクライナがロシア南部にある黒海沿岸の村でドローン（無人機）攻撃を行ったことなどが材料となり、石油供給が途絶するリスクが高まった。 bit.ly/4pU00S2 <a href="https://bsky.app/profile/japan.reuters.com/post/3mamh7ztpd625" target="_blank">japan.reuters.com</a> (2025-12-23 09:05:09)</span><span style="padding-right:50px;">New York Times reporter sues Google, xAI, OpenAI over chatbot training reut.rs/44CVjDx <a href="https://bsky.app/profile/reuters.com/post/3mamh7znlyi2i" target="_blank">reuters.com</a> (2025-12-23 09:05:08)</span><span style="padding-right:50px;">Jim Cramer looks back at 2025's biggest market themes <a href="https://bsky.app/profile/cnbc.com/post/3mamh7kjydx2n" target="_blank">cnbc.com</a> (2025-12-23 09:04:53)</span><span style="padding-right:50px;">“Stranger Things” actor Finn Wolfhard says he once called Jesse Eisenberg to ask for help on managing anxiety. “I thought, who’s the most anxious actor I know?” 🔗 on.wsj.com/4pKt5zb <a href="https://bsky.app/profile/wsj.com/post/3mamh5eefbk2c" target="_blank">wsj.com</a> (2025-12-23 09:03:39)</span><span style="padding-right:50px;">カナダのカーニー首相は２２日、新駐米大使に米資産運用大手ブラックロックの元幹部であるマーク・ワイズマン氏を任命したと明らかにした。トランプ米大統領の関税政策に対する取り組みに重点を置くという。 bit.ly/4p8FuMk <a href="https://bsky.app/profile/japan.reuters.com/post/3mamh3pvrv62u" target="_blank">japan.reuters.com</a> (2025-12-23 09:02:44)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.85 (🔻0.15 : 2025-12-22)</span>
+<span style="padding-right:50px;">NIKKEI: 50402.39 (🔺317.84 : 2025-12-22)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3455.00 (🔻39.00 : 2025-12-22)</span><span style="padding-right:50px;">USD/JPY: 156.79 (🔻0.21 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -32,95 +32,100 @@
 
 ## News Headlines
 
-- Democratic-led states sue to block US consumer watchdog's defunding under Trump
-- Trump says US will keep seized oil and tankers near Venezuela
-- NYC educators explore AI in teaching, discuss concerns
-- Syrian government and Kurdish-led forces order ceasefire following clashes
-- FDA approves daily pill version of weight-loss drug Wegovy
-- US economy is slowing, Invesco predicts, tipping Europe to outperform
+- US Crude Oil Futures Surge 2% Ahead of Trading Cessation
+- New York Times Reporter Sues Google, xAI, OpenAI Over Chatbot Training
+- Jim Cramer Looks Back at 2025's Biggest Market Themes
+- Canadian Prime Minister Appoints New US Ambassador with Focus on Trump Tariffs
+- US Stocks Close Higher as Tech Stocks Rebound
+- Former Trump Official Mark Wiseman Named Canada's New US Ambassador
 
 
 ----
 
+@japan.reuters.com
+
+米国時間の原油先物は２％超上昇して取引を終えた。米沿岸警備隊が週末にベネズエラ沖の国際水域で石油タンカーの拿捕（だほ）を試みたことや、ウクライナがロシア南部にある黒海沿岸の村でドローン（無人機）攻撃を行ったことなどが材料となり、石油供給が途絶するリスクが高まった。 bit.ly/4pU00S2
+
+[2025-12-23 09:05:09](https://bsky.app/profile/japan.reuters.com/post/3mamh7ztpd625)
+
+---
+
 @reuters.com
 
-Democratic-led states sue to block US consumer watchdog's defunding under Trump reut.rs/4s1Pk58
+New York Times reporter sues Google, xAI, OpenAI over chatbot training reut.rs/44CVjDx
 
-[2025-12-23 08:45:13](https://bsky.app/profile/reuters.com/post/3mamg4f3ibg2s)
+[2025-12-23 09:05:08](https://bsky.app/profile/reuters.com/post/3mamh7znlyi2i)
 
 ---
 
 @cnbc.com
 
-Trump says U.S. will keep the crude oil and tankers seized near Venezuela
+Jim Cramer looks back at 2025's biggest market themes
 
-[2025-12-23 08:42:58](https://bsky.app/profile/cnbc.com/post/3mamfyes42t2e)
+[2025-12-23 09:04:53](https://bsky.app/profile/cnbc.com/post/3mamh7kjydx2n)
+
+---
+
+@wsj.com
+
+“Stranger Things” actor Finn Wolfhard says he once called Jesse Eisenberg to ask for help on managing anxiety. “I thought, who’s the most anxious actor I know?” 🔗 on.wsj.com/4pKt5zb
+
+[2025-12-23 09:03:39](https://bsky.app/profile/wsj.com/post/3mamh5eefbk2c)
 
 ---
 
 @japan.reuters.com
 
-ニューヨーク外為市場では、円が対ドルで上昇した。政府・日銀による円買い・ドル売りの為替介入の実施が引き続き意識される中、三村淳財務官が「為替の一方向で急激な動き」を憂慮していると発言。日本当局が為替介入を実施する用意を示唆した可能性が高いとの見方が市場で広がった。 bit.ly/4qrihGg
+カナダのカーニー首相は２２日、新駐米大使に米資産運用大手ブラックロックの元幹部であるマーク・ワイズマン氏を任命したと明らかにした。トランプ米大統領の関税政策に対する取り組みに重点を置くという。 bit.ly/4p8FuMk
 
-[2025-12-23 08:40:17](https://bsky.app/profile/japan.reuters.com/post/3mamftlfxdj2q)
-
----
-
-@reuters.com
-
-Trump pulls 30 envoys in ‘America First’ push, critics say it weakens US abroad reut.rs/45l3tAA
-
-[2025-12-23 08:40:12](https://bsky.app/profile/reuters.com/post/3mamftgptww2s)
+[2025-12-23 09:02:44](https://bsky.app/profile/japan.reuters.com/post/3mamh3pvrv62u)
 
 ---
 
-@nbcnews.com
+@bloomberg.com
 
-At a New York City training, educators explored how artificial intelligence could support teaching, while also discussing their concerns around the technology.
+Across the US, affordability concerns are intensifying and infusing the political conversation. How do you feel about your finances right now?
 
-[2025-12-23 08:40:09](https://bsky.app/profile/nbcnews.com/post/3mamftdx2p72r)
+Bloomberg reporters want to hear your story 
+
+[2025-12-23 09:01:19](https://bsky.app/profile/bloomberg.com/post/3mamgz74bc723)
 
 ---
 
-@en.afp.com
+@usatoday.com
 
-The Syrian government and Kurdish-led forces order their fighters to cease fire following deadly clashes that came as Turkey's top diplomat urged the Kurds to integrate into the Syrian army ⤵️ 
+Chris Rea, the British blues-rock singer known for the holiday classic "Driving Home for Christmas," has died at age 74.
 
-u.afp.com/S8Nx
-
-[2025-12-23 08:40:01](https://bsky.app/profile/en.afp.com/post/3mamft3zcfd2y)
+[2025-12-23 09:01:05](https://bsky.app/profile/usatoday.com/post/3mamgyrr3z72l)
 
 ---
 
 @cnn.com
 
-The FDA has approved a daily pill version of the weight-loss drug Wegovy, introducing a new option for how patients can take medicines in a class of drugs that has revolutionized obesity treatment: https://cnn.it/4p1TOG9
+Now a full-throated MAGA supporter, the rapper spent years criticizing Trump’s anti-immigration stance. https://cnn.it/4qkTa7L
 
-[2025-12-23 08:39:04](https://bsky.app/profile/cnn.com/post/3mamfrftpty2q)
+[2025-12-23 09:01:04](https://bsky.app/profile/cnn.com/post/3mamgyqmici2o)
 
 ---
 
 @japan.reuters.com
 
-＜０８：２１＞　寄り前の板状況、ＳＯＭＰＯ　ＨＬＤＧが買い優勢　中電工は売り優勢 bit.ly/3YEGg8K
+米国株式市場は上昇して取引を終えた。テクノロジー株の反発が続いたほか、幅広い銘柄が買われ、Ｓ＆Ｐ総合５００種の主要１１セクターがほぼ全て上昇する展開となった。 bit.ly/4jgMy8o
 
-[2025-12-23 08:38:37](https://bsky.app/profile/japan.reuters.com/post/3mamfqlmnye2c)
-
----
-
-@nytimes.com
-
-"I am fussy when it comes to Manhattans and I have experimented with lots of different ingredients. But hand down this one really is the best I have made or had! dangerously delicious!" nyti.ms/4s9T3Ok
-
-[2025-12-23 08:38:05](https://bsky.app/profile/nytimes.com/post/3mamfpn4wcl2r)
+[2025-12-23 09:00:58](https://bsky.app/profile/japan.reuters.com/post/3mamgykdhu622)
 
 ---
 
-@cnbc.com
+@nikkei.com
 
-‘No doubt’ U.S. economy is slowing, Invesco says, tipping Europe to outperform
+アメリカ特使「グリーンランドを米国の一部に」　トランプ氏の任命に欧州が一斉反発
+www.nikkei.com/article/DGXZQO...
+ 
+SNSで南部ルイジアナ州の知事をデンマーク自治領グリーンランド担当特使に任命すると発表。
+ 
+国ではないグリーンランドのために特使を用意するのは、領有に向けたトランプ氏の野心のあらわれ。世論工作の形跡も報じられ、欧州で危機感が強まっています。
 
-[2025-12-23 08:36:26](https://bsky.app/profile/cnbc.com/post/3mamfmoxxhl2g)
+[2025-12-23 09:00:40](https://bsky.app/profile/nikkei.com/post/3mamgxzdgdc2y)
 
 ---
 
