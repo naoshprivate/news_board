@@ -1,9 +1,9 @@
-# [2025-12-23 11:32 updated](2025_12_23.md)
+# [2025-12-23 11:50 updated](2025_12_23.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米教育省は２２日、ロードアイランド州プロビデンスのブラウン大学で今月発生した銃乱射事件を受け、同大の安全対策を再検討していると発表した。 bit.ly/48Q9ibA <a href="https://bsky.app/profile/japan.reuters.com/post/3mamp4p62al2u" target="_blank">japan.reuters.com</a> (2025-12-23 11:26:27)</span><span style="padding-right:50px;">カナダのカーニー首相は２２日、新駐米大使に米資産運用大手ブラックロックの元幹部であるマーク・ワイズマン氏を任命したと明らかにした。トランプ米大統領の関税政策に対する取り組みに重点を置くという。 bit.ly/48TQGra <a href="https://bsky.app/profile/japan.reuters.com/post/3mamp2dirhz2q" target="_blank">japan.reuters.com</a> (2025-12-23 11:25:07)</span><span style="padding-right:50px;">２０１９年に創設されたものの新型コロナウイルスのパンデミック（世界的大流行）などの影響で２１年を最後に休止されていた国際水泳リーグ（ＩＳＬ）が、早ければ２６年にも再開される計画であることが分かった。 bit.ly/3Y8RaDO <a href="https://bsky.app/profile/japan.reuters.com/post/3mamoustswd22" target="_blank">japan.reuters.com</a> (2025-12-23 11:22:02)</span><span style="padding-right:50px;">【エプスタイン文書】 司法省、削除したトランプ氏写真を修正せず再公開 www.nikkei.com/article/DGXZQO...   富豪エプスタイン氏に関して司法省が開示した資料には、トランプ大統領と水着姿の女性らが写った写真が含まれていました。   同省は被害者保護の観点から一時削除したと説明。閲覧できなくなったことを批判する声が広がっていました。   ブランチ司法副長官は削除について「トランプ氏とは一切関係がない」と主張しています。 <a href="https://bsky.app/profile/nikkei.com/post/3mamosekpx722" target="_blank">nikkei.com</a> (2025-12-23 11:20:40)</span><span style="padding-right:50px;">Frail yen whipped around as intervention threat swirls reut.rs/4aqKHLL <a href="https://bsky.app/profile/reuters.com/post/3mamormkfhc2p" target="_blank">reuters.com</a> (2025-12-23 11:20:15)</span>
+<span style="padding-right:50px;">全日空と日本航空 予約サイトのシステム障害 午前中に復旧 https://news.web.nhk/newsweb/na/na-k10015011131000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamqde74nq2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 11:48:02)</span><span style="padding-right:50px;">アクティビスト（物言う投資家）のネルソン・ペルツ氏のトライアン、ベンチャーキャピタル（ＶＣ）ジェネラル・カタリストなどの投資家グループは、アクティブ運用大手ジャナス・ヘンダーソンを７４億ドルで買収し非公開化することで合意した。 bit.ly/4pT7qVD <a href="https://bsky.app/profile/japan.reuters.com/post/3mamq66qtbr2p" target="_blank">japan.reuters.com</a> (2025-12-23 11:45:10)</span><span style="padding-right:50px;">来年度予算案 過去最大 122兆円台の方向で調整 きょう閣僚折衝 https://news.web.nhk/newsweb/na/na-k10015011201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamq65b2qm2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 11:45:07)</span><span style="padding-right:50px;">政府 AIの利活用や開発の方向性示した初の基本計画を決定 https://news.web.nhk/newsweb/na/na-k10015011161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamq5yorst24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-23 11:45:02)</span><span style="padding-right:50px;">＜１１：３４＞　前場の日経平均は小幅続伸、利益確定が上値抑制　マイナス圏と往来 bit.ly/4963VUB <a href="https://bsky.app/profile/japan.reuters.com/post/3mamq5rvdsi2n" target="_blank">japan.reuters.com</a> (2025-12-23 11:44:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50522.83 (🔺148.35 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3443.00 (🔻36.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.34 (🔻0.67 : 2025-12-23)</span>
+<span style="padding-right:50px;">NIKKEI: 50442.12 (🔺67.64 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48362.68 (🔺150.80 : 2025-12-22)</span><span style="padding-right:50px;">NASDAQ: 23428.83 (🔻21.70 : 2025-12-22)</span><span style="padding-right:50px;">NVIDIA: 183.69 (🔻0.23 : 2025-12-22)</span><span style="padding-right:50px;">トヨタ自動車: 3435.00 (🔻44.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔻0.71 : 2025-12-23)</span>
   </div>
 </div>
 
@@ -30,75 +30,67 @@
 
 ---
 
-@japan.reuters.com
+## News Headlines
 
-米教育省は２２日、ロードアイランド州プロビデンスのブラウン大学で今月発生した銃乱射事件を受け、同大の安全対策を再検討していると発表した。 bit.ly/48Q9ibA
+- ANA and Japan Airlines Reservation System Failure Repaired in the Morning
+- Nelson Peltz-led Investor Group Agrees to Acquire Jana Henderson for $7.4 Billion
+- Government to Decide on Budget for Next Year, Expected to be Over ¥122 Trillion
+- Government to Decide on AI Utilization and Development Plan
+- Stocks and Precious Metals Rise, Yen on Intervention Watch
+- U.S. Stocks Close Higher, Technology Stocks Lead the Charge
+- Uganda Coach Unfazed by Tunisia's Unbeaten Streak
+- China's Central Bank Sets Yuan to Highest Level in Over a Year
+- Japan's Nikkei Falls, Shimamura Continues to Decline
+- JR Keihan Line Suspension due to Train Collision with Tree
+- U.S. Stocks Rise, Technology Stocks Lead the Charge
+- China's Central Bank Sets Yuan to Highest Level in Over a Year
+- Uganda Coach Unfazed by Tunisia's Unbeaten Streak
+- Japan's Nikkei Falls, Shimamura Continues to Decline
+- JR Keihan Line Suspension due to Train Collision with Tree
 
-[2025-12-23 11:26:27](https://bsky.app/profile/japan.reuters.com/post/3mamp4p62al2u)
 
----
+----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-カナダのカーニー首相は２２日、新駐米大使に米資産運用大手ブラックロックの元幹部であるマーク・ワイズマン氏を任命したと明らかにした。トランプ米大統領の関税政策に対する取り組みに重点を置くという。 bit.ly/48TQGra
+全日空と日本航空 予約サイトのシステム障害 午前中に復旧
+https://news.web.nhk/newsweb/na/na-k10015011131000
 
-[2025-12-23 11:25:07](https://bsky.app/profile/japan.reuters.com/post/3mamp2dirhz2q)
-
----
-
-@japan.reuters.com
-
-２０１９年に創設されたものの新型コロナウイルスのパンデミック（世界的大流行）などの影響で２１年を最後に休止されていた国際水泳リーグ（ＩＳＬ）が、早ければ２６年にも再開される計画であることが分かった。 bit.ly/3Y8RaDO
-
-[2025-12-23 11:22:02](https://bsky.app/profile/japan.reuters.com/post/3mamoustswd22)
-
----
-
-@nikkei.com
-
-【エプスタイン文書】
-司法省、削除したトランプ氏写真を修正せず再公開
-www.nikkei.com/article/DGXZQO...
- 
-富豪エプスタイン氏に関して司法省が開示した資料には、トランプ大統領と水着姿の女性らが写った写真が含まれていました。
- 
-同省は被害者保護の観点から一時削除したと説明。閲覧できなくなったことを批判する声が広がっていました。
- 
-ブランチ司法副長官は削除について「トランプ氏とは一切関係がない」と主張しています。
-
-[2025-12-23 11:20:40](https://bsky.app/profile/nikkei.com/post/3mamosekpx722)
-
----
-
-@reuters.com
-
-Frail yen whipped around as intervention threat swirls reut.rs/4aqKHLL
-
-[2025-12-23 11:20:15](https://bsky.app/profile/reuters.com/post/3mamormkfhc2p)
+[2025-12-23 11:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamqde74nq2w)
 
 ---
 
 @japan.reuters.com
 
-米国時間の原油先物は２％超上昇して取引を終えた。米沿岸警備隊が週末にベネズエラ沖の国際水域で石油タンカーの拿捕（だほ）を試みたことや、ウクライナがロシア南部にある黒海沿岸の村でドローン（無人機）攻撃を行ったことなどが材料となり、石油供給が途絶するリスクが高まった。 bit.ly/49pVogr
+アクティビスト（物言う投資家）のネルソン・ペルツ氏のトライアン、ベンチャーキャピタル（ＶＣ）ジェネラル・カタリストなどの投資家グループは、アクティブ運用大手ジャナス・ヘンダーソンを７４億ドルで買収し非公開化することで合意した。 bit.ly/4pT7qVD
 
-[2025-12-23 11:20:14](https://bsky.app/profile/japan.reuters.com/post/3mamorlwxtk2q)
+[2025-12-23 11:45:10](https://bsky.app/profile/japan.reuters.com/post/3mamq66qtbr2p)
 
 ---
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-An odd offer from a reclusive billionaire: Have one of my babies and every one of them will get a share of my fortune. He has 100 kids and counting.
+来年度予算案 過去最大 122兆円台の方向で調整 きょう閣僚折衝
+https://news.web.nhk/newsweb/na/na-k10015011201000
 
-[2025-12-23 11:19:33](https://bsky.app/profile/wsj.com/post/3mamoqerks42o)
+[2025-12-23 11:45:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamq65b2qm2m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+政府 AIの利活用や開発の方向性示した初の基本計画を決定
+https://news.web.nhk/newsweb/na/na-k10015011161000
+
+[2025-12-23 11:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mamq5yorst24)
 
 ---
 
 @japan.reuters.com
 
-＜１０：４０＞　ドルが156円半ばに下落、円の自律反発 bit.ly/4aoxbZ0
+＜１１：３４＞　前場の日経平均は小幅続伸、利益確定が上値抑制　マイナス圏と往来 bit.ly/4963VUB
 
-[2025-12-23 11:14:23](https://bsky.app/profile/japan.reuters.com/post/3mamoh4puff2c)
+[2025-12-23 11:44:57](https://bsky.app/profile/japan.reuters.com/post/3mamq5rvdsi2n)
 
 ---
 
@@ -106,18 +98,42 @@ An odd offer from a reclusive billionaire: Have one of my babies and every one o
 
 🛎️JNNより【速報】です。
 
-【速報】地方創生を推進するための総合戦略が閣議決定 AIなど徹底活用し、地方の労働生産性の成長率を東京圏以上目指す
-(2025-12-23 11:10:45) #ニュース
+【速報】住宅火災で60代男性1人けが 現在も消防が消火活動 青森市浪岡
+(2025-12-23 11:34:00) #ニュース
 
-[2025-12-23 11:11:49](https://bsky.app/profile/sokuho.news/post/3mamocjt76f2x)
+[2025-12-23 11:42:13](https://bsky.app/profile/sokuho.news/post/3mampyvbsn52v)
 
 ---
 
-@npr.org
+@japan.reuters.com
 
-President Trump claims the warship will be "the fastest, the biggest, and by far 100 times more powerful than any battleship ever built." A month ago, the Navy scrapped plans to build a new, small warship, citing delays and cost overruns. n.pr/4pSg7zB
+片山さつき財務相は２３日の閣議後会見で、足元の為替相場についてファンダメンタルズを反映しているとは思えないと指摘、行き過ぎた動きに対しては９月の日米財務相共同声明の考え方を踏まえて「対応を取る」と語った。 bit.ly/45bLMn4
 
-[2025-12-23 11:10:42](https://bsky.app/profile/npr.org/post/3mamoaklvjj2p)
+[2025-12-23 11:40:41](https://bsky.app/profile/japan.reuters.com/post/3mampw5xcdr2p)
+
+---
+
+@japan.reuters.com
+
+オランダの半導体企業ネクスペリアと、親会社の電子機器大手ウイングテック（聞泰科技）が先週、第１回目の協議を実施し、対話を続けることで合意した。中国商務省が２２日公表した声明で明らかになった。 bit.ly/4j7RtrW
+
+[2025-12-23 11:40:18](https://bsky.app/profile/japan.reuters.com/post/3mampvhwyln2q)
+
+---
+
+@reuters.com
+
+Oil slips as market weighs Venezuela, Russia supply risks reut.rs/4auGRRO
+
+[2025-12-23 11:40:14](https://bsky.app/profile/reuters.com/post/3mampved7su2r)
+
+---
+
+@japan.reuters.com
+
+＜１１：０９＞　前場の国債先物は反発、長期金利2.045％　買い戻し優勢 bit.ly/3KZrqXu
+
+[2025-12-23 11:38:29](https://bsky.app/profile/japan.reuters.com/post/3mamps7qyo425)
 
 ---
 
