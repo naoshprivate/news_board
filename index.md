@@ -1,9 +1,9 @@
-# [2025-12-24 09:50 updated](2025_12_24.md)
+# [2025-12-24 10:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">イスラエルの新興企業の連携組織「スタートアップ・ネーション・セントラル（ＳＮＣ）」が２２日公表した暫定データによると、同国のハイテク企業が２０２５年に私募調達した資金は総額１５６億ドルと、前年の１２２億ドルから増加した。 bit.ly/4paHuDI <a href="https://bsky.app/profile/japan.reuters.com/post/3map22otv5r25" target="_blank">japan.reuters.com</a> (2025-12-24 09:47:30)</span><span style="padding-right:50px;">Investor Louis Bacon wins defamation case against ex-fashion mogul Peter Nygard reut.rs/4pY1vi0 <a href="https://bsky.app/profile/reuters.com/post/3maozwld2lb2s" target="_blank">reuters.com</a> (2025-12-24 09:45:12)</span><span style="padding-right:50px;">Everyone knows walking is good for you, and many of us count our daily steps. But is it better to take a longer walk than a comparable number of steps spread across the day?  A multinational team of researchers set out to find the answer.  Read more: on.wsj.com/4qoIHZ6 <a href="https://bsky.app/profile/wsj.com/post/3maozwgcn7x2h" target="_blank">wsj.com</a> (2025-12-24 09:45:07)</span><span style="padding-right:50px;">Russia and China on Tuesday criticized the United States for its military and economic pressure on Venezuela, telling the UN Security Council it was "cowboy behavior" and "intimidation." u.afp.com/S8Mo <a href="https://bsky.app/profile/en.afp.com/post/3maozwbidvm2h" target="_blank">en.afp.com</a> (2025-12-24 09:45:01)</span><span style="padding-right:50px;">Epstein files takeaways: possible co-conspirators, fake video and Trump trips <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maozvd3o2u2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-24 09:44:29)</span>
+<span style="padding-right:50px;">カナダ統計局が２３日発表した１０月の国内総生産（ＧＤＰ）は前月比０．３％減少し、約３年ぶりの大幅な落ち込みとなった。ただ、１１月は０．１％増に反転するとみられている。 bit.ly/4qoHSiL <a href="https://bsky.app/profile/japan.reuters.com/post/3map37ss6mp2q" target="_blank">japan.reuters.com</a> (2025-12-24 10:08:16)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】国内の金小売価格 1グラムあたり初の2万5000円超え 前日より154円↑ (2025-12-24 10:00:04) #ニュース https://news.tv-asahi.co.jp/news_economy/articles/000474954.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3map37sgcyy2b" target="_blank">sokuho.news</a> (2025-12-24 10:08:15)</span><span style="padding-right:50px;">The artist's latest mural depicts the shadows of two people wearing hats and boots on the ground, with one finger pointing up. <a href="https://bsky.app/profile/usatoday.com/post/3map35vsqot2f" target="_blank">usatoday.com</a> (2025-12-24 10:07:12)</span><span style="padding-right:50px;">日銀が１０月２９―３０日に開いた金融政策決定会合では、近い将来の利上げを意識した発言が相次ぐ中、何人かの委員が企業の賃金・価格設定行動が積極化しているもとで「為替円安の進行が、輸入物価の上昇などを通じて物価の上振れにつながりやすい状況にある」と述べていたことが分かった。日銀が２４日、決定会合の議事要旨を公表した。 bit.ly/4pQaUrH <a href="https://bsky.app/profile/japan.reuters.com/post/3map35ufsac2p" target="_blank">japan.reuters.com</a> (2025-12-24 10:07:10)</span><span style="padding-right:50px;">Remembering Warren Buffett's best advice as he prepares to end his time running Berkshire Hathaway.  <a href="https://bsky.app/profile/yahoofinance.com/post/3map33wegtv2u" target="_blank">yahoofinance.com</a> (2025-12-24 10:06:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50469.76 (🔻5.72 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3392.00 (🔻26.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 156.12 (🔻0.06 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50591.14 (🔺115.66 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3399.00 (🔻19.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 156.02 (🔻0.16 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,99 +32,97 @@
 
 ## News Headlines
 
-- Investor Wins Defamation Case Against Ex-Fashion Mogul Peter Nygard
-- Supreme Court Blocks Trump's Plan to Send National Guard to Chicago
-- US Judge Tosses Trump's Challenge to New York Immigration Law
-- Blackstone's LivCor Settles DOJ's Rental Price Fixing Claims
-- Australia to Deport British Man Charged with Displaying Nazi Symbols
-- Apple to Allow Third-Party App Stores in Brazil to Settle iOS Case with Regulator
+- Canada's GDP fell 0.3% in October, its first significant drop in three years
+- Japanese gold price hits record high of ¥25,000 per gram
+- Several BOJ officials warn of increased risk of inflation
+- US dollar falls against yen and euro in thin Christmas Eve trading
+- Billionaire offers one of his 100+ children a share of his fortune in exchange for having a baby
+- France's parliament approves emergency budget for 2026
 
 
 ----
 
 @japan.reuters.com
 
-イスラエルの新興企業の連携組織「スタートアップ・ネーション・セントラル（ＳＮＣ）」が２２日公表した暫定データによると、同国のハイテク企業が２０２５年に私募調達した資金は総額１５６億ドルと、前年の１２２億ドルから増加した。 bit.ly/4paHuDI
+カナダ統計局が２３日発表した１０月の国内総生産（ＧＤＰ）は前月比０．３％減少し、約３年ぶりの大幅な落ち込みとなった。ただ、１１月は０．１％増に反転するとみられている。 bit.ly/4qoHSiL
 
-[2025-12-24 09:47:30](https://bsky.app/profile/japan.reuters.com/post/3map22otv5r25)
+[2025-12-24 10:08:16](https://bsky.app/profile/japan.reuters.com/post/3map37ss6mp2q)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-Investor Louis Bacon wins defamation case against ex-fashion mogul Peter Nygard reut.rs/4pY1vi0
+🛎️ANNより【速報】です。
 
-[2025-12-24 09:45:12](https://bsky.app/profile/reuters.com/post/3maozwld2lb2s)
+【速報】国内の金小売価格 1グラムあたり初の2万5000円超え 前日より154円↑
+(2025-12-24 10:00:04) #ニュース
+https://news.tv-asahi.co.jp/news_economy/articles/000474954.html?display=full
+
+[2025-12-24 10:08:15](https://bsky.app/profile/sokuho.news/post/3map37sgcyy2b)
+
+---
+
+@usatoday.com
+
+The artist's latest mural depicts the shadows of two people wearing hats and boots on the ground, with one finger pointing up.
+
+[2025-12-24 10:07:12](https://bsky.app/profile/usatoday.com/post/3map35vsqot2f)
+
+---
+
+@japan.reuters.com
+
+日銀が１０月２９―３０日に開いた金融政策決定会合では、近い将来の利上げを意識した発言が相次ぐ中、何人かの委員が企業の賃金・価格設定行動が積極化しているもとで「為替円安の進行が、輸入物価の上昇などを通じて物価の上振れにつながりやすい状況にある」と述べていたことが分かった。日銀が２４日、決定会合の議事要旨を公表した。 bit.ly/4pQaUrH
+
+[2025-12-24 10:07:10](https://bsky.app/profile/japan.reuters.com/post/3map35ufsac2p)
+
+---
+
+@yahoofinance.com
+
+Remembering Warren Buffett's best advice as he prepares to end his time running Berkshire Hathaway. 
+
+[2025-12-24 10:06:05](https://bsky.app/profile/yahoofinance.com/post/3map33wegtv2u)
+
+---
+
+@japan.reuters.com
+
+ニューヨーク外為市場ではクリスマスを控えた薄商いの中、ドルが円やユーロなどの主要通貨に対し下落した。第３・四半期の米経済成長率が予想を上回ったものの、連邦準備理事会（ＦＲＢ）に対する利下げ圧力が意識されていることがドル相場の重しになっている。 bit.ly/492aBo5
+
+[2025-12-24 10:05:09](https://bsky.app/profile/japan.reuters.com/post/3map32b5qog2v)
 
 ---
 
 @wsj.com
 
-Everyone knows walking is good for you, and many of us count our daily steps. But is it better to take a longer walk than a comparable number of steps spread across the day?
+An odd offer from a reclusive billionaire: Have one of my babies and every one of them will get a share of my fortune. He has 100 kids and counting. on.wsj.com/45pilxT
 
-A multinational team of researchers set out to find the answer.
-
-Read more: on.wsj.com/4qoIHZ6
-
-[2025-12-24 09:45:07](https://bsky.app/profile/wsj.com/post/3maozwgcn7x2h)
+[2025-12-24 10:03:52](https://bsky.app/profile/wsj.com/post/3map2xxzkfe2g)
 
 ---
 
-@en.afp.com
+@cnbc.com
 
-Russia and China on Tuesday criticized the United States for its military and economic pressure on Venezuela, telling the UN Security Council it was "cowboy behavior" and "intimidation." u.afp.com/S8Mo
+Asia’s year in review: Who had it best — and who had it worst — in 2025
 
-[2025-12-24 09:45:01](https://bsky.app/profile/en.afp.com/post/3maozwbidvm2h)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Epstein files takeaways: possible co-conspirators, fake video and Trump trips
-
-[2025-12-24 09:44:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maozvd3o2u2b)
-
----
-
-@japan.reuters.com
-
-世界貿易機関（ＷＴＯ）は２３日、中国が太陽光電池や太陽光モジュール、ＩＴ製品を巡ってインドをＷＴＯに提訴したと発表した。 bit.ly/4jdMCFQ
-
-[2025-12-24 09:44:08](https://bsky.app/profile/japan.reuters.com/post/3maozuokxsx2n)
-
----
-
-@axios.com
-
-The Supreme Court today declined to let President Trump send National Guard troops to the Chicago area.
-
-[2025-12-24 09:43:35](https://bsky.app/profile/axios.com/post/3maoztoa3vs2r)
-
----
-
-@japan.reuters.com
-
-米連邦最高裁は２３日、トランプ大統領による中西部イリノイ州シカゴへの州兵派遣を巡り、下級審の派遣差し止め命令の取り消しを求めた政権側の申し立てを退ける判断を下した。 bit.ly/4jckCCt
-
-[2025-12-24 09:40:19](https://bsky.app/profile/japan.reuters.com/post/3maoznu6cdl2s)
+[2025-12-24 10:02:46](https://bsky.app/profile/cnbc.com/post/3map2vyqggg2b)
 
 ---
 
 @reuters.com
 
-US judge tosses Trump challenge to New York immigration-related law reut.rs/3YdkHft
+US health agency unveils weight-loss drug coverage model reut.rs/4s9LZkA
 
-[2025-12-24 09:40:15](https://bsky.app/profile/reuters.com/post/3maoznptsa72i)
+[2025-12-24 10:01:07](https://bsky.app/profile/reuters.com/post/3map2t2i77k2p)
 
 ---
 
-@nytimes.com
+@apnews.com
 
-In @nytopinion.nytimes.com
+Imposed centuries ago by Spanish colonizers, the pollera skirt has long since been restyled with local, richly patterned fabrics and reclaimed as a source of pride and badge of identity for Indigenous women in Bolivia.
 
-Amy Chozick remembers the real-life Ping-Pong hustler she befriended when she first moved to New York who inspired the movie “Marty Supreme.”
-
-[2025-12-24 09:40:02](https://bsky.app/profile/nytimes.com/post/3maozndpbct2r)
+[2025-12-24 10:00:51](https://bsky.app/profile/apnews.com/post/3map2skutty2x)
 
 ---
 
