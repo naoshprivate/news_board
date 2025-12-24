@@ -1,9 +1,9 @@
-# [2025-12-24 19:30 updated](2025_12_24.md)
+# [2025-12-24 19:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">India's Reliance gets one-month US concession to buy Rosneft oil, sources say reut.rs/48SJnQv <a href="https://bsky.app/profile/reuters.com/post/3maq2dkoxmb23" target="_blank">reuters.com</a> (2025-12-24 19:25:07)</span><span style="padding-right:50px;">Nineteen states on Tuesday sued to block the Trump administration’s plan to effectively end gender-related care for minors. <a href="https://bsky.app/profile/nytimes.com/post/3maq2dirbce2y" target="_blank">nytimes.com</a> (2025-12-24 19:25:03)</span><span style="padding-right:50px;">🇦🇺 🏛️ Lawmakers in Australia's most populous state on Wednesday approved sweeping laws cracking down on guns and giving authorities the power to ban protests after the nation's deadliest mass shooting in decades ➡️ u.afp.com/S8Qw <a href="https://bsky.app/profile/en.afp.com/post/3maq2daitam26" target="_blank">en.afp.com</a> (2025-12-24 19:24:57)</span><span style="padding-right:50px;">OTC類似薬 特別料金上乗せ対象 まずは77成分 約1100品目の方針 https://news.web.nhk/newsweb/na/na-k10015012771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maq2bojtwa2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 19:24:02)</span><span style="padding-right:50px;">Today, people consider "Yule" synonymous with "Christmas." But centuries ago, Yule meant something different — a pagan mid-winter festival, dating back to pre-Christian Germanic people. n.pr/3YaZPp6 <a href="https://bsky.app/profile/npr.org/post/3maq2axwncd2i" target="_blank">npr.org</a> (2025-12-24 19:23:41)</span>
+<span style="padding-right:50px;">ゼンショーHD子会社、冷凍食品を自主回収　消毒薬のようなにおい（無料記事） www.nikkei.com/article/DGXZQO...  「おかず三昧 海老といかのひとくち揚げ」の一部商品を自主回収すると発表。  全国で流通する約11万袋が対象となります。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3maq3k37rcp24" target="_blank">nikkei.com</a> (2025-12-24 19:46:40)</span><span style="padding-right:50px;">Global shares hover near record highs; gold, silver scale new highs reut.rs/3YGhzc7 <a href="https://bsky.app/profile/reuters.com/post/3maq3hgl6bk23" target="_blank">reuters.com</a> (2025-12-24 19:45:11)</span><span style="padding-right:50px;">介護報酬 来年度臨時で2.03％引き上げ “職員給与増やすため” https://news.web.nhk/newsweb/na/na-k10015012501000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maq3hawau22l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 19:45:02)</span><span style="padding-right:50px;">トルコ政府関係者は２４日、リビア軍のハダッド参謀総長らが搭乗していたプライベートジェット機が２３日に墜落し、ハダッド氏を含む８人全員が死亡したことについて、機体が消息を絶つ直前に電気系統の故障を報告し、緊急着陸を要請していたことを明らかにした。 bit.ly/4axVmV2 <a href="https://bsky.app/profile/japan.reuters.com/post/3maq3gefp272c" target="_blank">japan.reuters.com</a> (2025-12-24 19:44:35)</span><span style="padding-right:50px;">韓国の国民年金公団（ＮＰＳ）が２４日、新たな戦略的な外国為替ヘッジ取引を開始した。事情に詳しい関係筋２人がロイターに明らかにした。 bit.ly/49dSSZC <a href="https://bsky.app/profile/japan.reuters.com/post/3maq36m2xp425" target="_blank">japan.reuters.com</a> (2025-12-24 19:40:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.84 (🔻0.33 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔻0.24 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,106 +32,101 @@
 
 ## News Headlines
 
-- India's Reliance gets one-month US concession to buy Rosneft oil
-- 19 US states sue to block Trump administration's plan to end gender-affirming care for minors
-- Australia passes sweeping gun control laws and protest ban after mass shooting
-- China imposes tariffs on EU dairy products to help domestic industry
-- Taiwan central bank relaxes rules for traders to buy US dollars
-- Russia's President Vladimir Putin presents 20-point peace plan for Ukraine
+- Zensho HD subsidiary to recall frozen foods over disinfectant-like smell
+- Global shares hover near record highs; gold, silver scale new highs
+- Turkish government says private jet carrying Libyan military officials crashed, all 8 on board dead
+- South Korea's NPC starts new strategic foreign exchange hedging operations
+- Hyundai to recall over 51,000 vehicles in US over risk of fire
+- LG Energy Solution sells US factory building and assets to Honda subsidiary
 
 
 ----
 
+@nikkei.com
+
+ゼンショーHD子会社、冷凍食品を自主回収　消毒薬のようなにおい（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+「おかず三昧 海老といかのひとくち揚げ」の一部商品を自主回収すると発表。
+
+全国で流通する約11万袋が対象となります。
+
+#ニュース
+
+[2025-12-24 19:46:40](https://bsky.app/profile/nikkei.com/post/3maq3k37rcp24)
+
+---
+
 @reuters.com
 
-India's Reliance gets one-month US concession to buy Rosneft oil, sources say reut.rs/48SJnQv
+Global shares hover near record highs; gold, silver scale new highs reut.rs/3YGhzc7
 
-[2025-12-24 19:25:07](https://bsky.app/profile/reuters.com/post/3maq2dkoxmb23)
-
----
-
-@nytimes.com
-
-Nineteen states on Tuesday sued to block the Trump administration’s plan to effectively end gender-related care for minors.
-
-[2025-12-24 19:25:03](https://bsky.app/profile/nytimes.com/post/3maq2dirbce2y)
-
----
-
-@en.afp.com
-
-🇦🇺 🏛️ Lawmakers in Australia's most populous state on Wednesday approved sweeping laws cracking down on guns and giving authorities the power to ban protests after the nation's deadliest mass shooting in decades ➡️ u.afp.com/S8Qw
-
-[2025-12-24 19:24:57](https://bsky.app/profile/en.afp.com/post/3maq2daitam26)
+[2025-12-24 19:45:11](https://bsky.app/profile/reuters.com/post/3maq3hgl6bk23)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-OTC類似薬 特別料金上乗せ対象 まずは77成分 約1100品目の方針
-https://news.web.nhk/newsweb/na/na-k10015012771000
+介護報酬 来年度臨時で2.03％引き上げ “職員給与増やすため”
+https://news.web.nhk/newsweb/na/na-k10015012501000
 
-[2025-12-24 19:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maq2bojtwa2b)
-
----
-
-@npr.org
-
-Today, people consider "Yule" synonymous with "Christmas." But centuries ago, Yule meant something different — a pagan mid-winter festival, dating back to pre-Christian Germanic people. n.pr/3YaZPp6
-
-[2025-12-24 19:23:41](https://bsky.app/profile/npr.org/post/3maq2axwncd2i)
-
----
-
-@wsj.com
-
-“We’re not in any mood to celebrate”: In the fourth winter of full-scale war, Ukraine is dealing with its most severe energy crisis since 2022.
-
-[2025-12-24 19:21:05](https://bsky.app/profile/wsj.com/post/3maq24dwvb42k)
-
----
-
-@ftedit.ft.com
-
-What are the stories that will define 2026? @mshannahmurphy.bsky.social, the FT's technology reporter in San Francisco, unwraps the big ideas shaping the year ahead.
-
-A little gift from #FTEdit 🎁 Follow for more #FTEditpresents
-
-[2025-12-24 19:20:40](https://bsky.app/profile/ftedit.ft.com/post/3maq23ldry22a)
+[2025-12-24 19:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maq3hawau22l)
 
 ---
 
 @japan.reuters.com
 
-フランス政府は２４日、トランプ政権が元欧州委員のティエリー・ブルトン氏を査証（ビザ）発給禁止の対象にしたことを強く非難した。 bit.ly/4pej4cD
+トルコ政府関係者は２４日、リビア軍のハダッド参謀総長らが搭乗していたプライベートジェット機が２３日に墜落し、ハダッド氏を含む８人全員が死亡したことについて、機体が消息を絶つ直前に電気系統の故障を報告し、緊急着陸を要請していたことを明らかにした。 bit.ly/4axVmV2
 
-[2025-12-24 19:20:17](https://bsky.app/profile/japan.reuters.com/post/3maq22vh7n722)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】「プレサンス」巨額横領えん罪事件 元社長が「不当に起訴された」などと告発した当時の主任検事を「嫌疑なし」で「不起訴処分」 大阪高等検察庁
-(2025-12-24 18:39) #ニュース
-
-[2025-12-24 19:16:53](https://bsky.app/profile/sokuho.news/post/3mapzuteonw26)
+[2025-12-24 19:44:35](https://bsky.app/profile/japan.reuters.com/post/3maq3gefp272c)
 
 ---
 
-@nikkei.com
+@japan.reuters.com
 
-ファーウェイ、スマホ部品6割を中国製に　半導体の国内供給網に厚み
-www.nikkei.com/article/DGXZQO...
+韓国の国民年金公団（ＮＰＳ）が２４日、新たな戦略的な外国為替ヘッジ取引を開始した。事情に詳しい関係筋２人がロイターに明らかにした。 bit.ly/49dSSZC
 
-中国製部品の比率は20年の19%から57%に。
+[2025-12-24 19:40:15](https://bsky.app/profile/japan.reuters.com/post/3maq36m2xp425)
 
-日本やアメリカ、韓国製の比率は23年から計20ポイント超下がりました。
+---
 
-国内調達拡大の起点となったのがアメリカの対中輸出規制です。
+@reuters.com
 
-[2025-12-24 19:16:41](https://bsky.app/profile/nikkei.com/post/3mapzuhdnxl2g)
+Hyundai to recall over 51,000 vehicles in US over risk of fire, NHTSA says reut.rs/48Tcval
+
+[2025-12-24 19:40:11](https://bsky.app/profile/reuters.com/post/3maq36isrmv2k)
+
+---
+
+@japan.reuters.com
+
+韓国のＬＧエナジー・ソリューション（ＬＧＥＳ）は２４日、同社の子会社が米オハイオ州の工場建物・資産（総額２８億６０００万ドル相当）をホンダ・デベロップメント・アンド・マニュファクチャリング・オブ・アメリカに売却すると発表した。 bit.ly/3MXOUg4
+
+[2025-12-24 19:35:10](https://bsky.app/profile/japan.reuters.com/post/3maq2vixpub27)
+
+---
+
+@reuters.com
+
+Warburg, India's Bharti Enterprises to buy 49% of appliance maker Haier India reut.rs/4pTZa7V
+
+[2025-12-24 19:35:09](https://bsky.app/profile/reuters.com/post/3maq2viyjnc23)
+
+---
+
+@japan.reuters.com
+
+中国政府は２４日、外国からの投資を奨励する産業リストを改定し、対象となるセクターを拡大した。税制優遇や用地価格の優遇などを通じ、長期化する外資流入の減少に歯止めをかける狙いがある。 bit.ly/4jakOCh
+
+[2025-12-24 19:32:37](https://bsky.app/profile/japan.reuters.com/post/3maq2qxtowv2c)
+
+---
+
+@wsj.com
+
+Ranchers are battling over laws that critics say do nothing but prop up an enforcement agency that takes its job way too seriously. on.wsj.com/49he40W
+
+[2025-12-24 19:30:46](https://bsky.app/profile/wsj.com/post/3maq2no6e572h)
 
 ---
 
