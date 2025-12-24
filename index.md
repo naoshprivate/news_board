@@ -1,9 +1,9 @@
-# [2025-12-24 12:50 updated](2025_12_24.md)
+# [2025-12-24 13:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">著作物を無許諾で人工知能（ＡＩ）の訓練に利用されたとして、米紙ニューヨーク・タイムズの調査報道記者ジョン・キャリールー氏と他の作家５人が２２日、複数のＡＩ開発企業をカリフォルニア州の連邦裁判所に提訴した。 bit.ly/3KWV13L <a href="https://bsky.app/profile/japan.reuters.com/post/3mapdyggnbe2s" target="_blank">japan.reuters.com</a> (2025-12-24 12:45:11)</span><span style="padding-right:50px;">株価 売り買いが交錯する展開に https://news.web.nhk/newsweb/na/na-k10015012401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapdsuglo62x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 12:42:02)</span><span style="padding-right:50px;">ロシア国営天然ガス大手のガスプロムは、２０２６年の中核利益について、前年比約７％増の３兆ルーブル（３８０億米ドル）に達すると発表した。同年に予定する１兆１０００億ルーブル規模のエネルギー投資計画も承認した。 bit.ly/3N20Jlr <a href="https://bsky.app/profile/japan.reuters.com/post/3mapdpovhjg22" target="_blank">japan.reuters.com</a> (2025-12-24 12:40:18)</span><span style="padding-right:50px;">サッポロHD 不動産事業を米投資ファンドらに売却方針固める https://news.web.nhk/newsweb/na/na-k10015012391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapdnj33rs2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 12:39:03)</span><span style="padding-right:50px;">米東部ペンシルベニア州フィラデルフィア近郊の高齢者施設で２３日、ガス漏れが原因とみられる爆発があり、少なくとも２人が死亡した。 bit.ly/4qpZYBg <a href="https://bsky.app/profile/japan.reuters.com/post/3mapdms4qbp2p" target="_blank">japan.reuters.com</a> (2025-12-24 12:38:41)</span>
+<span style="padding-right:50px;">国連安全保障理事会は２３日、ベネズエラ情勢を巡る緊急会合を開催した。米国はマドゥロ大統領から資金源を奪うために「最大限」の制裁を科すと表明。一方、ロシアは他の中南米諸国が米国の次の標的になる可能性があると警告した。 bit.ly/4p68bt1 <a href="https://bsky.app/profile/japan.reuters.com/post/3mapf47dtnw2c" target="_blank">japan.reuters.com</a> (2025-12-24 13:05:12)</span><span style="padding-right:50px;">トランプ米政権は２３日、米国のソーシャルメディア企業に対する検閲に関与したとして、元欧州連合（ＥＵ）欧州委員や反偽情報活動家らを査証（ビザ）発給禁止の対象にしたことを明らかにした。 bit.ly/3LhpPw7 <a href="https://bsky.app/profile/japan.reuters.com/post/3mapexhfddu2u" target="_blank">japan.reuters.com</a> (2025-12-24 13:02:33)</span><span style="padding-right:50px;">QB J.J. McCarthy out (hand) vs. Lions reut.rs/4sbds5v <a href="https://bsky.app/profile/reuters.com/post/3mapeuuu4nb2y" target="_blank">reuters.com</a> (2025-12-24 13:01:06)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】山陽・関西～山陰の特急列車 25日午後以降運転取りやめの可能性 山陰地方低気圧の影響 (2025-12-24 12:58) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mapeujyrtb2x" target="_blank">sokuho.news</a> (2025-12-24 13:00:55)</span><span style="padding-right:50px;">クフ王「第2の太陽の船」復元作業を公開　大エジプト博物館、日本も協力 www.nikkei.com/article/DGXZQO...   建造されたのは約4500年前。古代エジプトのクフ王の副葬品とされ、1987年に考古学者の吉村作治さん率いる日本の調査隊が発見しました。   発掘された船の部材は劣化が激しく、当初は復元困難とみられていましたが、強化処理を施すなどして道筋を付けました。   復元の現場主任を務める東日本国際大の黒河内宏昌教授は「復元が終われば、船の安定性や速さなどいろいろなことが分かる」 <a href="https://bsky.app/profile/nikkei.com/post/3mapeu32wuq2m" target="_blank">nikkei.com</a> (2025-12-24 13:00:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50444.87 (🔻30.61 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3383.00 (🔻35.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.98 (🔻0.20 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50422.23 (🔻53.25 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3378.00 (🔻40.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.98 (🔻0.20 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,101 +32,110 @@
 
 ## News Headlines
 
-- Authors sue AI developers over unauthorized use of their work
-- US Stocks Fluctuate as Buying and Selling Interact
-- Russia's Gazprom expects 2026 core profit of 3 trillion rubles, approves 1.1 trillion ruble energy investment plan
-- At least two dead after explosion at Pennsylvania nursing home
-- Travel writer takes 53-hour train ride from Chicago to San Francisco with earplugs
-- Trump again claims Greenland is crucial for US national security, appoints new envoy
+- UN Security Council holds emergency meeting on Venezuela situation
+- US imposes maximum sanctions on Venezuela's Maduro regime
+- Japan joins Egypt to restore ancient ship 'Second Boat of the Sun'
+- Canada's GDP declines 0.3% in October, first decline in 3 years
+- Arsenal to face Chelsea in English League Cup semifinals
+- US imposes visa ban on EU official and disinformation expert
 
 
 ----
 
 @japan.reuters.com
 
-著作物を無許諾で人工知能（ＡＩ）の訓練に利用されたとして、米紙ニューヨーク・タイムズの調査報道記者ジョン・キャリールー氏と他の作家５人が２２日、複数のＡＩ開発企業をカリフォルニア州の連邦裁判所に提訴した。 bit.ly/3KWV13L
+国連安全保障理事会は２３日、ベネズエラ情勢を巡る緊急会合を開催した。米国はマドゥロ大統領から資金源を奪うために「最大限」の制裁を科すと表明。一方、ロシアは他の中南米諸国が米国の次の標的になる可能性があると警告した。 bit.ly/4p68bt1
 
-[2025-12-24 12:45:11](https://bsky.app/profile/japan.reuters.com/post/3mapdyggnbe2s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-株価 売り買いが交錯する展開に
-https://news.web.nhk/newsweb/na/na-k10015012401000
-
-[2025-12-24 12:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapdsuglo62x)
+[2025-12-24 13:05:12](https://bsky.app/profile/japan.reuters.com/post/3mapf47dtnw2c)
 
 ---
 
 @japan.reuters.com
 
-ロシア国営天然ガス大手のガスプロムは、２０２６年の中核利益について、前年比約７％増の３兆ルーブル（３８０億米ドル）に達すると発表した。同年に予定する１兆１０００億ルーブル規模のエネルギー投資計画も承認した。 bit.ly/3N20Jlr
+トランプ米政権は２３日、米国のソーシャルメディア企業に対する検閲に関与したとして、元欧州連合（ＥＵ）欧州委員や反偽情報活動家らを査証（ビザ）発給禁止の対象にしたことを明らかにした。 bit.ly/3LhpPw7
 
-[2025-12-24 12:40:18](https://bsky.app/profile/japan.reuters.com/post/3mapdpovhjg22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-サッポロHD 不動産事業を米投資ファンドらに売却方針固める
-https://news.web.nhk/newsweb/na/na-k10015012391000
-
-[2025-12-24 12:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapdnj33rs2b)
+[2025-12-24 13:02:33](https://bsky.app/profile/japan.reuters.com/post/3mapexhfddu2u)
 
 ---
 
-@japan.reuters.com
+@reuters.com
 
-米東部ペンシルベニア州フィラデルフィア近郊の高齢者施設で２３日、ガス漏れが原因とみられる爆発があり、少なくとも２人が死亡した。 bit.ly/4qpZYBg
+QB J.J. McCarthy out (hand) vs. Lions reut.rs/4sbds5v
 
-[2025-12-24 12:38:41](https://bsky.app/profile/japan.reuters.com/post/3mapdms4qbp2p)
+[2025-12-24 13:01:06](https://bsky.app/profile/reuters.com/post/3mapeuuu4nb2y)
 
 ---
 
 @sokuho.news
 
-🛎️NNNより【速報】です。
+🛎️FNNより【速報】です。
 
-【速報】「人が倒れている」高齢女性が心肺停止の状態で搬送されその後死亡 ひき逃げ事件の可能性も
-(2025-12-24 12:37) #ニュース
+【速報】山陽・関西～山陰の特急列車 25日午後以降運転取りやめの可能性 山陰地方低気圧の影響
+(2025-12-24 12:58) #ニュース
 
-[2025-12-24 12:37:55](https://bsky.app/profile/sokuho.news/post/3mapdlfwrif2s)
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
 
----
-
-@wsj.com
-
-Travel columnist Dawn Gilbertson took the California Zephyr from Chicago to San Francisco.
-
-Here’s why she would do the 53-hour trip again—with ear plugs: 🔗 on.wsj.com/45du82g
-
-[2025-12-24 12:37:38](https://bsky.app/profile/wsj.com/post/3mapdkvxxxv2r)
+[2025-12-24 13:00:55](https://bsky.app/profile/sokuho.news/post/3mapeujyrtb2x)
 
 ---
 
-@japan.reuters.com
+@nikkei.com
 
-トランプ米大統領は２２日、米国の国家安全保障にはグリーンランドが必要だと改めて主張し、グリーンランド特使に任命したランドリー米ルイジアナ州知事が「その先頭に立つ」と述べた。これに対し、デンマークとグリーンランドは強く反発した。 bit.ly/49e1uzp
+クフ王「第2の太陽の船」復元作業を公開　大エジプト博物館、日本も協力
+www.nikkei.com/article/DGXZQO...
+ 
+建造されたのは約4500年前。古代エジプトのクフ王の副葬品とされ、1987年に考古学者の吉村作治さん率いる日本の調査隊が発見しました。
+ 
+発掘された船の部材は劣化が激しく、当初は復元困難とみられていましたが、強化処理を施すなどして道筋を付けました。
+ 
+復元の現場主任を務める東日本国際大の黒河内宏昌教授は「復元が終われば、船の安定性や速さなどいろいろなことが分かる」
 
-[2025-12-24 12:36:30](https://bsky.app/profile/japan.reuters.com/post/3mapdiutrvm2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-米政権 外国製ドローン 今後 国内での使用に必要な認証与えず
-https://news.web.nhk/newsweb/na/na-k10015012251000
-
-[2025-12-24 12:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapdi5nhhx26)
+[2025-12-24 13:00:39](https://bsky.app/profile/nikkei.com/post/3mapeu32wuq2m)
 
 ---
 
 @japan.reuters.com
 
-ロンドン金属取引所（ＬＭＥ）の銅価格の指標となる銅３カ月先物が２３日、一時１トン＝１万２１５９．５０ドルと過去最高値を更新し、１万２０００ドルの大台を突破した。年末の薄商いの中で、供給が逼迫するとの見方やドル下落を背景に投機的な買いが膨らんだのが要因。 bit.ly/48TtBFd
+カナダ統計局が２３日発表した１０月の国内総生産（ＧＤＰ）は前月比０．３％減少し、約３年ぶりの大幅な落ち込みとなった。ただ、１１月は０．１％増に反転するとみられている。 bit.ly/4sdmkHG
 
-[2025-12-24 12:35:09](https://bsky.app/profile/japan.reuters.com/post/3mapdghiabu2u)
+[2025-12-24 13:00:33](https://bsky.app/profile/japan.reuters.com/post/3mapetuu7hw22)
+
+---
+
+@apnews.com
+
+Arsenal will face Chelsea in the English League Cup semifinals after beating Crystal Palace 8-7 on penalties following a 1-1 draw in normal time.
+
+[2025-12-24 13:00:17](https://bsky.app/profile/apnews.com/post/3mapetfkafm2d)
+
+---
+
+@cnbc.com
+
+Performance review season can be nerve-wracking, but there are several ways employees can set themselves up for success.
+
+The best thing employees can do for themselves is to practice “emotional management,” according to career coach Sarah Baker Andrus.
+
+Here's what to avoid.
+
+[2025-12-24 13:00:15](https://bsky.app/profile/cnbc.com/post/3mapete4nrk24)
+
+---
+
+@washingtonpost.com
+
+Want to put out a show-stopping Christmas dinner? Here’s what add to the menu.
+
+[2025-12-24 13:00:06](https://bsky.app/profile/washingtonpost.com/post/3mapet3nlxt2b)
+
+---
+
+@aljazeera.com
+
+Fall of town comes as Russia, US propose a 'demilitarised', 'free economic zone' in Ukraine's eastern Donetsk region https://aje.io/x1utkg
+
+[2025-12-24 13:00:04](https://bsky.app/profile/aljazeera.com/post/3mapeszgf3g2v)
 
 ---
 
