@@ -1,9 +1,9 @@
-# [2025-12-25 05:10 updated](2025_12_25.md)
+# [2025-12-25 05:30 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">自民 鈴木宗男氏がロシア訪問に出発 早期の停戦求める考え示す https://news.web.nhk/newsweb/na/na-k10015012931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar2xqsapg2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 05:09:02)</span><span style="padding-right:50px;">Siblings sometimes share quirky traits, like being able to throw a ball with their head or pick things up with their toes. Researchers wanted to know what's up with that. <a href="https://bsky.app/profile/npr.org/post/3mar2wroatc2m" target="_blank">npr.org</a> (2025-12-25 05:08:32)</span><span style="padding-right:50px;">The pair stars in a genial comedy about a would-be director and a struggling actor who attempt to remake the 1997 killer-snake action movie. on.wsj.com/4p98TG4 <a href="https://bsky.app/profile/wsj.com/post/3mar2ukujdj2o" target="_blank">wsj.com</a> (2025-12-25 05:07:17)</span><span style="padding-right:50px;">DOJ says "over a million more documents" found, potentially related to Epstein case. <a href="https://bsky.app/profile/cbsnews.com/post/3mar2u2sq2c2z" target="_blank">cbsnews.com</a> (2025-12-25 05:07:01)</span><span style="padding-right:50px;">In Episode 6 of Disney+'s "Taylor Swift: The End of an Era," Swift reveals the sweet encouragement her then-boyfriend Travis Kelce wrote to her. <a href="https://bsky.app/profile/usatoday.com/post/3mar2syng5c2z" target="_blank">usatoday.com</a> (2025-12-25 05:06:25)</span>
+<span style="padding-right:50px;">The Justice Department said it found over a million more pages of Jeffrey Epstein documents, extending the time it will take for a full release. A law passed by Congress gave the department a deadline of last Friday to release the files. nyti.ms/49rG0QL <a href="https://bsky.app/profile/nytimes.com/post/3mar43geokx26" target="_blank">nytimes.com</a> (2025-12-25 05:29:02)</span><span style="padding-right:50px;">Prosecutors in New York discovered a million more Epstein documents, the Justice Department said, and will need weeks to vet and disclose them. bit.ly/4pV12NC <a href="https://bsky.app/profile/usatoday.com/post/3mar3qluf532g" target="_blank">usatoday.com</a> (2025-12-25 05:22:58)</span><span style="padding-right:50px;">関西電力3原発の運転差し止め訴訟 きょう大津地裁で判決 https://news.web.nhk/newsweb/na/na-k10015012991000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar3n5zs3q2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 05:21:02)</span><span style="padding-right:50px;">ウクライナのゼレンスキー大統領は、ロシアのウクライナ侵攻終結に向けた米・ウクライナ高官協議を受けて和平案がまとまりつつあるとし、領土など繊細な問題に関してトランプ米大統領と会談したい意向を表明した。大統領府が２４日、記者団に明らかにした。 bit.ly/4p9Q3OY <a href="https://bsky.app/profile/japan.reuters.com/post/3mar3lzvtda2c" target="_blank">japan.reuters.com</a> (2025-12-25 05:20:25)</span><span style="padding-right:50px;">午後のニューヨーク外為市場では、円が米ドルに対し小幅上昇した。トレーダーらは、円安が日本当局の介入を促すかどうかに注目している。 bit.ly/4pbBMBw <a href="https://bsky.app/profile/japan.reuters.com/post/3mar3lwqx4o2c" target="_blank">japan.reuters.com</a> (2025-12-25 05:20:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.87 (🔻0.31 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.91 (🔻0.26 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,15 +32,81 @@
 
 ## News Headlines
 
-- LDP's Suzuki Shigeto Leaves for Russia, Seeking Early End to Conflict
-- Researchers Investigate Quirky Traits of Siblings
-- DOJ Finds Over a Million More Documents in Epstein Case
-- Taylor Swift Reveals Heartwarming Message from Ex-Boyfriend in New Disney+ Documentary
-- Ivory Coast Begins Defense of African Cup of Nations Title
-- New York Times Joins Expedition to Antarctica's Fastest-Melting Glaciers
+- Justice Department says it needs more time to release Epstein files
+- Prosecutors discover 1 million more documents related to Epstein case
+- Japan's Kansai Electric Power 3 nuclear plant lawsuit verdict today
+- Ukraine's Zelensky seeks talks with Trump on peace plan
+- US regulator extends driving-time limit waiver for heating fuel haulers
+- Japan's Suzuki Shingo to visit Russia to push for early ceasefire
 
 
 ----
+
+@nytimes.com
+
+The Justice Department said it found over a million more pages of Jeffrey Epstein documents, extending the time it will take for a full release. A law passed by Congress gave the department a deadline of last Friday to release the files. nyti.ms/49rG0QL
+
+[2025-12-25 05:29:02](https://bsky.app/profile/nytimes.com/post/3mar43geokx26)
+
+---
+
+@usatoday.com
+
+Prosecutors in New York discovered a million more Epstein documents, the Justice Department said, and will need weeks to vet and disclose them. bit.ly/4pV12NC
+
+[2025-12-25 05:22:58](https://bsky.app/profile/usatoday.com/post/3mar3qluf532g)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+関西電力3原発の運転差し止め訴訟 きょう大津地裁で判決
+https://news.web.nhk/newsweb/na/na-k10015012991000
+
+[2025-12-25 05:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar3n5zs3q2s)
+
+---
+
+@japan.reuters.com
+
+ウクライナのゼレンスキー大統領は、ロシアのウクライナ侵攻終結に向けた米・ウクライナ高官協議を受けて和平案がまとまりつつあるとし、領土など繊細な問題に関してトランプ米大統領と会談したい意向を表明した。大統領府が２４日、記者団に明らかにした。 bit.ly/4p9Q3OY
+
+[2025-12-25 05:20:25](https://bsky.app/profile/japan.reuters.com/post/3mar3lzvtda2c)
+
+---
+
+@japan.reuters.com
+
+午後のニューヨーク外為市場では、円が米ドルに対し小幅上昇した。トレーダーらは、円安が日本当局の介入を促すかどうかに注目している。 bit.ly/4pbBMBw
+
+[2025-12-25 05:20:22](https://bsky.app/profile/japan.reuters.com/post/3mar3lwqx4o2c)
+
+---
+
+@financialtimes.com
+
+US DoJ says full Epstein document release could take ‘few more weeks’ ft.trib.al/0C9YzEy
+
+[2025-12-25 05:20:14](https://bsky.app/profile/financialtimes.com/post/3mar3lpkvcb2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+週刊新潮が謝罪文 差別的内容で批判相次ぎ終了したコラムで
+https://news.web.nhk/newsweb/na/na-k10015012951000
+
+[2025-12-25 05:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar3chr2by2k)
+
+---
+
+@reuters.com
+
+US regulator extends driving-time limit waiver for heating fuel haulers reut.rs/3YIXfXD
+
+[2025-12-25 05:10:12](https://bsky.app/profile/reuters.com/post/3mar2zrh5uq2y)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -56,70 +122,6 @@ https://news.web.nhk/newsweb/na/na-k10015012931000
 Siblings sometimes share quirky traits, like being able to throw a ball with their head or pick things up with their toes. Researchers wanted to know what's up with that.
 
 [2025-12-25 05:08:32](https://bsky.app/profile/npr.org/post/3mar2wroatc2m)
-
----
-
-@wsj.com
-
-The pair stars in a genial comedy about a would-be director and a struggling actor who attempt to remake the 1997 killer-snake action movie. on.wsj.com/4p98TG4
-
-[2025-12-25 05:07:17](https://bsky.app/profile/wsj.com/post/3mar2ukujdj2o)
-
----
-
-@cbsnews.com
-
-DOJ says "over a million more documents" found, potentially related to Epstein case.
-
-[2025-12-25 05:07:01](https://bsky.app/profile/cbsnews.com/post/3mar2u2sq2c2z)
-
----
-
-@usatoday.com
-
-In Episode 6 of Disney+'s "Taylor Swift: The End of an Era," Swift reveals the sweet encouragement her then-boyfriend Travis Kelce wrote to her.
-
-[2025-12-25 05:06:25](https://bsky.app/profile/usatoday.com/post/3mar2syng5c2z)
-
----
-
-@reuters.com
-
-Ivory Coast begin Cup of Nations title defence with narrow win over Mozambique reut.rs/4pTkOcd
-
-[2025-12-25 05:00:58](https://bsky.app/profile/reuters.com/post/3mar2jaoco62c)
-
----
-
-@apnews.com
-
-A 16-year-old boy being investigated in the death of his stepsister on a Carnival cruise ship last month has no recollection of the incident.
-
-[2025-12-25 05:00:46](https://bsky.app/profile/apnews.com/post/3mar2ivo4hj2q)
-
----
-
-@japan.reuters.com
-
-米スポーツ用品大手ナイキの株価が２４日、５％上昇。アップルのティム・クック最高経営責任者（ＣＥＯ）がナイキのエリオット・ヒルＣＥＯによる経営再建への取り組みを評価し、約３００万ドル相当のナイキ株を購入したことが好感されている。 bit.ly/4qcqkqN
-
-[2025-12-25 05:00:31](https://bsky.app/profile/japan.reuters.com/post/3mar2ihftn722)
-
----
-
-@cnn.com
-
-"In 2026, expect growing friction between rapid advances in AI, unsettled policy debates, and intensifying geopolitical rivalry," Brett H. McGurk writes | Analysis https://cnn.it/4qpperc
-
-[2025-12-25 05:00:22](https://bsky.app/profile/cnn.com/post/3mar2i6bwx22k)
-
----
-
-@washingtonpost.com
-
-Every year, the Audubon Society’s Christmas Bird Count, one of the longest-running citizen-powered data projects in North America, draws tens of thousands of birders for the 126-year-old event that blends birding and data science.
-
-[2025-12-25 05:00:21](https://bsky.app/profile/washingtonpost.com/post/3mar2i5ike72d)
 
 ---
 
