@@ -1,9 +1,9 @@
-# [2025-12-24 22:30 updated](2025_12_24.md)
+# [2025-12-24 22:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Russian attacks on Ukrainian ports cause drop in food exports reut.rs/3YeKTq2 <a href="https://bsky.app/profile/reuters.com/post/3maqefl76np24" target="_blank">reuters.com</a> (2025-12-24 22:25:12)</span><span style="padding-right:50px;">A movie theater that bore witness to Afghanistan’s modern history — from the cosmopolitan vibrancy of the 1960s to the silencing and repression that followed not one but two Taliban takeovers — has been razed to make way for a shopping mall. <a href="https://bsky.app/profile/nytimes.com/post/3maqeffmskf25" target="_blank">nytimes.com</a> (2025-12-24 22:25:07)</span><span style="padding-right:50px;">It's too late for some last-minute tax moves — but these can be tackled with days to go in 2025 <a href="https://bsky.app/profile/cnbc.com/post/3maqeblcbuw24" target="_blank">cnbc.com</a> (2025-12-24 22:22:58)</span><span style="padding-right:50px;">These 6 stocks will lead the $1 trillion chip surge in 2026, BofA says <a href="https://bsky.app/profile/yahoofinance.com/post/3maqe6jtx3s2f" target="_blank">yahoofinance.com</a> (2025-12-24 22:21:16)</span><span style="padding-right:50px;">Sales in romantasy novels are booming at a time when real-life romance appears to be in decline. What do the books say about what women really want? 🔗 on.wsj.com/492ZwSs <a href="https://bsky.app/profile/wsj.com/post/3maqe3m3v3e2g" target="_blank">wsj.com</a> (2025-12-24 22:19:38)</span>
+<span style="padding-right:50px;">Public media is built on community. It’s both the national perspective that sharpens your view *and* the local coverage that roots you in your neighborhood.   Invest in trusted information and programming that build connections with a gift to the NPR Network. Click here to donate: n.pr/4pCcFIx <a href="https://bsky.app/profile/npr.org/post/3maqflpek4k27" target="_blank">npr.org</a> (2025-12-24 22:46:32)</span><span style="padding-right:50px;">Agios Pharma shares jump as US FDA expands approval for its blood disorder drug reut.rs/3YHha9h <a href="https://bsky.app/profile/reuters.com/post/3maqfje52rw2s" target="_blank">reuters.com</a> (2025-12-24 22:45:13)</span><span style="padding-right:50px;">The issue of affordability has jumped to the top of the US political agenda, threatening the Republican party’s prospects in next year’s midterm elections and weighing on Donald Trump’s presidency ft.trib.al/iE20dZc <a href="https://bsky.app/profile/financialtimes.com/post/3maqfgrzdmf2v" target="_blank">financialtimes.com</a> (2025-12-24 22:43:47)</span><span style="padding-right:50px;">Exclusive: CPC oil loading plan revised down 33% for December as bad weather delays repairs reut.rs/49qDkCV <a href="https://bsky.app/profile/reuters.com/post/3maqfajwnmk2r" target="_blank">reuters.com</a> (2025-12-24 22:40:17)</span><span style="padding-right:50px;">DHS's handling of the incident raises questions about the department's oversight mechanisms to investigate employee misconduct. n.pr/4jlKsEc <a href="https://bsky.app/profile/npr.org/post/3maqf6aihx424" target="_blank">npr.org</a> (2025-12-24 22:39:00)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 156.03 (🔻0.15 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 156.02 (🔻0.16 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,96 +32,96 @@
 
 ## News Headlines
 
-- Russian Attacks on Ukrainian Ports Cause Drop in Food Exports
-- Ukraine's President Proposes Peace Plan with 20 Conditions
-- Tubi Streaming Service Rivaling Major Players for Viewership
-- Gold Prices Surge to $4,500 Amid Trade of the Year
-- US Auto Safety Agency Probes Tesla Model 3 Emergency Door Release
-- US Economy Grows, Chip Tariff Delayed, New S&P 500 Record
+- US FDA Expands Approval for Agios Pharma's Blood Disorder Drug
+- US Politics: Affordability Issue Moves to Top of Agenda
+- Russia Revises Down Oil Loading Plan Due to Bad Weather
+- DHS Faces Questions Over Handling of Employee Misconduct Incident
+- Flying Car Test Drive: A Reality Check
+- Ukraine and Russia Consider Demilitarized Zones to End War
 
 
 ----
 
+@npr.org
+
+Public media is built on community. It’s both the national perspective that sharpens your view *and* the local coverage that roots you in your neighborhood. 
+
+Invest in trusted information and programming that build connections with a gift to the NPR Network. Click here to donate: n.pr/4pCcFIx
+
+[2025-12-24 22:46:32](https://bsky.app/profile/npr.org/post/3maqflpek4k27)
+
+---
+
 @reuters.com
 
-Russian attacks on Ukrainian ports cause drop in food exports reut.rs/3YeKTq2
+Agios Pharma shares jump as US FDA expands approval for its blood disorder drug reut.rs/3YHha9h
 
-[2025-12-24 22:25:12](https://bsky.app/profile/reuters.com/post/3maqefl76np24)
-
----
-
-@nytimes.com
-
-A movie theater that bore witness to Afghanistan’s modern history — from the cosmopolitan vibrancy of the 1960s to the silencing and repression that followed not one but two Taliban takeovers — has been razed to make way for a shopping mall.
-
-[2025-12-24 22:25:07](https://bsky.app/profile/nytimes.com/post/3maqeffmskf25)
+[2025-12-24 22:45:13](https://bsky.app/profile/reuters.com/post/3maqfje52rw2s)
 
 ---
 
-@cnbc.com
+@financialtimes.com
 
-It's too late for some last-minute tax moves — but these can be tackled with days to go in 2025
+The issue of affordability has jumped to the top of the US political agenda, threatening the Republican party’s prospects in next year’s midterm elections and weighing on Donald Trump’s presidency ft.trib.al/iE20dZc
 
-[2025-12-24 22:22:58](https://bsky.app/profile/cnbc.com/post/3maqeblcbuw24)
+[2025-12-24 22:43:47](https://bsky.app/profile/financialtimes.com/post/3maqfgrzdmf2v)
 
 ---
 
-@yahoofinance.com
+@reuters.com
 
-These 6 stocks will lead the $1 trillion chip surge in 2026, BofA says
+Exclusive: CPC oil loading plan revised down 33% for December as bad weather delays repairs reut.rs/49qDkCV
 
-[2025-12-24 22:21:16](https://bsky.app/profile/yahoofinance.com/post/3maqe6jtx3s2f)
+[2025-12-24 22:40:17](https://bsky.app/profile/reuters.com/post/3maqfajwnmk2r)
+
+---
+
+@npr.org
+
+DHS's handling of the incident raises questions about the department's oversight mechanisms to investigate employee misconduct. n.pr/4jlKsEc
+
+[2025-12-24 22:39:00](https://bsky.app/profile/npr.org/post/3maqf6aihx424)
 
 ---
 
 @wsj.com
 
-Sales in romantasy novels are booming at a time when real-life romance appears to be in decline. What do the books say about what women really want? 🔗 on.wsj.com/492ZwSs
+The flying car is here. Seriously. We even test drove one. on.wsj.com/3KDlK5n
 
-[2025-12-24 22:19:38](https://bsky.app/profile/wsj.com/post/3maqe3m3v3e2g)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】週刊誌報道調査結果受け東海テレビ会長辞任 社長「経営者として不適切な行為」
-(22:16) #ニュース
-
-[2025-12-24 22:18:16](https://bsky.app/profile/sokuho.news/post/3maqdz6icyp2z)
+[2025-12-24 22:36:16](https://bsky.app/profile/wsj.com/post/3maqezeiezq2z)
 
 ---
 
 @reuters.com
 
-China widens foreign investment incentive list to stem falling inflows reut.rs/4ar6zXj
+Epstein, Coast Guard tanker chase, Aussie gun laws and US growth reut.rs/3MWwzjt
 
-[2025-12-24 22:15:14](https://bsky.app/profile/reuters.com/post/3maqdtqtehb23)
-
----
-
-@cnbc.com
-
-Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning
-
-[2025-12-24 22:15:03](https://bsky.app/profile/cnbc.com/post/3maqdtg7bng2i)
+[2025-12-24 22:35:08](https://bsky.app/profile/reuters.com/post/3maqexde6o52r)
 
 ---
 
 @reuters.com
 
-🔊 What’s in the latest Epstein files release? Listen to this episode of the Reuters World News podcast to find out reut.rs/4aqgfRU
+🔊 On today's special episode of Morning Bid: the big trends that moved markets in 2025 reut.rs/4s3QPQi
 
-[2025-12-24 22:14:52](https://bsky.app/profile/reuters.com/post/3maqdt3amtk2g)
+[2025-12-24 22:31:00](https://bsky.app/profile/reuters.com/post/3maqepwwjes26)
 
 ---
 
-@cnbc.com
+@reuters.com
 
-These 5 infrastructure stocks have more than tripled this year on the AI trade
+Chelsea's Palmer ready to play 90 minutes, says Maresca reut.rs/4pgFKsB
 
-[2025-12-24 22:12:57](https://bsky.app/profile/cnbc.com/post/3maqdpni4dt2g)
+[2025-12-24 22:30:57](https://bsky.app/profile/reuters.com/post/3maqeptvpfq2i)
+
+---
+
+@nikkei.com
+
+公取委、AI検索での記事利用を調査　GoogleやLINEヤフー念頭
+www.nikkei.com/article/DGXZQO...
+
+[2025-12-24 22:30:40](https://bsky.app/profile/nikkei.com/post/3maqepdropn2f)
 
 ---
 
