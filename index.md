@@ -1,9 +1,9 @@
-# [2025-12-25 00:50 updated](2025_12_25.md)
+# [2025-12-25 01:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">In their fight for political change, young protesters around the world have rallied behind an unlikely symbol: a Jolly Roger-inspired straw hat-wearing pirate flag. ft.trib.al/9bTsYzh <a href="https://bsky.app/profile/financialtimes.com/post/3maqm7gett22w" target="_blank">financialtimes.com</a> (2025-12-25 00:44:56)</span><span style="padding-right:50px;">Mary Klein had just moved to a new city when she got lost. A couple stopped to help and guided her home. They returned the next day with Christmas dinner. n.pr/4pgxDw9 <a href="https://bsky.app/profile/npr.org/post/3maqm4kpj3s2d" target="_blank">npr.org</a> (2025-12-25 00:43:20)</span><span style="padding-right:50px;">The Internal Revenue Service sought $1.4 billion in addition to interest in the case against Brockman, who died while awaiting trial in 2022. <a href="https://bsky.app/profile/forbes.com/post/3maqlwrqvcd2w" target="_blank">forbes.com</a> (2025-12-25 00:40:06)</span><span style="padding-right:50px;">Democratic senators urged President Trump to reverse a recall of nearly 30 career ambassadors, warning the move leaves a dangerous leadership vacuum that allows adversaries like Russia and China to expand their reach reut.rs/3YJzajq <a href="https://bsky.app/profile/reuters.com/post/3maqluxeesk2o" target="_blank">reuters.com</a> (2025-12-25 00:39:05)</span><span style="padding-right:50px;">Exclusive: The US Coast Guard is waiting for additional forces to arrive before potentially attempting to board and seize a Venezuela-linked oil tanker it's been pursuing since December 21, a US official and a source familiar with the matter told Reuters reut.rs/4scLGFz <a href="https://bsky.app/profile/reuters.com/post/3maqlshagvs2o" target="_blank">reuters.com</a> (2025-12-25 00:37:41)</span>
+<span style="padding-right:50px;">ウクライナのゼレンスキー大統領は、ロシアのウクライナ侵攻終結に向けた米・ウクライナ高官協議を受けて和平案がまとまりつつあるとし、領土など繊細な問題に関してトランプ米大統領と会談したい意向を表明した。大統領府が２４日、記者団に明らかにした。 bit.ly/4jbYech <a href="https://bsky.app/profile/japan.reuters.com/post/3maqnjwbmdk2v" target="_blank">japan.reuters.com</a> (2025-12-25 01:08:42)</span><span style="padding-right:50px;">Before the lights go down at "Liberation" on Broadway, the audience is talking. <a href="https://bsky.app/profile/apnews.com/post/3maqn4h322e23" target="_blank">apnews.com</a> (2025-12-25 01:01:10)</span><span style="padding-right:50px;">"Data this week showed that the American economy is growing at its fastest pace in two years — and yet polling shows the mood on Main Street is grim," Elisabeth Buchwald and Matt Egan write | Analysis https://cnn.it/49qeao2 <a href="https://bsky.app/profile/cnn.com/post/3maqn3j4puv2v" target="_blank">cnn.com</a> (2025-12-25 01:00:38)</span><span style="padding-right:50px;">For the first time in three years, the Gaza Strip’s tiny Christian community is celebrating Christmas without the immediate threat of war, lighting up trees and passing out sweets. <a href="https://bsky.app/profile/washingtonpost.com/post/3maqn3ixz4423" target="_blank">washingtonpost.com</a> (2025-12-25 01:00:38)</span><span style="padding-right:50px;">What is FICA? Why federal taxes are taken out of your pay. <a href="https://bsky.app/profile/usatoday.com/post/3maqn3fwxv52o" target="_blank">usatoday.com</a> (2025-12-25 01:00:35)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48622.56 (🔺197.85 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23565.78 (🔺9.83 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 187.47 (🔻0.45 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.85 (🔻0.32 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48651.29 (🔺226.58 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23578.75 (🔺22.81 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 187.57 (🔻0.35 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔻0.35 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,94 +32,93 @@
 
 ## News Headlines
 
-- Pirate Flag Becomes Symbol of Global Protests for Change
-- Couple Goes Above and Beyond to Help Lost Woman Find Her Way Home
-- US Sues Billionaire for $1.4 Billion in Tax Evasion Case
-- US Senators Urge Trump to Reverse Ambassador Recall, Citing Leadership Vacuum
-- US Coast Guard Waits for Additional Forces to Board Venezuela-Linked Oil Tanker
-- US Banks Add $600 Billion in Value as Deregulation Spurs Gains
+- Ukraine President Zelensky Confirms Peace Plan Progress, Meets with Trump on Disputed Territory
+- US Economy Grows at Fastest Pace in Two Years, But Main Street Mood Remains Grim
+- Gaza's Tiny Christian Community Celebrates Christmas Without Immediate Threat of War
+- FICA Explained: Why Federal Taxes Are Taken Out of Your Pay
+- Indonesia's President Aims to Transform Country, But Investors Remain Unconvinced
+- US Coast Guard Awaits Additional Forces to Board Venezuela-Linked Oil Tanker
 
 
 ----
 
-@financialtimes.com
+@japan.reuters.com
 
-In their fight for political change, young protesters around the world have rallied behind an unlikely symbol: a Jolly Roger-inspired straw hat-wearing pirate flag. ft.trib.al/9bTsYzh
+ウクライナのゼレンスキー大統領は、ロシアのウクライナ侵攻終結に向けた米・ウクライナ高官協議を受けて和平案がまとまりつつあるとし、領土など繊細な問題に関してトランプ米大統領と会談したい意向を表明した。大統領府が２４日、記者団に明らかにした。 bit.ly/4jbYech
 
-[2025-12-25 00:44:56](https://bsky.app/profile/financialtimes.com/post/3maqm7gett22w)
-
----
-
-@npr.org
-
-Mary Klein had just moved to a new city when she got lost. A couple stopped to help and guided her home. They returned the next day with Christmas dinner. n.pr/4pgxDw9
-
-[2025-12-25 00:43:20](https://bsky.app/profile/npr.org/post/3maqm4kpj3s2d)
+[2025-12-25 01:08:42](https://bsky.app/profile/japan.reuters.com/post/3maqnjwbmdk2v)
 
 ---
 
-@forbes.com
+@apnews.com
 
-The Internal Revenue Service sought $1.4 billion in addition to interest in the case against Brockman, who died while awaiting trial in 2022.
+Before the lights go down at "Liberation" on Broadway, the audience is talking.
 
-[2025-12-25 00:40:06](https://bsky.app/profile/forbes.com/post/3maqlwrqvcd2w)
-
----
-
-@reuters.com
-
-Democratic senators urged President Trump to reverse a recall of nearly 30 career ambassadors, warning the move leaves a dangerous leadership vacuum that allows adversaries like Russia and China to expand their reach reut.rs/3YJzajq
-
-[2025-12-25 00:39:05](https://bsky.app/profile/reuters.com/post/3maqluxeesk2o)
+[2025-12-25 01:01:10](https://bsky.app/profile/apnews.com/post/3maqn4h322e23)
 
 ---
 
-@reuters.com
+@cnn.com
 
-Exclusive: The US Coast Guard is waiting for additional forces to arrive before potentially attempting to board and seize a Venezuela-linked oil tanker it's been pursuing since December 21, a US official and a source familiar with the matter told Reuters reut.rs/4scLGFz
+"Data this week showed that the American economy is growing at its fastest pace in two years — and yet polling shows the mood on Main Street is grim," Elisabeth Buchwald and Matt Egan write | Analysis https://cnn.it/49qeao2
 
-[2025-12-25 00:37:41](https://bsky.app/profile/reuters.com/post/3maqlshagvs2o)
-
----
-
-@wsj.com
-
-They pay $2,600 in premium credit-cards fees and are determined to redeem every reward they can. Spreadsheets are involved. on.wsj.com/4pQ0XuG
-
-[2025-12-25 00:34:05](https://bsky.app/profile/wsj.com/post/3maqllzsvfr2h)
+[2025-12-25 01:00:38](https://bsky.app/profile/cnn.com/post/3maqn3j4puv2v)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@washingtonpost.com
 
-ネット通販で販売の電気製品など 安全性を高める改正法が施行
-https://news.web.nhk/newsweb/na/na-k10015012811000
+For the first time in three years, the Gaza Strip’s tiny Christian community is celebrating Christmas without the immediate threat of war, lighting up trees and passing out sweets.
 
-[2025-12-25 00:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maqlk7wmxt2b)
-
----
-
-@financialtimes.com
-
-The Trump administration announced it would replace the lottery programme with a system that prioritises higher-paid individuals ft.trib.al/MXa8PRJ
-
-[2025-12-25 00:31:06](https://bsky.app/profile/financialtimes.com/post/3maqlgoprv72q)
-
----
-
-@reuters.com
-
-S&P 500 hits intraday record high fueled by rate cut bets reut.rs/3Y7IA8f
-
-[2025-12-25 00:30:30](https://bsky.app/profile/reuters.com/post/3maqlfm6w2u2i)
+[2025-12-25 01:00:38](https://bsky.app/profile/washingtonpost.com/post/3maqn3ixz4423)
 
 ---
 
 @usatoday.com
 
-Mickey Lee, who appeared on "Big Brother" earlier this year, is hospitalized in critical but stable condition, her family said.
+What is FICA? Why federal taxes are taken out of your pay.
 
-[2025-12-25 00:30:20](https://bsky.app/profile/usatoday.com/post/3maqlfcn6yg2o)
+[2025-12-25 01:00:35](https://bsky.app/profile/usatoday.com/post/3maqn3fwxv52o)
+
+---
+
+@reuters.com
+
+Nuggets F Cameron Johnson (knee) to undergo MRI reut.rs/494iFDj
+
+[2025-12-25 01:00:30](https://bsky.app/profile/reuters.com/post/3maqn3biqze24)
+
+---
+
+@bloomberg.com
+
+Indonesia’s president aims to transform the country with big policy swings in a bid to establish his legacy. Investors aren’t convinced they’ll work. (from the archive)
+
+[2025-12-25 01:00:26](https://bsky.app/profile/bloomberg.com/post/3maqn35gl7b23)
+
+---
+
+@nbcnews.com
+
+Intense downpours that could trigger dangerous flood threats in California are putting a damper on Christmas Eve travel plans, while the New England area braces for heavy snow.
+
+[2025-12-25 01:00:07](https://bsky.app/profile/nbcnews.com/post/3maqn2lltol2p)
+
+---
+
+@aljazeera.com
+
+Four Palestine Action hunger strikers vow to continue as two pause protest https://aje.io/cfew6x
+
+[2025-12-25 01:00:05](https://bsky.app/profile/aljazeera.com/post/3maqn2jtktj2v)
+
+---
+
+@cbsnews.com
+
+The Department of Homeland Security says it's replacing its longstanding lottery system for H-1B work visas with an approach that prioritizes skilled, higher-paid foreign workers.
+
+[2025-12-25 01:00:01](https://bsky.app/profile/cbsnews.com/post/3maqn2fc6mh2g)
 
 ---
 
