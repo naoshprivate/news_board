@@ -1,9 +1,9 @@
-# [2025-12-25 05:30 updated](2025_12_25.md)
+# [2025-12-25 05:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Justice Department said it found over a million more pages of Jeffrey Epstein documents, extending the time it will take for a full release. A law passed by Congress gave the department a deadline of last Friday to release the files. nyti.ms/49rG0QL <a href="https://bsky.app/profile/nytimes.com/post/3mar43geokx26" target="_blank">nytimes.com</a> (2025-12-25 05:29:02)</span><span style="padding-right:50px;">Prosecutors in New York discovered a million more Epstein documents, the Justice Department said, and will need weeks to vet and disclose them. bit.ly/4pV12NC <a href="https://bsky.app/profile/usatoday.com/post/3mar3qluf532g" target="_blank">usatoday.com</a> (2025-12-25 05:22:58)</span><span style="padding-right:50px;">関西電力3原発の運転差し止め訴訟 きょう大津地裁で判決 https://news.web.nhk/newsweb/na/na-k10015012991000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar3n5zs3q2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 05:21:02)</span><span style="padding-right:50px;">ウクライナのゼレンスキー大統領は、ロシアのウクライナ侵攻終結に向けた米・ウクライナ高官協議を受けて和平案がまとまりつつあるとし、領土など繊細な問題に関してトランプ米大統領と会談したい意向を表明した。大統領府が２４日、記者団に明らかにした。 bit.ly/4p9Q3OY <a href="https://bsky.app/profile/japan.reuters.com/post/3mar3lzvtda2c" target="_blank">japan.reuters.com</a> (2025-12-25 05:20:25)</span><span style="padding-right:50px;">午後のニューヨーク外為市場では、円が米ドルに対し小幅上昇した。トレーダーらは、円安が日本当局の介入を促すかどうかに注目している。 bit.ly/4pbBMBw <a href="https://bsky.app/profile/japan.reuters.com/post/3mar3lwqx4o2c" target="_blank">japan.reuters.com</a> (2025-12-25 05:20:22)</span>
+<span style="padding-right:50px;">William Finn and Rachel Sheinkin’s musical returns in this delightful off-Broadway production starring Jasmine Amy Rogers, Kevin McHale and Lilli Cooper. on.wsj.com/48SJOub <a href="https://bsky.app/profile/wsj.com/post/3mar4yogtbt2k" target="_blank">wsj.com</a> (2025-12-25 05:45:23)</span><span style="padding-right:50px;">ロシアとの和平案 ゼレンスキー大統領 文書公表も進展見通せず https://news.web.nhk/newsweb/na/na-k10015013141000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar4y4bbx724" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 05:45:02)</span><span style="padding-right:50px;">タイとカンボジアの国境地帯で発生した両国軍の衝突を巡り、両軍当局は２４日、停戦協議を開始したと発表した。両国は数日前、停戦再開について協議することで合意していた。 bit.ly/48WpZCo <a href="https://bsky.app/profile/japan.reuters.com/post/3mar4pjyla42s" target="_blank">japan.reuters.com</a> (2025-12-25 05:40:17)</span><span style="padding-right:50px;">Big hits including “Lilo & Stitch” and “Zootopia 2” have helped boost theater ticket sales all year. <a href="https://bsky.app/profile/forbes.com/post/3mar4pcaxlb2t" target="_blank">forbes.com</a> (2025-12-25 05:40:08)</span><span style="padding-right:50px;">Teenagers are increasingly engaging in stock trading, with some already saving for financial milestones such as buying a home. “I kind of just wanted to see if it would work and how much money I could get.” on.wsj.com/4petCbE <a href="https://bsky.app/profile/wsj.com/post/3mar4h2boej2c" target="_blank">wsj.com</a> (2025-12-25 05:35:32)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.91 (🔻0.26 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔻0.26 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,96 +32,97 @@
 
 ## News Headlines
 
-- Justice Department says it needs more time to release Epstein files
-- Prosecutors discover 1 million more documents related to Epstein case
-- Japan's Kansai Electric Power 3 nuclear plant lawsuit verdict today
-- Ukraine's Zelensky seeks talks with Trump on peace plan
-- US regulator extends driving-time limit waiver for heating fuel haulers
-- Japan's Suzuki Shingo to visit Russia to push for early ceasefire
+- Russia-Ukraine Peace Plan Unveiled, But Progress Unclear
+- Cambodia and Thailand Agree to Ceasefire Talks After Border Clash
+- Teenagers Are Trading Stocks and Saving for Big Purchases
+- Biohaven's Depression Drug Fails Mid-Stage Trial, Shares Fall
+- US and Ukraine to Present 20-Point Peace Plan to End War with Russia
+- Justice Department Says Release of Epstein Files Delayed Due to Additional Documents
 
 
 ----
 
-@nytimes.com
+@wsj.com
 
-The Justice Department said it found over a million more pages of Jeffrey Epstein documents, extending the time it will take for a full release. A law passed by Congress gave the department a deadline of last Friday to release the files. nyti.ms/49rG0QL
+William Finn and Rachel Sheinkin’s musical returns in this delightful off-Broadway production starring Jasmine Amy Rogers, Kevin McHale and Lilli Cooper. on.wsj.com/48SJOub
 
-[2025-12-25 05:29:02](https://bsky.app/profile/nytimes.com/post/3mar43geokx26)
-
----
-
-@usatoday.com
-
-Prosecutors in New York discovered a million more Epstein documents, the Justice Department said, and will need weeks to vet and disclose them. bit.ly/4pV12NC
-
-[2025-12-25 05:22:58](https://bsky.app/profile/usatoday.com/post/3mar3qluf532g)
+[2025-12-25 05:45:23](https://bsky.app/profile/wsj.com/post/3mar4yogtbt2k)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-関西電力3原発の運転差し止め訴訟 きょう大津地裁で判決
-https://news.web.nhk/newsweb/na/na-k10015012991000
+ロシアとの和平案 ゼレンスキー大統領 文書公表も進展見通せず
+https://news.web.nhk/newsweb/na/na-k10015013141000
 
-[2025-12-25 05:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar3n5zs3q2s)
-
----
-
-@japan.reuters.com
-
-ウクライナのゼレンスキー大統領は、ロシアのウクライナ侵攻終結に向けた米・ウクライナ高官協議を受けて和平案がまとまりつつあるとし、領土など繊細な問題に関してトランプ米大統領と会談したい意向を表明した。大統領府が２４日、記者団に明らかにした。 bit.ly/4p9Q3OY
-
-[2025-12-25 05:20:25](https://bsky.app/profile/japan.reuters.com/post/3mar3lzvtda2c)
+[2025-12-25 05:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar4y4bbx724)
 
 ---
 
 @japan.reuters.com
 
-午後のニューヨーク外為市場では、円が米ドルに対し小幅上昇した。トレーダーらは、円安が日本当局の介入を促すかどうかに注目している。 bit.ly/4pbBMBw
+タイとカンボジアの国境地帯で発生した両国軍の衝突を巡り、両軍当局は２４日、停戦協議を開始したと発表した。両国は数日前、停戦再開について協議することで合意していた。 bit.ly/48WpZCo
 
-[2025-12-25 05:20:22](https://bsky.app/profile/japan.reuters.com/post/3mar3lwqx4o2c)
-
----
-
-@financialtimes.com
-
-US DoJ says full Epstein document release could take ‘few more weeks’ ft.trib.al/0C9YzEy
-
-[2025-12-25 05:20:14](https://bsky.app/profile/financialtimes.com/post/3mar3lpkvcb2y)
+[2025-12-25 05:40:17](https://bsky.app/profile/japan.reuters.com/post/3mar4pjyla42s)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@forbes.com
 
-週刊新潮が謝罪文 差別的内容で批判相次ぎ終了したコラムで
-https://news.web.nhk/newsweb/na/na-k10015012951000
+Big hits including “Lilo & Stitch” and “Zootopia 2” have helped boost theater ticket sales all year.
 
-[2025-12-25 05:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar3chr2by2k)
+[2025-12-25 05:40:08](https://bsky.app/profile/forbes.com/post/3mar4pcaxlb2t)
+
+---
+
+@wsj.com
+
+Teenagers are increasingly engaging in stock trading, with some already saving for financial milestones such as buying a home. “I kind of just wanted to see if it would work and how much money I could get.” on.wsj.com/4petCbE
+
+[2025-12-25 05:35:32](https://bsky.app/profile/wsj.com/post/3mar4h2boej2c)
 
 ---
 
 @reuters.com
 
-US regulator extends driving-time limit waiver for heating fuel haulers reut.rs/3YIXfXD
+Biohaven's depression drug fails mid-stage trial, shares fall reut.rs/494jxIc
 
-[2025-12-25 05:10:12](https://bsky.app/profile/reuters.com/post/3mar2zrh5uq2y)
+[2025-12-25 05:35:08](https://bsky.app/profile/reuters.com/post/3mar4ge62hq24)
+
+---
+
+@usatoday.com
+
+"Ned's Declassified" star Tylor Chase, who went viral after experiencing homelessness, is getting help from actors Daniel Curtis Lee and Shaun Weiss.
+
+[2025-12-25 05:33:07](https://bsky.app/profile/usatoday.com/post/3mar4cqqcfy2h)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-自民 鈴木宗男氏がロシア訪問に出発 早期の停戦求める考え示す
-https://news.web.nhk/newsweb/na/na-k10015012931000
+ロシアで北朝鮮軍の兵士をたたえる特別展 結束アピールか
+https://news.web.nhk/newsweb/na/na-k10015012981000
 
-[2025-12-25 05:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar2xqsapg2b)
+[2025-12-25 05:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar4cod5po2y)
 
 ---
 
-@npr.org
+@nbcnews.com
 
-Siblings sometimes share quirky traits, like being able to throw a ball with their head or pick things up with their toes. Researchers wanted to know what's up with that.
+<strong><span style="color: red;">BREAKING:</span> The Justice Department says it received over a million documents potentially related to Epstein's case and releasing them could take "a few more weeks."</strong>
 
-[2025-12-25 05:08:32](https://bsky.app/profile/npr.org/post/3mar2wroatc2m)
+[2025-12-25 05:30:16](https://bsky.app/profile/nbcnews.com/post/3mar45nhfvy2k)
+
+---
+
+@washingtonpost.com
+
+The DOJ released a second wave of files related to Jeffrey Epstein this week.
+
+Here’s what we’ve learned so far from the latest release: 
+
+[2025-12-25 05:30:08](https://bsky.app/profile/washingtonpost.com/post/3mar45fb7f223)
 
 ---
 
