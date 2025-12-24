@@ -1,9 +1,9 @@
-# [2025-12-24 18:30 updated](2025_12_24.md)
+# [2025-12-24 18:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BP said it has agreed to sell a majority stake in its Castrol lubricants business, a deal that values the entire division at $8 billion. <a href="https://bsky.app/profile/wsj.com/post/3mapx7imxjj2t" target="_blank">wsj.com</a> (2025-12-24 18:29:10)</span><span style="padding-right:50px;">BP to sell majority stake in $10bn Castrol to pay down debt ft.trib.al/GZB7l81 <a href="https://bsky.app/profile/financialtimes.com/post/3mapx6oe3dd2k" target="_blank">financialtimes.com</a> (2025-12-24 18:28:42)</span><span style="padding-right:50px;">BP to sell 65% stake in Castrol to Stonepeak for $6 billion reut.rs/3MRWJ79 <a href="https://bsky.app/profile/reuters.com/post/3mapwydee3n2r" target="_blank">reuters.com</a> (2025-12-24 18:25:09)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】N党・立花党首 兵庫県議が告発し書類送検された「名誉棄損」「脅迫」「威力業務妨害」では不起訴処分に (2025-12-24 18:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mapwqkoezk2y" target="_blank">sokuho.news</a> (2025-12-24 18:20:49)</span><span style="padding-right:50px;">Research from recent decades shows that children that were disfavored by their parents during childhood are more likely to have poorer mental health, worse family relationships and less academic success than their siblings. <a href="https://bsky.app/profile/nytimes.com/post/3mapwpbmg5q2b" target="_blank">nytimes.com</a> (2025-12-24 18:20:06)</span>
+<span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3🈡 (2025-12-24 18:49:05) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mapyddb5hl2s" target="_blank">sokuho.news</a> (2025-12-24 18:49:12)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-24 18:48:51) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mapycvgm262r" target="_blank">sokuho.news</a> (2025-12-24 18:48:58)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-24 18:48:31) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mapycctyg62v" target="_blank">sokuho.news</a> (2025-12-24 18:48:38)</span><span style="padding-right:50px;">LIVE: Site of Libyan army chief plane crash www.youtube.com/live/sLBA7wF... <a href="https://bsky.app/profile/reuters.com/post/3mapyau2amc27" target="_blank">reuters.com</a> (2025-12-24 18:47:49)</span><span style="padding-right:50px;">Disney’s first-ever chief brand officer, Asad Ayaz, is Bob Iger’s pick to depoliticize America’s best-known entertainment company. <a href="https://bsky.app/profile/wsj.com/post/3mapy6zx7ci2s" target="_blank">wsj.com</a> (2025-12-24 18:46:48)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔻0.32 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔻0.38 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,37 +32,83 @@
 
 ## News Headlines
 
-- BP to sell majority stake in Castrol for $8 billion
-- BP sells 65% stake in Castrol to Stonepeak for $6 billion
-- Japanese politician accused of defamation, harassment, and obstruction of business
-- Children who were disfavored by their parents have poorer mental health and academic success
-- Pakistan's flag carrier to be run by new owners from April
-- LG Energy Solution to sell US factory assets to Honda
+- 6.4-magnitude earthquake hits, residents advised to be cautious
+- Disney appoints new chief brand officer to depoliticize the company
+- Ukraine reaches consensus with US on some issues to end conflict, but key questions remain
+- Former Japanese envoy to China blasts Tokyo's handling of the situation
+- Russian ice-class LNG tanker makes maiden voyage, eyes two more in 2026
+- BP to sell majority stake in Castrol lubricants business for $6 billion
 
 
 ----
 
-@wsj.com
+@sokuho.news
 
-BP said it has agreed to sell a majority stake in its Castrol lubricants business, a deal that values the entire division at $8 billion.
+🚨地震発生中❗
 
-[2025-12-24 18:29:10](https://bsky.app/profile/wsj.com/post/3mapx7imxjj2t)
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3🈡
+(2025-12-24 18:49:05) #緊急地震速報
+
+[2025-12-24 18:49:12](https://bsky.app/profile/sokuho.news/post/3mapyddb5hl2s)
 
 ---
 
-@financialtimes.com
+@sokuho.news
 
-BP to sell majority stake in $10bn Castrol to pay down debt ft.trib.al/GZB7l81
+🚨地震発生中❗
 
-[2025-12-24 18:28:42](https://bsky.app/profile/financialtimes.com/post/3mapx6oe3dd2k)
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-24 18:48:51) #緊急地震速報
+
+[2025-12-24 18:48:58](https://bsky.app/profile/sokuho.news/post/3mapycvgm262r)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-24 18:48:31) #緊急地震速報
+
+[2025-12-24 18:48:38](https://bsky.app/profile/sokuho.news/post/3mapycctyg62v)
 
 ---
 
 @reuters.com
 
-BP to sell 65% stake in Castrol to Stonepeak for $6 billion reut.rs/3MRWJ79
+LIVE: Site of Libyan army chief plane crash
+www.youtube.com/live/sLBA7wF...
 
-[2025-12-24 18:25:09](https://bsky.app/profile/reuters.com/post/3mapwydee3n2r)
+[2025-12-24 18:47:49](https://bsky.app/profile/reuters.com/post/3mapyau2amc27)
+
+---
+
+@wsj.com
+
+Disney’s first-ever chief brand officer, Asad Ayaz, is Bob Iger’s pick to depoliticize America’s best-known entertainment company.
+
+[2025-12-24 18:46:48](https://bsky.app/profile/wsj.com/post/3mapy6zx7ci2s)
+
+---
+
+@nikkei.com
+
+中国の漫画イベントで日本排除　香港紙、日中関係悪化が影響か
+www.nikkei.com/article/DGXZQO...
+
+浙江省杭州で12月27〜28日に開催予定の中国最大級の漫画イベント「COMICUP」で、日本関連作品の展示が禁止されました。
+
+通知文では日本関連の出品を禁止すると明言していませんが、日本アニメなどを題材にした数十の出展者が、ブースをキャンセルされたとSNSで明かしました。
+
+[2025-12-24 18:46:40](https://bsky.app/profile/nikkei.com/post/3mapy6rrg2g2f)
 
 ---
 
@@ -70,59 +116,34 @@ BP to sell 65% stake in Castrol to Stonepeak for $6 billion reut.rs/3MRWJ79
 
 🛎️FNNより【速報】です。
 
-【速報】N党・立花党首 兵庫県議が告発し書類送検された「名誉棄損」「脅迫」「威力業務妨害」では不起訴処分に
-(2025-12-24 18:07) #ニュース
+【速報】京都府立高校の男性職員 宿泊先で女子生徒の胸を触り懲戒免職 京都府教委
+(2025-12-24 18:34) #ニュース
 
-[2025-12-24 18:20:49](https://bsky.app/profile/sokuho.news/post/3mapwqkoezk2y)
-
----
-
-@nytimes.com
-
-Research from recent decades shows that children that were disfavored by their parents during childhood are more likely to have poorer mental health, worse family relationships and less academic success than their siblings.
-
-[2025-12-24 18:20:06](https://bsky.app/profile/nytimes.com/post/3mapwpbmg5q2b)
+[2025-12-24 18:46:28](https://bsky.app/profile/sokuho.news/post/3mapy6gqqdo2v)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@en.afp.com
 
-自民 外国人政策めぐり 出入国管理適正化など提言へ
-https://news.web.nhk/newsweb/na/na-k10015012731000
+🇺🇦 🇷🇺 🇺🇸 Ukraine has won some concessions in the latest version of a US-led draft plan to end the Russian invasion, revealed by President Volodymyr Zelensky, though key questions remain over territory and whether Moscow could accept the new terms ➡️ u.afp.com/S8Qo
 
-[2025-12-24 18:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapwlnw2xl2w)
-
----
-
-@reuters.com
-
-Flag carrier PIA to be run by new owners from April, says Pakistan official reut.rs/497IUsF
-
-[2025-12-24 18:15:11](https://bsky.app/profile/reuters.com/post/3mapwgj4lf62y)
+[2025-12-24 18:46:15](https://bsky.app/profile/en.afp.com/post/3mapy62ffi52y)
 
 ---
 
-@wsj.com
+@apnews.com
 
-How often do you change settings on ChatGPT? Did you even know you could change the settings? Here are six you might want to look at. on.wsj.com/3Yaulj2
+United States and Ukraine have reached a consensus on several critical issues aimed at bringing an end to the conflict, but sensitive issues around territorial control in Ukraine’s eastern industrial heartland, remain unresolved, Ukraine’s president said.
 
-[2025-12-24 18:10:49](https://bsky.app/profile/wsj.com/post/3mapw6ot4xs2i)
-
----
-
-@financialtimes.com
-
- Saudi’s sway is here to stay ft.trib.al/khKSIps  | opinion
-
-[2025-12-24 18:10:43](https://bsky.app/profile/financialtimes.com/post/3mapw6ir2mn2o)
+[2025-12-24 18:45:37](https://bsky.app/profile/apnews.com/post/3mapy4vpngi26)
 
 ---
 
 @reuters.com
 
-Italy watchdog orders Meta to halt WhatsApp terms barring rival AI chatbots reut.rs/3MPjxo2
+How Israel's hilltop settlers coordinate attacks to expel Palestinians reut.rs/4jguWcD
 
-[2025-12-24 18:10:08](https://bsky.app/profile/reuters.com/post/3mapw5hh6472b)
+[2025-12-24 18:45:11](https://bsky.app/profile/reuters.com/post/3mapy456t7q2i)
 
 ---
 
