@@ -1,9 +1,9 @@
-# [2025-12-25 06:30 updated](2025_12_25.md)
+# [2025-12-25 06:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Hacked communications and a social media analysis reveal how some of Bashar al-Assad’s top spymasters and generals are plotting to undermine the fledgling government that ousted them — and perhaps take back a piece of the country. trib.al/Kv4IZmT <a href="https://bsky.app/profile/nytimes.com/post/3mar7grzu7g2b" target="_blank">nytimes.com</a> (2025-12-25 06:29:04)</span><span style="padding-right:50px;">Laura Poitras and Mark Obenhaus direct this documentary about the investigative journalist whose work has ranged from the My Lai massacre to abuse at Abu Ghraib. on.wsj.com/4pgh97l <a href="https://bsky.app/profile/wsj.com/post/3mar7eekgfo2r" target="_blank">wsj.com</a> (2025-12-25 06:27:43)</span><span style="padding-right:50px;">英国、カナダ、ドイツなどの国々は２４日、イスラエル安全保障会議が占領下のヨルダン川西岸地域に１９の新たな入植地建設を承認したことを非難する声明を発表した。国際法に違反し、不安定化を助長する恐れがあるとした。 bit.ly/3YbDgAE <a href="https://bsky.app/profile/japan.reuters.com/post/3mar7dcqczc2q" target="_blank">japan.reuters.com</a> (2025-12-25 06:27:07)</span><span style="padding-right:50px;">1994年当時の細川首相 米の外交姿勢への不満 中国首相に伝える https://news.web.nhk/newsweb/na/na-k10015012921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar75ub2ke2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 06:24:02)</span><span style="padding-right:50px;">⚽ 🏆 The decision to change the Africa Cup of Nations from every two years to four has been met with mixed reaction on the continent, with some seeing it as simply caving in to pressure from European clubs and FIFA. u.afp.com/S8Ae <a href="https://bsky.app/profile/en.afp.com/post/3mar726eqzj26" target="_blank">en.afp.com</a> (2025-12-25 06:22:01)</span>
+<span style="padding-right:50px;">イスラエル 遺体返還でエジプトに代表団 ハマスはトルコと協議 https://news.web.nhk/newsweb/na/na-k10015013131000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marait2ax42b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 06:48:03)</span><span style="padding-right:50px;">高額療養費、自己負担の上限4〜38%引き上げ　患者配慮で改革縮む www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3maraga3pb42f" target="_blank">nikkei.com</a> (2025-12-25 06:46:39)</span><span style="padding-right:50px;">North Korea's Kim Jong Un oversees test-firing of long-range missile, building of nuclear submarine, KCNA says reut.rs/4ses8AN <a href="https://bsky.app/profile/reuters.com/post/3maradmnw232b" target="_blank">reuters.com</a> (2025-12-25 06:45:11)</span><span style="padding-right:50px;">NY株式市場 ダウ300ドル近い値上がり S＆P500も最高値を更新 https://news.web.nhk/newsweb/na/na-k10015013161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maradga7wr2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 06:45:03)</span><span style="padding-right:50px;">＜為替＞ 円が米ドルに対し小幅上昇した。トレーダーらは、円安が日本当局の介入を促すかどうかに注目している。 bit.ly/48UiKeb <a href="https://bsky.app/profile/japan.reuters.com/post/3marac5kr272c" target="_blank">japan.reuters.com</a> (2025-12-25 06:44:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔻0.26 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔻0.28 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,96 +32,96 @@
 
 ## News Headlines
 
-- US Senate Demands Trump Recall Diplomats Amid 'Dangerous Leadership Vacuum'
+- Israel Sends Delegation to Egypt to Return Bodies
+- Israel Approves New Settlements in West Bank Despite International Criticism
+- US Crime Rates Fall Across Much of the Country in 2025
+- US Stock Market Hits Record Highs as Dow and S&P 500 Surge
 - Nvidia to Acquire AI Chip Startup Groq for $20 Billion
-- Russia Extends ExxonMobil's Withdrawal Deadline from Sakhalin-1 Project
-- Ukrainian President Zelenskyy Calls for Meeting with Trump to Discuss Peace Deal
-- Russia's Putin Extends ExxonMobil's Withdrawal Deadline from Sakhalin-1 Project
-- US Judge Halts Enforcement of Trump's Security Clearance Revocation for Whistleblower Attorney
+- Scientists Discover Physical Intimacy Can Speed Up Healing
 
 
 ----
 
-@nytimes.com
-
-Hacked communications and a social media analysis reveal how some of Bashar al-Assad’s top spymasters and generals are plotting to undermine the fledgling government that ousted them — and perhaps take back a piece of the country. trib.al/Kv4IZmT
-
-[2025-12-25 06:29:04](https://bsky.app/profile/nytimes.com/post/3mar7grzu7g2b)
-
----
-
-@wsj.com
-
-Laura Poitras and Mark Obenhaus direct this documentary about the investigative journalist whose work has ranged from the My Lai massacre to abuse at Abu Ghraib. on.wsj.com/4pgh97l
-
-[2025-12-25 06:27:43](https://bsky.app/profile/wsj.com/post/3mar7eekgfo2r)
-
----
-
-@japan.reuters.com
-
-英国、カナダ、ドイツなどの国々は２４日、イスラエル安全保障会議が占領下のヨルダン川西岸地域に１９の新たな入植地建設を承認したことを非難する声明を発表した。国際法に違反し、不安定化を助長する恐れがあるとした。 bit.ly/3YbDgAE
-
-[2025-12-25 06:27:07](https://bsky.app/profile/japan.reuters.com/post/3mar7dcqczc2q)
-
----
-
 @nhknewsunofficial.bsky.social
 
-1994年当時の細川首相 米の外交姿勢への不満 中国首相に伝える
-https://news.web.nhk/newsweb/na/na-k10015012921000
+イスラエル 遺体返還でエジプトに代表団 ハマスはトルコと協議
+https://news.web.nhk/newsweb/na/na-k10015013131000
 
-[2025-12-25 06:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar75ub2ke2d)
-
----
-
-@en.afp.com
-
-⚽ 🏆 The decision to change the Africa Cup of Nations from every two years to four has been met with mixed reaction on the continent, with some seeing it as simply caving in to pressure from European clubs and FIFA.
-u.afp.com/S8Ae
-
-[2025-12-25 06:22:01](https://bsky.app/profile/en.afp.com/post/3mar726eqzj26)
+[2025-12-25 06:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marait2ax42b)
 
 ---
 
-@japan.reuters.com
+@nikkei.com
 
-米上院外交委員会の民主党議員１０人は２４日、トランプ大統領に対し、米大使ら約３０人を召還する決定を撤回するよう要請した。危険な指導力の空白を生み出し、ロシアや中国などの敵対国の影響力拡大を許すことになると警告した。 bit.ly/3L7k9F0
+高額療養費、自己負担の上限4〜38%引き上げ　患者配慮で改革縮む
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-25 06:20:22](https://bsky.app/profile/japan.reuters.com/post/3mar6xafqhl2c)
-
----
-
-@wsj.com
-
-The director’s latest film is a triptych featuring Adam Driver, Cate Blanchett, Tom Waits and others in subdued stories of parents and siblings. on.wsj.com/3Ybh4Xy
-
-[2025-12-25 06:18:44](https://bsky.app/profile/wsj.com/post/3mar6ucz5bx2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-あすにかけ日本海側 山沿い中心に大雪のおそれ 大荒れの天気も
-https://news.web.nhk/newsweb/na/na-k10015013151000
-
-[2025-12-25 06:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar6t4ehaw2b)
+[2025-12-25 06:46:39](https://bsky.app/profile/nikkei.com/post/3maraga3pb42f)
 
 ---
 
 @reuters.com
 
-Nvidia to buy AI chip startup Groq for $20 billion, CNBC reports reut.rs/4jmmtVq
+North Korea's Kim Jong Un oversees test-firing of long-range missile, building of nuclear submarine, KCNA says reut.rs/4ses8AN
 
-[2025-12-25 06:15:14](https://bsky.app/profile/reuters.com/post/3mar6o2v4m52p)
+[2025-12-25 06:45:11](https://bsky.app/profile/reuters.com/post/3maradmnw232b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+NY株式市場 ダウ300ドル近い値上がり S＆P500も最高値を更新
+https://news.web.nhk/newsweb/na/na-k10015013161000
+
+[2025-12-25 06:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maradga7wr2u)
+
+---
+
+@japan.reuters.com
+
+＜為替＞ 円が米ドルに対し小幅上昇した。トレーダーらは、円安が日本当局の介入を促すかどうかに注目している。 bit.ly/48UiKeb
+
+[2025-12-25 06:44:22](https://bsky.app/profile/japan.reuters.com/post/3marac5kr272c)
+
+---
+
+@npr.org
+
+Crime rates dropped across much of the U.S. in 2025. That was true for both property and violent crime. And it declined nearly everywhere: In big cities and small towns, and in red and blue states. n.pr/4jlKpZ2
+
+[2025-12-25 06:40:36](https://bsky.app/profile/npr.org/post/3mara3fsd432e)
+
+---
+
+@japan.reuters.com
+
+米国株式市場は、ダウ工業株３０種とＳ＆Ｐ総合５００種が終値で最高値を更新した。クリスマスイブの短縮取引で、薄商いとなる中、主要株価３指数はそろって５営業日続伸した。 bit.ly/44MFiem
+
+[2025-12-25 06:40:21](https://bsky.app/profile/japan.reuters.com/post/3mara2xj3472q)
+
+---
+
+@reuters.com
+
+ICE agents involved in Maryland shooting, injuring two reut.rs/44JHL9h
+
+[2025-12-25 06:40:19](https://bsky.app/profile/reuters.com/post/3mara2vdexs2y)
 
 ---
 
 @wsj.com
 
-Scientists found that physical intimacy can speed healing, when combined with the "love hormone" oxytocin on.wsj.com/3YES3UG
+Park Chan-wook directs this macabre comedy about a man who, having lost his job in a corporate restructuring, takes homicidal action to resurrect his career. on.wsj.com/44JHJhF
 
-[2025-12-25 06:11:54](https://bsky.app/profile/wsj.com/post/3mar6i4c5vb23)
+[2025-12-25 06:39:05](https://bsky.app/profile/wsj.com/post/3mar7ypgzz32o)
+
+---
+
+@reuters.com
+
+Democratic governors call on Trump administration to lift freeze on offshore wind projects reut.rs/4pcl9FI
+
+[2025-12-25 06:35:10](https://bsky.app/profile/reuters.com/post/3mar7ron5xf2r)
 
 ---
 
