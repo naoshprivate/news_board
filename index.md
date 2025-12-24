@@ -1,9 +1,9 @@
-# [2025-12-25 07:50 updated](2025_12_25.md)
+# [2025-12-25 08:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">お年玉、14年ぶり高額もインフレに勝てず www.nikkei.com/article/DGXZQO...  小学生が25年にもらった平均額は14.5%増の2万3158円で、2011年以来の水準に。  一方で買いたいものは大きく値上がりし、ゲーム機はお年玉全額をはたいても買えなくなっています。 <a href="https://bsky.app/profile/nikkei.com/post/3mardrj2fpm2m" target="_blank">nikkei.com</a> (2025-12-25 07:46:39)</span><span style="padding-right:50px;">With elimination looming, Ravens' Lamar Jackson misses practice reut.rs/4ssymxc <a href="https://bsky.app/profile/reuters.com/post/3mardoxrkdq2y" target="_blank">reuters.com</a> (2025-12-25 07:45:13)</span><span style="padding-right:50px;">＜日本企業ＡＤＲ銘柄＞ bit.ly/4qrSC01 <a href="https://bsky.app/profile/japan.reuters.com/post/3mardosuckz2n" target="_blank">japan.reuters.com</a> (2025-12-25 07:45:08)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   When having political discussions with extended family this holiday season, “the first commandment is: Don’t blow up. Don’t jump from the table and run for your room, hot tears splashing the floor,” Mark Edmundson writes. <a href="https://bsky.app/profile/nytimes.com/post/3mardoqhegt2b" target="_blank">nytimes.com</a> (2025-12-25 07:45:06)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “Christianity has always been about far more than identity. It is universalist in its aspirations, if not always in practice,” E. J. Dionne Jr. writes. <a href="https://bsky.app/profile/nytimes.com/post/3mardoqvflj26" target="_blank">nytimes.com</a> (2025-12-25 07:45:06)</span>
+<span style="padding-right:50px;">中南米金融市場では株式がペルーとコロンビアがけん引する形で上昇した。商いは薄かった。 bit.ly/3YbmnpO <a href="https://bsky.app/profile/japan.reuters.com/post/3marexuvtzg2v" target="_blank">japan.reuters.com</a> (2025-12-25 08:08:06)</span><span style="padding-right:50px;">Reports: RHP Pete Fairbanks reels in 1-year deal with Marlins reut.rs/48R7A9W <a href="https://bsky.app/profile/reuters.com/post/3maresm7tb32y" target="_blank">reuters.com</a> (2025-12-25 08:05:09)</span><span style="padding-right:50px;">A heady aroma of malt and brewing yeast drifts through Pakistan's oldest and by far largest brewery, which is gearing up for expansion after getting approval to sell abroad after a nearly 50-year ban. u.afp.com/S8A7 <a href="https://bsky.app/profile/en.afp.com/post/3maresezy7s2x" target="_blank">en.afp.com</a> (2025-12-25 08:05:02)</span><span style="padding-right:50px;">トランプ政権 EU元高官ら入国禁止 デジタル規制けん制ねらいか https://news.web.nhk/newsweb/na/na-k10015013181000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mareovkk6e2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 08:03:03)</span><span style="padding-right:50px;">＜０７：４５＞　ドル155.20─156.80円の見通し、日銀総裁発言に関心 bit.ly/4aPI6eD <a href="https://bsky.app/profile/japan.reuters.com/post/3mareo7katp2u" target="_blank">japan.reuters.com</a> (2025-12-25 08:02:42)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔻0.41 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔺0.09 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,102 +32,95 @@
 
 ## News Headlines
 
-- Government Cuts Grants to American Academy of Pediatrics Over Criticism of Health Secretary
-- Nvidia Agrees to Acquire Chipmaker Grove for $20 Billion
-- Trump-Backed Candidate Wins Honduras Presidential Election
-- North Korea's Kim Watches Long-Range Missile Test
-- Record-Breaking Surge in Metal Prices Leaves Consumers Reeling
-- Pope Leo Warns of Rejecting God by Denying Help to the Poor
+- Peru and Colombia stocks rise in Latin American market
+- Marlins sign RHP Pete Fairbanks to 1-year deal
+- Pakistan's oldest brewery expands after 50-year ban on exporting
+- Trump administration to ban EU officials from entry, digital regulation in target
+- Yen to trade in 155.20-156.80 range, BOJ governor's comments eyed
+- Edinburgh becomes a foodie destination with modern Scottish and global flavors
 
 
 ----
 
-@nikkei.com
+@japan.reuters.com
 
-お年玉、14年ぶり高額もインフレに勝てず
-www.nikkei.com/article/DGXZQO...
+中南米金融市場では株式がペルーとコロンビアがけん引する形で上昇した。商いは薄かった。 bit.ly/3YbmnpO
 
-小学生が25年にもらった平均額は14.5%増の2万3158円で、2011年以来の水準に。
-
-一方で買いたいものは大きく値上がりし、ゲーム機はお年玉全額をはたいても買えなくなっています。
-
-[2025-12-25 07:46:39](https://bsky.app/profile/nikkei.com/post/3mardrj2fpm2m)
+[2025-12-25 08:08:06](https://bsky.app/profile/japan.reuters.com/post/3marexuvtzg2v)
 
 ---
 
 @reuters.com
 
-With elimination looming, Ravens' Lamar Jackson misses practice reut.rs/4ssymxc
+Reports: RHP Pete Fairbanks reels in 1-year deal with Marlins reut.rs/48R7A9W
 
-[2025-12-25 07:45:13](https://bsky.app/profile/reuters.com/post/3mardoxrkdq2y)
+[2025-12-25 08:05:09](https://bsky.app/profile/reuters.com/post/3maresm7tb32y)
+
+---
+
+@en.afp.com
+
+A heady aroma of malt and brewing yeast drifts through Pakistan's oldest and by far largest brewery, which is gearing up for expansion after getting approval to sell abroad after a nearly 50-year ban.
+u.afp.com/S8A7
+
+[2025-12-25 08:05:02](https://bsky.app/profile/en.afp.com/post/3maresezy7s2x)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+トランプ政権 EU元高官ら入国禁止 デジタル規制けん制ねらいか
+https://news.web.nhk/newsweb/na/na-k10015013181000
+
+[2025-12-25 08:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mareovkk6e2s)
 
 ---
 
 @japan.reuters.com
 
-＜日本企業ＡＤＲ銘柄＞ bit.ly/4qrSC01
+＜０７：４５＞　ドル155.20─156.80円の見通し、日銀総裁発言に関心 bit.ly/4aPI6eD
 
-[2025-12-25 07:45:08](https://bsky.app/profile/japan.reuters.com/post/3mardosuckz2n)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com 
-
-When having political discussions with extended family this holiday season, “the first commandment is: Don’t blow up. Don’t jump from the table and run for your room, hot tears splashing the floor,” Mark Edmundson writes.
-
-[2025-12-25 07:45:06](https://bsky.app/profile/nytimes.com/post/3mardoqhegt2b)
+[2025-12-25 08:02:42](https://bsky.app/profile/japan.reuters.com/post/3mareo7katp2u)
 
 ---
 
-@nytimes.com
+@bloomberg.com
 
-In @nytopinion.nytimes.com 
+From modern Scottish cooking to global flavors, Edinburgh is a food town now. These are five top tables worth checking out.
 
-“Christianity has always been about far more than identity. It is universalist in its aspirations, if not always in practice,” E. J. Dionne Jr. writes.
-
-[2025-12-25 07:45:06](https://bsky.app/profile/nytimes.com/post/3mardoqvflj26)
+[2025-12-25 08:00:36](https://bsky.app/profile/bloomberg.com/post/3marekha4pb2g)
 
 ---
 
-@washingtonpost.com
+@cnbc.com
 
-The federal government abruptly cut nearly $12 million in grants to the American Academy of Pediatrics in retaliation for criticizing policies of Health Secretary RFK Jr., the organization alleged in a new lawsuit.
+Acts of kindness have consistently proven to release the feel-good chemicals in people's brains. Try volunteering this holiday season. 
 
-[2025-12-25 07:45:03](https://bsky.app/profile/washingtonpost.com/post/3mardonrqlk2y)
+[2025-12-25 08:00:29](https://bsky.app/profile/cnbc.com/post/3marekb6dck24)
 
 ---
 
 @reuters.com
 
-Four bodies found believed to be from one Liechtenstein family reut.rs/49bdulc
+Report: Galaxy close to signing M Justin Haak reut.rs/4q1qukI
 
-[2025-12-25 07:40:18](https://bsky.app/profile/reuters.com/post/3mardg63cd324)
-
----
-
-@japan.reuters.com
-
-ＣＮＢＣは２４日、エヌビディアが、人工知能（ＡＩ）用半導体開発会社グロックを現金２００億ドルで買収することで合意したと報じた。 bit.ly/49sqLa8
-
-[2025-12-25 07:38:34](https://bsky.app/profile/japan.reuters.com/post/3mardd2epsa2q)
+[2025-12-25 08:00:25](https://bsky.app/profile/reuters.com/post/3marek52gyu24)
 
 ---
 
-@reuters.com
+@apnews.com
 
-Atmospheric river drenches Los Angeles, triggers widespread flooding reut.rs/45kbZzN
+Doctors say just 1 in 30,000 pregnancies occur in the abdomen instead of the uterus. And Ryu Lopez is among the rare cases.
 
-[2025-12-25 07:35:08](https://bsky.app/profile/reuters.com/post/3mard4we3gf2b)
+[2025-12-25 08:00:12](https://bsky.app/profile/apnews.com/post/3marejqc2nl2d)
 
 ---
 
-@wsj.com
+@nbcnews.com
 
-Models who look like Jesus are in high demand in Utah, wrote Bradley Olson in 2024. That’s because for a growing number of people in the state, a picture isn’t complete without Him. 🔗 on.wsj.com/4qcpdHD
+Taylor Swift opened her heart and purse strings, inking seven-digit checks to various charities fighting hunger, cardiovascular disease and the struggles of fellow artists, the non-profit groups say. 
 
-[2025-12-25 07:34:35](https://bsky.app/profile/wsj.com/post/3mard3x5l2c2k)
+[2025-12-25 08:00:11](https://bsky.app/profile/nbcnews.com/post/3marejpjq2k2p)
 
 ---
 
