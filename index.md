@@ -1,9 +1,9 @@
-# [2025-12-25 07:30 updated](2025_12_25.md)
+# [2025-12-25 07:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Nasry “Tito” Asfura, a conservative politician backed by US President Donald Trump, has been declared the winner of the Honduran presidential election. https://cnn.it/3YPbcTP <a href="https://bsky.app/profile/cnn.com/post/3marcq7rdiw2k" target="_blank">cnn.com</a> (2025-12-25 07:28:02)</span><span style="padding-right:50px;">Religious leaders started getting together after Oct. 7, 2023, in the hope of preventing a repeat of Arab-Jewish violence that erupted after a previous conflict in Gaza two years earlier. n.pr/4jfRuKw <a href="https://bsky.app/profile/npr.org/post/3marcmskc5w24" target="_blank">npr.org</a> (2025-12-25 07:26:07)</span><span style="padding-right:50px;">Odesa zoo saves birds from oil spill following Russian attacks reut.rs/4pWuKSq <a href="https://bsky.app/profile/reuters.com/post/3marcl3yhdf2i" target="_blank">reuters.com</a> (2025-12-25 07:25:10)</span><span style="padding-right:50px;">【動画】Pickup NEWS（12月25日） https://news.web.nhk/newsweb/na/na-k10015012881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marc6fukny2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 07:18:02)</span><span style="padding-right:50px;">BREAKING: Trump-backed candidate Nasry Asfura is declared the winner of Honduras' presidential vote. <a href="https://bsky.app/profile/cbsnews.com/post/3marc4d3d4e2g" target="_blank">cbsnews.com</a> (2025-12-25 07:16:54)</span>
+<span style="padding-right:50px;">お年玉、14年ぶり高額もインフレに勝てず www.nikkei.com/article/DGXZQO...  小学生が25年にもらった平均額は14.5%増の2万3158円で、2011年以来の水準に。  一方で買いたいものは大きく値上がりし、ゲーム機はお年玉全額をはたいても買えなくなっています。 <a href="https://bsky.app/profile/nikkei.com/post/3mardrj2fpm2m" target="_blank">nikkei.com</a> (2025-12-25 07:46:39)</span><span style="padding-right:50px;">With elimination looming, Ravens' Lamar Jackson misses practice reut.rs/4ssymxc <a href="https://bsky.app/profile/reuters.com/post/3mardoxrkdq2y" target="_blank">reuters.com</a> (2025-12-25 07:45:13)</span><span style="padding-right:50px;">＜日本企業ＡＤＲ銘柄＞ bit.ly/4qrSC01 <a href="https://bsky.app/profile/japan.reuters.com/post/3mardosuckz2n" target="_blank">japan.reuters.com</a> (2025-12-25 07:45:08)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   When having political discussions with extended family this holiday season, “the first commandment is: Don’t blow up. Don’t jump from the table and run for your room, hot tears splashing the floor,” Mark Edmundson writes. <a href="https://bsky.app/profile/nytimes.com/post/3mardoqhegt2b" target="_blank">nytimes.com</a> (2025-12-25 07:45:06)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “Christianity has always been about far more than identity. It is universalist in its aspirations, if not always in practice,” E. J. Dionne Jr. writes. <a href="https://bsky.app/profile/nytimes.com/post/3mardoqvflj26" target="_blank">nytimes.com</a> (2025-12-25 07:45:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.75 (🔻0.43 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔻0.41 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,100 +32,102 @@
 
 ## News Headlines
 
-- BREAKING: Trump-backed candidate Nasry Asfura is declared the winner of Honduras' presidential vote.
-- UK, Canada, Germany and others condemn Israel's West Bank settlement plan
-- China is making steady progress on developing more sophisticated weapons, according to the Pentagon’s latest assessment of Beijing’s military strength
-- Pope Leo, on Christmas Eve, says denying help to poor is rejecting God
-- Country star Darius Rucker spreads holiday cheer at Nashville International Airport by gifting passersby with a spontaneous song
-- Mass shooting in South Africa tavern leaves 11 arrested
+- Government Cuts Grants to American Academy of Pediatrics Over Criticism of Health Secretary
+- Nvidia Agrees to Acquire Chipmaker Grove for $20 Billion
+- Trump-Backed Candidate Wins Honduras Presidential Election
+- North Korea's Kim Watches Long-Range Missile Test
+- Record-Breaking Surge in Metal Prices Leaves Consumers Reeling
+- Pope Leo Warns of Rejecting God by Denying Help to the Poor
 
 
 ----
 
-@cnn.com
-
-Nasry “Tito” Asfura, a conservative politician backed by US President Donald Trump, has been declared the winner of the Honduran presidential election. https://cnn.it/3YPbcTP
-
-[2025-12-25 07:28:02](https://bsky.app/profile/cnn.com/post/3marcq7rdiw2k)
-
----
-
-@npr.org
-
-Religious leaders started getting together after Oct. 7, 2023, in the hope of preventing a repeat of Arab-Jewish violence that erupted after a previous conflict in Gaza two years earlier. n.pr/4jfRuKw
-
-[2025-12-25 07:26:07](https://bsky.app/profile/npr.org/post/3marcmskc5w24)
-
----
-
-@reuters.com
-
-Odesa zoo saves birds from oil spill following Russian attacks reut.rs/4pWuKSq
-
-[2025-12-25 07:25:10](https://bsky.app/profile/reuters.com/post/3marcl3yhdf2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【動画】Pickup NEWS（12月25日）
-https://news.web.nhk/newsweb/na/na-k10015012881000
-
-[2025-12-25 07:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marc6fukny2m)
-
----
-
-@cbsnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Trump-backed candidate Nasry Asfura is declared the winner of Honduras' presidential vote.</strong>
-
-[2025-12-25 07:16:54](https://bsky.app/profile/cbsnews.com/post/3marc4d3d4e2g)
-
----
-
 @nikkei.com
 
-ハイデイ日高が営業最高益　3〜11月、低価格品で追加注文伸ばす
+お年玉、14年ぶり高額もインフレに勝てず
 www.nikkei.com/article/DGXZQO...
 
-節約消費が広がる中で、日高屋は低価格メニューで集客。
+小学生が25年にもらった平均額は14.5%増の2万3158円で、2011年以来の水準に。
 
-おつまみなどの追加注文が増え、210円に価格を抑えた砂肝はフェア実施中に約31万食を売り上げました。
+一方で買いたいものは大きく値上がりし、ゲーム機はお年玉全額をはたいても買えなくなっています。
 
-[2025-12-25 07:16:40](https://bsky.app/profile/nikkei.com/post/3marc3vbrl72x)
+[2025-12-25 07:46:39](https://bsky.app/profile/nikkei.com/post/3mardrj2fpm2m)
 
 ---
 
 @reuters.com
 
-UK, Canada, Germany and others condemn Israel's West Bank settlement plan reut.rs/4serhjE
+With elimination looming, Ravens' Lamar Jackson misses practice reut.rs/4ssymxc
 
-[2025-12-25 07:15:14](https://bsky.app/profile/reuters.com/post/3marbzdf4q523)
+[2025-12-25 07:45:13](https://bsky.app/profile/reuters.com/post/3mardoxrkdq2y)
 
 ---
 
-@wsj.com
+@japan.reuters.com
 
-China is making steady progress on developing more sophisticated weapons, according to the Pentagon’s latest assessment of Beijing’s military strength.
+＜日本企業ＡＤＲ銘柄＞ bit.ly/4qrSC01
 
-[2025-12-25 07:15:10](https://bsky.app/profile/wsj.com/post/3marbz7u73k2o)
+[2025-12-25 07:45:08](https://bsky.app/profile/japan.reuters.com/post/3mardosuckz2n)
 
 ---
 
 @nytimes.com
 
-A prominent farmer in Southern California was arrested on Tuesday on charges that he fatally shot his wife, who had filed for divorce and was living apart from him in Arizona, the authorities said.
+In @nytopinion.nytimes.com 
 
-[2025-12-25 07:15:06](https://bsky.app/profile/nytimes.com/post/3marbz3mkgw2x)
+When having political discussions with extended family this holiday season, “the first commandment is: Don’t blow up. Don’t jump from the table and run for your room, hot tears splashing the floor,” Mark Edmundson writes.
+
+[2025-12-25 07:45:06](https://bsky.app/profile/nytimes.com/post/3mardoqhegt2b)
 
 ---
 
-@en.afp.com
+@nytimes.com
 
-What's behind the recent record-breaking surge in prices for precious and industrial metals?
-u.afp.com/S8Ah
+In @nytopinion.nytimes.com 
 
-[2025-12-25 07:15:02](https://bsky.app/profile/en.afp.com/post/3marbyy3i4n2k)
+“Christianity has always been about far more than identity. It is universalist in its aspirations, if not always in practice,” E. J. Dionne Jr. writes.
+
+[2025-12-25 07:45:06](https://bsky.app/profile/nytimes.com/post/3mardoqvflj26)
+
+---
+
+@washingtonpost.com
+
+The federal government abruptly cut nearly $12 million in grants to the American Academy of Pediatrics in retaliation for criticizing policies of Health Secretary RFK Jr., the organization alleged in a new lawsuit.
+
+[2025-12-25 07:45:03](https://bsky.app/profile/washingtonpost.com/post/3mardonrqlk2y)
+
+---
+
+@reuters.com
+
+Four bodies found believed to be from one Liechtenstein family reut.rs/49bdulc
+
+[2025-12-25 07:40:18](https://bsky.app/profile/reuters.com/post/3mardg63cd324)
+
+---
+
+@japan.reuters.com
+
+ＣＮＢＣは２４日、エヌビディアが、人工知能（ＡＩ）用半導体開発会社グロックを現金２００億ドルで買収することで合意したと報じた。 bit.ly/49sqLa8
+
+[2025-12-25 07:38:34](https://bsky.app/profile/japan.reuters.com/post/3mardd2epsa2q)
+
+---
+
+@reuters.com
+
+Atmospheric river drenches Los Angeles, triggers widespread flooding reut.rs/45kbZzN
+
+[2025-12-25 07:35:08](https://bsky.app/profile/reuters.com/post/3mard4we3gf2b)
+
+---
+
+@wsj.com
+
+Models who look like Jesus are in high demand in Utah, wrote Bradley Olson in 2024. That’s because for a growing number of people in the state, a picture isn’t complete without Him. 🔗 on.wsj.com/4qcpdHD
+
+[2025-12-25 07:34:35](https://bsky.app/profile/wsj.com/post/3mard3x5l2c2k)
 
 ---
 
