@@ -1,9 +1,9 @@
-# [2025-12-24 23:10 updated](2025_12_24.md)
+# [2025-12-24 23:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">フジ・メディアHD 旧村上ファンド系からTOBの意向と発表 https://news.web.nhk/newsweb/na/na-k10015012971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maqgtzjrox24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 23:09:03)</span><span style="padding-right:50px;">Libyan army chief killed in plane crash: What we know so far https://aje.io/54fjfl <a href="https://bsky.app/profile/aljazeera.com/post/3maqgqrhmoe2h" target="_blank">aljazeera.com</a> (2025-12-24 23:07:15)</span><span style="padding-right:50px;">TSX futures inch lower ahead of holiday-shortened session reut.rs/4pfOlfd <a href="https://bsky.app/profile/reuters.com/post/3maqgmzaujq2k" target="_blank">reuters.com</a> (2025-12-24 23:05:09)</span><span style="padding-right:50px;">A recent survey of American consumers indicated a declining view of the economy and the labor market. <a href="https://bsky.app/profile/forbes.com/post/3maqgmu47cr2q" target="_blank">forbes.com</a> (2025-12-24 23:05:04)</span><span style="padding-right:50px;">Stocks just set a record close. Why Katie Stockton is watching out for a possible downturn <a href="https://bsky.app/profile/cnbc.com/post/3maqgm25fxu2x" target="_blank">cnbc.com</a> (2025-12-24 23:04:37)</span>
+<span style="padding-right:50px;">Napoli return to title defence in high spirits after Super Cup triumph reut.rs/49dGzwh <a href="https://bsky.app/profile/reuters.com/post/3maqhqryrbr2y" target="_blank">reuters.com</a> (2025-12-24 23:25:10)</span><span style="padding-right:50px;">China's production of nuclear warheads has slowed, but its missiles may be poised to strike back fast in case of an attack, an annual assessment from the Pentagon found. <a href="https://bsky.app/profile/nytimes.com/post/3maqhqldzil2b" target="_blank">nytimes.com</a> (2025-12-24 23:25:03)</span><span style="padding-right:50px;">3 big surprises that caught stock market pros off guard in 2025 <a href="https://bsky.app/profile/yahoofinance.com/post/3maqhjjim6k2u" target="_blank">yahoofinance.com</a> (2025-12-24 23:21:06)</span><span style="padding-right:50px;">From gorilla trekking to vineyard stays, capital is pouring into Africa from billionaires, tech moguls and Middle Eastern investors who want a share of the continent’s luxury travel market (from the archive) <a href="https://bsky.app/profile/bloomberg.com/post/3maqhhxl2g22f" target="_blank">bloomberg.com</a> (2025-12-24 23:20:14)</span><span style="padding-right:50px;">Doctors for generations accepted being at the mercy of their pagers. Now, younger physicians are questioning medicine’s workaholic culture.   “All us old guys are taking ER call, and you got guys in their 30s at home every night. It’s just a sore spot.” on.wsj.com/4s3XRVj <a href="https://bsky.app/profile/wsj.com/post/3maqhblp55o2t" target="_blank">wsj.com</a> (2025-12-24 23:16:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 156.02 (🔻0.16 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48398.18 (🔻26.53 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 187.82 (🔻0.10 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔻0.24 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,96 +32,96 @@
 
 ## News Headlines
 
-- Fuji Media HD to Acquire TOB from Former Village Capital Fund
-- Libyan Army Chief Killed in Plane Crash
-- TSX Futures Inch Lower Ahead of Holiday-Shortened Session
-- Stocks Set Record Close, but Analysts Warn of Possible Downturn
-- US Jobless Claims Fall, but Labor Market Weakening
-- US Weekly Jobless Claims Unexpectedly Fall, Remain at Historically Healthy Levels
+- Napoli return to title defence in high spirits after Super Cup triumph
+- U.S. says China's nuclear warhead production has slowed but missiles remain ready
+- US weekly jobless claims unexpectedly fall
+- Stocks set record close, but expert warns of possible downturn
+- SolGold agrees to $1.2 billion takeover by Jiangxi Copper
+- Ukrainian President willing to pull troops out of eastern region for peace deal
 
 
 ----
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-フジ・メディアHD 旧村上ファンド系からTOBの意向と発表
-https://news.web.nhk/newsweb/na/na-k10015012971000
+Napoli return to title defence in high spirits after Super Cup triumph reut.rs/49dGzwh
 
-[2025-12-24 23:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maqgtzjrox24)
+[2025-12-24 23:25:10](https://bsky.app/profile/reuters.com/post/3maqhqryrbr2y)
 
 ---
 
-@aljazeera.com
+@nytimes.com
 
-Libyan army chief killed in plane crash: What we know so far https://aje.io/54fjfl
+China's production of nuclear warheads has slowed, but its missiles may be poised to strike back fast in case of an attack, an annual assessment from the Pentagon found.
 
-[2025-12-24 23:07:15](https://bsky.app/profile/aljazeera.com/post/3maqgqrhmoe2h)
+[2025-12-24 23:25:03](https://bsky.app/profile/nytimes.com/post/3maqhqldzil2b)
+
+---
+
+@yahoofinance.com
+
+3 big surprises that caught stock market pros off guard in 2025
+
+[2025-12-24 23:21:06](https://bsky.app/profile/yahoofinance.com/post/3maqhjjim6k2u)
+
+---
+
+@bloomberg.com
+
+From gorilla trekking to vineyard stays, capital is pouring into Africa from billionaires, tech moguls and Middle Eastern investors who want a share of the continent’s luxury travel market (from the archive)
+
+[2025-12-24 23:20:14](https://bsky.app/profile/bloomberg.com/post/3maqhhxl2g22f)
+
+---
+
+@wsj.com
+
+Doctors for generations accepted being at the mercy of their pagers. Now, younger physicians are questioning medicine’s workaholic culture. 
+
+“All us old guys are taking ER call, and you got guys in their 30s at home every night. It’s just a sore spot.” on.wsj.com/4s3XRVj
+
+[2025-12-24 23:16:40](https://bsky.app/profile/wsj.com/post/3maqhblp55o2t)
 
 ---
 
 @reuters.com
 
-TSX futures inch lower ahead of holiday-shortened session reut.rs/4pfOlfd
+SolGold agrees to $1.2 billion takeover by top investor Jiangxi Copper reut.rs/48TmAnH
 
-[2025-12-24 23:05:09](https://bsky.app/profile/reuters.com/post/3maqgmzaujq2k)
-
----
-
-@forbes.com
-
-A recent survey of American consumers indicated a declining view of the economy and the labor market.
-
-[2025-12-24 23:05:04](https://bsky.app/profile/forbes.com/post/3maqgmu47cr2q)
+[2025-12-24 23:15:15](https://bsky.app/profile/reuters.com/post/3maqh734acj2c)
 
 ---
 
-@cnbc.com
+@nhknewsunofficial.bsky.social
 
-Stocks just set a record close. Why Katie Stockton is watching out for a possible downturn
+高市首相 官民が連携して投資へ 工程表の策定を関係閣僚に指示
+https://news.web.nhk/newsweb/na/na-k10015013081000
 
-[2025-12-24 23:04:37](https://bsky.app/profile/cnbc.com/post/3maqgm25fxu2x)
+[2025-12-24 23:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maqgzfpkna2x)
+
+---
+
+@npr.org
+
+The 1995 adaptation of Terry McMillan's novel celebrated the beauty of Black sisterhood. n.pr/494UJQb
+
+[2025-12-24 23:10:50](https://bsky.app/profile/npr.org/post/3maqgx5ykv52e)
+
+---
+
+@reuters.com
+
+US FDA approves Omeros' drug to treat dangerous transplant complication reut.rs/4j9J9rG
+
+[2025-12-24 23:10:20](https://bsky.app/profile/reuters.com/post/3maqgwbjv7x2s)
 
 ---
 
 @japan.reuters.com
 
-米労働省が２４日発表した１２月２０日までの１週間の新規失業保険申請件数（季節調整済み）は２１万４０００件と、前週から１万件減少した。ロイターがまとめたエコノミスト予想は２２万４０００件だった。減少したものの、雇用の伸びが鈍い状況が続いているため、失業率は高止まりしている可能性がある。 bit.ly/4qkkJ0V
+ロシアのドミトリエフ大統領特別代表は、ウクライナ和平に関するウィットコフ米特使との会談を踏まえた米国の提案について、プーチン大統領に説明した。 bit.ly/4pR8KYS
 
-[2025-12-24 23:02:24](https://bsky.app/profile/japan.reuters.com/post/3maqgi34ew42c)
-
----
-
-@reuters.com
-
-UK's Secure Trust to sell motor finance business for $619 million reut.rs/4jdsbc4
-
-[2025-12-24 23:01:13](https://bsky.app/profile/reuters.com/post/3maqgfxqxh224)
-
----
-
-@financialtimes.com
-
-Opinion: The battle between Paramount and Netflix for ownership of Warner Bros Discovery is nearing its end, but one outcome is already clear for US video aficionados, writes Brooke Masters ft.trib.al/DJTWRYf
-
-[2025-12-24 23:01:05](https://bsky.app/profile/financialtimes.com/post/3maqgfpxn752y)
-
----
-
-@washingtonpost.com
-
-The first president to host the Kennedy Center Honors, President Donald Trump had joked about the “Trump Kennedy Center” onstage.
-
-But Tuesday’s CBS broadcast of the Honors, recorded Dec. 7, premiered with the cultural institution’s long-standing title.
-
-[2025-12-24 23:00:57](https://bsky.app/profile/washingtonpost.com/post/3maqgfi6vls2e)
-
----
-
-@cnn.com
-
-"It's just been confusing and compounding," Matthew Barlett, a GOP strategist and former first-term Trump appointee, said of the administration's contradictory messaging. https://cnn.it/4s9LAhY
-
-[2025-12-24 23:00:57](https://bsky.app/profile/cnn.com/post/3maqgfi5zus2a)
+[2025-12-24 23:10:19](https://bsky.app/profile/japan.reuters.com/post/3maqgwaga652c)
 
 ---
 
