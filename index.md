@@ -1,9 +1,9 @@
-# [2025-12-24 21:30 updated](2025_12_24.md)
+# [2025-12-24 21:52 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">政府 来年度の経済成長率 実質プラス1.3％程度の見通し https://news.web.nhk/newsweb/na/na-k10015012891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maqb5npkqy2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 21:27:02)</span><span style="padding-right:50px;">‘Not a happy Trump supporter’: Cattle ranchers hit by push for lower beef prices reut.rs/45iw9dB <a href="https://bsky.app/profile/reuters.com/post/3maqb25dtab2k" target="_blank">reuters.com</a> (2025-12-24 21:25:07)</span><span style="padding-right:50px;">Officials in Southern California began issuing evacuation warnings and closing roads as a severe storm began hitting the region, with heavy rain and dangerous floods expected across Los Angeles County on Christmas Eve and Christmas Day. Here's what to know. <a href="https://bsky.app/profile/nytimes.com/post/3maqb244zw42b" target="_blank">nytimes.com</a> (2025-12-24 21:25:06)</span><span style="padding-right:50px;">🇰🇭 🇹🇭 Cambodian and Thai officials began four days of talks at a border checkpoint on Wednesday aimed at negotiating an end to deadly clashes, Phnom Penh said ➡️ u.afp.com/S8Qd <a href="https://bsky.app/profile/en.afp.com/post/3maqaweapvp2q" target="_blank">en.afp.com</a> (2025-12-24 21:23:01)</span><span style="padding-right:50px;">ロシアの首都モスクワで２４日、２人の警察官が不審な行動をしていた男に近づいたところ爆弾が爆発し、警官を含む３人が死亡した。現場は自動車爆弾によってロシア軍幹部が２日前に殺害された場所の付近だった。 bit.ly/4paDgvW <a href="https://bsky.app/profile/japan.reuters.com/post/3maqariglq422" target="_blank">japan.reuters.com</a> (2025-12-24 21:20:17)</span>
+<span style="padding-right:50px;">トルコ政府関係者は２４日、リビア軍のハダッド参謀総長らが搭乗していたプライベートジェット機が２３日に墜落し、ハダッド氏を含む８人全員が死亡したことについて、機体が消息を絶つ直前に電気系統の故障を報告し、緊急着陸を要請していたことを明らかにした。 bit.ly/3MT5gqi <a href="https://bsky.app/profile/japan.reuters.com/post/3maqc64ly5p2q" target="_blank">japan.reuters.com</a> (2025-12-24 21:45:15)</span><span style="padding-right:50px;">Stonepeak, CPPIB look to buy Castrol India shares at premium following BP deal reut.rs/4aP8V2z <a href="https://bsky.app/profile/reuters.com/post/3maqc5zffwm2r" target="_blank">reuters.com</a> (2025-12-24 21:45:11)</span><span style="padding-right:50px;">Clever layers of colour, pattern, scent and texture are the recipe for a tablescape that goes to town without becoming a hot mess: ft.trib.al/2GXtZUr <a href="https://bsky.app/profile/financialtimes.com/post/3maqc42avjh24" target="_blank">financialtimes.com</a> (2025-12-24 21:44:05)</span><span style="padding-right:50px;">Zelenskyy open to demilitarised zone if Russia pulls back ft.trib.al/YTxKgu5 <a href="https://bsky.app/profile/financialtimes.com/post/3maqc3uufje2k" target="_blank">financialtimes.com</a> (2025-12-24 21:44:00)</span><span style="padding-right:50px;">Stocks making the biggest moves premarket: Nike, Dynavax Technologies, UiPath & more <a href="https://bsky.app/profile/cnbc.com/post/3maqbztwgg72i" target="_blank">cnbc.com</a> (2025-12-24 21:42:51)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔻0.24 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.97 (🔻0.21 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -30,97 +30,85 @@
 
 ---
 
-## News Headlines
-
-- Japan Sees Economic Growth Rate of 1.3% in Next Year
-- Cattle Ranchers Hit by Push for Lower Beef Prices
-- Southern California Issued Evacuation Warnings and Closures as Storm Hits
-- Cambodian and Thai Officials Hold Talks to End Border Clashes
-- Bomb Explodes in Moscow, Killing 3 Including Police Officers
-- Amazon Faces Leader's Dilemma on AI Shopping Bots
-
-
-----
-
-@nhknewsunofficial.bsky.social
-
-政府 来年度の経済成長率 実質プラス1.3％程度の見通し
-https://news.web.nhk/newsweb/na/na-k10015012891000
-
-[2025-12-24 21:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maqb5npkqy2v)
-
----
-
-@reuters.com
-
-‘Not a happy Trump supporter’: Cattle ranchers hit by push for lower beef prices reut.rs/45iw9dB
-
-[2025-12-24 21:25:07](https://bsky.app/profile/reuters.com/post/3maqb25dtab2k)
-
----
-
-@nytimes.com
-
-Officials in Southern California began issuing evacuation warnings and closing roads as a severe storm began hitting the region, with heavy rain and dangerous floods expected across Los Angeles County on Christmas Eve and Christmas Day. Here's what to know.
-
-[2025-12-24 21:25:06](https://bsky.app/profile/nytimes.com/post/3maqb244zw42b)
-
----
-
-@en.afp.com
-
-🇰🇭 🇹🇭 Cambodian and Thai officials began four days of talks at a border checkpoint on Wednesday aimed at negotiating an end to deadly clashes, Phnom Penh said ➡️ u.afp.com/S8Qd
-
-[2025-12-24 21:23:01](https://bsky.app/profile/en.afp.com/post/3maqaweapvp2q)
-
----
-
 @japan.reuters.com
 
-ロシアの首都モスクワで２４日、２人の警察官が不審な行動をしていた男に近づいたところ爆弾が爆発し、警官を含む３人が死亡した。現場は自動車爆弾によってロシア軍幹部が２日前に殺害された場所の付近だった。 bit.ly/4paDgvW
+トルコ政府関係者は２４日、リビア軍のハダッド参謀総長らが搭乗していたプライベートジェット機が２３日に墜落し、ハダッド氏を含む８人全員が死亡したことについて、機体が消息を絶つ直前に電気系統の故障を報告し、緊急着陸を要請していたことを明らかにした。 bit.ly/3MT5gqi
 
-[2025-12-24 21:20:17](https://bsky.app/profile/japan.reuters.com/post/3maqariglq422)
-
----
-
-@wsj.com
-
-Heard on the Street: Almost every corner of the power sector has rallied this year. Can that winning streak continue?
-
-[2025-12-24 21:18:57](https://bsky.app/profile/wsj.com/post/3maqap45rm22s)
+[2025-12-24 21:45:15](https://bsky.app/profile/japan.reuters.com/post/3maqc64ly5p2q)
 
 ---
 
 @reuters.com
 
-The 40 minutes with President Trump that saved Intel CEO Lip-Bu Tan's job and threw the struggling chip maker a lifeline reut.rs/4b6sDqr
+Stonepeak, CPPIB look to buy Castrol India shares at premium following BP deal reut.rs/4aP8V2z
 
-[2025-12-24 21:16:00](https://bsky.app/profile/reuters.com/post/3maqajsrpbc2g)
+[2025-12-24 21:45:11](https://bsky.app/profile/reuters.com/post/3maqc5zffwm2r)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-AI spending, strong corporate profits, Fed rate cuts seen as key to 2026 stock market reut.rs/44EH2X4
+Clever layers of colour, pattern, scent and texture are the recipe for a tablescape that goes to town without becoming a hot mess: ft.trib.al/2GXtZUr
 
-[2025-12-24 21:15:14](https://bsky.app/profile/reuters.com/post/3maqaihotfd2i)
+[2025-12-24 21:44:05](https://bsky.app/profile/financialtimes.com/post/3maqc42avjh24)
+
+---
+
+@financialtimes.com
+
+Zelenskyy open to demilitarised zone if Russia pulls back ft.trib.al/YTxKgu5
+
+[2025-12-24 21:44:00](https://bsky.app/profile/financialtimes.com/post/3maqc3uufje2k)
 
 ---
 
 @cnbc.com
 
-Amazon faces 'leader's dilemma' — fight AI shopping bots or join them
+Stocks making the biggest moves premarket: Nike, Dynavax Technologies, UiPath & more
 
-[2025-12-24 21:12:32](https://bsky.app/profile/cnbc.com/post/3maqadmf2rr2b)
+[2025-12-24 21:42:51](https://bsky.app/profile/cnbc.com/post/3maqbztwgg72i)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-山口 産婦人科医自殺 病院に約1億5000万円の賠償命令 大阪高裁
-https://news.web.nhk/newsweb/na/na-k10015013051000
+French President Macron slams U.S. visa ban on Thierry Breton and others reut.rs/3KYg85N
 
-[2025-12-24 21:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maqacrxqyf2l)
+[2025-12-24 21:40:28](https://bsky.app/profile/reuters.com/post/3maqbvl3sss2o)
+
+---
+
+@nytimes.com
+
+President Volodymyr Zelensky of Ukraine has unveiled a revised draft peace plan, developed with the U.S., portraying it as Kyiv’s best effort to end the war with Russia.
+
+Here’s what we know about the 20 points.
+
+[2025-12-24 21:40:05](https://bsky.app/profile/nytimes.com/post/3maqbuvjuc72r)
+
+---
+
+@npr.org
+
+Mail theft can happen around the holidays, but sometimes, instead of getting a new iPad, the thief swipes a mail order medicine. Here's what to do about it. n.pr/4b6shQD
+
+[2025-12-24 21:38:19](https://bsky.app/profile/npr.org/post/3maqbrqjr4q2g)
+
+---
+
+@yahoofinance.com
+
+Treasury official: The Fed can cut rates next year, even in the face of strong growth
+
+[2025-12-24 21:36:07](https://bsky.app/profile/yahoofinance.com/post/3maqbnrqztt2v)
+
+---
+
+@wsj.com
+
+With more actors, pop stars and other celebrities spotted unapologetically smoking, the cultural taboo against it shows signs of ebbing. That worries antismoking advocates. 🔗 on.wsj.com/49om2X4
+
+[2025-12-24 21:35:34](https://bsky.app/profile/wsj.com/post/3maqbmsy6ux2o)
 
 ---
 
