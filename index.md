@@ -1,9 +1,9 @@
-# [2025-12-24 19:50 updated](2025_12_24.md)
+# [2025-12-24 20:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ゼンショーHD子会社、冷凍食品を自主回収　消毒薬のようなにおい（無料記事） www.nikkei.com/article/DGXZQO...  「おかず三昧 海老といかのひとくち揚げ」の一部商品を自主回収すると発表。  全国で流通する約11万袋が対象となります。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3maq3k37rcp24" target="_blank">nikkei.com</a> (2025-12-24 19:46:40)</span><span style="padding-right:50px;">Global shares hover near record highs; gold, silver scale new highs reut.rs/3YGhzc7 <a href="https://bsky.app/profile/reuters.com/post/3maq3hgl6bk23" target="_blank">reuters.com</a> (2025-12-24 19:45:11)</span><span style="padding-right:50px;">介護報酬 来年度臨時で2.03％引き上げ “職員給与増やすため” https://news.web.nhk/newsweb/na/na-k10015012501000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maq3hawau22l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 19:45:02)</span><span style="padding-right:50px;">トルコ政府関係者は２４日、リビア軍のハダッド参謀総長らが搭乗していたプライベートジェット機が２３日に墜落し、ハダッド氏を含む８人全員が死亡したことについて、機体が消息を絶つ直前に電気系統の故障を報告し、緊急着陸を要請していたことを明らかにした。 bit.ly/4axVmV2 <a href="https://bsky.app/profile/japan.reuters.com/post/3maq3gefp272c" target="_blank">japan.reuters.com</a> (2025-12-24 19:44:35)</span><span style="padding-right:50px;">韓国の国民年金公団（ＮＰＳ）が２４日、新たな戦略的な外国為替ヘッジ取引を開始した。事情に詳しい関係筋２人がロイターに明らかにした。 bit.ly/49dSSZC <a href="https://bsky.app/profile/japan.reuters.com/post/3maq36m2xp425" target="_blank">japan.reuters.com</a> (2025-12-24 19:40:15)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】週刊誌報道調査結果受け東海テレビ会長辞任 社長「経営者として不適切な行為」 (2025年12月24日 20:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maq4rqodtm26" target="_blank">sokuho.news</a> (2025-12-24 20:08:51)</span><span style="padding-right:50px;">Bitcoin mining companies are flying as they pivot to AI data centers, leveraging existing infrastructure to meet the high demand for AI computing. <a href="https://bsky.app/profile/wsj.com/post/3maq4mokbii23" target="_blank">wsj.com</a> (2025-12-24 20:06:00)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】中国地方整備局などが中国地方に「大雪に関するお知らせ」発表 関西ー九州は山陽側の広域う回を (2025-12-24 19:59) #ニュース  ❄️降雪量 🔗https://www.jma.go.jp/bosai/snow/#zoom:5/lat:36.956909/lon:136.526600/colordepth:normal/elements:snowf24h <a href="https://bsky.app/profile/sokuho.news/post/3maq4lxdl7q25" target="_blank">sokuho.news</a> (2025-12-24 20:05:36)</span><span style="padding-right:50px;">ＳＢＩホールディングスと福岡県の筑邦銀行は２４日、資本業務提携の解消で合意したと発表した。ＳＢＩは今年３月末時点で筑邦銀行株を約３％保有していた。両社は２０２０年１月に資本業務提携を締結した。 bit.ly/48R5Nlg <a href="https://bsky.app/profile/japan.reuters.com/post/3maq4l7co7s2n" target="_blank">japan.reuters.com</a> (2025-12-24 20:05:11)</span><span style="padding-right:50px;">Zelenskiy seeks meeting with Trump to hammer out issue of territory reut.rs/4srWLTA <a href="https://bsky.app/profile/reuters.com/post/3maq4l6edzo2k" target="_blank">reuters.com</a> (2025-12-24 20:05:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔻0.24 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔻0.29 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,101 +32,104 @@
 
 ## News Headlines
 
-- Zensho HD subsidiary to recall frozen foods over disinfectant-like smell
-- Global shares hover near record highs; gold, silver scale new highs
-- Turkish government says private jet carrying Libyan military officials crashed, all 8 on board dead
-- South Korea's NPC starts new strategic foreign exchange hedging operations
-- Hyundai to recall over 51,000 vehicles in US over risk of fire
-- LG Energy Solution sells US factory building and assets to Honda subsidiary
+- TV Station Head Resigns After Report on Alleged Misconduct
+- Bitcoin Mining Companies Pivot to AI Data Centers
+- Ukraine and US Reach Consensus on Key Issues, but Territorial Control Remains Unresolved
+- Russia Plans to Build Nuclear Power Plant on the Moon by 2035
+- Global Shares Hover Near Record Highs; Gold and Silver Scale New Peaks
+- New Batch of Jeffrey Epstein Files Released, Containing References to Donald Trump
 
 
 ----
 
-@nikkei.com
+@sokuho.news
 
-ゼンショーHD子会社、冷凍食品を自主回収　消毒薬のようなにおい（無料記事）
-www.nikkei.com/article/DGXZQO...
+🔔ANNより【速報】です。
 
-「おかず三昧 海老といかのひとくち揚げ」の一部商品を自主回収すると発表。
+【速報】週刊誌報道調査結果受け東海テレビ会長辞任 社長「経営者として不適切な行為」
+(2025年12月24日 20:08) #ニュース
 
-全国で流通する約11万袋が対象となります。
-
-#ニュース
-
-[2025-12-24 19:46:40](https://bsky.app/profile/nikkei.com/post/3maq3k37rcp24)
-
----
-
-@reuters.com
-
-Global shares hover near record highs; gold, silver scale new highs reut.rs/3YGhzc7
-
-[2025-12-24 19:45:11](https://bsky.app/profile/reuters.com/post/3maq3hgl6bk23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-介護報酬 来年度臨時で2.03％引き上げ “職員給与増やすため”
-https://news.web.nhk/newsweb/na/na-k10015012501000
-
-[2025-12-24 19:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maq3hawau22l)
-
----
-
-@japan.reuters.com
-
-トルコ政府関係者は２４日、リビア軍のハダッド参謀総長らが搭乗していたプライベートジェット機が２３日に墜落し、ハダッド氏を含む８人全員が死亡したことについて、機体が消息を絶つ直前に電気系統の故障を報告し、緊急着陸を要請していたことを明らかにした。 bit.ly/4axVmV2
-
-[2025-12-24 19:44:35](https://bsky.app/profile/japan.reuters.com/post/3maq3gefp272c)
-
----
-
-@japan.reuters.com
-
-韓国の国民年金公団（ＮＰＳ）が２４日、新たな戦略的な外国為替ヘッジ取引を開始した。事情に詳しい関係筋２人がロイターに明らかにした。 bit.ly/49dSSZC
-
-[2025-12-24 19:40:15](https://bsky.app/profile/japan.reuters.com/post/3maq36m2xp425)
-
----
-
-@reuters.com
-
-Hyundai to recall over 51,000 vehicles in US over risk of fire, NHTSA says reut.rs/48Tcval
-
-[2025-12-24 19:40:11](https://bsky.app/profile/reuters.com/post/3maq36isrmv2k)
-
----
-
-@japan.reuters.com
-
-韓国のＬＧエナジー・ソリューション（ＬＧＥＳ）は２４日、同社の子会社が米オハイオ州の工場建物・資産（総額２８億６０００万ドル相当）をホンダ・デベロップメント・アンド・マニュファクチャリング・オブ・アメリカに売却すると発表した。 bit.ly/3MXOUg4
-
-[2025-12-24 19:35:10](https://bsky.app/profile/japan.reuters.com/post/3maq2vixpub27)
-
----
-
-@reuters.com
-
-Warburg, India's Bharti Enterprises to buy 49% of appliance maker Haier India reut.rs/4pTZa7V
-
-[2025-12-24 19:35:09](https://bsky.app/profile/reuters.com/post/3maq2viyjnc23)
-
----
-
-@japan.reuters.com
-
-中国政府は２４日、外国からの投資を奨励する産業リストを改定し、対象となるセクターを拡大した。税制優遇や用地価格の優遇などを通じ、長期化する外資流入の減少に歯止めをかける狙いがある。 bit.ly/4jakOCh
-
-[2025-12-24 19:32:37](https://bsky.app/profile/japan.reuters.com/post/3maq2qxtowv2c)
+[2025-12-24 20:08:51](https://bsky.app/profile/sokuho.news/post/3maq4rqodtm26)
 
 ---
 
 @wsj.com
 
-Ranchers are battling over laws that critics say do nothing but prop up an enforcement agency that takes its job way too seriously. on.wsj.com/49he40W
+Bitcoin mining companies are flying as they pivot to AI data centers, leveraging existing infrastructure to meet the high demand for AI computing.
 
-[2025-12-24 19:30:46](https://bsky.app/profile/wsj.com/post/3maq2no6e572h)
+[2025-12-24 20:06:00](https://bsky.app/profile/wsj.com/post/3maq4mokbii23)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】中国地方整備局などが中国地方に「大雪に関するお知らせ」発表 関西ー九州は山陽側の広域う回を
+(2025-12-24 19:59) #ニュース
+
+❄️降雪量
+🔗https://www.jma.go.jp/bosai/snow/#zoom:5/lat:36.956909/lon:136.526600/colordepth:normal/elements:snowf24h
+
+[2025-12-24 20:05:36](https://bsky.app/profile/sokuho.news/post/3maq4lxdl7q25)
+
+---
+
+@japan.reuters.com
+
+ＳＢＩホールディングスと福岡県の筑邦銀行は２４日、資本業務提携の解消で合意したと発表した。ＳＢＩは今年３月末時点で筑邦銀行株を約３％保有していた。両社は２０２０年１月に資本業務提携を締結した。 bit.ly/48R5Nlg
+
+[2025-12-24 20:05:11](https://bsky.app/profile/japan.reuters.com/post/3maq4l7co7s2n)
+
+---
+
+@reuters.com
+
+Zelenskiy seeks meeting with Trump to hammer out issue of territory reut.rs/4srWLTA
+
+[2025-12-24 20:05:10](https://bsky.app/profile/reuters.com/post/3maq4l6edzo2k)
+
+---
+
+@financialtimes.com
+
+Good morning, New York. While you were sleeping, this was the most-read story ft.trib.al/6Rr3OBZ
+
+[2025-12-24 20:01:24](https://bsky.app/profile/financialtimes.com/post/3maq4eg2szy2p)
+
+---
+
+@reuters.com
+
+EU says it strongly condemns U.S. visa ban on European individuals reut.rs/3YNpK6o
+
+[2025-12-24 20:00:51](https://bsky.app/profile/reuters.com/post/3maq4dgwh4g2c)
+
+---
+
+@japan.reuters.com
+
+ロシアは今後１０年以内に、月面に原子力発電所を建設する計画だ。ロシアの月面計画やロシア・中国共同の研究拠点に電力を供給する。 bit.ly/3La6DjP
+
+[2025-12-24 20:00:33](https://bsky.app/profile/japan.reuters.com/post/3maq4cvpnvg2c)
+
+---
+
+@bloomberg.com
+
+The frequency of so-called hybrid attacks is increasing in Europe and Russia is seen as the prime suspect. Here’s what to know (from November)
+
+[2025-12-24 20:00:28](https://bsky.app/profile/bloomberg.com/post/3maq4crf7ky24)
+
+---
+
+@cnbc.com
+
+Nabeel Khan was methodical in building his career at Amazon, rising the ranks quickly from operations manager to project manager to product manager.
+
+Here’s how he built his career at the tech giant and made the transition to entrepreneurship, and a look at his life in Brooklyn, New York.
+
+[2025-12-24 20:00:23](https://bsky.app/profile/cnbc.com/post/3maq4cmfdnx2e)
 
 ---
 
