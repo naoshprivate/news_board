@@ -1,9 +1,9 @@
-# [2025-12-24 10:10 updated](2025_12_24.md)
+# [2025-12-24 10:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">カナダ統計局が２３日発表した１０月の国内総生産（ＧＤＰ）は前月比０．３％減少し、約３年ぶりの大幅な落ち込みとなった。ただ、１１月は０．１％増に反転するとみられている。 bit.ly/4qoHSiL <a href="https://bsky.app/profile/japan.reuters.com/post/3map37ss6mp2q" target="_blank">japan.reuters.com</a> (2025-12-24 10:08:16)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】国内の金小売価格 1グラムあたり初の2万5000円超え 前日より154円↑ (2025-12-24 10:00:04) #ニュース https://news.tv-asahi.co.jp/news_economy/articles/000474954.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3map37sgcyy2b" target="_blank">sokuho.news</a> (2025-12-24 10:08:15)</span><span style="padding-right:50px;">The artist's latest mural depicts the shadows of two people wearing hats and boots on the ground, with one finger pointing up. <a href="https://bsky.app/profile/usatoday.com/post/3map35vsqot2f" target="_blank">usatoday.com</a> (2025-12-24 10:07:12)</span><span style="padding-right:50px;">日銀が１０月２９―３０日に開いた金融政策決定会合では、近い将来の利上げを意識した発言が相次ぐ中、何人かの委員が企業の賃金・価格設定行動が積極化しているもとで「為替円安の進行が、輸入物価の上昇などを通じて物価の上振れにつながりやすい状況にある」と述べていたことが分かった。日銀が２４日、決定会合の議事要旨を公表した。 bit.ly/4pQaUrH <a href="https://bsky.app/profile/japan.reuters.com/post/3map35ufsac2p" target="_blank">japan.reuters.com</a> (2025-12-24 10:07:10)</span><span style="padding-right:50px;">Remembering Warren Buffett's best advice as he prepares to end his time running Berkshire Hathaway.  <a href="https://bsky.app/profile/yahoofinance.com/post/3map33wegtv2u" target="_blank">yahoofinance.com</a> (2025-12-24 10:06:05)</span>
+<span style="padding-right:50px;">The Justice Department has released a new batch of documents related to convicted sex offender Jeffrey Epstein – documents that include many more mentions of President Donald Trump than last week’s dump. | Analysis https://cnn.it/4b4jkas <a href="https://bsky.app/profile/cnn.com/post/3map4ezhwf223" target="_blank">cnn.com</a> (2025-12-24 10:29:04)</span><span style="padding-right:50px;">「ジャンボ」尾崎将司さん死去、78歳　男子ゴルフ歴代最多94勝 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3map4bypywe2m" target="_blank">nikkei.com</a> (2025-12-24 10:27:23)</span><span style="padding-right:50px;">「ジャンボ」尾崎将司さん死去、78歳　男子ゴルフ歴代最多94勝 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3map4aaqxh42m" target="_blank">nikkei.com</a> (2025-12-24 10:26:24)</span><span style="padding-right:50px;">ロシア国営天然ガス大手のガスプロムは、２０２６年の中核利益について、前年比約７％増の３兆ルーブル（３８０億米ドル）に達すると発表した。同年に予定する１兆１０００億ルーブル規模のエネルギー投資計画も承認した。 bit.ly/49mT5e9 <a href="https://bsky.app/profile/japan.reuters.com/post/3map47sldnk25" target="_blank">japan.reuters.com</a> (2025-12-24 10:26:09)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】プロゴルファーの尾崎将司さんがS状結腸がんのため死去 78歳 (2025年12月24日 10:23) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3map433hahf2b" target="_blank">sokuho.news</a> (2025-12-24 10:23:31)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50591.14 (🔺115.66 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3399.00 (🔻19.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 156.02 (🔻0.16 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50600.66 (🔺125.18 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3395.00 (🔻23.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.79 (🔻0.38 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,97 +32,102 @@
 
 ## News Headlines
 
-- Canada's GDP fell 0.3% in October, its first significant drop in three years
-- Japanese gold price hits record high of ¥25,000 per gram
-- Several BOJ officials warn of increased risk of inflation
-- US dollar falls against yen and euro in thin Christmas Eve trading
-- Billionaire offers one of his 100+ children a share of his fortune in exchange for having a baby
-- France's parliament approves emergency budget for 2026
+- Convicted sex offender Jeffrey Epstein documents reveal more mentions of Donald Trump
+- Russia's Gazprom aims to increase core profit by 7% to 3 trillion rubles in 2026
+- Australian state of New South Wales passes strict gun laws after mass shooting
+- Pope Francis expresses sadness over Russia's refusal to accept Christmas ceasefire
+- Israel's government decides to close popular military radio station next year
+- Japan's economy minister, US officials meet to discuss $5.5 billion loan to US
 
 
 ----
 
+@cnn.com
+
+The Justice Department has released a new batch of documents related to convicted sex offender Jeffrey Epstein – documents that include many more mentions of President Donald Trump than last week’s dump. | Analysis https://cnn.it/4b4jkas
+
+[2025-12-24 10:29:04](https://bsky.app/profile/cnn.com/post/3map4ezhwf223)
+
+---
+
+@nikkei.com
+
+「ジャンボ」尾崎将司さん死去、78歳　男子ゴルフ歴代最多94勝
+www.nikkei.com/article/DGXZQO...
+
+[2025-12-24 10:27:23](https://bsky.app/profile/nikkei.com/post/3map4bypywe2m)
+
+---
+
+@nikkei.com
+
+「ジャンボ」尾崎将司さん死去、78歳　男子ゴルフ歴代最多94勝
+www.nikkei.com/article/DGXZQO...
+
+[2025-12-24 10:26:24](https://bsky.app/profile/nikkei.com/post/3map4aaqxh42m)
+
+---
+
 @japan.reuters.com
 
-カナダ統計局が２３日発表した１０月の国内総生産（ＧＤＰ）は前月比０．３％減少し、約３年ぶりの大幅な落ち込みとなった。ただ、１１月は０．１％増に反転するとみられている。 bit.ly/4qoHSiL
+ロシア国営天然ガス大手のガスプロムは、２０２６年の中核利益について、前年比約７％増の３兆ルーブル（３８０億米ドル）に達すると発表した。同年に予定する１兆１０００億ルーブル規模のエネルギー投資計画も承認した。 bit.ly/49mT5e9
 
-[2025-12-24 10:08:16](https://bsky.app/profile/japan.reuters.com/post/3map37ss6mp2q)
+[2025-12-24 10:26:09](https://bsky.app/profile/japan.reuters.com/post/3map47sldnk25)
 
 ---
 
 @sokuho.news
 
-🛎️ANNより【速報】です。
+🔔ANNより【速報】です。
 
-【速報】国内の金小売価格 1グラムあたり初の2万5000円超え 前日より154円↑
-(2025-12-24 10:00:04) #ニュース
-https://news.tv-asahi.co.jp/news_economy/articles/000474954.html?display=full
+【速報】プロゴルファーの尾崎将司さんがS状結腸がんのため死去 78歳
+(2025年12月24日 10:23) #ニュース
 
-[2025-12-24 10:08:15](https://bsky.app/profile/sokuho.news/post/3map37sgcyy2b)
-
----
-
-@usatoday.com
-
-The artist's latest mural depicts the shadows of two people wearing hats and boots on the ground, with one finger pointing up.
-
-[2025-12-24 10:07:12](https://bsky.app/profile/usatoday.com/post/3map35vsqot2f)
-
----
-
-@japan.reuters.com
-
-日銀が１０月２９―３０日に開いた金融政策決定会合では、近い将来の利上げを意識した発言が相次ぐ中、何人かの委員が企業の賃金・価格設定行動が積極化しているもとで「為替円安の進行が、輸入物価の上昇などを通じて物価の上振れにつながりやすい状況にある」と述べていたことが分かった。日銀が２４日、決定会合の議事要旨を公表した。 bit.ly/4pQaUrH
-
-[2025-12-24 10:07:10](https://bsky.app/profile/japan.reuters.com/post/3map35ufsac2p)
-
----
-
-@yahoofinance.com
-
-Remembering Warren Buffett's best advice as he prepares to end his time running Berkshire Hathaway. 
-
-[2025-12-24 10:06:05](https://bsky.app/profile/yahoofinance.com/post/3map33wegtv2u)
-
----
-
-@japan.reuters.com
-
-ニューヨーク外為市場ではクリスマスを控えた薄商いの中、ドルが円やユーロなどの主要通貨に対し下落した。第３・四半期の米経済成長率が予想を上回ったものの、連邦準備理事会（ＦＲＢ）に対する利下げ圧力が意識されていることがドル相場の重しになっている。 bit.ly/492aBo5
-
-[2025-12-24 10:05:09](https://bsky.app/profile/japan.reuters.com/post/3map32b5qog2v)
+[2025-12-24 10:23:31](https://bsky.app/profile/sokuho.news/post/3map433hahf2b)
 
 ---
 
 @wsj.com
 
-An odd offer from a reclusive billionaire: Have one of my babies and every one of them will get a share of my fortune. He has 100 kids and counting. on.wsj.com/45pilxT
+European security officials now regularly broadcast a message nearly unimaginable a decade ago: get ready for conflict with Russia on.wsj.com/4arAA9t
 
-[2025-12-24 10:03:52](https://bsky.app/profile/wsj.com/post/3map2xxzkfe2g)
-
----
-
-@cnbc.com
-
-Asia’s year in review: Who had it best — and who had it worst — in 2025
-
-[2025-12-24 10:02:46](https://bsky.app/profile/cnbc.com/post/3map2vyqggg2b)
+[2025-12-24 10:22:56](https://bsky.app/profile/wsj.com/post/3map4227swk2h)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-US health agency unveils weight-loss drug coverage model reut.rs/4s9LZkA
+プロゴルフ尾崎将司さん死去 78歳 男子国内ツアー最多通算94勝
+https://news.web.nhk/newsweb/na/na-k10015012191000
 
-[2025-12-24 10:01:07](https://bsky.app/profile/reuters.com/post/3map2t2i77k2p)
+[2025-12-24 10:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3map3wq5vf42m)
 
 ---
 
-@apnews.com
+@sokuho.news
 
-Imposed centuries ago by Spanish colonizers, the pollera skirt has long since been restyled with local, richly patterned fabrics and reclaimed as a source of pride and badge of identity for Indigenous women in Bolivia.
+🛎️FNNより【速報】です。
 
-[2025-12-24 10:00:51](https://bsky.app/profile/apnews.com/post/3map2skutty2x)
+【速報】咲洲トンネルでバイクとトラックの接触事故 バイク運転10代男性が死亡 大阪・住之江区
+(2025-12-24 10:12) #ニュース
+
+[2025-12-24 10:20:49](https://bsky.app/profile/sokuho.news/post/3map3wb3ajx2a)
+
+---
+
+@japan.reuters.com
+
+オーストラリアで最も人口の多いニューサウスウェールズ州で２４日、銃器所持を大幅に制限し、指定テロ組織のシンボルを公に掲げることを禁止する銃器・反テロ法が可決された。１５人が死亡したボンダイビーチでの銃乱射事件を受けたもの。 bit.ly/48Sc6VH
+
+[2025-12-24 10:20:37](https://bsky.app/profile/japan.reuters.com/post/3map3vwakxi27)
+
+---
+
+@japan.reuters.com
+
+ローマ教皇レオは２３日、ロシアが対ウクライナ戦争でクリスマスの停戦要請を拒否したことに「大きな悲しみ」を感じていると記者団に語った。 bit.ly/3KMuE0t
+
+[2025-12-24 10:20:18](https://bsky.app/profile/japan.reuters.com/post/3map3vdqpeg2q)
 
 ---
 
