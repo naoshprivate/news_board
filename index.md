@@ -1,9 +1,9 @@
-# [2025-12-24 20:30 updated](2025_12_24.md)
+# [2025-12-24 20:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">CBS News caused a controversy after it pulled a report about Venezuelan men who were deported by the Trump administration to a brutal prison in El Salvador. But the segment, as originally edited by “60 Minutes” staff members, soon surfaced online in full. <a href="https://bsky.app/profile/nytimes.com/post/3maq5ql5zvs27" target="_blank">nytimes.com</a> (2025-12-24 20:26:05)</span><span style="padding-right:50px;">South African rand climbs on precious metal market frenzy reut.rs/3MWqH9V <a href="https://bsky.app/profile/reuters.com/post/3maq5p6yssz2y" target="_blank">reuters.com</a> (2025-12-24 20:25:19)</span><span style="padding-right:50px;">財務省は、市中向けに新規発行する超長期国債の２０２６年度発行額を１７兆円程度と、当初比７兆円程度減らす方向で調整に入った。投資家の需要減衰を踏まえ、１７年ぶりの低水準とする。長期金利の指標となる１０年債の増額も見送り、市中利回りの急騰に対処する。複数の関係筋が明らかにした。 bit.ly/3MJBCUz <a href="https://bsky.app/profile/japan.reuters.com/post/3maq5oxp5t22c" target="_blank">japan.reuters.com</a> (2025-12-24 20:25:11)</span><span style="padding-right:50px;">⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Thomas Frank will give his Tottenham squad Christmas Day off but only because it fits in with their schedule ahead of Sunday's match away to London rivals Crystal Palace, the Danish manager said ➡️ u.afp.com/S8Qg <a href="https://bsky.app/profile/en.afp.com/post/3maq5onuuvg2f" target="_blank">en.afp.com</a> (2025-12-24 20:25:01)</span><span style="padding-right:50px;">AN NPR survey finds that people with disability still find hotels unaccommodating, even 35 years after passage of the Americans with Disabilities Act. n.pr/48VPxj2 <a href="https://bsky.app/profile/npr.org/post/3maq5nthbp32p" target="_blank">npr.org</a> (2025-12-24 20:24:33)</span>
+<span style="padding-right:50px;">🇹🇷 🇱🇾 Turkish authorities said on Wednesday they had found the cockpit voice recorder and black box from a private jet that crashed killing the head of Libya's armed forces and his four aides ➡️ u.afp.com/S8QQ <a href="https://bsky.app/profile/en.afp.com/post/3maq6x5xkik2v" target="_blank">en.afp.com</a> (2025-12-24 20:47:40)</span><span style="padding-right:50px;">中国の首都・北京市は２４日、住宅購入規制をさらに緩和した。購入資格の条件を引き下げる。住宅市場が悪化する中、需要を喚起する。 bit.ly/3MS0zNB <a href="https://bsky.app/profile/japan.reuters.com/post/3maq6srdyo42p" target="_blank">japan.reuters.com</a> (2025-12-24 20:45:13)</span><span style="padding-right:50px;">Chinese capital Beijing further eases home buying curbs reut.rs/49qgBqG <a href="https://bsky.app/profile/reuters.com/post/3maq6sraayn2b" target="_blank">reuters.com</a> (2025-12-24 20:45:12)</span><span style="padding-right:50px;">Trump once again threatened to revoke the broadcast licenses of major networks over what he deemed unfavorable coverage of him and his administration. <a href="https://bsky.app/profile/forbes.com/post/3maq6sjclhb2h" target="_blank">forbes.com</a> (2025-12-24 20:45:04)</span><span style="padding-right:50px;">大阪ブルテオンの選手ら帰国 バレー世界クラブ選手権で準優勝 https://news.web.nhk/newsweb/na/na-k10015013001000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maq6ncxorz2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 20:42:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔻0.28 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔻0.25 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,95 +32,97 @@
 
 ## News Headlines
 
-- CBS News caused controversy over a report on Venezuelan men deported to a brutal prison in El Salvador
-- South African rand surges on precious metal market frenzy
-- Japanese government reduces target for new long-term bonds to be issued in 2026
-- Tottenham manager gives players Christmas Day off
-- People with disabilities still face difficulties in hotels despite 35 years after the Americans with Disabilities Act
-- Japanese advertising agency Dentsu Group sells its headquarters building in Tokyo
+- Turkish authorities find cockpit voice recorder and black box from crashed private jet
+- Beijing further eases home buying curbs in residential market
+- Trump threatens to revoke broadcast licenses of major networks
+- Osaka Blutechon players return home after winning silver medal in volleyball world championship
+- Police urge owners to report toy guns with firing capability
+- Shoe and clothing companies bet on wearable wellness gadgets
 
 
 ----
 
-@nytimes.com
+@en.afp.com
 
-CBS News caused a controversy after it pulled a report about Venezuelan men who were deported by the Trump administration to a brutal prison in El Salvador. But the segment, as originally edited by “60 Minutes” staff members, soon surfaced online in full.
+🇹🇷 🇱🇾 Turkish authorities said on Wednesday they had found the cockpit voice recorder and black box from a private jet that crashed killing the head of Libya's armed forces and his four aides ➡️ u.afp.com/S8QQ
 
-[2025-12-24 20:26:05](https://bsky.app/profile/nytimes.com/post/3maq5ql5zvs27)
-
----
-
-@reuters.com
-
-South African rand climbs on precious metal market frenzy reut.rs/3MWqH9V
-
-[2025-12-24 20:25:19](https://bsky.app/profile/reuters.com/post/3maq5p6yssz2y)
+[2025-12-24 20:47:40](https://bsky.app/profile/en.afp.com/post/3maq6x5xkik2v)
 
 ---
 
 @japan.reuters.com
 
-財務省は、市中向けに新規発行する超長期国債の２０２６年度発行額を１７兆円程度と、当初比７兆円程度減らす方向で調整に入った。投資家の需要減衰を踏まえ、１７年ぶりの低水準とする。長期金利の指標となる１０年債の増額も見送り、市中利回りの急騰に対処する。複数の関係筋が明らかにした。 bit.ly/3MJBCUz
+中国の首都・北京市は２４日、住宅購入規制をさらに緩和した。購入資格の条件を引き下げる。住宅市場が悪化する中、需要を喚起する。 bit.ly/3MS0zNB
 
-[2025-12-24 20:25:11](https://bsky.app/profile/japan.reuters.com/post/3maq5oxp5t22c)
-
----
-
-@en.afp.com
-
-⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Thomas Frank will give his Tottenham squad Christmas Day off but only because it fits in with their schedule ahead of Sunday's match away to London rivals Crystal Palace, the Danish manager said ➡️ u.afp.com/S8Qg
-
-[2025-12-24 20:25:01](https://bsky.app/profile/en.afp.com/post/3maq5onuuvg2f)
+[2025-12-24 20:45:13](https://bsky.app/profile/japan.reuters.com/post/3maq6srdyo42p)
 
 ---
 
-@npr.org
+@reuters.com
 
-AN NPR survey finds that people with disability still find hotels unaccommodating, even 35 years after passage of the Americans with Disabilities Act. n.pr/48VPxj2
+Chinese capital Beijing further eases home buying curbs reut.rs/49qgBqG
 
-[2025-12-24 20:24:33](https://bsky.app/profile/npr.org/post/3maq5nthbp32p)
+[2025-12-24 20:45:12](https://bsky.app/profile/reuters.com/post/3maq6sraayn2b)
+
+---
+
+@forbes.com
+
+Trump once again threatened to revoke the broadcast licenses of major networks over what he deemed unfavorable coverage of him and his administration.
+
+[2025-12-24 20:45:04](https://bsky.app/profile/forbes.com/post/3maq6sjclhb2h)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+大阪ブルテオンの選手ら帰国 バレー世界クラブ選手権で準優勝
+https://news.web.nhk/newsweb/na/na-k10015013001000
+
+[2025-12-24 20:42:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maq6ncxorz2m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+実弾発射機能“おもちゃの拳銃”回収期限迫り警察「届け出を」
+https://news.web.nhk/newsweb/na/na-k10015012751000
+
+[2025-12-24 20:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maq6n5qm2h2b)
 
 ---
 
 @wsj.com
 
-Capital Account: President Trump’s latest social-media post shows worries about Kevin Hassett miss the point. Trump’s conditions compromise all the candidates.
+Wearable wellness gadgets have gone mainstream. Some companies are betting that the next frontier is shoes and clothing that offer potential benefits, including lymphatic drainage, increased focus and healthier skin.
 
-[2025-12-24 20:21:57](https://bsky.app/profile/wsj.com/post/3maq5j6f3nx2o)
+🔗: on.wsj.com/3YICVWi
 
----
-
-@japan.reuters.com
-
-電通グループは２４日、電通銀座ビルを売却すると発表した。譲渡日は来年１月３０日で、譲渡益は約３００億円となる見込み。譲渡先は守秘義務契約を理由に非公表とした。 bit.ly/4sbvh4j
-
-[2025-12-24 20:20:15](https://bsky.app/profile/japan.reuters.com/post/3maq5g565mj2c)
-
----
-
-@bloomberg.com
-
-Belgium's Trappist monks are grappling with online retailers selling $300 six-packs of their beer — forcing monasteries to rethink how they do business. Read more: bloom.bg/4scpUBM
-
-📷: Kenzo Tribouillard/AFP/Getty Images
-
-[2025-12-24 20:16:05](https://bsky.app/profile/bloomberg.com/post/3maq56oydsk23)
+[2025-12-24 20:40:32](https://bsky.app/profile/wsj.com/post/3maq6kfjy2d2c)
 
 ---
 
 @japan.reuters.com
 
-英石油大手ＢＰは２４日、潤滑油部門カストロールの株式６５％を約６０億ドルで投資会社ストーンピークに売却することで合意したと発表した。同部門を１０１億ドルと評価した取引となる。 bit.ly/3YbnpSD
+東京株式市場で日経平均は４日ぶりに反落し、前営業日比６８円７７銭安の５万０３４４円１０銭で取引を終えた。米国市場でのハイテク株高を好感して小高く始まったが、クリスマス休暇で参加者が少なくなる中、商いは薄く方向感を欠く値動きとなった。 bit.ly/3YaPk5b
 
-[2025-12-24 20:15:16](https://bsky.app/profile/japan.reuters.com/post/3maq55a2iqc22)
+[2025-12-24 20:40:19](https://bsky.app/profile/japan.reuters.com/post/3maq6jzm5gv2u)
 
 ---
 
 @reuters.com
 
-As crypto and private credit hit the mainstream, investor risk seen multiplying reut.rs/4pVTavk
+Exclusive: Japan likely to cut super-long debt issuance to 17-year low, sources say reut.rs/4axtQqK
 
-[2025-12-24 20:15:12](https://bsky.app/profile/reuters.com/post/3maq554dnky2y)
+[2025-12-24 20:40:18](https://bsky.app/profile/reuters.com/post/3maq6jycl7z2i)
+
+---
+
+@yahoofinance.com
+
+Consumer spending powers the US economy. A K-shaped economy will further test this dynamic in 2026.
+
+[2025-12-24 20:36:06](https://bsky.app/profile/yahoofinance.com/post/3maq6cia2fy2x)
 
 ---
 
