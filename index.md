@@ -1,9 +1,9 @@
-# [2025-12-24 10:50 updated](2025_12_24.md)
+# [2025-12-24 11:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】女子大生2人焼死事故 トラック運転の男(65)に拘禁刑1年6か月の実刑判決 (2025-12-24 10:02:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3map5gcpp3227" target="_blank">sokuho.news</a> (2025-12-24 10:47:41)</span><span style="padding-right:50px;">＜１０：２３＞　日経平均は上げ幅拡大、200円超高　半導体関連がしっかり bit.ly/4s6Patf <a href="https://bsky.app/profile/japan.reuters.com/post/3map5bkthea27" target="_blank">japan.reuters.com</a> (2025-12-24 10:45:02)</span><span style="padding-right:50px;">BREAKING: A federal judge says the Trump administration can move ahead with a $100,000 fee on new H-1B visa applications, providing a setback for US technology companies that rely on hiring skilled foreign workers <a href="https://bsky.app/profile/bloomberg.com/post/3map5axeksa2f" target="_blank">bloomberg.com</a> (2025-12-24 10:44:41)</span><span style="padding-right:50px;">Some of America’s best starting salaries are at sea, with graduates straight out of the country’s maritime academies able to earn more than $200,000. And they aren’t luring enough workers. on.wsj.com/4as0utL <a href="https://bsky.app/profile/wsj.com/post/3map53kylwy2h" target="_blank">wsj.com</a> (2025-12-24 10:41:40)</span><span style="padding-right:50px;">米国株式市場は続伸。Ｓ＆Ｐ総合５００種は終値で最高値を更新した。国内総生産（ＧＤＰ）統計を受けてグロース（成長）株が買われた。 bit.ly/48Sdd7P <a href="https://bsky.app/profile/japan.reuters.com/post/3map4z5zdcd2s" target="_blank">japan.reuters.com</a> (2025-12-24 10:40:20)</span>
+<span style="padding-right:50px;">【きょうのおはBiz 12月24日(水)】シールブーム なぜ再び？ https://news.web.nhk/newsweb/na/na-k10015012211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3map6mkyutl2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 11:09:03)</span><span style="padding-right:50px;">＜１０：４４＞　ドル155円後半で上値重い、介入警戒と円先安観の板挟み bit.ly/4sjFufh <a href="https://bsky.app/profile/japan.reuters.com/post/3map6asili22p" target="_blank">japan.reuters.com</a> (2025-12-24 11:02:30)</span><span style="padding-right:50px;">The latest on President Trump's $2,000 tariff dividend checks for 2026 <a href="https://bsky.app/profile/usatoday.com/post/3map66pb3nf2f" target="_blank">usatoday.com</a> (2025-12-24 11:01:20)</span><span style="padding-right:50px;">国連安全保障理事会は２３日、ベネズエラ情勢を巡る緊急会合を開催した。米国はマドゥロ大統領から資金源を奪うために「最大限」の制裁を科すと表明。一方、ロシアは他の中南米諸国が米国の次の標的になる可能性があると警告した。 bit.ly/4jmE0wz <a href="https://bsky.app/profile/japan.reuters.com/post/3map66bq7if25" target="_blank">japan.reuters.com</a> (2025-12-24 11:01:05)</span><span style="padding-right:50px;">生成AIの権利侵害「現在も止まらず」　著作権法は守ってくれるか？ www.nikkei.com/article/DGXZQO...   日本では2018年、AIの学習などのために、一定の条件のもとで権利者の事前許諾がなくても著作物データを利用できる条項が設けられました（30条の4第2号）。   著作物の表現内容を人が鑑賞して楽しむ以外の目的（非享受目的）で使うことが条件です。   ただ、OpenAIが発表した動画生成「Sora2」などが示すように、AI技術の進化は著作権法30条の4を整備した想定を超えています。権利者を守る新たな仕組みづくりを求める声が出始めています。 <a href="https://bsky.app/profile/nikkei.com/post/3map65w6ml32y" target="_blank">nikkei.com</a> (2025-12-24 11:00:53)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50594.30 (🔺118.82 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3385.00 (🔻33.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔻0.49 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50544.58 (🔺69.10 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔻38.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔻0.58 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,96 +32,108 @@
 
 ## News Headlines
 
-- Japanese Golfer Jumbo Ozaki Dies at 78, Holding a Record 94 Wins
-- Japanese Golfer Jumbo Ozaki, 78, Dies Holding Record 94 Wins
-- Trump Administration Wins Fight for $100,000 H-1B Visa Fee
-- Australia Passes Bill to Tighten Gun Laws, Ban Display of Terrorist Symbols
-- Pope Francis Expresses Sadness Over Russia's Rejection of Christmas Ceasefire
-- US Denies Visas to Ex-EU Commissioner and Activists Over Social Media Rules
+- Why Japan is seeing a seal boom again
+- Dollar stays above 155 yen, with investors wary of intervention and a stronger yen
+- UN Security Council holds emergency meeting on Venezuela crisis
+- AI rights infringement continues, with copyright law in question
+- Small airports tout cheap parking and minimal TSA waits
+- Loaded supertanker returns to Venezuelan waters amid US interceptions
 
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️JNNより【速報】です。
+【きょうのおはBiz 12月24日(水)】シールブーム なぜ再び？
+https://news.web.nhk/newsweb/na/na-k10015012211000
 
-【速報】女子大生2人焼死事故 トラック運転の男(65)に拘禁刑1年6か月の実刑判決
-(2025-12-24 10:02:00) #ニュース
-
-[2025-12-24 10:47:41](https://bsky.app/profile/sokuho.news/post/3map5gcpp3227)
+[2025-12-24 11:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3map6mkyutl2b)
 
 ---
 
 @japan.reuters.com
 
-＜１０：２３＞　日経平均は上げ幅拡大、200円超高　半導体関連がしっかり bit.ly/4s6Patf
+＜１０：４４＞　ドル155円後半で上値重い、介入警戒と円先安観の板挟み bit.ly/4sjFufh
 
-[2025-12-24 10:45:02](https://bsky.app/profile/japan.reuters.com/post/3map5bkthea27)
+[2025-12-24 11:02:30](https://bsky.app/profile/japan.reuters.com/post/3map6asili22p)
 
 ---
 
-@bloomberg.com
+@usatoday.com
 
-<strong><span style="color: red;">BREAKING:</span> A federal judge says the Trump administration can move ahead with a $100,000 fee on new H-1B visa applications, providing a setback for US technology companies that rely on hiring skilled foreign workers</strong>
+The latest on President Trump's $2,000 tariff dividend checks for 2026
 
-[2025-12-24 10:44:41](https://bsky.app/profile/bloomberg.com/post/3map5axeksa2f)
+[2025-12-24 11:01:20](https://bsky.app/profile/usatoday.com/post/3map66pb3nf2f)
+
+---
+
+@japan.reuters.com
+
+国連安全保障理事会は２３日、ベネズエラ情勢を巡る緊急会合を開催した。米国はマドゥロ大統領から資金源を奪うために「最大限」の制裁を科すと表明。一方、ロシアは他の中南米諸国が米国の次の標的になる可能性があると警告した。 bit.ly/4jmE0wz
+
+[2025-12-24 11:01:05](https://bsky.app/profile/japan.reuters.com/post/3map66bq7if25)
+
+---
+
+@nikkei.com
+
+生成AIの権利侵害「現在も止まらず」　著作権法は守ってくれるか？
+www.nikkei.com/article/DGXZQO...
+ 
+日本では2018年、AIの学習などのために、一定の条件のもとで権利者の事前許諾がなくても著作物データを利用できる条項が設けられました（30条の4第2号）。
+ 
+著作物の表現内容を人が鑑賞して楽しむ以外の目的（非享受目的）で使うことが条件です。
+ 
+ただ、OpenAIが発表した動画生成「Sora2」などが示すように、AI技術の進化は著作権法30条の4を整備した想定を超えています。権利者を守る新たな仕組みづくりを求める声が出始めています。
+
+[2025-12-24 11:00:53](https://bsky.app/profile/nikkei.com/post/3map65w6ml32y)
 
 ---
 
 @wsj.com
 
-Some of America’s best starting salaries are at sea, with graduates straight out of the country’s maritime academies able to earn more than $200,000. And they aren’t luring enough workers. on.wsj.com/4as0utL
+Small-airport devotees brag about cheap parking, minimal TSA waits and friendly employees. on.wsj.com/3Yb46J9
 
-[2025-12-24 10:41:40](https://bsky.app/profile/wsj.com/post/3map53kylwy2h)
-
----
-
-@japan.reuters.com
-
-米国株式市場は続伸。Ｓ＆Ｐ総合５００種は終値で最高値を更新した。国内総生産（ＧＤＰ）統計を受けてグロース（成長）株が買われた。 bit.ly/48Sdd7P
-
-[2025-12-24 10:40:20](https://bsky.app/profile/japan.reuters.com/post/3map4z5zdcd2s)
+[2025-12-24 11:00:36](https://bsky.app/profile/wsj.com/post/3map65g57uq2u)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-Exclusive: U.S. eyes additional Coast Guard assets to seize fleeing tanker, sources say reut.rs/44Em2jc
+🛎️週刊女性より【独自】です。
 
-[2025-12-24 10:40:14](https://bsky.app/profile/reuters.com/post/3map4yybnaq2i)
+【独自】中山美穂さんの“育ての親”山中則男氏が明かす〈天国からの言葉〉一周忌にファンが語る〈ありし日…
+(2025-12-24) #ニュース
 
----
-
-@japan.reuters.com
-
-メキシコ国立統計地理情報院（ＩＮＥＧＩ）が２３日発表した１２月前半の消費者物価指数（ＣＰＩ）は前年同期比３．７２％上昇に鈍化した。 bit.ly/45jfLcH
-
-[2025-12-24 10:38:29](https://bsky.app/profile/japan.reuters.com/post/3map4vubag52u)
-
----
-
-@japan.reuters.com
-
-オセアニア外国為替市場では豪ドルとニュージーランド（ＮＺ）ドルが上昇。国内での金利据え置き・利上げ観測が広がる中、特に円キャリー需要が高まったことで、数カ月ぶり高値圏で推移した。 bit.ly/3YdnAwP
-
-[2025-12-24 10:32:54](https://bsky.app/profile/japan.reuters.com/post/3map4lulsjh2f)
-
----
-
-@japan.reuters.com
-
-著作物を無許諾で人工知能（ＡＩ）の訓練に利用されたとして、米紙ニューヨーク・タイムズの調査報道記者ジョン・キャリールー氏と他の作家５人が２２日、複数のＡＩ開発企業をカリフォルニア州の連邦裁判所に提訴した。 bit.ly/3MZzGXT
-
-[2025-12-24 10:30:40](https://bsky.app/profile/japan.reuters.com/post/3map4huymua27)
+[2025-12-24 11:00:30](https://bsky.app/profile/sokuho.news/post/3map65ab3px2b)
 
 ---
 
 @reuters.com
 
-Australia's Monash IVF slides as consortium withdraws $209 million buyout bid reut.rs/3MXvF6k
+Loaded supertanker returns to Venezuelan waters amid US interceptions, TankerTrackers.com says reut.rs/49qfirH
 
-[2025-12-24 10:30:31](https://bsky.app/profile/reuters.com/post/3map4hmco452x)
+[2025-12-24 11:00:24](https://bsky.app/profile/reuters.com/post/3map652oq3f2b)
+
+---
+
+@cnbc.com
+
+Kaila Curry expected to work with teenagers when she began scooping ice cream for 16.50/hr. 
+
+But "I found myself surrounded by people who, like me, had already built careers and are now navigating an unpredictable job market."
+
+[2025-12-24 11:00:16](https://bsky.app/profile/cnbc.com/post/3map64sgg3s2b)
+
+---
+
+@washingtonpost.com
+
+As the year-end approaches, it might be a good time to audit all of your expensive and unnecessary subscriptions.
+
+Take time this holiday season to make sure you aren’t overpaying for important services. Here’s where you can start: 
+
+[2025-12-24 11:00:10](https://bsky.app/profile/washingtonpost.com/post/3map64n7ceb2y)
 
 ---
 
