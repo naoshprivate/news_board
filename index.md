@@ -1,9 +1,9 @@
-# [2025-12-25 04:30 updated](2025_12_25.md)
+# [2025-12-25 04:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The release of the government’s Jeffrey Epstein files was supposed to deliver a full accounting of an era-defining scandal.  Instead, the ham-fisted publication process is sowing further doubts among the public. <a href="https://bsky.app/profile/wsj.com/post/3maqyqeyzsp2k" target="_blank">wsj.com</a> (2025-12-25 04:29:10)</span><span style="padding-right:50px;">The Justice Department says it has found more than 1 million additional documents potentially related to the Jeffrey Epstein case. https://cnn.it/4jaCaPb <a href="https://bsky.app/profile/cnn.com/post/3maqyp5nwuk2v" target="_blank">cnn.com</a> (2025-12-25 04:28:29)</span><span style="padding-right:50px;">US authorities discover a million more Epstein documents, officials say <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maqyoi2uyz26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-25 04:28:05)</span><span style="padding-right:50px;">Suspension could cost Steelers' DK Metcalf more than $45M reut.rs/4qi5eXw <a href="https://bsky.app/profile/reuters.com/post/3maqyj5xkqy2k" target="_blank">reuters.com</a> (2025-12-25 04:25:08)</span><span style="padding-right:50px;">中国人民銀行（中央銀行）は２４日、市場の期待を安定させ、為替レートを「基本的に合理的かつバランスのとれた水準で安定を維持する」と表明した。この日開催した金融政策委員会の資料で分かった。 bit.ly/49b5XTs <a href="https://bsky.app/profile/japan.reuters.com/post/3maqyapr2hm27" target="_blank">japan.reuters.com</a> (2025-12-25 04:20:24)</span>
+<span style="padding-right:50px;">The New York Times is joining nearly 40 scientists on an expedition to Antarctica’s fastest-melting glaciers. Our reporter shared a look inside his survival training before the trip.  Learn more and send our Climate team your questions: nytimes.com/antarctica?smtyp=cur&smid=bsky-nytimes <a href="https://bsky.app/profile/nytimes.com/post/3maqzsw2jbs2i" target="_blank">nytimes.com</a> (2025-12-25 04:48:29)</span><span style="padding-right:50px;">With Christmas approaching, celebrations in Haifa were met with chaos after Israeli police stormed the Wadi al-Nisnas neighbourhood, arresting and beating Christians in the area. <a href="https://bsky.app/profile/aljazeera.com/post/3maqzraof4s2s" target="_blank">aljazeera.com</a> (2025-12-25 04:47:33)</span><span style="padding-right:50px;">欧州株式市場はほぼ横ばいで取引を終えた。ＳＴＯＸＸ欧州６００種指数は２３日に終値としての最高値を更新し、週間ベースでは０．２０％上昇した。金融緩和やドイツの財政支出拡大、米ハイテク株からの投資分散を背景に、年初来の上昇率は２０２１年以来の大きさとなっている。 bit.ly/48Zi9X6 <a href="https://bsky.app/profile/japan.reuters.com/post/3maqzn4kjjv2q" target="_blank">japan.reuters.com</a> (2025-12-25 04:45:14)</span><span style="padding-right:50px;">Ben Simmons buys ownership stake in pro fishing team reut.rs/3N2NJvT <a href="https://bsky.app/profile/reuters.com/post/3maqzn3taqd2o" target="_blank">reuters.com</a> (2025-12-25 04:45:13)</span><span style="padding-right:50px;">The Supreme Court’s refusal to let the Trump administration deploy National Guard troops in the Chicago area was in large part the result of a friend-of-the-court brief written over a weekend and submitted by a Georgetown law professor.  Here's who he is, and why the brief proved so important. <a href="https://bsky.app/profile/nytimes.com/post/3maqzmsh3rz27" target="_blank">nytimes.com</a> (2025-12-25 04:45:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔻0.24 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.87 (🔻0.31 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,63 +32,66 @@
 
 ## News Headlines
 
-- US authorities discover a million more Epstein documents, officials say
-- US authorities discover a million more Epstein documents
-- Justice Department says Epstein document release could take few more weeks
-- Justice Department says Epstein document release could take few more weeks
-- Wall Street is headed into Christmas on a high note
-- Supreme Court's decision blocking President Trump from sending National Guard into cities likely to raise debate
+- New York Times Joins Expedition to Antarctica's Fastest-Melting Glaciers
+- Israeli Police Clash with Christians in Haifa Amid Christmas Celebrations
+- European Stocks End Flat as Trump Administration Sees Strong Growth
+- Ben Simmons Buys Ownership Stake in Professional Fishing Team
+- Supreme Court Blocks Trump Administration's Plan to Deploy National Guard in Chicago
+- US Forces to Focus on 'Quarantine' of Venezuela, White House Orders
 
 
 ----
 
-@wsj.com
+@nytimes.com
 
-The release of the government’s Jeffrey Epstein files was supposed to deliver a full accounting of an era-defining scandal.
+The New York Times is joining nearly 40 scientists on an expedition to Antarctica’s fastest-melting glaciers. Our reporter shared a look inside his survival training before the trip.
 
-Instead, the ham-fisted publication process is sowing further doubts among the public.
+Learn more and send our Climate team your questions: nytimes.com/antarctica?smtyp=cur&smid=bsky-nytimes
 
-[2025-12-25 04:29:10](https://bsky.app/profile/wsj.com/post/3maqyqeyzsp2k)
-
----
-
-@cnn.com
-
-The Justice Department says it has found more than 1 million additional documents potentially related to the Jeffrey Epstein case. https://cnn.it/4jaCaPb
-
-[2025-12-25 04:28:29](https://bsky.app/profile/cnn.com/post/3maqyp5nwuk2v)
+[2025-12-25 04:48:29](https://bsky.app/profile/nytimes.com/post/3maqzsw2jbs2i)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@aljazeera.com
 
-US authorities discover a million more Epstein documents, officials say
+With Christmas approaching, celebrations in Haifa were met with chaos after Israeli police stormed the Wadi al-Nisnas neighbourhood, arresting and beating Christians in the area.
 
-[2025-12-25 04:28:05](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maqyoi2uyz26)
-
----
-
-@reuters.com
-
-Suspension could cost Steelers' DK Metcalf more than $45M reut.rs/4qi5eXw
-
-[2025-12-25 04:25:08](https://bsky.app/profile/reuters.com/post/3maqyj5xkqy2k)
+[2025-12-25 04:47:33](https://bsky.app/profile/aljazeera.com/post/3maqzraof4s2s)
 
 ---
 
 @japan.reuters.com
 
-中国人民銀行（中央銀行）は２４日、市場の期待を安定させ、為替レートを「基本的に合理的かつバランスのとれた水準で安定を維持する」と表明した。この日開催した金融政策委員会の資料で分かった。 bit.ly/49b5XTs
+欧州株式市場はほぼ横ばいで取引を終えた。ＳＴＯＸＸ欧州６００種指数は２３日に終値としての最高値を更新し、週間ベースでは０．２０％上昇した。金融緩和やドイツの財政支出拡大、米ハイテク株からの投資分散を背景に、年初来の上昇率は２０２１年以来の大きさとなっている。 bit.ly/48Zi9X6
 
-[2025-12-25 04:20:24](https://bsky.app/profile/japan.reuters.com/post/3maqyapr2hm27)
+[2025-12-25 04:45:14](https://bsky.app/profile/japan.reuters.com/post/3maqzn4kjjv2q)
 
 ---
 
-@forbes.com
+@reuters.com
 
-The DOJ’s recent publication of Epstein files came under scrutiny for a high number of redactions and a missed Dec. 19 deadline for their full release.
+Ben Simmons buys ownership stake in pro fishing team reut.rs/3N2NJvT
 
-[2025-12-25 04:20:08](https://bsky.app/profile/forbes.com/post/3maqyaaf37e25)
+[2025-12-25 04:45:13](https://bsky.app/profile/reuters.com/post/3maqzn3taqd2o)
+
+---
+
+@nytimes.com
+
+The Supreme Court’s refusal to let the Trump administration deploy National Guard troops in the Chicago area was in large part the result of a friend-of-the-court brief written over a weekend and submitted by a Georgetown law professor.
+
+Here's who he is, and why the brief proved so important.
+
+[2025-12-25 04:45:03](https://bsky.app/profile/nytimes.com/post/3maqzmsh3rz27)
+
+---
+
+@en.afp.com
+
+Chasing visitors around Cambodia's Angkor temple ruins to offer his services, tour guide Bun Ratana says he has had little work since deadly clashes with Thailand broke out, despite it being high season.
+u.afp.com/S8AW
+
+[2025-12-25 04:45:02](https://bsky.app/profile/en.afp.com/post/3maqzmqvkrh26)
 
 ---
 
@@ -96,31 +99,31 @@ The DOJ’s recent publication of Epstein files came under scrutiny for a high n
 
 <strong><span style="color: red;">BREAKING:</span> The DOJ says it may need a "few more weeks" to finish the release of the Epstein files despite the Dec. 19 deadline set by Congress.</strong>
 
-[2025-12-25 04:17:29](https://bsky.app/profile/apnews.com/post/3maqy3is44h24)
+[2025-12-25 04:41:32](https://bsky.app/profile/apnews.com/post/3maqzgidgf22k)
 
 ---
 
 @reuters.com
 
-Serbia's NIS gets US approval to negotiate sale of Russian stake reut.rs/4sdQQRQ
+White House orders U.S. forces focus on 'quarantine' of Venezuela reut.rs/3Ld7Bfj
 
-[2025-12-25 04:15:13](https://bsky.app/profile/reuters.com/post/3maqxxh64fd2s)
+[2025-12-25 04:40:23](https://bsky.app/profile/reuters.com/post/3maqzegxtzo2p)
+
+---
+
+@japan.reuters.com
+
+米労働省が２４日発表した１２月２０日までの１週間の新規失業保険申請件数（季節調整済み）は２１万４０００件と、前週から１万件減少した。ロイターがまとめたエコノミスト予想は２２万４０００件だった。減少したものの、雇用の伸びが鈍い状況が続いているため、失業率は高止まりしている可能性がある。 bit.ly/4pTMsGd
+
+[2025-12-25 04:40:21](https://bsky.app/profile/japan.reuters.com/post/3maqzef4aea2f)
 
 ---
 
 @nytimes.com
 
-Coquito, classic eggnog and holiday punch: we have your Christmas cocktail recipes covered. nyti.ms/4ajOxpU
+Private letters between Harvard University and the Trump administration plunged sensitive talks into deeper turmoil, the latest twist in the marquee battle of the administration’s campaign to rein in colleges and universities it views as too liberal. nyti.ms/4sbXGHz
 
-[2025-12-25 04:14:05](https://bsky.app/profile/nytimes.com/post/3maqxvgchi62b)
-
----
-
-@reuters.com
-
-Justice Department says Epstein document release could take few more weeks reut.rs/4qi4tOa
-
-[2025-12-25 04:10:10](https://bsky.app/profile/reuters.com/post/3maqxofynd42p)
+[2025-12-25 04:40:04](https://bsky.app/profile/nytimes.com/post/3maqzdux7q62x)
 
 ---
 
