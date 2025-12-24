@@ -1,9 +1,9 @@
-# [2025-12-25 06:10 updated](2025_12_25.md)
+# [2025-12-25 06:30 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Goals against Sudan not a response to critics, says Mahrez reut.rs/4jayywC <a href="https://bsky.app/profile/reuters.com/post/3mar644bmjx2i" target="_blank">reuters.com</a> (2025-12-25 06:05:12)</span><span style="padding-right:50px;">Exclusive: Nvidia buying AI chip startup Groq for about $20 billion in its largest acquisition on record <a href="https://bsky.app/profile/cnbc.com/post/3mar5xy2q2m2p" target="_blank">cnbc.com</a> (2025-12-25 06:02:53)</span><span style="padding-right:50px;">米ホワイトハウスは米軍に対し、少なくとも今後２カ月間はベネズエラの石油の「封鎖」に専念するよう命じたことが分かった。米当局者が２４日、ロイターに明らかにした。 bit.ly/45etDoE <a href="https://bsky.app/profile/japan.reuters.com/post/3mar5xuv7vc2q" target="_blank">japan.reuters.com</a> (2025-12-25 06:02:50)</span><span style="padding-right:50px;">Novo Nordisk has received FDA approval to sell an oral version of Wegovy in the US. This could boost its efforts to regain ground in the weight-loss drug market. Here's what to know <a href="https://bsky.app/profile/bloomberg.com/post/3mar5uzorju2d" target="_blank">bloomberg.com</a> (2025-12-25 06:01:14)</span><span style="padding-right:50px;">イスラエルのネタニヤフ首相は２４日、パレスチナ自治区ガザ南部のラファでイスラエル軍の車両が爆発物による攻撃を受けたとして、イスラム組織ハマスが停戦合意に違反したと非難し、報復を表明した。 bit.ly/4p6MKYT <a href="https://bsky.app/profile/japan.reuters.com/post/3mar5uwar3w2v" target="_blank">japan.reuters.com</a> (2025-12-25 06:01:11)</span>
+<span style="padding-right:50px;">Hacked communications and a social media analysis reveal how some of Bashar al-Assad’s top spymasters and generals are plotting to undermine the fledgling government that ousted them — and perhaps take back a piece of the country. trib.al/Kv4IZmT <a href="https://bsky.app/profile/nytimes.com/post/3mar7grzu7g2b" target="_blank">nytimes.com</a> (2025-12-25 06:29:04)</span><span style="padding-right:50px;">Laura Poitras and Mark Obenhaus direct this documentary about the investigative journalist whose work has ranged from the My Lai massacre to abuse at Abu Ghraib. on.wsj.com/4pgh97l <a href="https://bsky.app/profile/wsj.com/post/3mar7eekgfo2r" target="_blank">wsj.com</a> (2025-12-25 06:27:43)</span><span style="padding-right:50px;">英国、カナダ、ドイツなどの国々は２４日、イスラエル安全保障会議が占領下のヨルダン川西岸地域に１９の新たな入植地建設を承認したことを非難する声明を発表した。国際法に違反し、不安定化を助長する恐れがあるとした。 bit.ly/3YbDgAE <a href="https://bsky.app/profile/japan.reuters.com/post/3mar7dcqczc2q" target="_blank">japan.reuters.com</a> (2025-12-25 06:27:07)</span><span style="padding-right:50px;">1994年当時の細川首相 米の外交姿勢への不満 中国首相に伝える https://news.web.nhk/newsweb/na/na-k10015012921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar75ub2ke2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 06:24:02)</span><span style="padding-right:50px;">⚽ 🏆 The decision to change the Africa Cup of Nations from every two years to four has been met with mixed reaction on the continent, with some seeing it as simply caving in to pressure from European clubs and FIFA. u.afp.com/S8Ae <a href="https://bsky.app/profile/en.afp.com/post/3mar726eqzj26" target="_blank">en.afp.com</a> (2025-12-25 06:22:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔻0.24 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔻0.26 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,97 +32,96 @@
 
 ## News Headlines
 
-- Nvidia buys AI chip startup Groq for about $20 billion
-- White House tells US military to focus on Venezuelan oil blockade for at least 2 months
-- Novo Nordisk gets FDA approval for oral version of Wegovy
-- Israel's Netanyahu criticizes Hamas for violating ceasefire, announces retaliation
-- US judge halts enforcement of presidential memo revoking security clearance
-- Russia's Putin extends ExxonMobil's deadline to sell assets in Sakhalin-1 project
+- US Senate Demands Trump Recall Diplomats Amid 'Dangerous Leadership Vacuum'
+- Nvidia to Acquire AI Chip Startup Groq for $20 Billion
+- Russia Extends ExxonMobil's Withdrawal Deadline from Sakhalin-1 Project
+- Ukrainian President Zelenskyy Calls for Meeting with Trump to Discuss Peace Deal
+- Russia's Putin Extends ExxonMobil's Withdrawal Deadline from Sakhalin-1 Project
+- US Judge Halts Enforcement of Trump's Security Clearance Revocation for Whistleblower Attorney
 
 
 ----
 
+@nytimes.com
+
+Hacked communications and a social media analysis reveal how some of Bashar al-Assad’s top spymasters and generals are plotting to undermine the fledgling government that ousted them — and perhaps take back a piece of the country. trib.al/Kv4IZmT
+
+[2025-12-25 06:29:04](https://bsky.app/profile/nytimes.com/post/3mar7grzu7g2b)
+
+---
+
+@wsj.com
+
+Laura Poitras and Mark Obenhaus direct this documentary about the investigative journalist whose work has ranged from the My Lai massacre to abuse at Abu Ghraib. on.wsj.com/4pgh97l
+
+[2025-12-25 06:27:43](https://bsky.app/profile/wsj.com/post/3mar7eekgfo2r)
+
+---
+
+@japan.reuters.com
+
+英国、カナダ、ドイツなどの国々は２４日、イスラエル安全保障会議が占領下のヨルダン川西岸地域に１９の新たな入植地建設を承認したことを非難する声明を発表した。国際法に違反し、不安定化を助長する恐れがあるとした。 bit.ly/3YbDgAE
+
+[2025-12-25 06:27:07](https://bsky.app/profile/japan.reuters.com/post/3mar7dcqczc2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+1994年当時の細川首相 米の外交姿勢への不満 中国首相に伝える
+https://news.web.nhk/newsweb/na/na-k10015012921000
+
+[2025-12-25 06:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar75ub2ke2d)
+
+---
+
+@en.afp.com
+
+⚽ 🏆 The decision to change the Africa Cup of Nations from every two years to four has been met with mixed reaction on the continent, with some seeing it as simply caving in to pressure from European clubs and FIFA.
+u.afp.com/S8Ae
+
+[2025-12-25 06:22:01](https://bsky.app/profile/en.afp.com/post/3mar726eqzj26)
+
+---
+
+@japan.reuters.com
+
+米上院外交委員会の民主党議員１０人は２４日、トランプ大統領に対し、米大使ら約３０人を召還する決定を撤回するよう要請した。危険な指導力の空白を生み出し、ロシアや中国などの敵対国の影響力拡大を許すことになると警告した。 bit.ly/3L7k9F0
+
+[2025-12-25 06:20:22](https://bsky.app/profile/japan.reuters.com/post/3mar6xafqhl2c)
+
+---
+
+@wsj.com
+
+The director’s latest film is a triptych featuring Adam Driver, Cate Blanchett, Tom Waits and others in subdued stories of parents and siblings. on.wsj.com/3Ybh4Xy
+
+[2025-12-25 06:18:44](https://bsky.app/profile/wsj.com/post/3mar6ucz5bx2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+あすにかけ日本海側 山沿い中心に大雪のおそれ 大荒れの天気も
+https://news.web.nhk/newsweb/na/na-k10015013151000
+
+[2025-12-25 06:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar6t4ehaw2b)
+
+---
+
 @reuters.com
 
-Goals against Sudan not a response to critics, says Mahrez reut.rs/4jayywC
+Nvidia to buy AI chip startup Groq for $20 billion, CNBC reports reut.rs/4jmmtVq
 
-[2025-12-25 06:05:12](https://bsky.app/profile/reuters.com/post/3mar644bmjx2i)
-
----
-
-@cnbc.com
-
-Exclusive: Nvidia buying AI chip startup Groq for about $20 billion in its largest acquisition on record
-
-[2025-12-25 06:02:53](https://bsky.app/profile/cnbc.com/post/3mar5xy2q2m2p)
+[2025-12-25 06:15:14](https://bsky.app/profile/reuters.com/post/3mar6o2v4m52p)
 
 ---
 
-@japan.reuters.com
+@wsj.com
 
-米ホワイトハウスは米軍に対し、少なくとも今後２カ月間はベネズエラの石油の「封鎖」に専念するよう命じたことが分かった。米当局者が２４日、ロイターに明らかにした。 bit.ly/45etDoE
+Scientists found that physical intimacy can speed healing, when combined with the "love hormone" oxytocin on.wsj.com/3YES3UG
 
-[2025-12-25 06:02:50](https://bsky.app/profile/japan.reuters.com/post/3mar5xuv7vc2q)
-
----
-
-@bloomberg.com
-
-Novo Nordisk has received FDA approval to sell an oral version of Wegovy in the US. This could boost its efforts to regain ground in the weight-loss drug market. Here's what to know
-
-[2025-12-25 06:01:14](https://bsky.app/profile/bloomberg.com/post/3mar5uzorju2d)
-
----
-
-@japan.reuters.com
-
-イスラエルのネタニヤフ首相は２４日、パレスチナ自治区ガザ南部のラファでイスラエル軍の車両が爆発物による攻撃を受けたとして、イスラム組織ハマスが停戦合意に違反したと非難し、報復を表明した。 bit.ly/4p6MKYT
-
-[2025-12-25 06:01:11](https://bsky.app/profile/japan.reuters.com/post/3mar5uwar3w2v)
-
----
-
-@cnbc.com
-
-If you're stressed out this holiday season, try muting social media accounts that bring you down, says psychologist Sabrina Romanoff. 
-
-[2025-12-25 06:01:01](https://bsky.app/profile/cnbc.com/post/3mar5umpwlu24)
-
----
-
-@usatoday.com
-
-From expected faves like "Seinfeld" and "Friends" to selections sure to stir debate, here's our list of top 10 best Christmas episodes of all time
-
-[2025-12-25 06:00:19](https://bsky.app/profile/usatoday.com/post/3mar5teocks25)
-
----
-
-@cnn.com
-
-"I finally had to admit that no matter how many times I reread the recipe and attempted to follow the instructions, it wasn't going to work. I was stumped," Brenda Goodman writes.
-
-"Then it dawned on me: Could this recipe have been generated by AI? Had I been had?" https://cnn.it/3KPT5Kq
-
-[2025-12-25 06:00:15](https://bsky.app/profile/cnn.com/post/3mar5tbfqwa23)
-
----
-
-@washingtonpost.com
-
-Travel writer Rick Steves was at his home in Edmonds, Washington, when he learned a local community center for homeless residents was set to close. Within a few weeks, Steves bought it. 
-
-“I really take ‘love your neighbor’ seriously,” he said.
-
-[2025-12-25 06:00:15](https://bsky.app/profile/washingtonpost.com/post/3mar5takji42p)
-
----
-
-@nbcnews.com
-
-Ukrainian President Volodymyr Zelenskyy has calls for a meeting with President Trump to address the most sensitive issues in a future peace deal with Russia, including control of territory, following the latest round of U.S.-Ukrainian talks.
-
-[2025-12-25 06:00:09](https://bsky.app/profile/nbcnews.com/post/3mar5t3pmnv2k)
+[2025-12-25 06:11:54](https://bsky.app/profile/wsj.com/post/3mar6i4c5vb23)
 
 ---
 
