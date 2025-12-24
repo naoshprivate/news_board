@@ -1,9 +1,9 @@
-# [2025-12-24 11:50 updated](2025_12_24.md)
+# [2025-12-24 12:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The U.S. economy continues to power through the trade and immigration shocks of 2025, defying widespread expectations of a slowdown or even a recession. <a href="https://bsky.app/profile/wsj.com/post/3mapap7wkfb23" target="_blank">wsj.com</a> (2025-12-24 11:46:21)</span><span style="padding-right:50px;">米連邦最高裁は２３日、トランプ大統領による中西部イリノイ州シカゴへの州兵派遣を巡り、下級審の派遣差し止め命令の取り消しを求めた政権側の申し立てを退ける判断を下した。 bit.ly/44IfEaA <a href="https://bsky.app/profile/japan.reuters.com/post/3mapan46u7d2c" target="_blank">japan.reuters.com</a> (2025-12-24 11:45:10)</span><span style="padding-right:50px;">メキシコ海軍の小型航空機が米テキサス州沖合で２２日に墜落し、熱湯で重度のやけどを負っていた２歳児を含む少なくとも６人が死亡した。人道任務としてこの子どもを米国の病院へ移送する途中だった。 bit.ly/4pgf1fL <a href="https://bsky.app/profile/japan.reuters.com/post/3mapamsbnvt26" target="_blank">japan.reuters.com</a> (2025-12-24 11:45:00)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】咲洲トンネルでバイクとトラックの事故 バイク運転16歳男性が死亡 (2025-12-24 11:41:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mapakucrjh2e" target="_blank">sokuho.news</a> (2025-12-24 11:43:55)</span><span style="padding-right:50px;">スウェーデンの環境活動家グレタ・トゥンベリさん（２２）が２３日、ロンドンで参加していた親パレスチナ団体の抗議活動で逮捕されたが、その後保釈された。英国では親パレスチナ団体「パレスチナ・アクション」を支持する活動が禁止されている。 bit.ly/4pVXKJY <a href="https://bsky.app/profile/japan.reuters.com/post/3mapaec4qec26" target="_blank">japan.reuters.com</a> (2025-12-24 11:40:15)</span>
+<span style="padding-right:50px;">前場の東京株式市場で、日経平均は前営業日比６８円５５銭高の５万０４８１円４２銭と小幅に続伸した。前日の米ハイテク株高の流れを引き継ぐ形で半導体関連銘柄の一角がしっかりと推移し、相場を支えた。一方、クリスマス休暇入りで海外投資家が減り、積極的な売買は手控えられた。買い一巡後はもみ合い、日経平均の値幅は２００円程度にとどまった。 bit.ly/4b5lBSN <a href="https://bsky.app/profile/japan.reuters.com/post/3mapbxleygh2n" target="_blank">japan.reuters.com</a> (2025-12-24 12:08:56)</span><span style="padding-right:50px;">How the new order of the Murdoch dynasty is playing out <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mapbxbbluf27" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-24 12:08:44)</span><span style="padding-right:50px;">「金」小売価格 1グラム当たり初の2万5000円超 最高値更新 https://news.web.nhk/newsweb/na/na-k10015012311000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapbsil5hm2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 12:06:02)</span><span style="padding-right:50px;">フランス議会の国民議会（下院）と上院は２３日、来年１月までの政府機関運営を可能にする緊急つなぎ予算案をともに全会一致で可決した。２０２５年の歳出上限を来年に繰り越すほか、政府が税金の徴収と国債の発行を可能にするのが柱。 bit.ly/492fOMF <a href="https://bsky.app/profile/japan.reuters.com/post/3mapbqsiu6g27" target="_blank">japan.reuters.com</a> (2025-12-24 12:05:08)</span><span style="padding-right:50px;">米国セーフスポーツセンターが、身体的・精神的虐待行為があったとして、数多くの代表選手を指導してきた体操コーチのアル・フォン、アルミネ・バルティアン両氏を資格停止処分にしたことが分かった。 bit.ly/3MNioNP <a href="https://bsky.app/profile/japan.reuters.com/post/3mapbnw3pxm2p" target="_blank">japan.reuters.com</a> (2025-12-24 12:03:31)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50481.42 (🔺5.94 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3378.00 (🔻40.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔻0.50 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50481.42 (🔺5.94 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3378.00 (🔻40.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.82 (🔻0.36 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,97 +32,97 @@
 
 ## News Headlines
 
-- US Economy Defies Expectations, Continues to Grow Despite Trade and Immigration Shocks
-- US Supreme Court Upholds Trump's Decision to Deploy Troops to Chicago
-- Mexican Naval Plane Crashes Off Texas Coast, Killing at Least 6 Including 2-Year-Old Child
-- Swedish Climate Activist Greta Thunberg Released from Detention After Pro-Palestine Protest
-- Washington State to Raise Minimum Wage to $17.13 an Hour on January 1
-- Lockheed Martin Wins $10 Billion Contract for Aircraft-Related Work
+- Tokyo stocks edge higher on weak demand at auction
+- Murdoch dynasty's new order takes shape
+- Japan's government approves emergency budget to support government operations
+- US sports coach suspended over abuse allegations
+- Justice Department asks prosecutors to review Epstein files
+- Los Angeles' entertainment economy is struggling
 
 
 ----
 
-@wsj.com
-
-The U.S. economy continues to power through the trade and immigration shocks of 2025, defying widespread expectations of a slowdown or even a recession.
-
-[2025-12-24 11:46:21](https://bsky.app/profile/wsj.com/post/3mapap7wkfb23)
-
----
-
 @japan.reuters.com
 
-米連邦最高裁は２３日、トランプ大統領による中西部イリノイ州シカゴへの州兵派遣を巡り、下級審の派遣差し止め命令の取り消しを求めた政権側の申し立てを退ける判断を下した。 bit.ly/44IfEaA
+前場の東京株式市場で、日経平均は前営業日比６８円５５銭高の５万０４８１円４２銭と小幅に続伸した。前日の米ハイテク株高の流れを引き継ぐ形で半導体関連銘柄の一角がしっかりと推移し、相場を支えた。一方、クリスマス休暇入りで海外投資家が減り、積極的な売買は手控えられた。買い一巡後はもみ合い、日経平均の値幅は２００円程度にとどまった。 bit.ly/4b5lBSN
 
-[2025-12-24 11:45:10](https://bsky.app/profile/japan.reuters.com/post/3mapan46u7d2c)
-
----
-
-@japan.reuters.com
-
-メキシコ海軍の小型航空機が米テキサス州沖合で２２日に墜落し、熱湯で重度のやけどを負っていた２歳児を含む少なくとも６人が死亡した。人道任務としてこの子どもを米国の病院へ移送する途中だった。 bit.ly/4pgf1fL
-
-[2025-12-24 11:45:00](https://bsky.app/profile/japan.reuters.com/post/3mapamsbnvt26)
+[2025-12-24 12:08:56](https://bsky.app/profile/japan.reuters.com/post/3mapbxleygh2n)
 
 ---
 
-@sokuho.news
+@bbcnews-world-rss.bsky.social
 
-🛎️JNNより【速報】です。
+How the new order of the Murdoch dynasty is playing out
 
-【速報】咲洲トンネルでバイクとトラックの事故 バイク運転16歳男性が死亡
-(2025-12-24 11:41:24) #ニュース
-
-[2025-12-24 11:43:55](https://bsky.app/profile/sokuho.news/post/3mapakucrjh2e)
-
----
-
-@japan.reuters.com
-
-スウェーデンの環境活動家グレタ・トゥンベリさん（２２）が２３日、ロンドンで参加していた親パレスチナ団体の抗議活動で逮捕されたが、その後保釈された。英国では親パレスチナ団体「パレスチナ・アクション」を支持する活動が禁止されている。 bit.ly/4pVXKJY
-
-[2025-12-24 11:40:15](https://bsky.app/profile/japan.reuters.com/post/3mapaec4qec26)
-
----
-
-@reuters.com
-
-Arsenal edge Palace on penalties to reach League Cup semi-finals reut.rs/493uxFK
-
-[2025-12-24 11:40:12](https://bsky.app/profile/reuters.com/post/3mapaea3h4w2p)
+[2025-12-24 12:08:44](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mapbxbbluf27)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-モスクワで交通警察官2人けが 爆発物によるものである可能性も
-https://news.web.nhk/newsweb/na/na-k10015012291000
+「金」小売価格 1グラム当たり初の2万5000円超 最高値更新
+https://news.web.nhk/newsweb/na/na-k10015012311000
 
-[2025-12-24 11:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapac747ky24)
-
----
-
-@axios.com
-
-Washington will raise its minimum wage to $17.13 an hour on Jan. 1, making it once again the state with the highest minimum wage in the U.S.
-
-[2025-12-24 11:35:19](https://bsky.app/profile/axios.com/post/3mapa3hx2vk2r)
+[2025-12-24 12:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapbsil5hm2u)
 
 ---
 
 @japan.reuters.com
 
-米メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）買収戦で、パラマウント・スカイダンス側がデービッド・エリソン最高経営責任者（ＣＥＯ）の父親でオラクル会長のラリー・エリソン氏による保証を提案したことについて、ＷＢＤの主要株主が十分でないとの見解を２２日にロイターに示した。 bit.ly/4jceLgc
+フランス議会の国民議会（下院）と上院は２３日、来年１月までの政府機関運営を可能にする緊急つなぎ予算案をともに全会一致で可決した。２０２５年の歳出上限を来年に繰り越すほか、政府が税金の徴収と国債の発行を可能にするのが柱。 bit.ly/492fOMF
 
-[2025-12-24 11:35:07](https://bsky.app/profile/japan.reuters.com/post/3mapa34xrtl2c)
+[2025-12-24 12:05:08](https://bsky.app/profile/japan.reuters.com/post/3mapbqsiu6g27)
 
 ---
 
 @japan.reuters.com
 
-＜１１：１５＞　前場の国債先物は続伸、長期金利2.025％　財政懸念和らぐ bit.ly/4pLQmAK
+米国セーフスポーツセンターが、身体的・精神的虐待行為があったとして、数多くの代表選手を指導してきた体操コーチのアル・フォン、アルミネ・バルティアン両氏を資格停止処分にしたことが分かった。 bit.ly/3MNioNP
 
-[2025-12-24 11:33:07](https://bsky.app/profile/japan.reuters.com/post/3map7xkd2jc26)
+[2025-12-24 12:03:31](https://bsky.app/profile/japan.reuters.com/post/3mapbnw3pxm2p)
+
+---
+
+@cnn.com
+
+The Justice Department’s leadership asked career prosecutors in Florida to volunteer over the “next several days” to help redact the Epstein files, in the latest Trump administration push toward releasing evidence around the late convicted sex offender Jeffrey Epstein. https://cnn.it/4pTIQ79
+
+[2025-12-24 12:03:01](https://bsky.app/profile/cnn.com/post/3mapbmzmlbe2q)
+
+---
+
+@wsj.com
+
+L.A.’s entertainment economy is spiraling downward: Work is evaporating, businesses are closing, and the city’s creative middle class is hanging on by a thread. on.wsj.com/48RHS59
+
+[2025-12-24 12:02:52](https://bsky.app/profile/wsj.com/post/3mapbmr3wtf2c)
+
+---
+
+@japan.reuters.com
+
+政府は２４日、２０２６年度一般会計予算案の歳出総額を１２２．３兆円程度とする方向で調整に入った。複数の政府筋が明らかにした。新規国債の２６年度発行予定額は２９．６兆円程度とする。 bit.ly/4s9xhKi
+
+[2025-12-24 12:02:29](https://bsky.app/profile/japan.reuters.com/post/3mapbm26ww22f)
+
+---
+
+@reuters.com
+
+BOJ debated need to keep raising rates, October meeting minutes show reut.rs/3Yayt2p
+
+[2025-12-24 12:00:51](https://bsky.app/profile/reuters.com/post/3mapbj4w7ir24)
+
+---
+
+@sokuho.news
+
+🛎️文春より【スクープ】です。
+
+あいおいニッセイ同和が「熊本地震の被災企業」を訴えていた！
+(2025-12-24 12:00) #地震
+
+[2025-12-24 12:00:43](https://bsky.app/profile/sokuho.news/post/3mapbivrmt22b)
 
 ---
 
