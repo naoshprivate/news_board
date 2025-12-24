@@ -1,9 +1,9 @@
-# [2025-12-24 15:30 updated](2025_12_24.md)
+# [2025-12-24 15:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">It’s the Champagne everyone knows, a "safe" gift for the host of a holiday party. But are you paying for the marketing or the quality of the wine itself? Our wine columnist offers a few outstanding-value alternatives. on.wsj.com/48S1ZjH <a href="https://bsky.app/profile/wsj.com/post/3mapn5ten2m2h" target="_blank">wsj.com</a> (2025-12-24 15:29:16)</span><span style="padding-right:50px;">シドニー株式市場は反落した。前日までの続伸を受けて利食い売りが出た。休暇シーズンで薄商いとなっているほか、この日は短縮取引だったため、下げが増幅された。 bit.ly/3MPa0gJ <a href="https://bsky.app/profile/japan.reuters.com/post/3mapmzbvxhg2q" target="_blank">japan.reuters.com</a> (2025-12-24 15:26:44)</span><span style="padding-right:50px;">Democratic states sue to block cuts to US children's gender-affirming care reut.rs/4pSyqob <a href="https://bsky.app/profile/reuters.com/post/3mapmwgcjrx2i" target="_blank">reuters.com</a> (2025-12-24 15:25:08)</span><span style="padding-right:50px;">中堅小売りのアオキスーパーが今月、日本初となる核融合電力の売買契約を締結して注目を集めている。発電は国内新興のヘリカルフュージョンが担い、２０３０年代からの供給開始を計画する。核融合は発電時に二酸化炭素（ＣＯ２）が発生せず、１グラムの燃料で石油８トン分に相当するエネルギーを得られるとされる。 bit.ly/4jd7tck <a href="https://bsky.app/profile/japan.reuters.com/post/3mapmnn2nsu2u" target="_blank">japan.reuters.com</a> (2025-12-24 15:20:13)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ファジアーノ岡山 佐藤龍之介 育成型期限付き移籍期間満了 (2025-12-24 15:16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mapmhfbx6l27" target="_blank">sokuho.news</a> (2025-12-24 15:16:43)</span>
+<span style="padding-right:50px;">A federal judge has blocked Trump administration efforts to reallocate Department of Homeland Security counterterrorism and security grants away from states that won't cooperate on the president's immigration enforcement policies. <a href="https://bsky.app/profile/axios.com/post/3mapo5kz7522o" target="_blank">axios.com</a> (2025-12-24 15:47:02)</span><span style="padding-right:50px;">サッポロホールディングスは２４日、不動産事業を担うサッポロ不動産開発に投資ファンドのＫＫＲやＰＡＧが出資すると発表した。来年６月に５１％を出資し、サッポロ不動産開発は連結子会社から外れる。取引価格は４７７０億円。 bit.ly/4pTPuKD <a href="https://bsky.app/profile/japan.reuters.com/post/3mapo4eirso2s" target="_blank">japan.reuters.com</a> (2025-12-24 15:46:21)</span><span style="padding-right:50px;">Stokes concerned for England player welfare amid media scrutiny reut.rs/3YNfuLq <a href="https://bsky.app/profile/reuters.com/post/3mapo2cyy4d2p" target="_blank">reuters.com</a> (2025-12-24 15:45:12)</span><span style="padding-right:50px;">＜１５：３２＞　大引けの日経平均は4日ぶり小反落　クリスマス休暇で商い薄く方向感欠く bit.ly/49weu3F <a href="https://bsky.app/profile/japan.reuters.com/post/3mapnyfbc3i22" target="_blank">japan.reuters.com</a> (2025-12-24 15:44:08)</span><span style="padding-right:50px;">弁護士が刑事裁判被告とオンラインで「面会」 一部地域で開始 https://news.web.nhk/newsweb/na/na-k10015012591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapnupbd6v2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 15:42:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50359.75 (🔻115.73 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3361.00 (🔻57.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔻0.46 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.71 (🔻0.46 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,105 +32,96 @@
 
 ## News Headlines
 
-- Champagne alternatives offer quality and value
-- Sydney Stock Market Declines After Previous Day's Rally
-- Democratic States Sue to Block Cuts to US Children's Gender-Affirming Care
-- Japanese Retailer Signs Deal to Buy Nuclear Fusion Power
-- Japan's Nuclear Reactor to Restart in January After 14-Year Hiatus
-- BP Near Deal to Sell Majority Stake in Castrol to Stonepeak
+- Federal Judge Blocks Trump Administration's Immigration Enforcement Policy Funding Shift
+- Sapporo Holdings Invests in Sapporo Real Estate Development
+- Judge Blocks Trump's Plan to Reallocate Funds for Immigration Enforcement
+- Tokyo Stocks Fall as Investors Take a Break Ahead of Holidays
+- Japan Plans Record-Breaking Debt Issuance in Next Year's Budget
+- Russia Denies Involvement in Deadly Blast in Moscow
 
 
 ----
 
-@wsj.com
+@axios.com
 
-It’s the Champagne everyone knows, a "safe" gift for the host of a holiday party. But are you paying for the marketing or the quality of the wine itself? Our wine columnist offers a few outstanding-value alternatives. on.wsj.com/48S1ZjH
+A federal judge has blocked Trump administration efforts to reallocate Department of Homeland Security counterterrorism and security grants away from states that won't cooperate on the president's immigration enforcement policies.
 
-[2025-12-24 15:29:16](https://bsky.app/profile/wsj.com/post/3mapn5ten2m2h)
-
----
-
-@japan.reuters.com
-
-シドニー株式市場は反落した。前日までの続伸を受けて利食い売りが出た。休暇シーズンで薄商いとなっているほか、この日は短縮取引だったため、下げが増幅された。 bit.ly/3MPa0gJ
-
-[2025-12-24 15:26:44](https://bsky.app/profile/japan.reuters.com/post/3mapmzbvxhg2q)
-
----
-
-@reuters.com
-
-Democratic states sue to block cuts to US children's gender-affirming care reut.rs/4pSyqob
-
-[2025-12-24 15:25:08](https://bsky.app/profile/reuters.com/post/3mapmwgcjrx2i)
+[2025-12-24 15:47:02](https://bsky.app/profile/axios.com/post/3mapo5kz7522o)
 
 ---
 
 @japan.reuters.com
 
-中堅小売りのアオキスーパーが今月、日本初となる核融合電力の売買契約を締結して注目を集めている。発電は国内新興のヘリカルフュージョンが担い、２０３０年代からの供給開始を計画する。核融合は発電時に二酸化炭素（ＣＯ２）が発生せず、１グラムの燃料で石油８トン分に相当するエネルギーを得られるとされる。 bit.ly/4jd7tck
+サッポロホールディングスは２４日、不動産事業を担うサッポロ不動産開発に投資ファンドのＫＫＲやＰＡＧが出資すると発表した。来年６月に５１％を出資し、サッポロ不動産開発は連結子会社から外れる。取引価格は４７７０億円。 bit.ly/4pTPuKD
 
-[2025-12-24 15:20:13](https://bsky.app/profile/japan.reuters.com/post/3mapmnn2nsu2u)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】ファジアーノ岡山 佐藤龍之介 育成型期限付き移籍期間満了
-(2025-12-24 15:16:00) #ニュース
-
-[2025-12-24 15:16:43](https://bsky.app/profile/sokuho.news/post/3mapmhfbx6l27)
-
----
-
-@nikkei.com
-
-2026年度予算案、過去最大122.3兆円
-www.nikkei.com/article/DGXZQO...
- 
-社会保障関係費が過去最大を更新するなど物価高対応で歳出が膨らみ、25年度の115.2兆円を上回ります。2年連続で過去最大を更新します。
- 
-#ニュース
-
-[2025-12-24 15:16:40](https://bsky.app/profile/nikkei.com/post/3mapmhblmmv2g)
+[2025-12-24 15:46:21](https://bsky.app/profile/japan.reuters.com/post/3mapo4eirso2s)
 
 ---
 
 @reuters.com
 
-Jordan Love (concussion protocol) participates in Packers walk-through reut.rs/4qolsOI
+Stokes concerned for England player welfare amid media scrutiny reut.rs/3YNfuLq
 
-[2025-12-24 15:15:13](https://bsky.app/profile/reuters.com/post/3mapmeos3lz2b)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】J1・ファジアーノ岡山 佐藤龍之介選手がFC東京に復帰「この先もギラギラと成長し続けます」
-(2025-12-24 15:00) #ニュース
-
-[2025-12-24 15:10:58](https://bsky.app/profile/sokuho.news/post/3mapm53pk2w2r)
+[2025-12-24 15:45:12](https://bsky.app/profile/reuters.com/post/3mapo2cyy4d2p)
 
 ---
 
-@reuters.com
+@japan.reuters.com
 
-BP nears sale of majority Castrol stake to Stonepeak, WSJ reports reut.rs/4asml4h
+＜１５：３２＞　大引けの日経平均は4日ぶり小反落　クリスマス休暇で商い薄く方向感欠く bit.ly/49weu3F
 
-[2025-12-24 15:10:10](https://bsky.app/profile/reuters.com/post/3mapm3np2ry23)
+[2025-12-24 15:44:08](https://bsky.app/profile/japan.reuters.com/post/3mapnyfbc3i22)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-米連邦最高裁 州兵シカゴ派遣 下級審の差し止め決定妥当の判断
-https://news.web.nhk/newsweb/na/na-k10015012521000
+弁護士が刑事裁判被告とオンラインで「面会」 一部地域で開始
+https://news.web.nhk/newsweb/na/na-k10015012591000
 
-[2025-12-24 15:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maplue5c5a26)
+[2025-12-24 15:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapnupbd6v2l)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は２２日、米国の国家安全保障にはグリーンランドが必要だと改めて主張し、グリーンランド特使に任命したランドリー米ルイジアナ州知事が「その先頭に立つ」と述べた。これに対し、デンマークとグリーンランドは強く反発した。 bit.ly/4qkzNf1
+
+[2025-12-24 15:40:12](https://bsky.app/profile/japan.reuters.com/post/3mapnrex5or26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+横綱 大の里 初場所出場の意向 左肩“徐々によくなっている”
+https://news.web.nhk/newsweb/na/na-k10015012581000
+
+[2025-12-24 15:39:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapnpjwpf52l)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+柏崎刈羽原発6号機 来年1月20日再稼働に向け 東電が申請書提出
+https://news.web.nhk/newsweb/na/na-k10015012571000
+
+[2025-12-24 15:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapnpeoub32y)
+
+---
+
+@japan.reuters.com
+
+＜１５：１４＞　国債先物は小反落、長期金利2.04％　買い一巡後は様子見広がる bit.ly/48TVltk
+
+[2025-12-24 15:38:41](https://bsky.app/profile/japan.reuters.com/post/3mapnoo2sao25)
+
+---
+
+@aljazeera.com
+
+<strong><span style="color: red;">BREAKING:</span> Two police ⁠officers ​and another ‍person have been ‍killed in ⁠blast in southern ​Moscow, ‌according to the Russian Investigative Committee aje.io/y0hgvh</strong>
+
+[2025-12-24 15:37:26](https://bsky.app/profile/aljazeera.com/post/3mapnmgn7y227)
 
 ---
 
