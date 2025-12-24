@@ -1,9 +1,9 @@
-# [2025-12-25 06:50 updated](2025_12_25.md)
+# [2025-12-25 07:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">イスラエル 遺体返還でエジプトに代表団 ハマスはトルコと協議 https://news.web.nhk/newsweb/na/na-k10015013131000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marait2ax42b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 06:48:03)</span><span style="padding-right:50px;">高額療養費、自己負担の上限4〜38%引き上げ　患者配慮で改革縮む www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3maraga3pb42f" target="_blank">nikkei.com</a> (2025-12-25 06:46:39)</span><span style="padding-right:50px;">North Korea's Kim Jong Un oversees test-firing of long-range missile, building of nuclear submarine, KCNA says reut.rs/4ses8AN <a href="https://bsky.app/profile/reuters.com/post/3maradmnw232b" target="_blank">reuters.com</a> (2025-12-25 06:45:11)</span><span style="padding-right:50px;">NY株式市場 ダウ300ドル近い値上がり S＆P500も最高値を更新 https://news.web.nhk/newsweb/na/na-k10015013161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maradga7wr2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 06:45:03)</span><span style="padding-right:50px;">＜為替＞ 円が米ドルに対し小幅上昇した。トレーダーらは、円安が日本当局の介入を促すかどうかに注目している。 bit.ly/48UiKeb <a href="https://bsky.app/profile/japan.reuters.com/post/3marac5kr272c" target="_blank">japan.reuters.com</a> (2025-12-25 06:44:22)</span>
+<span style="padding-right:50px;">Rep. Josh Gottheimer’s Microsoft trades and Rep. Nancy Pelosi’s Broadcom options exercise were among the notable trades, as bipartisan momentum grows to ban lawmakers from trading individual stocks. <a href="https://bsky.app/profile/forbes.com/post/3marbh5zyu32w" target="_blank">forbes.com</a> (2025-12-25 07:05:04)</span><span style="padding-right:50px;">Over a million more potential Jeffrey Epstein documents have been handed over to the Department of Justice for review and possible release, the DOJ said today. <a href="https://bsky.app/profile/axios.com/post/3marbarspr22f" target="_blank">axios.com</a> (2025-12-25 07:01:30)</span><span style="padding-right:50px;">Pope Leo, on Christmas Eve, says denying help to poor is rejecting God reut.rs/4pbeags <a href="https://bsky.app/profile/reuters.com/post/3marba6xkrq2y" target="_blank">reuters.com</a> (2025-12-25 07:01:10)</span><span style="padding-right:50px;">Country star Darius Rucker was spotted in the holiday spirit at the Nashville International Airport gifting passersby with a spontaneous song. <a href="https://bsky.app/profile/usatoday.com/post/3marb7i44vi2w" target="_blank">usatoday.com</a> (2025-12-25 07:00:46)</span><span style="padding-right:50px;">中国、台湾に「決定的勝利」めざす　米報告書・核ミサイル増強を警戒 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3marb7bft5u2m" target="_blank">nikkei.com</a> (2025-12-25 07:00:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔻0.28 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.91 (🔻0.27 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,96 +32,101 @@
 
 ## News Headlines
 
-- Israel Sends Delegation to Egypt to Return Bodies
-- Israel Approves New Settlements in West Bank Despite International Criticism
-- US Crime Rates Fall Across Much of the Country in 2025
-- US Stock Market Hits Record Highs as Dow and S&P 500 Surge
-- Nvidia to Acquire AI Chip Startup Groq for $20 Billion
-- Scientists Discover Physical Intimacy Can Speed Up Healing
+- US Lawmakers Trade Stocks, Despite Calls for Ban
+- New Epstein Documents Handed Over to Justice Department
+- Pope Leo Says Helping the Poor is Key to Being a Good Christian
+- Country Singer Darius Rucker Spreads Holiday Cheer at Nashville Airport
+- Millennials and Gen X Inherit More Than Just Money
+- Japanese Politician Accused of Avoiding Health Insurance Payments
 
 
 ----
 
-@nhknewsunofficial.bsky.social
+@forbes.com
 
-イスラエル 遺体返還でエジプトに代表団 ハマスはトルコと協議
-https://news.web.nhk/newsweb/na/na-k10015013131000
+Rep. Josh Gottheimer’s Microsoft trades and Rep. Nancy Pelosi’s Broadcom options exercise were among the notable trades, as bipartisan momentum grows to ban lawmakers from trading individual stocks.
 
-[2025-12-25 06:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marait2ax42b)
+[2025-12-25 07:05:04](https://bsky.app/profile/forbes.com/post/3marbh5zyu32w)
+
+---
+
+@axios.com
+
+Over a million more potential Jeffrey Epstein documents have been handed over to the Department of Justice for review and possible release, the DOJ said today.
+
+[2025-12-25 07:01:30](https://bsky.app/profile/axios.com/post/3marbarspr22f)
+
+---
+
+@reuters.com
+
+Pope Leo, on Christmas Eve, says denying help to poor is rejecting God reut.rs/4pbeags
+
+[2025-12-25 07:01:10](https://bsky.app/profile/reuters.com/post/3marba6xkrq2y)
+
+---
+
+@usatoday.com
+
+Country star Darius Rucker was spotted in the holiday spirit at the Nashville International Airport gifting passersby with a spontaneous song.
+
+[2025-12-25 07:00:46](https://bsky.app/profile/usatoday.com/post/3marb7i44vi2w)
 
 ---
 
 @nikkei.com
 
-高額療養費、自己負担の上限4〜38%引き上げ　患者配慮で改革縮む
+中国、台湾に「決定的勝利」めざす　米報告書・核ミサイル増強を警戒
 www.nikkei.com/article/DGXZQO...
 
-[2025-12-25 06:46:39](https://bsky.app/profile/nikkei.com/post/3maraga3pb42f)
+[2025-12-25 07:00:39](https://bsky.app/profile/nikkei.com/post/3marb7bft5u2m)
 
 ---
 
-@reuters.com
+@bloomberg.com
 
-North Korea's Kim Jong Un oversees test-firing of long-range missile, building of nuclear submarine, KCNA says reut.rs/4ses8AN
+Pez dispensers. Holt Howard jelly jars. So many model trains. As the $90 trillion Great Wealth Transfer begins, millennials and Gen X aren’t just inheriting money — they’re inheriting their parents’ stuff. (from the archive)
 
-[2025-12-25 06:45:11](https://bsky.app/profile/reuters.com/post/3maradmnw232b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-NY株式市場 ダウ300ドル近い値上がり S＆P500も最高値を更新
-https://news.web.nhk/newsweb/na/na-k10015013161000
-
-[2025-12-25 06:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maradga7wr2u)
+[2025-12-25 07:00:27](https://bsky.app/profile/bloomberg.com/post/3marb6vkw4523)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-＜為替＞ 円が米ドルに対し小幅上昇した。トレーダーらは、円安が日本当局の介入を促すかどうかに注目している。 bit.ly/48UiKeb
+🛎️文春より【スクープ】です。
 
-[2025-12-25 06:44:22](https://bsky.app/profile/japan.reuters.com/post/3marac5kr272c)
+「維新議員の国保逃れ」疑惑を現役大阪府議が告発〈一般社団法人の理事に就き、国民健康保険料の支払いを逃れ…〉
+(2025-12-25 07:00) #ニュース
 
----
-
-@npr.org
-
-Crime rates dropped across much of the U.S. in 2025. That was true for both property and violent crime. And it declined nearly everywhere: In big cities and small towns, and in red and blue states. n.pr/4jlKpZ2
-
-[2025-12-25 06:40:36](https://bsky.app/profile/npr.org/post/3mara3fsd432e)
+[2025-12-25 07:00:23](https://bsky.app/profile/sokuho.news/post/3marb6sct362r)
 
 ---
 
-@japan.reuters.com
+@cnn.com
 
-米国株式市場は、ダウ工業株３０種とＳ＆Ｐ総合５００種が終値で最高値を更新した。クリスマスイブの短縮取引で、薄商いとなる中、主要株価３指数はそろって５営業日続伸した。 bit.ly/44MFiem
+When tragedy strikes a community all kinds of people might mobilize in response, such as law enforcement and investigators, relief workers and members of the news media.
 
-[2025-12-25 06:40:21](https://bsky.app/profile/japan.reuters.com/post/3mara2xj3472q)
+Now, they’re often joined by another person: a Michigan man with a 10-foot cross. https://cnn.it/3YGT66q
 
----
-
-@reuters.com
-
-ICE agents involved in Maryland shooting, injuring two reut.rs/44JHL9h
-
-[2025-12-25 06:40:19](https://bsky.app/profile/reuters.com/post/3mara2vdexs2y)
+[2025-12-25 07:00:16](https://bsky.app/profile/cnn.com/post/3marb6lfien2o)
 
 ---
 
-@wsj.com
+@washingtonpost.com
 
-Park Chan-wook directs this macabre comedy about a man who, having lost his job in a corporate restructuring, takes homicidal action to resurrect his career. on.wsj.com/44JHJhF
+At 5:55 p.m. on a Friday evening in Gloucester, England, David Purchase was still singing — 41 hours and 55 minutes after he had begun.
 
-[2025-12-25 06:39:05](https://bsky.app/profile/wsj.com/post/3mar7ypgzz32o)
+“I know, I’m bonkers,” Purchase said.
+
+[2025-12-25 07:00:15](https://bsky.app/profile/washingtonpost.com/post/3marb6kkiqj2e)
 
 ---
 
-@reuters.com
+@nbcnews.com
 
-Democratic governors call on Trump administration to lift freeze on offshore wind projects reut.rs/4pcl9FI
+European allies react with outrage after the Trump administration sanctioned online safety campaigners accused of censoring “American viewpoints.”
 
-[2025-12-25 06:35:10](https://bsky.app/profile/reuters.com/post/3mar7ron5xf2r)
+[2025-12-25 07:00:10](https://bsky.app/profile/nbcnews.com/post/3marb6flon726)
 
 ---
 
