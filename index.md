@@ -1,9 +1,9 @@
-# [2025-12-25 08:10 updated](2025_12_25.md)
+# [2025-12-25 08:30 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中南米金融市場では株式がペルーとコロンビアがけん引する形で上昇した。商いは薄かった。 bit.ly/3YbmnpO <a href="https://bsky.app/profile/japan.reuters.com/post/3marexuvtzg2v" target="_blank">japan.reuters.com</a> (2025-12-25 08:08:06)</span><span style="padding-right:50px;">Reports: RHP Pete Fairbanks reels in 1-year deal with Marlins reut.rs/48R7A9W <a href="https://bsky.app/profile/reuters.com/post/3maresm7tb32y" target="_blank">reuters.com</a> (2025-12-25 08:05:09)</span><span style="padding-right:50px;">A heady aroma of malt and brewing yeast drifts through Pakistan's oldest and by far largest brewery, which is gearing up for expansion after getting approval to sell abroad after a nearly 50-year ban. u.afp.com/S8A7 <a href="https://bsky.app/profile/en.afp.com/post/3maresezy7s2x" target="_blank">en.afp.com</a> (2025-12-25 08:05:02)</span><span style="padding-right:50px;">トランプ政権 EU元高官ら入国禁止 デジタル規制けん制ねらいか https://news.web.nhk/newsweb/na/na-k10015013181000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mareovkk6e2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 08:03:03)</span><span style="padding-right:50px;">＜０７：４５＞　ドル155.20─156.80円の見通し、日銀総裁発言に関心 bit.ly/4aPI6eD <a href="https://bsky.app/profile/japan.reuters.com/post/3mareo7katp2u" target="_blank">japan.reuters.com</a> (2025-12-25 08:02:42)</span>
+<span style="padding-right:50px;">Kids who are stars in sports and music don’t usually grow up to be stars as adults, a new study found. 🔗 on.wsj.com/48SMY0Z <a href="https://bsky.app/profile/wsj.com/post/3marg5jc6ef2h" target="_blank">wsj.com</a> (2025-12-25 08:29:09)</span><span style="padding-right:50px;">As much as a big breakfast spread sounds great, no one wants to get up at the crack of dawn to cook a from-scratch feast on a holiday morning. Invest in your future happiness by prepping the festive first meal of the day in advance. <a href="https://bsky.app/profile/nytimes.com/post/3marfxwqrfy2r" target="_blank">nytimes.com</a> (2025-12-25 08:26:02)</span><span style="padding-right:50px;">ロシア国営調査機関ⅤＴｓＩＯＭが２４日公表した世論調査から、ロシア人の５５％が、ウクライナの紛争が２０２６年に終結すると想定していることが分かった。クレムリン（ロシア大統領府）が、和平合意の可能性に対する国民の反応を試している可能性も示唆している。 bit.ly/48WjHCA <a href="https://bsky.app/profile/japan.reuters.com/post/3marfnmrtqz2n" target="_blank">japan.reuters.com</a> (2025-12-25 08:20:16)</span><span style="padding-right:50px;">大阪・関西万博 運営収支 最大370億円の黒字見通し 博覧会協会 https://news.web.nhk/newsweb/na/na-k10015013061000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marf6yrmne2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 08:12:03)</span><span style="padding-right:50px;">Report: Luka Doncic (leg) to return for Lakers on Christmas reut.rs/4pUDgRZ <a href="https://bsky.app/profile/reuters.com/post/3marf3o4s632c" target="_blank">reuters.com</a> (2025-12-25 08:10:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔺0.09 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔺0.16 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,15 +32,56 @@
 
 ## News Headlines
 
-- Peru and Colombia stocks rise in Latin American market
-- Marlins sign RHP Pete Fairbanks to 1-year deal
-- Pakistan's oldest brewery expands after 50-year ban on exporting
-- Trump administration to ban EU officials from entry, digital regulation in target
-- Yen to trade in 155.20-156.80 range, BOJ governor's comments eyed
-- Edinburgh becomes a foodie destination with modern Scottish and global flavors
+- Kids who are stars in sports and music don't usually grow up to be stars as adults
+- Invest in your future happiness by prepping the festive first meal of the day in advance
+- Russia's people expect Ukraine conflict to end by 2026, survey shows
+- Osaka Kansai Expo operating fund aiming for 370 billion yen profit
+- Luka Doncic to return for Lakers on Christmas
+- Peru and Colombia lead Latin American stock market gains
 
 
 ----
+
+@wsj.com
+
+Kids who are stars in sports and music don’t usually grow up to be stars as adults, a new study found. 🔗 on.wsj.com/48SMY0Z
+
+[2025-12-25 08:29:09](https://bsky.app/profile/wsj.com/post/3marg5jc6ef2h)
+
+---
+
+@nytimes.com
+
+As much as a big breakfast spread sounds great, no one wants to get up at the crack of dawn to cook a from-scratch feast on a holiday morning. Invest in your future happiness by prepping the festive first meal of the day in advance.
+
+[2025-12-25 08:26:02](https://bsky.app/profile/nytimes.com/post/3marfxwqrfy2r)
+
+---
+
+@japan.reuters.com
+
+ロシア国営調査機関ⅤＴｓＩＯＭが２４日公表した世論調査から、ロシア人の５５％が、ウクライナの紛争が２０２６年に終結すると想定していることが分かった。クレムリン（ロシア大統領府）が、和平合意の可能性に対する国民の反応を試している可能性も示唆している。 bit.ly/48WjHCA
+
+[2025-12-25 08:20:16](https://bsky.app/profile/japan.reuters.com/post/3marfnmrtqz2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+大阪・関西万博 運営収支 最大370億円の黒字見通し 博覧会協会
+https://news.web.nhk/newsweb/na/na-k10015013061000
+
+[2025-12-25 08:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marf6yrmne2k)
+
+---
+
+@reuters.com
+
+Report: Luka Doncic (leg) to return for Lakers on Christmas reut.rs/4pUDgRZ
+
+[2025-12-25 08:10:13](https://bsky.app/profile/reuters.com/post/3marf3o4s632c)
+
+---
 
 @japan.reuters.com
 
@@ -81,46 +122,6 @@ https://news.web.nhk/newsweb/na/na-k10015013181000
 ＜０７：４５＞　ドル155.20─156.80円の見通し、日銀総裁発言に関心 bit.ly/4aPI6eD
 
 [2025-12-25 08:02:42](https://bsky.app/profile/japan.reuters.com/post/3mareo7katp2u)
-
----
-
-@bloomberg.com
-
-From modern Scottish cooking to global flavors, Edinburgh is a food town now. These are five top tables worth checking out.
-
-[2025-12-25 08:00:36](https://bsky.app/profile/bloomberg.com/post/3marekha4pb2g)
-
----
-
-@cnbc.com
-
-Acts of kindness have consistently proven to release the feel-good chemicals in people's brains. Try volunteering this holiday season. 
-
-[2025-12-25 08:00:29](https://bsky.app/profile/cnbc.com/post/3marekb6dck24)
-
----
-
-@reuters.com
-
-Report: Galaxy close to signing M Justin Haak reut.rs/4q1qukI
-
-[2025-12-25 08:00:25](https://bsky.app/profile/reuters.com/post/3marek52gyu24)
-
----
-
-@apnews.com
-
-Doctors say just 1 in 30,000 pregnancies occur in the abdomen instead of the uterus. And Ryu Lopez is among the rare cases.
-
-[2025-12-25 08:00:12](https://bsky.app/profile/apnews.com/post/3marejqc2nl2d)
-
----
-
-@nbcnews.com
-
-Taylor Swift opened her heart and purse strings, inking seven-digit checks to various charities fighting hunger, cardiovascular disease and the struggles of fellow artists, the non-profit groups say. 
-
-[2025-12-25 08:00:11](https://bsky.app/profile/nbcnews.com/post/3marejpjq2k2p)
 
 ---
 
