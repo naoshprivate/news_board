@@ -1,9 +1,9 @@
-# [2025-12-24 13:30 updated](2025_12_24.md)
+# [2025-12-24 13:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ウクライナ軍 ドネツク州の防衛拠点の1つからの撤退を発表 https://news.web.nhk/newsweb/na/na-k10015012481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapgddopwa2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 13:27:03)</span><span style="padding-right:50px;">ロシアのパトルシェフ副首相は、自国産穀物輸出の低迷は世界的な価格下落が原因で、需要はあると説明した。２３日の同国紙とのインタビューで述べた。 bit.ly/497x3Lf <a href="https://bsky.app/profile/japan.reuters.com/post/3mapgchd5rg22" target="_blank">japan.reuters.com</a> (2025-12-24 13:26:35)</span><span style="padding-right:50px;">メキシコ国立統計地理情報院（ＩＮＥＧＩ）が２３日発表した１２月前半の消費者物価指数（ＣＰＩ）は前年同期比３．７２％上昇に鈍化した。 bit.ly/4jiykUw <a href="https://bsky.app/profile/japan.reuters.com/post/3mapg7ugfum26" target="_blank">japan.reuters.com</a> (2025-12-24 13:25:09)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長崎バイパスで横転事故 前岳トンネル付近 (2025-12-24 13:18:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mapfzbpici2r" target="_blank">sokuho.news</a> (2025-12-24 13:21:27)</span><span style="padding-right:50px;">国際オリンピック委員会（ＩＯＣ）は、ロシアの山岳スキー選手ニキータ・フィリポフ（２３）について、２０２６年ミラノ・コルティナ冬季五輪に国を代表しない個人中立選手（ＡＩＮ）としての参加を承認した。 bit.ly/4qt3yKY <a href="https://bsky.app/profile/japan.reuters.com/post/3mapfyrjrnx2c" target="_blank">japan.reuters.com</a> (2025-12-24 13:21:11)</span>
+<span style="padding-right:50px;">No one is cashing in on America’s craze for dumplings more than Din Tai Fung, a Taiwanese restaurant group on.wsj.com/4qmAHHX <a href="https://bsky.app/profile/wsj.com/post/3maphkquyt72u" target="_blank">wsj.com</a> (2025-12-24 13:49:07)</span><span style="padding-right:50px;">高額療養費制度 月当たり負担上限額 所得に応じ引き上げへ https://news.web.nhk/newsweb/na/na-k10015012421000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maphdizga32m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 13:45:02)</span><span style="padding-right:50px;">欧州自動車工業会（ＡＣＥＡ）が２３日発表した１１月の欧州新車販売台数（乗用車）は、前年同月を上回り５カ月連続のプラスとなった。ドイツ、イタリア、スペインなどの市場で電気自動車（ＥＶ）の販売が増加した。 bit.ly/4p697h1 <a href="https://bsky.app/profile/japan.reuters.com/post/3maphdbxutv26" target="_blank">japan.reuters.com</a> (2025-12-24 13:44:57)</span><span style="padding-right:50px;">Brooks Koepka parts ways with LIV Golf reut.rs/4pSYbEI <a href="https://bsky.app/profile/reuters.com/post/3maph2u6b6r2y" target="_blank">reuters.com</a> (2025-12-24 13:40:14)</span><span style="padding-right:50px;">米メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）買収戦で、パラマウント・スカイダンス側がデービッド・エリソン最高経営責任者（ＣＥＯ）の父親でオラクル会長のラリー・エリソン氏による保証を提案したことについて、ＷＢＤの主要株主が十分でないとの見解を２２日にロイターに示した。 bit.ly/48UxlpX <a href="https://bsky.app/profile/japan.reuters.com/post/3maph2sqmpw22" target="_blank">japan.reuters.com</a> (2025-12-24 13:40:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50435.90 (🔻39.58 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3382.00 (🔻36.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.98 (🔻0.20 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50429.52 (🔻45.96 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3376.00 (🔻42.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔻0.35 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,99 +32,94 @@
 
 ## News Headlines
 
-- Ukraine army announces withdrawal from one of its defensive strongholds in Donetsk region
-- Russia's Deputy Prime Minister says decline in domestic grain exports due to global price drop
-- Mexico's Consumer Price Index slows down to 3.72% year-on-year increase in December
-- IOC approves Russian skier Nikita Filippov to compete as neutral athlete at 2026 Winter Olympics
-- Indian stock market remains stable ahead of Christmas holidays
-- Ministry of Land, Infrastructure, Transport and Tourism considers paying certain amount to car owners affected by four-day parking garage flooding in Mie Prefecture
+- Din Tai Fung Leads Dumpling Boom in the US
+- Japan's Corporate Service Price Index Rises 2.7% in November
+- European Car Sales See Fifth Consecutive Month of Growth
+- Warner Bros. Discovery Shareholders Raise Concerns Over David Ellison's Guarantee
+- Chinese Yuan Surges to 1-Year High Against US Dollar
+- Legendary Japanese Golfer Masashi Ozaki Dies at 78
 
 
 ----
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-ウクライナ軍 ドネツク州の防衛拠点の1つからの撤退を発表
-https://news.web.nhk/newsweb/na/na-k10015012481000
+No one is cashing in on America’s craze for dumplings more than Din Tai Fung, a Taiwanese restaurant group on.wsj.com/4qmAHHX
 
-[2025-12-24 13:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapgddopwa2l)
-
----
-
-@japan.reuters.com
-
-ロシアのパトルシェフ副首相は、自国産穀物輸出の低迷は世界的な価格下落が原因で、需要はあると説明した。２３日の同国紙とのインタビューで述べた。 bit.ly/497x3Lf
-
-[2025-12-24 13:26:35](https://bsky.app/profile/japan.reuters.com/post/3mapgchd5rg22)
-
----
-
-@japan.reuters.com
-
-メキシコ国立統計地理情報院（ＩＮＥＧＩ）が２３日発表した１２月前半の消費者物価指数（ＣＰＩ）は前年同期比３．７２％上昇に鈍化した。 bit.ly/4jiykUw
-
-[2025-12-24 13:25:09](https://bsky.app/profile/japan.reuters.com/post/3mapg7ugfum26)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】長崎バイパスで横転事故 前岳トンネル付近
-(2025-12-24 13:18:00) #ニュース
-
-[2025-12-24 13:21:27](https://bsky.app/profile/sokuho.news/post/3mapfzbpici2r)
-
----
-
-@japan.reuters.com
-
-国際オリンピック委員会（ＩＯＣ）は、ロシアの山岳スキー選手ニキータ・フィリポフ（２３）について、２０２６年ミラノ・コルティナ冬季五輪に国を代表しない個人中立選手（ＡＩＮ）としての参加を承認した。 bit.ly/4qt3yKY
-
-[2025-12-24 13:21:11](https://bsky.app/profile/japan.reuters.com/post/3mapfyrjrnx2c)
-
----
-
-@japan.reuters.com
-
-２４日午前のインド株式市場は、ほぼ横ばいで推移している。７─９月期の米実質ＧＤＰ（国内総生産）成長率が市場予想を上回ったことで楽観的な見方が広がった半面、海外勢の資金が流出し、年末で薄商いとなった。 bit.ly/4jwb0ml
-
-[2025-12-24 13:21:07](https://bsky.app/profile/japan.reuters.com/post/3mapfyo3e3c2q)
+[2025-12-24 13:49:07](https://bsky.app/profile/wsj.com/post/3maphkquyt72u)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-四日市 地下駐車場浸水 国交省“車所有者に一定額支払い検討”
-https://news.web.nhk/newsweb/na/na-k10015012431000
+高額療養費制度 月当たり負担上限額 所得に応じ引き上げへ
+https://news.web.nhk/newsweb/na/na-k10015012421000
 
-[2025-12-24 13:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapfyl42pb2x)
+[2025-12-24 13:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maphdizga32m)
 
 ---
 
 @japan.reuters.com
 
-三井住友フィナンシャルグループは２４日、傘下の三井住友銀行が米投資ファンドのベインキャピタル、ミューズニッチそれぞれと最大１５億ユーロ（約２７６０億円）の融資ファンドを立ち上げたと発表した。 bit.ly/3KWWoPX
+欧州自動車工業会（ＡＣＥＡ）が２３日発表した１１月の欧州新車販売台数（乗用車）は、前年同月を上回り５カ月連続のプラスとなった。ドイツ、イタリア、スペインなどの市場で電気自動車（ＥＶ）の販売が増加した。 bit.ly/4p697h1
 
-[2025-12-24 13:20:18](https://bsky.app/profile/japan.reuters.com/post/3mapfx7rydy2c)
+[2025-12-24 13:44:57](https://bsky.app/profile/japan.reuters.com/post/3maphdbxutv26)
 
 ---
 
 @reuters.com
 
-Steelers' Mike Tomlin supportive but doesn't condone DK Metcalf's actions reut.rs/4j9UoAl
+Brooks Koepka parts ways with LIV Golf reut.rs/4pSYbEI
 
-[2025-12-24 13:20:14](https://bsky.app/profile/reuters.com/post/3mapfx3kmqg2r)
+[2025-12-24 13:40:14](https://bsky.app/profile/reuters.com/post/3maph2u6b6r2y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@japan.reuters.com
 
-米司法省 エプスタイン氏の捜査資料を追加公開 “虚偽内容も”
-https://news.web.nhk/newsweb/na/na-k10015012331000
+米メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）買収戦で、パラマウント・スカイダンス側がデービッド・エリソン最高経営責任者（ＣＥＯ）の父親でオラクル会長のラリー・エリソン氏による保証を提案したことについて、ＷＢＤの主要株主が十分でないとの見解を２２日にロイターに示した。 bit.ly/48UxlpX
 
-[2025-12-24 13:18:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapftfldiy2k)
+[2025-12-24 13:40:13](https://bsky.app/profile/japan.reuters.com/post/3maph2sqmpw22)
+
+---
+
+@japan.reuters.com
+
+上海外国為替市場の人民元相場は、対米ドルで１年３カ月ぶりの高値に上昇した。中国人民銀行が基準値（中間値）を１年３カ月ぶりの元高水準に設定したことや年末の需要増が支えになった。 bit.ly/4jmIkvN
+
+[2025-12-24 13:38:31](https://bsky.app/profile/japan.reuters.com/post/3mapgxrz3pu2s)
+
+---
+
+@apnews.com
+
+Masashi “Jumbo” Ozaki, whose 113 worldwide victories were the most of any player from Japan, has died of colon cancer, the Japan Golf Tour said. He was 78.
+
+[2025-12-24 13:35:15](https://bsky.app/profile/apnews.com/post/3mapgrx3wbl2q)
+
+---
+
+@japan.reuters.com
+
+日銀が２４日に公表した１１月の企業向けサービス価格指数速報は前年比で２．７％上昇した。外航貨物輸送が押し上げに寄与した一方、宿泊サービスなどが押し下げ方向に影響し、伸び率は前月から横ばいとなった。前月比では０．４％上昇した。 bit.ly/4pZlDjY
+
+[2025-12-24 13:35:09](https://bsky.app/profile/japan.reuters.com/post/3mapgrr5qoo22)
+
+---
+
+@japan.reuters.com
+
+２４日のベトナム株式市場は上昇して始まった。同国共産党の次期指導部の候補者選定に安心感が広がった。 bit.ly/4q0z5Eg
+
+[2025-12-24 13:33:05](https://bsky.app/profile/japan.reuters.com/post/3mapgo2k7y42n)
+
+---
+
+@reuters.com
+
+Cubs reach deal with reliever Jacob Webb reut.rs/49h253s
+
+[2025-12-24 13:30:42](https://bsky.app/profile/reuters.com/post/3mapgjsgsgq2x)
 
 ---
 
