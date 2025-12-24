@@ -1,9 +1,9 @@
-# [2025-12-24 23:50 updated](2025_12_24.md)
+# [2025-12-25 00:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Bitcoin 2025: volatility and the rise of private litigation reut.rs/3KJYNxq <a href="https://bsky.app/profile/reuters.com/post/3maqiuov6qx2r" target="_blank">reuters.com</a> (2025-12-24 23:45:15)</span><span style="padding-right:50px;">Man Utd's Amorim says impossible to replace injured Fernandes, others must 'step up' reut.rs/49awUXc <a href="https://bsky.app/profile/reuters.com/post/3maqilrf7wv2p" target="_blank">reuters.com</a> (2025-12-24 23:40:15)</span><span style="padding-right:50px;">Five regulators and researchers who work to tackle disinformation and abuse on the internet were barred from entering the U.S. after Secretary of State Marco Rubio labeled them “radical activists” who undercut free speech. <a href="https://bsky.app/profile/nytimes.com/post/3maqilg3fdl2y" target="_blank">nytimes.com</a> (2025-12-24 23:40:03)</span><span style="padding-right:50px;">中国人民銀行（中央銀行）は２４日、市場の期待を安定させ、為替レートを「基本的に合理的かつバランスのとれた水準で安定を維持する」と表明した。この日開催した金融政策委員会の資料で分かった。 bit.ly/4jglPZs <a href="https://bsky.app/profile/japan.reuters.com/post/3maqiifxxjw22" target="_blank">japan.reuters.com</a> (2025-12-24 23:38:23)</span><span style="padding-right:50px;">New clashes as Cambodia, Thailand hold first talks to end latest violence https://aje.io/zfno78 <a href="https://bsky.app/profile/aljazeera.com/post/3maqieqzqof2e" target="_blank">aljazeera.com</a> (2025-12-24 23:36:20)</span>
+<span style="padding-right:50px;">Russia: Two police officers killed in explosion in Moscow  <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maqk24k4ge2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-25 00:06:10)</span><span style="padding-right:50px;">Gold is one of 2025's biggest winners. 🥇 <a href="https://bsky.app/profile/yahoofinance.com/post/3maqjzxn2xy2k" target="_blank">yahoofinance.com</a> (2025-12-25 00:06:05)</span><span style="padding-right:50px;">Big US banks add $600bn in value as deregulation spurs gains ft.trib.al/rJaDhQt <a href="https://bsky.app/profile/financialtimes.com/post/3maqjzgywrz2v" target="_blank">financialtimes.com</a> (2025-12-25 00:05:48)</span><span style="padding-right:50px;">🇵🇸 🎄 Scouts marched under a clear blue sky in Bethlehem on Wednesday, as the Palestinian city emerged from the shadow of the war in Gaza to celebrate its first festive Christmas in more than two years ➡️ u.afp.com/S8Ak <a href="https://bsky.app/profile/en.afp.com/post/3maqjym4xev2d" target="_blank">en.afp.com</a> (2025-12-25 00:05:20)</span><span style="padding-right:50px;">China's LandSpace hopes to complete rocket recovery in mid-2026 reut.rs/4pMJ2EY <a href="https://bsky.app/profile/reuters.com/post/3maqjycjzq32i" target="_blank">reuters.com</a> (2025-12-25 00:05:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48542.09 (🔺117.38 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23540.01 (🔻15.94 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 187.90 (🔻0.02 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔻0.37 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48548.18 (🔺123.47 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23556.42 (🔺0.47 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 187.80 (🔻0.12 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.75 (🔻0.43 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,93 +32,93 @@
 
 ## News Headlines
 
-- China's Central Bank Seeks to Calm Markets, Maintain Stable Exchange Rate
-- Five Regulators Barred from US over Disinformation and Abuse Concerns
-- Australia Cancels Visa of British National Charged with Nazi Symbol Display
-- US Set to Bar Former EU Official over Online-Content Law Criticism
-- China's Nuclear Warhead Production Slows, but Missile Readiness Remains High
-- US FDA Approves Omeros' Drug to Treat Transplant Complication
+- Two Police Officers Killed in Moscow Explosion
+- Gold Prices to Soar in 2025
+- US Banks Add $600 Billion in Value Amid Deregulation
+- Palestinian City Celebrates First Christmas in Over Two Years
+- China's LandSpace Aims to Complete Rocket Recovery by 2026
+- Trump Administration Plans Overhaul of Immigrant Detention System
 
 
 ----
 
-@reuters.com
+@bbcnews-world-rss.bsky.social
 
-Bitcoin 2025: volatility and the rise of private litigation reut.rs/3KJYNxq
+Russia: Two police officers killed in explosion in Moscow 
 
-[2025-12-24 23:45:15](https://bsky.app/profile/reuters.com/post/3maqiuov6qx2r)
+[2025-12-25 00:06:10](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maqk24k4ge2r)
+
+---
+
+@yahoofinance.com
+
+Gold is one of 2025's biggest winners. 🥇
+
+[2025-12-25 00:06:05](https://bsky.app/profile/yahoofinance.com/post/3maqjzxn2xy2k)
+
+---
+
+@financialtimes.com
+
+Big US banks add $600bn in value as deregulation spurs gains ft.trib.al/rJaDhQt
+
+[2025-12-25 00:05:48](https://bsky.app/profile/financialtimes.com/post/3maqjzgywrz2v)
+
+---
+
+@en.afp.com
+
+🇵🇸 🎄 Scouts marched under a clear blue sky in Bethlehem on Wednesday, as the Palestinian city emerged from the shadow of the war in Gaza to celebrate its first festive Christmas in more than two years ➡️ u.afp.com/S8Ak
+
+[2025-12-25 00:05:20](https://bsky.app/profile/en.afp.com/post/3maqjym4xev2d)
 
 ---
 
 @reuters.com
 
-Man Utd's Amorim says impossible to replace injured Fernandes, others must 'step up' reut.rs/49awUXc
+China's LandSpace hopes to complete rocket recovery in mid-2026 reut.rs/4pMJ2EY
 
-[2025-12-24 23:40:15](https://bsky.app/profile/reuters.com/post/3maqilrf7wv2p)
-
----
-
-@nytimes.com
-
-Five regulators and researchers who work to tackle disinformation and abuse on the internet were barred from entering the U.S. after Secretary of State Marco Rubio labeled them “radical activists” who undercut free speech.
-
-[2025-12-24 23:40:03](https://bsky.app/profile/nytimes.com/post/3maqilg3fdl2y)
-
----
-
-@japan.reuters.com
-
-中国人民銀行（中央銀行）は２４日、市場の期待を安定させ、為替レートを「基本的に合理的かつバランスのとれた水準で安定を維持する」と表明した。この日開催した金融政策委員会の資料で分かった。 bit.ly/4jglPZs
-
-[2025-12-24 23:38:23](https://bsky.app/profile/japan.reuters.com/post/3maqiifxxjw22)
-
----
-
-@aljazeera.com
-
-New clashes as Cambodia, Thailand hold first talks to end latest violence https://aje.io/zfno78
-
-[2025-12-24 23:36:20](https://bsky.app/profile/aljazeera.com/post/3maqieqzqof2e)
-
----
-
-@reuters.com
-
-India announces reforms to simplify import checks as it eyes US trade deal reut.rs/4pWLrgz
-
-[2025-12-24 23:35:08](https://bsky.app/profile/reuters.com/post/3maqicmzhsc2k)
+[2025-12-25 00:05:10](https://bsky.app/profile/reuters.com/post/3maqjycjzq32i)
 
 ---
 
 @wsj.com
 
-The U.S. said it would bar a former EU official from entering over his role in creating and enforcing an online-content law that the Trump administration has criticized.
+Built from soft stone like that of the Alamo, the historic San Antonio home was far from an easy remodel. Here’s how the owners pulled it off on.wsj.com/4qtvXk4
 
-[2025-12-24 23:34:19](https://bsky.app/profile/wsj.com/post/3maqib5zg5g2r)
+[2025-12-25 00:05:01](https://bsky.app/profile/wsj.com/post/3maqjy2sggk2k)
 
 ---
 
-@usatoday.com
+@apnews.com
 
-On the 25th anniversary of her breakout role in "How the Grinch Stole Christmas" with Jim Carrey, Taylor Momsen embraced her inner Cindy Lou Who.
+Travis Kelce has played 96 regular-season home games for the Kansas City Chiefs.
 
-[2025-12-24 23:30:35](https://bsky.app/profile/usatoday.com/post/3maqi2huk7p2g)
+[2025-12-25 00:01:15](https://bsky.app/profile/apnews.com/post/3maqjrcq5v623)
+
+---
+
+@cnn.com
+
+The deadly blast comes just days after a Russian general was killed by a car bomb on a neighboring street in the Russian capital. https://cnn.it/3LdKm4K
+
+[2025-12-25 00:00:48](https://bsky.app/profile/cnn.com/post/3maqjqit7h422)
 
 ---
 
 @washingtonpost.com
 
-A California woman has been charged with murder in what a sheriff called the “calculated and cold-blooded” killing of her 9-year-old daughter following the discovery of the girl’s remains in rural Utah.
+The Trump administration is seeking to overhaul the country’s immigrant detention system in a plan that includes renovating industrial warehouses to hold more than 80,000 immigrant detainees at a time, according to documents reviewed by The Post.
 
-[2025-12-24 23:30:11](https://bsky.app/profile/washingtonpost.com/post/3maqhzqqpn72i)
+[2025-12-25 00:00:47](https://bsky.app/profile/washingtonpost.com/post/3maqjqhy2472e)
 
 ---
 
-@nbcnews.com
+@wsj.com
 
-Australia cancels the visa of a British national after he was charged with displaying a banned Nazi symbol, the immigration minister says, as the country cracks down on antisemitism in the wake of a mass shooting at Bondi Beach.
+A womenswear guide to shaking up winter outerwear—from strategic layering to smart accessorizing.. on.wsj.com/4pbqn4D
 
-[2025-12-24 23:30:11](https://bsky.app/profile/nbcnews.com/post/3maqhzrjmvn2k)
+[2025-12-25 00:00:40](https://bsky.app/profile/wsj.com/post/3maqjqbmwzo2z)
 
 ---
 
@@ -126,13 +126,13 @@ Australia cancels the visa of a British national after he was charged with displ
 
 ## 2025-12
 
-[12月24日](2025_12/2025_12_24.md), [12月23日](2025_12/2025_12_23.md), [12月22日](2025_12/2025_12_22.md), [12月21日](2025_12/2025_12_21.md), [12月20日](2025_12/2025_12_20.md), [12月19日](2025_12/2025_12_19.md), [12月18日](2025_12/2025_12_18.md), 
+[12月25日](2025_12/2025_12_25.md), [12月24日](2025_12/2025_12_24.md), [12月23日](2025_12/2025_12_23.md), [12月22日](2025_12/2025_12_22.md), [12月21日](2025_12/2025_12_21.md), [12月20日](2025_12/2025_12_20.md), [12月19日](2025_12/2025_12_19.md), 
 
-[12月17日](2025_12/2025_12_17.md), [12月16日](2025_12/2025_12_16.md), [12月15日](2025_12/2025_12_15.md), [12月14日](2025_12/2025_12_14.md), [12月13日](2025_12/2025_12_13.md), [12月12日](2025_12/2025_12_12.md), [12月11日](2025_12/2025_12_11.md), 
+[12月18日](2025_12/2025_12_18.md), [12月17日](2025_12/2025_12_17.md), [12月16日](2025_12/2025_12_16.md), [12月15日](2025_12/2025_12_15.md), [12月14日](2025_12/2025_12_14.md), [12月13日](2025_12/2025_12_13.md), [12月12日](2025_12/2025_12_12.md), 
 
-[12月10日](2025_12/2025_12_10.md), [12月09日](2025_12/2025_12_09.md), [12月08日](2025_12/2025_12_08.md), [12月07日](2025_12/2025_12_07.md), [12月06日](2025_12/2025_12_06.md), [12月05日](2025_12/2025_12_05.md), [12月04日](2025_12/2025_12_04.md), 
+[12月11日](2025_12/2025_12_11.md), [12月10日](2025_12/2025_12_10.md), [12月09日](2025_12/2025_12_09.md), [12月08日](2025_12/2025_12_08.md), [12月07日](2025_12/2025_12_07.md), [12月06日](2025_12/2025_12_06.md), [12月05日](2025_12/2025_12_05.md), 
 
-[12月03日](2025_12/2025_12_03.md), [12月02日](2025_12/2025_12_02.md), [12月01日](2025_12/2025_12_01.md), 
+[12月04日](2025_12/2025_12_04.md), [12月03日](2025_12/2025_12_03.md), [12月02日](2025_12/2025_12_02.md), [12月01日](2025_12/2025_12_01.md), 
 
 ## 2025-11
 
