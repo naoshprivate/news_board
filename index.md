@@ -1,9 +1,9 @@
-# [2025-12-24 16:30 updated](2025_12_24.md)
+# [2025-12-24 16:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">European markets poised for lackluster open ahead of shortened trading session <a href="https://bsky.app/profile/cnbc.com/post/3mapq4zpcox24" target="_blank">cnbc.com</a> (2025-12-24 16:22:31)</span><span style="padding-right:50px;">株価 小幅に値下がり https://news.web.nhk/newsweb/na/na-k10015012401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapq2hf3mi2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 16:21:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】安全に取り組む優良な貸し切りバス会社 中国地方の2社など全国42者を初めて「4ツ星」認定 (2025-12-24 16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mappzq47lj2x" target="_blank">sokuho.news</a> (2025-12-24 16:20:40)</span><span style="padding-right:50px;">政府は２４日、２０２６年度一般会計予算案の歳出総額を前年度当初比７．１兆円増の１２２．３兆円とする方向で最終調整に入った。複数の政府筋が明らかにした。新規国債の２６年度発行予定額は２９．６兆円と、当初比０．９兆円程度の増加に抑える。 bit.ly/4b2R3ky <a href="https://bsky.app/profile/japan.reuters.com/post/3mappytfqta2p" target="_blank">japan.reuters.com</a> (2025-12-24 16:20:10)</span><span style="padding-right:50px;">米ペンシルベニア州 高齢者施設で爆発 2人死亡 複数人行方不明 https://news.web.nhk/newsweb/na/na-k10015012621000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mappv46xri26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 16:18:03)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】JR京都線 京都-吹田駅間で運転見合わせ 列車が人と接触した事故の影響 (2025-12-24 16:46) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mapritixis2b" target="_blank">sokuho.news</a> (2025-12-24 16:47:01)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - How to use empty data centers after an AI crash reut.rs/4jiE0Ok <a href="https://bsky.app/profile/reuters.com/post/3maprflrrxt2c" target="_blank">reuters.com</a> (2025-12-24 16:45:12)</span><span style="padding-right:50px;">A secret economy in athletically gifted teens is heating up—and it can tear families apart on.wsj.com/4plj0b6 <a href="https://bsky.app/profile/wsj.com/post/3maprbmsv7p2q" target="_blank">wsj.com</a> (2025-12-24 16:42:59)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】中国銀行が普通預金の金利と短プラ引き上げへ 普通預金の金利0.3%台は約33年ぶり【岡山】 (2025-12-24 16:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mapr5pcnqb2s" target="_blank">sokuho.news</a> (2025-12-24 16:40:47)</span><span style="padding-right:50px;">欧州自動車工業会（ＡＣＥＡ）が２３日発表した１１月の欧州新車販売台数（乗用車）は、前年同月を上回り５カ月連続のプラスとなった。ドイツ、イタリア、スペインなどの市場で電気自動車（ＥＶ）の販売が増加した。 bit.ly/4pN24Lv <a href="https://bsky.app/profile/japan.reuters.com/post/3mapr4necja2q" target="_blank">japan.reuters.com</a> (2025-12-24 16:40:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.77 (🔻0.40 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.79 (🔻0.38 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,30 +32,43 @@
 
 ## News Headlines
 
-- European Markets Poised for Lackluster Open Ahead of Shortened Trading Session
-- Two People Die in Pennsylvania Nursing Home Explosion
-- Japanese Company Tohokushinsha Denso to Sell Subsidiary
-- Japan's Sapporo to Sell Real Estate Business to KKR-PAG Group for $3.1 Billion
-- US Imposes Visa Restrictions on 5 Europeans Over Censorship Allegations
-- US Sues 19 States and DC Over Gender-Affirming Care for Young People
+- JR Kyoto Line suspended between Kyoto and Umeda stations due to accident involving train and person
+- India considers life after Narendra Modi
+- China raises deposit and short-term loan interest rates for first time in 33 years
+- European new car sales exceed last year's level for fifth consecutive month
+- Japan's economy ministry says it will review its spending plan for 2026
+- Indian rupee recovers on dollar's weakness, but forwards retreat after RBI's FX swap move
 
 
 ----
 
-@cnbc.com
+@sokuho.news
 
-European markets poised for lackluster open ahead of shortened trading session
+🛎️NNNより【速報】です。
 
-[2025-12-24 16:22:31](https://bsky.app/profile/cnbc.com/post/3mapq4zpcox24)
+【速報】JR京都線 京都-吹田駅間で運転見合わせ 列車が人と接触した事故の影響
+(2025-12-24 16:46) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-24 16:47:01](https://bsky.app/profile/sokuho.news/post/3mapritixis2b)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-株価 小幅に値下がり
-https://news.web.nhk/newsweb/na/na-k10015012401000
+From Breakingviews - Breakingviews - How to use empty data centers after an AI crash reut.rs/4jiE0Ok
 
-[2025-12-24 16:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapq2hf3mi2s)
+[2025-12-24 16:45:12](https://bsky.app/profile/reuters.com/post/3maprflrrxt2c)
+
+---
+
+@wsj.com
+
+A secret economy in athletically gifted teens is heating up—and it can tear families apart on.wsj.com/4plj0b6
+
+[2025-12-24 16:42:59](https://bsky.app/profile/wsj.com/post/3maprbmsv7p2q)
 
 ---
 
@@ -63,71 +76,60 @@ https://news.web.nhk/newsweb/na/na-k10015012401000
 
 🛎️FNNより【速報】です。
 
-【速報】安全に取り組む優良な貸し切りバス会社 中国地方の2社など全国42者を初めて「4ツ星」認定
-(2025-12-24 16:00) #ニュース
+【速報】中国銀行が普通預金の金利と短プラ引き上げへ 普通預金の金利0.3%台は約33年ぶり【岡山】
+(2025-12-24 16:30) #ニュース
 
-[2025-12-24 16:20:40](https://bsky.app/profile/sokuho.news/post/3mappzq47lj2x)
-
----
-
-@japan.reuters.com
-
-政府は２４日、２０２６年度一般会計予算案の歳出総額を前年度当初比７．１兆円増の１２２．３兆円とする方向で最終調整に入った。複数の政府筋が明らかにした。新規国債の２６年度発行予定額は２９．６兆円と、当初比０．９兆円程度の増加に抑える。 bit.ly/4b2R3ky
-
-[2025-12-24 16:20:10](https://bsky.app/profile/japan.reuters.com/post/3mappytfqta2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-米ペンシルベニア州 高齢者施設で爆発 2人死亡 複数人行方不明
-https://news.web.nhk/newsweb/na/na-k10015012621000
-
-[2025-12-24 16:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mappv46xri26)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】安全に取り組む優良な貸し切りバス会社 香川県の2社など全国42者を初めて「4ツ星」認定
-(2025-12-24 16:00) #ニュース
-
-[2025-12-24 16:16:17](https://bsky.app/profile/sokuho.news/post/3mapprutiqq25)
-
----
-
-@reuters.com
-
-Wizards F Cam Whitemore out indefinitely with DVT reut.rs/3LiqfCq
-
-[2025-12-24 16:15:13](https://bsky.app/profile/reuters.com/post/3mapppy3hca2b)
+[2025-12-24 16:40:47](https://bsky.app/profile/sokuho.news/post/3mapr5pcnqb2s)
 
 ---
 
 @japan.reuters.com
 
-電通グループは２４日、電通銀座ビルを売却すると発表した。譲渡日は来年１月３０日で、譲渡益は約３００億円となる見込み。譲渡先は守秘義務契約を理由に非公表とした。 bit.ly/4jdZqvU
+欧州自動車工業会（ＡＣＥＡ）が２３日発表した１１月の欧州新車販売台数（乗用車）は、前年同月を上回り５カ月連続のプラスとなった。ドイツ、イタリア、スペインなどの市場で電気自動車（ＥＶ）の販売が増加した。 bit.ly/4pN24Lv
 
-[2025-12-24 16:14:54](https://bsky.app/profile/japan.reuters.com/post/3mapppfurpx2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民 井上幹事長代理や河野元外相ら台湾へ出発 頼総統と面会へ
-https://news.web.nhk/newsweb/na/na-k10015012611000
-
-[2025-12-24 16:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mappkeb4od2x)
+[2025-12-24 16:40:12](https://bsky.app/profile/japan.reuters.com/post/3mapr4necja2q)
 
 ---
 
 @reuters.com
 
-China probe finds Taiwanese smugglers controlled vessel that damaged subsea cables reut.rs/44Kfy2d
+From Breakingviews - Breakingviews - India begins to ponder life after Narendra Modi reut.rs/45dnpFA
 
-[2025-12-24 16:10:10](https://bsky.app/profile/reuters.com/post/3mappgxazia2b)
+[2025-12-24 16:40:11](https://bsky.app/profile/reuters.com/post/3mapr4nfmka2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+海外でアフリカ豚熱相次ぐ 羽田空港 肉製品の持ち込み検査公開
+https://news.web.nhk/newsweb/na/na-k10015012641000
+
+[2025-12-24 16:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapr2mvz722m)
+
+---
+
+@japan.reuters.com
+
+フランス政府は２４日、トランプ政権が元欧州委員のティエリー・ブルトン氏を査証（ビザ）発給禁止の対象にしたことを強く非難した。 bit.ly/44KgxPX
+
+[2025-12-24 16:38:35](https://bsky.app/profile/japan.reuters.com/post/3mapqzrecun2v)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+冬のボーナス 大手企業の平均支給額 初の100万円超 経団連調査
+https://news.web.nhk/newsweb/na/na-k10015012631000
+
+[2025-12-24 16:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapqvbnn7n2x)
+
+---
+
+@reuters.com
+
+Rupee's recovery aided by dollar's stumble; spotlight on forwards after RBI's FX swap reut.rs/48T4QJ7
+
+[2025-12-24 16:35:07](https://bsky.app/profile/reuters.com/post/3mapqtlakup2k)
 
 ---
 
