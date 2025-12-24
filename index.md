@@ -1,9 +1,9 @@
-# [2025-12-24 11:30 updated](2025_12_24.md)
+# [2025-12-24 11:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国企業の「人型ロボ」歩行距離106キロ　ギネス記録を更新 www.nikkei.com/article/DGXZQO...  中国上海市にある人型ロボット量産企業、智元創新（上海）科技が開発した人型ロボットがこのほど、江蘇省蘇州市の金鶏湖から上海の外灘まで100キロメートルにわたる歩行にチャレンジし、完走しました。  今回の挑戦に使用された遠征A2は量産商用バージョン。LiDARや赤外線深度カメラなど複数のセンサーを搭載しています。 <a href="https://bsky.app/profile/nikkei.com/post/3map7oqhhtc2n" target="_blank">nikkei.com</a> (2025-12-24 11:28:11)</span><span style="padding-right:50px;">Mexico secretly yanked more than 50 cartel leaders from a cushy prison life of drugs and women. They didn’t know what was next. “Welcome to America!” was the first clue the good times were over. on.wsj.com/45i0n0j <a href="https://bsky.app/profile/wsj.com/post/3map7nk7yhr2e" target="_blank">wsj.com</a> (2025-12-24 11:27:31)</span><span style="padding-right:50px;">アメリカ ベネズエラに最大限の制裁発動の考え示す 国連安保理 https://news.web.nhk/newsweb/na/na-k10015012201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3map7mqpcl32v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 11:27:03)</span><span style="padding-right:50px;">金現物が２４日の取引で心理的な節目となる１オンス＝４５００ドルを初めて突破した。安全資産としての需要と利下げ期待が支援材料。 bit.ly/48StM3p <a href="https://bsky.app/profile/japan.reuters.com/post/3map7jayxpw2q" target="_blank">japan.reuters.com</a> (2025-12-24 11:25:08)</span><span style="padding-right:50px;">Blasts and fire shatter Pennsylvania nursing home, killing at least two reut.rs/4p8er3q <a href="https://bsky.app/profile/reuters.com/post/3map7aipo7l2o" target="_blank">reuters.com</a> (2025-12-24 11:20:13)</span>
+<span style="padding-right:50px;">The U.S. economy continues to power through the trade and immigration shocks of 2025, defying widespread expectations of a slowdown or even a recession. <a href="https://bsky.app/profile/wsj.com/post/3mapap7wkfb23" target="_blank">wsj.com</a> (2025-12-24 11:46:21)</span><span style="padding-right:50px;">米連邦最高裁は２３日、トランプ大統領による中西部イリノイ州シカゴへの州兵派遣を巡り、下級審の派遣差し止め命令の取り消しを求めた政権側の申し立てを退ける判断を下した。 bit.ly/44IfEaA <a href="https://bsky.app/profile/japan.reuters.com/post/3mapan46u7d2c" target="_blank">japan.reuters.com</a> (2025-12-24 11:45:10)</span><span style="padding-right:50px;">メキシコ海軍の小型航空機が米テキサス州沖合で２２日に墜落し、熱湯で重度のやけどを負っていた２歳児を含む少なくとも６人が死亡した。人道任務としてこの子どもを米国の病院へ移送する途中だった。 bit.ly/4pgf1fL <a href="https://bsky.app/profile/japan.reuters.com/post/3mapamsbnvt26" target="_blank">japan.reuters.com</a> (2025-12-24 11:45:00)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】咲洲トンネルでバイクとトラックの事故 バイク運転16歳男性が死亡 (2025-12-24 11:41:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mapakucrjh2e" target="_blank">sokuho.news</a> (2025-12-24 11:43:55)</span><span style="padding-right:50px;">スウェーデンの環境活動家グレタ・トゥンベリさん（２２）が２３日、ロンドンで参加していた親パレスチナ団体の抗議活動で逮捕されたが、その後保釈された。英国では親パレスチナ団体「パレスチナ・アクション」を支持する活動が禁止されている。 bit.ly/4pVXKJY <a href="https://bsky.app/profile/japan.reuters.com/post/3mapaec4qec26" target="_blank">japan.reuters.com</a> (2025-12-24 11:40:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50530.05 (🔺54.57 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔻38.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔻0.50 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50481.42 (🔺5.94 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3378.00 (🔻40.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔻0.50 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,99 +32,97 @@
 
 ## News Headlines
 
-- China's Humanoid Robot Sets New Guinness Record by Walking 106 km
-- Mexico Secretly Transferred Over 50 Cartel Leaders to the US
-- UN Security Council Holds Emergency Meeting on Venezuela
-- Gold Price Breaks $4,500 an Ounce for the First Time
-- Russia and Syria Discuss Military Cooperation in Moscow
-- BOEING Awarded $2 Billion Engine Replacement Order
+- US Economy Defies Expectations, Continues to Grow Despite Trade and Immigration Shocks
+- US Supreme Court Upholds Trump's Decision to Deploy Troops to Chicago
+- Mexican Naval Plane Crashes Off Texas Coast, Killing at Least 6 Including 2-Year-Old Child
+- Swedish Climate Activist Greta Thunberg Released from Detention After Pro-Palestine Protest
+- Washington State to Raise Minimum Wage to $17.13 an Hour on January 1
+- Lockheed Martin Wins $10 Billion Contract for Aircraft-Related Work
 
 
 ----
 
-@nikkei.com
+@wsj.com
 
-中国企業の「人型ロボ」歩行距離106キロ　ギネス記録を更新
-www.nikkei.com/article/DGXZQO...
+The U.S. economy continues to power through the trade and immigration shocks of 2025, defying widespread expectations of a slowdown or even a recession.
 
-中国上海市にある人型ロボット量産企業、智元創新（上海）科技が開発した人型ロボットがこのほど、江蘇省蘇州市の金鶏湖から上海の外灘まで100キロメートルにわたる歩行にチャレンジし、完走しました。
-
-今回の挑戦に使用された遠征A2は量産商用バージョン。LiDARや赤外線深度カメラなど複数のセンサーを搭載しています。
-
-[2025-12-24 11:28:11](https://bsky.app/profile/nikkei.com/post/3map7oqhhtc2n)
+[2025-12-24 11:46:21](https://bsky.app/profile/wsj.com/post/3mapap7wkfb23)
 
 ---
 
-@wsj.com
+@japan.reuters.com
 
-Mexico secretly yanked more than 50 cartel leaders from a cushy prison life of drugs and women. They didn’t know what was next. “Welcome to America!” was the first clue the good times were over. on.wsj.com/45i0n0j
+米連邦最高裁は２３日、トランプ大統領による中西部イリノイ州シカゴへの州兵派遣を巡り、下級審の派遣差し止め命令の取り消しを求めた政権側の申し立てを退ける判断を下した。 bit.ly/44IfEaA
 
-[2025-12-24 11:27:31](https://bsky.app/profile/wsj.com/post/3map7nk7yhr2e)
+[2025-12-24 11:45:10](https://bsky.app/profile/japan.reuters.com/post/3mapan46u7d2c)
+
+---
+
+@japan.reuters.com
+
+メキシコ海軍の小型航空機が米テキサス州沖合で２２日に墜落し、熱湯で重度のやけどを負っていた２歳児を含む少なくとも６人が死亡した。人道任務としてこの子どもを米国の病院へ移送する途中だった。 bit.ly/4pgf1fL
+
+[2025-12-24 11:45:00](https://bsky.app/profile/japan.reuters.com/post/3mapamsbnvt26)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】咲洲トンネルでバイクとトラックの事故 バイク運転16歳男性が死亡
+(2025-12-24 11:41:24) #ニュース
+
+[2025-12-24 11:43:55](https://bsky.app/profile/sokuho.news/post/3mapakucrjh2e)
+
+---
+
+@japan.reuters.com
+
+スウェーデンの環境活動家グレタ・トゥンベリさん（２２）が２３日、ロンドンで参加していた親パレスチナ団体の抗議活動で逮捕されたが、その後保釈された。英国では親パレスチナ団体「パレスチナ・アクション」を支持する活動が禁止されている。 bit.ly/4pVXKJY
+
+[2025-12-24 11:40:15](https://bsky.app/profile/japan.reuters.com/post/3mapaec4qec26)
+
+---
+
+@reuters.com
+
+Arsenal edge Palace on penalties to reach League Cup semi-finals reut.rs/493uxFK
+
+[2025-12-24 11:40:12](https://bsky.app/profile/reuters.com/post/3mapaea3h4w2p)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-アメリカ ベネズエラに最大限の制裁発動の考え示す 国連安保理
-https://news.web.nhk/newsweb/na/na-k10015012201000
+モスクワで交通警察官2人けが 爆発物によるものである可能性も
+https://news.web.nhk/newsweb/na/na-k10015012291000
 
-[2025-12-24 11:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3map7mqpcl32v)
+[2025-12-24 11:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapac747ky24)
+
+---
+
+@axios.com
+
+Washington will raise its minimum wage to $17.13 an hour on Jan. 1, making it once again the state with the highest minimum wage in the U.S.
+
+[2025-12-24 11:35:19](https://bsky.app/profile/axios.com/post/3mapa3hx2vk2r)
 
 ---
 
 @japan.reuters.com
 
-金現物が２４日の取引で心理的な節目となる１オンス＝４５００ドルを初めて突破した。安全資産としての需要と利下げ期待が支援材料。 bit.ly/48StM3p
+米メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）買収戦で、パラマウント・スカイダンス側がデービッド・エリソン最高経営責任者（ＣＥＯ）の父親でオラクル会長のラリー・エリソン氏による保証を提案したことについて、ＷＢＤの主要株主が十分でないとの見解を２２日にロイターに示した。 bit.ly/4jceLgc
 
-[2025-12-24 11:25:08](https://bsky.app/profile/japan.reuters.com/post/3map7jayxpw2q)
-
----
-
-@reuters.com
-
-Blasts and fire shatter Pennsylvania nursing home, killing at least two reut.rs/4p8er3q
-
-[2025-12-24 11:20:13](https://bsky.app/profile/reuters.com/post/3map7aipo7l2o)
+[2025-12-24 11:35:07](https://bsky.app/profile/japan.reuters.com/post/3mapa34xrtl2c)
 
 ---
 
 @japan.reuters.com
 
-シリア暫定政府のシェイバニ外相とアブカスラ国防相は２３日、ロシアのプーチン大統領とモスクワで会談し、防衛産業における戦略的協力を中心に軍事、政治、経済協力の拡大について話し合った。シリア国営通信ＳＡＮＡが報じた。 bit.ly/4peDrGy
+＜１１：１５＞　前場の国債先物は続伸、長期金利2.025％　財政懸念和らぐ bit.ly/4pLQmAK
 
-[2025-12-24 11:14:43](https://bsky.app/profile/japan.reuters.com/post/3map6wnbcur2n)
-
----
-
-@japan.reuters.com
-
-三井住友フィナンシャルグループは２４日、傘下の三井住友銀行が米投資ファンドのベインキャピタル、ミューズニッチそれぞれと最大１５億ユーロ（約２７６０億円）の融資ファンドを立ち上げたと発表した。 bit.ly/4qoT4fs
-
-[2025-12-24 11:12:28](https://bsky.app/profile/japan.reuters.com/post/3map6sn3lnk2v)
-
----
-
-@reuters.com
-
-Boeing awarded $2 billion engine replacement order, Pentagon says reut.rs/3L6cNl9
-
-[2025-12-24 11:10:13](https://bsky.app/profile/reuters.com/post/3map6olje372b)
-
----
-
-@japan.reuters.com
-
-ベネズエラでは、米国によるタンカー「全面封鎖」を受けて原油の輸出に支障を来たし、国内の在庫が積み上がっている。石油タンクが満杯となり、国営石油会社ＰＤＶＳＡが、領海内にとどまるタンカーへの積み込みを開始したことが、同社の資料や船積みデータで明らかになった。 bit.ly/3MZuhA6
-
-[2025-12-24 11:10:12](https://bsky.app/profile/japan.reuters.com/post/3map6ol4hyc25)
-
----
-
-@japan.reuters.com
-
-サッカーのエジプト代表モハメド・サラー（３３）がアフリカ・ネーションズカップ（杯）で、エジプト人選手では初めてとなる５大会連続ゴールを記録した。 bit.ly/45dedB4
-
-[2025-12-24 11:10:09](https://bsky.app/profile/japan.reuters.com/post/3map6ohna3e2u)
+[2025-12-24 11:33:07](https://bsky.app/profile/japan.reuters.com/post/3map7xkd2jc26)
 
 ---
 
