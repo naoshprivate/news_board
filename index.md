@@ -1,9 +1,9 @@
-# [2025-12-24 12:30 updated](2025_12_24.md)
+# [2025-12-24 12:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">午前のドルは１５５円半ばへじり安となった。最近の日本政府の円安けん制発言を受けて、短期筋が年末休暇前に円売りポジションを解消しているという。韓国で年金基金の為替取引が材料視され、ウォンの上昇がドル安圧力となった面を指摘する声もあった。 bit.ly/4pWi127 <a href="https://bsky.app/profile/japan.reuters.com/post/3mapcxevnka2q" target="_blank">japan.reuters.com</a> (2025-12-24 12:26:43)</span><span style="padding-right:50px;">ローマ教皇レオは２３日、ロシアが対ウクライナ戦争でクリスマスの停戦要請を拒否したことに「大きな悲しみ」を感じていると記者団に語った。 bit.ly/3L6eLlx <a href="https://bsky.app/profile/japan.reuters.com/post/3mapcumodk32f" target="_blank">japan.reuters.com</a> (2025-12-24 12:25:10)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】掛川市内でクマ目撃情報…体調1メートルほどか24日朝に通報あり警察が注意呼びかけ（静岡） (2025-12-24 12:19) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mapcqko5kl2b" target="_blank">sokuho.news</a> (2025-12-24 12:22:54)</span><span style="padding-right:50px;">中堅小売りのアオキスーパーが今月、日本初となる核融合電力の売買契約を締結して注目を集めている。発電は国内新興のヘリカルフュージョンが担い、２０３０年代からの供給開始を計画する。核融合は発電時に二酸化炭素（ＣＯ２）が発生せず、１グラムの燃料で石油８トン分に相当するエネルギーを得られるとされる。 bit.ly/499QYZQ <a href="https://bsky.app/profile/japan.reuters.com/post/3mapcncaj3z2v" target="_blank">japan.reuters.com</a> (2025-12-24 12:21:04)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】来年度の診療報酬改定 全体2.22%引き上げで決着 12年ぶりプラス改定 (2025-12-24 12:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mapcmfx36i2z" target="_blank">sokuho.news</a> (2025-12-24 12:20:35)</span>
+<span style="padding-right:50px;">著作物を無許諾で人工知能（ＡＩ）の訓練に利用されたとして、米紙ニューヨーク・タイムズの調査報道記者ジョン・キャリールー氏と他の作家５人が２２日、複数のＡＩ開発企業をカリフォルニア州の連邦裁判所に提訴した。 bit.ly/3KWV13L <a href="https://bsky.app/profile/japan.reuters.com/post/3mapdyggnbe2s" target="_blank">japan.reuters.com</a> (2025-12-24 12:45:11)</span><span style="padding-right:50px;">株価 売り買いが交錯する展開に https://news.web.nhk/newsweb/na/na-k10015012401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapdsuglo62x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 12:42:02)</span><span style="padding-right:50px;">ロシア国営天然ガス大手のガスプロムは、２０２６年の中核利益について、前年比約７％増の３兆ルーブル（３８０億米ドル）に達すると発表した。同年に予定する１兆１０００億ルーブル規模のエネルギー投資計画も承認した。 bit.ly/3N20Jlr <a href="https://bsky.app/profile/japan.reuters.com/post/3mapdpovhjg22" target="_blank">japan.reuters.com</a> (2025-12-24 12:40:18)</span><span style="padding-right:50px;">サッポロHD 不動産事業を米投資ファンドらに売却方針固める https://news.web.nhk/newsweb/na/na-k10015012391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapdnj33rs2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 12:39:03)</span><span style="padding-right:50px;">米東部ペンシルベニア州フィラデルフィア近郊の高齢者施設で２３日、ガス漏れが原因とみられる爆発があり、少なくとも２人が死亡した。 bit.ly/4qpZYBg <a href="https://bsky.app/profile/japan.reuters.com/post/3mapdms4qbp2p" target="_blank">japan.reuters.com</a> (2025-12-24 12:38:41)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50481.42 (🔺5.94 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3378.00 (🔻40.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔻0.32 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50444.87 (🔻30.61 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3383.00 (🔻35.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.98 (🔻0.20 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,103 +32,101 @@
 
 ## News Headlines
 
-- Japanese Yen Falls to 155.5 Against the US Dollar
-- Pope Leo Expresses Sadness Over Russia’s Refusal to Cease Fire in Ukraine
-- Bear Sighting in Kakegawa City, Shizuoka Prefecture
-- Aoki Super Market Signs Historic Nuclear Fusion Power Deal
-- Medical Fee Adjustment for 2026 Set at 2.22% Increase
-- US Signs Health Agreements with African Nations, Warns Against Nonperformance
+- Authors sue AI developers over unauthorized use of their work
+- US Stocks Fluctuate as Buying and Selling Interact
+- Russia's Gazprom expects 2026 core profit of 3 trillion rubles, approves 1.1 trillion ruble energy investment plan
+- At least two dead after explosion at Pennsylvania nursing home
+- Travel writer takes 53-hour train ride from Chicago to San Francisco with earplugs
+- Trump again claims Greenland is crucial for US national security, appoints new envoy
 
 
 ----
 
 @japan.reuters.com
 
-午前のドルは１５５円半ばへじり安となった。最近の日本政府の円安けん制発言を受けて、短期筋が年末休暇前に円売りポジションを解消しているという。韓国で年金基金の為替取引が材料視され、ウォンの上昇がドル安圧力となった面を指摘する声もあった。 bit.ly/4pWi127
+著作物を無許諾で人工知能（ＡＩ）の訓練に利用されたとして、米紙ニューヨーク・タイムズの調査報道記者ジョン・キャリールー氏と他の作家５人が２２日、複数のＡＩ開発企業をカリフォルニア州の連邦裁判所に提訴した。 bit.ly/3KWV13L
 
-[2025-12-24 12:26:43](https://bsky.app/profile/japan.reuters.com/post/3mapcxevnka2q)
-
----
-
-@japan.reuters.com
-
-ローマ教皇レオは２３日、ロシアが対ウクライナ戦争でクリスマスの停戦要請を拒否したことに「大きな悲しみ」を感じていると記者団に語った。 bit.ly/3L6eLlx
-
-[2025-12-24 12:25:10](https://bsky.app/profile/japan.reuters.com/post/3mapcumodk32f)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】掛川市内でクマ目撃情報…体調1メートルほどか24日朝に通報あり警察が注意呼びかけ（静岡）
-(2025-12-24 12:19) #ニュース
-
-[2025-12-24 12:22:54](https://bsky.app/profile/sokuho.news/post/3mapcqko5kl2b)
-
----
-
-@japan.reuters.com
-
-中堅小売りのアオキスーパーが今月、日本初となる核融合電力の売買契約を締結して注目を集めている。発電は国内新興のヘリカルフュージョンが担い、２０３０年代からの供給開始を計画する。核融合は発電時に二酸化炭素（ＣＯ２）が発生せず、１グラムの燃料で石油８トン分に相当するエネルギーを得られるとされる。 bit.ly/499QYZQ
-
-[2025-12-24 12:21:04](https://bsky.app/profile/japan.reuters.com/post/3mapcncaj3z2v)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】来年度の診療報酬改定 全体2.22%引き上げで決着 12年ぶりプラス改定
-(2025-12-24 12:20) #ニュース
-
-[2025-12-24 12:20:35](https://bsky.app/profile/sokuho.news/post/3mapcmfx36i2z)
-
----
-
-@reuters.com
-
-US signs health agreements with African nations, warns against nonperformance reut.rs/496jewu
-
-[2025-12-24 12:20:21](https://bsky.app/profile/reuters.com/post/3mapclywsbr2c)
-
----
-
-@japan.reuters.com
-
-イスラエルの新興企業の連携組織「スタートアップ・ネーション・セントラル（ＳＮＣ）」が２２日公表した暫定データによると、同国のハイテク企業が２０２５年に私募調達した資金は総額１５６億ドルと、前年の１２２億ドルから増加した。 bit.ly/4pMgv2k
-
-[2025-12-24 12:20:17](https://bsky.app/profile/japan.reuters.com/post/3mapclux4zn2f)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】掛川市内で24日朝に体調1メートルほどのクマの目撃情報…警察が注意呼びかけ（静岡）
-(2025-12-24 12:19) #ニュース
-
-[2025-12-24 12:19:33](https://bsky.app/profile/sokuho.news/post/3mapckl7mtm25)
-
----
-
-@wsj.com
-
-Onetime billionaire Gary Winnick spent his vast fortune on lavish homes in Bel-Air, Malibu and New York City. But the aftermath of his death reveals a dire financial situation. on.wsj.com/4awYMYa
-
-[2025-12-24 12:19:05](https://bsky.app/profile/wsj.com/post/3mapcjr24em2k)
+[2025-12-24 12:45:11](https://bsky.app/profile/japan.reuters.com/post/3mapdyggnbe2s)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-青森 八戸 ビル屋上の鉄塔 「倒壊のおそれなし」 避難指示解除
-https://news.web.nhk/newsweb/na/na-k10015012121000
+株価 売り買いが交錯する展開に
+https://news.web.nhk/newsweb/na/na-k10015012401000
 
-[2025-12-24 12:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapchweddp26)
+[2025-12-24 12:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapdsuglo62x)
+
+---
+
+@japan.reuters.com
+
+ロシア国営天然ガス大手のガスプロムは、２０２６年の中核利益について、前年比約７％増の３兆ルーブル（３８０億米ドル）に達すると発表した。同年に予定する１兆１０００億ルーブル規模のエネルギー投資計画も承認した。 bit.ly/3N20Jlr
+
+[2025-12-24 12:40:18](https://bsky.app/profile/japan.reuters.com/post/3mapdpovhjg22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+サッポロHD 不動産事業を米投資ファンドらに売却方針固める
+https://news.web.nhk/newsweb/na/na-k10015012391000
+
+[2025-12-24 12:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapdnj33rs2b)
+
+---
+
+@japan.reuters.com
+
+米東部ペンシルベニア州フィラデルフィア近郊の高齢者施設で２３日、ガス漏れが原因とみられる爆発があり、少なくとも２人が死亡した。 bit.ly/4qpZYBg
+
+[2025-12-24 12:38:41](https://bsky.app/profile/japan.reuters.com/post/3mapdms4qbp2p)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】「人が倒れている」高齢女性が心肺停止の状態で搬送されその後死亡 ひき逃げ事件の可能性も
+(2025-12-24 12:37) #ニュース
+
+[2025-12-24 12:37:55](https://bsky.app/profile/sokuho.news/post/3mapdlfwrif2s)
+
+---
+
+@wsj.com
+
+Travel columnist Dawn Gilbertson took the California Zephyr from Chicago to San Francisco.
+
+Here’s why she would do the 53-hour trip again—with ear plugs: 🔗 on.wsj.com/45du82g
+
+[2025-12-24 12:37:38](https://bsky.app/profile/wsj.com/post/3mapdkvxxxv2r)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は２２日、米国の国家安全保障にはグリーンランドが必要だと改めて主張し、グリーンランド特使に任命したランドリー米ルイジアナ州知事が「その先頭に立つ」と述べた。これに対し、デンマークとグリーンランドは強く反発した。 bit.ly/49e1uzp
+
+[2025-12-24 12:36:30](https://bsky.app/profile/japan.reuters.com/post/3mapdiutrvm2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+米政権 外国製ドローン 今後 国内での使用に必要な認証与えず
+https://news.web.nhk/newsweb/na/na-k10015012251000
+
+[2025-12-24 12:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapdi5nhhx26)
+
+---
+
+@japan.reuters.com
+
+ロンドン金属取引所（ＬＭＥ）の銅価格の指標となる銅３カ月先物が２３日、一時１トン＝１万２１５９．５０ドルと過去最高値を更新し、１万２０００ドルの大台を突破した。年末の薄商いの中で、供給が逼迫するとの見方やドル下落を背景に投機的な買いが膨らんだのが要因。 bit.ly/48TtBFd
+
+[2025-12-24 12:35:09](https://bsky.app/profile/japan.reuters.com/post/3mapdghiabu2u)
 
 ---
 
