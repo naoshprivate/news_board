@@ -1,9 +1,9 @@
-# [2025-12-24 18:50 updated](2025_12_24.md)
+# [2025-12-24 19:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3🈡 (2025-12-24 18:49:05) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mapyddb5hl2s" target="_blank">sokuho.news</a> (2025-12-24 18:49:12)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-24 18:48:51) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mapycvgm262r" target="_blank">sokuho.news</a> (2025-12-24 18:48:58)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-24 18:48:31) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mapycctyg62v" target="_blank">sokuho.news</a> (2025-12-24 18:48:38)</span><span style="padding-right:50px;">LIVE: Site of Libyan army chief plane crash www.youtube.com/live/sLBA7wF... <a href="https://bsky.app/profile/reuters.com/post/3mapyau2amc27" target="_blank">reuters.com</a> (2025-12-24 18:47:49)</span><span style="padding-right:50px;">Disney’s first-ever chief brand officer, Asad Ayaz, is Bob Iger’s pick to depoliticize America’s best-known entertainment company. <a href="https://bsky.app/profile/wsj.com/post/3mapy6zx7ci2s" target="_blank">wsj.com</a> (2025-12-24 18:46:48)</span>
+<span style="padding-right:50px;">４人のトレーダーが２４日に明らかにしたところによると、台湾中央銀行は銀行や輸出業者に対し、日々の取引の最初の１時間における米ドル売りを巡ってさらなる柔軟性を持たせるようにしている。 bit.ly/45gkYlD <a href="https://bsky.app/profile/japan.reuters.com/post/3mapzgvhl3b27" target="_blank">japan.reuters.com</a> (2025-12-24 19:09:06)</span><span style="padding-right:50px;">ソフトバンク 大関友久 推定年俸1億7000万円で契約更改 https://news.web.nhk/newsweb/na/na-k10015012841000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapzgv56g32x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 19:09:03)</span><span style="padding-right:50px;">Hundreds of new Christmas songs are released every year, but each time December rolls around, the same small handful of classics races to the top of the charts. Will anything new ever break through? n.pr/3YaZRgI <a href="https://bsky.app/profile/npr.org/post/3mapzehh7ys24" target="_blank">npr.org</a> (2025-12-24 19:07:44)</span><span style="padding-right:50px;">【Q＆A】農水省の方針に“コメ増産から大幅転換”指摘 なぜ？ https://news.web.nhk/newsweb/na/na-k10015012361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapzbj6p6q2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 19:06:03)</span><span style="padding-right:50px;">東京電力ホールディングスの小早川智明社長は２４日、柏崎刈羽原子力発電所（新潟県）６号機の再稼働に向けて「使用前確認申請」を原子力規制委員会に提出したと明らかにし、来年１月２０日に原子炉を起動すると発表した。 bit.ly/4p8t5rq <a href="https://bsky.app/profile/japan.reuters.com/post/3mapz7weht72q" target="_blank">japan.reuters.com</a> (2025-12-24 19:05:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔻0.38 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.85 (🔻0.33 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,83 +32,86 @@
 
 ## News Headlines
 
-- 6.4-magnitude earthquake hits, residents advised to be cautious
-- Disney appoints new chief brand officer to depoliticize the company
-- Ukraine reaches consensus with US on some issues to end conflict, but key questions remain
-- Former Japanese envoy to China blasts Tokyo's handling of the situation
-- Russian ice-class LNG tanker makes maiden voyage, eyes two more in 2026
-- BP to sell majority stake in Castrol lubricants business for $6 billion
-
+[{"en": "Taiwan Central Bank to Allow Greater Flexibility in Dollar Sales"}, 
+{"en": "SoftBank\'s Ohtani Signs 1.7 Billion Yen Contract"}, 
+{"en": "New Christmas Songs Rely on Classics to Reach the Top"}, 
+{"en": "Japan to Restart Nuclear Reactor at Kashiwazaki-Kariwa Plant"}, 
+{"en": "China Takes Steps to Control AI to Protect Communist Party"}, 
+{"en": "Japan to Tighten Regulations on Mega-Solar Projects"}, 
+{"en": "Disney Appoints New Chief Brand Officer to Depoliticize Company"}, 
+{"en": "China Relaxes Home Purchase Rules to Boost Market"}, 
+{"en": "China Confirms Two Taiwanese Were Behind Cable Cutting Scandal"}, 
+{"en": "Japan to Restrict Mega-Solar Projects to Protect Nature"}, 
+{"en": "US and Ukraine Reach Consensus on Conflict Resolution Plan"}, 
+{"en": "Israel's Settlers Coordinate Attacks to Expel Palestinians"}, 
+{"en": "Moscow Police Officer Killed in Explosion"}, 
+{"en": "China to Ease Home Purchase Rules to Boost Market"}]
 
 ----
 
-@sokuho.news
+@japan.reuters.com
 
-🚨地震発生中❗
+４人のトレーダーが２４日に明らかにしたところによると、台湾中央銀行は銀行や輸出業者に対し、日々の取引の最初の１時間における米ドル売りを巡ってさらなる柔軟性を持たせるようにしている。 bit.ly/45gkYlD
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3🈡
-(2025-12-24 18:49:05) #緊急地震速報
-
-[2025-12-24 18:49:12](https://bsky.app/profile/sokuho.news/post/3mapyddb5hl2s)
+[2025-12-24 19:09:06](https://bsky.app/profile/japan.reuters.com/post/3mapzgvhl3b27)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🚨地震発生中❗
+ソフトバンク 大関友久 推定年俸1億7000万円で契約更改
+https://news.web.nhk/newsweb/na/na-k10015012841000
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-24 18:48:51) #緊急地震速報
-
-[2025-12-24 18:48:58](https://bsky.app/profile/sokuho.news/post/3mapycvgm262r)
+[2025-12-24 19:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapzgv56g32x)
 
 ---
 
-@sokuho.news
+@npr.org
 
-🚨地震発生中❗
+Hundreds of new Christmas songs are released every year, but each time December rolls around, the same small handful of classics races to the top of the charts. Will anything new ever break through? n.pr/3YaZRgI
 
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
+[2025-12-24 19:07:44](https://bsky.app/profile/npr.org/post/3mapzehh7ys24)
 
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-24 18:48:31) #緊急地震速報
+---
 
-[2025-12-24 18:48:38](https://bsky.app/profile/sokuho.news/post/3mapycctyg62v)
+@nhknewsunofficial.bsky.social
+
+【Q＆A】農水省の方針に“コメ増産から大幅転換”指摘 なぜ？
+https://news.web.nhk/newsweb/na/na-k10015012361000
+
+[2025-12-24 19:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapzbj6p6q2b)
+
+---
+
+@japan.reuters.com
+
+東京電力ホールディングスの小早川智明社長は２４日、柏崎刈羽原子力発電所（新潟県）６号機の再稼働に向けて「使用前確認申請」を原子力規制委員会に提出したと明らかにし、来年１月２０日に原子炉を起動すると発表した。 bit.ly/4p8t5rq
+
+[2025-12-24 19:05:12](https://bsky.app/profile/japan.reuters.com/post/3mapz7weht72q)
 
 ---
 
 @reuters.com
 
-LIVE: Site of Libyan army chief plane crash
-www.youtube.com/live/sLBA7wF...
+FTSE 100 ticks lower in shortened Christmas Eve session reut.rs/3Nfuf7f
 
-[2025-12-24 18:47:49](https://bsky.app/profile/reuters.com/post/3mapyau2amc27)
+[2025-12-24 19:05:11](https://bsky.app/profile/reuters.com/post/3mapz7viw3p2r)
 
 ---
 
 @wsj.com
 
-Disney’s first-ever chief brand officer, Asad Ayaz, is Bob Iger’s pick to depoliticize America’s best-known entertainment company.
+China is taking extraordinary steps to keep AI under control as it worries about threats to Communist Party rule.
 
-[2025-12-24 18:46:48](https://bsky.app/profile/wsj.com/post/3mapy6zx7ci2s)
+[2025-12-24 19:02:27](https://bsky.app/profile/wsj.com/post/3mapz2zhu3o2c)
 
 ---
 
-@nikkei.com
+@japan.reuters.com
 
-中国の漫画イベントで日本排除　香港紙、日中関係悪化が影響か
-www.nikkei.com/article/DGXZQO...
+内閣府は２４日、２０２６年度予算案などの前提となる政府経済見通しを公表した。２５年度の実質国内総生産（ＧＤＰ）成長率の見通しを８月の「年央試算」で示した０．７％から１．１％に、２６年度についても０．９％から１．３％にそれぞれ上方修正した。物価高対策などの政策効果により、内需が経済成長をけん引する姿を描く。 bit.ly/4pPr4ld
 
-浙江省杭州で12月27〜28日に開催予定の中国最大級の漫画イベント「COMICUP」で、日本関連作品の展示が禁止されました。
-
-通知文では日本関連の出品を禁止すると明言していませんが、日本アニメなどを題材にした数十の出展者が、ブースをキャンセルされたとSNSで明かしました。
-
-[2025-12-24 18:46:40](https://bsky.app/profile/nikkei.com/post/3mapy6rrg2g2f)
+[2025-12-24 19:02:20](https://bsky.app/profile/japan.reuters.com/post/3mapz2srkdb27)
 
 ---
 
@@ -116,34 +119,26 @@ www.nikkei.com/article/DGXZQO...
 
 🛎️FNNより【速報】です。
 
-【速報】京都府立高校の男性職員 宿泊先で女子生徒の胸を触り懲戒免職 京都府教委
-(2025-12-24 18:34) #ニュース
+【速報】JR福北ゆたか線 博多～篠栗間で運転見合わせ 踏切事故のため JR九州 福岡
+(2025-12-24 18:50) #ニュース
 
-[2025-12-24 18:46:28](https://bsky.app/profile/sokuho.news/post/3mapy6gqqdo2v)
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
 
----
-
-@en.afp.com
-
-🇺🇦 🇷🇺 🇺🇸 Ukraine has won some concessions in the latest version of a US-led draft plan to end the Russian invasion, revealed by President Volodymyr Zelensky, though key questions remain over territory and whether Moscow could accept the new terms ➡️ u.afp.com/S8Qo
-
-[2025-12-24 18:46:15](https://bsky.app/profile/en.afp.com/post/3mapy62ffi52y)
+[2025-12-24 19:02:17](https://bsky.app/profile/sokuho.news/post/3mapz2ple5k27)
 
 ---
 
-@apnews.com
+@nikkei.com
 
-United States and Ukraine have reached a consensus on several critical issues aimed at bringing an end to the conflict, but sensitive issues around territorial control in Ukraine’s eastern industrial heartland, remain unresolved, Ukraine’s president said.
+サンタさんについて、子どもとどんな話をしてますか？
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-24 18:45:37](https://bsky.app/profile/apnews.com/post/3mapy4vpngi26)
+「サンタさんは1人なんでしょ？」「ねぇ、サンタさんって本当は親なんじゃない？」……
 
----
+毎年クリスマスの時期になると、子供たちとサンタさんの真相についての熱い議論を繰り広げるという批評家・北村匡平さんのエッセーです。
 
-@reuters.com
-
-How Israel's hilltop settlers coordinate attacks to expel Palestinians reut.rs/4jguWcD
-
-[2025-12-24 18:45:11](https://bsky.app/profile/reuters.com/post/3mapy456t7q2i)
+[2025-12-24 19:01:05](https://bsky.app/profile/nikkei.com/post/3mapyylicbr2m)
 
 ---
 
