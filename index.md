@@ -1,9 +1,9 @@
-# [2025-12-24 21:52 updated](2025_12_24.md)
+# [2025-12-24 22:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">トルコ政府関係者は２４日、リビア軍のハダッド参謀総長らが搭乗していたプライベートジェット機が２３日に墜落し、ハダッド氏を含む８人全員が死亡したことについて、機体が消息を絶つ直前に電気系統の故障を報告し、緊急着陸を要請していたことを明らかにした。 bit.ly/3MT5gqi <a href="https://bsky.app/profile/japan.reuters.com/post/3maqc64ly5p2q" target="_blank">japan.reuters.com</a> (2025-12-24 21:45:15)</span><span style="padding-right:50px;">Stonepeak, CPPIB look to buy Castrol India shares at premium following BP deal reut.rs/4aP8V2z <a href="https://bsky.app/profile/reuters.com/post/3maqc5zffwm2r" target="_blank">reuters.com</a> (2025-12-24 21:45:11)</span><span style="padding-right:50px;">Clever layers of colour, pattern, scent and texture are the recipe for a tablescape that goes to town without becoming a hot mess: ft.trib.al/2GXtZUr <a href="https://bsky.app/profile/financialtimes.com/post/3maqc42avjh24" target="_blank">financialtimes.com</a> (2025-12-24 21:44:05)</span><span style="padding-right:50px;">Zelenskyy open to demilitarised zone if Russia pulls back ft.trib.al/YTxKgu5 <a href="https://bsky.app/profile/financialtimes.com/post/3maqc3uufje2k" target="_blank">financialtimes.com</a> (2025-12-24 21:44:00)</span><span style="padding-right:50px;">Stocks making the biggest moves premarket: Nike, Dynavax Technologies, UiPath & more <a href="https://bsky.app/profile/cnbc.com/post/3maqbztwgg72i" target="_blank">cnbc.com</a> (2025-12-24 21:42:51)</span>
+<span style="padding-right:50px;">The Atlantic hurricane season produced a normal number of storms, compared to more frequent storms in recent years. But the storms that did form were huge. n.pr/3Lh3wGU <a href="https://bsky.app/profile/npr.org/post/3maqdhyexwg2y" target="_blank">npr.org</a> (2025-12-24 22:08:40)</span><span style="padding-right:50px;">Gold tops $4,500 as metals stand out as trade of the year: 'Investors are just getting smarter' <a href="https://bsky.app/profile/yahoofinance.com/post/3maqddgqr4d2s" target="_blank">yahoofinance.com</a> (2025-12-24 22:06:07)</span><span style="padding-right:50px;">Southeastern Taiwan shaken by 6.1 magnitude quake, no immediate reports of damage reut.rs/4qp7dsT <a href="https://bsky.app/profile/reuters.com/post/3maqdbtzzqx2x" target="_blank">reuters.com</a> (2025-12-24 22:05:14)</span><span style="padding-right:50px;">The actress, who stars in Vince Gilligan’s record-breaking Apple TV sci-fi series, discusses fan theories, the show’s exploration of consent and “The Golden Girls.” on.wsj.com/44J8eDV <a href="https://bsky.app/profile/wsj.com/post/3maqd6umngl2c" target="_blank">wsj.com</a> (2025-12-24 22:03:33)</span><span style="padding-right:50px;">Some businesses pay thousands of dollars to sell at holiday markets across the U.S. They can bring in more sales at those markets than they do the rest of the year.  <a href="https://bsky.app/profile/cnbc.com/post/3maqd5t5a3s24" target="_blank">cnbc.com</a> (2025-12-24 22:02:59)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.97 (🔻0.21 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 156.01 (🔻0.17 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -30,85 +30,104 @@
 
 ---
 
-@japan.reuters.com
+## News Headlines
 
-トルコ政府関係者は２４日、リビア軍のハダッド参謀総長らが搭乗していたプライベートジェット機が２３日に墜落し、ハダッド氏を含む８人全員が死亡したことについて、機体が消息を絶つ直前に電気系統の故障を報告し、緊急着陸を要請していたことを明らかにした。 bit.ly/3MT5gqi
+- Atlantic hurricane season sees normal number of storms, but huge ones form
+- Gold price tops $4,500 as metals stand out as trade of the year
+- Taiwan hit by 6.1 magnitude earthquake, no immediate reports of damage
+- Ukraine and Russia consider demilitarized zones as part of peace plan
+- US auto safety agency probes Tesla Model 3 emergency door release
+- Treasury official says Fed can cut rates next year despite strong growth
 
-[2025-12-24 21:45:15](https://bsky.app/profile/japan.reuters.com/post/3maqc64ly5p2q)
 
----
-
-@reuters.com
-
-Stonepeak, CPPIB look to buy Castrol India shares at premium following BP deal reut.rs/4aP8V2z
-
-[2025-12-24 21:45:11](https://bsky.app/profile/reuters.com/post/3maqc5zffwm2r)
-
----
-
-@financialtimes.com
-
-Clever layers of colour, pattern, scent and texture are the recipe for a tablescape that goes to town without becoming a hot mess: ft.trib.al/2GXtZUr
-
-[2025-12-24 21:44:05](https://bsky.app/profile/financialtimes.com/post/3maqc42avjh24)
-
----
-
-@financialtimes.com
-
-Zelenskyy open to demilitarised zone if Russia pulls back ft.trib.al/YTxKgu5
-
-[2025-12-24 21:44:00](https://bsky.app/profile/financialtimes.com/post/3maqc3uufje2k)
-
----
-
-@cnbc.com
-
-Stocks making the biggest moves premarket: Nike, Dynavax Technologies, UiPath & more
-
-[2025-12-24 21:42:51](https://bsky.app/profile/cnbc.com/post/3maqbztwgg72i)
-
----
-
-@reuters.com
-
-French President Macron slams U.S. visa ban on Thierry Breton and others reut.rs/3KYg85N
-
-[2025-12-24 21:40:28](https://bsky.app/profile/reuters.com/post/3maqbvl3sss2o)
-
----
-
-@nytimes.com
-
-President Volodymyr Zelensky of Ukraine has unveiled a revised draft peace plan, developed with the U.S., portraying it as Kyiv’s best effort to end the war with Russia.
-
-Here’s what we know about the 20 points.
-
-[2025-12-24 21:40:05](https://bsky.app/profile/nytimes.com/post/3maqbuvjuc72r)
-
----
+----
 
 @npr.org
 
-Mail theft can happen around the holidays, but sometimes, instead of getting a new iPad, the thief swipes a mail order medicine. Here's what to do about it. n.pr/4b6shQD
+The Atlantic hurricane season produced a normal number of storms, compared to more frequent storms in recent years. But the storms that did form were huge. n.pr/3Lh3wGU
 
-[2025-12-24 21:38:19](https://bsky.app/profile/npr.org/post/3maqbrqjr4q2g)
+[2025-12-24 22:08:40](https://bsky.app/profile/npr.org/post/3maqdhyexwg2y)
 
 ---
 
 @yahoofinance.com
 
-Treasury official: The Fed can cut rates next year, even in the face of strong growth
+Gold tops $4,500 as metals stand out as trade of the year: 'Investors are just getting smarter'
 
-[2025-12-24 21:36:07](https://bsky.app/profile/yahoofinance.com/post/3maqbnrqztt2v)
+[2025-12-24 22:06:07](https://bsky.app/profile/yahoofinance.com/post/3maqddgqr4d2s)
+
+---
+
+@reuters.com
+
+Southeastern Taiwan shaken by 6.1 magnitude quake, no immediate reports of damage reut.rs/4qp7dsT
+
+[2025-12-24 22:05:14](https://bsky.app/profile/reuters.com/post/3maqdbtzzqx2x)
 
 ---
 
 @wsj.com
 
-With more actors, pop stars and other celebrities spotted unapologetically smoking, the cultural taboo against it shows signs of ebbing. That worries antismoking advocates. 🔗 on.wsj.com/49om2X4
+The actress, who stars in Vince Gilligan’s record-breaking Apple TV sci-fi series, discusses fan theories, the show’s exploration of consent and “The Golden Girls.” on.wsj.com/44J8eDV
 
-[2025-12-24 21:35:34](https://bsky.app/profile/wsj.com/post/3maqbmsy6ux2o)
+[2025-12-24 22:03:33](https://bsky.app/profile/wsj.com/post/3maqd6umngl2c)
+
+---
+
+@cnbc.com
+
+Some businesses pay thousands of dollars to sell at holiday markets across the U.S. They can bring in more sales at those markets than they do the rest of the year. 
+
+[2025-12-24 22:02:59](https://bsky.app/profile/cnbc.com/post/3maqd5t5a3s24)
+
+---
+
+@reuters.com
+
+Amanda Seyfried learns about Shaker founder for film ‘The Testament of Ann Lee’ reut.rs/4qh9RAU
+
+[2025-12-24 22:01:01](https://bsky.app/profile/reuters.com/post/3maqd2d7sbw2y)
+
+---
+
+@nikkei.com
+
+ゼレンスキー氏、20項目の和平案を公表　領土めぐり米国と溝
+www.nikkei.com/article/DGXZQO...
+
+焦点となるウクライナ東部ドネツク州をめぐる領土問題と南部ザポリージャ原子力発電所の運営権について、アメリカと立場の相違があると述べました。
+
+ロシア軍がウクライナ支配下のドネツク州から兵を引くことを受け入れれば、ウクライナ軍も撤退に応じる用意があるとの考えも示しました。
+
+#ニュース
+
+[2025-12-24 22:00:50](https://bsky.app/profile/nikkei.com/post/3maqczymfnj22)
+
+---
+
+@usatoday.com
+
+The Reiners' death certificates, obtained by USA TODAY on Dec. 23, confirm the couple was cremated on Friday, Dec. 19 and offers more tragic details.
+
+[2025-12-24 22:00:38](https://bsky.app/profile/usatoday.com/post/3maqczmpmnf2g)
+
+---
+
+@washingtonpost.com
+
+Many fireplace lovers assume burning wood for warmth is climate-friendly.
+
+But wood emits 2.5 times as much CO₂ than natural gas and 30 percent more than coal when burned for heat, according to some scientists. https://wapo.st/3YJjlt0
+
+[2025-12-24 22:00:31](https://bsky.app/profile/washingtonpost.com/post/3maqczgghqp2x)
+
+---
+
+@bloomberg.com
+
+“I want my inheritance now.” From forced property transfers to drained pensions, older people are increasingly losing their life savings to family members.
+
+[2025-12-24 22:00:22](https://bsky.app/profile/bloomberg.com/post/3maqcz5kgmi2e)
 
 ---
 
