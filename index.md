@@ -1,9 +1,9 @@
-# [2025-12-24 13:50 updated](2025_12_24.md)
+# [2025-12-24 14:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">No one is cashing in on America’s craze for dumplings more than Din Tai Fung, a Taiwanese restaurant group on.wsj.com/4qmAHHX <a href="https://bsky.app/profile/wsj.com/post/3maphkquyt72u" target="_blank">wsj.com</a> (2025-12-24 13:49:07)</span><span style="padding-right:50px;">高額療養費制度 月当たり負担上限額 所得に応じ引き上げへ https://news.web.nhk/newsweb/na/na-k10015012421000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maphdizga32m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 13:45:02)</span><span style="padding-right:50px;">欧州自動車工業会（ＡＣＥＡ）が２３日発表した１１月の欧州新車販売台数（乗用車）は、前年同月を上回り５カ月連続のプラスとなった。ドイツ、イタリア、スペインなどの市場で電気自動車（ＥＶ）の販売が増加した。 bit.ly/4p697h1 <a href="https://bsky.app/profile/japan.reuters.com/post/3maphdbxutv26" target="_blank">japan.reuters.com</a> (2025-12-24 13:44:57)</span><span style="padding-right:50px;">Brooks Koepka parts ways with LIV Golf reut.rs/4pSYbEI <a href="https://bsky.app/profile/reuters.com/post/3maph2u6b6r2y" target="_blank">reuters.com</a> (2025-12-24 13:40:14)</span><span style="padding-right:50px;">米メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）買収戦で、パラマウント・スカイダンス側がデービッド・エリソン最高経営責任者（ＣＥＯ）の父親でオラクル会長のラリー・エリソン氏による保証を提案したことについて、ＷＢＤの主要株主が十分でないとの見解を２２日にロイターに示した。 bit.ly/48UxlpX <a href="https://bsky.app/profile/japan.reuters.com/post/3maph2sqmpw22" target="_blank">japan.reuters.com</a> (2025-12-24 13:40:13)</span>
+<span style="padding-right:50px;">米プロバスケットボール協会（ＮＢＡ）は２３日、各地で試合を行い、八村塁が所属するレーカーズはサンズに１０８─１３２で敗れた。 bit.ly/4aqP6OJ <a href="https://bsky.app/profile/japan.reuters.com/post/3mapiovc5gv26" target="_blank">japan.reuters.com</a> (2025-12-24 14:09:20)</span><span style="padding-right:50px;">The Trump administration will begin garnishing wages of student loan borrowers in default starting in January, the Education Department told CNN. https://cnn.it/3MSjMyz <a href="https://bsky.app/profile/cnn.com/post/3mapiodzhfi23" target="_blank">cnn.com</a> (2025-12-24 14:09:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】近鉄京都線の一部区間で運転見合わせ 寺田～富野荘駅間の踏切で人身事故 (2025-12-24 14:07:09) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mapilidabe2r" target="_blank">sokuho.news</a> (2025-12-24 14:07:26)</span><span style="padding-right:50px;">メキシコ海軍の小型航空機が米テキサス州沖合で２２日に墜落し、熱湯で重度のやけどを負っていた２歳児を含む少なくとも６人が死亡した。人道任務としてこの子どもを米国の病院へ移送する途中だった。 bit.ly/49oDuuy <a href="https://bsky.app/profile/japan.reuters.com/post/3mapihdma3n26" target="_blank">japan.reuters.com</a> (2025-12-24 14:05:07)</span><span style="padding-right:50px;"> No, you can’t tell when something was written by AI ft.trib.al/Y24xLvj  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mapienwxa625" target="_blank">financialtimes.com</a> (2025-12-24 14:03:37)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50429.52 (🔻45.96 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3376.00 (🔻42.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔻0.35 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50381.17 (🔻94.31 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3368.00 (🔻50.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.79 (🔻0.38 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,94 +32,104 @@
 
 ## News Headlines
 
-- Din Tai Fung Leads Dumpling Boom in the US
-- Japan's Corporate Service Price Index Rises 2.7% in November
-- European Car Sales See Fifth Consecutive Month of Growth
-- Warner Bros. Discovery Shareholders Raise Concerns Over David Ellison's Guarantee
-- Chinese Yuan Surges to 1-Year High Against US Dollar
-- Legendary Japanese Golfer Masashi Ozaki Dies at 78
+- NBPA: NBA games held across the country, Lakers lose to Suns 108-132
+- US to start garnishing wages of student loan borrowers in default in January
+- Train service suspended on part of Kintetsu Kyoto Line due to pedestrian accident
+- Mexican naval aircraft crashes in Texas, at least 6 dead including 2-year-old child
+- Russian-Ukrainian conflict: Situation on December 24
+- Stock prices rise on Shanghai and Hong Kong exchanges on Christmas holiday eve
 
 
 ----
 
-@wsj.com
+@japan.reuters.com
 
-No one is cashing in on America’s craze for dumplings more than Din Tai Fung, a Taiwanese restaurant group on.wsj.com/4qmAHHX
+米プロバスケットボール協会（ＮＢＡ）は２３日、各地で試合を行い、八村塁が所属するレーカーズはサンズに１０８─１３２で敗れた。 bit.ly/4aqP6OJ
 
-[2025-12-24 13:49:07](https://bsky.app/profile/wsj.com/post/3maphkquyt72u)
+[2025-12-24 14:09:20](https://bsky.app/profile/japan.reuters.com/post/3mapiovc5gv26)
+
+---
+
+@cnn.com
+
+The Trump administration will begin garnishing wages of student loan borrowers in default starting in January, the Education Department told CNN. https://cnn.it/3MSjMyz
+
+[2025-12-24 14:09:02](https://bsky.app/profile/cnn.com/post/3mapiodzhfi23)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】近鉄京都線の一部区間で運転見合わせ 寺田～富野荘駅間の踏切で人身事故
+(2025-12-24 14:07:09) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-24 14:07:26](https://bsky.app/profile/sokuho.news/post/3mapilidabe2r)
+
+---
+
+@japan.reuters.com
+
+メキシコ海軍の小型航空機が米テキサス州沖合で２２日に墜落し、熱湯で重度のやけどを負っていた２歳児を含む少なくとも６人が死亡した。人道任務としてこの子どもを米国の病院へ移送する途中だった。 bit.ly/49oDuuy
+
+[2025-12-24 14:05:07](https://bsky.app/profile/japan.reuters.com/post/3mapihdma3n26)
+
+---
+
+@financialtimes.com
+
+ No, you can’t tell when something was written by AI ft.trib.al/Y24xLvj  | opinion
+
+[2025-12-24 14:03:37](https://bsky.app/profile/financialtimes.com/post/3mapienwxa625)
+
+---
+
+@financialtimes.com
+
+ Subscription overload is exhausting Americans ft.trib.al/D1UWYHZ  | opinion
+
+[2025-12-24 14:03:37](https://bsky.app/profile/financialtimes.com/post/3mapienv3jk2k)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-高額療養費制度 月当たり負担上限額 所得に応じ引き上げへ
-https://news.web.nhk/newsweb/na/na-k10015012421000
+【随時更新】ロシア ウクライナに軍事侵攻（12月24日の動き）
+https://news.web.nhk/newsweb/na/na-k10014990711000
 
-[2025-12-24 13:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maphdizga32m)
-
----
-
-@japan.reuters.com
-
-欧州自動車工業会（ＡＣＥＡ）が２３日発表した１１月の欧州新車販売台数（乗用車）は、前年同月を上回り５カ月連続のプラスとなった。ドイツ、イタリア、スペインなどの市場で電気自動車（ＥＶ）の販売が増加した。 bit.ly/4p697h1
-
-[2025-12-24 13:44:57](https://bsky.app/profile/japan.reuters.com/post/3maphdbxutv26)
-
----
-
-@reuters.com
-
-Brooks Koepka parts ways with LIV Golf reut.rs/4pSYbEI
-
-[2025-12-24 13:40:14](https://bsky.app/profile/reuters.com/post/3maph2u6b6r2y)
+[2025-12-24 14:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapidpj3mu2d)
 
 ---
 
 @japan.reuters.com
 
-米メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）買収戦で、パラマウント・スカイダンス側がデービッド・エリソン最高経営責任者（ＣＥＯ）の父親でオラクル会長のラリー・エリソン氏による保証を提案したことについて、ＷＢＤの主要株主が十分でないとの見解を２２日にロイターに示した。 bit.ly/48UxlpX
+午前の中国株式市場では上海総合指数が小幅に上昇し、６営業日続伸した。一方、香港株式市場はクリスマス休暇を控えた薄商いの中、堅調な域内市場の動きに伴って上昇した。 bit.ly/4j8WHUm
 
-[2025-12-24 13:40:13](https://bsky.app/profile/japan.reuters.com/post/3maph2sqmpw22)
-
----
-
-@japan.reuters.com
-
-上海外国為替市場の人民元相場は、対米ドルで１年３カ月ぶりの高値に上昇した。中国人民銀行が基準値（中間値）を１年３カ月ぶりの元高水準に設定したことや年末の需要増が支えになった。 bit.ly/4jmIkvN
-
-[2025-12-24 13:38:31](https://bsky.app/profile/japan.reuters.com/post/3mapgxrz3pu2s)
+[2025-12-24 14:02:52](https://bsky.app/profile/japan.reuters.com/post/3mapidcmnzp2p)
 
 ---
 
-@apnews.com
+@washingtonpost.com
 
-Masashi “Jumbo” Ozaki, whose 113 worldwide victories were the most of any player from Japan, has died of colon cancer, the Japan Golf Tour said. He was 78.
+Many health influencers recommend amounts of protein that are excessive, says Stuart Phillips, a professor of kinesiology and a leading expert on protein.
 
-[2025-12-24 13:35:15](https://bsky.app/profile/apnews.com/post/3mapgrx3wbl2q)
+Here’s a typical menu for him: https://wapo.st/490F9VZ
 
----
-
-@japan.reuters.com
-
-日銀が２４日に公表した１１月の企業向けサービス価格指数速報は前年比で２．７％上昇した。外航貨物輸送が押し上げに寄与した一方、宿泊サービスなどが押し下げ方向に影響し、伸び率は前月から横ばいとなった。前月比では０．４％上昇した。 bit.ly/4pZlDjY
-
-[2025-12-24 13:35:09](https://bsky.app/profile/japan.reuters.com/post/3mapgrr5qoo22)
+[2025-12-24 14:01:01](https://bsky.app/profile/washingtonpost.com/post/3mapi7zcpec2g)
 
 ---
 
-@japan.reuters.com
+@cnbc.com
 
-２４日のベトナム株式市場は上昇して始まった。同国共産党の次期指導部の候補者選定に安心感が広がった。 bit.ly/4q0z5Eg
+Many recent grads and other entry-level workers are struggling to find work. 
 
-[2025-12-24 13:33:05](https://bsky.app/profile/japan.reuters.com/post/3mapgo2k7y42n)
+LinkedIn predicts this will be "the top destination for young jobseekers in 2026."
 
----
-
-@reuters.com
-
-Cubs reach deal with reliever Jacob Webb reut.rs/49h253s
-
-[2025-12-24 13:30:42](https://bsky.app/profile/reuters.com/post/3mapgjsgsgq2x)
+[2025-12-24 14:00:54](https://bsky.app/profile/cnbc.com/post/3mapi7sq45p2b)
 
 ---
 
