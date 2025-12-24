@@ -1,9 +1,9 @@
-# [2025-12-25 01:10 updated](2025_12_25.md)
+# [2025-12-25 01:30 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ウクライナのゼレンスキー大統領は、ロシアのウクライナ侵攻終結に向けた米・ウクライナ高官協議を受けて和平案がまとまりつつあるとし、領土など繊細な問題に関してトランプ米大統領と会談したい意向を表明した。大統領府が２４日、記者団に明らかにした。 bit.ly/4jbYech <a href="https://bsky.app/profile/japan.reuters.com/post/3maqnjwbmdk2v" target="_blank">japan.reuters.com</a> (2025-12-25 01:08:42)</span><span style="padding-right:50px;">Before the lights go down at "Liberation" on Broadway, the audience is talking. <a href="https://bsky.app/profile/apnews.com/post/3maqn4h322e23" target="_blank">apnews.com</a> (2025-12-25 01:01:10)</span><span style="padding-right:50px;">"Data this week showed that the American economy is growing at its fastest pace in two years — and yet polling shows the mood on Main Street is grim," Elisabeth Buchwald and Matt Egan write | Analysis https://cnn.it/49qeao2 <a href="https://bsky.app/profile/cnn.com/post/3maqn3j4puv2v" target="_blank">cnn.com</a> (2025-12-25 01:00:38)</span><span style="padding-right:50px;">For the first time in three years, the Gaza Strip’s tiny Christian community is celebrating Christmas without the immediate threat of war, lighting up trees and passing out sweets. <a href="https://bsky.app/profile/washingtonpost.com/post/3maqn3ixz4423" target="_blank">washingtonpost.com</a> (2025-12-25 01:00:38)</span><span style="padding-right:50px;">What is FICA? Why federal taxes are taken out of your pay. <a href="https://bsky.app/profile/usatoday.com/post/3maqn3fwxv52o" target="_blank">usatoday.com</a> (2025-12-25 01:00:35)</span>
+<span style="padding-right:50px;">The Trump administration says it wants details on America’s voters to ensure election integrity. Democrats and some Republicans question how the information will be used. <a href="https://bsky.app/profile/wsj.com/post/3maqonf5pth2u" target="_blank">wsj.com</a> (2025-12-25 01:28:32)</span><span style="padding-right:50px;">Also in theaters this week, Jack Black and Paul Rudd star in a meta reimagining of Anaconda, Amanda Seyfried in a Shaker origin story, and Ralph Fiennes plays a World War I-era choirmaster. n.pr/4je9ips <a href="https://bsky.app/profile/npr.org/post/3maqondmitm2i" target="_blank">npr.org</a> (2025-12-25 01:28:30)</span><span style="padding-right:50px;">Lululemon’s shares could be poised for upside. How to capitalize on it using options <a href="https://bsky.app/profile/cnbc.com/post/3maqok4jbtk2e" target="_blank">cnbc.com</a> (2025-12-25 01:26:42)</span><span style="padding-right:50px;">G Henry Byrd lands 2-year extension reut.rs/4jiRhX8 <a href="https://bsky.app/profile/reuters.com/post/3maqohcjisf2i" target="_blank">reuters.com</a> (2025-12-25 01:25:08)</span><span style="padding-right:50px;">Keep an eye on these ‘fallen angels’ in tech as the new year approaches, Goldman traders say <a href="https://bsky.app/profile/cnbc.com/post/3maqog4fnn72n" target="_blank">cnbc.com</a> (2025-12-25 01:24:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48651.29 (🔺226.58 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23578.75 (🔺22.81 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 187.57 (🔻0.35 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔻0.35 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48685.61 (🔺260.90 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23592.20 (🔺36.25 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 187.95 (🔺0.03 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔻0.29 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,93 +32,94 @@
 
 ## News Headlines
 
-- Ukraine President Zelensky Confirms Peace Plan Progress, Meets with Trump on Disputed Territory
-- US Economy Grows at Fastest Pace in Two Years, But Main Street Mood Remains Grim
-- Gaza's Tiny Christian Community Celebrates Christmas Without Immediate Threat of War
-- FICA Explained: Why Federal Taxes Are Taken Out of Your Pay
-- Indonesia's President Aims to Transform Country, But Investors Remain Unconvinced
+- US to Replace Lottery System for H-1B Work Visas with New Approach
 - US Coast Guard Awaits Additional Forces to Board Venezuela-Linked Oil Tanker
+- US Senators Urge Trump to Reverse Recall of Nearly 30 Career Ambassadors
+- Trump Administration Wants Details on US Voters to Ensure Election Integrity
+- Bucs Open 21-Day Window for DT Calijah Kancey
+- US and Ukraine Officials Near Deal to End War with Russia
 
 
 ----
 
-@japan.reuters.com
+@wsj.com
 
-ウクライナのゼレンスキー大統領は、ロシアのウクライナ侵攻終結に向けた米・ウクライナ高官協議を受けて和平案がまとまりつつあるとし、領土など繊細な問題に関してトランプ米大統領と会談したい意向を表明した。大統領府が２４日、記者団に明らかにした。 bit.ly/4jbYech
+The Trump administration says it wants details on America’s voters to ensure election integrity. Democrats and some Republicans question how the information will be used.
 
-[2025-12-25 01:08:42](https://bsky.app/profile/japan.reuters.com/post/3maqnjwbmdk2v)
-
----
-
-@apnews.com
-
-Before the lights go down at "Liberation" on Broadway, the audience is talking.
-
-[2025-12-25 01:01:10](https://bsky.app/profile/apnews.com/post/3maqn4h322e23)
+[2025-12-25 01:28:32](https://bsky.app/profile/wsj.com/post/3maqonf5pth2u)
 
 ---
 
-@cnn.com
+@npr.org
 
-"Data this week showed that the American economy is growing at its fastest pace in two years — and yet polling shows the mood on Main Street is grim," Elisabeth Buchwald and Matt Egan write | Analysis https://cnn.it/49qeao2
+Also in theaters this week, Jack Black and Paul Rudd star in a meta reimagining of Anaconda, Amanda Seyfried in a Shaker origin story, and Ralph Fiennes plays a World War I-era choirmaster. n.pr/4je9ips
 
-[2025-12-25 01:00:38](https://bsky.app/profile/cnn.com/post/3maqn3j4puv2v)
-
----
-
-@washingtonpost.com
-
-For the first time in three years, the Gaza Strip’s tiny Christian community is celebrating Christmas without the immediate threat of war, lighting up trees and passing out sweets.
-
-[2025-12-25 01:00:38](https://bsky.app/profile/washingtonpost.com/post/3maqn3ixz4423)
+[2025-12-25 01:28:30](https://bsky.app/profile/npr.org/post/3maqondmitm2i)
 
 ---
 
-@usatoday.com
+@cnbc.com
 
-What is FICA? Why federal taxes are taken out of your pay.
+Lululemon’s shares could be poised for upside. How to capitalize on it using options
 
-[2025-12-25 01:00:35](https://bsky.app/profile/usatoday.com/post/3maqn3fwxv52o)
+[2025-12-25 01:26:42](https://bsky.app/profile/cnbc.com/post/3maqok4jbtk2e)
 
 ---
 
 @reuters.com
 
-Nuggets F Cameron Johnson (knee) to undergo MRI reut.rs/494iFDj
+G Henry Byrd lands 2-year extension reut.rs/4jiRhX8
 
-[2025-12-25 01:00:30](https://bsky.app/profile/reuters.com/post/3maqn3biqze24)
-
----
-
-@bloomberg.com
-
-Indonesia’s president aims to transform the country with big policy swings in a bid to establish his legacy. Investors aren’t convinced they’ll work. (from the archive)
-
-[2025-12-25 01:00:26](https://bsky.app/profile/bloomberg.com/post/3maqn35gl7b23)
+[2025-12-25 01:25:08](https://bsky.app/profile/reuters.com/post/3maqohcjisf2i)
 
 ---
 
-@nbcnews.com
+@cnbc.com
 
-Intense downpours that could trigger dangerous flood threats in California are putting a damper on Christmas Eve travel plans, while the New England area braces for heavy snow.
+Keep an eye on these ‘fallen angels’ in tech as the new year approaches, Goldman traders say
 
-[2025-12-25 01:00:07](https://bsky.app/profile/nbcnews.com/post/3maqn2lltol2p)
-
----
-
-@aljazeera.com
-
-Four Palestine Action hunger strikers vow to continue as two pause protest https://aje.io/cfew6x
-
-[2025-12-25 01:00:05](https://bsky.app/profile/aljazeera.com/post/3maqn2jtktj2v)
+[2025-12-25 01:24:28](https://bsky.app/profile/cnbc.com/post/3maqog4fnn72n)
 
 ---
 
-@cbsnews.com
+@japan.reuters.com
 
-The Department of Homeland Security says it's replacing its longstanding lottery system for H-1B work visas with an approach that prioritizes skilled, higher-paid foreign workers.
+２４─２６日のユーロ圏金融・債券市場は、複数の市場がクリスマスで休場のため休信します。 bit.ly/4jcO3Ec
 
-[2025-12-25 01:00:01](https://bsky.app/profile/cbsnews.com/post/3maqn2fc6mh2g)
+[2025-12-25 01:20:59](https://bsky.app/profile/japan.reuters.com/post/3maqo7uslzk2q)
+
+---
+
+@japan.reuters.com
+
+イスラエルのネタニヤフ首相は２４日、パレスチナ自治区ガザ南部のラファでイスラエル軍の車両が爆発物による攻撃を受けたとして、イスラム組織ハマスが停戦合意に違反したと非難し、報復を表明した。 bit.ly/4pgSKhT
+
+[2025-12-25 01:18:50](https://bsky.app/profile/japan.reuters.com/post/3maqo3zsulc2v)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+タイ国籍少女の母親を人身取引などの疑いで逮捕 容疑を否認
+https://news.web.nhk/newsweb/na/na-k10015013101000
+
+[2025-12-25 01:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maqo2nzhbd2b)
+
+---
+
+@reuters.com
+
+Bucs open 21-day window for DT Calijah Kancey reut.rs/4984ygp
+
+[2025-12-25 01:15:14](https://bsky.app/profile/reuters.com/post/3maqnvm7oug2y)
+
+---
+
+@japan.reuters.com
+
+タイとカンボジアの国境地帯で発生した両国軍の衝突を巡り、両軍当局は２４日、停戦協議を開始したと発表した。両国は数日前、停戦再開について協議することで合意していた。 bit.ly/4pfd830
+
+[2025-12-25 01:14:13](https://bsky.app/profile/japan.reuters.com/post/3maqntrksmk2f)
 
 ---
 
