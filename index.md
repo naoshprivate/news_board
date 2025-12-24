@@ -1,9 +1,9 @@
-# [2025-12-24 09:30 updated](2025_12_24.md)
+# [2025-12-24 09:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Exclusive: On New York’s Shelter Island, a Modernist home designed by late architect Norman Jaffe is hitting the market following a two-year renovation. The $17.995 million home is the most expensive for sale on the island. <a href="https://bsky.app/profile/wsj.com/post/3maoyzc52cd2s" target="_blank">wsj.com</a> (2025-12-24 09:28:49)</span><span style="padding-right:50px;">At least two people died in a gas explosion at a nursing home outside of Philadelphia where residents were trapped, authorities say. <a href="https://bsky.app/profile/apnews.com/post/3maoyz3m2pf25" target="_blank">apnews.com</a> (2025-12-24 09:28:43)</span><span style="padding-right:50px;">＊この記事は見出しのみの速報です。 bit.ly/49dx4NK <a href="https://bsky.app/profile/japan.reuters.com/post/3maoyukodja2q" target="_blank">japan.reuters.com</a> (2025-12-24 09:26:11)</span><span style="padding-right:50px;">Apple to allow third-party app stores in Brazil to settle iOS case with regulator reut.rs/3MPkBs0 <a href="https://bsky.app/profile/reuters.com/post/3maoysrrsbm24" target="_blank">reuters.com</a> (2025-12-24 09:25:11)</span><span style="padding-right:50px;">カナダ銀行（中央銀行）が２３日に公表した１２月１０日の政策決定会合の議事要旨で、米国の通商政策の予測が困難になっていることのほか、経済指標が大きく変動していることを背景に、７人の政策委員が中銀の次の一手が利上げになるのか、利下げになるのかを見通すのは難しいとの認識で一致していたことが分かった。 bit.ly/4sdrpQq <a href="https://bsky.app/profile/japan.reuters.com/post/3maoysrekk727" target="_blank">japan.reuters.com</a> (2025-12-24 09:25:10)</span>
+<span style="padding-right:50px;">イスラエルの新興企業の連携組織「スタートアップ・ネーション・セントラル（ＳＮＣ）」が２２日公表した暫定データによると、同国のハイテク企業が２０２５年に私募調達した資金は総額１５６億ドルと、前年の１２２億ドルから増加した。 bit.ly/4paHuDI <a href="https://bsky.app/profile/japan.reuters.com/post/3map22otv5r25" target="_blank">japan.reuters.com</a> (2025-12-24 09:47:30)</span><span style="padding-right:50px;">Investor Louis Bacon wins defamation case against ex-fashion mogul Peter Nygard reut.rs/4pY1vi0 <a href="https://bsky.app/profile/reuters.com/post/3maozwld2lb2s" target="_blank">reuters.com</a> (2025-12-24 09:45:12)</span><span style="padding-right:50px;">Everyone knows walking is good for you, and many of us count our daily steps. But is it better to take a longer walk than a comparable number of steps spread across the day?  A multinational team of researchers set out to find the answer.  Read more: on.wsj.com/4qoIHZ6 <a href="https://bsky.app/profile/wsj.com/post/3maozwgcn7x2h" target="_blank">wsj.com</a> (2025-12-24 09:45:07)</span><span style="padding-right:50px;">Russia and China on Tuesday criticized the United States for its military and economic pressure on Venezuela, telling the UN Security Council it was "cowboy behavior" and "intimidation." u.afp.com/S8Mo <a href="https://bsky.app/profile/en.afp.com/post/3maozwbidvm2h" target="_blank">en.afp.com</a> (2025-12-24 09:45:01)</span><span style="padding-right:50px;">Epstein files takeaways: possible co-conspirators, fake video and Trump trips <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maozvd3o2u2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-24 09:44:29)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50506.07 (🔺30.59 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3398.00 (🔻20.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 156.22 (🔺0.04 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50469.76 (🔻5.72 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3392.00 (🔻26.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 156.12 (🔻0.06 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,95 +32,99 @@
 
 ## News Headlines
 
-- Exclusive: Modernist Home Designed by Norman Jaffe Hits the Market for $17.995 Million
-- At Least Two People Dead in Gas Explosion at Nursing Home Outside of Philadelphia
-- Apple to Allow Third-Party App Stores in Brazil to Settle iOS Case
-- Canada Central Bank Says Interest Rate Hike or Cut Difficult to Predict Due to Uncertainty
-- Stock Market Update: What's Likely to Move the Market in the Next Trading Session
-- Gold Price Breaks $4,500 Per Ounce for First Time Ever
+- Investor Wins Defamation Case Against Ex-Fashion Mogul Peter Nygard
+- Supreme Court Blocks Trump's Plan to Send National Guard to Chicago
+- US Judge Tosses Trump's Challenge to New York Immigration Law
+- Blackstone's LivCor Settles DOJ's Rental Price Fixing Claims
+- Australia to Deport British Man Charged with Displaying Nazi Symbols
+- Apple to Allow Third-Party App Stores in Brazil to Settle iOS Case with Regulator
 
 
 ----
 
-@wsj.com
-
-Exclusive: On New York’s Shelter Island, a Modernist home designed by late architect Norman Jaffe is hitting the market following a two-year renovation. The $17.995 million home is the most expensive for sale on the island.
-
-[2025-12-24 09:28:49](https://bsky.app/profile/wsj.com/post/3maoyzc52cd2s)
-
----
-
-@apnews.com
-
-At least two people died in a gas explosion at a nursing home outside of Philadelphia where residents were trapped, authorities say.
-
-[2025-12-24 09:28:43](https://bsky.app/profile/apnews.com/post/3maoyz3m2pf25)
-
----
-
 @japan.reuters.com
 
-＊この記事は見出しのみの速報です。 bit.ly/49dx4NK
+イスラエルの新興企業の連携組織「スタートアップ・ネーション・セントラル（ＳＮＣ）」が２２日公表した暫定データによると、同国のハイテク企業が２０２５年に私募調達した資金は総額１５６億ドルと、前年の１２２億ドルから増加した。 bit.ly/4paHuDI
 
-[2025-12-24 09:26:11](https://bsky.app/profile/japan.reuters.com/post/3maoyukodja2q)
+[2025-12-24 09:47:30](https://bsky.app/profile/japan.reuters.com/post/3map22otv5r25)
 
 ---
 
 @reuters.com
 
-Apple to allow third-party app stores in Brazil to settle iOS case with regulator reut.rs/3MPkBs0
+Investor Louis Bacon wins defamation case against ex-fashion mogul Peter Nygard reut.rs/4pY1vi0
 
-[2025-12-24 09:25:11](https://bsky.app/profile/reuters.com/post/3maoysrrsbm24)
+[2025-12-24 09:45:12](https://bsky.app/profile/reuters.com/post/3maozwld2lb2s)
+
+---
+
+@wsj.com
+
+Everyone knows walking is good for you, and many of us count our daily steps. But is it better to take a longer walk than a comparable number of steps spread across the day?
+
+A multinational team of researchers set out to find the answer.
+
+Read more: on.wsj.com/4qoIHZ6
+
+[2025-12-24 09:45:07](https://bsky.app/profile/wsj.com/post/3maozwgcn7x2h)
+
+---
+
+@en.afp.com
+
+Russia and China on Tuesday criticized the United States for its military and economic pressure on Venezuela, telling the UN Security Council it was "cowboy behavior" and "intimidation." u.afp.com/S8Mo
+
+[2025-12-24 09:45:01](https://bsky.app/profile/en.afp.com/post/3maozwbidvm2h)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Epstein files takeaways: possible co-conspirators, fake video and Trump trips
+
+[2025-12-24 09:44:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maozvd3o2u2b)
 
 ---
 
 @japan.reuters.com
 
-カナダ銀行（中央銀行）が２３日に公表した１２月１０日の政策決定会合の議事要旨で、米国の通商政策の予測が困難になっていることのほか、経済指標が大きく変動していることを背景に、７人の政策委員が中銀の次の一手が利上げになるのか、利下げになるのかを見通すのは難しいとの認識で一致していたことが分かった。 bit.ly/4sdrpQq
+世界貿易機関（ＷＴＯ）は２３日、中国が太陽光電池や太陽光モジュール、ＩＴ製品を巡ってインドをＷＴＯに提訴したと発表した。 bit.ly/4jdMCFQ
 
-[2025-12-24 09:25:10](https://bsky.app/profile/japan.reuters.com/post/3maoysrekk727)
+[2025-12-24 09:44:08](https://bsky.app/profile/japan.reuters.com/post/3maozuokxsx2n)
+
+---
+
+@axios.com
+
+The Supreme Court today declined to let President Trump send National Guard troops to the Chicago area.
+
+[2025-12-24 09:43:35](https://bsky.app/profile/axios.com/post/3maoztoa3vs2r)
 
 ---
 
 @japan.reuters.com
 
-＜０９：０８＞　日経平均は続伸で寄り付く、米株高の流れ引き継ぐ bit.ly/498hmDg
+米連邦最高裁は２３日、トランプ大統領による中西部イリノイ州シカゴへの州兵派遣を巡り、下級審の派遣差し止め命令の取り消しを求めた政権側の申し立てを退ける判断を下した。 bit.ly/4jckCCt
 
-[2025-12-24 09:25:00](https://bsky.app/profile/japan.reuters.com/post/3maoysh6ekg2c)
-
----
-
-@cnn.com
-
-Two people are dead and others are missing after a fire and explosion tore into a nursing home on the outskirts of Philadelphia, Pennsylvania, spurring local responders, bystanders and staff to rush the elderly population to safety, Gov. Josh Shapiro said. https://cnn.it/49dfU2R
-
-[2025-12-24 09:24:52](https://bsky.app/profile/cnn.com/post/3maoys7lwmz2o)
+[2025-12-24 09:40:19](https://bsky.app/profile/japan.reuters.com/post/3maoznu6cdl2s)
 
 ---
 
-@bloomberg.com
+@reuters.com
 
-The world’s biggest producer of batteries for electric vehicles needs to grow, but Trump and European politicians are standing in its way. 
+US judge tosses Trump challenge to New York immigration-related law reut.rs/3YdkHft
 
-📷: Yang Lei/Getty Images
-
-[2025-12-24 09:23:05](https://bsky.app/profile/bloomberg.com/post/3maoyozvccj2p)
+[2025-12-24 09:40:15](https://bsky.app/profile/reuters.com/post/3maoznptsa72i)
 
 ---
 
-@cnbc.com
+@nytimes.com
 
-Wednesday's big stock stories: What’s likely to move the market in the next trading session
+In @nytopinion.nytimes.com
 
-[2025-12-24 09:22:54](https://bsky.app/profile/cnbc.com/post/3maoyooter22i)
+Amy Chozick remembers the real-life Ping-Pong hustler she befriended when she first moved to New York who inspired the movie “Marty Supreme.”
 
----
-
-@japan.reuters.com
-
-＊この記事は見出しのみの速報です。 bit.ly/3YEVGKi
-
-[2025-12-24 09:20:33](https://bsky.app/profile/japan.reuters.com/post/3maoykinjb222)
+[2025-12-24 09:40:02](https://bsky.app/profile/nytimes.com/post/3maozndpbct2r)
 
 ---
 
