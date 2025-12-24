@@ -1,9 +1,9 @@
-# [2025-12-25 02:50 updated](2025_12_25.md)
+# [2025-12-25 03:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Banks and traders race to capitalise on gold’s historic rally ft.trib.al/WOOEeEP <a href="https://bsky.app/profile/financialtimes.com/post/3maqsywk4wl2k" target="_blank">financialtimes.com</a> (2025-12-25 02:46:34)</span><span style="padding-right:50px;">The Port Authority is preparing to increase the charge for Ubers, Lyfts and yellow cabs to pick up and drop off passengers at the airports in New York City. nyti.ms/4qpBN5S <a href="https://bsky.app/profile/nytimes.com/post/3maqswau27e2x" target="_blank">nytimes.com</a> (2025-12-25 02:45:04)</span><span style="padding-right:50px;">Will you wake up to a white Christmas? Look up your city here to see the forecast.  nyti.ms/3L0UFJs <a href="https://bsky.app/profile/nytimes.com/post/3maqsw7ev4e2z" target="_blank">nytimes.com</a> (2025-12-25 02:45:03)</span><span style="padding-right:50px;">Terry Rozier's attorneys filed a motion in federal court asking a judge to throw out the charges in a gambling case that has sidelined him from playing point guard for the Miami Heat so far this season. <a href="https://bsky.app/profile/cbsnews.com/post/3maqsw5gohv2p" target="_blank">cbsnews.com</a> (2025-12-25 02:45:01)</span><span style="padding-right:50px;">米上院外交委員会の民主党議員１０人は２４日、トランプ大統領に対し、米大使ら約３０人を召還する決定を撤回するよう要請した。危険な指導力の空白を生み出し、ロシアや中国などの敵対国の影響力拡大を許すことになると警告した。 bit.ly/4pm9MLK <a href="https://bsky.app/profile/japan.reuters.com/post/3maqsw3mijj2u" target="_blank">japan.reuters.com</a> (2025-12-25 02:44:59)</span>
+<span style="padding-right:50px;">Belarus is one of the world’s most repressive regimes, but it turned out the dictator had a weakness: his weight. Cue “fat drug” diplomacy. on.wsj.com/3Y89L2P <a href="https://bsky.app/profile/wsj.com/post/3maqu3h45wd2t" target="_blank">wsj.com</a> (2025-12-25 03:05:52)</span><span style="padding-right:50px;">A rotation into value stocks from growth could grow stronger in the new year <a href="https://bsky.app/profile/cnbc.com/post/3maqtzj4vps25" target="_blank">cnbc.com</a> (2025-12-25 03:04:47)</span><span style="padding-right:50px;">ロンドン株式市場は小幅に反落して取引を終えた。クリスマスイブの短縮取引で薄商いの中、製薬大手アストラゼネカやＧＳＫなどが売られた。 bit.ly/49aovmL <a href="https://bsky.app/profile/japan.reuters.com/post/3maqtvn2ucl2u" target="_blank">japan.reuters.com</a> (2025-12-25 03:02:37)</span><span style="padding-right:50px;">🔴 🎥 Looking back on 2025: Donald Trump's return to the White House, a fragile ceasefire in Gaza, war in Ukraine and Sudan, a new pope and Gen Z protests around the world.  Watch the full video on events that marked the year: ➡️ u.afp.com/backon2025 <a href="https://bsky.app/profile/en.afp.com/post/3maqtteusnn2q" target="_blank">en.afp.com</a> (2025-12-25 03:01:22)</span><span style="padding-right:50px;">Bihar rack up 574 in 50-over game as records tumble in Indian run spree reut.rs/4pueuHn <a href="https://bsky.app/profile/reuters.com/post/3maqtslaio62i" target="_blank">reuters.com</a> (2025-12-25 03:00:55)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48737.68 (🔺312.97 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23614.47 (🔺58.52 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.52 (🔺0.60 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.99 (🔻0.18 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.96 (🔻0.21 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,96 +32,97 @@
 
 ## News Headlines
 
-- Banks and Traders Rush to Capitalize on Gold's Historic Rally
-- New York City to Increase Airport Fees for Uber, Lyft, and Yellow Cabs
-- Forecast: Will You Wake Up to a White Christmas?
-- Terry Rozier's Lawyers Seek to Throw Out Gambling Charges
-- US Senators Urge Trump to Reverse Decision to Recall US Ambassadors
-- Chicago's Property Tax Shift Sparks Outrage in Struggling Neighborhoods
+- Belarus dictator's weight a weakness in 'fat drug' diplomacy
+- London stock market falls slightly at close on Christmas Eve
+- Review of 2025: Trump's return, Gaza ceasefire, Ukraine war
+- India's Bihar team racks up 574 in 50-over game, breaking records
+- More than 100 high temperature records to be broken on Christmas Day
+- US Senate Democrats urge Trump to recall ambassadors over foreign influence
 
 
 ----
 
-@financialtimes.com
+@wsj.com
 
-Banks and traders race to capitalise on gold’s historic rally ft.trib.al/WOOEeEP
+Belarus is one of the world’s most repressive regimes, but it turned out the dictator had a weakness: his weight. Cue “fat drug” diplomacy. on.wsj.com/3Y89L2P
 
-[2025-12-25 02:46:34](https://bsky.app/profile/financialtimes.com/post/3maqsywk4wl2k)
-
----
-
-@nytimes.com
-
-The Port Authority is preparing to increase the charge for Ubers, Lyfts and yellow cabs to pick up and drop off passengers at the airports in New York City. nyti.ms/4qpBN5S
-
-[2025-12-25 02:45:04](https://bsky.app/profile/nytimes.com/post/3maqswau27e2x)
+[2025-12-25 03:05:52](https://bsky.app/profile/wsj.com/post/3maqu3h45wd2t)
 
 ---
 
-@nytimes.com
+@cnbc.com
 
-Will you wake up to a white Christmas? Look up your city here to see the forecast. 
-nyti.ms/3L0UFJs
+A rotation into value stocks from growth could grow stronger in the new year
 
-[2025-12-25 02:45:03](https://bsky.app/profile/nytimes.com/post/3maqsw7ev4e2z)
-
----
-
-@cbsnews.com
-
-Terry Rozier's attorneys filed a motion in federal court asking a judge to throw out the charges in a gambling case that has sidelined him from playing point guard for the Miami Heat so far this season.
-
-[2025-12-25 02:45:01](https://bsky.app/profile/cbsnews.com/post/3maqsw5gohv2p)
+[2025-12-25 03:04:47](https://bsky.app/profile/cnbc.com/post/3maqtzj4vps25)
 
 ---
 
 @japan.reuters.com
 
-米上院外交委員会の民主党議員１０人は２４日、トランプ大統領に対し、米大使ら約３０人を召還する決定を撤回するよう要請した。危険な指導力の空白を生み出し、ロシアや中国などの敵対国の影響力拡大を許すことになると警告した。 bit.ly/4pm9MLK
+ロンドン株式市場は小幅に反落して取引を終えた。クリスマスイブの短縮取引で薄商いの中、製薬大手アストラゼネカやＧＳＫなどが売られた。 bit.ly/49aovmL
 
-[2025-12-25 02:44:59](https://bsky.app/profile/japan.reuters.com/post/3maqsw3mijj2u)
-
----
-
-@wsj.com
-
-A $500 million shift in Chicago’s property tax burden to homeowners from downtown businesses is sparking outrage in many struggling neighborhoods on.wsj.com/4jbdIgM
-
-[2025-12-25 02:43:55](https://bsky.app/profile/wsj.com/post/3maqsu6jjcd2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-モスクワで警察官など3人死亡 不審者拘束しようと近づき爆発
-https://news.web.nhk/newsweb/na/na-k10015012291000
-
-[2025-12-25 02:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maqsqvm5rn24)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Algeria's parliament approves law declaring France's colonisation a crime
-
-[2025-12-25 02:41:54](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maqsqlptkd2b)
+[2025-12-25 03:02:37](https://bsky.app/profile/japan.reuters.com/post/3maqtvn2ucl2u)
 
 ---
 
 @en.afp.com
 
-Brazil's ex-president Jair Bolsonaro, imprisoned after being found guilty of attempting a coup, has been transferred to a hospital to undergo surgery, in his latest operation following a 2018 stabbing attack.
-u.afp.com/S8AA
+🔴 🎥 Looking back on 2025: Donald Trump's return to the White House, a fragile ceasefire in Gaza, war in Ukraine and Sudan, a new pope and Gen Z protests around the world.
 
-[2025-12-25 02:38:38](https://bsky.app/profile/en.afp.com/post/3maqskpzkem2q)
+Watch the full video on events that marked the year: ➡️ u.afp.com/backon2025
+
+[2025-12-25 03:01:22](https://bsky.app/profile/en.afp.com/post/3maqtteusnn2q)
 
 ---
 
-@yahoofinance.com
+@reuters.com
 
-Merry Christmas: 30-year mortgage rates dip lower
+Bihar rack up 574 in 50-over game as records tumble in Indian run spree reut.rs/4pueuHn
 
-[2025-12-25 02:36:06](https://bsky.app/profile/yahoofinance.com/post/3maqsg7pisy26)
+[2025-12-25 03:00:55](https://bsky.app/profile/reuters.com/post/3maqtslaio62i)
+
+---
+
+@usatoday.com
+
+I believe in Santa Claus, unabashedly. Why would I give the less-good, less-magical parts of human existence even a foothold in my noggin?
+
+[2025-12-25 03:00:48](https://bsky.app/profile/usatoday.com/post/3maqtseoerq2c)
+
+---
+
+@nbcnews.com
+
+A writer for “Saturday Night Live” is asking the public to help him locate his missing sister, who was last seen in Los Angeles.
+
+[2025-12-25 03:00:34](https://bsky.app/profile/nbcnews.com/post/3maqtrxa63p2x)
+
+---
+
+@washingtonpost.com
+
+On Christmas Day, more than 100 individual high temperature records are forecast to be neared, tied or broken across the nation.
+
+While temperatures on one day of the year aren’t a reliable indicator of climate change, winter temperatures are rising countrywide. https://wapo.st/496mFDr
+
+[2025-12-25 03:00:24](https://bsky.app/profile/washingtonpost.com/post/3maqtrnz6q22p)
+
+---
+
+@apnews.com
+
+Search teams on Wednesday recovered the cockpit voice and flight data recorders from the jet that crashed and killed Libya’s military chief and other senior officers, while efforts to retrieve the victim’s remains were still underway, Turkey’s interior minister said.
+
+[2025-12-25 03:00:19](https://bsky.app/profile/apnews.com/post/3maqtriwfx62k)
+
+---
+
+@aljazeera.com
+
+Sahel countries launch a joint battalion to fight armed groups as they boost ties with Russia amid rising insecurity.
+
+[2025-12-25 03:00:02](https://bsky.app/profile/aljazeera.com/post/3maqtqz425b2i)
 
 ---
 
