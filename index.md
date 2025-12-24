@@ -1,9 +1,9 @@
-# [2025-12-24 16:10 updated](2025_12_24.md)
+# [2025-12-24 16:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Higher corporate bond yields push issuers to delay debt sales to next quarter reut.rs/45olHkG <a href="https://bsky.app/profile/reuters.com/post/3mapp5wmyha2r" target="_blank">reuters.com</a> (2025-12-24 16:05:07)</span><span style="padding-right:50px;">The Trump administration has imposed visa restrictions on 5 Europeans the State Department accused of leading "efforts to coerce American platforms to censor" or "suppress" U.S. viewpoints they oppose. <a href="https://bsky.app/profile/axios.com/post/3mapoy43p6s2r" target="_blank">axios.com</a> (2025-12-24 16:01:52)</span><span style="padding-right:50px;">🛎️文春より【スクープ】です。  嵐・解散ライブ前に「メンバー間の対立が再燃」情報…“約84億円”全国ツアー、極秘で準備も気がかりな「再集結への暗雲」 (2025-12-24 16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mapoxmsd2u2v" target="_blank">sokuho.news</a> (2025-12-24 16:01:36)</span><span style="padding-right:50px;">🛎️文春より【スクープ】です。  《本人直撃》「日本は核保有すべき」発言をしたのは“核軍縮担当”の首相補佐官だった！ 高市首相が更迭しない理由は… (2025-12-24 16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mapox4e3cb2e" target="_blank">sokuho.news</a> (2025-12-24 16:01:18)</span><span style="padding-right:50px;">The US State Department imposed visa sanctions on a former top European Union official and employees of organizations that combat disinformation for alleged censorship.  <a href="https://bsky.app/profile/cnn.com/post/3mapowm2eaw26" target="_blank">cnn.com</a> (2025-12-24 16:01:01)</span>
+<span style="padding-right:50px;">European markets poised for lackluster open ahead of shortened trading session <a href="https://bsky.app/profile/cnbc.com/post/3mapq4zpcox24" target="_blank">cnbc.com</a> (2025-12-24 16:22:31)</span><span style="padding-right:50px;">株価 小幅に値下がり https://news.web.nhk/newsweb/na/na-k10015012401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapq2hf3mi2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 16:21:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】安全に取り組む優良な貸し切りバス会社 中国地方の2社など全国42者を初めて「4ツ星」認定 (2025-12-24 16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mappzq47lj2x" target="_blank">sokuho.news</a> (2025-12-24 16:20:40)</span><span style="padding-right:50px;">政府は２４日、２０２６年度一般会計予算案の歳出総額を前年度当初比７．１兆円増の１２２．３兆円とする方向で最終調整に入った。複数の政府筋が明らかにした。新規国債の２６年度発行予定額は２９．６兆円と、当初比０．９兆円程度の増加に抑える。 bit.ly/4b2R3ky <a href="https://bsky.app/profile/japan.reuters.com/post/3mappytfqta2p" target="_blank">japan.reuters.com</a> (2025-12-24 16:20:10)</span><span style="padding-right:50px;">米ペンシルベニア州 高齢者施設で爆発 2人死亡 複数人行方不明 https://news.web.nhk/newsweb/na/na-k10015012621000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mappv46xri26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 16:18:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.77 (🔻0.41 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.77 (🔻0.40 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,105 +32,102 @@
 
 ## News Headlines
 
-- Higher corporate bond yields push issuers to delay debt sales to next quarter
-- US imposes visa restrictions on 5 Europeans accused of censorship
-- US State Department imposes visa sanctions on former EU official and disinformation combatants
-- Former Japanese Prime Minister's aide suggests Japan should have nuclear weapons
-- Japan to sell real estate business to KKR-PAG group for $3.1 billion
-- US judge blocks Trump administration's plan to reallocate DHS grants
+- European Markets Poised for Lackluster Open Ahead of Shortened Trading Session
+- Two People Die in Pennsylvania Nursing Home Explosion
+- Japanese Company Tohokushinsha Denso to Sell Subsidiary
+- Japan's Sapporo to Sell Real Estate Business to KKR-PAG Group for $3.1 Billion
+- US Imposes Visa Restrictions on 5 Europeans Over Censorship Allegations
+- US Sues 19 States and DC Over Gender-Affirming Care for Young People
 
 
 ----
 
-@reuters.com
+@cnbc.com
 
-Higher corporate bond yields push issuers to delay debt sales to next quarter reut.rs/45olHkG
+European markets poised for lackluster open ahead of shortened trading session
 
-[2025-12-24 16:05:07](https://bsky.app/profile/reuters.com/post/3mapp5wmyha2r)
-
----
-
-@axios.com
-
-The Trump administration has imposed visa restrictions on 5 Europeans the State Department accused of leading "efforts to coerce American platforms to censor" or "suppress" U.S. viewpoints they oppose.
-
-[2025-12-24 16:01:52](https://bsky.app/profile/axios.com/post/3mapoy43p6s2r)
+[2025-12-24 16:22:31](https://bsky.app/profile/cnbc.com/post/3mapq4zpcox24)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️文春より【スクープ】です。
+株価 小幅に値下がり
+https://news.web.nhk/newsweb/na/na-k10015012401000
 
-嵐・解散ライブ前に「メンバー間の対立が再燃」情報…“約84億円”全国ツアー、極秘で準備も気がかりな「再集結への暗雲」
-(2025-12-24 16:00) #ニュース
-
-[2025-12-24 16:01:36](https://bsky.app/profile/sokuho.news/post/3mapoxmsd2u2v)
+[2025-12-24 16:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapq2hf3mi2s)
 
 ---
 
 @sokuho.news
 
-🛎️文春より【スクープ】です。
+🛎️FNNより【速報】です。
 
-《本人直撃》「日本は核保有すべき」発言をしたのは“核軍縮担当”の首相補佐官だった！ 高市首相が更迭しない理由は…
+【速報】安全に取り組む優良な貸し切りバス会社 中国地方の2社など全国42者を初めて「4ツ星」認定
 (2025-12-24 16:00) #ニュース
 
-[2025-12-24 16:01:18](https://bsky.app/profile/sokuho.news/post/3mapox4e3cb2e)
-
----
-
-@cnn.com
-
-The US State Department imposed visa sanctions on a former top European Union official and employees of organizations that combat disinformation for alleged censorship. 
-
-[2025-12-24 16:01:01](https://bsky.app/profile/cnn.com/post/3mapowm2eaw26)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-「頭悪すぎ」「ハゲ」「エッチのときは…」オイシックス髙島宏平社長（52）のセクハラ・パワハラを告発！《「本人は反省し…」と回答》
-(2025-12-24 16:00) #ニュース
-
-[2025-12-24 16:01:00](https://bsky.app/profile/sokuho.news/post/3mapowky2pc2y)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-【名古屋主婦殺害】「奥さんが犯人だと知っていた？」安福久美子容疑者の夫を週刊文春が直撃した！《容疑者宅から“消えた”キーマンの答えは…》
-(2025-12-24 16:00) #ニュース
-
-[2025-12-24 16:00:42](https://bsky.app/profile/sokuho.news/post/3mapovzediy2y)
-
----
-
-@reuters.com
-
-Rupee forwards retreat after central bank unveils FX swap, spot treads water reut.rs/3KLGFDl
-
-[2025-12-24 16:00:36](https://bsky.app/profile/reuters.com/post/3mapovublrp24)
-
----
-
-@bloomberg.com
-
-Trump’s tariffs are worsening a ‘China Shock’ around the world, destroying jobs from Mexico to Indonesia. (from the archive)
-
-[2025-12-24 16:00:35](https://bsky.app/profile/bloomberg.com/post/3mapovslfpi2e)
+[2025-12-24 16:20:40](https://bsky.app/profile/sokuho.news/post/3mappzq47lj2x)
 
 ---
 
 @japan.reuters.com
 
-米東部ペンシルベニア州フィラデルフィア近郊の高齢者施設で２３日、ガス漏れが原因とみられる爆発があり、少なくとも２人が死亡した。 bit.ly/4jcYVlx
+政府は２４日、２０２６年度一般会計予算案の歳出総額を前年度当初比７．１兆円増の１２２．３兆円とする方向で最終調整に入った。複数の政府筋が明らかにした。新規国債の２６年度発行予定額は２９．６兆円と、当初比０．９兆円程度の増加に抑える。 bit.ly/4b2R3ky
 
-[2025-12-24 16:00:33](https://bsky.app/profile/japan.reuters.com/post/3mapovqrqmo25)
+[2025-12-24 16:20:10](https://bsky.app/profile/japan.reuters.com/post/3mappytfqta2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+米ペンシルベニア州 高齢者施設で爆発 2人死亡 複数人行方不明
+https://news.web.nhk/newsweb/na/na-k10015012621000
+
+[2025-12-24 16:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mappv46xri26)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】安全に取り組む優良な貸し切りバス会社 香川県の2社など全国42者を初めて「4ツ星」認定
+(2025-12-24 16:00) #ニュース
+
+[2025-12-24 16:16:17](https://bsky.app/profile/sokuho.news/post/3mapprutiqq25)
+
+---
+
+@reuters.com
+
+Wizards F Cam Whitemore out indefinitely with DVT reut.rs/3LiqfCq
+
+[2025-12-24 16:15:13](https://bsky.app/profile/reuters.com/post/3mapppy3hca2b)
+
+---
+
+@japan.reuters.com
+
+電通グループは２４日、電通銀座ビルを売却すると発表した。譲渡日は来年１月３０日で、譲渡益は約３００億円となる見込み。譲渡先は守秘義務契約を理由に非公表とした。 bit.ly/4jdZqvU
+
+[2025-12-24 16:14:54](https://bsky.app/profile/japan.reuters.com/post/3mapppfurpx2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民 井上幹事長代理や河野元外相ら台湾へ出発 頼総統と面会へ
+https://news.web.nhk/newsweb/na/na-k10015012611000
+
+[2025-12-24 16:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mappkeb4od2x)
+
+---
+
+@reuters.com
+
+China probe finds Taiwanese smugglers controlled vessel that damaged subsea cables reut.rs/44Kfy2d
+
+[2025-12-24 16:10:10](https://bsky.app/profile/reuters.com/post/3mappgxazia2b)
 
 ---
 
