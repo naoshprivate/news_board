@@ -1,9 +1,9 @@
-# [2025-12-24 14:10 updated](2025_12_24.md)
+# [2025-12-24 14:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米プロバスケットボール協会（ＮＢＡ）は２３日、各地で試合を行い、八村塁が所属するレーカーズはサンズに１０８─１３２で敗れた。 bit.ly/4aqP6OJ <a href="https://bsky.app/profile/japan.reuters.com/post/3mapiovc5gv26" target="_blank">japan.reuters.com</a> (2025-12-24 14:09:20)</span><span style="padding-right:50px;">The Trump administration will begin garnishing wages of student loan borrowers in default starting in January, the Education Department told CNN. https://cnn.it/3MSjMyz <a href="https://bsky.app/profile/cnn.com/post/3mapiodzhfi23" target="_blank">cnn.com</a> (2025-12-24 14:09:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】近鉄京都線の一部区間で運転見合わせ 寺田～富野荘駅間の踏切で人身事故 (2025-12-24 14:07:09) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mapilidabe2r" target="_blank">sokuho.news</a> (2025-12-24 14:07:26)</span><span style="padding-right:50px;">メキシコ海軍の小型航空機が米テキサス州沖合で２２日に墜落し、熱湯で重度のやけどを負っていた２歳児を含む少なくとも６人が死亡した。人道任務としてこの子どもを米国の病院へ移送する途中だった。 bit.ly/49oDuuy <a href="https://bsky.app/profile/japan.reuters.com/post/3mapihdma3n26" target="_blank">japan.reuters.com</a> (2025-12-24 14:05:07)</span><span style="padding-right:50px;"> No, you can’t tell when something was written by AI ft.trib.al/Y24xLvj  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mapienwxa625" target="_blank">financialtimes.com</a> (2025-12-24 14:03:37)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】寝台特急「サンライズ瀬戸・出雲」25日始発の列車 運転取りやめ 山陰の雪影響 (2025-12-24 14:15) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mapjlwgdca2a" target="_blank">sokuho.news</a> (2025-12-24 14:25:34)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】大企業の冬のボーナス平均額 過去最高100万4841円 初の100万円台 経団連調査 (2025年12月24日 14:18) #ニュース https://news.tv-asahi.co.jp/news_economy/articles/000474985.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3mapjlnp7dv2b" target="_blank">sokuho.news</a> (2025-12-24 14:25:25)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】寝台特急「サンライズ瀬戸・出雲」25日東京始発の列車 運転取りやめ 山陰の雪影響 (2025-12-24 14:15) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mapjd5u6ki2x" target="_blank">sokuho.news</a> (2025-12-24 14:20:40)</span><span style="padding-right:50px;">世界貿易機関（ＷＴＯ）は２３日、中国が太陽光電池や太陽光モジュール、ＩＴ製品を巡ってインドをＷＴＯに提訴したと発表した。 bit.ly/48Yzf7u <a href="https://bsky.app/profile/japan.reuters.com/post/3mapjcejf652v" target="_blank">japan.reuters.com</a> (2025-12-24 14:20:14)</span><span style="padding-right:50px;">US holds call with Palau on transfer of third-country nationals reut.rs/4qnsQtN <a href="https://bsky.app/profile/reuters.com/post/3mapjcdlvwp24" target="_blank">reuters.com</a> (2025-12-24 14:20:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50381.17 (🔻94.31 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3368.00 (🔻50.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.79 (🔻0.38 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50337.20 (🔻138.28 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3365.00 (🔻53.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔻0.38 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,29 +32,96 @@
 
 ## News Headlines
 
-- NBPA: NBA games held across the country, Lakers lose to Suns 108-132
-- US to start garnishing wages of student loan borrowers in default in January
-- Train service suspended on part of Kintetsu Kyoto Line due to pedestrian accident
-- Mexican naval aircraft crashes in Texas, at least 6 dead including 2-year-old child
-- Russian-Ukrainian conflict: Situation on December 24
-- Stock prices rise on Shanghai and Hong Kong exchanges on Christmas holiday eve
+- Japan postpones Sunrise Seto and Izumo bullet train due to snow in the Sanin region
+- Japan's corporations give record-high average bonus of ¥1,004,841
+- Japan postpones Sunrise Seto and Izumo bullet train due to snow in the Sanin region
+- World Trade Organization announces China's WTO complaint against India over solar panels and IT products
+- US holds call with Palau on transfer of third-country nationals
+- Tech groups shift $120bn of AI data centre debt off balance sheets
 
 
 ----
 
-@japan.reuters.com
+@sokuho.news
 
-米プロバスケットボール協会（ＮＢＡ）は２３日、各地で試合を行い、八村塁が所属するレーカーズはサンズに１０８─１３２で敗れた。 bit.ly/4aqP6OJ
+🛎️FNNより【速報】です。
 
-[2025-12-24 14:09:20](https://bsky.app/profile/japan.reuters.com/post/3mapiovc5gv26)
+【速報】寝台特急「サンライズ瀬戸・出雲」25日始発の列車 運転取りやめ 山陰の雪影響
+(2025-12-24 14:15) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-24 14:25:34](https://bsky.app/profile/sokuho.news/post/3mapjlwgdca2a)
 
 ---
 
-@cnn.com
+@sokuho.news
 
-The Trump administration will begin garnishing wages of student loan borrowers in default starting in January, the Education Department told CNN. https://cnn.it/3MSjMyz
+🔔ANNより【速報】です。
 
-[2025-12-24 14:09:02](https://bsky.app/profile/cnn.com/post/3mapiodzhfi23)
+【速報】大企業の冬のボーナス平均額 過去最高100万4841円 初の100万円台 経団連調査
+(2025年12月24日 14:18) #ニュース
+https://news.tv-asahi.co.jp/news_economy/articles/000474985.html?display=full
+
+[2025-12-24 14:25:25](https://bsky.app/profile/sokuho.news/post/3mapjlnp7dv2b)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】寝台特急「サンライズ瀬戸・出雲」25日東京始発の列車 運転取りやめ 山陰の雪影響
+(2025-12-24 14:15) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-24 14:20:40](https://bsky.app/profile/sokuho.news/post/3mapjd5u6ki2x)
+
+---
+
+@japan.reuters.com
+
+世界貿易機関（ＷＴＯ）は２３日、中国が太陽光電池や太陽光モジュール、ＩＴ製品を巡ってインドをＷＴＯに提訴したと発表した。 bit.ly/48Yzf7u
+
+[2025-12-24 14:20:14](https://bsky.app/profile/japan.reuters.com/post/3mapjcejf652v)
+
+---
+
+@reuters.com
+
+US holds call with Palau on transfer of third-country nationals reut.rs/4qnsQtN
+
+[2025-12-24 14:20:13](https://bsky.app/profile/reuters.com/post/3mapjcdlvwp24)
+
+---
+
+@financialtimes.com
+
+The slow death of Britain’s TV channels ft.trib.al/rkUqguS
+
+[2025-12-24 14:17:18](https://bsky.app/profile/financialtimes.com/post/3mapj54phsw2o)
+
+---
+
+@financialtimes.com
+
+Tech groups shift $120bn of AI data centre debt off balance sheets ft.trib.al/knnpVjD
+
+[2025-12-24 14:16:15](https://bsky.app/profile/financialtimes.com/post/3mapj3axv3625)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】日本郵便の不適切点呼問題 四国運輸局（高松市）が徳島県の4郵便局に一部車両使用停止処分
+(2025-12-24 14:10) #ニュース
+
+[2025-12-24 14:15:59](https://bsky.app/profile/sokuho.news/post/3mapj2rgxzh2a)
 
 ---
 
@@ -62,74 +129,21 @@ The Trump administration will begin garnishing wages of student loan borrowers i
 
 🛎️JNNより【速報】です。
 
-【速報】近鉄京都線の一部区間で運転見合わせ 寺田～富野荘駅間の踏切で人身事故
-(2025-12-24 14:07:09) #ニュース
+【速報】弘前大学教育学部の教授が複数の学生に「ハラスメント行為」で停職3か月 学生に対して「不適切な指導」「性的な発言」「不必要な接近・身体的接触」など…
+(2025-12-24 14:15:00) #ニュース
 
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-24 14:07:26](https://bsky.app/profile/sokuho.news/post/3mapilidabe2r)
+[2025-12-24 14:15:57](https://bsky.app/profile/sokuho.news/post/3mapj2pciy626)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-メキシコ海軍の小型航空機が米テキサス州沖合で２２日に墜落し、熱湯で重度のやけどを負っていた２歳児を含む少なくとも６人が死亡した。人道任務としてこの子どもを米国の病院へ移送する途中だった。 bit.ly/49oDuuy
+🔔ANNより【速報】です。
 
-[2025-12-24 14:05:07](https://bsky.app/profile/japan.reuters.com/post/3mapihdma3n26)
+【速報】大企業の冬のボーナス平均額 過去最高100万4841円 初の100万円台 経団連調査
+(2025年12月24日 14:13) #ニュース
 
----
-
-@financialtimes.com
-
- No, you can’t tell when something was written by AI ft.trib.al/Y24xLvj  | opinion
-
-[2025-12-24 14:03:37](https://bsky.app/profile/financialtimes.com/post/3mapienwxa625)
-
----
-
-@financialtimes.com
-
- Subscription overload is exhausting Americans ft.trib.al/D1UWYHZ  | opinion
-
-[2025-12-24 14:03:37](https://bsky.app/profile/financialtimes.com/post/3mapienv3jk2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【随時更新】ロシア ウクライナに軍事侵攻（12月24日の動き）
-https://news.web.nhk/newsweb/na/na-k10014990711000
-
-[2025-12-24 14:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapidpj3mu2d)
-
----
-
-@japan.reuters.com
-
-午前の中国株式市場では上海総合指数が小幅に上昇し、６営業日続伸した。一方、香港株式市場はクリスマス休暇を控えた薄商いの中、堅調な域内市場の動きに伴って上昇した。 bit.ly/4j8WHUm
-
-[2025-12-24 14:02:52](https://bsky.app/profile/japan.reuters.com/post/3mapidcmnzp2p)
-
----
-
-@washingtonpost.com
-
-Many health influencers recommend amounts of protein that are excessive, says Stuart Phillips, a professor of kinesiology and a leading expert on protein.
-
-Here’s a typical menu for him: https://wapo.st/490F9VZ
-
-[2025-12-24 14:01:01](https://bsky.app/profile/washingtonpost.com/post/3mapi7zcpec2g)
-
----
-
-@cnbc.com
-
-Many recent grads and other entry-level workers are struggling to find work. 
-
-LinkedIn predicts this will be "the top destination for young jobseekers in 2026."
-
-[2025-12-24 14:00:54](https://bsky.app/profile/cnbc.com/post/3mapi7sq45p2b)
+[2025-12-24 14:13:54](https://bsky.app/profile/sokuho.news/post/3mapix2pyl225)
 
 ---
 
