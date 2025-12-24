@@ -1,9 +1,9 @@
-# [2025-12-24 23:30 updated](2025_12_24.md)
+# [2025-12-24 23:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Napoli return to title defence in high spirits after Super Cup triumph reut.rs/49dGzwh <a href="https://bsky.app/profile/reuters.com/post/3maqhqryrbr2y" target="_blank">reuters.com</a> (2025-12-24 23:25:10)</span><span style="padding-right:50px;">China's production of nuclear warheads has slowed, but its missiles may be poised to strike back fast in case of an attack, an annual assessment from the Pentagon found. <a href="https://bsky.app/profile/nytimes.com/post/3maqhqldzil2b" target="_blank">nytimes.com</a> (2025-12-24 23:25:03)</span><span style="padding-right:50px;">3 big surprises that caught stock market pros off guard in 2025 <a href="https://bsky.app/profile/yahoofinance.com/post/3maqhjjim6k2u" target="_blank">yahoofinance.com</a> (2025-12-24 23:21:06)</span><span style="padding-right:50px;">From gorilla trekking to vineyard stays, capital is pouring into Africa from billionaires, tech moguls and Middle Eastern investors who want a share of the continent’s luxury travel market (from the archive) <a href="https://bsky.app/profile/bloomberg.com/post/3maqhhxl2g22f" target="_blank">bloomberg.com</a> (2025-12-24 23:20:14)</span><span style="padding-right:50px;">Doctors for generations accepted being at the mercy of their pagers. Now, younger physicians are questioning medicine’s workaholic culture.   “All us old guys are taking ER call, and you got guys in their 30s at home every night. It’s just a sore spot.” on.wsj.com/4s3XRVj <a href="https://bsky.app/profile/wsj.com/post/3maqhblp55o2t" target="_blank">wsj.com</a> (2025-12-24 23:16:40)</span>
+<span style="padding-right:50px;">Bitcoin 2025: volatility and the rise of private litigation reut.rs/3KJYNxq <a href="https://bsky.app/profile/reuters.com/post/3maqiuov6qx2r" target="_blank">reuters.com</a> (2025-12-24 23:45:15)</span><span style="padding-right:50px;">Man Utd's Amorim says impossible to replace injured Fernandes, others must 'step up' reut.rs/49awUXc <a href="https://bsky.app/profile/reuters.com/post/3maqilrf7wv2p" target="_blank">reuters.com</a> (2025-12-24 23:40:15)</span><span style="padding-right:50px;">Five regulators and researchers who work to tackle disinformation and abuse on the internet were barred from entering the U.S. after Secretary of State Marco Rubio labeled them “radical activists” who undercut free speech. <a href="https://bsky.app/profile/nytimes.com/post/3maqilg3fdl2y" target="_blank">nytimes.com</a> (2025-12-24 23:40:03)</span><span style="padding-right:50px;">中国人民銀行（中央銀行）は２４日、市場の期待を安定させ、為替レートを「基本的に合理的かつバランスのとれた水準で安定を維持する」と表明した。この日開催した金融政策委員会の資料で分かった。 bit.ly/4jglPZs <a href="https://bsky.app/profile/japan.reuters.com/post/3maqiifxxjw22" target="_blank">japan.reuters.com</a> (2025-12-24 23:38:23)</span><span style="padding-right:50px;">New clashes as Cambodia, Thailand hold first talks to end latest violence https://aje.io/zfno78 <a href="https://bsky.app/profile/aljazeera.com/post/3maqieqzqof2e" target="_blank">aljazeera.com</a> (2025-12-24 23:36:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48398.18 (🔻26.53 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 187.82 (🔻0.10 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔻0.24 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48542.09 (🔺117.38 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23540.01 (🔻15.94 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 187.90 (🔻0.02 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔻0.37 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,96 +32,93 @@
 
 ## News Headlines
 
-- Napoli return to title defence in high spirits after Super Cup triumph
-- U.S. says China's nuclear warhead production has slowed but missiles remain ready
-- US weekly jobless claims unexpectedly fall
-- Stocks set record close, but expert warns of possible downturn
-- SolGold agrees to $1.2 billion takeover by Jiangxi Copper
-- Ukrainian President willing to pull troops out of eastern region for peace deal
+- China's Central Bank Seeks to Calm Markets, Maintain Stable Exchange Rate
+- Five Regulators Barred from US over Disinformation and Abuse Concerns
+- Australia Cancels Visa of British National Charged with Nazi Symbol Display
+- US Set to Bar Former EU Official over Online-Content Law Criticism
+- China's Nuclear Warhead Production Slows, but Missile Readiness Remains High
+- US FDA Approves Omeros' Drug to Treat Transplant Complication
 
 
 ----
 
 @reuters.com
 
-Napoli return to title defence in high spirits after Super Cup triumph reut.rs/49dGzwh
+Bitcoin 2025: volatility and the rise of private litigation reut.rs/3KJYNxq
 
-[2025-12-24 23:25:10](https://bsky.app/profile/reuters.com/post/3maqhqryrbr2y)
+[2025-12-24 23:45:15](https://bsky.app/profile/reuters.com/post/3maqiuov6qx2r)
+
+---
+
+@reuters.com
+
+Man Utd's Amorim says impossible to replace injured Fernandes, others must 'step up' reut.rs/49awUXc
+
+[2025-12-24 23:40:15](https://bsky.app/profile/reuters.com/post/3maqilrf7wv2p)
 
 ---
 
 @nytimes.com
 
-China's production of nuclear warheads has slowed, but its missiles may be poised to strike back fast in case of an attack, an annual assessment from the Pentagon found.
+Five regulators and researchers who work to tackle disinformation and abuse on the internet were barred from entering the U.S. after Secretary of State Marco Rubio labeled them “radical activists” who undercut free speech.
 
-[2025-12-24 23:25:03](https://bsky.app/profile/nytimes.com/post/3maqhqldzil2b)
-
----
-
-@yahoofinance.com
-
-3 big surprises that caught stock market pros off guard in 2025
-
-[2025-12-24 23:21:06](https://bsky.app/profile/yahoofinance.com/post/3maqhjjim6k2u)
-
----
-
-@bloomberg.com
-
-From gorilla trekking to vineyard stays, capital is pouring into Africa from billionaires, tech moguls and Middle Eastern investors who want a share of the continent’s luxury travel market (from the archive)
-
-[2025-12-24 23:20:14](https://bsky.app/profile/bloomberg.com/post/3maqhhxl2g22f)
-
----
-
-@wsj.com
-
-Doctors for generations accepted being at the mercy of their pagers. Now, younger physicians are questioning medicine’s workaholic culture. 
-
-“All us old guys are taking ER call, and you got guys in their 30s at home every night. It’s just a sore spot.” on.wsj.com/4s3XRVj
-
-[2025-12-24 23:16:40](https://bsky.app/profile/wsj.com/post/3maqhblp55o2t)
-
----
-
-@reuters.com
-
-SolGold agrees to $1.2 billion takeover by top investor Jiangxi Copper reut.rs/48TmAnH
-
-[2025-12-24 23:15:15](https://bsky.app/profile/reuters.com/post/3maqh734acj2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相 官民が連携して投資へ 工程表の策定を関係閣僚に指示
-https://news.web.nhk/newsweb/na/na-k10015013081000
-
-[2025-12-24 23:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maqgzfpkna2x)
-
----
-
-@npr.org
-
-The 1995 adaptation of Terry McMillan's novel celebrated the beauty of Black sisterhood. n.pr/494UJQb
-
-[2025-12-24 23:10:50](https://bsky.app/profile/npr.org/post/3maqgx5ykv52e)
-
----
-
-@reuters.com
-
-US FDA approves Omeros' drug to treat dangerous transplant complication reut.rs/4j9J9rG
-
-[2025-12-24 23:10:20](https://bsky.app/profile/reuters.com/post/3maqgwbjv7x2s)
+[2025-12-24 23:40:03](https://bsky.app/profile/nytimes.com/post/3maqilg3fdl2y)
 
 ---
 
 @japan.reuters.com
 
-ロシアのドミトリエフ大統領特別代表は、ウクライナ和平に関するウィットコフ米特使との会談を踏まえた米国の提案について、プーチン大統領に説明した。 bit.ly/4pR8KYS
+中国人民銀行（中央銀行）は２４日、市場の期待を安定させ、為替レートを「基本的に合理的かつバランスのとれた水準で安定を維持する」と表明した。この日開催した金融政策委員会の資料で分かった。 bit.ly/4jglPZs
 
-[2025-12-24 23:10:19](https://bsky.app/profile/japan.reuters.com/post/3maqgwaga652c)
+[2025-12-24 23:38:23](https://bsky.app/profile/japan.reuters.com/post/3maqiifxxjw22)
+
+---
+
+@aljazeera.com
+
+New clashes as Cambodia, Thailand hold first talks to end latest violence https://aje.io/zfno78
+
+[2025-12-24 23:36:20](https://bsky.app/profile/aljazeera.com/post/3maqieqzqof2e)
+
+---
+
+@reuters.com
+
+India announces reforms to simplify import checks as it eyes US trade deal reut.rs/4pWLrgz
+
+[2025-12-24 23:35:08](https://bsky.app/profile/reuters.com/post/3maqicmzhsc2k)
+
+---
+
+@wsj.com
+
+The U.S. said it would bar a former EU official from entering over his role in creating and enforcing an online-content law that the Trump administration has criticized.
+
+[2025-12-24 23:34:19](https://bsky.app/profile/wsj.com/post/3maqib5zg5g2r)
+
+---
+
+@usatoday.com
+
+On the 25th anniversary of her breakout role in "How the Grinch Stole Christmas" with Jim Carrey, Taylor Momsen embraced her inner Cindy Lou Who.
+
+[2025-12-24 23:30:35](https://bsky.app/profile/usatoday.com/post/3maqi2huk7p2g)
+
+---
+
+@washingtonpost.com
+
+A California woman has been charged with murder in what a sheriff called the “calculated and cold-blooded” killing of her 9-year-old daughter following the discovery of the girl’s remains in rural Utah.
+
+[2025-12-24 23:30:11](https://bsky.app/profile/washingtonpost.com/post/3maqhzqqpn72i)
+
+---
+
+@nbcnews.com
+
+Australia cancels the visa of a British national after he was charged with displaying a banned Nazi symbol, the immigration minister says, as the country cracks down on antisemitism in the wake of a mass shooting at Bondi Beach.
+
+[2025-12-24 23:30:11](https://bsky.app/profile/nbcnews.com/post/3maqhzrjmvn2k)
 
 ---
 
