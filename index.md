@@ -1,9 +1,9 @@
-# [2025-12-24 20:10 updated](2025_12_24.md)
+# [2025-12-24 20:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】週刊誌報道調査結果受け東海テレビ会長辞任 社長「経営者として不適切な行為」 (2025年12月24日 20:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maq4rqodtm26" target="_blank">sokuho.news</a> (2025-12-24 20:08:51)</span><span style="padding-right:50px;">Bitcoin mining companies are flying as they pivot to AI data centers, leveraging existing infrastructure to meet the high demand for AI computing. <a href="https://bsky.app/profile/wsj.com/post/3maq4mokbii23" target="_blank">wsj.com</a> (2025-12-24 20:06:00)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】中国地方整備局などが中国地方に「大雪に関するお知らせ」発表 関西ー九州は山陽側の広域う回を (2025-12-24 19:59) #ニュース  ❄️降雪量 🔗https://www.jma.go.jp/bosai/snow/#zoom:5/lat:36.956909/lon:136.526600/colordepth:normal/elements:snowf24h <a href="https://bsky.app/profile/sokuho.news/post/3maq4lxdl7q25" target="_blank">sokuho.news</a> (2025-12-24 20:05:36)</span><span style="padding-right:50px;">ＳＢＩホールディングスと福岡県の筑邦銀行は２４日、資本業務提携の解消で合意したと発表した。ＳＢＩは今年３月末時点で筑邦銀行株を約３％保有していた。両社は２０２０年１月に資本業務提携を締結した。 bit.ly/48R5Nlg <a href="https://bsky.app/profile/japan.reuters.com/post/3maq4l7co7s2n" target="_blank">japan.reuters.com</a> (2025-12-24 20:05:11)</span><span style="padding-right:50px;">Zelenskiy seeks meeting with Trump to hammer out issue of territory reut.rs/4srWLTA <a href="https://bsky.app/profile/reuters.com/post/3maq4l6edzo2k" target="_blank">reuters.com</a> (2025-12-24 20:05:10)</span>
+<span style="padding-right:50px;">CBS News caused a controversy after it pulled a report about Venezuelan men who were deported by the Trump administration to a brutal prison in El Salvador. But the segment, as originally edited by “60 Minutes” staff members, soon surfaced online in full. <a href="https://bsky.app/profile/nytimes.com/post/3maq5ql5zvs27" target="_blank">nytimes.com</a> (2025-12-24 20:26:05)</span><span style="padding-right:50px;">South African rand climbs on precious metal market frenzy reut.rs/3MWqH9V <a href="https://bsky.app/profile/reuters.com/post/3maq5p6yssz2y" target="_blank">reuters.com</a> (2025-12-24 20:25:19)</span><span style="padding-right:50px;">財務省は、市中向けに新規発行する超長期国債の２０２６年度発行額を１７兆円程度と、当初比７兆円程度減らす方向で調整に入った。投資家の需要減衰を踏まえ、１７年ぶりの低水準とする。長期金利の指標となる１０年債の増額も見送り、市中利回りの急騰に対処する。複数の関係筋が明らかにした。 bit.ly/3MJBCUz <a href="https://bsky.app/profile/japan.reuters.com/post/3maq5oxp5t22c" target="_blank">japan.reuters.com</a> (2025-12-24 20:25:11)</span><span style="padding-right:50px;">⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Thomas Frank will give his Tottenham squad Christmas Day off but only because it fits in with their schedule ahead of Sunday's match away to London rivals Crystal Palace, the Danish manager said ➡️ u.afp.com/S8Qg <a href="https://bsky.app/profile/en.afp.com/post/3maq5onuuvg2f" target="_blank">en.afp.com</a> (2025-12-24 20:25:01)</span><span style="padding-right:50px;">AN NPR survey finds that people with disability still find hotels unaccommodating, even 35 years after passage of the Americans with Disabilities Act. n.pr/48VPxj2 <a href="https://bsky.app/profile/npr.org/post/3maq5nthbp32p" target="_blank">npr.org</a> (2025-12-24 20:24:33)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔻0.29 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔻0.28 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,104 +32,95 @@
 
 ## News Headlines
 
-- TV Station Head Resigns After Report on Alleged Misconduct
-- Bitcoin Mining Companies Pivot to AI Data Centers
-- Ukraine and US Reach Consensus on Key Issues, but Territorial Control Remains Unresolved
-- Russia Plans to Build Nuclear Power Plant on the Moon by 2035
-- Global Shares Hover Near Record Highs; Gold and Silver Scale New Peaks
-- New Batch of Jeffrey Epstein Files Released, Containing References to Donald Trump
+- CBS News caused controversy over a report on Venezuelan men deported to a brutal prison in El Salvador
+- South African rand surges on precious metal market frenzy
+- Japanese government reduces target for new long-term bonds to be issued in 2026
+- Tottenham manager gives players Christmas Day off
+- People with disabilities still face difficulties in hotels despite 35 years after the Americans with Disabilities Act
+- Japanese advertising agency Dentsu Group sells its headquarters building in Tokyo
 
 
 ----
 
-@sokuho.news
+@nytimes.com
 
-🔔ANNより【速報】です。
+CBS News caused a controversy after it pulled a report about Venezuelan men who were deported by the Trump administration to a brutal prison in El Salvador. But the segment, as originally edited by “60 Minutes” staff members, soon surfaced online in full.
 
-【速報】週刊誌報道調査結果受け東海テレビ会長辞任 社長「経営者として不適切な行為」
-(2025年12月24日 20:08) #ニュース
+[2025-12-24 20:26:05](https://bsky.app/profile/nytimes.com/post/3maq5ql5zvs27)
 
-[2025-12-24 20:08:51](https://bsky.app/profile/sokuho.news/post/3maq4rqodtm26)
+---
+
+@reuters.com
+
+South African rand climbs on precious metal market frenzy reut.rs/3MWqH9V
+
+[2025-12-24 20:25:19](https://bsky.app/profile/reuters.com/post/3maq5p6yssz2y)
+
+---
+
+@japan.reuters.com
+
+財務省は、市中向けに新規発行する超長期国債の２０２６年度発行額を１７兆円程度と、当初比７兆円程度減らす方向で調整に入った。投資家の需要減衰を踏まえ、１７年ぶりの低水準とする。長期金利の指標となる１０年債の増額も見送り、市中利回りの急騰に対処する。複数の関係筋が明らかにした。 bit.ly/3MJBCUz
+
+[2025-12-24 20:25:11](https://bsky.app/profile/japan.reuters.com/post/3maq5oxp5t22c)
+
+---
+
+@en.afp.com
+
+⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Thomas Frank will give his Tottenham squad Christmas Day off but only because it fits in with their schedule ahead of Sunday's match away to London rivals Crystal Palace, the Danish manager said ➡️ u.afp.com/S8Qg
+
+[2025-12-24 20:25:01](https://bsky.app/profile/en.afp.com/post/3maq5onuuvg2f)
+
+---
+
+@npr.org
+
+AN NPR survey finds that people with disability still find hotels unaccommodating, even 35 years after passage of the Americans with Disabilities Act. n.pr/48VPxj2
+
+[2025-12-24 20:24:33](https://bsky.app/profile/npr.org/post/3maq5nthbp32p)
 
 ---
 
 @wsj.com
 
-Bitcoin mining companies are flying as they pivot to AI data centers, leveraging existing infrastructure to meet the high demand for AI computing.
+Capital Account: President Trump’s latest social-media post shows worries about Kevin Hassett miss the point. Trump’s conditions compromise all the candidates.
 
-[2025-12-24 20:06:00](https://bsky.app/profile/wsj.com/post/3maq4mokbii23)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】中国地方整備局などが中国地方に「大雪に関するお知らせ」発表 関西ー九州は山陽側の広域う回を
-(2025-12-24 19:59) #ニュース
-
-❄️降雪量
-🔗https://www.jma.go.jp/bosai/snow/#zoom:5/lat:36.956909/lon:136.526600/colordepth:normal/elements:snowf24h
-
-[2025-12-24 20:05:36](https://bsky.app/profile/sokuho.news/post/3maq4lxdl7q25)
+[2025-12-24 20:21:57](https://bsky.app/profile/wsj.com/post/3maq5j6f3nx2o)
 
 ---
 
 @japan.reuters.com
 
-ＳＢＩホールディングスと福岡県の筑邦銀行は２４日、資本業務提携の解消で合意したと発表した。ＳＢＩは今年３月末時点で筑邦銀行株を約３％保有していた。両社は２０２０年１月に資本業務提携を締結した。 bit.ly/48R5Nlg
+電通グループは２４日、電通銀座ビルを売却すると発表した。譲渡日は来年１月３０日で、譲渡益は約３００億円となる見込み。譲渡先は守秘義務契約を理由に非公表とした。 bit.ly/4sbvh4j
 
-[2025-12-24 20:05:11](https://bsky.app/profile/japan.reuters.com/post/3maq4l7co7s2n)
-
----
-
-@reuters.com
-
-Zelenskiy seeks meeting with Trump to hammer out issue of territory reut.rs/4srWLTA
-
-[2025-12-24 20:05:10](https://bsky.app/profile/reuters.com/post/3maq4l6edzo2k)
-
----
-
-@financialtimes.com
-
-Good morning, New York. While you were sleeping, this was the most-read story ft.trib.al/6Rr3OBZ
-
-[2025-12-24 20:01:24](https://bsky.app/profile/financialtimes.com/post/3maq4eg2szy2p)
-
----
-
-@reuters.com
-
-EU says it strongly condemns U.S. visa ban on European individuals reut.rs/3YNpK6o
-
-[2025-12-24 20:00:51](https://bsky.app/profile/reuters.com/post/3maq4dgwh4g2c)
-
----
-
-@japan.reuters.com
-
-ロシアは今後１０年以内に、月面に原子力発電所を建設する計画だ。ロシアの月面計画やロシア・中国共同の研究拠点に電力を供給する。 bit.ly/3La6DjP
-
-[2025-12-24 20:00:33](https://bsky.app/profile/japan.reuters.com/post/3maq4cvpnvg2c)
+[2025-12-24 20:20:15](https://bsky.app/profile/japan.reuters.com/post/3maq5g565mj2c)
 
 ---
 
 @bloomberg.com
 
-The frequency of so-called hybrid attacks is increasing in Europe and Russia is seen as the prime suspect. Here’s what to know (from November)
+Belgium's Trappist monks are grappling with online retailers selling $300 six-packs of their beer — forcing monasteries to rethink how they do business. Read more: bloom.bg/4scpUBM
 
-[2025-12-24 20:00:28](https://bsky.app/profile/bloomberg.com/post/3maq4crf7ky24)
+📷: Kenzo Tribouillard/AFP/Getty Images
+
+[2025-12-24 20:16:05](https://bsky.app/profile/bloomberg.com/post/3maq56oydsk23)
 
 ---
 
-@cnbc.com
+@japan.reuters.com
 
-Nabeel Khan was methodical in building his career at Amazon, rising the ranks quickly from operations manager to project manager to product manager.
+英石油大手ＢＰは２４日、潤滑油部門カストロールの株式６５％を約６０億ドルで投資会社ストーンピークに売却することで合意したと発表した。同部門を１０１億ドルと評価した取引となる。 bit.ly/3YbnpSD
 
-Here’s how he built his career at the tech giant and made the transition to entrepreneurship, and a look at his life in Brooklyn, New York.
+[2025-12-24 20:15:16](https://bsky.app/profile/japan.reuters.com/post/3maq55a2iqc22)
 
-[2025-12-24 20:00:23](https://bsky.app/profile/cnbc.com/post/3maq4cmfdnx2e)
+---
+
+@reuters.com
+
+As crypto and private credit hit the mainstream, investor risk seen multiplying reut.rs/4pVTavk
+
+[2025-12-24 20:15:12](https://bsky.app/profile/reuters.com/post/3maq554dnky2y)
 
 ---
 
