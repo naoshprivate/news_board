@@ -1,9 +1,9 @@
-# [2025-12-24 13:10 updated](2025_12_24.md)
+# [2025-12-24 13:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">国連安全保障理事会は２３日、ベネズエラ情勢を巡る緊急会合を開催した。米国はマドゥロ大統領から資金源を奪うために「最大限」の制裁を科すと表明。一方、ロシアは他の中南米諸国が米国の次の標的になる可能性があると警告した。 bit.ly/4p68bt1 <a href="https://bsky.app/profile/japan.reuters.com/post/3mapf47dtnw2c" target="_blank">japan.reuters.com</a> (2025-12-24 13:05:12)</span><span style="padding-right:50px;">トランプ米政権は２３日、米国のソーシャルメディア企業に対する検閲に関与したとして、元欧州連合（ＥＵ）欧州委員や反偽情報活動家らを査証（ビザ）発給禁止の対象にしたことを明らかにした。 bit.ly/3LhpPw7 <a href="https://bsky.app/profile/japan.reuters.com/post/3mapexhfddu2u" target="_blank">japan.reuters.com</a> (2025-12-24 13:02:33)</span><span style="padding-right:50px;">QB J.J. McCarthy out (hand) vs. Lions reut.rs/4sbds5v <a href="https://bsky.app/profile/reuters.com/post/3mapeuuu4nb2y" target="_blank">reuters.com</a> (2025-12-24 13:01:06)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】山陽・関西～山陰の特急列車 25日午後以降運転取りやめの可能性 山陰地方低気圧の影響 (2025-12-24 12:58) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mapeujyrtb2x" target="_blank">sokuho.news</a> (2025-12-24 13:00:55)</span><span style="padding-right:50px;">クフ王「第2の太陽の船」復元作業を公開　大エジプト博物館、日本も協力 www.nikkei.com/article/DGXZQO...   建造されたのは約4500年前。古代エジプトのクフ王の副葬品とされ、1987年に考古学者の吉村作治さん率いる日本の調査隊が発見しました。   発掘された船の部材は劣化が激しく、当初は復元困難とみられていましたが、強化処理を施すなどして道筋を付けました。   復元の現場主任を務める東日本国際大の黒河内宏昌教授は「復元が終われば、船の安定性や速さなどいろいろなことが分かる」 <a href="https://bsky.app/profile/nikkei.com/post/3mapeu32wuq2m" target="_blank">nikkei.com</a> (2025-12-24 13:00:39)</span>
+<span style="padding-right:50px;">ウクライナ軍 ドネツク州の防衛拠点の1つからの撤退を発表 https://news.web.nhk/newsweb/na/na-k10015012481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapgddopwa2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 13:27:03)</span><span style="padding-right:50px;">ロシアのパトルシェフ副首相は、自国産穀物輸出の低迷は世界的な価格下落が原因で、需要はあると説明した。２３日の同国紙とのインタビューで述べた。 bit.ly/497x3Lf <a href="https://bsky.app/profile/japan.reuters.com/post/3mapgchd5rg22" target="_blank">japan.reuters.com</a> (2025-12-24 13:26:35)</span><span style="padding-right:50px;">メキシコ国立統計地理情報院（ＩＮＥＧＩ）が２３日発表した１２月前半の消費者物価指数（ＣＰＩ）は前年同期比３．７２％上昇に鈍化した。 bit.ly/4jiykUw <a href="https://bsky.app/profile/japan.reuters.com/post/3mapg7ugfum26" target="_blank">japan.reuters.com</a> (2025-12-24 13:25:09)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長崎バイパスで横転事故 前岳トンネル付近 (2025-12-24 13:18:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mapfzbpici2r" target="_blank">sokuho.news</a> (2025-12-24 13:21:27)</span><span style="padding-right:50px;">国際オリンピック委員会（ＩＯＣ）は、ロシアの山岳スキー選手ニキータ・フィリポフ（２３）について、２０２６年ミラノ・コルティナ冬季五輪に国を代表しない個人中立選手（ＡＩＮ）としての参加を承認した。 bit.ly/4qt3yKY <a href="https://bsky.app/profile/japan.reuters.com/post/3mapfyrjrnx2c" target="_blank">japan.reuters.com</a> (2025-12-24 13:21:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50422.23 (🔻53.25 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3378.00 (🔻40.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.98 (🔻0.20 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50435.90 (🔻39.58 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3382.00 (🔻36.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.98 (🔻0.20 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,110 +32,99 @@
 
 ## News Headlines
 
-- UN Security Council holds emergency meeting on Venezuela situation
-- US imposes maximum sanctions on Venezuela's Maduro regime
-- Japan joins Egypt to restore ancient ship 'Second Boat of the Sun'
-- Canada's GDP declines 0.3% in October, first decline in 3 years
-- Arsenal to face Chelsea in English League Cup semifinals
-- US imposes visa ban on EU official and disinformation expert
+- Ukraine army announces withdrawal from one of its defensive strongholds in Donetsk region
+- Russia's Deputy Prime Minister says decline in domestic grain exports due to global price drop
+- Mexico's Consumer Price Index slows down to 3.72% year-on-year increase in December
+- IOC approves Russian skier Nikita Filippov to compete as neutral athlete at 2026 Winter Olympics
+- Indian stock market remains stable ahead of Christmas holidays
+- Ministry of Land, Infrastructure, Transport and Tourism considers paying certain amount to car owners affected by four-day parking garage flooding in Mie Prefecture
 
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+ウクライナ軍 ドネツク州の防衛拠点の1つからの撤退を発表
+https://news.web.nhk/newsweb/na/na-k10015012481000
+
+[2025-12-24 13:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapgddopwa2l)
+
+---
+
 @japan.reuters.com
 
-国連安全保障理事会は２３日、ベネズエラ情勢を巡る緊急会合を開催した。米国はマドゥロ大統領から資金源を奪うために「最大限」の制裁を科すと表明。一方、ロシアは他の中南米諸国が米国の次の標的になる可能性があると警告した。 bit.ly/4p68bt1
+ロシアのパトルシェフ副首相は、自国産穀物輸出の低迷は世界的な価格下落が原因で、需要はあると説明した。２３日の同国紙とのインタビューで述べた。 bit.ly/497x3Lf
 
-[2025-12-24 13:05:12](https://bsky.app/profile/japan.reuters.com/post/3mapf47dtnw2c)
+[2025-12-24 13:26:35](https://bsky.app/profile/japan.reuters.com/post/3mapgchd5rg22)
 
 ---
 
 @japan.reuters.com
 
-トランプ米政権は２３日、米国のソーシャルメディア企業に対する検閲に関与したとして、元欧州連合（ＥＵ）欧州委員や反偽情報活動家らを査証（ビザ）発給禁止の対象にしたことを明らかにした。 bit.ly/3LhpPw7
+メキシコ国立統計地理情報院（ＩＮＥＧＩ）が２３日発表した１２月前半の消費者物価指数（ＣＰＩ）は前年同期比３．７２％上昇に鈍化した。 bit.ly/4jiykUw
 
-[2025-12-24 13:02:33](https://bsky.app/profile/japan.reuters.com/post/3mapexhfddu2u)
-
----
-
-@reuters.com
-
-QB J.J. McCarthy out (hand) vs. Lions reut.rs/4sbds5v
-
-[2025-12-24 13:01:06](https://bsky.app/profile/reuters.com/post/3mapeuuu4nb2y)
+[2025-12-24 13:25:09](https://bsky.app/profile/japan.reuters.com/post/3mapg7ugfum26)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】山陽・関西～山陰の特急列車 25日午後以降運転取りやめの可能性 山陰地方低気圧の影響
-(2025-12-24 12:58) #ニュース
+【速報】長崎バイパスで横転事故 前岳トンネル付近
+(2025-12-24 13:18:00) #ニュース
 
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-24 13:00:55](https://bsky.app/profile/sokuho.news/post/3mapeujyrtb2x)
-
----
-
-@nikkei.com
-
-クフ王「第2の太陽の船」復元作業を公開　大エジプト博物館、日本も協力
-www.nikkei.com/article/DGXZQO...
- 
-建造されたのは約4500年前。古代エジプトのクフ王の副葬品とされ、1987年に考古学者の吉村作治さん率いる日本の調査隊が発見しました。
- 
-発掘された船の部材は劣化が激しく、当初は復元困難とみられていましたが、強化処理を施すなどして道筋を付けました。
- 
-復元の現場主任を務める東日本国際大の黒河内宏昌教授は「復元が終われば、船の安定性や速さなどいろいろなことが分かる」
-
-[2025-12-24 13:00:39](https://bsky.app/profile/nikkei.com/post/3mapeu32wuq2m)
+[2025-12-24 13:21:27](https://bsky.app/profile/sokuho.news/post/3mapfzbpici2r)
 
 ---
 
 @japan.reuters.com
 
-カナダ統計局が２３日発表した１０月の国内総生産（ＧＤＰ）は前月比０．３％減少し、約３年ぶりの大幅な落ち込みとなった。ただ、１１月は０．１％増に反転するとみられている。 bit.ly/4sdmkHG
+国際オリンピック委員会（ＩＯＣ）は、ロシアの山岳スキー選手ニキータ・フィリポフ（２３）について、２０２６年ミラノ・コルティナ冬季五輪に国を代表しない個人中立選手（ＡＩＮ）としての参加を承認した。 bit.ly/4qt3yKY
 
-[2025-12-24 13:00:33](https://bsky.app/profile/japan.reuters.com/post/3mapetuu7hw22)
-
----
-
-@apnews.com
-
-Arsenal will face Chelsea in the English League Cup semifinals after beating Crystal Palace 8-7 on penalties following a 1-1 draw in normal time.
-
-[2025-12-24 13:00:17](https://bsky.app/profile/apnews.com/post/3mapetfkafm2d)
+[2025-12-24 13:21:11](https://bsky.app/profile/japan.reuters.com/post/3mapfyrjrnx2c)
 
 ---
 
-@cnbc.com
+@japan.reuters.com
 
-Performance review season can be nerve-wracking, but there are several ways employees can set themselves up for success.
+２４日午前のインド株式市場は、ほぼ横ばいで推移している。７─９月期の米実質ＧＤＰ（国内総生産）成長率が市場予想を上回ったことで楽観的な見方が広がった半面、海外勢の資金が流出し、年末で薄商いとなった。 bit.ly/4jwb0ml
 
-The best thing employees can do for themselves is to practice “emotional management,” according to career coach Sarah Baker Andrus.
-
-Here's what to avoid.
-
-[2025-12-24 13:00:15](https://bsky.app/profile/cnbc.com/post/3mapete4nrk24)
+[2025-12-24 13:21:07](https://bsky.app/profile/japan.reuters.com/post/3mapfyo3e3c2q)
 
 ---
 
-@washingtonpost.com
+@nhknewsunofficial.bsky.social
 
-Want to put out a show-stopping Christmas dinner? Here’s what add to the menu.
+四日市 地下駐車場浸水 国交省“車所有者に一定額支払い検討”
+https://news.web.nhk/newsweb/na/na-k10015012431000
 
-[2025-12-24 13:00:06](https://bsky.app/profile/washingtonpost.com/post/3mapet3nlxt2b)
+[2025-12-24 13:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapfyl42pb2x)
 
 ---
 
-@aljazeera.com
+@japan.reuters.com
 
-Fall of town comes as Russia, US propose a 'demilitarised', 'free economic zone' in Ukraine's eastern Donetsk region https://aje.io/x1utkg
+三井住友フィナンシャルグループは２４日、傘下の三井住友銀行が米投資ファンドのベインキャピタル、ミューズニッチそれぞれと最大１５億ユーロ（約２７６０億円）の融資ファンドを立ち上げたと発表した。 bit.ly/3KWWoPX
 
-[2025-12-24 13:00:04](https://bsky.app/profile/aljazeera.com/post/3mapeszgf3g2v)
+[2025-12-24 13:20:18](https://bsky.app/profile/japan.reuters.com/post/3mapfx7rydy2c)
+
+---
+
+@reuters.com
+
+Steelers' Mike Tomlin supportive but doesn't condone DK Metcalf's actions reut.rs/4j9UoAl
+
+[2025-12-24 13:20:14](https://bsky.app/profile/reuters.com/post/3mapfx3kmqg2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+米司法省 エプスタイン氏の捜査資料を追加公開 “虚偽内容も”
+https://news.web.nhk/newsweb/na/na-k10015012331000
+
+[2025-12-24 13:18:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapftfldiy2k)
 
 ---
 
