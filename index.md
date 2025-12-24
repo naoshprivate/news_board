@@ -1,9 +1,9 @@
-# [2025-12-24 09:10 updated](2025_12_24.md)
+# [2025-12-24 09:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Have the American Pope and American administration fallen out? <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maoxujzgpp2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-24 09:08:16)</span><span style="padding-right:50px;">South Africa's Madlanga Commission so far: An alleged drug cartel and a murdered witness <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maoxpvko6q2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-24 09:05:40)</span><span style="padding-right:50px;">イスラエルのカッツ国防相は ２３日、パレスチナ自治区ガザへの将来的な再入植の意向を示唆した後、否定する声明を発表した。 bit.ly/48TkTqv <a href="https://bsky.app/profile/japan.reuters.com/post/3maoxozhtst2q" target="_blank">japan.reuters.com</a> (2025-12-24 09:05:11)</span><span style="padding-right:50px;">Libya's PM Dbeibah says he has received news of death of army chief of staff after plane signal was lost near Ankara reut.rs/4pbmUmy <a href="https://bsky.app/profile/reuters.com/post/3maoxoxkptc2k" target="_blank">reuters.com</a> (2025-12-24 09:05:09)</span><span style="padding-right:50px;">サッカーのイングランド・リーグカップ（杯）は２３日、準々決勝の１試合を行い、アーセナルがＰＫ戦の末にクリスタルパレスを下し４強入りした。 bit.ly/4pM7UwA <a href="https://bsky.app/profile/japan.reuters.com/post/3maoxmwo7fr2p" target="_blank">japan.reuters.com</a> (2025-12-24 09:04:01)</span>
+<span style="padding-right:50px;">Exclusive: On New York’s Shelter Island, a Modernist home designed by late architect Norman Jaffe is hitting the market following a two-year renovation. The $17.995 million home is the most expensive for sale on the island. <a href="https://bsky.app/profile/wsj.com/post/3maoyzc52cd2s" target="_blank">wsj.com</a> (2025-12-24 09:28:49)</span><span style="padding-right:50px;">At least two people died in a gas explosion at a nursing home outside of Philadelphia where residents were trapped, authorities say. <a href="https://bsky.app/profile/apnews.com/post/3maoyz3m2pf25" target="_blank">apnews.com</a> (2025-12-24 09:28:43)</span><span style="padding-right:50px;">＊この記事は見出しのみの速報です。 bit.ly/49dx4NK <a href="https://bsky.app/profile/japan.reuters.com/post/3maoyukodja2q" target="_blank">japan.reuters.com</a> (2025-12-24 09:26:11)</span><span style="padding-right:50px;">Apple to allow third-party app stores in Brazil to settle iOS case with regulator reut.rs/3MPkBs0 <a href="https://bsky.app/profile/reuters.com/post/3maoysrrsbm24" target="_blank">reuters.com</a> (2025-12-24 09:25:11)</span><span style="padding-right:50px;">カナダ銀行（中央銀行）が２３日に公表した１２月１０日の政策決定会合の議事要旨で、米国の通商政策の予測が困難になっていることのほか、経済指標が大きく変動していることを背景に、７人の政策委員が中銀の次の一手が利上げになるのか、利下げになるのかを見通すのは難しいとの認識で一致していたことが分かった。 bit.ly/4sdrpQq <a href="https://bsky.app/profile/japan.reuters.com/post/3maoysrekk727" target="_blank">japan.reuters.com</a> (2025-12-24 09:25:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50412.87 (🔺38.39 : 2025-12-23)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3415.00 (🔻64.00 : 2025-12-23)</span><span style="padding-right:50px;">USD/JPY: 156.01 (🔻0.17 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50506.07 (🔺30.59 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3398.00 (🔻20.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 156.22 (🔺0.04 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,93 +32,95 @@
 
 ## News Headlines
 
-- US Supreme Court rejects Trump's military deployment in Chicago area, for now
-- Libya's PM Dbeibah says he has received news of death of army chief of staff after plane signal was lost near Ankara
-- US stocks continue to rise, S&P 500 index hits new high
-- Russell Brand faces new rape and sexual assault charges
-- WWE star Logan Paul to sell rare Pokémon card
-- Body of missing 9-year-old California girl Melodee Buzzard found, mother arrested
+- Exclusive: Modernist Home Designed by Norman Jaffe Hits the Market for $17.995 Million
+- At Least Two People Dead in Gas Explosion at Nursing Home Outside of Philadelphia
+- Apple to Allow Third-Party App Stores in Brazil to Settle iOS Case
+- Canada Central Bank Says Interest Rate Hike or Cut Difficult to Predict Due to Uncertainty
+- Stock Market Update: What's Likely to Move the Market in the Next Trading Session
+- Gold Price Breaks $4,500 Per Ounce for First Time Ever
 
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@wsj.com
 
-Have the American Pope and American administration fallen out?
+Exclusive: On New York’s Shelter Island, a Modernist home designed by late architect Norman Jaffe is hitting the market following a two-year renovation. The $17.995 million home is the most expensive for sale on the island.
 
-[2025-12-24 09:08:16](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maoxujzgpp2y)
+[2025-12-24 09:28:49](https://bsky.app/profile/wsj.com/post/3maoyzc52cd2s)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@apnews.com
 
-South Africa's Madlanga Commission so far: An alleged drug cartel and a murdered witness
+At least two people died in a gas explosion at a nursing home outside of Philadelphia where residents were trapped, authorities say.
 
-[2025-12-24 09:05:40](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maoxpvko6q2b)
+[2025-12-24 09:28:43](https://bsky.app/profile/apnews.com/post/3maoyz3m2pf25)
 
 ---
 
 @japan.reuters.com
 
-イスラエルのカッツ国防相は ２３日、パレスチナ自治区ガザへの将来的な再入植の意向を示唆した後、否定する声明を発表した。 bit.ly/48TkTqv
+＊この記事は見出しのみの速報です。 bit.ly/49dx4NK
 
-[2025-12-24 09:05:11](https://bsky.app/profile/japan.reuters.com/post/3maoxozhtst2q)
+[2025-12-24 09:26:11](https://bsky.app/profile/japan.reuters.com/post/3maoyukodja2q)
 
 ---
 
 @reuters.com
 
-Libya's PM Dbeibah says he has received news of death of army chief of staff after plane signal was lost near Ankara reut.rs/4pbmUmy
+Apple to allow third-party app stores in Brazil to settle iOS case with regulator reut.rs/3MPkBs0
 
-[2025-12-24 09:05:09](https://bsky.app/profile/reuters.com/post/3maoxoxkptc2k)
+[2025-12-24 09:25:11](https://bsky.app/profile/reuters.com/post/3maoysrrsbm24)
 
 ---
 
 @japan.reuters.com
 
-サッカーのイングランド・リーグカップ（杯）は２３日、準々決勝の１試合を行い、アーセナルがＰＫ戦の末にクリスタルパレスを下し４強入りした。 bit.ly/4pM7UwA
+カナダ銀行（中央銀行）が２３日に公表した１２月１０日の政策決定会合の議事要旨で、米国の通商政策の予測が困難になっていることのほか、経済指標が大きく変動していることを背景に、７人の政策委員が中銀の次の一手が利上げになるのか、利下げになるのかを見通すのは難しいとの認識で一致していたことが分かった。 bit.ly/4sdrpQq
 
-[2025-12-24 09:04:01](https://bsky.app/profile/japan.reuters.com/post/3maoxmwo7fr2p)
+[2025-12-24 09:25:10](https://bsky.app/profile/japan.reuters.com/post/3maoysrekk727)
+
+---
+
+@japan.reuters.com
+
+＜０９：０８＞　日経平均は続伸で寄り付く、米株高の流れ引き継ぐ bit.ly/498hmDg
+
+[2025-12-24 09:25:00](https://bsky.app/profile/japan.reuters.com/post/3maoysh6ekg2c)
+
+---
+
+@cnn.com
+
+Two people are dead and others are missing after a fire and explosion tore into a nursing home on the outskirts of Philadelphia, Pennsylvania, spurring local responders, bystanders and staff to rush the elderly population to safety, Gov. Josh Shapiro said. https://cnn.it/49dfU2R
+
+[2025-12-24 09:24:52](https://bsky.app/profile/cnn.com/post/3maoys7lwmz2o)
 
 ---
 
 @bloomberg.com
 
-A private jet carrying Libya’s military chief of staff, Mohammed Ali Ahmed al-Haddad, crashed in central Turkey after authorities lost contact with the aircraft, killing him and four others, Libya’s internationally recognized government said
+The world’s biggest producer of batteries for electric vehicles needs to grow, but Trump and European politicians are standing in its way. 
 
-[2025-12-24 09:03:02](https://bsky.app/profile/bloomberg.com/post/3maoxl6jtbu27)
+📷: Yang Lei/Getty Images
+
+[2025-12-24 09:23:05](https://bsky.app/profile/bloomberg.com/post/3maoyozvccj2p)
+
+---
+
+@cnbc.com
+
+Wednesday's big stock stories: What’s likely to move the market in the next trading session
+
+[2025-12-24 09:22:54](https://bsky.app/profile/cnbc.com/post/3maoyooter22i)
 
 ---
 
 @japan.reuters.com
 
-ベネズエラでは、米国によるタンカー「全面封鎖」を受けて原油の輸出に支障を来たし、国内の在庫が積み上がっている。石油タンクが満杯となり、国営石油会社ＰＤＶＳＡが、領海内にとどまるタンカーへの積み込みを開始したことが、同社の資料や船積みデータで明らかになった。 bit.ly/4awhiQm
+＊この記事は見出しのみの速報です。 bit.ly/3YEVGKi
 
-[2025-12-24 09:01:34](https://bsky.app/profile/japan.reuters.com/post/3maoxikvjaa2f)
-
----
-
-@japan.reuters.com
-
-トランプ米政権は、米国への亡命申請者を自国以外の国に強制送還することが可能と主張し、移民裁判所で係争中の数千人の亡命申請を無効とする試みを全米で進めている。米ＣＢＳニュースが２３日報じた。 bit.ly/4sb7l0X
-
-[2025-12-24 09:01:24](https://bsky.app/profile/japan.reuters.com/post/3maoxib46ln2c)
-
----
-
-@reuters.com
-
-US Supreme Court rejects Trump's military deployment in Chicago area, for now reut.rs/4s3m3Hg
-
-[2025-12-24 09:01:13](https://bsky.app/profile/reuters.com/post/3maoxhwxm3i2y)
-
----
-
-@usatoday.com
-
-The 51-year-old was known for his travel and theme park vlogs on YouTube.
-
-[2025-12-24 09:00:51](https://bsky.app/profile/usatoday.com/post/3maoxhbs7yj2q)
+[2025-12-24 09:20:33](https://bsky.app/profile/japan.reuters.com/post/3maoykinjb222)
 
 ---
 
