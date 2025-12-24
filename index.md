@@ -1,9 +1,9 @@
-# [2025-12-24 14:50 updated](2025_12_24.md)
+# [2025-12-24 15:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">日本赤十字社 不適切事案 過去に985件 3600本余の血液など廃棄 https://news.web.nhk/newsweb/na/na-k10015012541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapku5efr72u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 14:48:02)</span><span style="padding-right:50px;">内閣府が２４日発表した１０月の景気動向指数改定値によると、足元の景気情勢を示す一致指数（２０２０年＝１００）は前月比１．０ポイント上昇の１１５．９で、速報値（１１５．４）から上方修正された。 bit.ly/4p6awnN <a href="https://bsky.app/profile/japan.reuters.com/post/3mapkomyvok2q" target="_blank">japan.reuters.com</a> (2025-12-24 14:44:59)</span><span style="padding-right:50px;">中国当局は２４日、今年序盤に海底ケーブルを損壊した船舶による密輸作戦を指揮したのは２人の台湾人だったと発表した。 bit.ly/49rbDKc <a href="https://bsky.app/profile/japan.reuters.com/post/3mapkkucggi2n" target="_blank">japan.reuters.com</a> (2025-12-24 14:42:52)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】150円台は4年ぶり 佐賀県のガソリン157円60銭に (2025-12-24 14:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mapkh55bw726" target="_blank">sokuho.news</a> (2025-12-24 14:40:47)</span><span style="padding-right:50px;">Indian shares edge up on strong U.S. growth; IT drags reut.rs/4quOJrf <a href="https://bsky.app/profile/reuters.com/post/3mapkfzyg222y" target="_blank">reuters.com</a> (2025-12-24 14:40:11)</span>
+<span style="padding-right:50px;">米連邦最高裁 州兵シカゴ派遣 下級審の差し止め決定妥当の判断 https://news.web.nhk/newsweb/na/na-k10015012521000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maplue5c5a26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 15:06:03)</span><span style="padding-right:50px;">Mexico's Pemex appoints new head of production unit, internal documents show reut.rs/4sav1lZ <a href="https://bsky.app/profile/reuters.com/post/3maplsogjxh2x" target="_blank">reuters.com</a> (2025-12-24 15:05:08)</span><span style="padding-right:50px;">アジア新興国通貨は堅調。１％以上上昇した韓国ウォンがけん引している。 bit.ly/3KMChnD <a href="https://bsky.app/profile/japan.reuters.com/post/3maplooeq722q" target="_blank">japan.reuters.com</a> (2025-12-24 15:02:54)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】柏崎刈羽原発6号機 来年1月20日再稼働へ 東電の原子炉起動14年ぶり震災以降初 (2025年12月24日 15:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maplob2e4j27" target="_blank">sokuho.news</a> (2025-12-24 15:02:40)</span><span style="padding-right:50px;">A 3-year-old was put on ADHD meds for acting up in daycare. That was the first of six different psychiatric drugs. How a childhood of overmedication begins. on.wsj.com/4pVoQ3Y <a href="https://bsky.app/profile/wsj.com/post/3maplmxl7il2c" target="_blank">wsj.com</a> (2025-12-24 15:01:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50390.30 (🔻85.18 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3365.00 (🔻53.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔻0.36 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50346.38 (🔻129.10 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3360.00 (🔻58.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.70 (🔻0.48 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,97 +32,101 @@
 
 ## News Headlines
 
-- Japanese Red Cross Society Investigated for 985 Inappropriate Cases, 3600 Items of Blood and Others Discarded
-- Japan's Economic Conditions Index Up 1.0 Points to 115.9 in October
-- Taiwanese Nationals Identified as Masterminds Behind China's Underwater Cable Incident
-- Saga Gas Price Drops to 157.60 JPY, Lowest in 4 Years
-- US and Palau Hold Call on Transfer of Third-Country Nationals
-- World Trade Organization Announces India's WTO Complaint Against China Over Solar Panels and IT Products
+- Japanese Supreme Court Halts Deployment of National Guard in Chicago
+- Mexico's Pemex Appoints New Head of Production Unit
+- Asian Emerging Market Currencies Strengthen, Korean Won Leads the Way
+- Swedish Activist Greta Thunberg Released from Custody After London Protest
+- Japanese Power Company to Restart Nuclear Reactor in 2026
+- Japanese Red Cross Society Discloses 985 Incidents of Inappropriate Conduct
 
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-日本赤十字社 不適切事案 過去に985件 3600本余の血液など廃棄
-https://news.web.nhk/newsweb/na/na-k10015012541000
+米連邦最高裁 州兵シカゴ派遣 下級審の差し止め決定妥当の判断
+https://news.web.nhk/newsweb/na/na-k10015012521000
 
-[2025-12-24 14:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapku5efr72u)
-
----
-
-@japan.reuters.com
-
-内閣府が２４日発表した１０月の景気動向指数改定値によると、足元の景気情勢を示す一致指数（２０２０年＝１００）は前月比１．０ポイント上昇の１１５．９で、速報値（１１５．４）から上方修正された。 bit.ly/4p6awnN
-
-[2025-12-24 14:44:59](https://bsky.app/profile/japan.reuters.com/post/3mapkomyvok2q)
-
----
-
-@japan.reuters.com
-
-中国当局は２４日、今年序盤に海底ケーブルを損壊した船舶による密輸作戦を指揮したのは２人の台湾人だったと発表した。 bit.ly/49rbDKc
-
-[2025-12-24 14:42:52](https://bsky.app/profile/japan.reuters.com/post/3mapkkucggi2n)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】150円台は4年ぶり 佐賀県のガソリン157円60銭に
-(2025-12-24 14:40) #ニュース
-
-[2025-12-24 14:40:47](https://bsky.app/profile/sokuho.news/post/3mapkh55bw726)
+[2025-12-24 15:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maplue5c5a26)
 
 ---
 
 @reuters.com
 
-Indian shares edge up on strong U.S. growth; IT drags reut.rs/4quOJrf
+Mexico's Pemex appoints new head of production unit, internal documents show reut.rs/4sav1lZ
 
-[2025-12-24 14:40:11](https://bsky.app/profile/reuters.com/post/3mapkfzyg222y)
-
----
-
-@financialtimes.com
-
- A tiny beacon of trust: the joy of the honesty box ft.trib.al/2CKqsEp  | opinion
-
-[2025-12-24 14:33:36](https://bsky.app/profile/financialtimes.com/post/3mapk2bjqp22b)
+[2025-12-24 15:05:08](https://bsky.app/profile/reuters.com/post/3maplsogjxh2x)
 
 ---
 
-@financialtimes.com
+@japan.reuters.com
 
- Why self-improvement starts with maintenance ft.trib.al/4RJC3In  | opinion
+アジア新興国通貨は堅調。１％以上上昇した韓国ウォンがけん引している。 bit.ly/3KMChnD
 
-[2025-12-24 14:33:35](https://bsky.app/profile/financialtimes.com/post/3mapk2b33yv2w)
-
----
-
-@financialtimes.com
-
- Year in a word: Rare earths ft.trib.al/3i8tO5T  | opinion
-
-[2025-12-24 14:33:35](https://bsky.app/profile/financialtimes.com/post/3mapk2ao2bd2v)
+[2025-12-24 15:02:54](https://bsky.app/profile/japan.reuters.com/post/3maplooeq722q)
 
 ---
 
-@financialtimes.com
+@sokuho.news
 
- Ikea muscles in on the last-minute stocking-stuffer trade ft.trib.al/LVQT5Tk  | opinion
+🔔ANNより【速報】です。
 
-[2025-12-24 14:33:34](https://bsky.app/profile/financialtimes.com/post/3mapk2ab7x52k)
+【速報】柏崎刈羽原発6号機 来年1月20日再稼働へ 東電の原子炉起動14年ぶり震災以降初
+(2025年12月24日 15:02) #ニュース
+
+[2025-12-24 15:02:40](https://bsky.app/profile/sokuho.news/post/3maplob2e4j27)
 
 ---
 
 @wsj.com
 
-The Miami Dolphins gave quarterback Tua Tagovailoa a mega contract last year as a reward for his improved play. Now, just 18 months on, it’s blown up in their faces. 🔗 on.wsj.com/48UsrZW
+A 3-year-old was put on ADHD meds for acting up in daycare. That was the first of six different psychiatric drugs. How a childhood of overmedication begins. on.wsj.com/4pVoQ3Y
 
-[2025-12-24 14:33:06](https://bsky.app/profile/wsj.com/post/3mapjzfdoku2h)
+[2025-12-24 15:01:57](https://bsky.app/profile/wsj.com/post/3maplmxl7il2c)
+
+---
+
+@cnn.com
+
+Swedish activist Greta Thunberg was released from custody after being arrested in London at a pro-Palestinian protest, police said. https://cnn.it/48QKUXo
+
+[2025-12-24 15:01:03](https://bsky.app/profile/cnn.com/post/3maplldxph724)
+
+---
+
+@nikkei.com
+
+【親の受けた放射線は子に影響するのか？】
+被爆2世のゲノム解析開始　放射線影響研究所
+www.nikkei.com/article/DGXZQO...
+ 
+#ニュース
+
+[2025-12-24 15:00:40](https://bsky.app/profile/nikkei.com/post/3maplko4kd42m)
+
+---
+
+@japan.reuters.com
+
+イスラエルのネタニヤフ内閣は２２日の閣議で、国民に人気の軍ラジオ局を来年３月１日に閉鎖することを決定した。ネタニヤフ首相率いる右派連立政権による民主主義抑圧の一環だとの批判が出ている。 bit.ly/3MR22nq
+
+[2025-12-24 15:00:34](https://bsky.app/profile/japan.reuters.com/post/3maplkij4hl2c)
+
+---
+
+@bloomberg.com
+
+In response to Trump’s tariffs, one American toymaker is trying to wean itself from Chinese manufacturers. But it’s discovering that it’s easier to move your factory out of China than it is to move China out of your factory.
+
+[2025-12-24 15:00:25](https://bsky.app/profile/bloomberg.com/post/3maplk7tfry2z)
+
+---
+
+@reuters.com
+
+Reports: Pirates signing All-Star 1B Ryan O'Hearn reut.rs/3L6zghY
+
+[2025-12-24 15:00:22](https://bsky.app/profile/reuters.com/post/3maplk5nngo23)
 
 ---
 
