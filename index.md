@@ -1,9 +1,9 @@
-# [2025-12-25 04:10 updated](2025_12_25.md)
+# [2025-12-25 04:30 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米国株式市場は、ダウ工業株３０種とＳ＆Ｐ総合５００種が終値で最高値を更新した。クリスマスイブの短縮取引で、薄商いとなる中、主要株価３指数はそろって５営業日続伸した。 bit.ly/4bcaLKG <a href="https://bsky.app/profile/japan.reuters.com/post/3maqxkxohv32c" target="_blank">japan.reuters.com</a> (2025-12-25 04:08:14)</span><span style="padding-right:50px;">（暫定値） bit.ly/48ULDXC <a href="https://bsky.app/profile/japan.reuters.com/post/3maqxb5khb72q" target="_blank">japan.reuters.com</a> (2025-12-25 04:02:45)</span><span style="padding-right:50px;">Epstein files: Senators call for audit into DOJ's release <a href="https://bsky.app/profile/cnbc.com/post/3maqxb4s6av2g" target="_blank">cnbc.com</a> (2025-12-25 04:02:44)</span><span style="padding-right:50px;">In Episode 6 of Disney+'s "Taylor Swift: The End of an Era," Swift reveals the sweet encouragement her then-boyfriend Travis Kelce wrote to her. <a href="https://bsky.app/profile/usatoday.com/post/3maqx6taism2q" target="_blank">usatoday.com</a> (2025-12-25 04:01:27)</span><span style="padding-right:50px;">Jason Siu, a college junior, started his side hustle selling $3 stickers on Snapchat in 2020.  Less than three years later, his business has brought in over $1 million, selling stickers, along with flashy car accessories. <a href="https://bsky.app/profile/cnbc.com/post/3maqx5dg65v24" target="_blank">cnbc.com</a> (2025-12-25 04:00:37)</span>
+<span style="padding-right:50px;">The release of the government’s Jeffrey Epstein files was supposed to deliver a full accounting of an era-defining scandal.  Instead, the ham-fisted publication process is sowing further doubts among the public. <a href="https://bsky.app/profile/wsj.com/post/3maqyqeyzsp2k" target="_blank">wsj.com</a> (2025-12-25 04:29:10)</span><span style="padding-right:50px;">The Justice Department says it has found more than 1 million additional documents potentially related to the Jeffrey Epstein case. https://cnn.it/4jaCaPb <a href="https://bsky.app/profile/cnn.com/post/3maqyp5nwuk2v" target="_blank">cnn.com</a> (2025-12-25 04:28:29)</span><span style="padding-right:50px;">US authorities discover a million more Epstein documents, officials say <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maqyoi2uyz26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-25 04:28:05)</span><span style="padding-right:50px;">Suspension could cost Steelers' DK Metcalf more than $45M reut.rs/4qi5eXw <a href="https://bsky.app/profile/reuters.com/post/3maqyj5xkqy2k" target="_blank">reuters.com</a> (2025-12-25 04:25:08)</span><span style="padding-right:50px;">中国人民銀行（中央銀行）は２４日、市場の期待を安定させ、為替レートを「基本的に合理的かつバランスのとれた水準で安定を維持する」と表明した。この日開催した金融政策委員会の資料で分かった。 bit.ly/49b5XTs <a href="https://bsky.app/profile/japan.reuters.com/post/3maqyapr2hm27" target="_blank">japan.reuters.com</a> (2025-12-25 04:20:24)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.96 (🔻0.22 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔻0.24 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,98 +32,95 @@
 
 ## News Headlines
 
-- US Stock Market Hits Record Highs as Main Indices Extend Winning Streak to 5 Days
-- Senators Demand Investigation into DOJ's Release of Epstein Files
-- Taylor Swift Reveals Boyfriend's Heartfelt Support in New Disney+ Documentary
-- College Student Turns $3 Stickers into $1 Million Business
-- Explosion at Pennsylvania Nursing Home Kills 2, Injures 20
-- Climate Scientists Fear Funding Cuts Will Harm US Leadership in Field
+- US authorities discover a million more Epstein documents, officials say
+- US authorities discover a million more Epstein documents
+- Justice Department says Epstein document release could take few more weeks
+- Justice Department says Epstein document release could take few more weeks
+- Wall Street is headed into Christmas on a high note
+- Supreme Court's decision blocking President Trump from sending National Guard into cities likely to raise debate
 
 
 ----
 
-@japan.reuters.com
+@wsj.com
 
-米国株式市場は、ダウ工業株３０種とＳ＆Ｐ総合５００種が終値で最高値を更新した。クリスマスイブの短縮取引で、薄商いとなる中、主要株価３指数はそろって５営業日続伸した。 bit.ly/4bcaLKG
+The release of the government’s Jeffrey Epstein files was supposed to deliver a full accounting of an era-defining scandal.
 
-[2025-12-25 04:08:14](https://bsky.app/profile/japan.reuters.com/post/3maqxkxohv32c)
+Instead, the ham-fisted publication process is sowing further doubts among the public.
 
----
-
-@japan.reuters.com
-
-（暫定値） bit.ly/48ULDXC
-
-[2025-12-25 04:02:45](https://bsky.app/profile/japan.reuters.com/post/3maqxb5khb72q)
-
----
-
-@cnbc.com
-
-Epstein files: Senators call for audit into DOJ's release
-
-[2025-12-25 04:02:44](https://bsky.app/profile/cnbc.com/post/3maqxb4s6av2g)
-
----
-
-@usatoday.com
-
-In Episode 6 of Disney+'s "Taylor Swift: The End of an Era," Swift reveals the sweet encouragement her then-boyfriend Travis Kelce wrote to her.
-
-[2025-12-25 04:01:27](https://bsky.app/profile/usatoday.com/post/3maqx6taism2q)
-
----
-
-@cnbc.com
-
-Jason Siu, a college junior, started his side hustle selling $3 stickers on Snapchat in 2020.
-
-Less than three years later, his business has brought in over $1 million, selling stickers, along with flashy car accessories.
-
-[2025-12-25 04:00:37](https://bsky.app/profile/cnbc.com/post/3maqx5dg65v24)
-
----
-
-@apnews.com
-
-Crews are using construction equipment to clear the rubble of a Pennsylvania nursing home after an explosion killed two people and hospitalized 20 others.
-
-[2025-12-25 04:00:36](https://bsky.app/profile/apnews.com/post/3maqx5c7tpe23)
+[2025-12-25 04:29:10](https://bsky.app/profile/wsj.com/post/3maqyqeyzsp2k)
 
 ---
 
 @cnn.com
 
-If they had the chance to tell Washington something, a new CNN poll conducted by SSRS finds, they’d say plenty, much of it about the economy.
-https://cnn.it/4p8DnIg
+The Justice Department says it has found more than 1 million additional documents potentially related to the Jeffrey Epstein case. https://cnn.it/4jaCaPb
 
-[2025-12-25 04:00:25](https://bsky.app/profile/cnn.com/post/3maqx4yafqk2v)
-
----
-
-@washingtonpost.com
-
-Slashes to the federal workforce and scientific funding have reached many corners of climate science’s myriad specialties, from extreme heat forecasters to right whale researchers — and could change America’s standing as a leader in the field.
-
-[2025-12-25 04:00:23](https://bsky.app/profile/washingtonpost.com/post/3maqx4whcrf24)
+[2025-12-25 04:28:29](https://bsky.app/profile/cnn.com/post/3maqyp5nwuk2v)
 
 ---
 
-@nbcnews.com
+@bbcnews-world-rss.bsky.social
 
-The film academy’s nearly 10,000 voting members will soon cast their Oscars ballots in more than 20 categories, including a new one recognizing achievement in casting. 
+US authorities discover a million more Epstein documents, officials say
 
-[2025-12-25 04:00:17](https://bsky.app/profile/nbcnews.com/post/3maqx4qgntm23)
+[2025-12-25 04:28:05](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maqyoi2uyz26)
 
 ---
 
-@bloomberg.com
+@reuters.com
 
-From markets to mind games — stay sharp with Alphadots, Bloomberg’s daily word puzzle.
+Suspension could cost Steelers' DK Metcalf more than $45M reut.rs/4qi5eXw
 
-Solve today’s:
+[2025-12-25 04:25:08](https://bsky.app/profile/reuters.com/post/3maqyj5xkqy2k)
 
-[2025-12-25 04:00:16](https://bsky.app/profile/bloomberg.com/post/3maqx4pc3qq27)
+---
+
+@japan.reuters.com
+
+中国人民銀行（中央銀行）は２４日、市場の期待を安定させ、為替レートを「基本的に合理的かつバランスのとれた水準で安定を維持する」と表明した。この日開催した金融政策委員会の資料で分かった。 bit.ly/49b5XTs
+
+[2025-12-25 04:20:24](https://bsky.app/profile/japan.reuters.com/post/3maqyapr2hm27)
+
+---
+
+@forbes.com
+
+The DOJ’s recent publication of Epstein files came under scrutiny for a high number of redactions and a missed Dec. 19 deadline for their full release.
+
+[2025-12-25 04:20:08](https://bsky.app/profile/forbes.com/post/3maqyaaf37e25)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> The DOJ says it may need a "few more weeks" to finish the release of the Epstein files despite the Dec. 19 deadline set by Congress.</strong>
+
+[2025-12-25 04:17:29](https://bsky.app/profile/apnews.com/post/3maqy3is44h24)
+
+---
+
+@reuters.com
+
+Serbia's NIS gets US approval to negotiate sale of Russian stake reut.rs/4sdQQRQ
+
+[2025-12-25 04:15:13](https://bsky.app/profile/reuters.com/post/3maqxxh64fd2s)
+
+---
+
+@nytimes.com
+
+Coquito, classic eggnog and holiday punch: we have your Christmas cocktail recipes covered. nyti.ms/4ajOxpU
+
+[2025-12-25 04:14:05](https://bsky.app/profile/nytimes.com/post/3maqxvgchi62b)
+
+---
+
+@reuters.com
+
+Justice Department says Epstein document release could take few more weeks reut.rs/4qi4tOa
+
+[2025-12-25 04:10:10](https://bsky.app/profile/reuters.com/post/3maqxofynd42p)
 
 ---
 
