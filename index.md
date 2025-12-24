@@ -1,9 +1,9 @@
-# [2025-12-25 03:50 updated](2025_12_25.md)
+# [2025-12-25 04:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NPR's Michel Martin checks in with Middle Collegiate Church in Manhattan as it celebrates its first Christmas service since a devastating fire in 2020. n.pr/3Yb0gje <a href="https://bsky.app/profile/npr.org/post/3maqwe45zyt2d" target="_blank">npr.org</a> (2025-12-25 03:46:30)</span><span style="padding-right:50px;">"Marty Supreme" is an NYT Critic’s Pick. Read our full review. nyti.ms/3LcFZ9Y <a href="https://bsky.app/profile/nytimes.com/post/3maqwbkuxiy2y" target="_blank">nytimes.com</a> (2025-12-25 03:45:05)</span><span style="padding-right:50px;">Since Japan recorded a spike in deadly bear attacks, Koji Suzuki has struggled to keep up with booming demand for grilled cuts of the animal at his restaurant.  u.afp.com/S8AP <a href="https://bsky.app/profile/en.afp.com/post/3maqwbjbj462y" target="_blank">en.afp.com</a> (2025-12-25 03:45:03)</span><span style="padding-right:50px;">Nineteen states filed a complaint against Health Secretary RFK Jr., the HHS and its inspector general over plans that could dramatically limit medical professionals from providing gender transition care to children and teenagers. <a href="https://bsky.app/profile/washingtonpost.com/post/3maqwbiylto24" target="_blank">washingtonpost.com</a> (2025-12-25 03:45:03)</span><span style="padding-right:50px;">Big buyout firms are struggling to sell investments, so they’ve found a workaround: selling the companies to themselves. It shows the "rot in private equity," said the chief investment officer of the $83 billion Alaska Permanent Fund Corporation. nyti.ms/3NeXKWO <a href="https://bsky.app/profile/nytimes.com/post/3maqw43ir4c27" target="_blank">nytimes.com</a> (2025-12-25 03:42:01)</span>
+<span style="padding-right:50px;">米国株式市場は、ダウ工業株３０種とＳ＆Ｐ総合５００種が終値で最高値を更新した。クリスマスイブの短縮取引で、薄商いとなる中、主要株価３指数はそろって５営業日続伸した。 bit.ly/4bcaLKG <a href="https://bsky.app/profile/japan.reuters.com/post/3maqxkxohv32c" target="_blank">japan.reuters.com</a> (2025-12-25 04:08:14)</span><span style="padding-right:50px;">（暫定値） bit.ly/48ULDXC <a href="https://bsky.app/profile/japan.reuters.com/post/3maqxb5khb72q" target="_blank">japan.reuters.com</a> (2025-12-25 04:02:45)</span><span style="padding-right:50px;">Epstein files: Senators call for audit into DOJ's release <a href="https://bsky.app/profile/cnbc.com/post/3maqxb4s6av2g" target="_blank">cnbc.com</a> (2025-12-25 04:02:44)</span><span style="padding-right:50px;">In Episode 6 of Disney+'s "Taylor Swift: The End of an Era," Swift reveals the sweet encouragement her then-boyfriend Travis Kelce wrote to her. <a href="https://bsky.app/profile/usatoday.com/post/3maqx6taism2q" target="_blank">usatoday.com</a> (2025-12-25 04:01:27)</span><span style="padding-right:50px;">Jason Siu, a college junior, started his side hustle selling $3 stickers on Snapchat in 2020.  Less than three years later, his business has brought in over $1 million, selling stickers, along with flashy car accessories. <a href="https://bsky.app/profile/cnbc.com/post/3maqx5dg65v24" target="_blank">cnbc.com</a> (2025-12-25 04:00:37)</span>
   </div>
 </div>
 
@@ -32,94 +32,98 @@
 
 ## News Headlines
 
-- NPR's Michel Martin Checks in with Manhattan's Middle Collegiate Church After Devastating Fire
-- NYT Critic Picks 'Marty Supreme' as a Must-See Film
-- Bear Attacks Surge in Japan, Boosting Demand for Grilled Bear Meat
-- 19 States Sue Over Plans to Limit Transgender Health Care for Minors
-- Private Equity Firms Sell Companies to Themselves to Avoid Losses
-- Hugh Jackman and Kate Hudson Star in Cheesy Fact-Based Drama 'Goodbye June'
+- US Stock Market Hits Record Highs as Main Indices Extend Winning Streak to 5 Days
+- Senators Demand Investigation into DOJ's Release of Epstein Files
+- Taylor Swift Reveals Boyfriend's Heartfelt Support in New Disney+ Documentary
+- College Student Turns $3 Stickers into $1 Million Business
+- Explosion at Pennsylvania Nursing Home Kills 2, Injures 20
+- Climate Scientists Fear Funding Cuts Will Harm US Leadership in Field
 
 
 ----
 
-@npr.org
+@japan.reuters.com
 
-NPR's Michel Martin checks in with Middle Collegiate Church in Manhattan as it celebrates its first Christmas service since a devastating fire in 2020. n.pr/3Yb0gje
+米国株式市場は、ダウ工業株３０種とＳ＆Ｐ総合５００種が終値で最高値を更新した。クリスマスイブの短縮取引で、薄商いとなる中、主要株価３指数はそろって５営業日続伸した。 bit.ly/4bcaLKG
 
-[2025-12-25 03:46:30](https://bsky.app/profile/npr.org/post/3maqwe45zyt2d)
-
----
-
-@nytimes.com
-
-"Marty Supreme" is an NYT Critic’s Pick. Read our full review. nyti.ms/3LcFZ9Y
-
-[2025-12-25 03:45:05](https://bsky.app/profile/nytimes.com/post/3maqwbkuxiy2y)
+[2025-12-25 04:08:14](https://bsky.app/profile/japan.reuters.com/post/3maqxkxohv32c)
 
 ---
 
-@en.afp.com
+@japan.reuters.com
 
-Since Japan recorded a spike in deadly bear attacks, Koji Suzuki has struggled to keep up with booming demand for grilled cuts of the animal at his restaurant. 
-u.afp.com/S8AP
+（暫定値） bit.ly/48ULDXC
 
-[2025-12-25 03:45:03](https://bsky.app/profile/en.afp.com/post/3maqwbjbj462y)
-
----
-
-@washingtonpost.com
-
-Nineteen states filed a complaint against Health Secretary RFK Jr., the HHS and its inspector general over plans that could dramatically limit medical professionals from providing gender transition care to children and teenagers.
-
-[2025-12-25 03:45:03](https://bsky.app/profile/washingtonpost.com/post/3maqwbiylto24)
+[2025-12-25 04:02:45](https://bsky.app/profile/japan.reuters.com/post/3maqxb5khb72q)
 
 ---
 
-@nytimes.com
+@cnbc.com
 
-Big buyout firms are struggling to sell investments, so they’ve found a workaround: selling the companies to themselves. It shows the "rot in private equity," said the chief investment officer of the $83 billion Alaska Permanent Fund Corporation. nyti.ms/3NeXKWO
+Epstein files: Senators call for audit into DOJ's release
 
-[2025-12-25 03:42:01](https://bsky.app/profile/nytimes.com/post/3maqw43ir4c27)
-
----
-
-@wsj.com
-
-Hugh Jackman and Kate Hudson star as a devoted Neil Diamond impersonator and his backup singer in a wonderfully weird fact-based drama about chasing your dreams, no matter how cheesy. on.wsj.com/49sXTyE
-
-[2025-12-25 03:35:15](https://bsky.app/profile/wsj.com/post/3maqvpxruji2c)
+[2025-12-25 04:02:44](https://bsky.app/profile/cnbc.com/post/3maqxb4s6av2g)
 
 ---
 
 @usatoday.com
 
-"Goodbye June" director Kate Winslet shares the advice she gave her children Mia and Joe, who have followed in her footsteps as actors.
+In Episode 6 of Disney+'s "Taylor Swift: The End of an Era," Swift reveals the sweet encouragement her then-boyfriend Travis Kelce wrote to her.
 
-[2025-12-25 03:30:27](https://bsky.app/profile/usatoday.com/post/3maqvhf5hbk2s)
+[2025-12-25 04:01:27](https://bsky.app/profile/usatoday.com/post/3maqx6taism2q)
+
+---
+
+@cnbc.com
+
+Jason Siu, a college junior, started his side hustle selling $3 stickers on Snapchat in 2020.
+
+Less than three years later, his business has brought in over $1 million, selling stickers, along with flashy car accessories.
+
+[2025-12-25 04:00:37](https://bsky.app/profile/cnbc.com/post/3maqx5dg65v24)
+
+---
+
+@apnews.com
+
+Crews are using construction equipment to clear the rubble of a Pennsylvania nursing home after an explosion killed two people and hospitalized 20 others.
+
+[2025-12-25 04:00:36](https://bsky.app/profile/apnews.com/post/3maqx5c7tpe23)
 
 ---
 
 @cnn.com
 
-The Supreme Court’s decision blocking President Trump from sending the National Guard into American cities is likely to raise a politically fraught debate about the president’s willingness to invoke a 19th-century law to deploy the regular military on American soil instead. https://cnn.it/45qYuyn
+If they had the chance to tell Washington something, a new CNN poll conducted by SSRS finds, they’d say plenty, much of it about the economy.
+https://cnn.it/4p8DnIg
 
-[2025-12-25 03:30:07](https://bsky.app/profile/cnn.com/post/3maqvgs6upb2a)
+[2025-12-25 04:00:25](https://bsky.app/profile/cnn.com/post/3maqx4yafqk2v)
 
 ---
 
 @washingtonpost.com
 
-Rather than shuttling detainees around the country to wherever detention space is available, ICE aims to speed up deportations by renovating industrial warehouses to hold more than 80,000 immigrant detainees at a time, according to a draft solicitation.  https://wapo.st/4aqyir8
+Slashes to the federal workforce and scientific funding have reached many corners of climate science’s myriad specialties, from extreme heat forecasters to right whale researchers — and could change America’s standing as a leader in the field.
 
-[2025-12-25 03:30:06](https://bsky.app/profile/washingtonpost.com/post/3maqvgrg4ml25)
+[2025-12-25 04:00:23](https://bsky.app/profile/washingtonpost.com/post/3maqx4whcrf24)
 
 ---
 
-@nytimes.com
+@nbcnews.com
 
-Thirty officers disqualified from the New York Police Department because they failed psychological exams or background checks will stay on the job, according to an agreement between the city and their union.
+The film academy’s nearly 10,000 voting members will soon cast their Oscars ballots in more than 20 categories, including a new one recognizing achievement in casting. 
 
-[2025-12-25 03:30:03](https://bsky.app/profile/nytimes.com/post/3maqvgoegdr2y)
+[2025-12-25 04:00:17](https://bsky.app/profile/nbcnews.com/post/3maqx4qgntm23)
+
+---
+
+@bloomberg.com
+
+From markets to mind games — stay sharp with Alphadots, Bloomberg’s daily word puzzle.
+
+Solve today’s:
+
+[2025-12-25 04:00:16](https://bsky.app/profile/bloomberg.com/post/3maqx4pc3qq27)
 
 ---
 
