@@ -1,9 +1,9 @@
-# [2025-12-24 10:30 updated](2025_12_24.md)
+# [2025-12-24 10:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Justice Department has released a new batch of documents related to convicted sex offender Jeffrey Epstein – documents that include many more mentions of President Donald Trump than last week’s dump. | Analysis https://cnn.it/4b4jkas <a href="https://bsky.app/profile/cnn.com/post/3map4ezhwf223" target="_blank">cnn.com</a> (2025-12-24 10:29:04)</span><span style="padding-right:50px;">「ジャンボ」尾崎将司さん死去、78歳　男子ゴルフ歴代最多94勝 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3map4bypywe2m" target="_blank">nikkei.com</a> (2025-12-24 10:27:23)</span><span style="padding-right:50px;">「ジャンボ」尾崎将司さん死去、78歳　男子ゴルフ歴代最多94勝 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3map4aaqxh42m" target="_blank">nikkei.com</a> (2025-12-24 10:26:24)</span><span style="padding-right:50px;">ロシア国営天然ガス大手のガスプロムは、２０２６年の中核利益について、前年比約７％増の３兆ルーブル（３８０億米ドル）に達すると発表した。同年に予定する１兆１０００億ルーブル規模のエネルギー投資計画も承認した。 bit.ly/49mT5e9 <a href="https://bsky.app/profile/japan.reuters.com/post/3map47sldnk25" target="_blank">japan.reuters.com</a> (2025-12-24 10:26:09)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】プロゴルファーの尾崎将司さんがS状結腸がんのため死去 78歳 (2025年12月24日 10:23) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3map433hahf2b" target="_blank">sokuho.news</a> (2025-12-24 10:23:31)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】女子大生2人焼死事故 トラック運転の男(65)に拘禁刑1年6か月の実刑判決 (2025-12-24 10:02:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3map5gcpp3227" target="_blank">sokuho.news</a> (2025-12-24 10:47:41)</span><span style="padding-right:50px;">＜１０：２３＞　日経平均は上げ幅拡大、200円超高　半導体関連がしっかり bit.ly/4s6Patf <a href="https://bsky.app/profile/japan.reuters.com/post/3map5bkthea27" target="_blank">japan.reuters.com</a> (2025-12-24 10:45:02)</span><span style="padding-right:50px;">BREAKING: A federal judge says the Trump administration can move ahead with a $100,000 fee on new H-1B visa applications, providing a setback for US technology companies that rely on hiring skilled foreign workers <a href="https://bsky.app/profile/bloomberg.com/post/3map5axeksa2f" target="_blank">bloomberg.com</a> (2025-12-24 10:44:41)</span><span style="padding-right:50px;">Some of America’s best starting salaries are at sea, with graduates straight out of the country’s maritime academies able to earn more than $200,000. And they aren’t luring enough workers. on.wsj.com/4as0utL <a href="https://bsky.app/profile/wsj.com/post/3map53kylwy2h" target="_blank">wsj.com</a> (2025-12-24 10:41:40)</span><span style="padding-right:50px;">米国株式市場は続伸。Ｓ＆Ｐ総合５００種は終値で最高値を更新した。国内総生産（ＧＤＰ）統計を受けてグロース（成長）株が買われた。 bit.ly/48Sdd7P <a href="https://bsky.app/profile/japan.reuters.com/post/3map4z5zdcd2s" target="_blank">japan.reuters.com</a> (2025-12-24 10:40:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50600.66 (🔺125.18 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3395.00 (🔻23.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.79 (🔻0.38 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50594.30 (🔺118.82 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3385.00 (🔻33.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔻0.49 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,102 +32,96 @@
 
 ## News Headlines
 
-- Convicted sex offender Jeffrey Epstein documents reveal more mentions of Donald Trump
-- Russia's Gazprom aims to increase core profit by 7% to 3 trillion rubles in 2026
-- Australian state of New South Wales passes strict gun laws after mass shooting
-- Pope Francis expresses sadness over Russia's refusal to accept Christmas ceasefire
-- Israel's government decides to close popular military radio station next year
-- Japan's economy minister, US officials meet to discuss $5.5 billion loan to US
+- Japanese Golfer Jumbo Ozaki Dies at 78, Holding a Record 94 Wins
+- Japanese Golfer Jumbo Ozaki, 78, Dies Holding Record 94 Wins
+- Trump Administration Wins Fight for $100,000 H-1B Visa Fee
+- Australia Passes Bill to Tighten Gun Laws, Ban Display of Terrorist Symbols
+- Pope Francis Expresses Sadness Over Russia's Rejection of Christmas Ceasefire
+- US Denies Visas to Ex-EU Commissioner and Activists Over Social Media Rules
 
 
 ----
 
-@cnn.com
+@sokuho.news
 
-The Justice Department has released a new batch of documents related to convicted sex offender Jeffrey Epstein – documents that include many more mentions of President Donald Trump than last week’s dump. | Analysis https://cnn.it/4b4jkas
+🛎️JNNより【速報】です。
 
-[2025-12-24 10:29:04](https://bsky.app/profile/cnn.com/post/3map4ezhwf223)
+【速報】女子大生2人焼死事故 トラック運転の男(65)に拘禁刑1年6か月の実刑判決
+(2025-12-24 10:02:00) #ニュース
 
----
-
-@nikkei.com
-
-「ジャンボ」尾崎将司さん死去、78歳　男子ゴルフ歴代最多94勝
-www.nikkei.com/article/DGXZQO...
-
-[2025-12-24 10:27:23](https://bsky.app/profile/nikkei.com/post/3map4bypywe2m)
-
----
-
-@nikkei.com
-
-「ジャンボ」尾崎将司さん死去、78歳　男子ゴルフ歴代最多94勝
-www.nikkei.com/article/DGXZQO...
-
-[2025-12-24 10:26:24](https://bsky.app/profile/nikkei.com/post/3map4aaqxh42m)
+[2025-12-24 10:47:41](https://bsky.app/profile/sokuho.news/post/3map5gcpp3227)
 
 ---
 
 @japan.reuters.com
 
-ロシア国営天然ガス大手のガスプロムは、２０２６年の中核利益について、前年比約７％増の３兆ルーブル（３８０億米ドル）に達すると発表した。同年に予定する１兆１０００億ルーブル規模のエネルギー投資計画も承認した。 bit.ly/49mT5e9
+＜１０：２３＞　日経平均は上げ幅拡大、200円超高　半導体関連がしっかり bit.ly/4s6Patf
 
-[2025-12-24 10:26:09](https://bsky.app/profile/japan.reuters.com/post/3map47sldnk25)
+[2025-12-24 10:45:02](https://bsky.app/profile/japan.reuters.com/post/3map5bkthea27)
 
 ---
 
-@sokuho.news
+@bloomberg.com
 
-🔔ANNより【速報】です。
+<strong><span style="color: red;">BREAKING:</span> A federal judge says the Trump administration can move ahead with a $100,000 fee on new H-1B visa applications, providing a setback for US technology companies that rely on hiring skilled foreign workers</strong>
 
-【速報】プロゴルファーの尾崎将司さんがS状結腸がんのため死去 78歳
-(2025年12月24日 10:23) #ニュース
-
-[2025-12-24 10:23:31](https://bsky.app/profile/sokuho.news/post/3map433hahf2b)
+[2025-12-24 10:44:41](https://bsky.app/profile/bloomberg.com/post/3map5axeksa2f)
 
 ---
 
 @wsj.com
 
-European security officials now regularly broadcast a message nearly unimaginable a decade ago: get ready for conflict with Russia on.wsj.com/4arAA9t
+Some of America’s best starting salaries are at sea, with graduates straight out of the country’s maritime academies able to earn more than $200,000. And they aren’t luring enough workers. on.wsj.com/4as0utL
 
-[2025-12-24 10:22:56](https://bsky.app/profile/wsj.com/post/3map4227swk2h)
-
----
-
-@nhknewsunofficial.bsky.social
-
-プロゴルフ尾崎将司さん死去 78歳 男子国内ツアー最多通算94勝
-https://news.web.nhk/newsweb/na/na-k10015012191000
-
-[2025-12-24 10:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3map3wq5vf42m)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】咲洲トンネルでバイクとトラックの接触事故 バイク運転10代男性が死亡 大阪・住之江区
-(2025-12-24 10:12) #ニュース
-
-[2025-12-24 10:20:49](https://bsky.app/profile/sokuho.news/post/3map3wb3ajx2a)
+[2025-12-24 10:41:40](https://bsky.app/profile/wsj.com/post/3map53kylwy2h)
 
 ---
 
 @japan.reuters.com
 
-オーストラリアで最も人口の多いニューサウスウェールズ州で２４日、銃器所持を大幅に制限し、指定テロ組織のシンボルを公に掲げることを禁止する銃器・反テロ法が可決された。１５人が死亡したボンダイビーチでの銃乱射事件を受けたもの。 bit.ly/48Sc6VH
+米国株式市場は続伸。Ｓ＆Ｐ総合５００種は終値で最高値を更新した。国内総生産（ＧＤＰ）統計を受けてグロース（成長）株が買われた。 bit.ly/48Sdd7P
 
-[2025-12-24 10:20:37](https://bsky.app/profile/japan.reuters.com/post/3map3vwakxi27)
+[2025-12-24 10:40:20](https://bsky.app/profile/japan.reuters.com/post/3map4z5zdcd2s)
+
+---
+
+@reuters.com
+
+Exclusive: U.S. eyes additional Coast Guard assets to seize fleeing tanker, sources say reut.rs/44Em2jc
+
+[2025-12-24 10:40:14](https://bsky.app/profile/reuters.com/post/3map4yybnaq2i)
 
 ---
 
 @japan.reuters.com
 
-ローマ教皇レオは２３日、ロシアが対ウクライナ戦争でクリスマスの停戦要請を拒否したことに「大きな悲しみ」を感じていると記者団に語った。 bit.ly/3KMuE0t
+メキシコ国立統計地理情報院（ＩＮＥＧＩ）が２３日発表した１２月前半の消費者物価指数（ＣＰＩ）は前年同期比３．７２％上昇に鈍化した。 bit.ly/45jfLcH
 
-[2025-12-24 10:20:18](https://bsky.app/profile/japan.reuters.com/post/3map3vdqpeg2q)
+[2025-12-24 10:38:29](https://bsky.app/profile/japan.reuters.com/post/3map4vubag52u)
+
+---
+
+@japan.reuters.com
+
+オセアニア外国為替市場では豪ドルとニュージーランド（ＮＺ）ドルが上昇。国内での金利据え置き・利上げ観測が広がる中、特に円キャリー需要が高まったことで、数カ月ぶり高値圏で推移した。 bit.ly/3YdnAwP
+
+[2025-12-24 10:32:54](https://bsky.app/profile/japan.reuters.com/post/3map4lulsjh2f)
+
+---
+
+@japan.reuters.com
+
+著作物を無許諾で人工知能（ＡＩ）の訓練に利用されたとして、米紙ニューヨーク・タイムズの調査報道記者ジョン・キャリールー氏と他の作家５人が２２日、複数のＡＩ開発企業をカリフォルニア州の連邦裁判所に提訴した。 bit.ly/3MZzGXT
+
+[2025-12-24 10:30:40](https://bsky.app/profile/japan.reuters.com/post/3map4huymua27)
+
+---
+
+@reuters.com
+
+Australia's Monash IVF slides as consortium withdraws $209 million buyout bid reut.rs/3MXvF6k
+
+[2025-12-24 10:30:31](https://bsky.app/profile/reuters.com/post/3map4hmco452x)
 
 ---
 
