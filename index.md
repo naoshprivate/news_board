@@ -1,9 +1,9 @@
-# [2025-12-25 01:30 updated](2025_12_25.md)
+# [2025-12-25 01:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Trump administration says it wants details on America’s voters to ensure election integrity. Democrats and some Republicans question how the information will be used. <a href="https://bsky.app/profile/wsj.com/post/3maqonf5pth2u" target="_blank">wsj.com</a> (2025-12-25 01:28:32)</span><span style="padding-right:50px;">Also in theaters this week, Jack Black and Paul Rudd star in a meta reimagining of Anaconda, Amanda Seyfried in a Shaker origin story, and Ralph Fiennes plays a World War I-era choirmaster. n.pr/4je9ips <a href="https://bsky.app/profile/npr.org/post/3maqondmitm2i" target="_blank">npr.org</a> (2025-12-25 01:28:30)</span><span style="padding-right:50px;">Lululemon’s shares could be poised for upside. How to capitalize on it using options <a href="https://bsky.app/profile/cnbc.com/post/3maqok4jbtk2e" target="_blank">cnbc.com</a> (2025-12-25 01:26:42)</span><span style="padding-right:50px;">G Henry Byrd lands 2-year extension reut.rs/4jiRhX8 <a href="https://bsky.app/profile/reuters.com/post/3maqohcjisf2i" target="_blank">reuters.com</a> (2025-12-25 01:25:08)</span><span style="padding-right:50px;">Keep an eye on these ‘fallen angels’ in tech as the new year approaches, Goldman traders say <a href="https://bsky.app/profile/cnbc.com/post/3maqog4fnn72n" target="_blank">cnbc.com</a> (2025-12-25 01:24:28)</span>
+<span style="padding-right:50px;">A federal judge has rejected a lawsuit from the U.S. Chamber of Commerce that opposed President Donald Trump’s $100,000 fee on visas for highly skilled foreign workers. bit.ly/4asSpoF <a href="https://bsky.app/profile/usatoday.com/post/3maqplpcwos2w" target="_blank">usatoday.com</a> (2025-12-25 01:45:29)</span><span style="padding-right:50px;">Introverts, that misunderstood office species, are getting their time in the corporate spotlight. Just don’t look for too long. 🔗 on.wsj.com/49qaxOQ <a href="https://bsky.app/profile/wsj.com/post/3maqpj7pcdb2q" target="_blank">wsj.com</a> (2025-12-25 01:44:05)</span><span style="padding-right:50px;">Two police officers killed by bomb in Moscow near site of Russian general's killing reut.rs/3YeZL7Q <a href="https://bsky.app/profile/reuters.com/post/3maqpcbvexf2b" target="_blank">reuters.com</a> (2025-12-25 01:40:13)</span><span style="padding-right:50px;">新春「歌会始」入選者に新潟の高校生ら10人が選ばれる https://news.web.nhk/newsweb/na/na-k10015012801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maqoviqyvi2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 01:33:02)</span><span style="padding-right:50px;">Rob Lowe is known for being an avid dog lover. He shares what he's learned from years of being a dog dad and partnership with Ultimate Pet Nutrition. <a href="https://bsky.app/profile/usatoday.com/post/3maqoqkuwi62f" target="_blank">usatoday.com</a> (2025-12-25 01:30:19)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48685.61 (🔺260.90 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23592.20 (🔺36.25 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 187.95 (🔺0.03 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔻0.29 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48705.62 (🔺280.91 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23614.27 (🔺58.33 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.38 (🔺0.46 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔻0.34 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,15 +32,80 @@
 
 ## News Headlines
 
-- US to Replace Lottery System for H-1B Work Visas with New Approach
-- US Coast Guard Awaits Additional Forces to Board Venezuela-Linked Oil Tanker
-- US Senators Urge Trump to Reverse Recall of Nearly 30 Career Ambassadors
-- Trump Administration Wants Details on US Voters to Ensure Election Integrity
-- Bucs Open 21-Day Window for DT Calijah Kancey
-- US and Ukraine Officials Near Deal to End War with Russia
+- US Judge Rejects Lawsuit Against Trump's Visa Fee on Foreign Workers
+- Introverts Take Center Stage in Corporate World
+- Two Russian Police Officers Killed by Bomb in Moscow
+- Iran Demands Definition of 'Post-War Conditions' After US Strikes
+- Thousands Attend Christmas Tree Lighting in Bethlehem Amid Gaza War
+- US Wants Voter Details to Ensure Election Integrity, Raising Concerns
 
 
 ----
+
+@usatoday.com
+
+A federal judge has rejected a lawsuit from the U.S. Chamber of Commerce that opposed President Donald Trump’s $100,000 fee on visas for highly skilled foreign workers. bit.ly/4asSpoF
+
+[2025-12-25 01:45:29](https://bsky.app/profile/usatoday.com/post/3maqplpcwos2w)
+
+---
+
+@wsj.com
+
+Introverts, that misunderstood office species, are getting their time in the corporate spotlight. Just don’t look for too long. 🔗 on.wsj.com/49qaxOQ
+
+[2025-12-25 01:44:05](https://bsky.app/profile/wsj.com/post/3maqpj7pcdb2q)
+
+---
+
+@reuters.com
+
+Two police officers killed by bomb in Moscow near site of Russian general's killing reut.rs/3YeZL7Q
+
+[2025-12-25 01:40:13](https://bsky.app/profile/reuters.com/post/3maqpcbvexf2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+新春「歌会始」入選者に新潟の高校生ら10人が選ばれる
+https://news.web.nhk/newsweb/na/na-k10015012801000
+
+[2025-12-25 01:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maqoviqyvi2b)
+
+---
+
+@usatoday.com
+
+Rob Lowe is known for being an avid dog lover. He shares what he's learned from years of being a dog dad and partnership with Ultimate Pet Nutrition.
+
+[2025-12-25 01:30:19](https://bsky.app/profile/usatoday.com/post/3maqoqkuwi62f)
+
+---
+
+@washingtonpost.com
+
+Column: With fewer than 40 bills signed into law as of Monday, the House and Senate set a modern record for lowest legislative output in the first year of a new presidency, according to data maintained by C-SPAN and Purdue University.
+
+[2025-12-25 01:30:08](https://bsky.app/profile/washingtonpost.com/post/3maqoqav4tw2e)
+
+---
+
+@aljazeera.com
+
+Iran says UN nuclear watchdog must first define 'post-war conditions' following US strikes on its nuclear facilities https://aje.io/eqzatc
+
+[2025-12-25 01:30:04](https://bsky.app/profile/aljazeera.com/post/3maqoq5hcq52i)
+
+---
+
+@cbsnews.com
+
+Thousands attend Christmas tree lighting ceremony in Bethlehem, the first since war in Gaza began
+
+[2025-12-25 01:30:01](https://bsky.app/profile/cbsnews.com/post/3maqopzzs2x2g)
+
+---
 
 @wsj.com
 
@@ -55,71 +120,6 @@ The Trump administration says it wants details on America’s voters to ensure e
 Also in theaters this week, Jack Black and Paul Rudd star in a meta reimagining of Anaconda, Amanda Seyfried in a Shaker origin story, and Ralph Fiennes plays a World War I-era choirmaster. n.pr/4je9ips
 
 [2025-12-25 01:28:30](https://bsky.app/profile/npr.org/post/3maqondmitm2i)
-
----
-
-@cnbc.com
-
-Lululemon’s shares could be poised for upside. How to capitalize on it using options
-
-[2025-12-25 01:26:42](https://bsky.app/profile/cnbc.com/post/3maqok4jbtk2e)
-
----
-
-@reuters.com
-
-G Henry Byrd lands 2-year extension reut.rs/4jiRhX8
-
-[2025-12-25 01:25:08](https://bsky.app/profile/reuters.com/post/3maqohcjisf2i)
-
----
-
-@cnbc.com
-
-Keep an eye on these ‘fallen angels’ in tech as the new year approaches, Goldman traders say
-
-[2025-12-25 01:24:28](https://bsky.app/profile/cnbc.com/post/3maqog4fnn72n)
-
----
-
-@japan.reuters.com
-
-２４─２６日のユーロ圏金融・債券市場は、複数の市場がクリスマスで休場のため休信します。 bit.ly/4jcO3Ec
-
-[2025-12-25 01:20:59](https://bsky.app/profile/japan.reuters.com/post/3maqo7uslzk2q)
-
----
-
-@japan.reuters.com
-
-イスラエルのネタニヤフ首相は２４日、パレスチナ自治区ガザ南部のラファでイスラエル軍の車両が爆発物による攻撃を受けたとして、イスラム組織ハマスが停戦合意に違反したと非難し、報復を表明した。 bit.ly/4pgSKhT
-
-[2025-12-25 01:18:50](https://bsky.app/profile/japan.reuters.com/post/3maqo3zsulc2v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-タイ国籍少女の母親を人身取引などの疑いで逮捕 容疑を否認
-https://news.web.nhk/newsweb/na/na-k10015013101000
-
-[2025-12-25 01:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maqo2nzhbd2b)
-
----
-
-@reuters.com
-
-Bucs open 21-day window for DT Calijah Kancey reut.rs/4984ygp
-
-[2025-12-25 01:15:14](https://bsky.app/profile/reuters.com/post/3maqnvm7oug2y)
-
----
-
-@japan.reuters.com
-
-タイとカンボジアの国境地帯で発生した両国軍の衝突を巡り、両軍当局は２４日、停戦協議を開始したと発表した。両国は数日前、停戦再開について協議することで合意していた。 bit.ly/4pfd830
-
-[2025-12-25 01:14:13](https://bsky.app/profile/japan.reuters.com/post/3maqntrksmk2f)
 
 ---
 
