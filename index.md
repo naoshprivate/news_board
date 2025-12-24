@@ -1,9 +1,9 @@
-# [2025-12-25 01:50 updated](2025_12_25.md)
+# [2025-12-25 02:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A federal judge has rejected a lawsuit from the U.S. Chamber of Commerce that opposed President Donald Trump’s $100,000 fee on visas for highly skilled foreign workers. bit.ly/4asSpoF <a href="https://bsky.app/profile/usatoday.com/post/3maqplpcwos2w" target="_blank">usatoday.com</a> (2025-12-25 01:45:29)</span><span style="padding-right:50px;">Introverts, that misunderstood office species, are getting their time in the corporate spotlight. Just don’t look for too long. 🔗 on.wsj.com/49qaxOQ <a href="https://bsky.app/profile/wsj.com/post/3maqpj7pcdb2q" target="_blank">wsj.com</a> (2025-12-25 01:44:05)</span><span style="padding-right:50px;">Two police officers killed by bomb in Moscow near site of Russian general's killing reut.rs/3YeZL7Q <a href="https://bsky.app/profile/reuters.com/post/3maqpcbvexf2b" target="_blank">reuters.com</a> (2025-12-25 01:40:13)</span><span style="padding-right:50px;">新春「歌会始」入選者に新潟の高校生ら10人が選ばれる https://news.web.nhk/newsweb/na/na-k10015012801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maqoviqyvi2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 01:33:02)</span><span style="padding-right:50px;">Rob Lowe is known for being an avid dog lover. He shares what he's learned from years of being a dog dad and partnership with Ultimate Pet Nutrition. <a href="https://bsky.app/profile/usatoday.com/post/3maqoqkuwi62f" target="_blank">usatoday.com</a> (2025-12-25 01:30:19)</span>
+<span style="padding-right:50px;">$1.7 billion Powerball jackpot offers a chance at a festive fortune reut.rs/3MKtSBL <a href="https://bsky.app/profile/reuters.com/post/3maqqhzac2t2r" target="_blank">reuters.com</a> (2025-12-25 02:01:19)</span><span style="padding-right:50px;">Agencies across the Trump administration have taken out subscriptions in recent months to news organizations that officials had very publicly cut off this year, reversing an earlier decision to cancel them. <a href="https://bsky.app/profile/washingtonpost.com/post/3maqqhct5x72e" target="_blank">washingtonpost.com</a> (2025-12-25 02:00:56)</span><span style="padding-right:50px;">In September, Jackie Mitchell challenged herself to make $100 a day for 100 days through side hustles — here's her advice for earning extra cash. <a href="https://bsky.app/profile/cnbc.com/post/3maqqh3vhji2m" target="_blank">cnbc.com</a> (2025-12-25 02:00:48)</span><span style="padding-right:50px;">Hollywood was dealt a series of losses this year, from actor Gene Hackman to rocker Ozzy Osbourne. Remembering the year's notable celebrity deaths. <a href="https://bsky.app/profile/usatoday.com/post/3maqqgxnstm2s" target="_blank">usatoday.com</a> (2025-12-25 02:00:44)</span><span style="padding-right:50px;">After two years of subdued Christmas celebrations due to war in Gaza, thousands of people have flocked to Bethlehem's Manger Square on Christmas Eve. <a href="https://bsky.app/profile/apnews.com/post/3maqqgh2erh2p" target="_blank">apnews.com</a> (2025-12-25 02:00:27)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48705.62 (🔺280.91 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23614.27 (🔺58.33 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.38 (🔺0.46 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔻0.34 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48736.39 (🔺311.68 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23612.39 (🔺56.44 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 187.98 (🔺0.06 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔻0.30 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,94 +32,93 @@
 
 ## News Headlines
 
-- US Judge Rejects Lawsuit Against Trump's Visa Fee on Foreign Workers
-- Introverts Take Center Stage in Corporate World
-- Two Russian Police Officers Killed by Bomb in Moscow
-- Iran Demands Definition of 'Post-War Conditions' After US Strikes
-- Thousands Attend Christmas Tree Lighting in Bethlehem Amid Gaza War
-- US Wants Voter Details to Ensure Election Integrity, Raising Concerns
+- US Issues $1.7 Billion Powerball Jackpot
+- Trump Administration Reinstates Subscriptions to News Outlets
+- Celebrity Deaths in 2022: Remembering Gene Hackman and Ozzy Osbourne
+- UN Condemns US Naval Blockade of Venezuela as Illegal Aggression
+- Turkey Recovers Cockpit Voice Recorder from Crashed Jet
+- USPS Faces $9 Billion Loss in 12 Months
 
 
 ----
 
-@usatoday.com
-
-A federal judge has rejected a lawsuit from the U.S. Chamber of Commerce that opposed President Donald Trump’s $100,000 fee on visas for highly skilled foreign workers. bit.ly/4asSpoF
-
-[2025-12-25 01:45:29](https://bsky.app/profile/usatoday.com/post/3maqplpcwos2w)
-
----
-
-@wsj.com
-
-Introverts, that misunderstood office species, are getting their time in the corporate spotlight. Just don’t look for too long. 🔗 on.wsj.com/49qaxOQ
-
-[2025-12-25 01:44:05](https://bsky.app/profile/wsj.com/post/3maqpj7pcdb2q)
-
----
-
 @reuters.com
 
-Two police officers killed by bomb in Moscow near site of Russian general's killing reut.rs/3YeZL7Q
+$1.7 billion Powerball jackpot offers a chance at a festive fortune reut.rs/3MKtSBL
 
-[2025-12-25 01:40:13](https://bsky.app/profile/reuters.com/post/3maqpcbvexf2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-新春「歌会始」入選者に新潟の高校生ら10人が選ばれる
-https://news.web.nhk/newsweb/na/na-k10015012801000
-
-[2025-12-25 01:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maqoviqyvi2b)
-
----
-
-@usatoday.com
-
-Rob Lowe is known for being an avid dog lover. He shares what he's learned from years of being a dog dad and partnership with Ultimate Pet Nutrition.
-
-[2025-12-25 01:30:19](https://bsky.app/profile/usatoday.com/post/3maqoqkuwi62f)
+[2025-12-25 02:01:19](https://bsky.app/profile/reuters.com/post/3maqqhzac2t2r)
 
 ---
 
 @washingtonpost.com
 
-Column: With fewer than 40 bills signed into law as of Monday, the House and Senate set a modern record for lowest legislative output in the first year of a new presidency, according to data maintained by C-SPAN and Purdue University.
+Agencies across the Trump administration have taken out subscriptions in recent months to news organizations that officials had very publicly cut off this year, reversing an earlier decision to cancel them.
 
-[2025-12-25 01:30:08](https://bsky.app/profile/washingtonpost.com/post/3maqoqav4tw2e)
+[2025-12-25 02:00:56](https://bsky.app/profile/washingtonpost.com/post/3maqqhct5x72e)
+
+---
+
+@cnbc.com
+
+In September, Jackie Mitchell challenged herself to make $100 a day for 100 days through side hustles — here's her advice for earning extra cash.
+
+[2025-12-25 02:00:48](https://bsky.app/profile/cnbc.com/post/3maqqh3vhji2m)
+
+---
+
+@usatoday.com
+
+Hollywood was dealt a series of losses this year, from actor Gene Hackman to rocker Ozzy Osbourne. Remembering the year's notable celebrity deaths.
+
+[2025-12-25 02:00:44](https://bsky.app/profile/usatoday.com/post/3maqqgxnstm2s)
+
+---
+
+@apnews.com
+
+After two years of subdued Christmas celebrations due to war in Gaza, thousands of people have flocked to Bethlehem's Manger Square on Christmas Eve.
+
+[2025-12-25 02:00:27](https://bsky.app/profile/apnews.com/post/3maqqgh2erh2p)
+
+---
+
+@bloomberg.com
+
+8 retirement investment strategies that help when the market is in turmoil (from April)
+
+[2025-12-25 02:00:22](https://bsky.app/profile/bloomberg.com/post/3maqqgchjpj2u)
+
+---
+
+@nbcnews.com
+
+The 2026 midterm elections are fast approaching, but for some states, their congressional boundary lines are far from settled.
+
+[2025-12-25 02:00:14](https://bsky.app/profile/nbcnews.com/post/3maqqg3gfuc22)
 
 ---
 
 @aljazeera.com
 
-Iran says UN nuclear watchdog must first define 'post-war conditions' following US strikes on its nuclear facilities https://aje.io/eqzatc
+UN experts condemn US naval blockade of Venezuela as illegal aggression https://aje.io/d5kzwh
 
-[2025-12-25 01:30:04](https://bsky.app/profile/aljazeera.com/post/3maqoq5hcq52i)
+[2025-12-25 02:00:04](https://bsky.app/profile/aljazeera.com/post/3maqqfrk7za2e)
 
 ---
 
 @cbsnews.com
 
-Thousands attend Christmas tree lighting ceremony in Bethlehem, the first since war in Gaza began
+Search teams in Turkey on Wednesday recovered the cockpit voice and flight data recorders from a jet crash that killed eight people, including western Libya's military chief, Turkey's interior minister said.
 
-[2025-12-25 01:30:01](https://bsky.app/profile/cbsnews.com/post/3maqopzzs2x2g)
+[2025-12-25 02:00:01](https://bsky.app/profile/cbsnews.com/post/3maqqfoik3t2m)
 
 ---
 
 @wsj.com
 
-The Trump administration says it wants details on America’s voters to ensure election integrity. Democrats and some Republicans question how the information will be used.
+It has a population of just 825, at least four billionaires and one of the highest concentrations of wealth in America. Welcome to Cashiers, N.C. on.wsj.com/4pXU8XS
 
-[2025-12-25 01:28:32](https://bsky.app/profile/wsj.com/post/3maqonf5pth2u)
-
----
-
-@npr.org
-
-Also in theaters this week, Jack Black and Paul Rudd star in a meta reimagining of Anaconda, Amanda Seyfried in a Shaker origin story, and Ralph Fiennes plays a World War I-era choirmaster. n.pr/4je9ips
-
-[2025-12-25 01:28:30](https://bsky.app/profile/npr.org/post/3maqondmitm2i)
+[2025-12-25 01:59:08](https://bsky.app/profile/wsj.com/post/3maqqe4ihku2h)
 
 ---
 
