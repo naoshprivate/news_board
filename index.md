@@ -1,9 +1,9 @@
-# [2025-12-25 05:50 updated](2025_12_25.md)
+# [2025-12-25 06:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">William Finn and Rachel Sheinkin’s musical returns in this delightful off-Broadway production starring Jasmine Amy Rogers, Kevin McHale and Lilli Cooper. on.wsj.com/48SJOub <a href="https://bsky.app/profile/wsj.com/post/3mar4yogtbt2k" target="_blank">wsj.com</a> (2025-12-25 05:45:23)</span><span style="padding-right:50px;">ロシアとの和平案 ゼレンスキー大統領 文書公表も進展見通せず https://news.web.nhk/newsweb/na/na-k10015013141000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar4y4bbx724" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 05:45:02)</span><span style="padding-right:50px;">タイとカンボジアの国境地帯で発生した両国軍の衝突を巡り、両軍当局は２４日、停戦協議を開始したと発表した。両国は数日前、停戦再開について協議することで合意していた。 bit.ly/48WpZCo <a href="https://bsky.app/profile/japan.reuters.com/post/3mar4pjyla42s" target="_blank">japan.reuters.com</a> (2025-12-25 05:40:17)</span><span style="padding-right:50px;">Big hits including “Lilo & Stitch” and “Zootopia 2” have helped boost theater ticket sales all year. <a href="https://bsky.app/profile/forbes.com/post/3mar4pcaxlb2t" target="_blank">forbes.com</a> (2025-12-25 05:40:08)</span><span style="padding-right:50px;">Teenagers are increasingly engaging in stock trading, with some already saving for financial milestones such as buying a home. “I kind of just wanted to see if it would work and how much money I could get.” on.wsj.com/4petCbE <a href="https://bsky.app/profile/wsj.com/post/3mar4h2boej2c" target="_blank">wsj.com</a> (2025-12-25 05:35:32)</span>
+<span style="padding-right:50px;">Goals against Sudan not a response to critics, says Mahrez reut.rs/4jayywC <a href="https://bsky.app/profile/reuters.com/post/3mar644bmjx2i" target="_blank">reuters.com</a> (2025-12-25 06:05:12)</span><span style="padding-right:50px;">Exclusive: Nvidia buying AI chip startup Groq for about $20 billion in its largest acquisition on record <a href="https://bsky.app/profile/cnbc.com/post/3mar5xy2q2m2p" target="_blank">cnbc.com</a> (2025-12-25 06:02:53)</span><span style="padding-right:50px;">米ホワイトハウスは米軍に対し、少なくとも今後２カ月間はベネズエラの石油の「封鎖」に専念するよう命じたことが分かった。米当局者が２４日、ロイターに明らかにした。 bit.ly/45etDoE <a href="https://bsky.app/profile/japan.reuters.com/post/3mar5xuv7vc2q" target="_blank">japan.reuters.com</a> (2025-12-25 06:02:50)</span><span style="padding-right:50px;">Novo Nordisk has received FDA approval to sell an oral version of Wegovy in the US. This could boost its efforts to regain ground in the weight-loss drug market. Here's what to know <a href="https://bsky.app/profile/bloomberg.com/post/3mar5uzorju2d" target="_blank">bloomberg.com</a> (2025-12-25 06:01:14)</span><span style="padding-right:50px;">イスラエルのネタニヤフ首相は２４日、パレスチナ自治区ガザ南部のラファでイスラエル軍の車両が爆発物による攻撃を受けたとして、イスラム組織ハマスが停戦合意に違反したと非難し、報復を表明した。 bit.ly/4p6MKYT <a href="https://bsky.app/profile/japan.reuters.com/post/3mar5uwar3w2v" target="_blank">japan.reuters.com</a> (2025-12-25 06:01:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔻0.26 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔻0.24 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,97 +32,97 @@
 
 ## News Headlines
 
-- Russia-Ukraine Peace Plan Unveiled, But Progress Unclear
-- Cambodia and Thailand Agree to Ceasefire Talks After Border Clash
-- Teenagers Are Trading Stocks and Saving for Big Purchases
-- Biohaven's Depression Drug Fails Mid-Stage Trial, Shares Fall
-- US and Ukraine to Present 20-Point Peace Plan to End War with Russia
-- Justice Department Says Release of Epstein Files Delayed Due to Additional Documents
+- Nvidia buys AI chip startup Groq for about $20 billion
+- White House tells US military to focus on Venezuelan oil blockade for at least 2 months
+- Novo Nordisk gets FDA approval for oral version of Wegovy
+- Israel's Netanyahu criticizes Hamas for violating ceasefire, announces retaliation
+- US judge halts enforcement of presidential memo revoking security clearance
+- Russia's Putin extends ExxonMobil's deadline to sell assets in Sakhalin-1 project
 
 
 ----
 
-@wsj.com
+@reuters.com
 
-William Finn and Rachel Sheinkin’s musical returns in this delightful off-Broadway production starring Jasmine Amy Rogers, Kevin McHale and Lilli Cooper. on.wsj.com/48SJOub
+Goals against Sudan not a response to critics, says Mahrez reut.rs/4jayywC
 
-[2025-12-25 05:45:23](https://bsky.app/profile/wsj.com/post/3mar4yogtbt2k)
+[2025-12-25 06:05:12](https://bsky.app/profile/reuters.com/post/3mar644bmjx2i)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-ロシアとの和平案 ゼレンスキー大統領 文書公表も進展見通せず
-https://news.web.nhk/newsweb/na/na-k10015013141000
+Exclusive: Nvidia buying AI chip startup Groq for about $20 billion in its largest acquisition on record
 
-[2025-12-25 05:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar4y4bbx724)
+[2025-12-25 06:02:53](https://bsky.app/profile/cnbc.com/post/3mar5xy2q2m2p)
 
 ---
 
 @japan.reuters.com
 
-タイとカンボジアの国境地帯で発生した両国軍の衝突を巡り、両軍当局は２４日、停戦協議を開始したと発表した。両国は数日前、停戦再開について協議することで合意していた。 bit.ly/48WpZCo
+米ホワイトハウスは米軍に対し、少なくとも今後２カ月間はベネズエラの石油の「封鎖」に専念するよう命じたことが分かった。米当局者が２４日、ロイターに明らかにした。 bit.ly/45etDoE
 
-[2025-12-25 05:40:17](https://bsky.app/profile/japan.reuters.com/post/3mar4pjyla42s)
-
----
-
-@forbes.com
-
-Big hits including “Lilo & Stitch” and “Zootopia 2” have helped boost theater ticket sales all year.
-
-[2025-12-25 05:40:08](https://bsky.app/profile/forbes.com/post/3mar4pcaxlb2t)
+[2025-12-25 06:02:50](https://bsky.app/profile/japan.reuters.com/post/3mar5xuv7vc2q)
 
 ---
 
-@wsj.com
+@bloomberg.com
 
-Teenagers are increasingly engaging in stock trading, with some already saving for financial milestones such as buying a home. “I kind of just wanted to see if it would work and how much money I could get.” on.wsj.com/4petCbE
+Novo Nordisk has received FDA approval to sell an oral version of Wegovy in the US. This could boost its efforts to regain ground in the weight-loss drug market. Here's what to know
 
-[2025-12-25 05:35:32](https://bsky.app/profile/wsj.com/post/3mar4h2boej2c)
+[2025-12-25 06:01:14](https://bsky.app/profile/bloomberg.com/post/3mar5uzorju2d)
 
 ---
 
-@reuters.com
+@japan.reuters.com
 
-Biohaven's depression drug fails mid-stage trial, shares fall reut.rs/494jxIc
+イスラエルのネタニヤフ首相は２４日、パレスチナ自治区ガザ南部のラファでイスラエル軍の車両が爆発物による攻撃を受けたとして、イスラム組織ハマスが停戦合意に違反したと非難し、報復を表明した。 bit.ly/4p6MKYT
 
-[2025-12-25 05:35:08](https://bsky.app/profile/reuters.com/post/3mar4ge62hq24)
+[2025-12-25 06:01:11](https://bsky.app/profile/japan.reuters.com/post/3mar5uwar3w2v)
+
+---
+
+@cnbc.com
+
+If you're stressed out this holiday season, try muting social media accounts that bring you down, says psychologist Sabrina Romanoff. 
+
+[2025-12-25 06:01:01](https://bsky.app/profile/cnbc.com/post/3mar5umpwlu24)
 
 ---
 
 @usatoday.com
 
-"Ned's Declassified" star Tylor Chase, who went viral after experiencing homelessness, is getting help from actors Daniel Curtis Lee and Shaun Weiss.
+From expected faves like "Seinfeld" and "Friends" to selections sure to stir debate, here's our list of top 10 best Christmas episodes of all time
 
-[2025-12-25 05:33:07](https://bsky.app/profile/usatoday.com/post/3mar4cqqcfy2h)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ロシアで北朝鮮軍の兵士をたたえる特別展 結束アピールか
-https://news.web.nhk/newsweb/na/na-k10015012981000
-
-[2025-12-25 05:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar4cod5po2y)
+[2025-12-25 06:00:19](https://bsky.app/profile/usatoday.com/post/3mar5teocks25)
 
 ---
 
-@nbcnews.com
+@cnn.com
 
-<strong><span style="color: red;">BREAKING:</span> The Justice Department says it received over a million documents potentially related to Epstein's case and releasing them could take "a few more weeks."</strong>
+"I finally had to admit that no matter how many times I reread the recipe and attempted to follow the instructions, it wasn't going to work. I was stumped," Brenda Goodman writes.
 
-[2025-12-25 05:30:16](https://bsky.app/profile/nbcnews.com/post/3mar45nhfvy2k)
+"Then it dawned on me: Could this recipe have been generated by AI? Had I been had?" https://cnn.it/3KPT5Kq
+
+[2025-12-25 06:00:15](https://bsky.app/profile/cnn.com/post/3mar5tbfqwa23)
 
 ---
 
 @washingtonpost.com
 
-The DOJ released a second wave of files related to Jeffrey Epstein this week.
+Travel writer Rick Steves was at his home in Edmonds, Washington, when he learned a local community center for homeless residents was set to close. Within a few weeks, Steves bought it. 
 
-Here’s what we’ve learned so far from the latest release: 
+“I really take ‘love your neighbor’ seriously,” he said.
 
-[2025-12-25 05:30:08](https://bsky.app/profile/washingtonpost.com/post/3mar45fb7f223)
+[2025-12-25 06:00:15](https://bsky.app/profile/washingtonpost.com/post/3mar5takji42p)
+
+---
+
+@nbcnews.com
+
+Ukrainian President Volodymyr Zelenskyy has calls for a meeting with President Trump to address the most sensitive issues in a future peace deal with Russia, including control of territory, following the latest round of U.S.-Ukrainian talks.
+
+[2025-12-25 06:00:09](https://bsky.app/profile/nbcnews.com/post/3mar5t3pmnv2k)
 
 ---
 
