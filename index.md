@@ -1,9 +1,9 @@
-# [2025-12-24 14:30 updated](2025_12_24.md)
+# [2025-12-24 14:50 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】寝台特急「サンライズ瀬戸・出雲」25日始発の列車 運転取りやめ 山陰の雪影響 (2025-12-24 14:15) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mapjlwgdca2a" target="_blank">sokuho.news</a> (2025-12-24 14:25:34)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】大企業の冬のボーナス平均額 過去最高100万4841円 初の100万円台 経団連調査 (2025年12月24日 14:18) #ニュース https://news.tv-asahi.co.jp/news_economy/articles/000474985.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3mapjlnp7dv2b" target="_blank">sokuho.news</a> (2025-12-24 14:25:25)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】寝台特急「サンライズ瀬戸・出雲」25日東京始発の列車 運転取りやめ 山陰の雪影響 (2025-12-24 14:15) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mapjd5u6ki2x" target="_blank">sokuho.news</a> (2025-12-24 14:20:40)</span><span style="padding-right:50px;">世界貿易機関（ＷＴＯ）は２３日、中国が太陽光電池や太陽光モジュール、ＩＴ製品を巡ってインドをＷＴＯに提訴したと発表した。 bit.ly/48Yzf7u <a href="https://bsky.app/profile/japan.reuters.com/post/3mapjcejf652v" target="_blank">japan.reuters.com</a> (2025-12-24 14:20:14)</span><span style="padding-right:50px;">US holds call with Palau on transfer of third-country nationals reut.rs/4qnsQtN <a href="https://bsky.app/profile/reuters.com/post/3mapjcdlvwp24" target="_blank">reuters.com</a> (2025-12-24 14:20:13)</span>
+<span style="padding-right:50px;">日本赤十字社 不適切事案 過去に985件 3600本余の血液など廃棄 https://news.web.nhk/newsweb/na/na-k10015012541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapku5efr72u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 14:48:02)</span><span style="padding-right:50px;">内閣府が２４日発表した１０月の景気動向指数改定値によると、足元の景気情勢を示す一致指数（２０２０年＝１００）は前月比１．０ポイント上昇の１１５．９で、速報値（１１５．４）から上方修正された。 bit.ly/4p6awnN <a href="https://bsky.app/profile/japan.reuters.com/post/3mapkomyvok2q" target="_blank">japan.reuters.com</a> (2025-12-24 14:44:59)</span><span style="padding-right:50px;">中国当局は２４日、今年序盤に海底ケーブルを損壊した船舶による密輸作戦を指揮したのは２人の台湾人だったと発表した。 bit.ly/49rbDKc <a href="https://bsky.app/profile/japan.reuters.com/post/3mapkkucggi2n" target="_blank">japan.reuters.com</a> (2025-12-24 14:42:52)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】150円台は4年ぶり 佐賀県のガソリン157円60銭に (2025-12-24 14:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mapkh55bw726" target="_blank">sokuho.news</a> (2025-12-24 14:40:47)</span><span style="padding-right:50px;">Indian shares edge up on strong U.S. growth; IT drags reut.rs/4quOJrf <a href="https://bsky.app/profile/reuters.com/post/3mapkfzyg222y" target="_blank">reuters.com</a> (2025-12-24 14:40:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50337.20 (🔻138.28 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3365.00 (🔻53.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔻0.38 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50390.30 (🔻85.18 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3365.00 (🔻53.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔻0.36 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,85 +32,38 @@
 
 ## News Headlines
 
-- Japan postpones Sunrise Seto and Izumo bullet train due to snow in the Sanin region
-- Japan's corporations give record-high average bonus of ¥1,004,841
-- Japan postpones Sunrise Seto and Izumo bullet train due to snow in the Sanin region
-- World Trade Organization announces China's WTO complaint against India over solar panels and IT products
-- US holds call with Palau on transfer of third-country nationals
-- Tech groups shift $120bn of AI data centre debt off balance sheets
+- Japanese Red Cross Society Investigated for 985 Inappropriate Cases, 3600 Items of Blood and Others Discarded
+- Japan's Economic Conditions Index Up 1.0 Points to 115.9 in October
+- Taiwanese Nationals Identified as Masterminds Behind China's Underwater Cable Incident
+- Saga Gas Price Drops to 157.60 JPY, Lowest in 4 Years
+- US and Palau Hold Call on Transfer of Third-Country Nationals
+- World Trade Organization Announces India's WTO Complaint Against China Over Solar Panels and IT Products
 
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️FNNより【速報】です。
+日本赤十字社 不適切事案 過去に985件 3600本余の血液など廃棄
+https://news.web.nhk/newsweb/na/na-k10015012541000
 
-【速報】寝台特急「サンライズ瀬戸・出雲」25日始発の列車 運転取りやめ 山陰の雪影響
-(2025-12-24 14:15) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-24 14:25:34](https://bsky.app/profile/sokuho.news/post/3mapjlwgdca2a)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】大企業の冬のボーナス平均額 過去最高100万4841円 初の100万円台 経団連調査
-(2025年12月24日 14:18) #ニュース
-https://news.tv-asahi.co.jp/news_economy/articles/000474985.html?display=full
-
-[2025-12-24 14:25:25](https://bsky.app/profile/sokuho.news/post/3mapjlnp7dv2b)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】寝台特急「サンライズ瀬戸・出雲」25日東京始発の列車 運転取りやめ 山陰の雪影響
-(2025-12-24 14:15) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-24 14:20:40](https://bsky.app/profile/sokuho.news/post/3mapjd5u6ki2x)
+[2025-12-24 14:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapku5efr72u)
 
 ---
 
 @japan.reuters.com
 
-世界貿易機関（ＷＴＯ）は２３日、中国が太陽光電池や太陽光モジュール、ＩＴ製品を巡ってインドをＷＴＯに提訴したと発表した。 bit.ly/48Yzf7u
+内閣府が２４日発表した１０月の景気動向指数改定値によると、足元の景気情勢を示す一致指数（２０２０年＝１００）は前月比１．０ポイント上昇の１１５．９で、速報値（１１５．４）から上方修正された。 bit.ly/4p6awnN
 
-[2025-12-24 14:20:14](https://bsky.app/profile/japan.reuters.com/post/3mapjcejf652v)
-
----
-
-@reuters.com
-
-US holds call with Palau on transfer of third-country nationals reut.rs/4qnsQtN
-
-[2025-12-24 14:20:13](https://bsky.app/profile/reuters.com/post/3mapjcdlvwp24)
+[2025-12-24 14:44:59](https://bsky.app/profile/japan.reuters.com/post/3mapkomyvok2q)
 
 ---
 
-@financialtimes.com
+@japan.reuters.com
 
-The slow death of Britain’s TV channels ft.trib.al/rkUqguS
+中国当局は２４日、今年序盤に海底ケーブルを損壊した船舶による密輸作戦を指揮したのは２人の台湾人だったと発表した。 bit.ly/49rbDKc
 
-[2025-12-24 14:17:18](https://bsky.app/profile/financialtimes.com/post/3mapj54phsw2o)
-
----
-
-@financialtimes.com
-
-Tech groups shift $120bn of AI data centre debt off balance sheets ft.trib.al/knnpVjD
-
-[2025-12-24 14:16:15](https://bsky.app/profile/financialtimes.com/post/3mapj3axv3625)
+[2025-12-24 14:42:52](https://bsky.app/profile/japan.reuters.com/post/3mapkkucggi2n)
 
 ---
 
@@ -118,32 +71,58 @@ Tech groups shift $120bn of AI data centre debt off balance sheets ft.trib.al/kn
 
 🛎️FNNより【速報】です。
 
-【速報】日本郵便の不適切点呼問題 四国運輸局（高松市）が徳島県の4郵便局に一部車両使用停止処分
-(2025-12-24 14:10) #ニュース
+【速報】150円台は4年ぶり 佐賀県のガソリン157円60銭に
+(2025-12-24 14:40) #ニュース
 
-[2025-12-24 14:15:59](https://bsky.app/profile/sokuho.news/post/3mapj2rgxzh2a)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】弘前大学教育学部の教授が複数の学生に「ハラスメント行為」で停職3か月 学生に対して「不適切な指導」「性的な発言」「不必要な接近・身体的接触」など…
-(2025-12-24 14:15:00) #ニュース
-
-[2025-12-24 14:15:57](https://bsky.app/profile/sokuho.news/post/3mapj2pciy626)
+[2025-12-24 14:40:47](https://bsky.app/profile/sokuho.news/post/3mapkh55bw726)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🔔ANNより【速報】です。
+Indian shares edge up on strong U.S. growth; IT drags reut.rs/4quOJrf
 
-【速報】大企業の冬のボーナス平均額 過去最高100万4841円 初の100万円台 経団連調査
-(2025年12月24日 14:13) #ニュース
+[2025-12-24 14:40:11](https://bsky.app/profile/reuters.com/post/3mapkfzyg222y)
 
-[2025-12-24 14:13:54](https://bsky.app/profile/sokuho.news/post/3mapix2pyl225)
+---
+
+@financialtimes.com
+
+ A tiny beacon of trust: the joy of the honesty box ft.trib.al/2CKqsEp  | opinion
+
+[2025-12-24 14:33:36](https://bsky.app/profile/financialtimes.com/post/3mapk2bjqp22b)
+
+---
+
+@financialtimes.com
+
+ Why self-improvement starts with maintenance ft.trib.al/4RJC3In  | opinion
+
+[2025-12-24 14:33:35](https://bsky.app/profile/financialtimes.com/post/3mapk2b33yv2w)
+
+---
+
+@financialtimes.com
+
+ Year in a word: Rare earths ft.trib.al/3i8tO5T  | opinion
+
+[2025-12-24 14:33:35](https://bsky.app/profile/financialtimes.com/post/3mapk2ao2bd2v)
+
+---
+
+@financialtimes.com
+
+ Ikea muscles in on the last-minute stocking-stuffer trade ft.trib.al/LVQT5Tk  | opinion
+
+[2025-12-24 14:33:34](https://bsky.app/profile/financialtimes.com/post/3mapk2ab7x52k)
+
+---
+
+@wsj.com
+
+The Miami Dolphins gave quarterback Tua Tagovailoa a mega contract last year as a reward for his improved play. Now, just 18 months on, it’s blown up in their faces. 🔗 on.wsj.com/48UsrZW
+
+[2025-12-24 14:33:06](https://bsky.app/profile/wsj.com/post/3mapjzfdoku2h)
 
 ---
 
