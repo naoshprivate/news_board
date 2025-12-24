@@ -1,9 +1,9 @@
-# [2025-12-25 04:50 updated](2025_12_25.md)
+# [2025-12-25 05:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The New York Times is joining nearly 40 scientists on an expedition to Antarctica’s fastest-melting glaciers. Our reporter shared a look inside his survival training before the trip.  Learn more and send our Climate team your questions: nytimes.com/antarctica?smtyp=cur&smid=bsky-nytimes <a href="https://bsky.app/profile/nytimes.com/post/3maqzsw2jbs2i" target="_blank">nytimes.com</a> (2025-12-25 04:48:29)</span><span style="padding-right:50px;">With Christmas approaching, celebrations in Haifa were met with chaos after Israeli police stormed the Wadi al-Nisnas neighbourhood, arresting and beating Christians in the area. <a href="https://bsky.app/profile/aljazeera.com/post/3maqzraof4s2s" target="_blank">aljazeera.com</a> (2025-12-25 04:47:33)</span><span style="padding-right:50px;">欧州株式市場はほぼ横ばいで取引を終えた。ＳＴＯＸＸ欧州６００種指数は２３日に終値としての最高値を更新し、週間ベースでは０．２０％上昇した。金融緩和やドイツの財政支出拡大、米ハイテク株からの投資分散を背景に、年初来の上昇率は２０２１年以来の大きさとなっている。 bit.ly/48Zi9X6 <a href="https://bsky.app/profile/japan.reuters.com/post/3maqzn4kjjv2q" target="_blank">japan.reuters.com</a> (2025-12-25 04:45:14)</span><span style="padding-right:50px;">Ben Simmons buys ownership stake in pro fishing team reut.rs/3N2NJvT <a href="https://bsky.app/profile/reuters.com/post/3maqzn3taqd2o" target="_blank">reuters.com</a> (2025-12-25 04:45:13)</span><span style="padding-right:50px;">The Supreme Court’s refusal to let the Trump administration deploy National Guard troops in the Chicago area was in large part the result of a friend-of-the-court brief written over a weekend and submitted by a Georgetown law professor.  Here's who he is, and why the brief proved so important. <a href="https://bsky.app/profile/nytimes.com/post/3maqzmsh3rz27" target="_blank">nytimes.com</a> (2025-12-25 04:45:03)</span>
+<span style="padding-right:50px;">自民 鈴木宗男氏がロシア訪問に出発 早期の停戦求める考え示す https://news.web.nhk/newsweb/na/na-k10015012931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar2xqsapg2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 05:09:02)</span><span style="padding-right:50px;">Siblings sometimes share quirky traits, like being able to throw a ball with their head or pick things up with their toes. Researchers wanted to know what's up with that. <a href="https://bsky.app/profile/npr.org/post/3mar2wroatc2m" target="_blank">npr.org</a> (2025-12-25 05:08:32)</span><span style="padding-right:50px;">The pair stars in a genial comedy about a would-be director and a struggling actor who attempt to remake the 1997 killer-snake action movie. on.wsj.com/4p98TG4 <a href="https://bsky.app/profile/wsj.com/post/3mar2ukujdj2o" target="_blank">wsj.com</a> (2025-12-25 05:07:17)</span><span style="padding-right:50px;">DOJ says "over a million more documents" found, potentially related to Epstein case. <a href="https://bsky.app/profile/cbsnews.com/post/3mar2u2sq2c2z" target="_blank">cbsnews.com</a> (2025-12-25 05:07:01)</span><span style="padding-right:50px;">In Episode 6 of Disney+'s "Taylor Swift: The End of an Era," Swift reveals the sweet encouragement her then-boyfriend Travis Kelce wrote to her. <a href="https://bsky.app/profile/usatoday.com/post/3mar2syng5c2z" target="_blank">usatoday.com</a> (2025-12-25 05:06:25)</span>
   </div>
 </div>
 
@@ -32,98 +32,94 @@
 
 ## News Headlines
 
+- LDP's Suzuki Shigeto Leaves for Russia, Seeking Early End to Conflict
+- Researchers Investigate Quirky Traits of Siblings
+- DOJ Finds Over a Million More Documents in Epstein Case
+- Taylor Swift Reveals Heartwarming Message from Ex-Boyfriend in New Disney+ Documentary
+- Ivory Coast Begins Defense of African Cup of Nations Title
 - New York Times Joins Expedition to Antarctica's Fastest-Melting Glaciers
-- Israeli Police Clash with Christians in Haifa Amid Christmas Celebrations
-- European Stocks End Flat as Trump Administration Sees Strong Growth
-- Ben Simmons Buys Ownership Stake in Professional Fishing Team
-- Supreme Court Blocks Trump Administration's Plan to Deploy National Guard in Chicago
-- US Forces to Focus on 'Quarantine' of Venezuela, White House Orders
 
 
 ----
 
-@nytimes.com
+@nhknewsunofficial.bsky.social
 
-The New York Times is joining nearly 40 scientists on an expedition to Antarctica’s fastest-melting glaciers. Our reporter shared a look inside his survival training before the trip.
+自民 鈴木宗男氏がロシア訪問に出発 早期の停戦求める考え示す
+https://news.web.nhk/newsweb/na/na-k10015012931000
 
-Learn more and send our Climate team your questions: nytimes.com/antarctica?smtyp=cur&smid=bsky-nytimes
-
-[2025-12-25 04:48:29](https://bsky.app/profile/nytimes.com/post/3maqzsw2jbs2i)
-
----
-
-@aljazeera.com
-
-With Christmas approaching, celebrations in Haifa were met with chaos after Israeli police stormed the Wadi al-Nisnas neighbourhood, arresting and beating Christians in the area.
-
-[2025-12-25 04:47:33](https://bsky.app/profile/aljazeera.com/post/3maqzraof4s2s)
+[2025-12-25 05:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mar2xqsapg2b)
 
 ---
 
-@japan.reuters.com
+@npr.org
 
-欧州株式市場はほぼ横ばいで取引を終えた。ＳＴＯＸＸ欧州６００種指数は２３日に終値としての最高値を更新し、週間ベースでは０．２０％上昇した。金融緩和やドイツの財政支出拡大、米ハイテク株からの投資分散を背景に、年初来の上昇率は２０２１年以来の大きさとなっている。 bit.ly/48Zi9X6
+Siblings sometimes share quirky traits, like being able to throw a ball with their head or pick things up with their toes. Researchers wanted to know what's up with that.
 
-[2025-12-25 04:45:14](https://bsky.app/profile/japan.reuters.com/post/3maqzn4kjjv2q)
+[2025-12-25 05:08:32](https://bsky.app/profile/npr.org/post/3mar2wroatc2m)
+
+---
+
+@wsj.com
+
+The pair stars in a genial comedy about a would-be director and a struggling actor who attempt to remake the 1997 killer-snake action movie. on.wsj.com/4p98TG4
+
+[2025-12-25 05:07:17](https://bsky.app/profile/wsj.com/post/3mar2ukujdj2o)
+
+---
+
+@cbsnews.com
+
+DOJ says "over a million more documents" found, potentially related to Epstein case.
+
+[2025-12-25 05:07:01](https://bsky.app/profile/cbsnews.com/post/3mar2u2sq2c2z)
+
+---
+
+@usatoday.com
+
+In Episode 6 of Disney+'s "Taylor Swift: The End of an Era," Swift reveals the sweet encouragement her then-boyfriend Travis Kelce wrote to her.
+
+[2025-12-25 05:06:25](https://bsky.app/profile/usatoday.com/post/3mar2syng5c2z)
 
 ---
 
 @reuters.com
 
-Ben Simmons buys ownership stake in pro fishing team reut.rs/3N2NJvT
+Ivory Coast begin Cup of Nations title defence with narrow win over Mozambique reut.rs/4pTkOcd
 
-[2025-12-25 04:45:13](https://bsky.app/profile/reuters.com/post/3maqzn3taqd2o)
-
----
-
-@nytimes.com
-
-The Supreme Court’s refusal to let the Trump administration deploy National Guard troops in the Chicago area was in large part the result of a friend-of-the-court brief written over a weekend and submitted by a Georgetown law professor.
-
-Here's who he is, and why the brief proved so important.
-
-[2025-12-25 04:45:03](https://bsky.app/profile/nytimes.com/post/3maqzmsh3rz27)
-
----
-
-@en.afp.com
-
-Chasing visitors around Cambodia's Angkor temple ruins to offer his services, tour guide Bun Ratana says he has had little work since deadly clashes with Thailand broke out, despite it being high season.
-u.afp.com/S8AW
-
-[2025-12-25 04:45:02](https://bsky.app/profile/en.afp.com/post/3maqzmqvkrh26)
+[2025-12-25 05:00:58](https://bsky.app/profile/reuters.com/post/3mar2jaoco62c)
 
 ---
 
 @apnews.com
 
-<strong><span style="color: red;">BREAKING:</span> The DOJ says it may need a "few more weeks" to finish the release of the Epstein files despite the Dec. 19 deadline set by Congress.</strong>
+A 16-year-old boy being investigated in the death of his stepsister on a Carnival cruise ship last month has no recollection of the incident.
 
-[2025-12-25 04:41:32](https://bsky.app/profile/apnews.com/post/3maqzgidgf22k)
-
----
-
-@reuters.com
-
-White House orders U.S. forces focus on 'quarantine' of Venezuela reut.rs/3Ld7Bfj
-
-[2025-12-25 04:40:23](https://bsky.app/profile/reuters.com/post/3maqzegxtzo2p)
+[2025-12-25 05:00:46](https://bsky.app/profile/apnews.com/post/3mar2ivo4hj2q)
 
 ---
 
 @japan.reuters.com
 
-米労働省が２４日発表した１２月２０日までの１週間の新規失業保険申請件数（季節調整済み）は２１万４０００件と、前週から１万件減少した。ロイターがまとめたエコノミスト予想は２２万４０００件だった。減少したものの、雇用の伸びが鈍い状況が続いているため、失業率は高止まりしている可能性がある。 bit.ly/4pTMsGd
+米スポーツ用品大手ナイキの株価が２４日、５％上昇。アップルのティム・クック最高経営責任者（ＣＥＯ）がナイキのエリオット・ヒルＣＥＯによる経営再建への取り組みを評価し、約３００万ドル相当のナイキ株を購入したことが好感されている。 bit.ly/4qcqkqN
 
-[2025-12-25 04:40:21](https://bsky.app/profile/japan.reuters.com/post/3maqzef4aea2f)
+[2025-12-25 05:00:31](https://bsky.app/profile/japan.reuters.com/post/3mar2ihftn722)
 
 ---
 
-@nytimes.com
+@cnn.com
 
-Private letters between Harvard University and the Trump administration plunged sensitive talks into deeper turmoil, the latest twist in the marquee battle of the administration’s campaign to rein in colleges and universities it views as too liberal. nyti.ms/4sbXGHz
+"In 2026, expect growing friction between rapid advances in AI, unsettled policy debates, and intensifying geopolitical rivalry," Brett H. McGurk writes | Analysis https://cnn.it/4qpperc
 
-[2025-12-25 04:40:04](https://bsky.app/profile/nytimes.com/post/3maqzdux7q62x)
+[2025-12-25 05:00:22](https://bsky.app/profile/cnn.com/post/3mar2i6bwx22k)
+
+---
+
+@washingtonpost.com
+
+Every year, the Audubon Society’s Christmas Bird Count, one of the longest-running citizen-powered data projects in North America, draws tens of thousands of birders for the 126-year-old event that blends birding and data science.
+
+[2025-12-25 05:00:21](https://bsky.app/profile/washingtonpost.com/post/3mar2i5ike72d)
 
 ---
 
