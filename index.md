@@ -1,9 +1,9 @@
-# [2025-12-24 16:50 updated](2025_12_24.md)
+# [2025-12-24 17:10 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】JR京都線 京都-吹田駅間で運転見合わせ 列車が人と接触した事故の影響 (2025-12-24 16:46) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mapritixis2b" target="_blank">sokuho.news</a> (2025-12-24 16:47:01)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - How to use empty data centers after an AI crash reut.rs/4jiE0Ok <a href="https://bsky.app/profile/reuters.com/post/3maprflrrxt2c" target="_blank">reuters.com</a> (2025-12-24 16:45:12)</span><span style="padding-right:50px;">A secret economy in athletically gifted teens is heating up—and it can tear families apart on.wsj.com/4plj0b6 <a href="https://bsky.app/profile/wsj.com/post/3maprbmsv7p2q" target="_blank">wsj.com</a> (2025-12-24 16:42:59)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】中国銀行が普通預金の金利と短プラ引き上げへ 普通預金の金利0.3%台は約33年ぶり【岡山】 (2025-12-24 16:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mapr5pcnqb2s" target="_blank">sokuho.news</a> (2025-12-24 16:40:47)</span><span style="padding-right:50px;">欧州自動車工業会（ＡＣＥＡ）が２３日発表した１１月の欧州新車販売台数（乗用車）は、前年同月を上回り５カ月連続のプラスとなった。ドイツ、イタリア、スペインなどの市場で電気自動車（ＥＶ）の販売が増加した。 bit.ly/4pN24Lv <a href="https://bsky.app/profile/japan.reuters.com/post/3mapr4necja2q" target="_blank">japan.reuters.com</a> (2025-12-24 16:40:12)</span>
+<span style="padding-right:50px;">1994年G7サミットで“ロシア加えG8とするか議論紛糾”明らかに https://news.web.nhk/newsweb/na/na-k10015012281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapsqfwapv2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 17:09:06)</span><span style="padding-right:50px;">国補助金受け設立の基金 2023年度末で20兆円余保有 会計検査院 https://news.web.nhk/newsweb/na/na-k10015012561000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapsqb5qls2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 17:09:01)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR京都線 京都～吹田間が運転見合わせ 摂津富田～JR総持寺間で発生した人身事故の影響 運転再開は午後6時見込み (2025-12-24 16:50) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mapsknwk6e2s" target="_blank">sokuho.news</a> (2025-12-24 17:05:56)</span><span style="padding-right:50px;">Turkey says electrical failure reported before Libyan military jet crash reut.rs/4jeFXuT <a href="https://bsky.app/profile/reuters.com/post/3mapsjbgkas23" target="_blank">reuters.com</a> (2025-12-24 17:05:09)</span><span style="padding-right:50px;">内閣府が２４日発表した１０月の景気動向指数改定値によると、足元の景気情勢を示す一致指数（２０２０年＝１００）は前月比１．０ポイント上昇の１１５．９で、速報値（１１５．４）から上方修正された。 bit.ly/4j9aIBk <a href="https://bsky.app/profile/japan.reuters.com/post/3mapsjam6y522" target="_blank">japan.reuters.com</a> (2025-12-24 17:05:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.79 (🔻0.38 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔻0.25 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,43 +32,31 @@
 
 ## News Headlines
 
-- JR Kyoto Line suspended between Kyoto and Umeda stations due to accident involving train and person
-- India considers life after Narendra Modi
-- China raises deposit and short-term loan interest rates for first time in 33 years
-- European new car sales exceed last year's level for fifth consecutive month
-- Japan's economy ministry says it will review its spending plan for 2026
-- Indian rupee recovers on dollar's weakness, but forwards retreat after RBI's FX swap move
+- G7 Summit in 1994 Discussed Expanding to Include Russia as G8
+- Government Fund Holding Over ¥20 Trillion by Year-End
+- JR Kyoto Line Suspends Operation Between Kyoto and Osaka Due to Accident
+- Turkey Reports Electrical Failure Before Libyan Military Jet Crash
+- Japan's Eneos to Lead Bids for Chevron's Singapore Oil Refinery Stake
+- Delaware State Trooper Killed in Shooting at Motor Vehicle Agency
 
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️NNNより【速報】です。
+1994年G7サミットで“ロシア加えG8とするか議論紛糾”明らかに
+https://news.web.nhk/newsweb/na/na-k10015012281000
 
-【速報】JR京都線 京都-吹田駅間で運転見合わせ 列車が人と接触した事故の影響
-(2025-12-24 16:46) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-24 16:47:01](https://bsky.app/profile/sokuho.news/post/3mapritixis2b)
+[2025-12-24 17:09:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapsqfwapv2m)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-From Breakingviews - Breakingviews - How to use empty data centers after an AI crash reut.rs/4jiE0Ok
+国補助金受け設立の基金 2023年度末で20兆円余保有 会計検査院
+https://news.web.nhk/newsweb/na/na-k10015012561000
 
-[2025-12-24 16:45:12](https://bsky.app/profile/reuters.com/post/3maprflrrxt2c)
-
----
-
-@wsj.com
-
-A secret economy in athletically gifted teens is heating up—and it can tear families apart on.wsj.com/4plj0b6
-
-[2025-12-24 16:42:59](https://bsky.app/profile/wsj.com/post/3maprbmsv7p2q)
+[2025-12-24 17:09:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapsqb5qls2y)
 
 ---
 
@@ -76,60 +64,82 @@ A secret economy in athletically gifted teens is heating up—and it can tear fa
 
 🛎️FNNより【速報】です。
 
-【速報】中国銀行が普通預金の金利と短プラ引き上げへ 普通預金の金利0.3%台は約33年ぶり【岡山】
-(2025-12-24 16:30) #ニュース
+【速報】JR京都線 京都～吹田間が運転見合わせ 摂津富田～JR総持寺間で発生した人身事故の影響 運転再開は午後6時見込み
+(2025-12-24 16:50) #ニュース
 
-[2025-12-24 16:40:47](https://bsky.app/profile/sokuho.news/post/3mapr5pcnqb2s)
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
 
----
-
-@japan.reuters.com
-
-欧州自動車工業会（ＡＣＥＡ）が２３日発表した１１月の欧州新車販売台数（乗用車）は、前年同月を上回り５カ月連続のプラスとなった。ドイツ、イタリア、スペインなどの市場で電気自動車（ＥＶ）の販売が増加した。 bit.ly/4pN24Lv
-
-[2025-12-24 16:40:12](https://bsky.app/profile/japan.reuters.com/post/3mapr4necja2q)
+[2025-12-24 17:05:56](https://bsky.app/profile/sokuho.news/post/3mapsknwk6e2s)
 
 ---
 
 @reuters.com
 
-From Breakingviews - Breakingviews - India begins to ponder life after Narendra Modi reut.rs/45dnpFA
+Turkey says electrical failure reported before Libyan military jet crash reut.rs/4jeFXuT
 
-[2025-12-24 16:40:11](https://bsky.app/profile/reuters.com/post/3mapr4nfmka2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-海外でアフリカ豚熱相次ぐ 羽田空港 肉製品の持ち込み検査公開
-https://news.web.nhk/newsweb/na/na-k10015012641000
-
-[2025-12-24 16:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapr2mvz722m)
+[2025-12-24 17:05:09](https://bsky.app/profile/reuters.com/post/3mapsjbgkas23)
 
 ---
 
 @japan.reuters.com
 
-フランス政府は２４日、トランプ政権が元欧州委員のティエリー・ブルトン氏を査証（ビザ）発給禁止の対象にしたことを強く非難した。 bit.ly/44KgxPX
+内閣府が２４日発表した１０月の景気動向指数改定値によると、足元の景気情勢を示す一致指数（２０２０年＝１００）は前月比１．０ポイント上昇の１１５．９で、速報値（１１５．４）から上方修正された。 bit.ly/4j9aIBk
 
-[2025-12-24 16:38:35](https://bsky.app/profile/japan.reuters.com/post/3mapqzrecun2v)
+[2025-12-24 17:05:08](https://bsky.app/profile/japan.reuters.com/post/3mapsjam6y522)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnn.com
 
-冬のボーナス 大手企業の平均支給額 初の100万円超 経団連調査
-https://news.web.nhk/newsweb/na/na-k10015012631000
+A Delaware state trooper was killed along with the suspected gunman during a shooting at a motor vehicle agency near Wilmington, authorities said. 
 
-[2025-12-24 16:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mapqvbnn7n2x)
+[2025-12-24 17:05:01](https://bsky.app/profile/cnn.com/post/3mapsizw4ot2x)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】JR京都線が京都～吹田駅間で運転見合わせ 人身事故
+(2025-12-24 17:01:26) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-24 17:03:36](https://bsky.app/profile/sokuho.news/post/3mapsgidfff2y)
+
+---
+
+@japan.reuters.com
+
+中国・香港株式市場は上昇。上海総合指数は６営業日続伸となった。休暇で商いが細る中、他のアジア市場の上昇が支えとなった。 bit.ly/4qpt7MT
+
+[2025-12-24 17:02:48](https://bsky.app/profile/japan.reuters.com/post/3mapsf33yyi22)
+
+---
+
+@nikkei.com
+
+冬のモバイルバッテリー、寒暖差の発火に注意　チャージスポットが啓発
+www.nikkei.com/article/DGXZQO...
+
+夏場に高温環境で放置すると発火するイメージが強いですが、実は冬にもリスクがあります。
+
+屋外と室内の寒暖差で結露が発生して、ショートする可能性があります。
+
+超低温下での急速充電もショートの原因になります。
+
+[2025-12-24 17:00:54](https://bsky.app/profile/nikkei.com/post/3mapsbntv7x2y)
 
 ---
 
 @reuters.com
 
-Rupee's recovery aided by dollar's stumble; spotlight on forwards after RBI's FX swap reut.rs/48T4QJ7
+Chargers LB Denzel Perryman loses appeal of 2-game suspension reut.rs/3MJZBTD
 
-[2025-12-24 16:35:07](https://bsky.app/profile/reuters.com/post/3mapqtlakup2k)
+[2025-12-24 17:00:36](https://bsky.app/profile/reuters.com/post/3mapsb527zt2c)
 
 ---
 
