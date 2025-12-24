@@ -1,9 +1,9 @@
-# [2025-12-24 15:10 updated](2025_12_24.md)
+# [2025-12-24 15:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米連邦最高裁 州兵シカゴ派遣 下級審の差し止め決定妥当の判断 https://news.web.nhk/newsweb/na/na-k10015012521000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maplue5c5a26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 15:06:03)</span><span style="padding-right:50px;">Mexico's Pemex appoints new head of production unit, internal documents show reut.rs/4sav1lZ <a href="https://bsky.app/profile/reuters.com/post/3maplsogjxh2x" target="_blank">reuters.com</a> (2025-12-24 15:05:08)</span><span style="padding-right:50px;">アジア新興国通貨は堅調。１％以上上昇した韓国ウォンがけん引している。 bit.ly/3KMChnD <a href="https://bsky.app/profile/japan.reuters.com/post/3maplooeq722q" target="_blank">japan.reuters.com</a> (2025-12-24 15:02:54)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】柏崎刈羽原発6号機 来年1月20日再稼働へ 東電の原子炉起動14年ぶり震災以降初 (2025年12月24日 15:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maplob2e4j27" target="_blank">sokuho.news</a> (2025-12-24 15:02:40)</span><span style="padding-right:50px;">A 3-year-old was put on ADHD meds for acting up in daycare. That was the first of six different psychiatric drugs. How a childhood of overmedication begins. on.wsj.com/4pVoQ3Y <a href="https://bsky.app/profile/wsj.com/post/3maplmxl7il2c" target="_blank">wsj.com</a> (2025-12-24 15:01:57)</span>
+<span style="padding-right:50px;">It’s the Champagne everyone knows, a "safe" gift for the host of a holiday party. But are you paying for the marketing or the quality of the wine itself? Our wine columnist offers a few outstanding-value alternatives. on.wsj.com/48S1ZjH <a href="https://bsky.app/profile/wsj.com/post/3mapn5ten2m2h" target="_blank">wsj.com</a> (2025-12-24 15:29:16)</span><span style="padding-right:50px;">シドニー株式市場は反落した。前日までの続伸を受けて利食い売りが出た。休暇シーズンで薄商いとなっているほか、この日は短縮取引だったため、下げが増幅された。 bit.ly/3MPa0gJ <a href="https://bsky.app/profile/japan.reuters.com/post/3mapmzbvxhg2q" target="_blank">japan.reuters.com</a> (2025-12-24 15:26:44)</span><span style="padding-right:50px;">Democratic states sue to block cuts to US children's gender-affirming care reut.rs/4pSyqob <a href="https://bsky.app/profile/reuters.com/post/3mapmwgcjrx2i" target="_blank">reuters.com</a> (2025-12-24 15:25:08)</span><span style="padding-right:50px;">中堅小売りのアオキスーパーが今月、日本初となる核融合電力の売買契約を締結して注目を集めている。発電は国内新興のヘリカルフュージョンが担い、２０３０年代からの供給開始を計画する。核融合は発電時に二酸化炭素（ＣＯ２）が発生せず、１グラムの燃料で石油８トン分に相当するエネルギーを得られるとされる。 bit.ly/4jd7tck <a href="https://bsky.app/profile/japan.reuters.com/post/3mapmnn2nsu2u" target="_blank">japan.reuters.com</a> (2025-12-24 15:20:13)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ファジアーノ岡山 佐藤龍之介 育成型期限付き移籍期間満了 (2025-12-24 15:16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mapmhfbx6l27" target="_blank">sokuho.news</a> (2025-12-24 15:16:43)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50346.38 (🔻129.10 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3360.00 (🔻58.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.70 (🔻0.48 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50359.75 (🔻115.73 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.14 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.24 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3361.00 (🔻57.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔻0.46 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,15 +32,98 @@
 
 ## News Headlines
 
-- Japanese Supreme Court Halts Deployment of National Guard in Chicago
-- Mexico's Pemex Appoints New Head of Production Unit
-- Asian Emerging Market Currencies Strengthen, Korean Won Leads the Way
-- Swedish Activist Greta Thunberg Released from Custody After London Protest
-- Japanese Power Company to Restart Nuclear Reactor in 2026
-- Japanese Red Cross Society Discloses 985 Incidents of Inappropriate Conduct
+- Champagne alternatives offer quality and value
+- Sydney Stock Market Declines After Previous Day's Rally
+- Democratic States Sue to Block Cuts to US Children's Gender-Affirming Care
+- Japanese Retailer Signs Deal to Buy Nuclear Fusion Power
+- Japan's Nuclear Reactor to Restart in January After 14-Year Hiatus
+- BP Near Deal to Sell Majority Stake in Castrol to Stonepeak
 
 
 ----
+
+@wsj.com
+
+It’s the Champagne everyone knows, a "safe" gift for the host of a holiday party. But are you paying for the marketing or the quality of the wine itself? Our wine columnist offers a few outstanding-value alternatives. on.wsj.com/48S1ZjH
+
+[2025-12-24 15:29:16](https://bsky.app/profile/wsj.com/post/3mapn5ten2m2h)
+
+---
+
+@japan.reuters.com
+
+シドニー株式市場は反落した。前日までの続伸を受けて利食い売りが出た。休暇シーズンで薄商いとなっているほか、この日は短縮取引だったため、下げが増幅された。 bit.ly/3MPa0gJ
+
+[2025-12-24 15:26:44](https://bsky.app/profile/japan.reuters.com/post/3mapmzbvxhg2q)
+
+---
+
+@reuters.com
+
+Democratic states sue to block cuts to US children's gender-affirming care reut.rs/4pSyqob
+
+[2025-12-24 15:25:08](https://bsky.app/profile/reuters.com/post/3mapmwgcjrx2i)
+
+---
+
+@japan.reuters.com
+
+中堅小売りのアオキスーパーが今月、日本初となる核融合電力の売買契約を締結して注目を集めている。発電は国内新興のヘリカルフュージョンが担い、２０３０年代からの供給開始を計画する。核融合は発電時に二酸化炭素（ＣＯ２）が発生せず、１グラムの燃料で石油８トン分に相当するエネルギーを得られるとされる。 bit.ly/4jd7tck
+
+[2025-12-24 15:20:13](https://bsky.app/profile/japan.reuters.com/post/3mapmnn2nsu2u)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】ファジアーノ岡山 佐藤龍之介 育成型期限付き移籍期間満了
+(2025-12-24 15:16:00) #ニュース
+
+[2025-12-24 15:16:43](https://bsky.app/profile/sokuho.news/post/3mapmhfbx6l27)
+
+---
+
+@nikkei.com
+
+2026年度予算案、過去最大122.3兆円
+www.nikkei.com/article/DGXZQO...
+ 
+社会保障関係費が過去最大を更新するなど物価高対応で歳出が膨らみ、25年度の115.2兆円を上回ります。2年連続で過去最大を更新します。
+ 
+#ニュース
+
+[2025-12-24 15:16:40](https://bsky.app/profile/nikkei.com/post/3mapmhblmmv2g)
+
+---
+
+@reuters.com
+
+Jordan Love (concussion protocol) participates in Packers walk-through reut.rs/4qolsOI
+
+[2025-12-24 15:15:13](https://bsky.app/profile/reuters.com/post/3mapmeos3lz2b)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】J1・ファジアーノ岡山 佐藤龍之介選手がFC東京に復帰「この先もギラギラと成長し続けます」
+(2025-12-24 15:00) #ニュース
+
+[2025-12-24 15:10:58](https://bsky.app/profile/sokuho.news/post/3mapm53pk2w2r)
+
+---
+
+@reuters.com
+
+BP nears sale of majority Castrol stake to Stonepeak, WSJ reports reut.rs/4asml4h
+
+[2025-12-24 15:10:10](https://bsky.app/profile/reuters.com/post/3mapm3np2ry23)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -48,85 +131,6 @@
 https://news.web.nhk/newsweb/na/na-k10015012521000
 
 [2025-12-24 15:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maplue5c5a26)
-
----
-
-@reuters.com
-
-Mexico's Pemex appoints new head of production unit, internal documents show reut.rs/4sav1lZ
-
-[2025-12-24 15:05:08](https://bsky.app/profile/reuters.com/post/3maplsogjxh2x)
-
----
-
-@japan.reuters.com
-
-アジア新興国通貨は堅調。１％以上上昇した韓国ウォンがけん引している。 bit.ly/3KMChnD
-
-[2025-12-24 15:02:54](https://bsky.app/profile/japan.reuters.com/post/3maplooeq722q)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】柏崎刈羽原発6号機 来年1月20日再稼働へ 東電の原子炉起動14年ぶり震災以降初
-(2025年12月24日 15:02) #ニュース
-
-[2025-12-24 15:02:40](https://bsky.app/profile/sokuho.news/post/3maplob2e4j27)
-
----
-
-@wsj.com
-
-A 3-year-old was put on ADHD meds for acting up in daycare. That was the first of six different psychiatric drugs. How a childhood of overmedication begins. on.wsj.com/4pVoQ3Y
-
-[2025-12-24 15:01:57](https://bsky.app/profile/wsj.com/post/3maplmxl7il2c)
-
----
-
-@cnn.com
-
-Swedish activist Greta Thunberg was released from custody after being arrested in London at a pro-Palestinian protest, police said. https://cnn.it/48QKUXo
-
-[2025-12-24 15:01:03](https://bsky.app/profile/cnn.com/post/3maplldxph724)
-
----
-
-@nikkei.com
-
-【親の受けた放射線は子に影響するのか？】
-被爆2世のゲノム解析開始　放射線影響研究所
-www.nikkei.com/article/DGXZQO...
- 
-#ニュース
-
-[2025-12-24 15:00:40](https://bsky.app/profile/nikkei.com/post/3maplko4kd42m)
-
----
-
-@japan.reuters.com
-
-イスラエルのネタニヤフ内閣は２２日の閣議で、国民に人気の軍ラジオ局を来年３月１日に閉鎖することを決定した。ネタニヤフ首相率いる右派連立政権による民主主義抑圧の一環だとの批判が出ている。 bit.ly/3MR22nq
-
-[2025-12-24 15:00:34](https://bsky.app/profile/japan.reuters.com/post/3maplkij4hl2c)
-
----
-
-@bloomberg.com
-
-In response to Trump’s tariffs, one American toymaker is trying to wean itself from Chinese manufacturers. But it’s discovering that it’s easier to move your factory out of China than it is to move China out of your factory.
-
-[2025-12-24 15:00:25](https://bsky.app/profile/bloomberg.com/post/3maplk7tfry2z)
-
----
-
-@reuters.com
-
-Reports: Pirates signing All-Star 1B Ryan O'Hearn reut.rs/3L6zghY
-
-[2025-12-24 15:00:22](https://bsky.app/profile/reuters.com/post/3maplk5nngo23)
 
 ---
 
