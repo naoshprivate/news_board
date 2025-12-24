@@ -1,9 +1,9 @@
-# [2025-12-24 11:10 updated](2025_12_24.md)
+# [2025-12-24 11:30 updated](2025_12_24.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【きょうのおはBiz 12月24日(水)】シールブーム なぜ再び？ https://news.web.nhk/newsweb/na/na-k10015012211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3map6mkyutl2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 11:09:03)</span><span style="padding-right:50px;">＜１０：４４＞　ドル155円後半で上値重い、介入警戒と円先安観の板挟み bit.ly/4sjFufh <a href="https://bsky.app/profile/japan.reuters.com/post/3map6asili22p" target="_blank">japan.reuters.com</a> (2025-12-24 11:02:30)</span><span style="padding-right:50px;">The latest on President Trump's $2,000 tariff dividend checks for 2026 <a href="https://bsky.app/profile/usatoday.com/post/3map66pb3nf2f" target="_blank">usatoday.com</a> (2025-12-24 11:01:20)</span><span style="padding-right:50px;">国連安全保障理事会は２３日、ベネズエラ情勢を巡る緊急会合を開催した。米国はマドゥロ大統領から資金源を奪うために「最大限」の制裁を科すと表明。一方、ロシアは他の中南米諸国が米国の次の標的になる可能性があると警告した。 bit.ly/4jmE0wz <a href="https://bsky.app/profile/japan.reuters.com/post/3map66bq7if25" target="_blank">japan.reuters.com</a> (2025-12-24 11:01:05)</span><span style="padding-right:50px;">生成AIの権利侵害「現在も止まらず」　著作権法は守ってくれるか？ www.nikkei.com/article/DGXZQO...   日本では2018年、AIの学習などのために、一定の条件のもとで権利者の事前許諾がなくても著作物データを利用できる条項が設けられました（30条の4第2号）。   著作物の表現内容を人が鑑賞して楽しむ以外の目的（非享受目的）で使うことが条件です。   ただ、OpenAIが発表した動画生成「Sora2」などが示すように、AI技術の進化は著作権法30条の4を整備した想定を超えています。権利者を守る新たな仕組みづくりを求める声が出始めています。 <a href="https://bsky.app/profile/nikkei.com/post/3map65w6ml32y" target="_blank">nikkei.com</a> (2025-12-24 11:00:53)</span>
+<span style="padding-right:50px;">中国企業の「人型ロボ」歩行距離106キロ　ギネス記録を更新 www.nikkei.com/article/DGXZQO...  中国上海市にある人型ロボット量産企業、智元創新（上海）科技が開発した人型ロボットがこのほど、江蘇省蘇州市の金鶏湖から上海の外灘まで100キロメートルにわたる歩行にチャレンジし、完走しました。  今回の挑戦に使用された遠征A2は量産商用バージョン。LiDARや赤外線深度カメラなど複数のセンサーを搭載しています。 <a href="https://bsky.app/profile/nikkei.com/post/3map7oqhhtc2n" target="_blank">nikkei.com</a> (2025-12-24 11:28:11)</span><span style="padding-right:50px;">Mexico secretly yanked more than 50 cartel leaders from a cushy prison life of drugs and women. They didn’t know what was next. “Welcome to America!” was the first clue the good times were over. on.wsj.com/45i0n0j <a href="https://bsky.app/profile/wsj.com/post/3map7nk7yhr2e" target="_blank">wsj.com</a> (2025-12-24 11:27:31)</span><span style="padding-right:50px;">アメリカ ベネズエラに最大限の制裁発動の考え示す 国連安保理 https://news.web.nhk/newsweb/na/na-k10015012201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3map7mqpcl32v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-24 11:27:03)</span><span style="padding-right:50px;">金現物が２４日の取引で心理的な節目となる１オンス＝４５００ドルを初めて突破した。安全資産としての需要と利下げ期待が支援材料。 bit.ly/48StM3p <a href="https://bsky.app/profile/japan.reuters.com/post/3map7jayxpw2q" target="_blank">japan.reuters.com</a> (2025-12-24 11:25:08)</span><span style="padding-right:50px;">Blasts and fire shatter Pennsylvania nursing home, killing at least two reut.rs/4p8er3q <a href="https://bsky.app/profile/reuters.com/post/3map7aipo7l2o" target="_blank">reuters.com</a> (2025-12-24 11:20:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50544.58 (🔺69.10 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔻38.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔻0.58 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50530.05 (🔺54.57 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48442.41 (🔺121.82 : 2025-12-23)</span><span style="padding-right:50px;">NASDAQ: 23561.84 (🔺154.15 : 2025-12-23)</span><span style="padding-right:50px;">NVIDIA: 189.21 (🔺6.25 : 2025-12-23)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔻38.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔻0.50 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,108 +32,99 @@
 
 ## News Headlines
 
-- Why Japan is seeing a seal boom again
-- Dollar stays above 155 yen, with investors wary of intervention and a stronger yen
-- UN Security Council holds emergency meeting on Venezuela crisis
-- AI rights infringement continues, with copyright law in question
-- Small airports tout cheap parking and minimal TSA waits
-- Loaded supertanker returns to Venezuelan waters amid US interceptions
+- China's Humanoid Robot Sets New Guinness Record by Walking 106 km
+- Mexico Secretly Transferred Over 50 Cartel Leaders to the US
+- UN Security Council Holds Emergency Meeting on Venezuela
+- Gold Price Breaks $4,500 an Ounce for the First Time
+- Russia and Syria Discuss Military Cooperation in Moscow
+- BOEING Awarded $2 Billion Engine Replacement Order
 
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-【きょうのおはBiz 12月24日(水)】シールブーム なぜ再び？
-https://news.web.nhk/newsweb/na/na-k10015012211000
-
-[2025-12-24 11:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3map6mkyutl2b)
-
----
-
-@japan.reuters.com
-
-＜１０：４４＞　ドル155円後半で上値重い、介入警戒と円先安観の板挟み bit.ly/4sjFufh
-
-[2025-12-24 11:02:30](https://bsky.app/profile/japan.reuters.com/post/3map6asili22p)
-
----
-
-@usatoday.com
-
-The latest on President Trump's $2,000 tariff dividend checks for 2026
-
-[2025-12-24 11:01:20](https://bsky.app/profile/usatoday.com/post/3map66pb3nf2f)
-
----
-
-@japan.reuters.com
-
-国連安全保障理事会は２３日、ベネズエラ情勢を巡る緊急会合を開催した。米国はマドゥロ大統領から資金源を奪うために「最大限」の制裁を科すと表明。一方、ロシアは他の中南米諸国が米国の次の標的になる可能性があると警告した。 bit.ly/4jmE0wz
-
-[2025-12-24 11:01:05](https://bsky.app/profile/japan.reuters.com/post/3map66bq7if25)
-
----
-
 @nikkei.com
 
-生成AIの権利侵害「現在も止まらず」　著作権法は守ってくれるか？
+中国企業の「人型ロボ」歩行距離106キロ　ギネス記録を更新
 www.nikkei.com/article/DGXZQO...
- 
-日本では2018年、AIの学習などのために、一定の条件のもとで権利者の事前許諾がなくても著作物データを利用できる条項が設けられました（30条の4第2号）。
- 
-著作物の表現内容を人が鑑賞して楽しむ以外の目的（非享受目的）で使うことが条件です。
- 
-ただ、OpenAIが発表した動画生成「Sora2」などが示すように、AI技術の進化は著作権法30条の4を整備した想定を超えています。権利者を守る新たな仕組みづくりを求める声が出始めています。
 
-[2025-12-24 11:00:53](https://bsky.app/profile/nikkei.com/post/3map65w6ml32y)
+中国上海市にある人型ロボット量産企業、智元創新（上海）科技が開発した人型ロボットがこのほど、江蘇省蘇州市の金鶏湖から上海の外灘まで100キロメートルにわたる歩行にチャレンジし、完走しました。
+
+今回の挑戦に使用された遠征A2は量産商用バージョン。LiDARや赤外線深度カメラなど複数のセンサーを搭載しています。
+
+[2025-12-24 11:28:11](https://bsky.app/profile/nikkei.com/post/3map7oqhhtc2n)
 
 ---
 
 @wsj.com
 
-Small-airport devotees brag about cheap parking, minimal TSA waits and friendly employees. on.wsj.com/3Yb46J9
+Mexico secretly yanked more than 50 cartel leaders from a cushy prison life of drugs and women. They didn’t know what was next. “Welcome to America!” was the first clue the good times were over. on.wsj.com/45i0n0j
 
-[2025-12-24 11:00:36](https://bsky.app/profile/wsj.com/post/3map65g57uq2u)
+[2025-12-24 11:27:31](https://bsky.app/profile/wsj.com/post/3map7nk7yhr2e)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️週刊女性より【独自】です。
+アメリカ ベネズエラに最大限の制裁発動の考え示す 国連安保理
+https://news.web.nhk/newsweb/na/na-k10015012201000
 
-【独自】中山美穂さんの“育ての親”山中則男氏が明かす〈天国からの言葉〉一周忌にファンが語る〈ありし日…
-(2025-12-24) #ニュース
+[2025-12-24 11:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3map7mqpcl32v)
 
-[2025-12-24 11:00:30](https://bsky.app/profile/sokuho.news/post/3map65ab3px2b)
+---
+
+@japan.reuters.com
+
+金現物が２４日の取引で心理的な節目となる１オンス＝４５００ドルを初めて突破した。安全資産としての需要と利下げ期待が支援材料。 bit.ly/48StM3p
+
+[2025-12-24 11:25:08](https://bsky.app/profile/japan.reuters.com/post/3map7jayxpw2q)
 
 ---
 
 @reuters.com
 
-Loaded supertanker returns to Venezuelan waters amid US interceptions, TankerTrackers.com says reut.rs/49qfirH
+Blasts and fire shatter Pennsylvania nursing home, killing at least two reut.rs/4p8er3q
 
-[2025-12-24 11:00:24](https://bsky.app/profile/reuters.com/post/3map652oq3f2b)
-
----
-
-@cnbc.com
-
-Kaila Curry expected to work with teenagers when she began scooping ice cream for 16.50/hr. 
-
-But "I found myself surrounded by people who, like me, had already built careers and are now navigating an unpredictable job market."
-
-[2025-12-24 11:00:16](https://bsky.app/profile/cnbc.com/post/3map64sgg3s2b)
+[2025-12-24 11:20:13](https://bsky.app/profile/reuters.com/post/3map7aipo7l2o)
 
 ---
 
-@washingtonpost.com
+@japan.reuters.com
 
-As the year-end approaches, it might be a good time to audit all of your expensive and unnecessary subscriptions.
+シリア暫定政府のシェイバニ外相とアブカスラ国防相は２３日、ロシアのプーチン大統領とモスクワで会談し、防衛産業における戦略的協力を中心に軍事、政治、経済協力の拡大について話し合った。シリア国営通信ＳＡＮＡが報じた。 bit.ly/4peDrGy
 
-Take time this holiday season to make sure you aren’t overpaying for important services. Here’s where you can start: 
+[2025-12-24 11:14:43](https://bsky.app/profile/japan.reuters.com/post/3map6wnbcur2n)
 
-[2025-12-24 11:00:10](https://bsky.app/profile/washingtonpost.com/post/3map64n7ceb2y)
+---
+
+@japan.reuters.com
+
+三井住友フィナンシャルグループは２４日、傘下の三井住友銀行が米投資ファンドのベインキャピタル、ミューズニッチそれぞれと最大１５億ユーロ（約２７６０億円）の融資ファンドを立ち上げたと発表した。 bit.ly/4qoT4fs
+
+[2025-12-24 11:12:28](https://bsky.app/profile/japan.reuters.com/post/3map6sn3lnk2v)
+
+---
+
+@reuters.com
+
+Boeing awarded $2 billion engine replacement order, Pentagon says reut.rs/3L6cNl9
+
+[2025-12-24 11:10:13](https://bsky.app/profile/reuters.com/post/3map6olje372b)
+
+---
+
+@japan.reuters.com
+
+ベネズエラでは、米国によるタンカー「全面封鎖」を受けて原油の輸出に支障を来たし、国内の在庫が積み上がっている。石油タンクが満杯となり、国営石油会社ＰＤＶＳＡが、領海内にとどまるタンカーへの積み込みを開始したことが、同社の資料や船積みデータで明らかになった。 bit.ly/3MZuhA6
+
+[2025-12-24 11:10:12](https://bsky.app/profile/japan.reuters.com/post/3map6ol4hyc25)
+
+---
+
+@japan.reuters.com
+
+サッカーのエジプト代表モハメド・サラー（３３）がアフリカ・ネーションズカップ（杯）で、エジプト人選手では初めてとなる５大会連続ゴールを記録した。 bit.ly/45dedB4
+
+[2025-12-24 11:10:09](https://bsky.app/profile/japan.reuters.com/post/3map6ohna3e2u)
 
 ---
 
