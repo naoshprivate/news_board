@@ -1,9 +1,9 @@
-# [2025-12-25 03:30 updated](2025_12_25.md)
+# [2025-12-25 03:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Trump administration accused China of employing unfair trade practices in the semiconductor industry but said it would hold off on imposing additional tariffs until 2027. <a href="https://bsky.app/profile/wsj.com/post/3maqv7riz6o2q" target="_blank">wsj.com</a> (2025-12-25 03:26:11)</span><span style="padding-right:50px;">The small surge propped up Nike’s stock just a few days after shares plummeted following weak guidance issued in its second quarter earnings report. <a href="https://bsky.app/profile/forbes.com/post/3maqv5rk7xf2c" target="_blank">forbes.com</a> (2025-12-25 03:25:04)</span><span style="padding-right:50px;">Meteorite hunters are scouring the Sahara desert for riches from outer space. <a href="https://bsky.app/profile/bloomberg.com/post/3maqut3xknh2e" target="_blank">bloomberg.com</a> (2025-12-25 03:19:06)</span><span style="padding-right:50px;">Turkey passes law to postpone inflation accounting for three years reut.rs/4aCtLSF <a href="https://bsky.app/profile/reuters.com/post/3maqum6yw7a2o" target="_blank">reuters.com</a> (2025-12-25 03:15:14)</span><span style="padding-right:50px;">The latest batch of files related to Jeffrey Epstein contains hundreds of references to President Trump and includes different versions of Epstein’s will. Here are five takeaways from the newest release. nyti.ms/4p8Xu92 <a href="https://bsky.app/profile/nytimes.com/post/3maqulvcnbn2z" target="_blank">nytimes.com</a> (2025-12-25 03:15:04)</span>
+<span style="padding-right:50px;">NPR's Michel Martin checks in with Middle Collegiate Church in Manhattan as it celebrates its first Christmas service since a devastating fire in 2020. n.pr/3Yb0gje <a href="https://bsky.app/profile/npr.org/post/3maqwe45zyt2d" target="_blank">npr.org</a> (2025-12-25 03:46:30)</span><span style="padding-right:50px;">"Marty Supreme" is an NYT Critic’s Pick. Read our full review. nyti.ms/3LcFZ9Y <a href="https://bsky.app/profile/nytimes.com/post/3maqwbkuxiy2y" target="_blank">nytimes.com</a> (2025-12-25 03:45:05)</span><span style="padding-right:50px;">Since Japan recorded a spike in deadly bear attacks, Koji Suzuki has struggled to keep up with booming demand for grilled cuts of the animal at his restaurant.  u.afp.com/S8AP <a href="https://bsky.app/profile/en.afp.com/post/3maqwbjbj462y" target="_blank">en.afp.com</a> (2025-12-25 03:45:03)</span><span style="padding-right:50px;">Nineteen states filed a complaint against Health Secretary RFK Jr., the HHS and its inspector general over plans that could dramatically limit medical professionals from providing gender transition care to children and teenagers. <a href="https://bsky.app/profile/washingtonpost.com/post/3maqwbiylto24" target="_blank">washingtonpost.com</a> (2025-12-25 03:45:03)</span><span style="padding-right:50px;">Big buyout firms are struggling to sell investments, so they’ve found a workaround: selling the companies to themselves. It shows the "rot in private equity," said the chief investment officer of the $83 billion Alaska Permanent Fund Corporation. nyti.ms/3NeXKWO <a href="https://bsky.app/profile/nytimes.com/post/3maqw43ir4c27" target="_blank">nytimes.com</a> (2025-12-25 03:42:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.99 (🔻0.19 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.96 (🔻0.22 : 2025-12-24)</span>
   </div>
 </div>
 
@@ -32,93 +32,94 @@
 
 ## News Headlines
 
-- US Delays Tariffs on China's Semiconductor Industry Until 2027
-- Nike's Stock Rises After Weak Guidance
-- Meteorite Hunters Scour Sahara Desert for Space Riches
-- Turkey Passes Law to Postpone Inflation Accounting for Three Years
-- Federal Judge Blocks Trump's Attempt to Strip Whistleblower's Security Clearance
-- Convenience Store Chain Continues Long-Term Upward Trend
+- NPR's Michel Martin Checks in with Manhattan's Middle Collegiate Church After Devastating Fire
+- NYT Critic Picks 'Marty Supreme' as a Must-See Film
+- Bear Attacks Surge in Japan, Boosting Demand for Grilled Bear Meat
+- 19 States Sue Over Plans to Limit Transgender Health Care for Minors
+- Private Equity Firms Sell Companies to Themselves to Avoid Losses
+- Hugh Jackman and Kate Hudson Star in Cheesy Fact-Based Drama 'Goodbye June'
 
 
 ----
 
-@wsj.com
+@npr.org
 
-The Trump administration accused China of employing unfair trade practices in the semiconductor industry but said it would hold off on imposing additional tariffs until 2027.
+NPR's Michel Martin checks in with Middle Collegiate Church in Manhattan as it celebrates its first Christmas service since a devastating fire in 2020. n.pr/3Yb0gje
 
-[2025-12-25 03:26:11](https://bsky.app/profile/wsj.com/post/3maqv7riz6o2q)
-
----
-
-@forbes.com
-
-The small surge propped up Nike’s stock just a few days after shares plummeted following weak guidance issued in its second quarter earnings report.
-
-[2025-12-25 03:25:04](https://bsky.app/profile/forbes.com/post/3maqv5rk7xf2c)
-
----
-
-@bloomberg.com
-
-Meteorite hunters are scouring the Sahara desert for riches from outer space.
-
-[2025-12-25 03:19:06](https://bsky.app/profile/bloomberg.com/post/3maqut3xknh2e)
-
----
-
-@reuters.com
-
-Turkey passes law to postpone inflation accounting for three years reut.rs/4aCtLSF
-
-[2025-12-25 03:15:14](https://bsky.app/profile/reuters.com/post/3maqum6yw7a2o)
+[2025-12-25 03:46:30](https://bsky.app/profile/npr.org/post/3maqwe45zyt2d)
 
 ---
 
 @nytimes.com
 
-The latest batch of files related to Jeffrey Epstein contains hundreds of references to President Trump and includes different versions of Epstein’s will. Here are five takeaways from the newest release. nyti.ms/4p8Xu92
+"Marty Supreme" is an NYT Critic’s Pick. Read our full review. nyti.ms/3LcFZ9Y
 
-[2025-12-25 03:15:04](https://bsky.app/profile/nytimes.com/post/3maqulvcnbn2z)
-
----
-
-@cbsnews.com
-
-A federal judge blocked President Trump's attempt to strip a security clearance from whistleblower attorney Mark Zaid Tuesday, finding that the Trump administration did so in "retribution" and without proper due process.
-
-[2025-12-25 03:15:00](https://bsky.app/profile/cbsnews.com/post/3maqulrtyt52p)
+[2025-12-25 03:45:05](https://bsky.app/profile/nytimes.com/post/3maqwbkuxiy2y)
 
 ---
 
-@cnbc.com
+@en.afp.com
 
-This convenience store chain is in a long-term upward trend with no signs of slowing, charts show
+Since Japan recorded a spike in deadly bear attacks, Koji Suzuki has struggled to keep up with booming demand for grilled cuts of the animal at his restaurant. 
+u.afp.com/S8AP
 
-[2025-12-25 03:14:54](https://bsky.app/profile/cnbc.com/post/3maqullnbfx2b)
+[2025-12-25 03:45:03](https://bsky.app/profile/en.afp.com/post/3maqwbjbj462y)
 
 ---
 
-@reuters.com
+@washingtonpost.com
 
-Blast hits mosque during evening prayers in Nigeria’s Maiduguri – witness reut.rs/3MT8UAz
+Nineteen states filed a complaint against Health Secretary RFK Jr., the HHS and its inspector general over plans that could dramatically limit medical professionals from providing gender transition care to children and teenagers.
 
-[2025-12-25 03:10:11](https://bsky.app/profile/reuters.com/post/3maqud5ga2y2r)
+[2025-12-25 03:45:03](https://bsky.app/profile/washingtonpost.com/post/3maqwbiylto24)
 
 ---
 
 @nytimes.com
 
-A 17-year-old worker died at a pork producer in Nebraska run by the governor’s family. Two investigations later, the boy’s mother is still searching for answers. trib.al/z7ZUF62
+Big buyout firms are struggling to sell investments, so they’ve found a workaround: selling the companies to themselves. It shows the "rot in private equity," said the chief investment officer of the $83 billion Alaska Permanent Fund Corporation. nyti.ms/3NeXKWO
 
-[2025-12-25 03:09:52](https://bsky.app/profile/nytimes.com/post/3maqucldft22a)
+[2025-12-25 03:42:01](https://bsky.app/profile/nytimes.com/post/3maqw43ir4c27)
 
 ---
 
 @wsj.com
 
-Belarus is one of the world’s most repressive regimes, but it turned out the dictator had a weakness: his weight. Cue “fat drug” diplomacy. on.wsj.com/3Y89L2P
+Hugh Jackman and Kate Hudson star as a devoted Neil Diamond impersonator and his backup singer in a wonderfully weird fact-based drama about chasing your dreams, no matter how cheesy. on.wsj.com/49sXTyE
 
-[2025-12-25 03:05:52](https://bsky.app/profile/wsj.com/post/3maqu3h45wd2t)
+[2025-12-25 03:35:15](https://bsky.app/profile/wsj.com/post/3maqvpxruji2c)
+
+---
+
+@usatoday.com
+
+"Goodbye June" director Kate Winslet shares the advice she gave her children Mia and Joe, who have followed in her footsteps as actors.
+
+[2025-12-25 03:30:27](https://bsky.app/profile/usatoday.com/post/3maqvhf5hbk2s)
+
+---
+
+@cnn.com
+
+The Supreme Court’s decision blocking President Trump from sending the National Guard into American cities is likely to raise a politically fraught debate about the president’s willingness to invoke a 19th-century law to deploy the regular military on American soil instead. https://cnn.it/45qYuyn
+
+[2025-12-25 03:30:07](https://bsky.app/profile/cnn.com/post/3maqvgs6upb2a)
+
+---
+
+@washingtonpost.com
+
+Rather than shuttling detainees around the country to wherever detention space is available, ICE aims to speed up deportations by renovating industrial warehouses to hold more than 80,000 immigrant detainees at a time, according to a draft solicitation.  https://wapo.st/4aqyir8
+
+[2025-12-25 03:30:06](https://bsky.app/profile/washingtonpost.com/post/3maqvgrg4ml25)
+
+---
+
+@nytimes.com
+
+Thirty officers disqualified from the New York Police Department because they failed psychological exams or background checks will stay on the job, according to an agreement between the city and their union.
+
+[2025-12-25 03:30:03](https://bsky.app/profile/nytimes.com/post/3maqvgoegdr2y)
 
 ---
 
