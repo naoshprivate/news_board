@@ -1,9 +1,9 @@
-# [2025-12-25 08:50 updated](2025_12_25.md)
+# [2025-12-25 09:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Nvidia to acquire top staff from AI chip start-up Groq in licensing deal ft.trib.al/1RtKcKG <a href="https://bsky.app/profile/financialtimes.com/post/3marha6jmpi2k" target="_blank">financialtimes.com</a> (2025-12-25 08:48:32)</span><span style="padding-right:50px;">ウクライナ政府は２４日、経済成長率が一定水準を超えると返済額が上乗せされる２６億ドル規模のＧＤＰ連動ワラント債の債務再編について手続きを完了したと発表した。ウクライナがロシアの２２年の全面侵攻で陥った債務不履行の状態から脱却するための重要な一歩となる。 bit.ly/3YKsRvY <a href="https://bsky.app/profile/japan.reuters.com/post/3margzpddt42q" target="_blank">japan.reuters.com</a> (2025-12-25 08:44:55)</span><span style="padding-right:50px;">ロシアのプーチン大統領は２４日に発表された大統領令により、ロシア極東の石油・天然ガス開発事業「サハリン１」で米石油大手エクソンモービルが保有する権益の売却期限を２０２７年１月１日まで１年延長した。 bit.ly/4siclRG <a href="https://bsky.app/profile/japan.reuters.com/post/3margrc7aga2q" target="_blank">japan.reuters.com</a> (2025-12-25 08:40:13)</span><span style="padding-right:50px;">＜０８：２０＞　寄り前の板状況、ケーズＨＬＤＧが買い優勢　四国化成ＨＬＤＧは売り優勢 bit.ly/4jd8yRa <a href="https://bsky.app/profile/japan.reuters.com/post/3margo7tthj2n" target="_blank">japan.reuters.com</a> (2025-12-25 08:38:30)</span><span style="padding-right:50px;">Sean 'Diddy' Combs files appeal asking for his immediate release <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3margkvyipr26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-25 08:36:38)</span>
+<span style="padding-right:50px;">英国、カナダ、ドイツなどの国々は２４日、イスラエル安全保障会議が占領下のヨルダン川西岸地域に１９の新たな入植地建設を承認したことを非難する声明を発表した。国際法に違反し、不安定化を助長する恐れがあるとした。 bit.ly/3Lert1A <a href="https://bsky.app/profile/japan.reuters.com/post/3mari5vxlxq26" target="_blank">japan.reuters.com</a> (2025-12-25 09:05:10)</span><span style="padding-right:50px;">＜０８：４６＞　国債先物は反発で寄り付く、米金利低下や夜間取引の上昇で bit.ly/4b1nK1S <a href="https://bsky.app/profile/japan.reuters.com/post/3marhymigyv2c" target="_blank">japan.reuters.com</a> (2025-12-25 09:02:12)</span><span style="padding-right:50px;">Japan expects growth to accelerate next year with fiscal stimulus reut.rs/4qpRSIK <a href="https://bsky.app/profile/reuters.com/post/3marhwnv73g23" target="_blank">reuters.com</a> (2025-12-25 09:01:07)</span><span style="padding-right:50px;">See until when you can score pastries from Porto's Bakery or shop at Ralph's. Here's our list of what's open, from banks to UPS and Walmart. <a href="https://bsky.app/profile/usatoday.com/post/3marhwfd6tg2w" target="_blank">usatoday.com</a> (2025-12-25 09:00:58)</span><span style="padding-right:50px;">Hawaii’s Kīlauea volcano spewed lava nearly 1,400 feet into the sky during an eruption that ended early Christmas Eve morning, the U.S. Geological Survey (USGS) reported. <a href="https://bsky.app/profile/washingtonpost.com/post/3marhwcjj2y2p" target="_blank">washingtonpost.com</a> (2025-12-25 09:00:55)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔺0.20 : 2025-12-24)</span>
+<span style="padding-right:50px;">NIKKEI: 50344.10 (🔻131.38 : 2025-12-24)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔻65.00 : 2025-12-24)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔺0.16 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,100 +32,102 @@
 
 ## News Headlines
 
-- Nvidia Acquires Top Staff from AI Chip Startup Groq in Licensing Deal
-- Ukraine Completes Debt Restructuring of $2.6 Billion GDP-Linked Bond
-- Russia Extends ExxonMobil's Deadline to Sell its Stake in Sakhalin-1 Project
-- Jumbo Golfer Kazuo Yoshiji Dies at 78 After Battle with Colorectal Cancer
-- Putin Sends New Year's Message to North Korea's Kim Jong-un
-- US Bans Former EU Digital Chief Thierry Breton from Entering Country
+- Japan expects growth to accelerate next year with fiscal stimulus
+- Ukraine completes debt restructuring, a major step towards exiting non-payment status
+- NVIDIA to acquire top staff from AI chip start-up Groq in licensing deal
+- Russian President Putin extends ExxonMobil's deadline to sell its stake in Sakhalin-1 project
+- Conservative backed by Trump declared winner in Honduran election
+- Pediatrics group asks federal judge to stop Trump administration from terminating grants
 
 
 ----
 
-@financialtimes.com
+@japan.reuters.com
 
-Nvidia to acquire top staff from AI chip start-up Groq in licensing deal ft.trib.al/1RtKcKG
+英国、カナダ、ドイツなどの国々は２４日、イスラエル安全保障会議が占領下のヨルダン川西岸地域に１９の新たな入植地建設を承認したことを非難する声明を発表した。国際法に違反し、不安定化を助長する恐れがあるとした。 bit.ly/3Lert1A
 
-[2025-12-25 08:48:32](https://bsky.app/profile/financialtimes.com/post/3marha6jmpi2k)
+[2025-12-25 09:05:10](https://bsky.app/profile/japan.reuters.com/post/3mari5vxlxq26)
 
 ---
 
 @japan.reuters.com
 
-ウクライナ政府は２４日、経済成長率が一定水準を超えると返済額が上乗せされる２６億ドル規模のＧＤＰ連動ワラント債の債務再編について手続きを完了したと発表した。ウクライナがロシアの２２年の全面侵攻で陥った債務不履行の状態から脱却するための重要な一歩となる。 bit.ly/3YKsRvY
+＜０８：４６＞　国債先物は反発で寄り付く、米金利低下や夜間取引の上昇で bit.ly/4b1nK1S
 
-[2025-12-25 08:44:55](https://bsky.app/profile/japan.reuters.com/post/3margzpddt42q)
-
----
-
-@japan.reuters.com
-
-ロシアのプーチン大統領は２４日に発表された大統領令により、ロシア極東の石油・天然ガス開発事業「サハリン１」で米石油大手エクソンモービルが保有する権益の売却期限を２０２７年１月１日まで１年延長した。 bit.ly/4siclRG
-
-[2025-12-25 08:40:13](https://bsky.app/profile/japan.reuters.com/post/3margrc7aga2q)
+[2025-12-25 09:02:12](https://bsky.app/profile/japan.reuters.com/post/3marhymigyv2c)
 
 ---
 
-@japan.reuters.com
+@reuters.com
 
-＜０８：２０＞　寄り前の板状況、ケーズＨＬＤＧが買い優勢　四国化成ＨＬＤＧは売り優勢 bit.ly/4jd8yRa
+Japan expects growth to accelerate next year with fiscal stimulus reut.rs/4qpRSIK
 
-[2025-12-25 08:38:30](https://bsky.app/profile/japan.reuters.com/post/3margo7tthj2n)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Sean 'Diddy' Combs files appeal asking for his immediate release
-
-[2025-12-25 08:36:38](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3margkvyipr26)
-
----
-
-@japan.reuters.com
-
-世界ゴルフ殿堂入りを果たしたわずか２人の日本男子選手の１人で、「ジャンボ」の愛称で親しまれた尾崎将司さんが、結腸がんの闘病の末に７８歳で死去した。日本ゴルフツアー機構（ＪＧＴＯ）が２４日に発表した。 bit.ly/4pWR8uS
-
-[2025-12-25 08:34:10](https://bsky.app/profile/japan.reuters.com/post/3margghuayb2n)
-
----
-
-@japan.reuters.com
-
-ロシアのプーチン大統領は今月１８日に、北朝鮮の金正恩朝鮮労働党総書記に新年を祝うメッセージを送ったと、北朝鮮国営メディア朝鮮中央通信（ＫＣＮＡ）が２５日に報じた。 bit.ly/4se0C6u
-
-[2025-12-25 08:33:02](https://bsky.app/profile/japan.reuters.com/post/3margeh4teh27)
-
----
-
-@nikkei.com
-
-アメリカ、EU閣僚務めたブルトン氏を入国禁止　デジタル規制を担当
-www.nikkei.com/article/DGXZQO...
-
-フランス出身のティエリー・ブルトン氏は2019年12月から24年9月までデジタル規制を担当する欧州委員を務めました。規制の運用を巡っては、アメリカ政府やイーロン・マスク氏と激しく対立しました。
-
-トランプ政権は、EUのデジタルサービス法が求める不適切な内容の監視・削除などの「コンテンツモデレーション」を検閲行為だと問題視しています。
-
-バンス副大統領は「ごみのような理由で米企業を攻撃するのではなく、言論の自由を支持すべきだ」とEUをやり玉にあげています。
-
-[2025-12-25 08:30:39](https://bsky.app/profile/nikkei.com/post/3marga757xq22)
-
----
-
-@japan.reuters.com
-
-米上院外交委員会の民主党議員１０人は２４日、トランプ大統領に対し、米大使ら約３０人を召還する決定を撤回するよう要請した。危険な指導力の空白を生み出し、ロシアや中国などの敵対国の影響力拡大を許すことになると警告した。 bit.ly/3Y7ytjM
-
-[2025-12-25 08:30:39](https://bsky.app/profile/japan.reuters.com/post/3marga7atao2q)
+[2025-12-25 09:01:07](https://bsky.app/profile/reuters.com/post/3marhwnv73g23)
 
 ---
 
 @usatoday.com
 
-Whether you’re running out to get a last minute gift card or simply craving a burger, you’re in luck.
+See until when you can score pastries from Porto's Bakery or shop at Ralph's. Here's our list of what's open, from banks to UPS and Walmart.
 
-[2025-12-25 08:30:26](https://bsky.app/profile/usatoday.com/post/3marg7s7phm2t)
+[2025-12-25 09:00:58](https://bsky.app/profile/usatoday.com/post/3marhwfd6tg2w)
+
+---
+
+@washingtonpost.com
+
+Hawaii’s Kīlauea volcano spewed lava nearly 1,400 feet into the sky during an eruption that ended early Christmas Eve morning, the U.S. Geological Survey (USGS) reported.
+
+[2025-12-25 09:00:55](https://bsky.app/profile/washingtonpost.com/post/3marhwcjj2y2p)
+
+---
+
+@nikkei.com
+
+NVIDIA、AI半導体Groqの経営陣引き抜き　技術供与受ける契約
+www.nikkei.com/article/DGXZQO...
+
+NVIDIAは反トラスト法（独占禁止法）に基づく当局の介入を警戒し、買収の形式をとらなかった可能性があります。
+
+NVIDIAはGroqが持つAIの推論向けの技術を使えるライセンス契約を結び、AI半導体の製品群を拡充します。
+
+米CNBCはNVIDIAが約200億ドル（約3兆1000億円）でGroqの資産を買収すると報じていて、支払総額が巨額に膨らむ可能性があります。
+
+#ニュース
+
+[2025-12-25 09:00:53](https://bsky.app/profile/nikkei.com/post/3marhwawjvg2g)
+
+---
+
+@japan.reuters.com
+
+米ホワイトハウスは米軍に対し、少なくとも今後２カ月間はベネズエラの石油の「封鎖」に専念するよう命じたことが分かった。米当局者が２４日、ロイターに明らかにした。 bit.ly/3Lk2euN
+
+[2025-12-25 09:00:52](https://bsky.app/profile/japan.reuters.com/post/3marhwa5srj2f)
+
+---
+
+@bloomberg.com
+
+China and the US actively engage in cyber espionage for strategic advantage. Leaked files now suggest how rapidly Beijing is catching up in preparation for any future conflict. (from the archive)
+
+[2025-12-25 09:00:33](https://bsky.app/profile/bloomberg.com/post/3marhvntm4m2g)
+
+---
+
+@cnn.com
+
+Like other words such as “yule” and “mistletoe,” wassail — from the Middle English salutation wæs hæil, meaning “be in good health,” derived in turn from Old Norse — evokes some kind of ancient holiday tradition. https://cnn.it/4pWUmyz
+
+[2025-12-25 09:00:23](https://bsky.app/profile/cnn.com/post/3marhvesz2l2u)
+
+---
+
+@nbcnews.com
+
+Delta Airlines and KLM Royal Dutch Airlines are named as defendants in a lawsuit from a Virginia family who alleges they were "bitten and injured by bed bugs that had infested the cabin" of a flight they took earlier this year.
+
+[2025-12-25 09:00:20](https://bsky.app/profile/nbcnews.com/post/3marhvbh7qw2d)
 
 ---
 
