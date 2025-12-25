@@ -1,9 +1,9 @@
-# [2025-12-26 06:10 updated](2025_12_26.md)
+# [2025-12-26 06:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FLASHより【独自】です。  【独自】『アッコにおまかせ！』後継は「上田晋也MCのワイドショー」、“新番組”の内容と“TBSの狙い”とは (2025-12-26 06:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3matosoysme25" target="_blank">sokuho.news</a> (2025-12-26 06:09:29)</span><span style="padding-right:50px;">Jimmy Kimmel used his Christmas Day message to U.K. viewers today to declare victory for free speech over President Trump's calls to cancel his talk show. <a href="https://bsky.app/profile/axios.com/post/3matonoq2hs2d" target="_blank">axios.com</a> (2025-12-26 06:06:41)</span><span style="padding-right:50px;">New York City is expecting its biggest snowfall in more than three years during the next few days. The region could see accumulations of up to 5 to 7 inches from late Friday into Saturday. <a href="https://bsky.app/profile/nytimes.com/post/3matokrdnxt27" target="_blank">nytimes.com</a> (2025-12-26 06:05:03)</span><span style="padding-right:50px;">Ukrainian President Volodymyr Zelensky had a “very good” conversation with US special envoy Steve Witkoff and President Donald Trump’s son-in-law Jared Kushner on Christmas Day as negotiations over the terms of a potential peace deal continued. https://cnn.it/4pTZLq3 <a href="https://bsky.app/profile/cnn.com/post/3matodku4uw2b" target="_blank">cnn.com</a> (2025-12-26 06:01:02)</span><span style="padding-right:50px;">Etsy seller Emily Odio-Sutton shares how she started, and grew, her lucrative print-on-demand side hustle — and offers tips for how to replicate her success. <a href="https://bsky.app/profile/cnbc.com/post/3matocziejf2m" target="_blank">cnbc.com</a> (2025-12-26 06:00:43)</span>
+<span style="padding-right:50px;">Waymo pauses robotaxis in SF again due to flash flood warnings on Christmas Day <a href="https://bsky.app/profile/cnbc.com/post/3matpnad4ov25" target="_blank">cnbc.com</a> (2025-12-26 06:24:20)</span><span style="padding-right:50px;">年末の自宅の大掃除 注意点は？脚立などからの転落事故も多発 https://news.web.nhk/newsweb/na/na-k10015013761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matpmrk5my2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 06:24:02)</span><span style="padding-right:50px;">和平案めぐり ロシア報道官“プーチン大統領に伝え分析中” https://news.web.nhk/newsweb/na/na-k10015014241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matphgihgi2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 06:21:02)</span><span style="padding-right:50px;">能登半島地震 被災者アンケート“復旧・復興 進捗感じず”67％ https://news.web.nhk/newsweb/na/na-k10015013911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matpc2lswa2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 06:18:02)</span><span style="padding-right:50px;">Most teenagers know that baseless conspiracy theories, partisan propaganda and artificially generated deepfakes lurk on social media. At a San Francisco high school, students are learning how to spot them. <a href="https://bsky.app/profile/nytimes.com/post/3matp4madph2r" target="_blank">nytimes.com</a> (2025-12-26 06:15:02)</span>
   </div>
 </div>
 
@@ -32,15 +32,67 @@
 
 ## News Headlines
 
-- Jimmy Kimmel Declares Victory for Free Speech Over Trump's Cancellation Calls
-- New York City Braces for Biggest Snowfall in Three Years
-- Ukraine's Zelensky Holds Talks with US Envoy, Trump's Son-in-Law on Christmas
-- US Military Sends Transport Planes to Caribbean Amid Venezuela Tensions
-- Christmas Celebrations Return to Jesus' Birthplace, but Joy Overshadowed by Israeli Occupation
-- Steelers Sign Veteran CB Tre Flowers to Active Roster
+- Waymo pauses robotaxis in SF due to flash flood warnings on Christmas Day
+- Japanese residents advised to be cautious during year-end home cleaning
+- Ukraine peace talks continue as President Zelensky holds talks with US envoy and Jared Kushner
+- Heavy snowfall expected in New York City, up to 5-7 inches forecasted
+- Australian government accused of failing to heed antisemitic threats before deadly attack
+- Oil exports from Venezuela plummet after US takes action against three crude-carrying ships
 
 
 ----
+
+@cnbc.com
+
+Waymo pauses robotaxis in SF again due to flash flood warnings on Christmas Day
+
+[2025-12-26 06:24:20](https://bsky.app/profile/cnbc.com/post/3matpnad4ov25)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+年末の自宅の大掃除 注意点は？脚立などからの転落事故も多発
+https://news.web.nhk/newsweb/na/na-k10015013761000
+
+[2025-12-26 06:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matpmrk5my2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+和平案めぐり ロシア報道官“プーチン大統領に伝え分析中”
+https://news.web.nhk/newsweb/na/na-k10015014241000
+
+[2025-12-26 06:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matphgihgi2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+能登半島地震 被災者アンケート“復旧・復興 進捗感じず”67％
+https://news.web.nhk/newsweb/na/na-k10015013911000
+
+[2025-12-26 06:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matpc2lswa2b)
+
+---
+
+@nytimes.com
+
+Most teenagers know that baseless conspiracy theories, partisan propaganda and artificially generated deepfakes lurk on social media. At a San Francisco high school, students are learning how to spot them.
+
+[2025-12-26 06:15:02](https://bsky.app/profile/nytimes.com/post/3matp4madph2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+能登半島地震 仮設住宅に1万7000人余が生活“孤立防ぐ支援を”
+https://news.web.nhk/newsweb/na/na-k10015013791000
+
+[2025-12-26 06:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matp4okz5k2y)
+
+---
 
 @sokuho.news
 
@@ -74,54 +126,6 @@ New York City is expecting its biggest snowfall in more than three years during 
 Ukrainian President Volodymyr Zelensky had a “very good” conversation with US special envoy Steve Witkoff and President Donald Trump’s son-in-law Jared Kushner on Christmas Day as negotiations over the terms of a potential peace deal continued. https://cnn.it/4pTZLq3
 
 [2025-12-26 06:01:02](https://bsky.app/profile/cnn.com/post/3matodku4uw2b)
-
----
-
-@cnbc.com
-
-Etsy seller Emily Odio-Sutton shares how she started, and grew, her lucrative print-on-demand side hustle — and offers tips for how to replicate her success.
-
-[2025-12-26 06:00:43](https://bsky.app/profile/cnbc.com/post/3matocziejf2m)
-
----
-
-@apnews.com
-
-The past year wasn't all doom and gloom; there was plenty to smile about, too. 
-
-[2025-12-26 06:00:37](https://bsky.app/profile/apnews.com/post/3matocsxua32p)
-
----
-
-@usatoday.com
-
-Erin and Ben Napier have more "Home Town" shows coming in 2026, but won't be able to host one of the beloved spinoffs.
-
-[2025-12-26 06:00:31](https://bsky.app/profile/usatoday.com/post/3matocnr6r62f)
-
----
-
-@washingtonpost.com
-
-Most of the year, U.S. electricity grid utilization is around 50 percent. Some researchers say that spare electricity could be tapped and sent to other customers, presenting an opportunity to lower prices.
-
-[2025-12-26 06:00:14](https://bsky.app/profile/washingtonpost.com/post/3matoc5vjpz2e)
-
----
-
-@nbcnews.com
-
-The Australian government has been accused of failing to heed warnings about antisemitic threats ahead of the deadly attack.
-
-[2025-12-26 06:00:13](https://bsky.app/profile/nbcnews.com/post/3matoc4opw32p)
-
----
-
-@nytimes.com
-
-The U.S. military has dispatched a number of transport and cargo planes to the Caribbean this week, as President Trump continues to ramp up military pressure on President Nicolás Maduro of Venezuela, whom Trump has threatened with military action.
-
-[2025-12-26 06:00:04](https://bsky.app/profile/nytimes.com/post/3matobu7cvs2b)
 
 ---
 
