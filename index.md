@@ -1,9 +1,9 @@
-# [2025-12-25 12:30 updated](2025_12_25.md)
+# [2025-12-25 12:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">＜１２：１０＞　午前のドルは155円後半で小動き、手掛かり難で見送りムード bit.ly/4seyFLU <a href="https://bsky.app/profile/japan.reuters.com/post/3martfmm2ga2q" target="_blank">japan.reuters.com</a> (2025-12-25 12:26:20)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】25日正午現在・高速道路通行止めの可能性がある区間発表 中国地方中心に大雪のおそれ ネクスコ (2025-12-25 12:20) #ニュース  ❄️降雪量 🔗https://www.jma.go.jp/bosai/snow/#zoom:5/lat:36.956909/lon:136.526600/colordepth:normal/elements:snowf24h <a href="https://bsky.app/profile/sokuho.news/post/3martfhhnr42r" target="_blank">sokuho.news</a> (2025-12-25 12:26:14)</span><span style="padding-right:50px;">山形 庄内町 JR羽越本線の脱線事故から20年で慰霊式 https://news.web.nhk/newsweb/na/na-k10015013381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3martbkvxmr2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 12:24:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長崎県佐世保市で水道管破裂 約140世帯断水 (2025-12-25 12:16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mart7reitv2r" target="_blank">sokuho.news</a> (2025-12-25 12:23:03)</span><span style="padding-right:50px;">株価 小幅な値動き https://news.web.nhk/newsweb/na/na-k10015013331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mart4afe4p2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 12:21:03)</span>
+<span style="padding-right:50px;">政府 来年度予算案 あす決定へ 一般会計総額122兆3100億円程度 https://news.web.nhk/newsweb/na/na-k10015013411000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marummrlo42s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 12:48:06)</span><span style="padding-right:50px;">11月 コメの民間企業輸入量 前年同月の13倍に増加 https://news.web.nhk/newsweb/na/na-k10015013361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marumi3w2m2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 12:48:02)</span><span style="padding-right:50px;">横浜 特定の高校最寄り駅で盗撮被害相次ぐ SNS動画きっかけか https://news.web.nhk/newsweb/na/na-k10015013391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marubqn7i42s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 12:42:01)</span><span style="padding-right:50px;">In a world of big-airport upmanship—business-class lounges, exotic new flights and VIP check in—small airports have a devoted fan base. And it’s one that has been growing as discount airlines including Allegiant, Breeze and Avelo have come to town. 🔗 on.wsj.com/4pTBqRj <a href="https://bsky.app/profile/wsj.com/post/3marub75dxz2t" target="_blank">wsj.com</a> (2025-12-25 12:41:45)</span><span style="padding-right:50px;">ロシア政府は２４日、来年２月１５日―６月３０日の穀物輸出枠を２０００万トンに設定したと発表した。輸出枠は国内市場を守るためにマーケティング年度の後半に設定するもので、発表された規模は予想通りだった。 bit.ly/4qql1nd <a href="https://bsky.app/profile/japan.reuters.com/post/3maru6jkewi2s" target="_blank">japan.reuters.com</a> (2025-12-25 12:40:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50349.64 (🔻100.54 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3379.00 (🔺2.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.73 (🔻0.01 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50337.34 (🔻112.84 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3373.00 (🔻4.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.71 (🔻0.03 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,108 +32,108 @@
 
 ## News Headlines
 
-- Japan's Stock Market Makes Small Recovery, Index Reaches ¥5,034,949.64
-- North Korea's Leader Inspects Construction of Nuclear-Powered Submarine
-- South Korea's Central Bank to Assess Data to Decide on Interest Rate Cut
-- Disney Appoints New Chief Brand Officer to Depoliticize the Company
-- NVIDIA Acquires Exclusive License for GLOFX's AI Chip Technology
-- US Justice Department Discovers Additional Documents Related to Jeffrey Epstein Case
+- Japanese Government to Decide on Next Year's Budget on December 26
+- Commodity Imports from Private Sector Soar 13 Times in November
+- Security Concerns at a Specific High School in Yokohama
+- Trump-Backed Candidate Wins Honduran Presidential Election
+- EU Introduces Strict Regulations on Plastic Imports
+- Korean Central Bank to Assess Data Before Lowering Interest Rates
 
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-＜１２：１０＞　午前のドルは155円後半で小動き、手掛かり難で見送りムード bit.ly/4seyFLU
+政府 来年度予算案 あす決定へ 一般会計総額122兆3100億円程度
+https://news.web.nhk/newsweb/na/na-k10015013411000
 
-[2025-12-25 12:26:20](https://bsky.app/profile/japan.reuters.com/post/3martfmm2ga2q)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】25日正午現在・高速道路通行止めの可能性がある区間発表 中国地方中心に大雪のおそれ ネクスコ
-(2025-12-25 12:20) #ニュース
-
-❄️降雪量
-🔗https://www.jma.go.jp/bosai/snow/#zoom:5/lat:36.956909/lon:136.526600/colordepth:normal/elements:snowf24h
-
-[2025-12-25 12:26:14](https://bsky.app/profile/sokuho.news/post/3martfhhnr42r)
+[2025-12-25 12:48:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marummrlo42s)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-山形 庄内町 JR羽越本線の脱線事故から20年で慰霊式
-https://news.web.nhk/newsweb/na/na-k10015013381000
+11月 コメの民間企業輸入量 前年同月の13倍に増加
+https://news.web.nhk/newsweb/na/na-k10015013361000
 
-[2025-12-25 12:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3martbkvxmr2k)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】長崎県佐世保市で水道管破裂 約140世帯断水
-(2025-12-25 12:16:00) #ニュース
-
-[2025-12-25 12:23:03](https://bsky.app/profile/sokuho.news/post/3mart7reitv2r)
+[2025-12-25 12:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marumi3w2m2x)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-株価 小幅な値動き
-https://news.web.nhk/newsweb/na/na-k10015013331000
+横浜 特定の高校最寄り駅で盗撮被害相次ぐ SNS動画きっかけか
+https://news.web.nhk/newsweb/na/na-k10015013391000
 
-[2025-12-25 12:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mart4afe4p2b)
-
----
-
-@reuters.com
-
-South Korea c.bank to assess incoming data to decide whether and when to lower rates reut.rs/4qqkJg7
-
-[2025-12-25 12:20:14](https://bsky.app/profile/reuters.com/post/3mart2pw6zz2r)
+[2025-12-25 12:42:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marubqn7i42s)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-三重県知事 外国籍県職員採用 “来年度から取りやめ検討開始”
-https://news.web.nhk/newsweb/na/na-k10015013351000
+In a world of big-airport upmanship—business-class lounges, exotic new flights and VIP check in—small airports have a devoted fan base. And it’s one that has been growing as discount airlines including Allegiant, Breeze and Avelo have come to town. 🔗 on.wsj.com/4pTBqRj
 
-[2025-12-25 12:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marsrif54w2y)
-
----
-
-@sokuho.news
-
-🛎️JNNより【独自】です。
-
-【独自】「業務停止中に訪問販売を強要」“布亀の救急箱”で知られる『布亀』で勤務していた女性 賠償求め提訴へ「消極的になるとパワハラや嫌がらせ…配達員を契約途中で打ち切られた」
-(2025-12-25 11:57:03) #ニュース
-
-[2025-12-25 12:11:30](https://bsky.app/profile/sokuho.news/post/3marsl42unt2v)
-
----
-
-@reuters.com
-
-Kennedy Center Christmas Eve jazz concert canceled after Trump's name added reut.rs/3NfgBky
-
-[2025-12-25 12:10:10](https://bsky.app/profile/reuters.com/post/3marsipuw7l23)
+[2025-12-25 12:41:45](https://bsky.app/profile/wsj.com/post/3marub75dxz2t)
 
 ---
 
 @japan.reuters.com
 
-市場筋２人によると、カザフスタン産原油の主要油種であるＣＰＣブレンド油の輸出は、１２月に１４カ月ぶりの低水準となる見通しだ。先月ウクライナのドローン攻撃を受けたロシアの積み込みインフラの修復が、悪天候により遅れるため。 bit.ly/3KQuIfE
+ロシア政府は２４日、来年２月１５日―６月３０日の穀物輸出枠を２０００万トンに設定したと発表した。輸出枠は国内市場を守るためにマーケティング年度の後半に設定するもので、発表された規模は予想通りだった。 bit.ly/4qql1nd
 
-[2025-12-25 12:05:08](https://bsky.app/profile/japan.reuters.com/post/3mars7pnflm2q)
+[2025-12-25 12:40:15](https://bsky.app/profile/japan.reuters.com/post/3maru6jkewi2s)
+
+---
+
+@japan.reuters.com
+
+サッカーのイングランド・プレミアリーグ、チェルシーのエンツォ・マレスカ監督は２４日、負傷を抱えていたコール・パーマーについて、ようやくフル出場が可能な状態になったと明かした。 bit.ly/4qklkQk
+
+[2025-12-25 12:39:16](https://bsky.app/profile/japan.reuters.com/post/3maru4qtnna2s)
+
+---
+
+@japan.reuters.com
+
+欧州連合（ＥＵ）欧州委員会は２３日、プラスチック類の輸入により厳格な規制を導入すると発表した。中国などからの安価な輸入品に苦しむ欧州のリサイクル工場を支援する。 bit.ly/4b5WWxs
+
+[2025-12-25 12:32:48](https://bsky.app/profile/japan.reuters.com/post/3martr77qlr2q)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【独自】です。
+
+【独自】部活動の保護者負担は月額1000円から3000円目安に 公立中学校の休日実施は地域のスポーツクラブに委託へ 文科省
+(2025-12-25 12:21) #ニュース
+
+[2025-12-25 12:30:56](https://bsky.app/profile/sokuho.news/post/3martntsivj2r)
+
+---
+
+@nikkei.com
+
+ホンジュラス大統領選挙、ようやく結果　トランプ氏支持の右派候補勝利
+www.nikkei.com/article/DGXZQO...
+
+11月30日投票で開票が難航していたホンジュラス大統領選挙は、トランプ氏が支持したナスリー・アスフラ氏が勝利しました。
+
+選挙管理委員会が発表したアスフラ氏の得票率は40.3％で次点候補は39.5％。1ポイントに満たない僅差でした。
+
+次点候補らはアメリカの意向が開票に働いたとみて「選挙クーデターだ」などと訴えています。
+
+#ニュース
+
+[2025-12-25 12:30:39](https://bsky.app/profile/nikkei.com/post/3martneclon24)
+
+---
+
+@reuters.com
+
+Taiwan's Foxtron unveils Bria EV model reut.rs/3NfgUvI
+
+[2025-12-25 12:30:29](https://bsky.app/profile/reuters.com/post/3martn2ld522y)
 
 ---
 
