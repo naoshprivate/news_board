@@ -1,9 +1,9 @@
-# [2025-12-26 03:10 updated](2025_12_26.md)
+# [2025-12-26 03:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Few people make partner at Goldman. Two brothers doing it within two years of each other is even more unusual. on.wsj.com/4pf7sGf <a href="https://bsky.app/profile/wsj.com/post/3mateel4rul2t" target="_blank">wsj.com</a> (2025-12-26 03:02:38)</span><span style="padding-right:50px;">From Santa’s reindeer and the Hanukkah armadillo to some very festive sea worms, our changing world is changing life for creatures great and small. And while some of these animals are struggling, a few may be key to helping us adapt to the future. https://cnn.it/4axo3RW <a href="https://bsky.app/profile/cnn.com/post/3matebpkfmi26" target="_blank">cnn.com</a> (2025-12-26 03:01:02)</span><span style="padding-right:50px;">Donald Trump is obsessed with the idea of taking over Greenland. What has the island got that he wants so badly? <a href="https://bsky.app/profile/bloomberg.com/post/3matebcsw6g2z" target="_blank">bloomberg.com</a> (2025-12-26 03:00:49)</span><span style="padding-right:50px;">Ed Taylor, who has run a free Santa School since 2015, says interest has surged in recent years.  While high-end Santas can earn more than $10,000 a month, many of Taylor’s students say the real reward is purpose and fulfillment in retirement. https://wapo.st/3MOhz7u <a href="https://bsky.app/profile/washingtonpost.com/post/3mateaobmi224" target="_blank">washingtonpost.com</a> (2025-12-26 03:00:27)</span><span style="padding-right:50px;">CBS said it shelved the segment on the notorious Salvadoran CECOT prison because it "needed additional reporting." <a href="https://bsky.app/profile/usatoday.com/post/3mateaegk3k25" target="_blank">usatoday.com</a> (2025-12-26 03:00:17)</span>
+<span style="padding-right:50px;">Five people, including tourists on a climbing trip, were killed when their helicopter crashed while descending Africa’s highest peak, Mount Kilimanjaro, Tanzanian authorities said on Thursday. <a href="https://bsky.app/profile/nytimes.com/post/3matfnovpwm2e" target="_blank">nytimes.com</a> (2025-12-26 03:25:38)</span><span style="padding-right:50px;">Russia's Gazprom supplied 38 bcm of gas to China via Power of Siberia pipeline in 2025 reut.rs/3Niymzq <a href="https://bsky.app/profile/reuters.com/post/3matfmtcn7e2k" target="_blank">reuters.com</a> (2025-12-26 03:25:09)</span><span style="padding-right:50px;">"It's easy to want to drive one of these cute kei cars. It's another thing to put your family in them and travel down the highway at 70 mph," one expert says. <a href="https://bsky.app/profile/nbcnews.com/post/3matflxmra62p" target="_blank">nbcnews.com</a> (2025-12-26 03:24:40)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:奄美大島近海, 深さ:20km マグニチュード:3.4, 最大震度:1 📍https://www.google.com/maps?q=27.7,128.7&ll=27.7,128.7&z=7&t=h 地震発生日時:2025-12-26 03:18頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3matfhmsadi2a" target="_blank">sokuho.news</a> (2025-12-26 03:22:14)</span><span style="padding-right:50px;">Pope Leo decried conditions for Palestinians in Gaza in his Christmas sermon, in an unusually direct appeal during what is normally a solemn, spiritual service on the day Christians across the globe celebrate the birth of Jesus reut.rs/4sbgSVO <a href="https://bsky.app/profile/reuters.com/post/3matfhcfz422z" target="_blank">reuters.com</a> (2025-12-26 03:22:03)</span>
   </div>
 </div>
 
@@ -32,89 +32,37 @@
 
 ## News Headlines
 
-- Two Brothers Make Partner At Goldman Within Two Years of Each Other
-- Pope Leo XIV Calls for Peace in Christmas Message
-- Remote-Controlled Robot Rides Camel in Qatar Racing Competition
-- Two Brothers Make Partner At Goldman Within Two Years of Each Other
-- King Charles III Attends Christmas Service with Royal Family
-- New Animal Sleep Habits Revealed Through Research
+- Five Killed in Helicopter Crash on Africa's Highest Peak, Mount Kilimanjaro
+- Russia Supplies 38 Bcm of Gas to China via Power of Siberia Pipeline
+- Pope Leo Criticizes Conditions in Gaza in Christmas Sermon
+- New Research Reveals Unusual Animal Sleep Habits in the Wild
+- Trump Heralds Christmas with Messages Criticizing 'Radical Left Scum'
+- Four Members of Liechtenstein Family Found Dead
 
 
 ----
 
-@wsj.com
+@nytimes.com
 
-Few people make partner at Goldman. Two brothers doing it within two years of each other is even more unusual. on.wsj.com/4pf7sGf
+Five people, including tourists on a climbing trip, were killed when their helicopter crashed while descending Africa’s highest peak, Mount Kilimanjaro, Tanzanian authorities said on Thursday.
 
-[2025-12-26 03:02:38](https://bsky.app/profile/wsj.com/post/3mateel4rul2t)
-
----
-
-@cnn.com
-
-From Santa’s reindeer and the Hanukkah armadillo to some very festive sea worms, our changing world is changing life for creatures great and small. And while some of these animals are struggling, a few may be key to helping us adapt to the future. https://cnn.it/4axo3RW
-
-[2025-12-26 03:01:02](https://bsky.app/profile/cnn.com/post/3matebpkfmi26)
+[2025-12-26 03:25:38](https://bsky.app/profile/nytimes.com/post/3matfnovpwm2e)
 
 ---
 
-@bloomberg.com
+@reuters.com
 
-Donald Trump is obsessed with the idea of taking over Greenland. What has the island got that he wants so badly?
+Russia's Gazprom supplied 38 bcm of gas to China via Power of Siberia pipeline in 2025 reut.rs/3Niymzq
 
-[2025-12-26 03:00:49](https://bsky.app/profile/bloomberg.com/post/3matebcsw6g2z)
-
----
-
-@washingtonpost.com
-
-Ed Taylor, who has run a free Santa School since 2015, says interest has surged in recent years.
-
-While high-end Santas can earn more than $10,000 a month, many of Taylor’s students say the real reward is purpose and fulfillment in retirement. https://wapo.st/3MOhz7u
-
-[2025-12-26 03:00:27](https://bsky.app/profile/washingtonpost.com/post/3mateaobmi224)
+[2025-12-26 03:25:09](https://bsky.app/profile/reuters.com/post/3matfmtcn7e2k)
 
 ---
 
-@usatoday.com
+@nbcnews.com
 
-CBS said it shelved the segment on the notorious Salvadoran CECOT prison because it "needed additional reporting."
+"It's easy to want to drive one of these cute kei cars. It's another thing to put your family in them and travel down the highway at 70 mph," one expert says.
 
-[2025-12-26 03:00:17](https://bsky.app/profile/usatoday.com/post/3mateaegk3k25)
-
----
-
-@apnews.com
-
-Former Brazilian President Jair Bolsonaro's family says he's underwent double hernia surgery at a hospital in the country's capital.
-
-[2025-12-26 03:00:08](https://bsky.app/profile/apnews.com/post/3matea4d5ut26)
-
----
-
-@aljazeera.com
-
-Brazil’s jailed ex-President Bolsonaro undergoes ‘successful’ surgery https://aje.io/1058pz
-
-[2025-12-26 03:00:05](https://bsky.app/profile/aljazeera.com/post/3mate7ziaap27)
-
----
-
-@financialtimes.com
-
-Management scholars are making a case study of Christmas, says Tim Harford.⁠
-⁠
-Discover his take on the economics of seasonal serenity: ft.trib.al/ozcNqm0
-
-[2025-12-26 03:00:03](https://bsky.app/profile/financialtimes.com/post/3mate7xps4x2o)
-
----
-
-@cbsnews.com
-
-Imprisoned Brazilian ex-president Jair Bolsonaro undergoes double hernia surgery
-
-[2025-12-26 03:00:01](https://bsky.app/profile/cbsnews.com/post/3mate7vf75s2j)
+[2025-12-26 03:24:40](https://bsky.app/profile/nbcnews.com/post/3matflxmra62p)
 
 ---
 
@@ -122,13 +70,67 @@ Imprisoned Brazilian ex-president Jair Bolsonaro undergoes double hernia surgery
 
 🔔防災科研より【強震モニタ】動画です。
 
-震源:熊本県熊本地方, 深さ:10km
-マグニチュード:2.7, 最大震度:2
-📍https://www.google.com/maps?q=32.7,130.7&ll=32.7,130.7&z=7&t=h
-地震発生日時:2025-12-26 02:56頃
+震源:奄美大島近海, 深さ:20km
+マグニチュード:3.4, 最大震度:1
+📍https://www.google.com/maps?q=27.7,128.7&ll=27.7,128.7&z=7&t=h
+地震発生日時:2025-12-26 03:18頃
 (10倍速▶120s→12s) #地震
 
-[2025-12-26 03:00:00](https://bsky.app/profile/sokuho.news/post/3mate7unz3c2v)
+[2025-12-26 03:22:14](https://bsky.app/profile/sokuho.news/post/3matfhmsadi2a)
+
+---
+
+@reuters.com
+
+Pope Leo decried conditions for Palestinians in Gaza in his Christmas sermon, in an unusually direct appeal during what is normally a solemn, spiritual service on the day Christians across the globe celebrate the birth of Jesus reut.rs/4sbgSVO
+
+[2025-12-26 03:22:03](https://bsky.app/profile/reuters.com/post/3matfhcfz422z)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+3時18分頃、鹿児島県で最大震度1の地震を観測しました。
+震源:奄美大島近海, 深さ:20km, 規模:M3.4
+この地震による津波の心配はありません。
+(2025-12-26 03:21:48) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/26/2025-12-26-03-18-57.html?xlarge_image=1
+
+[2025-12-26 03:21:49](https://bsky.app/profile/sokuho.news/post/3matfguypmc25)
+
+---
+
+@npr.org
+
+Managing a full December calendar can quickly take you from festive to frazzled. Psychotherapist Niro Feliciano shares advice on reducing stress and increasing joy this season.
+
+[2025-12-26 03:18:00](https://bsky.app/profile/npr.org/post/3matfa23y7z2y)
+
+---
+
+@nbcnews.com
+
+ICE officers shoot driver during immigration operation in Maryland, authorities say. 
+
+[2025-12-26 03:13:05](https://bsky.app/profile/nbcnews.com/post/3matexbbdf62u)
+
+---
+
+@nytimes.com
+
+The Trump administration has sought to move away from Housing First, a once-bipartisan model for distributing homelessness aid that has guided federal work for a generation. Here is what the evidence says about its programs.
+
+[2025-12-26 03:10:04](https://bsky.app/profile/nytimes.com/post/3materu2vkz25)
+
+---
+
+@wsj.com
+
+Few people make partner at Goldman. Two brothers doing it within two years of each other is even more unusual. on.wsj.com/4pf7sGf
+
+[2025-12-26 03:02:38](https://bsky.app/profile/wsj.com/post/3mateel4rul2t)
 
 ---
 
