@@ -1,9 +1,9 @@
-# [2025-12-25 13:30 updated](2025_12_25.md)
+# [2025-12-25 13:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">片山さつき財務相は２５日、２０２６年度予算案に関し、過去最大規模と大きく報じられているが対名目国内総生産（ＧＤＰ）比率ではこの３年間ほとんど変わっておらず、民主党政権時代の方が若干大きかったと指摘した。経団連審議員会でのあいさつで語った。 bit.ly/4bcqYQ2 <a href="https://bsky.app/profile/japan.reuters.com/post/3marwuhsfod2u" target="_blank">japan.reuters.com</a> (2025-12-25 13:28:19)</span><span style="padding-right:50px;">午前のドルは１５５円後半で小動きとなった。クリスマスのきょうは多くの市場が休場で取引量が少なく、手掛かりにも乏しい見送りムードが続いた。 bit.ly/45eFDGI <a href="https://bsky.app/profile/japan.reuters.com/post/3marwqpf2fn22" target="_blank">japan.reuters.com</a> (2025-12-25 13:26:13)</span><span style="padding-right:50px;">米国の株式市場は３年連続で二桁台の上昇率を記録し今年の取引を終えつつある。２０２６年を４年連続の上昇相場とするには、力強い企業収益、ハト派的な米連邦準備理事会（ＦＲＢ）、人工知能（ＡＩ）に対する精力的な投資が必要との声が聞かれる。ただ中間選挙や米中関係といった不確定要因もあり、ハードルは高いと言えるだろう。 bit.ly/3MSKkjl <a href="https://bsky.app/profile/japan.reuters.com/post/3marwonuhlf22" target="_blank">japan.reuters.com</a> (2025-12-25 13:25:04)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】勤務中に校長室で飲酒 小学校の女性校長を停職処分 福島 (2025-12-25 13:22:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3marwm6fiy726" target="_blank">sokuho.news</a> (2025-12-25 13:23:41)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「爆発音が聞こえる」トラック荷台で物品が爆発 発煙を確認しようと荷台のぼった従業員2人やけど (2025-12-25 13:22:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3marwkxrnx62y" target="_blank">sokuho.news</a> (2025-12-25 13:23:00)</span>
+<span style="padding-right:50px;">米国の自動車安全規制当局は２４日、緊急時にドアロックが容易に解除できない可能性があるとして、米電気自動車（ＥＶ）大手テスラのセダン「モデル３」の欠陥調査を開始したと発表した。 bit.ly/4p4AKqN <a href="https://bsky.app/profile/japan.reuters.com/post/3marxjqp2en2q" target="_blank">japan.reuters.com</a> (2025-12-25 13:40:13)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】FW小山玲弥が2大会連続五輪メンバーに内定 アイスホッケー女子「スマイルジャパン」 山梨 (2025-12-25 13:37) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3marxf7kmqc2b" target="_blank">sokuho.news</a> (2025-12-25 13:37:41)</span><span style="padding-right:50px;">官房長官 “首相がトップ務める政府の会議数が増加 見直しを” https://news.web.nhk/newsweb/na/na-k10015013421000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marxccqjf52d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 13:36:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】青森県 ツキノワグマ出没警報を年末で解除へ (2025-12-25 13:35) #ニュース  🟨警報注意報 🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=020000 <a href="https://bsky.app/profile/sokuho.news/post/3marxbtc2bv2v" target="_blank">sokuho.news</a> (2025-12-25 13:35:47)</span><span style="padding-right:50px;">ウクライナ政府は２４日、経済成長率が一定水準を超えると返済額が上乗せされる２６億ドル規模のＧＤＰ連動ワラント債の債務再編について手続きを完了したと発表した。ウクライナがロシアの２２年の全面侵攻で陥った債務不履行の状態から脱却するための重要な一歩となる。 bit.ly/48RPZia <a href="https://bsky.app/profile/japan.reuters.com/post/3marxans5m425" target="_blank">japan.reuters.com</a> (2025-12-25 13:35:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50336.00 (🔻114.18 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3364.00 (🔻13.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.67 (🔻0.07 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50318.85 (🔻131.33 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3367.00 (🔻10.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.71 (🔻0.03 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,37 +32,63 @@
 
 ## News Headlines
 
-- Japan's Finance Minister Criticizes Government's Budget Plan
-- US Stocks Record 10% Gain for Third Consecutive Year
-- Ford and Toyota to Invest $30 Billion in Electric Vehicle Production
-- San Antonio Spurs on a Hot Streak After Two of Worst Seasons in Franchise History
-- EU Introduces Stricter Regulations on Plastic Imports
-- Russia Sets Grain Export Quota for Next Year
+- Tesla's Model 3 Under Investigation for Safety Concerns
+- Australian PM Announces National Bravery Award for Civilians and First Responders
+- Ukraine Completes Debt Restructuring, Aims to Exit Default Status
+- School Principal in Fukushima Prefecture Faces Disciplinary Action for Drinking on the Job
+- Government Approves Plan to Make PSC Mark a Mandatory Safety Standard for Children's Toys
+- China's Politburo Discusses Anti-Corruption Efforts
 
 
 ----
 
 @japan.reuters.com
 
-片山さつき財務相は２５日、２０２６年度予算案に関し、過去最大規模と大きく報じられているが対名目国内総生産（ＧＤＰ）比率ではこの３年間ほとんど変わっておらず、民主党政権時代の方が若干大きかったと指摘した。経団連審議員会でのあいさつで語った。 bit.ly/4bcqYQ2
+米国の自動車安全規制当局は２４日、緊急時にドアロックが容易に解除できない可能性があるとして、米電気自動車（ＥＶ）大手テスラのセダン「モデル３」の欠陥調査を開始したと発表した。 bit.ly/4p4AKqN
 
-[2025-12-25 13:28:19](https://bsky.app/profile/japan.reuters.com/post/3marwuhsfod2u)
+[2025-12-25 13:40:13](https://bsky.app/profile/japan.reuters.com/post/3marxjqp2en2q)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】FW小山玲弥が2大会連続五輪メンバーに内定 アイスホッケー女子「スマイルジャパン」 山梨
+(2025-12-25 13:37) #ニュース
+
+[2025-12-25 13:37:41](https://bsky.app/profile/sokuho.news/post/3marxf7kmqc2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+官房長官 “首相がトップ務める政府の会議数が増加 見直しを”
+https://news.web.nhk/newsweb/na/na-k10015013421000
+
+[2025-12-25 13:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marxccqjf52d)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】青森県 ツキノワグマ出没警報を年末で解除へ
+(2025-12-25 13:35) #ニュース
+
+🟨警報注意報
+🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=020000
+
+[2025-12-25 13:35:47](https://bsky.app/profile/sokuho.news/post/3marxbtc2bv2v)
 
 ---
 
 @japan.reuters.com
 
-午前のドルは１５５円後半で小動きとなった。クリスマスのきょうは多くの市場が休場で取引量が少なく、手掛かりにも乏しい見送りムードが続いた。 bit.ly/45eFDGI
+ウクライナ政府は２４日、経済成長率が一定水準を超えると返済額が上乗せされる２６億ドル規模のＧＤＰ連動ワラント債の債務再編について手続きを完了したと発表した。ウクライナがロシアの２２年の全面侵攻で陥った債務不履行の状態から脱却するための重要な一歩となる。 bit.ly/48RPZia
 
-[2025-12-25 13:26:13](https://bsky.app/profile/japan.reuters.com/post/3marwqpf2fn22)
-
----
-
-@japan.reuters.com
-
-米国の株式市場は３年連続で二桁台の上昇率を記録し今年の取引を終えつつある。２０２６年を４年連続の上昇相場とするには、力強い企業収益、ハト派的な米連邦準備理事会（ＦＲＢ）、人工知能（ＡＩ）に対する精力的な投資が必要との声が聞かれる。ただ中間選挙や米中関係といった不確定要因もあり、ハードルは高いと言えるだろう。 bit.ly/3MSKkjl
-
-[2025-12-25 13:25:04](https://bsky.app/profile/japan.reuters.com/post/3marwonuhlf22)
+[2025-12-25 13:35:08](https://bsky.app/profile/japan.reuters.com/post/3marxans5m425)
 
 ---
 
@@ -70,64 +96,50 @@
 
 🛎️JNNより【速報】です。
 
-【速報】勤務中に校長室で飲酒 小学校の女性校長を停職処分 福島
+【速報】勤務中に校長室で飲酒、職員会議やPTA総会で居眠り…小学校の女性校長を停職処分 福島
 (2025-12-25 13:22:00) #ニュース
 
-[2025-12-25 13:23:41](https://bsky.app/profile/sokuho.news/post/3marwm6fiy726)
+[2025-12-25 13:34:00](https://bsky.app/profile/sokuho.news/post/3marx6mrj2h25)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️JNNより【独自】です。
 
-【速報】「爆発音が聞こえる」トラック荷台で物品が爆発 発煙を確認しようと荷台のぼった従業員2人やけど
-(2025-12-25 13:22:15) #ニュース
+【独自】帰宅途中の20代女性にわいせつな行為をしてけがをさせたか 不同意わいせつ傷害の疑いで男 (31）を逮捕 東京・練馬区 警視庁
+(2025-12-25 13:30:40) #ニュース
 
-[2025-12-25 13:23:00](https://bsky.app/profile/sokuho.news/post/3marwkxrnx62y)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】国分太一さんの人権救済申し立てを日本弁護士連合会が認めず
-(2025年12月25日 13:22) #ニュース
-
-[2025-12-25 13:22:36](https://bsky.app/profile/sokuho.news/post/3marwkarcnb2b)
+[2025-12-25 13:33:53](https://bsky.app/profile/sokuho.news/post/3marx6ghut52r)
 
 ---
 
-@wsj.com
+@nikkei.com
 
-Nebraska’s most divisive issue: heavily armed men in bulletproof vests who show up at feedlots to inspect brands on cattle. 🔗 on.wsj.com/4sdFY6w
+乳幼児のおもちゃに初の安全規制　PSCマーク表示義務化、誤飲事故防げ
+www.nikkei.com/article/DGXZQO...
+ 
+日本で販売されるおもちゃのおよそ9割が輸入品です。国は輸入品にもPSCマーク表示を義務付けることで、民間頼みだった安全性の担保につなげます。
 
-[2025-12-25 13:22:09](https://bsky.app/profile/wsj.com/post/3marwjgzso72k)
-
----
-
-@japan.reuters.com
-
-高市早苗首相は２５日、経団連審議員会に出席し、２０２６年度春季労使交渉において「物価上昇に負けないベースアップ」を実現するよう企業経営者に呼びかけた。 bit.ly/4axaMsA
-
-[2025-12-25 13:20:47](https://bsky.app/profile/japan.reuters.com/post/3marwgyqfsv22)
+[2025-12-25 13:30:39](https://bsky.app/profile/nikkei.com/post/3marwympl6226)
 
 ---
 
-@japan.reuters.com
+@apnews.com
 
-新華社によると、中国共産党の指導部である政治局は２５日に会議を開き、汚職取り締まりの強化策について議論した。 bit.ly/4pTuinV
+Australian Prime Minister Anthony Albanese announced plans for a national bravery award to recognize civilians and first responders who confronted “the worst of evil” during an antisemitic terror attack that left 15 dead and has cast a heavy shadow over the nation’s holiday season.
 
-[2025-12-25 13:14:19](https://bsky.app/profile/japan.reuters.com/post/3marw3goyzu25)
+[2025-12-25 13:30:28](https://bsky.app/profile/apnews.com/post/3marwycrmtb24)
 
 ---
 
-@reuters.com
+@cnn.com
 
-China's Politburo meets to discuss anti-corruption efforts reut.rs/3YfqCka
+The phone rings. Would your 10-year-old like to speak with the president? He’s tracking Santa Claus from his living room in Palm Beach.
 
-[2025-12-25 13:10:10](https://bsky.app/profile/reuters.com/post/3marvtzjgn32c)
+“Santa is a very good person,” President Donald Trump, in a suit and gold tie, tells Jasper in Tulsa. https://cnn.it/4q4Ieva
+
+[2025-12-25 13:30:04](https://bsky.app/profile/cnn.com/post/3marwxlrnb72b)
 
 ---
 
