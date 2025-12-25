@@ -1,9 +1,9 @@
-# [2025-12-25 23:30 updated](2025_12_25.md)
+# [2025-12-25 23:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">China's Guangzhou Futures Exchange to adjust platinum, palladium trading limits reut.rs/3MTJDpV <a href="https://bsky.app/profile/reuters.com/post/3masy7nfts62r" target="_blank">reuters.com</a> (2025-12-25 23:25:08)</span><span style="padding-right:50px;">The Trump administration is considering giving nearly 800 acres of land in a federal wildlife refuge in Texas to SpaceX, the rocket and satellite maker run by Elon Musk, according to documents reviewed by The New York Times. <a href="https://bsky.app/profile/nytimes.com/post/3masy7mthw62r" target="_blank">nytimes.com</a> (2025-12-25 23:25:07)</span><span style="padding-right:50px;">🇹🇷 Some 115 alleged members of the Islamic State group suspected of planning attacks during the end-of-year holidays have been arrested in Turkey, Istanbul's prosecutor general said on Thursday ➡️ u.afp.com/S8dH <a href="https://bsky.app/profile/en.afp.com/post/3masxxubmij2v" target="_blank">en.afp.com</a> (2025-12-25 23:20:47)</span><span style="padding-right:50px;">Brazil's Bolsonaro endorses son for presidency before more surgery reut.rs/44K8MJJ <a href="https://bsky.app/profile/reuters.com/post/3masxnuwcv62r" target="_blank">reuters.com</a> (2025-12-25 23:15:12)</span><span style="padding-right:50px;">ローマ教皇 クリスマスメッセージ ウクライナ対話進展など訴え https://news.web.nhk/newsweb/na/na-k10015014211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masxnoknsl2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 23:15:03)</span>
+<span style="padding-right:50px;">Many thousands of Venezuelans have found themselves stranded abroad or alone at home this holiday, prevented from gathering with relatives after President Trump declared the airspace around Venezuela closed more than three weeks ago. <a href="https://bsky.app/profile/nytimes.com/post/3masz2ejzrh2x" target="_blank">nytimes.com</a> (2025-12-25 23:40:04)</span><span style="padding-right:50px;">AI ‘world models’ promise to reshape $190bn video games industry ft.trib.al/L0ZnStN <a href="https://bsky.app/profile/financialtimes.com/post/3masyv4eyri2c" target="_blank">financialtimes.com</a> (2025-12-25 23:37:08)</span><span style="padding-right:50px;">Israeli military says it killed a member of Iran’s Quds Force in Lebanon reut.rs/3ML9QqN <a href="https://bsky.app/profile/reuters.com/post/3masyrl7pm62b" target="_blank">reuters.com</a> (2025-12-25 23:35:09)</span><span style="padding-right:50px;">Arriving empty-handed, leaving messes behind, being hours late — behaviors like these reflect obliviousness or busyness at best, or selfishness or entitlement at worst. https://cnn.it/48ULrrp <a href="https://bsky.app/profile/cnn.com/post/3masyrbsyfn2q" target="_blank">cnn.com</a> (2025-12-25 23:34:59)</span><span style="padding-right:50px;">Officials said officers were conducting an immigration enforcement operation in Maryland when they approached a van with two undocumented men. <a href="https://bsky.app/profile/usatoday.com/post/3masyiuzw6h2q" target="_blank">usatoday.com</a> (2025-12-25 23:30:18)</span>
   </div>
 </div>
 
@@ -32,15 +32,63 @@
 
 ## News Headlines
 
-- China's Guangzhou Futures Exchange to adjust platinum, palladium trading limits
-- Trump administration considers giving SpaceX nearly 800 acres of land in Texas
-- Turkey arrests 115 suspected Islamic State members ahead of holidays
-- Pope Leo XIV calls for peace and consolation in first Christmas message
-- North Korea releases new images of its first nuclear-powered submarine
-- Ukraine accepts demilitarized zone to end Russia war, but do DMZs work?
+- Venezuelans Stranded Abroad, Alone at Home for Christmas
+- AI 'World Models' to Reshape $190 Billion Video Game Industry
+- US Immigration Agents Shot at Moving Vehicle on Christmas Eve
+- North Korea Releases Images of Nuclear-Powered Submarine
+- Pope Leo XIV Calls for Peace and Consolation in Christmas Message
+- Baby Born Outside Womb Defies Medical Odds, Thrives
 
 
 ----
+
+@nytimes.com
+
+Many thousands of Venezuelans have found themselves stranded abroad or alone at home this holiday, prevented from gathering with relatives after President Trump declared the airspace around Venezuela closed more than three weeks ago.
+
+[2025-12-25 23:40:04](https://bsky.app/profile/nytimes.com/post/3masz2ejzrh2x)
+
+---
+
+@financialtimes.com
+
+AI ‘world models’ promise to reshape $190bn video games industry ft.trib.al/L0ZnStN
+
+[2025-12-25 23:37:08](https://bsky.app/profile/financialtimes.com/post/3masyv4eyri2c)
+
+---
+
+@reuters.com
+
+Israeli military says it killed a member of Iran’s Quds Force in Lebanon reut.rs/3ML9QqN
+
+[2025-12-25 23:35:09](https://bsky.app/profile/reuters.com/post/3masyrl7pm62b)
+
+---
+
+@cnn.com
+
+Arriving empty-handed, leaving messes behind, being hours late — behaviors like these reflect obliviousness or busyness at best, or selfishness or entitlement at worst. https://cnn.it/48ULrrp
+
+[2025-12-25 23:34:59](https://bsky.app/profile/cnn.com/post/3masyrbsyfn2q)
+
+---
+
+@usatoday.com
+
+Officials said officers were conducting an immigration enforcement operation in Maryland when they approached a van with two undocumented men.
+
+[2025-12-25 23:30:18](https://bsky.app/profile/usatoday.com/post/3masyiuzw6h2q)
+
+---
+
+@aljazeera.com
+
+Rescue helicopter crashes, killing five on Tanzania’s Mount Kilimanjaro https://aje.io/z14i7d
+
+[2025-12-25 23:30:04](https://bsky.app/profile/aljazeera.com/post/3masyiigysw27)
+
+---
 
 @reuters.com
 
@@ -71,59 +119,6 @@ The Trump administration is considering giving nearly 800 acres of land in a fed
 Brazil's Bolsonaro endorses son for presidency before more surgery reut.rs/44K8MJJ
 
 [2025-12-25 23:15:12](https://bsky.app/profile/reuters.com/post/3masxnuwcv62r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ローマ教皇 クリスマスメッセージ ウクライナ対話進展など訴え
-https://news.web.nhk/newsweb/na/na-k10015014211000
-
-[2025-12-25 23:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masxnoknsl2s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-「箱根駅伝」 4年に1回の記念大会は全国の大学が出場可能に
-https://news.web.nhk/newsweb/na/na-k10015014201000
-
-[2025-12-25 23:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masxcxfrhd2m)
-
----
-
-@wsj.com
-
-Israel's Benjamin Netanyahu is proposing he oversee a commission to determine the scope of an inquiry into failings that enabled Hamas's Oct. 7 attack
-
-[2025-12-25 23:07:20](https://bsky.app/profile/wsj.com/post/3masx7td4ep2h)
-
----
-
-@cnn.com
-
-North Korea released new images of what it claims is its first nuclear-powered submarine, a massive vessel equal in size to some of the United States Navy's attack subs. https://cnn.it/4pN1Xj0
-
-[2025-12-25 23:01:26](https://bsky.app/profile/cnn.com/post/3maswvbxa5222)
-
----
-
-@washingtonpost.com
-
-As millions of Americans grapple with the rising cost of health insurance next year, we had our nationwide team of health reporters analyze almost $7 million in medical charges, more than $350,000 of that this year.
-
-Here are our 10 takeaways from 2025:
-
-[2025-12-25 23:01:18](https://bsky.app/profile/washingtonpost.com/post/3maswuzwpke2g)
-
----
-
-@nikkei.com
-
-アメリカの宝くじで2830億円、史上2番目　クリスマスイブに「大当たり」（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-[2025-12-25 23:00:50](https://bsky.app/profile/nikkei.com/post/3maswu7delz24)
 
 ---
 
