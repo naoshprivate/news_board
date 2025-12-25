@@ -1,9 +1,9 @@
-# [2025-12-25 17:50 updated](2025_12_25.md)
+# [2025-12-25 18:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">デパート 11月の免税品売り上げ 去年同時期比2.5％減少 https://news.web.nhk/newsweb/na/na-k10015013771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masff3vxyn26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 17:48:07)</span><span style="padding-right:50px;">危険運転致死傷罪 数値基準まとまる 法制審議会の部会 https://news.web.nhk/newsweb/na/na-k10015013451000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masfewf5fp2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 17:48:02)</span><span style="padding-right:50px;">日本百貨店協会が２５日に発表した１１月の全国百貨店売上高は、店舗数調整後で前年比０．９％増の約５２１４億円となり、４カ月連続で前年を上回った。国内売り上げが順調に伸びて、インバウンドの落ち込みを補った。、 bit.ly/4b2Nf2L <a href="https://bsky.app/profile/japan.reuters.com/post/3masf7q376h2u" target="_blank">japan.reuters.com</a> (2025-12-25 17:45:09)</span><span style="padding-right:50px;">Kennedy Center Christmas Eve jazz concert canceled after Trump name added to building. <a href="https://bsky.app/profile/cbsnews.com/post/3masf7hws3r2z" target="_blank">cbsnews.com</a> (2025-12-25 17:45:01)</span><span style="padding-right:50px;">中国外務省は２５日、米国防総省が報告書で中国とインドの関係発展について言及したことについて、国防総省が中国の国防政策を歪曲していると批判した。 bit.ly/45qDtnr <a href="https://bsky.app/profile/japan.reuters.com/post/3masf75bmvk2c" target="_blank">japan.reuters.com</a> (2025-12-25 17:44:50)</span>
+<span style="padding-right:50px;">Vietnam's Vingroup to withdraw bid for $67-bln North-South high-speed railway reut.rs/3YI68AD <a href="https://bsky.app/profile/reuters.com/post/3masgdh7sud2r" target="_blank">reuters.com</a> (2025-12-25 18:05:08)</span><span style="padding-right:50px;">TBS HD コンプライアンス担当常務取締役 交際費不正使用で辞任 https://news.web.nhk/newsweb/na/na-k10015013801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masg7rdkma2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 18:03:02)</span><span style="padding-right:50px;">【糖度は最高78度】 宮崎の焼き芋、あふれ出る甘い蜜で11カ国・地域開拓 www.nikkei.com/article/DGXZQO...   ハチミツがかけられているように見える「極蜜熟成やきいも」。実際は内部から蜜がしみ出たものです。   ロサンゼルスやニューヨークで開かれた展示会にも出品。会場では「アメージング。こんな焼き芋は食べたことがない」「ハチミツのようにナチュラルで甘い」と反応は上々。   今ではアメリカ、ブラジル、タイ、香港に定期的に出荷。不定期のカンボジアや台湾を含めると出荷先は11カ国・地域に上ります。 <a href="https://bsky.app/profile/nikkei.com/post/3masg3hnj3s26" target="_blank">nikkei.com</a> (2025-12-25 18:00:40)</span><span style="padding-right:50px;">Renowned actor and director Mohammad Bakri died at the age of 72, according to his family. Bakri had been suffering from heart problems. His funeral was held the same day in his town of birth, al-Bi'neh, in northern Israel. https://cnn.it/3YfsmKe <a href="https://bsky.app/profile/cnn.com/post/3masg36efko22" target="_blank">cnn.com</a> (2025-12-25 18:00:30)</span><span style="padding-right:50px;">アスクルは２５日、２０２６年５月期の半期報告書（５月─１１月）について、提出期限を延長する承認申請書を関東財務局へ提出すると発表した。１０月に発生したランサムウエア感染によるシステム障害の影響で、被害額の集計や監査手続きなどに時間を要するため。 bit.ly/499GEkK <a href="https://bsky.app/profile/japan.reuters.com/post/3masg345aki2q" target="_blank">japan.reuters.com</a> (2025-12-25 18:00:28)</span>
   </div>
 </div>
 
@@ -32,97 +32,107 @@
 
 ## News Headlines
 
-- Department Store Sales Decline 2.5% in November Compared to Last Year
-- Dangerous Driving Penalty Standards to be Set
-- Tokyo Department Stores See Sales Increase 0.9% in November
-- China Criticizes US Defense Ministry for Mentioning China and India in Report
-- Russia-Ukraine Conflict Updates: December 25th
-- High-Value Panda Viewing Tickets Being Resold
+- Vingroup withdraws bid for $67-bln North-South high-speed railway
+- TBS HD executive resigns over improper use of expense money
+- Miyazaki sweet potato with honey-like nectar sold to 11 countries
+- Renowned actor and director Mohammad Bakri dies at 72
+- Asuraku announces delay in submitting 2026 half-year financial report
+- Parenting coach suggests focusing on children's well-being over behavior
 
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-デパート 11月の免税品売り上げ 去年同時期比2.5％減少
-https://news.web.nhk/newsweb/na/na-k10015013771000
-
-[2025-12-25 17:48:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masff3vxyn26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-危険運転致死傷罪 数値基準まとまる 法制審議会の部会
-https://news.web.nhk/newsweb/na/na-k10015013451000
-
-[2025-12-25 17:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masfewf5fp2m)
-
----
-
-@japan.reuters.com
-
-日本百貨店協会が２５日に発表した１１月の全国百貨店売上高は、店舗数調整後で前年比０．９％増の約５２１４億円となり、４カ月連続で前年を上回った。国内売り上げが順調に伸びて、インバウンドの落ち込みを補った。、 bit.ly/4b2Nf2L
-
-[2025-12-25 17:45:09](https://bsky.app/profile/japan.reuters.com/post/3masf7q376h2u)
-
----
-
-@cbsnews.com
-
-Kennedy Center Christmas Eve jazz concert canceled after Trump name added to building.
-
-[2025-12-25 17:45:01](https://bsky.app/profile/cbsnews.com/post/3masf7hws3r2z)
-
----
-
-@japan.reuters.com
-
-中国外務省は２５日、米国防総省が報告書で中国とインドの関係発展について言及したことについて、国防総省が中国の国防政策を歪曲していると批判した。 bit.ly/45qDtnr
-
-[2025-12-25 17:44:50](https://bsky.app/profile/japan.reuters.com/post/3masf75bmvk2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【随時更新】ロシア ウクライナに軍事侵攻（12月25日の動き）
-https://news.web.nhk/newsweb/na/na-k10014990721000
-
-[2025-12-25 17:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masf2aqndn24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-パンダの観覧予約チケット 高額転売相次ぐ 転売発覚なら無効に
-https://news.web.nhk/newsweb/na/na-k10015013751000
-
-[2025-12-25 17:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maseutn7to2m)
-
----
-
-@wsj.com
-
-When Bob Brody finally stopped drinking after half a century, he discovered that abstinence has physical and mental rewards, even when you’re in your 70s. on.wsj.com/3MJBKU2
-
-[2025-12-25 17:36:58](https://bsky.app/profile/wsj.com/post/3maser3ex7j2s)
-
----
-
 @reuters.com
 
-Major Gulf markets subdued on soft oil prices reut.rs/3NhuwGP
+Vietnam's Vingroup to withdraw bid for $67-bln North-South high-speed railway reut.rs/3YI68AD
 
-[2025-12-25 17:35:09](https://bsky.app/profile/reuters.com/post/3masent6ft42r)
+[2025-12-25 18:05:08](https://bsky.app/profile/reuters.com/post/3masgdh7sud2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+TBS HD コンプライアンス担当常務取締役 交際費不正使用で辞任
+https://news.web.nhk/newsweb/na/na-k10015013801000
+
+[2025-12-25 18:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masg7rdkma2u)
+
+---
+
+@nikkei.com
+
+【糖度は最高78度】
+宮崎の焼き芋、あふれ出る甘い蜜で11カ国・地域開拓
+www.nikkei.com/article/DGXZQO...
+ 
+ハチミツがかけられているように見える「極蜜熟成やきいも」。実際は内部から蜜がしみ出たものです。
+ 
+ロサンゼルスやニューヨークで開かれた展示会にも出品。会場では「アメージング。こんな焼き芋は食べたことがない」「ハチミツのようにナチュラルで甘い」と反応は上々。
+ 
+今ではアメリカ、ブラジル、タイ、香港に定期的に出荷。不定期のカンボジアや台湾を含めると出荷先は11カ国・地域に上ります。
+
+[2025-12-25 18:00:40](https://bsky.app/profile/nikkei.com/post/3masg3hnj3s26)
+
+---
+
+@cnn.com
+
+Renowned actor and director Mohammad Bakri died at the age of 72, according to his family. Bakri had been suffering from heart problems. His funeral was held the same day in his town of birth, al-Bi'neh, in northern Israel. https://cnn.it/3YfsmKe
+
+[2025-12-25 18:00:30](https://bsky.app/profile/cnn.com/post/3masg36efko22)
 
 ---
 
 @japan.reuters.com
 
-米国の株式市場は３年連続で二桁台の上昇率を記録し今年の取引を終えつつある。２０２６年を４年連続の上昇相場とするには、力強い企業収益、ハト派的な米連邦準備理事会（ＦＲＢ）、人工知能（ＡＩ）に対する精力的な投資が必要との声が聞かれる。ただ中間選挙や米中関係といった不確定要因もあり、ハードルは高いと言えるだろう。 bit.ly/3MOpdyF
+アスクルは２５日、２０２６年５月期の半期報告書（５月─１１月）について、提出期限を延長する承認申請書を関東財務局へ提出すると発表した。１０月に発生したランサムウエア感染によるシステム障害の影響で、被害額の集計や監査手続きなどに時間を要するため。 bit.ly/499GEkK
 
-[2025-12-25 17:35:08](https://bsky.app/profile/japan.reuters.com/post/3masensjcfw22)
+[2025-12-25 18:00:28](https://bsky.app/profile/japan.reuters.com/post/3masg345aki2q)
+
+---
+
+@cnbc.com
+
+Parenting coach Reem Raouda discussed a common parenting mistake involving your child's behavior.
+
+“Stop focusing on their behavior and start focusing on their [well-being],” she says. “Children are not robots, and their emotions are being completely ignored, dismissed [or even] punished.”
+
+[2025-12-25 18:00:15](https://bsky.app/profile/cnbc.com/post/3masg2pwdfd2b)
+
+---
+
+@bloomberg.com
+
+Tsinghua University has educated China's top science and engineering students for decades. Now, it's at the forefront of the AI revolution, receiving more patents each year than MIT, Stanford, Princeton and Harvard combined. (from the archive)
+
+[2025-12-25 18:00:11](https://bsky.app/profile/bloomberg.com/post/3masg2lnyhk23)
+
+---
+
+@aljazeera.com
+
+Many of the remaining churches across Gaza either scaled back or cancelled Christmas activities altogether.
+
+[2025-12-25 18:00:05](https://bsky.app/profile/aljazeera.com/post/3masg2gqhdm2p)
+
+---
+
+@financialtimes.com
+
+What is the ultimate luxury status symbol? Once upon a time it may have been a sports car or a flashy watch.
+
+But with soaring costs of living, perhaps the most serious flex of wealth is something once considered a natural part of life: having kids on.ft.com/4q0KALt
+
+[2025-12-25 18:00:04](https://bsky.app/profile/financialtimes.com/post/3masg2flkvr2o)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+大阪・関西万博 成果検証の有識者会議 初会合
+https://news.web.nhk/newsweb/na/na-k10015013781000
+
+[2025-12-25 17:57:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masfuyfimd22)
 
 ---
 
