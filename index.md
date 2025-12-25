@@ -1,9 +1,9 @@
-# [2025-12-25 10:30 updated](2025_12_25.md)
+# [2025-12-25 10:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">羽田空港 航空機衝突事故 調査の途中経過公表 国の運輸安全委 https://news.web.nhk/newsweb/na/na-k10015013201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marmqeofkl2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 10:27:02)</span><span style="padding-right:50px;">＊この記事は見出しのみの速報です。 bit.ly/3Ybwyut <a href="https://bsky.app/profile/japan.reuters.com/post/3marmedooce2q" target="_blank">japan.reuters.com</a> (2025-12-25 10:20:21)</span><span style="padding-right:50px;">損害保険事業やペット向けサービス事業を手掛けるアニコムホールディングスが反発し、一時３．３％高の９９７円まで上昇した。米投資ファンドのダルトン・インベストメンツが同社株式の１１．６５％を保有していることが２４日提出の変更報告書で分かり、手掛かりとなっている。午前１０時００分現在は上げ幅を縮小し、２％高で推移している。 bit.ly/48URI6q <a href="https://bsky.app/profile/japan.reuters.com/post/3marm2i7yvt2q" target="_blank">japan.reuters.com</a> (2025-12-25 10:14:50)</span><span style="padding-right:50px;">NORAD tracks Santa's Yuletide sleigh ride for 70th year reut.rs/44FkZ2u <a href="https://bsky.app/profile/reuters.com/post/3marls7v2f72i" target="_blank">reuters.com</a> (2025-12-25 10:10:13)</span><span style="padding-right:50px;">A look at the upscale markets outside the city that are outperforming the French capital. on.wsj.com/3YO7dH6 <a href="https://bsky.app/profile/wsj.com/post/3marlcrpkgl2u" target="_blank">wsj.com</a> (2025-12-25 10:01:34)</span>
+<span style="padding-right:50px;">東京・羽田空港で２０２４年１月に起きた海上保安庁と日本航空（ＪＡＬ）の機体衝突事故の原因を調べている運輸安全委員会は２５日、２回目となる経過報告を公表し、海保機機長の労務管理や疲労などを分析対象に追加したと明らかにした。 bit.ly/4b5UN4S <a href="https://bsky.app/profile/japan.reuters.com/post/3marnwkhjnh2q" target="_blank">japan.reuters.com</a> (2025-12-25 10:48:25)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “No postwar political movement has been more closely bound up in the fortunes of its founder than MAGA is,” writes Matthew Walther. <a href="https://bsky.app/profile/nytimes.com/post/3marnqluxi62a" target="_blank">nytimes.com</a> (2025-12-25 10:45:06)</span><span style="padding-right:50px;">In @nytopinion  As “The Late Show” approaches its end in May, Stephen Colbert “has turned his show’s last hurrah into a torrid victory lap, and he’s done it by manifesting the show he’d always envisioned: a show about love and a show about loss,” Lisa Schwarzbaum writes. <a href="https://bsky.app/profile/nytimes.com/post/3marnqldppw2a" target="_blank">nytimes.com</a> (2025-12-25 10:45:05)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “The files have been released in a way that seems to be designed to maximize the arguing, give succor to conspiracy-mongers and minimize the illumination of what happened,” writes Molly Jong-Fast. <a href="https://bsky.app/profile/nytimes.com/post/3marnqhi5yt2v" target="_blank">nytimes.com</a> (2025-12-25 10:45:01)</span><span style="padding-right:50px;">シドニー株式市場は２５日はクリスマス、２６日はボクシングデーのため、それぞれ休場となる。取引は２９日に再開する。 bit.ly/49svCYU <a href="https://bsky.app/profile/japan.reuters.com/post/3marnoqoqtw2n" target="_blank">japan.reuters.com</a> (2025-12-25 10:44:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50406.36 (🔻43.82 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3369.00 (🔻8.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔺0.09 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50424.28 (🔻25.90 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3373.00 (🔻4.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔺0.06 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,103 +32,106 @@
 
 ## News Headlines
 
-- Japan's Government Seeks Simplification of Import Quality Inspection in India
-- US Investment Firm Acquires AI Chip Maker Nvidia for $200 Billion
-- Israel Coalition Pushes for Investigation into October 7 Attack
-- China's First Batch of Fuel Export Quotas Stays Steady in 2026
-- US Department of Defense Releases Annual Report on China
-- Explosion Rocks Crowded Mosque in Nigeria, Killing Several People
+- Transport Ministry announces 2nd progress report on investigation into Japan Airlines and Coast Guard aircraft collision
+- Stephen Colbert's 'Late Show' to End in May, But It's Been a 'Victory Lap'
+- Russian President Putin sends New Year's message to North Korean leader Kim
+- Russia sets grain export quota for 2026 at 2 million tons
+- Tokyo Stock Market to Close on Christmas and Boxing Day
+- US Treasury plans to auction off $34 billion in 5-year notes
 
 
 ----
 
-@nhknewsunofficial.bsky.social
+@japan.reuters.com
 
-羽田空港 航空機衝突事故 調査の途中経過公表 国の運輸安全委
-https://news.web.nhk/newsweb/na/na-k10015013201000
+東京・羽田空港で２０２４年１月に起きた海上保安庁と日本航空（ＪＡＬ）の機体衝突事故の原因を調べている運輸安全委員会は２５日、２回目となる経過報告を公表し、海保機機長の労務管理や疲労などを分析対象に追加したと明らかにした。 bit.ly/4b5UN4S
 
-[2025-12-25 10:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marmqeofkl2s)
+[2025-12-25 10:48:25](https://bsky.app/profile/japan.reuters.com/post/3marnwkhjnh2q)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com 
+
+“No postwar political movement has been more closely bound up in the fortunes of its founder than MAGA is,” writes Matthew Walther.
+
+[2025-12-25 10:45:06](https://bsky.app/profile/nytimes.com/post/3marnqluxi62a)
+
+---
+
+@nytimes.com
+
+In @nytopinion
+
+As “The Late Show” approaches its end in May, Stephen Colbert “has turned his show’s last hurrah into a torrid victory lap, and he’s done it by manifesting the show he’d always envisioned: a show about love and a show about loss,” Lisa Schwarzbaum writes.
+
+[2025-12-25 10:45:05](https://bsky.app/profile/nytimes.com/post/3marnqldppw2a)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com 
+
+“The files have been released in a way that seems to be designed to maximize the arguing, give succor to conspiracy-mongers and minimize the illumination of what happened,” writes Molly Jong-Fast.
+
+[2025-12-25 10:45:01](https://bsky.app/profile/nytimes.com/post/3marnqhi5yt2v)
 
 ---
 
 @japan.reuters.com
 
-＊この記事は見出しのみの速報です。 bit.ly/3Ybwyut
+シドニー株式市場は２５日はクリスマス、２６日はボクシングデーのため、それぞれ休場となる。取引は２９日に再開する。 bit.ly/49svCYU
 
-[2025-12-25 10:20:21](https://bsky.app/profile/japan.reuters.com/post/3marmedooce2q)
+[2025-12-25 10:44:04](https://bsky.app/profile/japan.reuters.com/post/3marnoqoqtw2n)
 
 ---
 
 @japan.reuters.com
 
-損害保険事業やペット向けサービス事業を手掛けるアニコムホールディングスが反発し、一時３．３％高の９９７円まで上昇した。米投資ファンドのダルトン・インベストメンツが同社株式の１１．６５％を保有していることが２４日提出の変更報告書で分かり、手掛かりとなっている。午前１０時００分現在は上げ幅を縮小し、２％高で推移している。 bit.ly/48URI6q
+ロシアのプーチン大統領は今月１８日に、北朝鮮の金正恩朝鮮労働党総書記に新年を祝うメッセージを送ったと、北朝鮮国営メディア朝鮮中央通信（ＫＣＮＡ）が２５日に報じた。 bit.ly/48SSy3t
 
-[2025-12-25 10:14:50](https://bsky.app/profile/japan.reuters.com/post/3marm2i7yvt2q)
-
----
-
-@reuters.com
-
-NORAD tracks Santa's Yuletide sleigh ride for 70th year reut.rs/44FkZ2u
-
-[2025-12-25 10:10:13](https://bsky.app/profile/reuters.com/post/3marls7v2f72i)
+[2025-12-25 10:40:15](https://bsky.app/profile/japan.reuters.com/post/3marnhwffee2q)
 
 ---
 
-@wsj.com
+@japan.reuters.com
 
-A look at the upscale markets outside the city that are outperforming the French capital. on.wsj.com/3YO7dH6
+ロシア政府は２４日、来年２月１５日―６月３０日の穀物輸出枠を２０００万トンに設定したと発表した。輸出枠は国内市場を守るためにマーケティング年度の後半に設定するもので、発表された規模は予想通りだった。 bit.ly/4qkj8Z6
 
-[2025-12-25 10:01:34](https://bsky.app/profile/wsj.com/post/3marlcrpkgl2u)
-
----
-
-@usatoday.com
-
-The next three episodes of "Stranger Things" Season 5 premiere on Netflix Dec. 25. Here's what time to tune in.
-
-[2025-12-25 10:00:46](https://bsky.app/profile/usatoday.com/post/3marlbcynen2c)
+[2025-12-25 10:38:41](https://bsky.app/profile/japan.reuters.com/post/3marnf4uggi2s)
 
 ---
 
 @nikkei.com
 
-トランプ政権が「愛国教育」宣言　保守派校長「次のカーク氏育てる」
+トランプ級戦艦、現代の「大和」か
 www.nikkei.com/article/DGXZQO...
- 
-マクマホン教育長官によると、60〜70年続いた「アメリカを憎み、歴史を修正し、分断する」教育から、「信仰、伝統、愛国心」に基づく公民教育を取り戻すといいます。
- 
-設立された「アメリカ250公民教育同盟」には主立った保守派が名を連ねています。
- 
-保守派視点から歴史や社会問題を説明する動画を配信する「プラガー・ユー」。子ども向け動画で、アニメのコロンブスが「奴隷になるのは殺されるよりまし」と語っています。
 
-[2025-12-25 10:00:40](https://bsky.app/profile/nikkei.com/post/3marlb5zf6a2n)
+日本海軍は航空機が勝敗を分ける時代になってなお艦隊決戦にこだわり「大和」に膨大な予算を費やしました。
 
----
+80年以上たったいま、アメリカが巨大戦艦の建造に着手します。
 
-@bloomberg.com
+米海軍の元中将は「戦略的にも、財政的にも、戦術的にも誤り」と指摘しています。
 
-“The hospital is for high-class people.” The World Bank invested billions of dollars in private hospitals from Africa to Asia to improve healthcare. But stories of abuses have piled up. (from the archive)
-
-[2025-12-25 10:00:33](https://bsky.app/profile/bloomberg.com/post/3marlaxhhl22u)
+[2025-12-25 10:30:39](https://bsky.app/profile/nikkei.com/post/3marmwrngwb2i)
 
 ---
 
-@cnbc.com
+@usatoday.com
 
-The people you choose to surround yourself with can affect your mental health, productivity and even career trajectory.
+Claire Sardina, who performed in Lightning & Thunder with Neil Diamond tribute artist Mike Sardina, tells the true story behind "Song Sung Blue."
 
-Evy Poumpouras, who spent 12 years with the U.S. Secret Service as a special agent, identifies the three toxic personality types she learned to stay far away from.
-
-[2025-12-25 10:00:27](https://bsky.app/profile/cnbc.com/post/3marlarki4r2x)
+[2025-12-25 10:30:26](https://bsky.app/profile/usatoday.com/post/3marmwfekix2q)
 
 ---
 
-@apnews.com
+@aljazeera.com
 
-Families in north-central Nigeria have joyfully reunited with schoolchildren held for a month after a mass abduction. 
+These are the key developments from day 1,400 of Russia’s war on Ukraine.
 
-[2025-12-25 10:00:20](https://bsky.app/profile/apnews.com/post/3marlakml6j23)
+[2025-12-25 10:30:03](https://bsky.app/profile/aljazeera.com/post/3marmvozgbi2d)
 
 ---
 
