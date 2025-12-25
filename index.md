@@ -1,9 +1,9 @@
-# [2025-12-25 14:10 updated](2025_12_25.md)
+# [2025-12-25 14:30 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">前場の中国株式市場は続伸。上海総合指数は１カ月超ぶりの高値を付けた。この基調を維持すれば７営業日続伸となる。香港市場は休場。 bit.ly/4b3JwBZ <a href="https://bsky.app/profile/japan.reuters.com/post/3marz4mtvfq2c" target="_blank">japan.reuters.com</a> (2025-12-25 14:08:40)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】道頓堀ビル火災 「バックドラフト」発生 屋外看板には「不燃材料」使われず 中間報告公表 (2025-12-25 14:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maryxiwpqg2b" target="_blank">sokuho.news</a> (2025-12-25 14:05:49)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】国分太一さんの人権救済 日弁連が申し立て認めず (2025-12-25 14:02:06) #ニュース https://news.tv-asahi.co.jp/news_society/articles/000475242.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3marywmwasn2z" target="_blank">sokuho.news</a> (2025-12-25 14:05:18)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「火炎は壁面を這うように」大阪・道頓堀ビル火災の中間報告公表 バックドラフト発生 エアコンが燃焼助長か (2025-12-25 14:02:33) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3marytgagzy27" target="_blank">sokuho.news</a> (2025-12-25 14:03:32)</span><span style="padding-right:50px;">Meet the boss who gave his employees a $240 million gift. <a href="https://bsky.app/profile/wsj.com/post/3maryszeh7e2h" target="_blank">wsj.com</a> (2025-12-25 14:03:18)</span>
+<span style="padding-right:50px;"> AI upheaval shows little sign of lessening ft.trib.al/MQpdGis  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mas2aqwpao2w" target="_blank">financialtimes.com</a> (2025-12-25 14:28:53)</span><span style="padding-right:50px;"> City of London churches offer sublime music in a divine setting ft.trib.al/Q8tP4M0  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mas2aqygmy2w" target="_blank">financialtimes.com</a> (2025-12-25 14:28:53)</span><span style="padding-right:50px;">日銀の植田和男総裁は２５日、ここ数年、企業の賃金・価格設定行動は「大きく変化している」と評価し、賃金上昇を伴う形での２％の物価安定目標の実現が「着実に近づいている」と述べた。賃金の上昇継続とコスト上昇分の販売価格への転嫁の広がりに自信を示し、長らく続いてきた賃金も物価もほとんど変化しない「ゼロノルム」の世界に戻る可能性は「大きく低下している」と語った。 bit.ly/3L7vtB0 <a href="https://bsky.app/profile/japan.reuters.com/post/3marzzijamn2u" target="_blank">japan.reuters.com</a> (2025-12-25 14:24:49)</span><span style="padding-right:50px;">Traffic in Miami is a nightmare, but one real-estate tycoon has a plan: flying taxis that take commuters around South Florida for $200.  🔗: on.wsj.com/3NgVIFC <a href="https://bsky.app/profile/wsj.com/post/3marzxhruv72u" target="_blank">wsj.com</a> (2025-12-25 14:23:41)</span><span style="padding-right:50px;">＜１４：０５＞　後場の日経平均は小動き、植田日銀総裁発言への反応は限定的 bit.ly/4j8YGIc <a href="https://bsky.app/profile/japan.reuters.com/post/3marzrsvcwd2f" target="_blank">japan.reuters.com</a> (2025-12-25 14:20:31)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50313.14 (🔻137.04 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3365.00 (🔻12.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔻0.06 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50351.10 (🔻99.08 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3370.00 (🔻7.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.71 (🔻0.03 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,108 +32,98 @@
 
 ## News Headlines
 
-- Chinese Stocks Continue to Rise, Shanghai Composite Index Hits Record High
-- Fire at Osaka's Dotonbori Building: Investigation Reveals Backdraft Incident
-- Japan's Finance Minister Warns Against Rushed Fiscal Rebuilding
-- Global Oil Traders See Oversupply in 2026, With Some Variations in Projections
-- Australian Prime Minister Announces National Bravery Award to Honor Civilians and Responders
-- US Stocks End Year with 10th Consecutive Year of Double-Digit Growth
+- BOJ chief says underlying inflation steadily approaching 2% target
+- Virtually all of the world’s biggest oil traders see the market in a state of oversupply in 2026
+- Australian Prime Minister announces national bravery award to recognize civilians and first responders
+- Toyota Motor reports 11% decline in global sales for November
+- US Department of Justice finds 1 million+ new documents related to Jeffrey Epstein case
+- Japan introduces safety regulations for children's toys, including mandatory PSC mark
 
 
 ----
+
+@financialtimes.com
+
+ AI upheaval shows little sign of lessening ft.trib.al/MQpdGis  | opinion
+
+[2025-12-25 14:28:53](https://bsky.app/profile/financialtimes.com/post/3mas2aqwpao2w)
+
+---
+
+@financialtimes.com
+
+ City of London churches offer sublime music in a divine setting ft.trib.al/Q8tP4M0  | opinion
+
+[2025-12-25 14:28:53](https://bsky.app/profile/financialtimes.com/post/3mas2aqygmy2w)
+
+---
+
+@japan.reuters.com
+
+日銀の植田和男総裁は２５日、ここ数年、企業の賃金・価格設定行動は「大きく変化している」と評価し、賃金上昇を伴う形での２％の物価安定目標の実現が「着実に近づいている」と述べた。賃金の上昇継続とコスト上昇分の販売価格への転嫁の広がりに自信を示し、長らく続いてきた賃金も物価もほとんど変化しない「ゼロノルム」の世界に戻る可能性は「大きく低下している」と語った。 bit.ly/3L7vtB0
+
+[2025-12-25 14:24:49](https://bsky.app/profile/japan.reuters.com/post/3marzzijamn2u)
+
+---
+
+@wsj.com
+
+Traffic in Miami is a nightmare, but one real-estate tycoon has a plan: flying taxis that take commuters around South Florida for $200.
+
+🔗: on.wsj.com/3NgVIFC
+
+[2025-12-25 14:23:41](https://bsky.app/profile/wsj.com/post/3marzxhruv72u)
+
+---
+
+@japan.reuters.com
+
+＜１４：０５＞　後場の日経平均は小動き、植田日銀総裁発言への反応は限定的 bit.ly/4j8YGIc
+
+[2025-12-25 14:20:31](https://bsky.app/profile/japan.reuters.com/post/3marzrsvcwd2f)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】関西電力の原発運転差し止め訴訟 滋賀県などの住民らの訴え棄却 大津地裁
+(2025年12月25日 14:17) #ニュース
+
+[2025-12-25 14:17:40](https://bsky.app/profile/sokuho.news/post/3marzmpkt3l27)
+
+---
+
+@japan.reuters.com
+
+上海外国為替市場の人民元相場は対米ドルで約１年３カ月ぶりの高値を付け、節目となる１ドル＝７元の水準に迫った。輸出企業による年末の保有ドルの元への交換需要や来年のドル安・元高見通しに支援されている。 bit.ly/3LjlLeO
+
+[2025-12-25 14:15:12](https://bsky.app/profile/japan.reuters.com/post/3marzicbfu72q)
+
+---
+
+@cnbc.com
+
+Monetizers vs manufactures: How the AI market could splinter in 2026
+
+[2025-12-25 14:13:00](https://bsky.app/profile/cnbc.com/post/3marzedvcwx2x)
+
+---
+
+@reuters.com
+
+BOJ chief says underlying inflation steadily approaching 2% target reut.rs/49x8qYH
+
+[2025-12-25 14:10:10](https://bsky.app/profile/reuters.com/post/3marz7c4yp52s)
+
+---
 
 @japan.reuters.com
 
 前場の中国株式市場は続伸。上海総合指数は１カ月超ぶりの高値を付けた。この基調を維持すれば７営業日続伸となる。香港市場は休場。 bit.ly/4b3JwBZ
 
 [2025-12-25 14:08:40](https://bsky.app/profile/japan.reuters.com/post/3marz4mtvfq2c)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】道頓堀ビル火災 「バックドラフト」発生 屋外看板には「不燃材料」使われず 中間報告公表
-(2025-12-25 14:00) #ニュース
-
-[2025-12-25 14:05:49](https://bsky.app/profile/sokuho.news/post/3maryxiwpqg2b)
-
----
-
-@sokuho.news
-
-🛎️ANNより【速報】です。
-
-【速報】国分太一さんの人権救済 日弁連が申し立て認めず
-(2025-12-25 14:02:06) #ニュース
-https://news.tv-asahi.co.jp/news_society/articles/000475242.html?display=full
-
-[2025-12-25 14:05:18](https://bsky.app/profile/sokuho.news/post/3marywmwasn2z)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】「火炎は壁面を這うように」大阪・道頓堀ビル火災の中間報告公表 バックドラフト発生 エアコンが燃焼助長か
-(2025-12-25 14:02:33) #ニュース
-
-[2025-12-25 14:03:32](https://bsky.app/profile/sokuho.news/post/3marytgagzy27)
-
----
-
-@wsj.com
-
-Meet the boss who gave his employees a $240 million gift.
-
-[2025-12-25 14:03:18](https://bsky.app/profile/wsj.com/post/3maryszeh7e2h)
-
----
-
-@wsj.com
-
-As Prime Minister Benjamin Netanyahu is set to visit President Trump in Washington, Israel is warning Iran’s missile rebuild could trigger new strikes, complicating U.S. efforts to stabilize the region.
-
-[2025-12-25 14:02:15](https://bsky.app/profile/wsj.com/post/3maryr57wwa23)
-
----
-
-@japan.reuters.com
-
-高市早苗首相は２５日の内外情勢調査会で、財政運営を巡り「拙速な財政再建は、かえって財政の持続可能性を損なう」と述べた。税率を引き上げずに税収を増やす政策を進めることで、財政の持続可能性を実現する考えを強調した。 bit.ly/3YbPEAO
-
-[2025-12-25 14:02:07](https://bsky.app/profile/japan.reuters.com/post/3maryqvmomp2q)
-
----
-
-@nikkei.com
-
-2025年の気温、歴代3位見通し　速報で平年1.25度上回る
-www.nikkei.com/article/DGXZQO...
- 
-上位5年は全て2019年以降の年が占めており、高温傾向が続いています。気象庁は地球温暖化の影響もあり「長期的に見れば、上昇していくのは間違いない」と述べ、適応策を考える必要があるとしています。
- 
-#ニュース
-
-[2025-12-25 14:00:50](https://bsky.app/profile/nikkei.com/post/3maryolse4i22)
-
----
-
-@reuters.com
-
-Hanwha's Philly Shipyard can build nuclear submarine for US Navy, executive says reut.rs/4qpPxNN
-
-[2025-12-25 14:00:38](https://bsky.app/profile/reuters.com/post/3maryob7rzl2r)
-
----
-
-@japan.reuters.com
-
-暗号資産（仮想通貨）交換業のコインベースは２２日、予測市場を運営する新興企業、ザ・クリアリング・カンパニーを買収すると発表した。暗号資産以外の分野に事業を多角化する動きで、今年１０件目の買収となる。 bit.ly/3YPlqUd
-
-[2025-12-25 14:00:37](https://bsky.app/profile/japan.reuters.com/post/3maryo7pldo2q)
 
 ---
 
