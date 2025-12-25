@@ -1,9 +1,9 @@
-# [2025-12-25 18:50 updated](2025_12_25.md)
+# [2025-12-25 19:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Powerball $1.817 billion Christmas Eve jackpot won by single ticket, in Arkansas. <a href="https://bsky.app/profile/cbsnews.com/post/3masikqyqad2c" target="_blank">cbsnews.com</a> (2025-12-25 18:45:01)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】新潟市中央区西堀通3番町でマンション火災「ふとんから火が出た」現在消火活動中 (2025-12-25 18:21:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3masifxipot2x" target="_blank">sokuho.news</a> (2025-12-25 18:42:20)</span><span style="padding-right:50px;">中国情報通信技術研究院が２５日発表したデータによると、中国での１１月の海外ブランド携帯電話の出荷台数は前年同月比１２８．４％増の６９３万台となった。 bit.ly/3YfzXse <a href="https://bsky.app/profile/japan.reuters.com/post/3masic46elw2c" target="_blank">japan.reuters.com</a> (2025-12-25 18:40:10)</span><span style="padding-right:50px;">パラリンピック スキーとスノーボード 代表内定選手ら意気込み https://news.web.nhk/newsweb/na/na-k10015013831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masiaco46i2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 18:39:08)</span><span style="padding-right:50px;">独禁法違反疑いの「ロピア」再発防止策など提出 公取委が認定 https://news.web.nhk/newsweb/na/na-k10015013811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masia52rsk2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 18:39:02)</span>
+<span style="padding-right:50px;">北～西日本の日本海側中心 26～27日にかけて大雪おそれ 警戒を https://news.web.nhk/newsweb/na/na-k10015013151000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masjvrbcgd2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 19:09:02)</span><span style="padding-right:50px;">中国株式市場は続伸。上海総合指数は７営業日続伸となった。航空宇宙株やロボット関連銘柄が好調だった。 bit.ly/49fbsk3 <a href="https://bsky.app/profile/japan.reuters.com/post/3masjv5xjs427" target="_blank">japan.reuters.com</a> (2025-12-25 19:08:44)</span><span style="padding-right:50px;">首位打者 ソフトバンク牧原大成 推定5000万円アップで契約更改 https://news.web.nhk/newsweb/na/na-k10015013871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masjqh4j2g2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 19:06:03)</span><span style="padding-right:50px;">A conservative candidate backed by President Trump was declared the winner of the Honduran presidential election after a protracted vote count marred by glitches and allegations of fraud. <a href="https://bsky.app/profile/wsj.com/post/3masjpxprky2k" target="_blank">wsj.com</a> (2025-12-25 19:05:49)</span><span style="padding-right:50px;">イスラエルのネタニヤフ首相は２４日、他国への依存を減らすため、独自の軍備開発に今後１０年で３５００億シェケル（約１１００億ドル）を投じると表明した。 bit.ly/4s80F3D <a href="https://bsky.app/profile/japan.reuters.com/post/3masjoup42427" target="_blank">japan.reuters.com</a> (2025-12-25 19:05:13)</span>
   </div>
 </div>
 
@@ -32,21 +32,64 @@
 
 ## News Headlines
 
-- Powerball $1.817 billion Christmas Eve jackpot won by single ticket, in Arkansas.
-- Japan's inflation continues to rise, with a 2% price stability target now seen as achievable with wage growth.
-- China's export of foreign-branded mobile phones surged 128.4% in November compared to the same month last year.
-- Riyadh calls seizure of oil-rich provinces 'unjustified escalation' as fragile anti-Houthi alliance shows cracks.
-- Tokyo's stock market sees a small rebound, with the Nikkei average ending the day at 50,407 yen 79 sen.
-- Vietnam's Vingroup withdraws bid for $67-bln North-South high-speed railway.
+- Japan to face heavy snow warning for central Japan's Sea of Japan coast
+- China's stock market continues to climb, with Shanghai composite index rising for 7 consecutive trading days
+- SoftBank's top hitter, So Fujiwara, renegotiates contract with estimated 50 million yen increase
+- Honduran presidential election results announced, conservative candidate backed by Trump wins
+- Israeli Prime Minister Netanyahu announces plan to invest 11 billion dollars in domestic military development over the next 10 years
+- 6 people injured in 3-car accident in Fukuoka, including 2 children
 
 
 ----
 
-@cbsnews.com
+@nhknewsunofficial.bsky.social
 
-Powerball $1.817 billion Christmas Eve jackpot won by single ticket, in Arkansas.
+北～西日本の日本海側中心 26～27日にかけて大雪おそれ 警戒を
+https://news.web.nhk/newsweb/na/na-k10015013151000
 
-[2025-12-25 18:45:01](https://bsky.app/profile/cbsnews.com/post/3masikqyqad2c)
+[2025-12-25 19:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masjvrbcgd2b)
+
+---
+
+@japan.reuters.com
+
+中国株式市場は続伸。上海総合指数は７営業日続伸となった。航空宇宙株やロボット関連銘柄が好調だった。 bit.ly/49fbsk3
+
+[2025-12-25 19:08:44](https://bsky.app/profile/japan.reuters.com/post/3masjv5xjs427)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+首位打者 ソフトバンク牧原大成 推定5000万円アップで契約更改
+https://news.web.nhk/newsweb/na/na-k10015013871000
+
+[2025-12-25 19:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masjqh4j2g2d)
+
+---
+
+@wsj.com
+
+A conservative candidate backed by President Trump was declared the winner of the Honduran presidential election after a protracted vote count marred by glitches and allegations of fraud.
+
+[2025-12-25 19:05:49](https://bsky.app/profile/wsj.com/post/3masjpxprky2k)
+
+---
+
+@japan.reuters.com
+
+イスラエルのネタニヤフ首相は２４日、他国への依存を減らすため、独自の軍備開発に今後１０年で３５００億シェケル（約１１００億ドル）を投じると表明した。 bit.ly/4s80F3D
+
+[2025-12-25 19:05:13](https://bsky.app/profile/japan.reuters.com/post/3masjoup42427)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+福岡 宮若 車3台絡む事故 1人死亡 子ども2人含む6人けが
+https://news.web.nhk/newsweb/na/na-k10015013601000
+
+[2025-12-25 19:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masjkzuew32b)
 
 ---
 
@@ -54,87 +97,39 @@ Powerball $1.817 billion Christmas Eve jackpot won by single ticket, in Arkansas
 
 🛎️JNNより【速報】です。
 
-【速報】新潟市中央区西堀通3番町でマンション火災「ふとんから火が出た」現在消火活動中
-(2025-12-25 18:21:00) #ニュース
+【速報】東京・赤坂の個室サウナ店火災 夫婦が死亡 運営会社の関連会社に家宅捜索 警視庁
+(2025-12-25 19:00:38) #ニュース
 
-[2025-12-25 18:42:20](https://bsky.app/profile/sokuho.news/post/3masifxipot2x)
-
----
-
-@japan.reuters.com
-
-中国情報通信技術研究院が２５日発表したデータによると、中国での１１月の海外ブランド携帯電話の出荷台数は前年同月比１２８．４％増の６９３万台となった。 bit.ly/3YfzXse
-
-[2025-12-25 18:40:10](https://bsky.app/profile/japan.reuters.com/post/3masic46elw2c)
+[2025-12-25 19:02:37](https://bsky.app/profile/sokuho.news/post/3masjkaiwlj2b)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnn.com
 
-パラリンピック スキーとスノーボード 代表内定選手ら意気込み
-https://news.web.nhk/newsweb/na/na-k10015013831000
+A driver and their passenger wearing Santa and Mrs. Claus costumes were pulled over for speeding, according to a Facebook post on the Fulton County Ohio Sheriff page.
 
-[2025-12-25 18:39:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masiaco46i2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-独禁法違反疑いの「ロピア」再発防止策など提出 公取委が認定
-https://news.web.nhk/newsweb/na/na-k10015013811000
-
-[2025-12-25 18:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masia52rsk2w)
+[2025-12-25 19:01:01](https://bsky.app/profile/cnn.com/post/3masjhf54wd26)
 
 ---
 
-@sokuho.news
+@nikkei.com
 
-🛎️ANNより【速報】です。
+過去に排出した硫黄、大気や土に残留　名古屋大学などが解明
+www.nikkei.com/article/DGXZQO...
+ 
+研究グループが倒れた御神木の年輪に含まれる硫黄を手掛かりに、過去500年間におよぶ大気汚染の状況を分析しました。
+ 
+ごく最近まで化石燃料から出た硫黄が多く含まれていました。法規制で硫黄の排出量が減った現代でも、過去に出されたものが大気や土壌に残っている可能性があります。
 
-【速報】高級個室サウナ店夫婦死亡 関連会社などに家宅捜索 捜査関係者
-(2025-12-25 18:33:38) #ニュース
-https://news.tv-asahi.co.jp/news_society/articles/000475277.html?display=full
-
-[2025-12-25 18:36:07](https://bsky.app/profile/sokuho.news/post/3masi2v4zl32x)
-
----
-
-@japan.reuters.com
-
-日銀の植田和男総裁は２５日、ここ数年、企業の賃金・価格設定行動は「大きく変化している」と評価し、賃金上昇を伴う形での２％の物価安定目標の実現が「着実に近づいている」と述べた。賃金の上昇継続とコスト上昇分の販売価格への転嫁の広がりに自信を示し、長らく続いてきた賃金も物価もほとんど変化しない「ゼロノルム」の世界に戻る可能性は「大きく低下している」と語った。 bit.ly/4p9vh24
-
-[2025-12-25 18:35:07](https://bsky.app/profile/japan.reuters.com/post/3mashz36ffc22)
+[2025-12-25 19:00:51](https://bsky.app/profile/nikkei.com/post/3masjh36gwi26)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🛎️NNNより【速報】です。
+Ukrainian drones hit oil and gas facilities in Russia, SBU official says reut.rs/4qrcZdQ
 
-【速報】新潟市中央区西堀通りのマンションで火災 「ふとんが燃えている」と通報《新潟》
-(2025-12-25 18:26) #ニュース
-
-[2025-12-25 18:34:55](https://bsky.app/profile/sokuho.news/post/3mashypucir2a)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】新潟市中央区西堀のマンションで火災 「ふとんが燃えている」と通報《新潟》
-(2025-12-25 18:26) #ニュース
-
-[2025-12-25 18:34:06](https://bsky.app/profile/sokuho.news/post/3mashxael2y2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-お台場「イマーシブ・フォート東京」客足伸びず来年2月閉園へ
-https://news.web.nhk/newsweb/na/na-k10015013881000
-
-[2025-12-25 18:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mashvfzxzt2b)
+[2025-12-25 19:00:37](https://bsky.app/profile/reuters.com/post/3masjgnqull2r)
 
 ---
 
