@@ -1,9 +1,9 @@
-# [2025-12-26 04:10 updated](2025_12_26.md)
+# [2025-12-26 04:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Goodwill, long known for its dingy thrift stores with dark, crammed aisles and overflowing bins, is getting more glamorous on.wsj.com/4pbxkTl <a href="https://bsky.app/profile/wsj.com/post/3mathqcueah2u" target="_blank">wsj.com</a> (2025-12-26 04:02:53)</span><span style="padding-right:50px;">We're taking stock of this year's notable holiday movies, with titles including such gems as Oy to the World!, Christmas at the Catnip Cafe, A Merry Little Ex-Mas, and A Pickleball Christmas. <a href="https://bsky.app/profile/npr.org/post/3mathq5jz3l2e" target="_blank">npr.org</a> (2025-12-26 04:02:48)</span><span style="padding-right:50px;">South Africa do not fear Salah or Marmoush, coach Broos says reut.rs/4siYqL6 <a href="https://bsky.app/profile/reuters.com/post/3mathndd3w62y" target="_blank">reuters.com</a> (2025-12-26 04:01:13)</span><span style="padding-right:50px;">That Christmas she had completely given up on love. Then the house sitter showed up https://cnn.it/3LdgSDY <a href="https://bsky.app/profile/cnn.com/post/3mathmylnmt24" target="_blank">cnn.com</a> (2025-12-26 04:01:02)</span><span style="padding-right:50px;">Where the projected NFL playoff picture stands with Week 17 underway. <a href="https://bsky.app/profile/usatoday.com/post/3mathmkgz5z2g" target="_blank">usatoday.com</a> (2025-12-26 04:00:47)</span>
+<span style="padding-right:50px;">Fewer than 50,000 Christians now live in Palestine, under threat from Israel’s illegal occupation and attacks.  #Infograph <a href="https://bsky.app/profile/aljazeera.com/post/3matj4jvphs2i" target="_blank">aljazeera.com</a> (2025-12-26 04:27:37)</span><span style="padding-right:50px;">Two men and two women from Liechtenstein found dead this week all belonged to one family, police said as they investigate the unusual case in the tiny Alpine principality reut.rs/4pU0XcV <a href="https://bsky.app/profile/reuters.com/post/3matiyvs5z22z" target="_blank">reuters.com</a> (2025-12-26 04:25:35)</span><span style="padding-right:50px;">Iraq, Kurdistan renew three-month agreement for oil exports through March 31, Kurdish Rudaw reports reut.rs/3MQCzud <a href="https://bsky.app/profile/reuters.com/post/3matiy3wype2y" target="_blank">reuters.com</a> (2025-12-26 04:25:08)</span><span style="padding-right:50px;">Jimmy Kimmel appeared on British television screens on Christmas Day to deliver a so-called “alternative Christmas message,” in which he said tyranny was “booming” in the U.S. <a href="https://bsky.app/profile/nytimes.com/post/3matixxeiam2a" target="_blank">nytimes.com</a> (2025-12-26 04:25:03)</span><span style="padding-right:50px;">Ukraine's Zelenskiy said he spoke with President Trump's special envoy Steve Witkoff and son-in-law Jared Kushner for about an hour on how to end the war with Russia reut.rs/3N16lMJ <a href="https://bsky.app/profile/reuters.com/post/3matiucwr5k2z" target="_blank">reuters.com</a> (2025-12-26 04:23:01)</span>
   </div>
 </div>
 
@@ -32,15 +32,82 @@
 
 ## News Headlines
 
-- Goodwill Gets Glamorous
-- Ukraine's President Zelenskyy Has 'Very Good Conversation' With Trump Envoy
-- A Lucky Arkansas Lottery Player Wins $1.8 Billion Powerball Prize
-- Pope Leo Decries Conditions for Palestinians in Gaza in Christmas Sermon
-- Brazil's Ex-President Bolsonaro Undergoes Successful Hernia Surgery
-- Powerful Winter Storm Unleashes Torrential Rain in Southern California
+- Fewer than 50,000 Christians now live in Palestine, under threat from Israel’s illegal occupation and attacks.
+- Two men and two women from Liechtenstein found dead in unusual family case, police investigating.
+- Iraq, Kurdistan renew three-month agreement for oil exports through March 31.
+- Zelenskiy speaks with Trump's envoy and Kushner on how to end war with Russia.
+- 19 US states sue Health Secretary Robert F. Kennedy Jr. over plan to curb gender-affirming care.
+- California hit by record-setting holiday rainstorm, causing flash flooding and evacuations.
 
 
 ----
+
+@aljazeera.com
+
+Fewer than 50,000 Christians now live in Palestine, under threat from Israel’s illegal occupation and attacks.
+
+#Infograph
+
+[2025-12-26 04:27:37](https://bsky.app/profile/aljazeera.com/post/3matj4jvphs2i)
+
+---
+
+@reuters.com
+
+Two men and two women from Liechtenstein found dead this week all belonged to one family, police said as they investigate the unusual case in the tiny Alpine principality reut.rs/4pU0XcV
+
+[2025-12-26 04:25:35](https://bsky.app/profile/reuters.com/post/3matiyvs5z22z)
+
+---
+
+@reuters.com
+
+Iraq, Kurdistan renew three-month agreement for oil exports through March 31, Kurdish Rudaw reports reut.rs/3MQCzud
+
+[2025-12-26 04:25:08](https://bsky.app/profile/reuters.com/post/3matiy3wype2y)
+
+---
+
+@nytimes.com
+
+Jimmy Kimmel appeared on British television screens on Christmas Day to deliver a so-called “alternative Christmas message,” in which he said tyranny was “booming” in the U.S.
+
+[2025-12-26 04:25:03](https://bsky.app/profile/nytimes.com/post/3matixxeiam2a)
+
+---
+
+@reuters.com
+
+Ukraine's Zelenskiy said he spoke with President Trump's special envoy Steve Witkoff and son-in-law Jared Kushner for about an hour on how to end the war with Russia reut.rs/3N16lMJ
+
+[2025-12-26 04:23:01](https://bsky.app/profile/reuters.com/post/3matiucwr5k2z)
+
+---
+
+@axios.com
+
+Nineteen states and D.C. are suing Health Secretary Robert F. Kennedy Jr. and his health department to block the Trump administration's plan to curb young people's gender-affirming care.
+
+[2025-12-26 04:20:26](https://bsky.app/profile/axios.com/post/3matipozge22d)
+
+---
+
+@nytimes.com
+
+A record-setting holiday rainstorm disrupted much of California on Christmas, shutting down highways, major interchanges and airport runways as officials warned that driving to holiday celebrations on slick, muddy roads could be deadly.
+
+[2025-12-26 04:20:04](https://bsky.app/profile/nytimes.com/post/3matip22zjz2v)
+
+---
+
+@en.afp.com
+
+Britain's King Charles III called for "compassion and reconciliation" at a time of "division" across the world in his Christmas Day message Thursday. 
+u.afp.com/S8Pi
+
+[2025-12-26 04:15:03](https://bsky.app/profile/en.afp.com/post/3matig2nuex2q)
+
+---
 
 @wsj.com
 
@@ -55,72 +122,6 @@ Goodwill, long known for its dingy thrift stores with dark, crammed aisles and o
 We're taking stock of this year's notable holiday movies, with titles including such gems as Oy to the World!, Christmas at the Catnip Cafe, A Merry Little Ex-Mas, and A Pickleball Christmas.
 
 [2025-12-26 04:02:48](https://bsky.app/profile/npr.org/post/3mathq5jz3l2e)
-
----
-
-@reuters.com
-
-South Africa do not fear Salah or Marmoush, coach Broos says reut.rs/4siYqL6
-
-[2025-12-26 04:01:13](https://bsky.app/profile/reuters.com/post/3mathndd3w62y)
-
----
-
-@cnn.com
-
-That Christmas she had completely given up on love. Then the house sitter showed up https://cnn.it/3LdgSDY
-
-[2025-12-26 04:01:02](https://bsky.app/profile/cnn.com/post/3mathmylnmt24)
-
----
-
-@usatoday.com
-
-Where the projected NFL playoff picture stands with Week 17 underway.
-
-[2025-12-26 04:00:47](https://bsky.app/profile/usatoday.com/post/3mathmkgz5z2g)
-
----
-
-@cnbc.com
-
-Clinical psychologist Dr. Amy Tran shares her best advice for how to spot red flags that often masquerade as romantic chemistry. 
-
-[2025-12-26 04:00:35](https://bsky.app/profile/cnbc.com/post/3mathm75d5e2p)
-
----
-
-@nbcnews.com
-
-Dozens of members are nearing the end of their congressional careers and hanging up their voting cards.
-
-But for some, their family’s political legacies will continue, as their kids and relatives run for office in 2026.
-
-[2025-12-26 04:00:17](https://bsky.app/profile/nbcnews.com/post/3mathlo226x2p)
-
----
-
-@washingtonpost.com
-
-A ceasefire has brought Gaza a measure of calm, and over the past few weeks, Christians there have embraced the holiday spirit, lighting up trees and passing out sweets. https://wapo.st/3Lhprha
-
-[2025-12-26 04:00:12](https://bsky.app/profile/washingtonpost.com/post/3mathljfqlv2n)
-
----
-
-@bloomberg.com
-
-Crowdstrike, AWS, Cloudflare... When there's a web outage these days, it seems to bring down a multitude of websites. Why is that? (from November)
-
-[2025-12-26 04:00:10](https://bsky.app/profile/bloomberg.com/post/3mathlhnjrm2w)
-
----
-
-@aljazeera.com
-
-Search teams find site of crash that killed Libyan army chief and seven other people, including three crew members.
-
-[2025-12-26 04:00:03](https://bsky.app/profile/aljazeera.com/post/3mathlam23427)
 
 ---
 
