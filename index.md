@@ -1,9 +1,9 @@
-# [2025-12-26 01:10 updated](2025_12_26.md)
+# [2025-12-26 01:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">国家安全保障局長 インド高官と情勢や課題など電話で協議 https://news.web.nhk/newsweb/na/na-k10015014231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mat5u66r4j2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 01:06:03)</span><span style="padding-right:50px;">NPR's Michel Martin checks in with Middle Collegiate Church in Manhattan as it celebrates its first Christmas service since a devastating fire in 2020. <a href="https://bsky.app/profile/npr.org/post/3mat5llpru32y" target="_blank">npr.org</a> (2025-12-26 01:01:17)</span><span style="padding-right:50px;">King Charles III has urged people to focus on kindness instead of conflict in his annual Christmas address. <a href="https://bsky.app/profile/apnews.com/post/3mat5ll4aqo23" target="_blank">apnews.com</a> (2025-12-26 01:01:17)</span><span style="padding-right:50px;">Martha Stewart is the latest celebrity to become a minority co-owner of Swansea City, with rapper Snoop Dogg coming on board in July. <a href="https://bsky.app/profile/usatoday.com/post/3mat5lfaxu62w" target="_blank">usatoday.com</a> (2025-12-26 01:01:11)</span><span style="padding-right:50px;">Sohn’s naval nativity 75 years ago was also the start of a life searching for those left behind, trying to reassemble yet another Korean family torn apart along with their homeland. https://cnn.it/4p4QoT3 <a href="https://bsky.app/profile/cnn.com/post/3mat5keyuzo23" target="_blank">cnn.com</a> (2025-12-26 01:00:37)</span>
+<span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像5🈡 (2025-12-26 01:26:53) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mat6zkrhfx2y" target="_blank">sokuho.news</a> (2025-12-26 01:27:00)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3 (2025-12-26 01:26:27) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mat6yybhgk2v" target="_blank">sokuho.news</a> (2025-12-26 01:26:40)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-26 01:26:22) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mat6ynhqmg2b" target="_blank">sokuho.news</a> (2025-12-26 01:26:29)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-26 01:26:10) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3mat6ybct7y2x" target="_blank">sokuho.news</a> (2025-12-26 01:26:16)</span><span style="padding-right:50px;">Santa arrived by water skis, snorkel or a boat. There were celebrations jubilant and somber. See Christmas around the world in photos: nyti.ms/49bbh9g <a href="https://bsky.app/profile/nytimes.com/post/3mat6w4qvfz2y" target="_blank">nytimes.com</a> (2025-12-26 01:25:04)</span>
   </div>
 </div>
 
@@ -32,96 +32,134 @@
 
 ## News Headlines
 
-- Bangladesh Aspiring PM Returns Home After 17-Year Exile
-- Research Finds Gabapentin Not as Safe or Effective as Thought
-- Nvidia to License AI Technology and Hire Top Executives from Chip Startup
-- Five Killed in Firefight on Tajik-Afghan Border
-- UK's King Charles Urges Courage and Reconciliation in Christmas Message
-- Syria to Start Currency Swap on January 1
+- Magnitude 5.6 Earthquake Strikes Off Coast of Hokkaido, Japan
+- King Charles III Calls for Kindness and Reconciliation in Christmas Message
+- Mysterious Fire at Middle Collegiate Church in Manhattan Investigated
+- Nvidia to License Chip Technology from Startup Groq
+- Syria to Introduce Currency Swap on January 1st
+- Trump Administration's New Rules Create Social Media Influencers in the Field of Public Health
 
 
 ----
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-国家安全保障局長 インド高官と情勢や課題など電話で協議
-https://news.web.nhk/newsweb/na/na-k10015014231000
+🚨地震発生中❗❗
 
-[2025-12-26 01:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mat5u66r4j2v)
+⚠️揺れに警戒してください
 
----
+🔶防災科研/強震モニタ/予測震度画像5🈡
+(2025-12-26 01:26:53) #緊急地震速報
 
-@npr.org
-
-NPR's Michel Martin checks in with Middle Collegiate Church in Manhattan as it celebrates its first Christmas service since a devastating fire in 2020.
-
-[2025-12-26 01:01:17](https://bsky.app/profile/npr.org/post/3mat5llpru32y)
+[2025-12-26 01:27:00](https://bsky.app/profile/sokuho.news/post/3mat6zkrhfx2y)
 
 ---
 
-@apnews.com
+@sokuho.news
 
-King Charles III has urged people to focus on kindness instead of conflict in his annual Christmas address.
+🚨地震発生中❗❗
 
-[2025-12-26 01:01:17](https://bsky.app/profile/apnews.com/post/3mat5ll4aqo23)
+⚠️揺れに警戒してください
 
----
+🔶防災科研/強震モニタ/予測震度画像3
+(2025-12-26 01:26:27) #緊急地震速報
 
-@usatoday.com
-
-Martha Stewart is the latest celebrity to become a minority co-owner of Swansea City, with rapper Snoop Dogg coming on board in July.
-
-[2025-12-26 01:01:11](https://bsky.app/profile/usatoday.com/post/3mat5lfaxu62w)
+[2025-12-26 01:26:40](https://bsky.app/profile/sokuho.news/post/3mat6yybhgk2v)
 
 ---
 
-@cnn.com
+@sokuho.news
 
-Sohn’s naval nativity 75 years ago was also the start of a life searching for those left behind, trying to reassemble yet another Korean family torn apart along with their homeland. https://cnn.it/4p4QoT3
+🚨地震発生中❗❗
 
-[2025-12-26 01:00:37](https://bsky.app/profile/cnn.com/post/3mat5keyuzo23)
+⚠️揺れに警戒してください
 
----
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-26 01:26:22) #緊急地震速報
 
-@apnews.com
-
-Mikaela Shiffrin has plenty to celebrate this Christmas. 
-
-[2025-12-26 01:00:31](https://bsky.app/profile/apnews.com/post/3mat5k7pmc52k)
+[2025-12-26 01:26:29](https://bsky.app/profile/sokuho.news/post/3mat6ynhqmg2b)
 
 ---
 
-@washingtonpost.com
+@sokuho.news
 
-Andrew Otazo has plucked, bagged, heaved and hauled more than 17 tons of trash from the mangroves in Florida.
+🚨地震発生中❗❗
 
-Every piece of garbage he removes reclaims space for what should be there: bird nesting grounds and fish nurseries. https://wapo.st/4oS36Vx
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
 
-[2025-12-26 01:00:21](https://bsky.app/profile/washingtonpost.com/post/3mat5jvpbb225)
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-26 01:26:10) #緊急地震速報
 
----
-
-@aljazeera.com
-
-Celebrated director of 'Jenin, Jenin' documentary leaves behind legacy of artistic resistance.
-
-[2025-12-26 01:00:03](https://bsky.app/profile/aljazeera.com/post/3mat5jekvmz2z)
-
----
-
-@cbsnews.com
-
-Rain from a powerful winter storm that swept across Southern California was tapering off — but another storm system was on the horizon for Christmas Day with showers and possible thunderstorms.
-
-[2025-12-26 01:00:01](https://bsky.app/profile/cbsnews.com/post/3mat5jcjp642q)
+[2025-12-26 01:26:16](https://bsky.app/profile/sokuho.news/post/3mat6ybct7y2x)
 
 ---
 
 @nytimes.com
 
-King Charles III used his annual Christmas message to make a plea for “compassion and reconciliation,” saying that in times of global uncertainty, people can find strength in diversity “to ensure that right triumphs over wrong.”
+Santa arrived by water skis, snorkel or a boat. There were celebrations jubilant and somber. See Christmas around the world in photos: nyti.ms/49bbh9g
 
-[2025-12-26 00:59:11](https://bsky.app/profile/nytimes.com/post/3mat5hszj632x)
+[2025-12-26 01:25:04](https://bsky.app/profile/nytimes.com/post/3mat6w4qvfz2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震速報】北海道 青森 岩手 宮城で震度3
+https://news.web.nhk/newsweb/na/na-k10015010221000
+
+[2025-12-26 01:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mat6udgdrw2u)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:青森県東方沖, 深さ:40km
+マグニチュード:5.6, 最大震度:3
+📍https://www.google.com/maps?q=41.2,142.6&ll=41.2,142.6&z=7&t=h
+地震発生日時:2025-12-26 01:17頃
+(10倍速▶210s→21s) #地震
+
+[2025-12-26 01:23:13](https://bsky.app/profile/sokuho.news/post/3mat6ssp6mf2b)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+1時17分頃、北海道・青森県・岩手県などで最大震度3の地震を観測しました。
+震源:青森県東方沖, 深さ:40km, 規模:M5.6
+この地震による津波の心配はありません。
+(2025-12-26 01:22:32) #地震
+
+[2025-12-26 01:22:34](https://bsky.app/profile/sokuho.news/post/3mat6rnjti72b)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【震源速報】です。
+
+1時17分頃、青森県東方沖(深さ:40km) を震源とする M5.6 の地震を観測しました。
+この地震による津波の心配はありません。
+(2025-12-26 01:21:03) #地震
+
+[2025-12-26 01:21:05](https://bsky.app/profile/sokuho.news/post/3mat6oy4qsf25)
+
+---
+
+@sokuho.news
+
+🔔NHKより【地震速報】です。
+
+■震度3■
+渡島東部 青森三八上北 青森下北 岩手内陸北部 岩手内陸南部 宮城北部
+(2025-12-26 01:17) #地震
+
+[2025-12-26 01:20:29](https://bsky.app/profile/sokuho.news/post/3mat6nvsunx2b)
 
 ---
 
