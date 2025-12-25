@@ -1,9 +1,9 @@
-# [2025-12-26 05:10 updated](2025_12_26.md)
+# [2025-12-26 05:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Our journalists are joining nearly 40 scientists on an expedition to Antarctica’s fastest-melting glaciers. Getting there will require taking a helicopter over icy seas.   What do you want to know — about the trip, the glaciers, the research? Send your questions: trib.al/rdYRyO0 <a href="https://bsky.app/profile/nytimes.com/post/3matkrhhcrs2w" target="_blank">nytimes.com</a> (2025-12-26 04:57:13)</span><span style="padding-right:50px;">Southern California RB Eli Sanders entering NFL draft reut.rs/4pNk8Fg <a href="https://bsky.app/profile/reuters.com/post/3matkf3ix3y24" target="_blank">reuters.com</a> (2025-12-26 04:50:18)</span><span style="padding-right:50px;">Reports: Jaguars CB Jourdan Lewis (foot) out for season reut.rs/3N3y0g5 <a href="https://bsky.app/profile/reuters.com/post/3matk3vrbzx24" target="_blank">reuters.com</a> (2025-12-26 04:45:10)</span><span style="padding-right:50px;">For decades, Havaianas flip-flops have been a beloved global symbol of Brazilian culture, worn by millions of people each day. They are now ensnared in a political fight. <a href="https://bsky.app/profile/nytimes.com/post/3matk3ndaw42r" target="_blank">nytimes.com</a> (2025-12-26 04:45:01)</span><span style="padding-right:50px;">As U.S. border inspections intensify, privacy experts explain when using a burner phone may help limit what agents can legally search on your device. <a href="https://bsky.app/profile/usatoday.com/post/3matjbvuyco2h" target="_blank">usatoday.com</a> (2025-12-26 04:30:37)</span>
+<span style="padding-right:50px;">青森県東方沖の地震 “震源東側で小規模地震続く” 調査委 https://news.web.nhk/newsweb/na/na-k10015014221000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matlwregob2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 05:18:02)</span><span style="padding-right:50px;">西～北日本の日本海側中心に雪強まる 交通影響や暴風など警戒 https://news.web.nhk/newsweb/na/na-k10015014171000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matlrf7mkw2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 05:15:02)</span><span style="padding-right:50px;">政府 きょう来年度予算案決定 一般会計総額122兆3100億円程度 https://news.web.nhk/newsweb/na/na-k10015014121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matlgpclbv2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 05:09:03)</span><span style="padding-right:50px;">Steelers sign veteran CB Tre Flowers to active roster reut.rs/498Tyzb <a href="https://bsky.app/profile/reuters.com/post/3matl7n6xys2s" target="_blank">reuters.com</a> (2025-12-26 05:05:08)</span><span style="padding-right:50px;">The party goes on in New York City, if you have the cash on.wsj.com/4pTsIm4 <a href="https://bsky.app/profile/wsj.com/post/3matl6ljpe42r" target="_blank">wsj.com</a> (2025-12-26 05:04:33)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.61 (🔻0.13 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔻0.12 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,97 +32,96 @@
 
 ## News Headlines
 
-- US Journalists Embark on Expedition to Antarctica's Fastest-Melting Glaciers
-- Southern California RB Eli Sanders to Enter NFL Draft
-- Jaguars CB Jourdan Lewis Out for Season Due to Foot Injury
-- Havaianas Flip-Flops Entangled in Brazilian Politics
-- Record-Breaking Rainstorm Disrupts California on Christmas
-- Powerball Winner in Arkansas Claims Second-Largest US Jackpot Ever
+- Small earthquakes continue to strike off the east of the epicenter in Aomori Prefecture
+- Heavy snow hits western to northern Japan, prompting caution over transportation and winds
+- Japanese government to decide on upcoming budget plan for 2024, with general account budget estimated to be around 122 trillion yen
+- Steelers sign veteran cornerback Tre Flowers to active roster
+- New York City's party scene continues, but only for those with deep pockets
+- Pelvic floor dysfunction therapists report increase in male patients, particularly those in high-stress jobs
 
 
 ----
 
-@nytimes.com
+@nhknewsunofficial.bsky.social
 
-Our journalists are joining nearly 40 scientists on an expedition to Antarctica’s fastest-melting glaciers. Getting there will require taking a helicopter over icy seas. 
+青森県東方沖の地震 “震源東側で小規模地震続く” 調査委
+https://news.web.nhk/newsweb/na/na-k10015014221000
 
-What do you want to know — about the trip, the glaciers, the research? Send your questions: trib.al/rdYRyO0
+[2025-12-26 05:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matlwregob2s)
 
-[2025-12-26 04:57:13](https://bsky.app/profile/nytimes.com/post/3matkrhhcrs2w)
+---
+
+@nhknewsunofficial.bsky.social
+
+西～北日本の日本海側中心に雪強まる 交通影響や暴風など警戒
+https://news.web.nhk/newsweb/na/na-k10015014171000
+
+[2025-12-26 05:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matlrf7mkw2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+政府 きょう来年度予算案決定 一般会計総額122兆3100億円程度
+https://news.web.nhk/newsweb/na/na-k10015014121000
+
+[2025-12-26 05:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matlgpclbv2w)
 
 ---
 
 @reuters.com
 
-Southern California RB Eli Sanders entering NFL draft reut.rs/4pNk8Fg
+Steelers sign veteran CB Tre Flowers to active roster reut.rs/498Tyzb
 
-[2025-12-26 04:50:18](https://bsky.app/profile/reuters.com/post/3matkf3ix3y24)
+[2025-12-26 05:05:08](https://bsky.app/profile/reuters.com/post/3matl7n6xys2s)
+
+---
+
+@wsj.com
+
+The party goes on in New York City, if you have the cash on.wsj.com/4pTsIm4
+
+[2025-12-26 05:04:33](https://bsky.app/profile/wsj.com/post/3matl6ljpe42r)
+
+---
+
+@bloomberg.com
+
+“No one wants to talk about penile pain at work.” Therapists who treat pelvic floor dysfunction say men in high-stress jobs are their fastest-growing groups of patients.
+
+[2025-12-26 05:02:06](https://bsky.app/profile/bloomberg.com/post/3matl26lxc22w)
 
 ---
 
 @reuters.com
 
-Reports: Jaguars CB Jourdan Lewis (foot) out for season reut.rs/3N3y0g5
+Report: Nuggets F Cameron Johnson (knee) out 4-6 weeks reut.rs/3NfLJ3o
 
-[2025-12-26 04:45:10](https://bsky.app/profile/reuters.com/post/3matk3vrbzx24)
-
----
-
-@nytimes.com
-
-For decades, Havaianas flip-flops have been a beloved global symbol of Brazilian culture, worn by millions of people each day. They are now ensnared in a political fight.
-
-[2025-12-26 04:45:01](https://bsky.app/profile/nytimes.com/post/3matk3ndaw42r)
+[2025-12-26 05:00:36](https://bsky.app/profile/reuters.com/post/3matkxj635d2x)
 
 ---
 
 @usatoday.com
 
-As U.S. border inspections intensify, privacy experts explain when using a burner phone may help limit what agents can legally search on your device.
+King Charles delivered his annual address at Westminster Abbey, rather than Buckingham Palace as Queen Elizabeth often did
 
-[2025-12-26 04:30:37](https://bsky.app/profile/usatoday.com/post/3matjbvuyco2h)
-
----
-
-@aljazeera.com
-
-Photos: A Venezuelan family Christmas – from the US dream to poverty https://aje.io/v10qft
-
-[2025-12-26 04:30:11](https://bsky.app/profile/aljazeera.com/post/3matjb4ngm52v)
+[2025-12-26 05:00:21](https://bsky.app/profile/usatoday.com/post/3matkx2vbdi2o)
 
 ---
 
-@aljazeera.com
+@cnn.com
 
-Fewer than 50,000 Christians now live in Palestine, under threat from Israel’s illegal occupation and attacks.
+Christmas celebrations have returned to the birthplace of Jesus after a two-year hiatus, but the joy remains overshadowed by another turbulent year for Palestinians living under an Israeli-occupation in the West Bank. https://cnn.it/4p7m6iN
 
-#Infograph
-
-[2025-12-26 04:27:37](https://bsky.app/profile/aljazeera.com/post/3matj4jvphs2i)
+[2025-12-26 05:00:16](https://bsky.app/profile/cnn.com/post/3matkww7ejx22)
 
 ---
 
-@reuters.com
+@washingtonpost.com
 
-Two men and two women from Liechtenstein found dead this week all belonged to one family, police said as they investigate the unusual case in the tiny Alpine principality reut.rs/4pU0XcV
+Because riders and passersby can be unreliable, Waymo pays workers in L.A. $20 or more for rescuing a robotaxi by closing a door, summoning help through an app called Honk that is like an Uber for towing companies.
 
-[2025-12-26 04:25:35](https://bsky.app/profile/reuters.com/post/3matiyvs5z22z)
-
----
-
-@reuters.com
-
-Iraq, Kurdistan renew three-month agreement for oil exports through March 31, Kurdish Rudaw reports reut.rs/3MQCzud
-
-[2025-12-26 04:25:08](https://bsky.app/profile/reuters.com/post/3matiy3wype2y)
-
----
-
-@nytimes.com
-
-Jimmy Kimmel appeared on British television screens on Christmas Day to deliver a so-called “alternative Christmas message,” in which he said tyranny was “booming” in the U.S.
-
-[2025-12-26 04:25:03](https://bsky.app/profile/nytimes.com/post/3matixxeiam2a)
+[2025-12-26 05:00:15](https://bsky.app/profile/washingtonpost.com/post/3matkwuqwib2e)
 
 ---
 
