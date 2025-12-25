@@ -1,9 +1,9 @@
-# [2025-12-25 11:30 updated](2025_12_25.md)
+# [2025-12-25 11:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山岳遭難の94歳の男性を発見 山中の沢で意識のない状態で倒れていた【岡山】 (2025-12-25 11:23:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3marq2kpoq72b" target="_blank">sokuho.news</a> (2025-12-25 11:26:27)</span><span style="padding-right:50px;">ホンジュラスの選挙管理当局は２４日、先月３０日の大統領選の結果、トランプ米大統領が支持する右派・国民党ナスリ・アスフラ氏（６７）が勝利したと発表した。得票数が拮抗する中で手作業での再集計や不正の申し立てなどがあり、結果確定までに数週間かかった。 bit.ly/4pMOSGq <a href="https://bsky.app/profile/japan.reuters.com/post/3marpya7vbl25" target="_blank">japan.reuters.com</a> (2025-12-25 11:25:09)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】滝沢求さん次期参院選めざし活動と表明 参議院議員2期務めた元環境副大臣 自民党公認めざす (2025-12-25 11:23) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3marpvtawzm2e" target="_blank">sokuho.news</a> (2025-12-25 11:23:49)</span><span style="padding-right:50px;">米ホワイトハウスは米軍に対し、少なくとも今後２カ月間はベネズエラの石油の「封鎖」に専念するよう命じたことが分かった。米当局者が２４日、ロイターに明らかにした。 bit.ly/3N0yYJY <a href="https://bsky.app/profile/japan.reuters.com/post/3marpphfmiq2s" target="_blank">japan.reuters.com</a> (2025-12-25 11:20:15)</span><span style="padding-right:50px;">Trump promises to guard against "bad Santa" and touts "clean, beautiful coal" in Christmas Eve calls with kids. <a href="https://bsky.app/profile/cbsnews.com/post/3marpg3g7y62b" target="_blank">cbsnews.com</a> (2025-12-25 11:15:00)</span>
+<span style="padding-right:50px;">Disney’s first-ever chief brand officer, Asad Ayaz, is Bob Iger’s pick to depoliticize America’s best-known entertainment company. 🔗 on.wsj.com/3YHuwlV <a href="https://bsky.app/profile/wsj.com/post/3marrdc63x32h" target="_blank">wsj.com</a> (2025-12-25 11:49:14)</span><span style="padding-right:50px;">インフルエンサーを脱税の疑いで告発 5億円近い所得隠したか https://news.web.nhk/newsweb/na/na-k10015013231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marrb7qcaj26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 11:48:02)</span><span style="padding-right:50px;">北朝鮮の金正恩朝鮮労働党総書記は２４日、東海近くの実験場で長距離地対空ミサイルの試射に立ち会ったと、国営メディア朝鮮中央通信（ＫＣＮＡ）が２５日に報じた。 bit.ly/3KYVLp5 <a href="https://bsky.app/profile/japan.reuters.com/post/3marr3zf4qe2q" target="_blank">japan.reuters.com</a> (2025-12-25 11:45:10)</span><span style="padding-right:50px;">＜１１：３１＞　前場の日経平均は小反発、クリスマスで薄商い　値幅192円 bit.ly/44KSNLw <a href="https://bsky.app/profile/japan.reuters.com/post/3marr324sq526" target="_blank">japan.reuters.com</a> (2025-12-25 11:44:37)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】佐世保市潮見町で水道管破裂し漏水「水が噴き出ている」約140軒が断水《長崎》 (2025-12-25 11:43) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3marr2czt332r" target="_blank">sokuho.news</a> (2025-12-25 11:44:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50345.91 (🔻104.27 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3381.00 (🔺4.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔻0.02 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50349.64 (🔻100.54 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3379.00 (🔺2.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.75 (🔺0.01 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,32 +32,46 @@
 
 ## News Headlines
 
-- 94-Year-Old Man Rescued in Japanese Mountain Accident
-- Honduras Declares Trump-Backed Candidate Winner in Presidential Election
-- Japan's Ex-Environment Vice Minister Announces Bid for Upper House Election
-- US Orders Military to Focus on Venezuela Oil Embargo for Next Two Months
-- Tokyo Stock Market Opens Higher, Led by Fuji Media Holdings
-- Vikings Place Center Ryan Kelly on Injured Reserve
+- Disney Names Asad Ayaz as First Chief Brand Officer
+- Influencer Accused of Evasion of Taxes
+- North Korea Fires Long-Range Missile from Test Site
+- Japan Stocks Rise, Nikkei 225 Surges 1.9% Higher
+- Japanese Man, 94, Found Alive After Being Missing in Mountains
+- Conservative Candidate Nasry Asfura Declared Winner of Honduras Presidential Election
 
 
 ----
 
-@sokuho.news
+@wsj.com
 
-🛎️JNNより【速報】です。
+Disney’s first-ever chief brand officer, Asad Ayaz, is Bob Iger’s pick to depoliticize America’s best-known entertainment company. 🔗 on.wsj.com/3YHuwlV
 
-【速報】山岳遭難の94歳の男性を発見 山中の沢で意識のない状態で倒れていた【岡山】
-(2025-12-25 11:23:00) #ニュース
+[2025-12-25 11:49:14](https://bsky.app/profile/wsj.com/post/3marrdc63x32h)
 
-[2025-12-25 11:26:27](https://bsky.app/profile/sokuho.news/post/3marq2kpoq72b)
+---
+
+@nhknewsunofficial.bsky.social
+
+インフルエンサーを脱税の疑いで告発 5億円近い所得隠したか
+https://news.web.nhk/newsweb/na/na-k10015013231000
+
+[2025-12-25 11:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marrb7qcaj26)
 
 ---
 
 @japan.reuters.com
 
-ホンジュラスの選挙管理当局は２４日、先月３０日の大統領選の結果、トランプ米大統領が支持する右派・国民党ナスリ・アスフラ氏（６７）が勝利したと発表した。得票数が拮抗する中で手作業での再集計や不正の申し立てなどがあり、結果確定までに数週間かかった。 bit.ly/4pMOSGq
+北朝鮮の金正恩朝鮮労働党総書記は２４日、東海近くの実験場で長距離地対空ミサイルの試射に立ち会ったと、国営メディア朝鮮中央通信（ＫＣＮＡ）が２５日に報じた。 bit.ly/3KYVLp5
 
-[2025-12-25 11:25:09](https://bsky.app/profile/japan.reuters.com/post/3marpya7vbl25)
+[2025-12-25 11:45:10](https://bsky.app/profile/japan.reuters.com/post/3marr3zf4qe2q)
+
+---
+
+@japan.reuters.com
+
+＜１１：３１＞　前場の日経平均は小反発、クリスマスで薄商い　値幅192円 bit.ly/44KSNLw
+
+[2025-12-25 11:44:37](https://bsky.app/profile/japan.reuters.com/post/3marr324sq526)
 
 ---
 
@@ -65,66 +79,53 @@
 
 🛎️NNNより【速報】です。
 
-【速報】滝沢求さん次期参院選めざし活動と表明 参議院議員2期務めた元環境副大臣 自民党公認めざす
-(2025-12-25 11:23) #ニュース
+【速報】佐世保市潮見町で水道管破裂し漏水「水が噴き出ている」約140軒が断水《長崎》
+(2025-12-25 11:43) #ニュース
 
-[2025-12-25 11:23:49](https://bsky.app/profile/sokuho.news/post/3marpvtawzm2e)
-
----
-
-@japan.reuters.com
-
-米ホワイトハウスは米軍に対し、少なくとも今後２カ月間はベネズエラの石油の「封鎖」に専念するよう命じたことが分かった。米当局者が２４日、ロイターに明らかにした。 bit.ly/3N0yYJY
-
-[2025-12-25 11:20:15](https://bsky.app/profile/japan.reuters.com/post/3marpphfmiq2s)
-
----
-
-@cbsnews.com
-
-Trump promises to guard against "bad Santa" and touts "clean, beautiful coal" in Christmas Eve calls with kids.
-
-[2025-12-25 11:15:00](https://bsky.app/profile/cbsnews.com/post/3marpg3g7y62b)
+[2025-12-25 11:44:13](https://bsky.app/profile/sokuho.news/post/3marr2czt332r)
 
 ---
 
 @japan.reuters.com
 
-フジ・メディア・ホールディングスが反発し、一時、前営業日比７％超高の３７８９円まで上昇した。２４日、株式買い増し通知があった旧村上系ファンドから具体的な手法について、１株４０００円での公開買い付け（ＴＯＢ）の意向との説明を受領したと発表し、材料視されている。足元は６％超高の３７１６円付近。 bit.ly/4pbMuYK
+米司法省は２４日、性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関連する可能性のある文書を新たに１００万件以上発見したと発表した。当局が被害者保護のため文書の詳細を墨塗りするため、完全な公開は数週間遅れる見通しだという。 bit.ly/3N0CyDT
 
-[2025-12-25 11:14:21](https://bsky.app/profile/japan.reuters.com/post/3marpevzpjx2f)
-
----
-
-@reuters.com
-
-Vikings place C Ryan Kelly on IR after latest concussion reut.rs/3MTqiFl
-
-[2025-12-25 11:10:10](https://bsky.app/profile/reuters.com/post/3marp5gom2b2c)
+[2025-12-25 11:40:12](https://bsky.app/profile/japan.reuters.com/post/3marqt52lgt22)
 
 ---
 
 @japan.reuters.com
 
-英国、カナダ、ドイツなどの国々は２４日、イスラエル安全保障会議が占領下のヨルダン川西岸地域に１９の新たな入植地建設を承認したことを非難する声明を発表した。国際法に違反し、不安定化を助長する恐れがあるとした。 bit.ly/49b2ILA
+米プロバスケットボール協会（ＮＢＡ）ウィザーズは２３日、キャム・ウィットモア（２１）が上肢の深部静脈血栓症と診断され、無期限で離脱することになったと発表した。 bit.ly/3LhNVa4
 
-[2025-12-25 11:10:09](https://bsky.app/profile/japan.reuters.com/post/3marp5fldpn2c)
+[2025-12-25 11:39:11](https://bsky.app/profile/japan.reuters.com/post/3marqrcpy7u2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+“キリストの生誕地”でクリスマスのミサ 平和祈る パレスチナ
+https://news.web.nhk/newsweb/na/na-k10015013261000
+
+[2025-12-25 11:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marqr43kar2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+北朝鮮国防省 “アメリカ軍の原子力潜水艦の韓国寄港を非難”
+https://news.web.nhk/newsweb/na/na-k10015013251000
+
+[2025-12-25 11:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marqlripef2v)
 
 ---
 
 @japan.reuters.com
 
-米大リーグ（ＭＬＢ）で鈴木誠也外野手と今永昇太投手が所属するカブスは２３日、救援右腕のジェイコブ・ウェブ投手（３２）と１年契約を結ぶことで合意に達したと発表した。２０２７年シーズンの球団オプション付き。 bit.ly/49qX7lM
+米半導体大手エヌビディアは、半導体の製造にインテルの先端製造技術「
+ １８A」を利用するか最近試験したものの見送った。複数の関係者が明らかにした。 bit.ly/4qtzrD9
 
-[2025-12-25 11:09:56](https://bsky.app/profile/japan.reuters.com/post/3marp4yueli2s)
-
----
-
-@japan.reuters.com
-
-＜１０：４４＞　ドル155円後半で売買交錯、多くの主要市場休場で小動き bit.ly/48Wo0he
-
-[2025-12-25 11:08:51](https://bsky.app/profile/japan.reuters.com/post/3marp33divu2q)
+[2025-12-25 11:35:09](https://bsky.app/profile/japan.reuters.com/post/3marqk3qbkt2p)
 
 ---
 
