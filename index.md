@@ -1,9 +1,9 @@
-# [2025-12-26 08:10 updated](2025_12_26.md)
+# [2025-12-26 08:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The deaths of some pilots and crew members are being blamed on serious illnesses they developed after their exposures to toxic fumes while working aboard planes on.wsj.com/4pQMDSp <a href="https://bsky.app/profile/wsj.com/post/3matvgrsshe2c" target="_blank">wsj.com</a> (2025-12-26 08:08:06)</span><span style="padding-right:50px;">ウクライナは、英国製の長距離巡航ミサイル「ストームシャドー」とウクライナ製の長距離無人機（ドローン）を発射し、ロシアの石油・ガス施設数カ所を攻撃した。ウクライナ軍と治安当局が２５日に発表した。 bit.ly/4pUzJTH <a href="https://bsky.app/profile/japan.reuters.com/post/3matvgqltll2q" target="_blank">japan.reuters.com</a> (2025-12-26 08:08:04)</span><span style="padding-right:50px;">北朝鮮の金正恩朝鮮労働党総書記は、今後５年にわたってミサイル開発を継続することを示唆したと、国営メディア朝鮮中央通信（ＫＣＮＡ）が２６日に伝えた。金氏は今年第４・四半期に複数の主要な軍需企業を訪問したという。 bit.ly/3MVbgik <a href="https://bsky.app/profile/japan.reuters.com/post/3matveu4a4727" target="_blank">japan.reuters.com</a> (2025-12-26 08:07:01)</span><span style="padding-right:50px;">＜０７：５０＞　ドル155.30─156.50円の見通し、薄商い続く　上攻め限定的 bit.ly/3Lbr67T <a href="https://bsky.app/profile/japan.reuters.com/post/3matv53gm5r2s" target="_blank">japan.reuters.com</a> (2025-12-26 08:02:40)</span><span style="padding-right:50px;">A growing volume of AI-generated images and recipes meant to look like genuine food blogs have permeated social media sites like Facebook and Pinterest. https://cnn.it/3KPT5Kq <a href="https://bsky.app/profile/cnn.com/post/3matv25g6n42v" target="_blank">cnn.com</a> (2025-12-26 08:01:02)</span>
+<span style="padding-right:50px;">White House to present plans for Trump's East Wing ballroom in January reut.rs/4jxG7Op <a href="https://bsky.app/profile/reuters.com/post/3matwfbpmjv2s" target="_blank">reuters.com</a> (2025-12-26 08:25:09)</span><span style="padding-right:50px;">ロシアのノバク副首相は２５日、国営テレビ「ロシア２４」に対し、液化天然ガス（ＬＮＧ）の生産を年間１億トンに増やす目標の達成時期が、計画から「数年」先送りされたと明らかにした。欧米によるロシアのエネルギー部門への制裁が影響したという。 bit.ly/3YcoQ3o <a href="https://bsky.app/profile/japan.reuters.com/post/3matw63vt6m2u" target="_blank">japan.reuters.com</a> (2025-12-26 08:21:08)</span><span style="padding-right:50px;">バングラデシュの主要政党、バングラデシュ民族主義党（ＢＮＰ）のタリク・ラーマン党首代行が２５日、英国から約１７年ぶりに帰国した。同国は来年２月に総選挙を予定しており、ＢＮＰが勝利しラーマン氏が次期首相に就任するとの観測が出ている。 bit.ly/44IkGnq <a href="https://bsky.app/profile/japan.reuters.com/post/3matw24qabu2c" target="_blank">japan.reuters.com</a> (2025-12-26 08:18:55)</span><span style="padding-right:50px;">Judge grants injunction blocking US from detaining British anti-disinformation activist reut.rs/49bXOhA <a href="https://bsky.app/profile/reuters.com/post/3matvth5lzs2c" target="_blank">reuters.com</a> (2025-12-26 08:15:11)</span><span style="padding-right:50px;">Broncos activate TE Marcedes Lewis, 41, for game vs. Chiefs reut.rs/49t3sgr <a href="https://bsky.app/profile/reuters.com/post/3matvkicft72i" target="_blank">reuters.com</a> (2025-12-26 08:10:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.00 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.79 (🔻0.02 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,15 +32,55 @@
 
 ## News Headlines
 
-- Pilots and crew members die from toxic fumes on planes
-- Ukraine fires missiles and drones at Russian oil and gas facilities
-- North Korea signals continued missile development
-- Global AI-generated images flood social media
-- Gen Zers save for retirement more aggressively than previous generations
-- US President Donald Trump criticized by Jimmy Kimmel in Christmas message
+- White House to present plans for Trump's East Wing ballroom in January
+- Russia to miss 1 billion ton LNG production target due to US sanctions
+- Bangladesh opposition leader returns home after 17 years abroad
+- Judge blocks US from detaining British anti-disinformation activist
+- Broncos activate TE Marcedes Lewis, 41, for game vs. Chiefs
+- Ukraine attacks Russian oil and gas facilities with British and Ukrainian drones
 
 
 ----
+
+@reuters.com
+
+White House to present plans for Trump's East Wing ballroom in January reut.rs/4jxG7Op
+
+[2025-12-26 08:25:09](https://bsky.app/profile/reuters.com/post/3matwfbpmjv2s)
+
+---
+
+@japan.reuters.com
+
+ロシアのノバク副首相は２５日、国営テレビ「ロシア２４」に対し、液化天然ガス（ＬＮＧ）の生産を年間１億トンに増やす目標の達成時期が、計画から「数年」先送りされたと明らかにした。欧米によるロシアのエネルギー部門への制裁が影響したという。 bit.ly/3YcoQ3o
+
+[2025-12-26 08:21:08](https://bsky.app/profile/japan.reuters.com/post/3matw63vt6m2u)
+
+---
+
+@japan.reuters.com
+
+バングラデシュの主要政党、バングラデシュ民族主義党（ＢＮＰ）のタリク・ラーマン党首代行が２５日、英国から約１７年ぶりに帰国した。同国は来年２月に総選挙を予定しており、ＢＮＰが勝利しラーマン氏が次期首相に就任するとの観測が出ている。 bit.ly/44IkGnq
+
+[2025-12-26 08:18:55](https://bsky.app/profile/japan.reuters.com/post/3matw24qabu2c)
+
+---
+
+@reuters.com
+
+Judge grants injunction blocking US from detaining British anti-disinformation activist reut.rs/49bXOhA
+
+[2025-12-26 08:15:11](https://bsky.app/profile/reuters.com/post/3matvth5lzs2c)
+
+---
+
+@reuters.com
+
+Broncos activate TE Marcedes Lewis, 41, for game vs. Chiefs reut.rs/49t3sgr
+
+[2025-12-26 08:10:10](https://bsky.app/profile/reuters.com/post/3matvkicft72i)
+
+---
 
 @wsj.com
 
@@ -79,54 +119,6 @@ The deaths of some pilots and crew members are being blamed on serious illnesses
 A growing volume of AI-generated images and recipes meant to look like genuine food blogs have permeated social media sites like Facebook and Pinterest. https://cnn.it/3KPT5Kq
 
 [2025-12-26 08:01:02](https://bsky.app/profile/cnn.com/post/3matv25g6n42v)
-
----
-
-@cnbc.com
-
-Gen Zers are saving for retirement earlier, and more aggressively, than the generations before them.
-
-[2025-12-26 08:01:02](https://bsky.app/profile/cnbc.com/post/3matv25opmj2x)
-
----
-
-@nikkei.com
-
-【メモリー高騰がPC値上げ呼ぶ】
-マウスコンピューターは26年から、シャープ傘下のダイナブックも値上げ検討
-www.nikkei.com/article/DGXZQO...
-
-半導体メモリーは記録的な値上がりが続いています。
-
-DRAMは12月25日時点で、指標品となるDDR4型の8ギガビット品のスポット価格が14.1ドル前後と、2024年末の9.86倍に。
-
-シャープ傘下のダイナブックはDRAMの値上がりについて「経営努力で補える範囲を超えている」と説明します。
-
-[2025-12-26 08:00:49](https://bsky.app/profile/nikkei.com/post/3matuzrjtr72x)
-
----
-
-@usatoday.com
-
-Is Target open or closed on Christmas Day 2025? Here's what to know
-
-[2025-12-26 08:00:41](https://bsky.app/profile/usatoday.com/post/3matuzjnbnq2z)
-
----
-
-@bloomberg.com
-
-Our Pulitzer Prize-winning series explores how urban design and architecture affect parents and kids. 
-
-[2025-12-26 08:00:13](https://bsky.app/profile/bloomberg.com/post/3matuyoo4wr2d)
-
----
-
-@washingtonpost.com
-
-In New Orleans, where there is a sizeable Honduran population, Latino-owned businesses have locked their doors, and some immigrants are sleeping at work because they fear being stopped by federal officers on their way home.
-
-[2025-12-26 08:00:10](https://bsky.app/profile/washingtonpost.com/post/3matuym4otb2e)
 
 ---
 
