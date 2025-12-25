@@ -1,9 +1,9 @@
-# [2025-12-25 10:50 updated](2025_12_25.md)
+# [2025-12-25 11:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">東京・羽田空港で２０２４年１月に起きた海上保安庁と日本航空（ＪＡＬ）の機体衝突事故の原因を調べている運輸安全委員会は２５日、２回目となる経過報告を公表し、海保機機長の労務管理や疲労などを分析対象に追加したと明らかにした。 bit.ly/4b5UN4S <a href="https://bsky.app/profile/japan.reuters.com/post/3marnwkhjnh2q" target="_blank">japan.reuters.com</a> (2025-12-25 10:48:25)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “No postwar political movement has been more closely bound up in the fortunes of its founder than MAGA is,” writes Matthew Walther. <a href="https://bsky.app/profile/nytimes.com/post/3marnqluxi62a" target="_blank">nytimes.com</a> (2025-12-25 10:45:06)</span><span style="padding-right:50px;">In @nytopinion  As “The Late Show” approaches its end in May, Stephen Colbert “has turned his show’s last hurrah into a torrid victory lap, and he’s done it by manifesting the show he’d always envisioned: a show about love and a show about loss,” Lisa Schwarzbaum writes. <a href="https://bsky.app/profile/nytimes.com/post/3marnqldppw2a" target="_blank">nytimes.com</a> (2025-12-25 10:45:05)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “The files have been released in a way that seems to be designed to maximize the arguing, give succor to conspiracy-mongers and minimize the illumination of what happened,” writes Molly Jong-Fast. <a href="https://bsky.app/profile/nytimes.com/post/3marnqhi5yt2v" target="_blank">nytimes.com</a> (2025-12-25 10:45:01)</span><span style="padding-right:50px;">シドニー株式市場は２５日はクリスマス、２６日はボクシングデーのため、それぞれ休場となる。取引は２９日に再開する。 bit.ly/49svCYU <a href="https://bsky.app/profile/japan.reuters.com/post/3marnoqoqtw2n" target="_blank">japan.reuters.com</a> (2025-12-25 10:44:04)</span>
+<span style="padding-right:50px;">＜１０：４４＞　ドル155円後半で売買交錯、多くの主要市場休場で小動き bit.ly/48Wo0he <a href="https://bsky.app/profile/japan.reuters.com/post/3marp33divu2q" target="_blank">japan.reuters.com</a> (2025-12-25 11:08:51)</span><span style="padding-right:50px;">サッカーのアフリカ選手権は２４日、各地で１次リーグの試合を行い、Ｅ組ではアルジェリアがリヤド・マレズの２ゴールでスーダンに３─０と快勝し、白星発進した。 bit.ly/4atfNlX <a href="https://bsky.app/profile/japan.reuters.com/post/3marorc6jvt2q" target="_blank">japan.reuters.com</a> (2025-12-25 11:03:23)</span><span style="padding-right:50px;">Gabapentin has soared in popularity as an alternative to opioids, but research is finding that it isn’t as safe or effective as doctors have long thought. on.wsj.com/3KNxvpX <a href="https://bsky.app/profile/wsj.com/post/3maroppvcpb2z" target="_blank">wsj.com</a> (2025-12-25 11:02:30)</span><span style="padding-right:50px;">２５日のインド株式市場はクリスマスのため休場。取引は２６日に再開する。 bit.ly/4awLue1 <a href="https://bsky.app/profile/japan.reuters.com/post/3maropdtn4d22" target="_blank">japan.reuters.com</a> (2025-12-25 11:02:17)</span><span style="padding-right:50px;">Long-haul flights in economy class take a toll. To make your next flight less of a sufferfest, we tapped some frequent economy-class fliers for tips on making the back of the plane more tolerable—or even luxurious.  🔗: on.wsj.com/4b3PeUw <a href="https://bsky.app/profile/wsj.com/post/3maromxql6a2r" target="_blank">wsj.com</a> (2025-12-25 11:00:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50424.28 (🔻25.90 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3373.00 (🔻4.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔺0.06 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50380.85 (🔻69.33 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3376.00 (🔻1.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.78 (🔺0.04 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,106 +32,103 @@
 
 ## News Headlines
 
-- Transport Ministry announces 2nd progress report on investigation into Japan Airlines and Coast Guard aircraft collision
-- Stephen Colbert's 'Late Show' to End in May, But It's Been a 'Victory Lap'
-- Russian President Putin sends New Year's message to North Korean leader Kim
-- Russia sets grain export quota for 2026 at 2 million tons
-- Tokyo Stock Market to Close on Christmas and Boxing Day
-- US Treasury plans to auction off $34 billion in 5-year notes
+- Dollar trades in narrow range as many major markets are closed
+- Algeria wins 3-0 against Sudan in Africa Cup of Nations
+- Gabapentin's safety and effectiveness under scrutiny as alternative to opioids
+- Indian stock market closed on Christmas Day, reopening on Dec 26
+- Tips for making economy class flights more tolerable
+- New strawberry variety 'benitama' to be released in Saitama
 
 
 ----
 
 @japan.reuters.com
 
-東京・羽田空港で２０２４年１月に起きた海上保安庁と日本航空（ＪＡＬ）の機体衝突事故の原因を調べている運輸安全委員会は２５日、２回目となる経過報告を公表し、海保機機長の労務管理や疲労などを分析対象に追加したと明らかにした。 bit.ly/4b5UN4S
+＜１０：４４＞　ドル155円後半で売買交錯、多くの主要市場休場で小動き bit.ly/48Wo0he
 
-[2025-12-25 10:48:25](https://bsky.app/profile/japan.reuters.com/post/3marnwkhjnh2q)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com 
-
-“No postwar political movement has been more closely bound up in the fortunes of its founder than MAGA is,” writes Matthew Walther.
-
-[2025-12-25 10:45:06](https://bsky.app/profile/nytimes.com/post/3marnqluxi62a)
-
----
-
-@nytimes.com
-
-In @nytopinion
-
-As “The Late Show” approaches its end in May, Stephen Colbert “has turned his show’s last hurrah into a torrid victory lap, and he’s done it by manifesting the show he’d always envisioned: a show about love and a show about loss,” Lisa Schwarzbaum writes.
-
-[2025-12-25 10:45:05](https://bsky.app/profile/nytimes.com/post/3marnqldppw2a)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com 
-
-“The files have been released in a way that seems to be designed to maximize the arguing, give succor to conspiracy-mongers and minimize the illumination of what happened,” writes Molly Jong-Fast.
-
-[2025-12-25 10:45:01](https://bsky.app/profile/nytimes.com/post/3marnqhi5yt2v)
+[2025-12-25 11:08:51](https://bsky.app/profile/japan.reuters.com/post/3marp33divu2q)
 
 ---
 
 @japan.reuters.com
 
-シドニー株式市場は２５日はクリスマス、２６日はボクシングデーのため、それぞれ休場となる。取引は２９日に再開する。 bit.ly/49svCYU
+サッカーのアフリカ選手権は２４日、各地で１次リーグの試合を行い、Ｅ組ではアルジェリアがリヤド・マレズの２ゴールでスーダンに３─０と快勝し、白星発進した。 bit.ly/4atfNlX
 
-[2025-12-25 10:44:04](https://bsky.app/profile/japan.reuters.com/post/3marnoqoqtw2n)
+[2025-12-25 11:03:23](https://bsky.app/profile/japan.reuters.com/post/3marorc6jvt2q)
+
+---
+
+@wsj.com
+
+Gabapentin has soared in popularity as an alternative to opioids, but research is finding that it isn’t as safe or effective as doctors have long thought. on.wsj.com/3KNxvpX
+
+[2025-12-25 11:02:30](https://bsky.app/profile/wsj.com/post/3maroppvcpb2z)
 
 ---
 
 @japan.reuters.com
 
-ロシアのプーチン大統領は今月１８日に、北朝鮮の金正恩朝鮮労働党総書記に新年を祝うメッセージを送ったと、北朝鮮国営メディア朝鮮中央通信（ＫＣＮＡ）が２５日に報じた。 bit.ly/48SSy3t
+２５日のインド株式市場はクリスマスのため休場。取引は２６日に再開する。 bit.ly/4awLue1
 
-[2025-12-25 10:40:15](https://bsky.app/profile/japan.reuters.com/post/3marnhwffee2q)
+[2025-12-25 11:02:17](https://bsky.app/profile/japan.reuters.com/post/3maropdtn4d22)
 
 ---
 
-@japan.reuters.com
+@wsj.com
 
-ロシア政府は２４日、来年２月１５日―６月３０日の穀物輸出枠を２０００万トンに設定したと発表した。輸出枠は国内市場を守るためにマーケティング年度の後半に設定するもので、発表された規模は予想通りだった。 bit.ly/4qkj8Z6
+Long-haul flights in economy class take a toll. To make your next flight less of a sufferfest, we tapped some frequent economy-class fliers for tips on making the back of the plane more tolerable—or even luxurious.
 
-[2025-12-25 10:38:41](https://bsky.app/profile/japan.reuters.com/post/3marnf4uggi2s)
+🔗: on.wsj.com/4b3PeUw
+
+[2025-12-25 11:00:57](https://bsky.app/profile/wsj.com/post/3maromxql6a2r)
 
 ---
 
 @nikkei.com
 
-トランプ級戦艦、現代の「大和」か
+【2025年の新顔は”べにたま”】
+埼玉「高級イチゴ県」定着へ20年戦略
 www.nikkei.com/article/DGXZQO...
+ 
+交配から約10年を経て品種登録した「あまりん」と「かおりん」。いずれも食味で高い評価を得て、高級青果店で引っ張りだこ。ただ出荷開始が遅く、総収穫量も限られています。
+ 
+埼玉県が満を持して投入したのが「べにたま」です。
+ 
+食味に優れるかおりんと、収穫時期が早い「かおり野」を掛け合わせて商品化。先行2品種に比べて収穫量が多いことが特徴で、量販店などを通じて食卓への普及を目指す戦略品種です。
 
-日本海軍は航空機が勝敗を分ける時代になってなお艦隊決戦にこだわり「大和」に膨大な予算を費やしました。
+[2025-12-25 11:00:51](https://bsky.app/profile/nikkei.com/post/3maromr67h62m)
 
-80年以上たったいま、アメリカが巨大戦艦の建造に着手します。
+---
 
-米海軍の元中将は「戦略的にも、財政的にも、戦術的にも誤り」と指摘しています。
+@bloomberg.com
 
-[2025-12-25 10:30:39](https://bsky.app/profile/nikkei.com/post/3marmwrngwb2i)
+Thailand is known for its scenic beaches, Buddhist temples, and vibrant nightlife.nnHowever, it also serves as a cautionary tale of a society where democratic institutions crumble, leaving oligarchs to fight it out. (from the archive)
+
+[2025-12-25 11:00:33](https://bsky.app/profile/bloomberg.com/post/3maromabfue23)
 
 ---
 
 @usatoday.com
 
-Claire Sardina, who performed in Lightning & Thunder with Neil Diamond tribute artist Mike Sardina, tells the true story behind "Song Sung Blue."
+Swaths of Southern California are under flash flood warnings through the afternoon and evening of Christmas Eve. What's next?
 
-[2025-12-25 10:30:26](https://bsky.app/profile/usatoday.com/post/3marmwfekix2q)
+[2025-12-25 11:00:26](https://bsky.app/profile/usatoday.com/post/3marolzkwxr2z)
 
 ---
 
-@aljazeera.com
+@nbcnews.com
 
-These are the key developments from day 1,400 of Russia’s war on Ukraine.
+The jackpot has an estimated cash value of $781.3 million, according to Powerball officials.
 
-[2025-12-25 10:30:03](https://bsky.app/profile/aljazeera.com/post/3marmvozgbi2d)
+[2025-12-25 11:00:25](https://bsky.app/profile/nbcnews.com/post/3marolyfbal2k)
+
+---
+
+@japan.reuters.com
+
+米アップルのティム・クック最高経営責任者（ＣＥＯ）は、米スポーツ用品大手ナイキのエリオット・ヒルＣＥＯによる経営再建への取り組みを評価し、約３００万ドル相当のナイキ株を購入した。これを好感し、ナイキ株は４．６％高で２４日の取引を終えた。 bit.ly/4jgtEyr
+
+[2025-12-25 11:00:22](https://bsky.app/profile/japan.reuters.com/post/3marolvx6fy2c)
 
 ---
 
