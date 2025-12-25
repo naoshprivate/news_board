@@ -1,9 +1,9 @@
-# [2025-12-26 02:30 updated](2025_12_26.md)
+# [2025-12-26 02:50 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Reports: Cavaliers F Evan Mobley to return vs. Knicks reut.rs/4paEtmG <a href="https://bsky.app/profile/reuters.com/post/3matcbj5dig2p" target="_blank">reuters.com</a> (2025-12-26 02:25:08)</span><span style="padding-right:50px;">Dave Willat was just 11 years old when he showed up for what he thought would be a routine church choir practice in 1965. He and his fellow singers ended up making history. <a href="https://bsky.app/profile/npr.org/post/3matc7nc7cp2b" target="_blank">npr.org</a> (2025-12-26 02:24:05)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】石川・七尾市の商業施設で男性切りつけられる 刃物を持った男が逃走中 (2025-12-26 02:19:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3matc3cmwoc2a" target="_blank">sokuho.news</a> (2025-12-26 02:21:39)</span><span style="padding-right:50px;">Report: Lions RB David Montgomery (illness) to play vs. Vikings reut.rs/3Ye10nP <a href="https://bsky.app/profile/reuters.com/post/3matbpqrxf723" target="_blank">reuters.com</a> (2025-12-26 02:15:12)</span><span style="padding-right:50px;">Commanders RB Chris Rodriguez Jr. inactive vs. Cowboys reut.rs/4s8eFKJ <a href="https://bsky.app/profile/reuters.com/post/3matbgrmk742i" target="_blank">reuters.com</a> (2025-12-26 02:10:11)</span>
+<span style="padding-right:50px;">The heavy rains are the result of a weather phenomenon known as the “Pineapple Express.” <a href="https://bsky.app/profile/forbes.com/post/3matdf6couz2s" target="_blank">forbes.com</a> (2025-12-26 02:45:04)</span><span style="padding-right:50px;">A remote-controlled robot jockey competes on a camel on a sandy racing track in Qatar on Thursday. The camels are guided by an operator who can apply the whip antenna, command the jockey to pull on the reins, and shouts encouragement to the camel via a built-in speaker. <a href="https://bsky.app/profile/en.afp.com/post/3matdf45dn72q" target="_blank">en.afp.com</a> (2025-12-26 02:45:02)</span><span style="padding-right:50px;">As they try to repair their political brand before the midterm elections, Democrats are rushing to redefine themselves as Washington disrupters, eager to challenge a government that many Americans believe has failed to improve their lives. <a href="https://bsky.app/profile/nytimes.com/post/3matd4b4abd25" target="_blank">nytimes.com</a> (2025-12-26 02:40:05)</span><span style="padding-right:50px;">Trump heralded Christmas with messages criticizing 'Radical Left Scum' and promoting the country's economic growth. <a href="https://bsky.app/profile/usatoday.com/post/3matckovny525" target="_blank">usatoday.com</a> (2025-12-26 02:30:16)</span><span style="padding-right:50px;">After a harrowing and deadly Christmas Eve in California with rescues and evacuations amid widespread flooding and debris flow threats, another storm is battering the state Christmas Day, with more expected into Friday. https://cnn.it/49rATQx <a href="https://bsky.app/profile/cnn.com/post/3matckgrxa222" target="_blank">cnn.com</a> (2025-12-26 02:30:07)</span>
   </div>
 </div>
 
@@ -32,15 +32,71 @@
 
 ## News Headlines
 
-- Cavaliers F Evan Mobley to return vs. Knicks
-- Lions RB David Montgomery to play vs. Vikings
-- Commanders RB Chris Rodriguez Jr. inactive vs. Cowboys
-- Family's centurieslong trade provides a window on British colonial history
-- Catherine, Princess of Wales, performs piano duet for Christmas carol service
-- Four members of Liechtenstein family found dead
+- California Hit by Second Storm in Two Days, with More Rain Expected
+- Pineapple Express Brings Heavy Rains to the Region
+- Cavaliers F Evan Mobley to Return vs. Knicks
+- Commanders RB Chris Rodriguez Jr. Inactive vs. Cowboys
+- Family's Centuries-Long Trade Provides a Window on British Colonial History and Kenya's Independence
+- New Research Reveals Unusual Animal Sleep Habits
 
 
 ----
+
+@forbes.com
+
+The heavy rains are the result of a weather phenomenon known as the “Pineapple Express.”
+
+[2025-12-26 02:45:04](https://bsky.app/profile/forbes.com/post/3matdf6couz2s)
+
+---
+
+@en.afp.com
+
+A remote-controlled robot jockey competes on a camel on a sandy racing track in Qatar on Thursday. The camels are guided by an operator who can apply the whip antenna, command the jockey to pull on the reins, and shouts encouragement to the camel via a built-in speaker.
+
+[2025-12-26 02:45:02](https://bsky.app/profile/en.afp.com/post/3matdf45dn72q)
+
+---
+
+@nytimes.com
+
+As they try to repair their political brand before the midterm elections, Democrats are rushing to redefine themselves as Washington disrupters, eager to challenge a government that many Americans believe has failed to improve their lives.
+
+[2025-12-26 02:40:05](https://bsky.app/profile/nytimes.com/post/3matd4b4abd25)
+
+---
+
+@usatoday.com
+
+Trump heralded Christmas with messages criticizing 'Radical Left Scum' and promoting the country's economic growth.
+
+[2025-12-26 02:30:16](https://bsky.app/profile/usatoday.com/post/3matckovny525)
+
+---
+
+@cnn.com
+
+After a harrowing and deadly Christmas Eve in California with rescues and evacuations amid widespread flooding and debris flow threats, another storm is battering the state Christmas Day, with more expected into Friday. https://cnn.it/49rATQx
+
+[2025-12-26 02:30:07](https://bsky.app/profile/cnn.com/post/3matckgrxa222)
+
+---
+
+@aljazeera.com
+
+Eight-month-old among multiple Palestinians wounded in attacks across the occupied West Bank.
+
+[2025-12-26 02:30:05](https://bsky.app/profile/aljazeera.com/post/3matckeu6to27)
+
+---
+
+@nytimes.com
+
+Will Zohran Mamdani be the 111th or the 112th mayor of New York? An arcane numbering system and the misplacement of an official record have caused confusion on where the latest mayor-elect falls in history.
+
+[2025-12-26 02:30:02](https://bsky.app/profile/nytimes.com/post/3matckbpegh2y)
+
+---
 
 @reuters.com
 
@@ -66,64 +122,6 @@ Dave Willat was just 11 years old when he showed up for what he thought would be
 (2025-12-26 02:19:00) #ニュース
 
 [2025-12-26 02:21:39](https://bsky.app/profile/sokuho.news/post/3matc3cmwoc2a)
-
----
-
-@reuters.com
-
-Report: Lions RB David Montgomery (illness) to play vs. Vikings reut.rs/3Ye10nP
-
-[2025-12-26 02:15:12](https://bsky.app/profile/reuters.com/post/3matbpqrxf723)
-
----
-
-@reuters.com
-
-Commanders RB Chris Rodriguez Jr. inactive vs. Cowboys reut.rs/4s8eFKJ
-
-[2025-12-26 02:10:11](https://bsky.app/profile/reuters.com/post/3matbgrmk742i)
-
----
-
-@wsj.com
-
-One family’s centurieslong trade provides a window on British colonial history and Kenya’s independence, but its time looks to be coming to a close. on.wsj.com/4paqWLW
-
-[2025-12-26 02:01:52](https://bsky.app/profile/wsj.com/post/3mataxvto552r)
-
----
-
-@cnn.com
-
-Catherine, Princess of Wales, and Princess Charlotte perform piano duet for Christmas carol service https://cnn.it/4q57fq4
-
-[2025-12-26 02:01:04](https://bsky.app/profile/cnn.com/post/3matawiajfl26)
-
----
-
-@bloomberg.com
-
-“I want my inheritance now.” From forced property transfers to drained pensions, older people are increasingly losing their life savings to family members.
-
-[2025-12-26 02:00:58](https://bsky.app/profile/bloomberg.com/post/3matawcobkq23)
-
----
-
-@reuters.com
-
-Four members of Liechtenstein family found dead reut.rs/4pQBgdb
-
-[2025-12-26 02:00:46](https://bsky.app/profile/reuters.com/post/3matavxc6c42k)
-
----
-
-@washingtonpost.com
-
-No, you can’t get the flu from the flu vaccine.
-
-The temporary side effects that you might feel after getting the vaccine are your immune system reacting to the inactive proteins from the surface of the virus.
-
-[2025-12-26 02:00:25](https://bsky.app/profile/washingtonpost.com/post/3matavdkaia2g)
 
 ---
 
