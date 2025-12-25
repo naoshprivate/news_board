@@ -1,9 +1,9 @@
-# [2025-12-26 00:30 updated](2025_12_26.md)
+# [2025-12-26 00:50 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">King Charles III urges courage and reconciliation in a divided and uncertain world in Christmas message https://cnn.it/4az08la <a href="https://bsky.app/profile/cnn.com/post/3mat3lcnjcl2x" target="_blank">cnn.com</a> (2025-12-26 00:25:20)</span><span style="padding-right:50px;">Syria to start currency swap on January 1, central bank governor says reut.rs/4quiQPy <a href="https://bsky.app/profile/reuters.com/post/3mat3ky5qtz24" target="_blank">reuters.com</a> (2025-12-26 00:25:09)</span><span style="padding-right:50px;">The Trump administration’s efforts to rewrite the rules of public health have created a new kind of influencer: Doctors taking to social media to combat misinformation. <a href="https://bsky.app/profile/wsj.com/post/3mat3ghk67r2o" target="_blank">wsj.com</a> (2025-12-26 00:22:37)</span><span style="padding-right:50px;">Can a kind word change your life? I know from experience that it can, writes FT columnist Tim Harford. on.ft.com/48Ilqdd <a href="https://bsky.app/profile/financialtimes.com/post/3mat3fh3btj2w" target="_blank">financialtimes.com</a> (2025-12-26 00:22:04)</span><span style="padding-right:50px;">Britain's King Charles lauds unity in diversity in his Christmas message reut.rs/3L2dhsw <a href="https://bsky.app/profile/reuters.com/post/3mat2q7jeo42k" target="_blank">reuters.com</a> (2025-12-26 00:10:11)</span>
+<span style="padding-right:50px;">The Justice Department said Wednesday that it may need a "few more weeks" to release its records on the late sex offender Jeffrey Epstein after discovering more than a million potentially relevant documents. <a href="https://bsky.app/profile/npr.org/post/3mat4k6rhwy2e" target="_blank">npr.org</a> (2025-12-26 00:42:36)</span><span style="padding-right:50px;">Russia made a proposal to France on jailed French researcher Vinatier, the Kremlin says reut.rs/494PpfO <a href="https://bsky.app/profile/reuters.com/post/3mat44uhu422p" target="_blank">reuters.com</a> (2025-12-26 00:35:09)</span><span style="padding-right:50px;">Famed magician David Copperfield, who was previously revealed to have ties to Jeffrey Epstein, was named again in a deluge of DOJ files. <a href="https://bsky.app/profile/usatoday.com/post/3mat3uj4gbx2c" target="_blank">usatoday.com</a> (2025-12-26 00:30:29)</span><span style="padding-right:50px;">Swedish police investigating serious incident in Boden, north Sweden reut.rs/44LBoSZ <a href="https://bsky.app/profile/reuters.com/post/3mat3ueta222p" target="_blank">reuters.com</a> (2025-12-26 00:30:24)</span><span style="padding-right:50px;">Nvidia, the maker of A.I. chips and the world’s most valuable public company, agreed to license the technology of the chip start-up Groq and hire its top executives. <a href="https://bsky.app/profile/nytimes.com/post/3mat3tudzdf2v" target="_blank">nytimes.com</a> (2025-12-26 00:30:07)</span>
   </div>
 </div>
 
@@ -32,15 +32,63 @@
 
 ## News Headlines
 
+- Justice Department May Need More Time to Release Jeffrey Epstein Documents
+- Russia Proposes to Release Jailed French Researcher Vinatier
+- Nvidia to License Technology from Chip Startup Groq
 - King Charles Urges Courage and Reconciliation in Christmas Message
-- Syria to Start Currency Swap on January 1
-- Doctors Become Social Media Influencers to Combat Misinformation
-- UK Police Search for Two Missing Men off Southwest England Coast
-- Designer Transforms Historic Seattle Home Without Altering Footprint
-- Pope Urges Dialogue to Silence World's Conflicts on Christmas Day
+- Syria to Introduce Currency Swap on January 1
+- Five Killed in Tajik-Afghan Border Firefight
 
 
 ----
+
+@npr.org
+
+The Justice Department said Wednesday that it may need a "few more weeks" to release its records on the late sex offender Jeffrey Epstein after discovering more than a million potentially relevant documents.
+
+[2025-12-26 00:42:36](https://bsky.app/profile/npr.org/post/3mat4k6rhwy2e)
+
+---
+
+@reuters.com
+
+Russia made a proposal to France on jailed French researcher Vinatier, the Kremlin says reut.rs/494PpfO
+
+[2025-12-26 00:35:09](https://bsky.app/profile/reuters.com/post/3mat44uhu422p)
+
+---
+
+@usatoday.com
+
+Famed magician David Copperfield, who was previously revealed to have ties to Jeffrey Epstein, was named again in a deluge of DOJ files.
+
+[2025-12-26 00:30:29](https://bsky.app/profile/usatoday.com/post/3mat3uj4gbx2c)
+
+---
+
+@reuters.com
+
+Swedish police investigating serious incident in Boden, north Sweden reut.rs/44LBoSZ
+
+[2025-12-26 00:30:24](https://bsky.app/profile/reuters.com/post/3mat3ueta222p)
+
+---
+
+@nytimes.com
+
+Nvidia, the maker of A.I. chips and the world’s most valuable public company, agreed to license the technology of the chip start-up Groq and hire its top executives.
+
+[2025-12-26 00:30:07](https://bsky.app/profile/nytimes.com/post/3mat3tudzdf2v)
+
+---
+
+@aljazeera.com
+
+Five people killed in firefight on Tajik-Afghan border, Tajikistan says https://aje.io/4hn2h0
+
+[2025-12-26 00:30:02](https://bsky.app/profile/aljazeera.com/post/3mat3tpnpee2h)
+
+---
 
 @cnn.com
 
@@ -71,59 +119,6 @@ The Trump administration’s efforts to rewrite the rules of public health have 
 Can a kind word change your life? I know from experience that it can, writes FT columnist Tim Harford. on.ft.com/48Ilqdd
 
 [2025-12-26 00:22:04](https://bsky.app/profile/financialtimes.com/post/3mat3fh3btj2w)
-
----
-
-@reuters.com
-
-Britain's King Charles lauds unity in diversity in his Christmas message reut.rs/3L2dhsw
-
-[2025-12-26 00:10:11](https://bsky.app/profile/reuters.com/post/3mat2q7jeo42k)
-
----
-
-@forbes.com
-
-In a Truth Social post wishing Americans “Merry Christmas,” the president focused on attacking rivals and critics he labeled “Radical Left Scum.” 
-
-[2025-12-26 00:10:05](https://bsky.app/profile/forbes.com/post/3mat2pzvfyv2f)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】小学6年の女児ひき逃げの疑いで65歳男を逮捕 神戸・東灘区 女児は軽傷「大丈夫と言われ鵜呑みに」男供述 警察「自分で判断せず必ず届け出を」呼び掛け
-(2025-12-25 23:52) #ニュース
-
-[2025-12-26 00:09:52](https://bsky.app/profile/sokuho.news/post/3mat2pnulxv2r)
-
----
-
-@reuters.com
-
-UK police search for two men missing off southwest England coast reut.rs/44FXKVV
-
-[2025-12-26 00:05:06](https://bsky.app/profile/reuters.com/post/3mat2h5675x2o)
-
----
-
-@wsj.com
-
-When a family of four wanted to expand their historic Seattle home without changing its footprint, designer Lisa Staton transformed the underutilized square footage over their heads. on.wsj.com/499GuJQ
-
-[2025-12-26 00:04:42](https://bsky.app/profile/wsj.com/post/3mat2gg6we32u)
-
----
-
-@washingtonpost.com
-
-More than 300 people dressed in Santa costumes hit the slopes at Sunday River in Newry, Maine for the resort’s 25th annual Santa Sunday fundraiser.
-
-This year’s event raised $10,000 for two nonprofit organizations: the Boyne Forever Foundation and The River Fund Maine, according to the resort.
-
-[2025-12-26 00:02:12](https://bsky.app/profile/washingtonpost.com/post/3mat2bwqxqs24)
 
 ---
 
