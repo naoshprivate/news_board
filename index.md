@@ -1,9 +1,9 @@
-# [2025-12-26 00:50 updated](2025_12_26.md)
+# [2025-12-26 01:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Justice Department said Wednesday that it may need a "few more weeks" to release its records on the late sex offender Jeffrey Epstein after discovering more than a million potentially relevant documents. <a href="https://bsky.app/profile/npr.org/post/3mat4k6rhwy2e" target="_blank">npr.org</a> (2025-12-26 00:42:36)</span><span style="padding-right:50px;">Russia made a proposal to France on jailed French researcher Vinatier, the Kremlin says reut.rs/494PpfO <a href="https://bsky.app/profile/reuters.com/post/3mat44uhu422p" target="_blank">reuters.com</a> (2025-12-26 00:35:09)</span><span style="padding-right:50px;">Famed magician David Copperfield, who was previously revealed to have ties to Jeffrey Epstein, was named again in a deluge of DOJ files. <a href="https://bsky.app/profile/usatoday.com/post/3mat3uj4gbx2c" target="_blank">usatoday.com</a> (2025-12-26 00:30:29)</span><span style="padding-right:50px;">Swedish police investigating serious incident in Boden, north Sweden reut.rs/44LBoSZ <a href="https://bsky.app/profile/reuters.com/post/3mat3ueta222p" target="_blank">reuters.com</a> (2025-12-26 00:30:24)</span><span style="padding-right:50px;">Nvidia, the maker of A.I. chips and the world’s most valuable public company, agreed to license the technology of the chip start-up Groq and hire its top executives. <a href="https://bsky.app/profile/nytimes.com/post/3mat3tudzdf2v" target="_blank">nytimes.com</a> (2025-12-26 00:30:07)</span>
+<span style="padding-right:50px;">国家安全保障局長 インド高官と情勢や課題など電話で協議 https://news.web.nhk/newsweb/na/na-k10015014231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mat5u66r4j2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 01:06:03)</span><span style="padding-right:50px;">NPR's Michel Martin checks in with Middle Collegiate Church in Manhattan as it celebrates its first Christmas service since a devastating fire in 2020. <a href="https://bsky.app/profile/npr.org/post/3mat5llpru32y" target="_blank">npr.org</a> (2025-12-26 01:01:17)</span><span style="padding-right:50px;">King Charles III has urged people to focus on kindness instead of conflict in his annual Christmas address. <a href="https://bsky.app/profile/apnews.com/post/3mat5ll4aqo23" target="_blank">apnews.com</a> (2025-12-26 01:01:17)</span><span style="padding-right:50px;">Martha Stewart is the latest celebrity to become a minority co-owner of Swansea City, with rapper Snoop Dogg coming on board in July. <a href="https://bsky.app/profile/usatoday.com/post/3mat5lfaxu62w" target="_blank">usatoday.com</a> (2025-12-26 01:01:11)</span><span style="padding-right:50px;">Sohn’s naval nativity 75 years ago was also the start of a life searching for those left behind, trying to reassemble yet another Korean family torn apart along with their homeland. https://cnn.it/4p4QoT3 <a href="https://bsky.app/profile/cnn.com/post/3mat5keyuzo23" target="_blank">cnn.com</a> (2025-12-26 01:00:37)</span>
   </div>
 </div>
 
@@ -32,93 +32,96 @@
 
 ## News Headlines
 
-- Justice Department May Need More Time to Release Jeffrey Epstein Documents
-- Russia Proposes to Release Jailed French Researcher Vinatier
-- Nvidia to License Technology from Chip Startup Groq
-- King Charles Urges Courage and Reconciliation in Christmas Message
-- Syria to Introduce Currency Swap on January 1
-- Five Killed in Tajik-Afghan Border Firefight
+- Bangladesh Aspiring PM Returns Home After 17-Year Exile
+- Research Finds Gabapentin Not as Safe or Effective as Thought
+- Nvidia to License AI Technology and Hire Top Executives from Chip Startup
+- Five Killed in Firefight on Tajik-Afghan Border
+- UK's King Charles Urges Courage and Reconciliation in Christmas Message
+- Syria to Start Currency Swap on January 1
 
 
 ----
 
-@npr.org
+@nhknewsunofficial.bsky.social
 
-The Justice Department said Wednesday that it may need a "few more weeks" to release its records on the late sex offender Jeffrey Epstein after discovering more than a million potentially relevant documents.
+国家安全保障局長 インド高官と情勢や課題など電話で協議
+https://news.web.nhk/newsweb/na/na-k10015014231000
 
-[2025-12-26 00:42:36](https://bsky.app/profile/npr.org/post/3mat4k6rhwy2e)
+[2025-12-26 01:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mat5u66r4j2v)
 
 ---
 
-@reuters.com
+@npr.org
 
-Russia made a proposal to France on jailed French researcher Vinatier, the Kremlin says reut.rs/494PpfO
+NPR's Michel Martin checks in with Middle Collegiate Church in Manhattan as it celebrates its first Christmas service since a devastating fire in 2020.
 
-[2025-12-26 00:35:09](https://bsky.app/profile/reuters.com/post/3mat44uhu422p)
+[2025-12-26 01:01:17](https://bsky.app/profile/npr.org/post/3mat5llpru32y)
+
+---
+
+@apnews.com
+
+King Charles III has urged people to focus on kindness instead of conflict in his annual Christmas address.
+
+[2025-12-26 01:01:17](https://bsky.app/profile/apnews.com/post/3mat5ll4aqo23)
 
 ---
 
 @usatoday.com
 
-Famed magician David Copperfield, who was previously revealed to have ties to Jeffrey Epstein, was named again in a deluge of DOJ files.
+Martha Stewart is the latest celebrity to become a minority co-owner of Swansea City, with rapper Snoop Dogg coming on board in July.
 
-[2025-12-26 00:30:29](https://bsky.app/profile/usatoday.com/post/3mat3uj4gbx2c)
-
----
-
-@reuters.com
-
-Swedish police investigating serious incident in Boden, north Sweden reut.rs/44LBoSZ
-
-[2025-12-26 00:30:24](https://bsky.app/profile/reuters.com/post/3mat3ueta222p)
-
----
-
-@nytimes.com
-
-Nvidia, the maker of A.I. chips and the world’s most valuable public company, agreed to license the technology of the chip start-up Groq and hire its top executives.
-
-[2025-12-26 00:30:07](https://bsky.app/profile/nytimes.com/post/3mat3tudzdf2v)
-
----
-
-@aljazeera.com
-
-Five people killed in firefight on Tajik-Afghan border, Tajikistan says https://aje.io/4hn2h0
-
-[2025-12-26 00:30:02](https://bsky.app/profile/aljazeera.com/post/3mat3tpnpee2h)
+[2025-12-26 01:01:11](https://bsky.app/profile/usatoday.com/post/3mat5lfaxu62w)
 
 ---
 
 @cnn.com
 
-King Charles III urges courage and reconciliation in a divided and uncertain world in Christmas message https://cnn.it/4az08la
+Sohn’s naval nativity 75 years ago was also the start of a life searching for those left behind, trying to reassemble yet another Korean family torn apart along with their homeland. https://cnn.it/4p4QoT3
 
-[2025-12-26 00:25:20](https://bsky.app/profile/cnn.com/post/3mat3lcnjcl2x)
-
----
-
-@reuters.com
-
-Syria to start currency swap on January 1, central bank governor says reut.rs/4quiQPy
-
-[2025-12-26 00:25:09](https://bsky.app/profile/reuters.com/post/3mat3ky5qtz24)
+[2025-12-26 01:00:37](https://bsky.app/profile/cnn.com/post/3mat5keyuzo23)
 
 ---
 
-@wsj.com
+@apnews.com
 
-The Trump administration’s efforts to rewrite the rules of public health have created a new kind of influencer: Doctors taking to social media to combat misinformation.
+Mikaela Shiffrin has plenty to celebrate this Christmas. 
 
-[2025-12-26 00:22:37](https://bsky.app/profile/wsj.com/post/3mat3ghk67r2o)
+[2025-12-26 01:00:31](https://bsky.app/profile/apnews.com/post/3mat5k7pmc52k)
 
 ---
 
-@financialtimes.com
+@washingtonpost.com
 
-Can a kind word change your life? I know from experience that it can, writes FT columnist Tim Harford. on.ft.com/48Ilqdd
+Andrew Otazo has plucked, bagged, heaved and hauled more than 17 tons of trash from the mangroves in Florida.
 
-[2025-12-26 00:22:04](https://bsky.app/profile/financialtimes.com/post/3mat3fh3btj2w)
+Every piece of garbage he removes reclaims space for what should be there: bird nesting grounds and fish nurseries. https://wapo.st/4oS36Vx
+
+[2025-12-26 01:00:21](https://bsky.app/profile/washingtonpost.com/post/3mat5jvpbb225)
+
+---
+
+@aljazeera.com
+
+Celebrated director of 'Jenin, Jenin' documentary leaves behind legacy of artistic resistance.
+
+[2025-12-26 01:00:03](https://bsky.app/profile/aljazeera.com/post/3mat5jekvmz2z)
+
+---
+
+@cbsnews.com
+
+Rain from a powerful winter storm that swept across Southern California was tapering off — but another storm system was on the horizon for Christmas Day with showers and possible thunderstorms.
+
+[2025-12-26 01:00:01](https://bsky.app/profile/cbsnews.com/post/3mat5jcjp642q)
+
+---
+
+@nytimes.com
+
+King Charles III used his annual Christmas message to make a plea for “compassion and reconciliation,” saying that in times of global uncertainty, people can find strength in diversity “to ensure that right triumphs over wrong.”
+
+[2025-12-26 00:59:11](https://bsky.app/profile/nytimes.com/post/3mat5hszj632x)
 
 ---
 
