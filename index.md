@@ -1,9 +1,9 @@
-# [2025-12-25 19:10 updated](2025_12_25.md)
+# [2025-12-25 19:30 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">北～西日本の日本海側中心 26～27日にかけて大雪おそれ 警戒を https://news.web.nhk/newsweb/na/na-k10015013151000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masjvrbcgd2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 19:09:02)</span><span style="padding-right:50px;">中国株式市場は続伸。上海総合指数は７営業日続伸となった。航空宇宙株やロボット関連銘柄が好調だった。 bit.ly/49fbsk3 <a href="https://bsky.app/profile/japan.reuters.com/post/3masjv5xjs427" target="_blank">japan.reuters.com</a> (2025-12-25 19:08:44)</span><span style="padding-right:50px;">首位打者 ソフトバンク牧原大成 推定5000万円アップで契約更改 https://news.web.nhk/newsweb/na/na-k10015013871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masjqh4j2g2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 19:06:03)</span><span style="padding-right:50px;">A conservative candidate backed by President Trump was declared the winner of the Honduran presidential election after a protracted vote count marred by glitches and allegations of fraud. <a href="https://bsky.app/profile/wsj.com/post/3masjpxprky2k" target="_blank">wsj.com</a> (2025-12-25 19:05:49)</span><span style="padding-right:50px;">イスラエルのネタニヤフ首相は２４日、他国への依存を減らすため、独自の軍備開発に今後１０年で３５００億シェケル（約１１００億ドル）を投じると表明した。 bit.ly/4s80F3D <a href="https://bsky.app/profile/japan.reuters.com/post/3masjoup42427" target="_blank">japan.reuters.com</a> (2025-12-25 19:05:13)</span>
+<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:岡山県南部, 深さ:10km マグニチュード:3.2, 最大震度:1 📍https://www.google.com/maps?q=34.5,133.5&ll=34.5,133.5&z=7&t=h 地震発生日時:2025-12-25 19:22頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3maskspuddx2b" target="_blank">sokuho.news</a> (2025-12-25 19:25:15)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  19時22分頃、岡山県・広島県で最大震度1の地震を観測しました。 震源:岡山県南部, 深さ:10km, 規模:M3.2 この地震による津波の心配はありません。 (2025-12-25 19:24:48) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/25/2025-12-25-19-22-02.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3maskrxhv5w2z" target="_blank">sokuho.news</a> (2025-12-25 19:24:49)</span><span style="padding-right:50px;">Florida operative James Blair has become an influential figure in President Trump’s second term. <a href="https://bsky.app/profile/wsj.com/post/3maskmwqb7d2o" target="_blank">wsj.com</a> (2025-12-25 19:22:01)</span><span style="padding-right:50px;">Marty Reisman was nicknamed "The Needle" for his slender physique. He dressed well and put on a show. n.pr/4awIPkH <a href="https://bsky.app/profile/npr.org/post/3maskjwt34d24" target="_blank">npr.org</a> (2025-12-25 19:20:21)</span><span style="padding-right:50px;">【一覧】OTC類似薬 追加負担求める対象77成分の案示す 厚労省 https://news.web.nhk/newsweb/na/na-k10015013511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maskftzome24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 19:18:01)</span>
   </div>
 </div>
 
@@ -32,64 +32,97 @@
 
 ## News Headlines
 
-- Japan to face heavy snow warning for central Japan's Sea of Japan coast
-- China's stock market continues to climb, with Shanghai composite index rising for 7 consecutive trading days
-- SoftBank's top hitter, So Fujiwara, renegotiates contract with estimated 50 million yen increase
-- Honduran presidential election results announced, conservative candidate backed by Trump wins
-- Israeli Prime Minister Netanyahu announces plan to invest 11 billion dollars in domestic military development over the next 10 years
-- 6 people injured in 3-car accident in Fukuoka, including 2 children
+- Japan Earthquake Strikes Southwestern Part of Okayama Prefecture with Magnitude of 3.2
+- Florida Operative Becomes Influential Figure in Trump's Second Term
+- Marty Reisman, 'The Needle,' Remembered for Slender Physique and Fashion Sense
+- Japan's Largest Shopping Center Association Reports 6.2% Increase in Sales
+- Egypt Appoints Interim Swimming Body as Olympic Chief Faces Trial
+- Japan's Economy Sees 45 Consecutive Months of Sales Increase, Largest Shopping Center Association Reports
 
 
 ----
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-北～西日本の日本海側中心 26～27日にかけて大雪おそれ 警戒を
-https://news.web.nhk/newsweb/na/na-k10015013151000
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-25 19:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masjvrbcgd2b)
+震源:岡山県南部, 深さ:10km
+マグニチュード:3.2, 最大震度:1
+📍https://www.google.com/maps?q=34.5,133.5&ll=34.5,133.5&z=7&t=h
+地震発生日時:2025-12-25 19:22頃
+(10倍速▶120s→12s) #地震
 
----
-
-@japan.reuters.com
-
-中国株式市場は続伸。上海総合指数は７営業日続伸となった。航空宇宙株やロボット関連銘柄が好調だった。 bit.ly/49fbsk3
-
-[2025-12-25 19:08:44](https://bsky.app/profile/japan.reuters.com/post/3masjv5xjs427)
+[2025-12-25 19:25:15](https://bsky.app/profile/sokuho.news/post/3maskspuddx2b)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-首位打者 ソフトバンク牧原大成 推定5000万円アップで契約更改
-https://news.web.nhk/newsweb/na/na-k10015013871000
+🔔気象庁より【地震速報】です。
 
-[2025-12-25 19:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masjqh4j2g2d)
+19時22分頃、岡山県・広島県で最大震度1の地震を観測しました。
+震源:岡山県南部, 深さ:10km, 規模:M3.2
+この地震による津波の心配はありません。
+(2025-12-25 19:24:48) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/25/2025-12-25-19-22-02.html?xlarge_image=1
+
+[2025-12-25 19:24:49](https://bsky.app/profile/sokuho.news/post/3maskrxhv5w2z)
 
 ---
 
 @wsj.com
 
-A conservative candidate backed by President Trump was declared the winner of the Honduran presidential election after a protracted vote count marred by glitches and allegations of fraud.
+Florida operative James Blair has become an influential figure in President Trump’s second term.
 
-[2025-12-25 19:05:49](https://bsky.app/profile/wsj.com/post/3masjpxprky2k)
+[2025-12-25 19:22:01](https://bsky.app/profile/wsj.com/post/3maskmwqb7d2o)
 
 ---
 
-@japan.reuters.com
+@npr.org
 
-イスラエルのネタニヤフ首相は２４日、他国への依存を減らすため、独自の軍備開発に今後１０年で３５００億シェケル（約１１００億ドル）を投じると表明した。 bit.ly/4s80F3D
+Marty Reisman was nicknamed "The Needle" for his slender physique. He dressed well and put on a show. n.pr/4awIPkH
 
-[2025-12-25 19:05:13](https://bsky.app/profile/japan.reuters.com/post/3masjoup42427)
+[2025-12-25 19:20:21](https://bsky.app/profile/npr.org/post/3maskjwt34d24)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-福岡 宮若 車3台絡む事故 1人死亡 子ども2人含む6人けが
-https://news.web.nhk/newsweb/na/na-k10015013601000
+【一覧】OTC類似薬 追加負担求める対象77成分の案示す 厚労省
+https://news.web.nhk/newsweb/na/na-k10015013511000
 
-[2025-12-25 19:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masjkzuew32b)
+[2025-12-25 19:18:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maskftzome24)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】25日午後6時現在・高速道路通行止めの可能性がある区間発表 中国地方大雪のおそれ ネクスコ
+(2025-12-25 19:00) #ニュース
+
+❄️降雪量
+🔗https://www.jma.go.jp/bosai/snow/#zoom:5/lat:36.956909/lon:136.526600/colordepth:normal/elements:snowf24h
+
+[2025-12-25 19:17:34](https://bsky.app/profile/sokuho.news/post/3maskey42k72r)
+
+---
+
+@reuters.com
+
+Egypt appoints interim swimming body as its Olympic chief faces trial following boy’s death reut.rs/3NfrHpI
+
+[2025-12-25 19:15:11](https://bsky.app/profile/reuters.com/post/3maskaozsjr2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+赤坂 サウナ店火災 業務上過失致死の疑いで関連会社など捜索
+https://news.web.nhk/newsweb/na/na-k10015013941000
+
+[2025-12-25 19:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maskaj3xdh2u)
 
 ---
 
@@ -97,39 +130,19 @@ https://news.web.nhk/newsweb/na/na-k10015013601000
 
 🛎️JNNより【速報】です。
 
-【速報】東京・赤坂の個室サウナ店火災 夫婦が死亡 運営会社の関連会社に家宅捜索 警視庁
+【速報】東京・赤坂の個室サウナ店で夫婦死亡の火災 運営会社の関連会社に家宅捜索 警視庁
 (2025-12-25 19:00:38) #ニュース
 
-[2025-12-25 19:02:37](https://bsky.app/profile/sokuho.news/post/3masjkaiwlj2b)
+[2025-12-25 19:12:34](https://bsky.app/profile/sokuho.news/post/3mask3zd5fx2r)
 
 ---
 
-@cnn.com
+@nhknewsunofficial.bsky.social
 
-A driver and their passenger wearing Santa and Mrs. Claus costumes were pulled over for speeding, according to a Facebook post on the Fulton County Ohio Sheriff page.
+石川 能登半島地震の災害関連死 死因は「心血管疾患」が最多
+https://news.web.nhk/newsweb/na/na-k10015013931000
 
-[2025-12-25 19:01:01](https://bsky.app/profile/cnn.com/post/3masjhf54wd26)
-
----
-
-@nikkei.com
-
-過去に排出した硫黄、大気や土に残留　名古屋大学などが解明
-www.nikkei.com/article/DGXZQO...
- 
-研究グループが倒れた御神木の年輪に含まれる硫黄を手掛かりに、過去500年間におよぶ大気汚染の状況を分析しました。
- 
-ごく最近まで化石燃料から出た硫黄が多く含まれていました。法規制で硫黄の排出量が減った現代でも、過去に出されたものが大気や土壌に残っている可能性があります。
-
-[2025-12-25 19:00:51](https://bsky.app/profile/nikkei.com/post/3masjh36gwi26)
-
----
-
-@reuters.com
-
-Ukrainian drones hit oil and gas facilities in Russia, SBU official says reut.rs/4qrcZdQ
-
-[2025-12-25 19:00:37](https://bsky.app/profile/reuters.com/post/3masjgnqull2r)
+[2025-12-25 19:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mask354qs62u)
 
 ---
 
