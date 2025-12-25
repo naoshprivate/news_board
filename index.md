@@ -1,9 +1,9 @@
-# [2025-12-25 14:30 updated](2025_12_25.md)
+# [2025-12-25 14:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> AI upheaval shows little sign of lessening ft.trib.al/MQpdGis  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mas2aqwpao2w" target="_blank">financialtimes.com</a> (2025-12-25 14:28:53)</span><span style="padding-right:50px;"> City of London churches offer sublime music in a divine setting ft.trib.al/Q8tP4M0  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mas2aqygmy2w" target="_blank">financialtimes.com</a> (2025-12-25 14:28:53)</span><span style="padding-right:50px;">日銀の植田和男総裁は２５日、ここ数年、企業の賃金・価格設定行動は「大きく変化している」と評価し、賃金上昇を伴う形での２％の物価安定目標の実現が「着実に近づいている」と述べた。賃金の上昇継続とコスト上昇分の販売価格への転嫁の広がりに自信を示し、長らく続いてきた賃金も物価もほとんど変化しない「ゼロノルム」の世界に戻る可能性は「大きく低下している」と語った。 bit.ly/3L7vtB0 <a href="https://bsky.app/profile/japan.reuters.com/post/3marzzijamn2u" target="_blank">japan.reuters.com</a> (2025-12-25 14:24:49)</span><span style="padding-right:50px;">Traffic in Miami is a nightmare, but one real-estate tycoon has a plan: flying taxis that take commuters around South Florida for $200.  🔗: on.wsj.com/3NgVIFC <a href="https://bsky.app/profile/wsj.com/post/3marzxhruv72u" target="_blank">wsj.com</a> (2025-12-25 14:23:41)</span><span style="padding-right:50px;">＜１４：０５＞　後場の日経平均は小動き、植田日銀総裁発言への反応は限定的 bit.ly/4j8YGIc <a href="https://bsky.app/profile/japan.reuters.com/post/3marzrsvcwd2f" target="_blank">japan.reuters.com</a> (2025-12-25 14:20:31)</span>
+<span style="padding-right:50px;">イスラエルのネタニヤフ首相は２４日、他国への依存を減らすため、独自の軍備開発に今後１０年で３５００億シェケル（約１１００億ドル）を投じると表明した。 bit.ly/4pU2iAF <a href="https://bsky.app/profile/japan.reuters.com/post/3mas34mvwki27" target="_blank">japan.reuters.com</a> (2025-12-25 14:44:28)</span><span style="padding-right:50px;">欧州連合（ＥＵ）欧州委員会は２３日、プラスチック類の輸入により厳格な規制を導入すると発表した。中国などからの安価な輸入品に苦しむ欧州のリサイクル工場を支援する。 bit.ly/497IVg7 <a href="https://bsky.app/profile/japan.reuters.com/post/3mas2uysei72c" target="_blank">japan.reuters.com</a> (2025-12-25 14:40:12)</span><span style="padding-right:50px;">🛎️ポストセブンより【スクープ】です。  《本誌スクープで年内活動辞退》「未成年アイドルを深夜自宅呼び出し」SKY-HIは「猛省しております」と回答していた【各テレビ局も検証を求める声】 (2025-12-25 14:35) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mas2smnze32y" target="_blank">sokuho.news</a> (2025-12-25 14:38:52)</span><span style="padding-right:50px;">＜１４：２０＞　ドル155円後半で変わらず、日銀総裁講演に反応薄 bit.ly/49r0Hwe <a href="https://bsky.app/profile/japan.reuters.com/post/3mas2hgxmon2u" target="_blank">japan.reuters.com</a> (2025-12-25 14:32:37)</span><span style="padding-right:50px;">Christmas celebrations muted at Bondi as Australians grieve after deadly shooting reut.rs/4ssHQsi <a href="https://bsky.app/profile/reuters.com/post/3mas2dk63fd2y" target="_blank">reuters.com</a> (2025-12-25 14:30:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50351.10 (🔻99.08 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3370.00 (🔻7.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.71 (🔻0.03 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50350.08 (🔻100.10 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3367.00 (🔻10.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔺0.02 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,15 +32,68 @@
 
 ## News Headlines
 
-- BOJ chief says underlying inflation steadily approaching 2% target
-- Virtually all of the world’s biggest oil traders see the market in a state of oversupply in 2026
-- Australian Prime Minister announces national bravery award to recognize civilians and first responders
-- Toyota Motor reports 11% decline in global sales for November
-- US Department of Justice finds 1 million+ new documents related to Jeffrey Epstein case
-- Japan introduces safety regulations for children's toys, including mandatory PSC mark
+- Israel to Invest $11 Billion in Local Defense Industry Over 10 Years
+- EU to Introduce Stricter Regulations on Plastic Imports
+- BOJ Chief Says Inflation Steadily Approaching 2% Target
+- Nikkei Sees 2025 as Third-Warmest Year on Record
+- Hanwha's Philly Shipyard Can Build Nuclear Submarine for US Navy
+- Virtually All Top Oil Traders See Oversupply in 2026
 
 
 ----
+
+@japan.reuters.com
+
+イスラエルのネタニヤフ首相は２４日、他国への依存を減らすため、独自の軍備開発に今後１０年で３５００億シェケル（約１１００億ドル）を投じると表明した。 bit.ly/4pU2iAF
+
+[2025-12-25 14:44:28](https://bsky.app/profile/japan.reuters.com/post/3mas34mvwki27)
+
+---
+
+@japan.reuters.com
+
+欧州連合（ＥＵ）欧州委員会は２３日、プラスチック類の輸入により厳格な規制を導入すると発表した。中国などからの安価な輸入品に苦しむ欧州のリサイクル工場を支援する。 bit.ly/497IVg7
+
+[2025-12-25 14:40:12](https://bsky.app/profile/japan.reuters.com/post/3mas2uysei72c)
+
+---
+
+@sokuho.news
+
+🛎️ポストセブンより【スクープ】です。
+
+《本誌スクープで年内活動辞退》「未成年アイドルを深夜自宅呼び出し」SKY-HIは「猛省しております」と回答していた【各テレビ局も検証を求める声】
+(2025-12-25 14:35) #ニュース
+
+[2025-12-25 14:38:52](https://bsky.app/profile/sokuho.news/post/3mas2smnze32y)
+
+---
+
+@japan.reuters.com
+
+＜１４：２０＞　ドル155円後半で変わらず、日銀総裁講演に反応薄 bit.ly/49r0Hwe
+
+[2025-12-25 14:32:37](https://bsky.app/profile/japan.reuters.com/post/3mas2hgxmon2u)
+
+---
+
+@reuters.com
+
+Christmas celebrations muted at Bondi as Australians grieve after deadly shooting reut.rs/4ssHQsi
+
+[2025-12-25 14:30:26](https://bsky.app/profile/reuters.com/post/3mas2dk63fd2y)
+
+---
+
+@apnews.com
+
+Ten teams are in the NFL playoffs. Eight more are battling for the final four spots. The playoff picture will become more clear in Week 17.
+
+Pro Picks aims to continue a hot streak:
+
+[2025-12-25 14:30:08](https://bsky.app/profile/apnews.com/post/3mas2cz3gb723)
+
+---
 
 @financialtimes.com
 
@@ -73,57 +126,6 @@ Traffic in Miami is a nightmare, but one real-estate tycoon has a plan: flying t
 🔗: on.wsj.com/3NgVIFC
 
 [2025-12-25 14:23:41](https://bsky.app/profile/wsj.com/post/3marzxhruv72u)
-
----
-
-@japan.reuters.com
-
-＜１４：０５＞　後場の日経平均は小動き、植田日銀総裁発言への反応は限定的 bit.ly/4j8YGIc
-
-[2025-12-25 14:20:31](https://bsky.app/profile/japan.reuters.com/post/3marzrsvcwd2f)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】関西電力の原発運転差し止め訴訟 滋賀県などの住民らの訴え棄却 大津地裁
-(2025年12月25日 14:17) #ニュース
-
-[2025-12-25 14:17:40](https://bsky.app/profile/sokuho.news/post/3marzmpkt3l27)
-
----
-
-@japan.reuters.com
-
-上海外国為替市場の人民元相場は対米ドルで約１年３カ月ぶりの高値を付け、節目となる１ドル＝７元の水準に迫った。輸出企業による年末の保有ドルの元への交換需要や来年のドル安・元高見通しに支援されている。 bit.ly/3LjlLeO
-
-[2025-12-25 14:15:12](https://bsky.app/profile/japan.reuters.com/post/3marzicbfu72q)
-
----
-
-@cnbc.com
-
-Monetizers vs manufactures: How the AI market could splinter in 2026
-
-[2025-12-25 14:13:00](https://bsky.app/profile/cnbc.com/post/3marzedvcwx2x)
-
----
-
-@reuters.com
-
-BOJ chief says underlying inflation steadily approaching 2% target reut.rs/49x8qYH
-
-[2025-12-25 14:10:10](https://bsky.app/profile/reuters.com/post/3marz7c4yp52s)
-
----
-
-@japan.reuters.com
-
-前場の中国株式市場は続伸。上海総合指数は１カ月超ぶりの高値を付けた。この基調を維持すれば７営業日続伸となる。香港市場は休場。 bit.ly/4b3JwBZ
-
-[2025-12-25 14:08:40](https://bsky.app/profile/japan.reuters.com/post/3marz4mtvfq2c)
 
 ---
 
