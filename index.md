@@ -1,9 +1,9 @@
-# [2025-12-26 00:10 updated](2025_12_26.md)
+# [2025-12-26 00:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">UK police search for two men missing off southwest England coast reut.rs/44FXKVV <a href="https://bsky.app/profile/reuters.com/post/3mat2h5675x2o" target="_blank">reuters.com</a> (2025-12-26 00:05:06)</span><span style="padding-right:50px;">When a family of four wanted to expand their historic Seattle home without changing its footprint, designer Lisa Staton transformed the underutilized square footage over their heads. on.wsj.com/499GuJQ <a href="https://bsky.app/profile/wsj.com/post/3mat2gg6we32u" target="_blank">wsj.com</a> (2025-12-26 00:04:42)</span><span style="padding-right:50px;">More than 300 people dressed in Santa costumes hit the slopes at Sunday River in Newry, Maine for the resort’s 25th annual Santa Sunday fundraiser.  This year’s event raised $10,000 for two nonprofit organizations: the Boyne Forever Foundation and The River Fund Maine, according to the resort. <a href="https://bsky.app/profile/washingtonpost.com/post/3mat2bwqxqs24" target="_blank">washingtonpost.com</a> (2025-12-26 00:02:12)</span><span style="padding-right:50px;">Forest great Robertson, 'Picasso of our game', dies at 72 reut.rs/49srQig <a href="https://bsky.app/profile/reuters.com/post/3mat2a2zsph2o" target="_blank">reuters.com</a> (2025-12-26 00:01:09)</span><span style="padding-right:50px;">A traffic stop outside of Baltimore ended with an undocumented man shot and another injured after ICE agents allege the driver of a van drove directly at officers, prompting them to open fire.  <a href="https://bsky.app/profile/cnn.com/post/3mat27uu6hf2c" target="_blank">cnn.com</a> (2025-12-26 00:01:03)</span>
+<span style="padding-right:50px;">King Charles III urges courage and reconciliation in a divided and uncertain world in Christmas message https://cnn.it/4az08la <a href="https://bsky.app/profile/cnn.com/post/3mat3lcnjcl2x" target="_blank">cnn.com</a> (2025-12-26 00:25:20)</span><span style="padding-right:50px;">Syria to start currency swap on January 1, central bank governor says reut.rs/4quiQPy <a href="https://bsky.app/profile/reuters.com/post/3mat3ky5qtz24" target="_blank">reuters.com</a> (2025-12-26 00:25:09)</span><span style="padding-right:50px;">The Trump administration’s efforts to rewrite the rules of public health have created a new kind of influencer: Doctors taking to social media to combat misinformation. <a href="https://bsky.app/profile/wsj.com/post/3mat3ghk67r2o" target="_blank">wsj.com</a> (2025-12-26 00:22:37)</span><span style="padding-right:50px;">Can a kind word change your life? I know from experience that it can, writes FT columnist Tim Harford. on.ft.com/48Ilqdd <a href="https://bsky.app/profile/financialtimes.com/post/3mat3fh3btj2w" target="_blank">financialtimes.com</a> (2025-12-26 00:22:04)</span><span style="padding-right:50px;">Britain's King Charles lauds unity in diversity in his Christmas message reut.rs/3L2dhsw <a href="https://bsky.app/profile/reuters.com/post/3mat2q7jeo42k" target="_blank">reuters.com</a> (2025-12-26 00:10:11)</span>
   </div>
 </div>
 
@@ -32,15 +32,74 @@
 
 ## News Headlines
 
-- UK Police Search for Two Men Missing Off Southwest England Coast
-- Seattle Family Expands Historic Home Without Changing Footprint
-- Santa Sunday Fundraiser at Maine Ski Resort Raises $10,000
-- Forest Robertson, Renowned Forest Ecologist, Dies at 72
-- ICE Agents Open Fire, Injure Undocumented Man and Another in Traffic Stop
-- Five Die in Helicopter Crash on Africa's Highest Mountain, Mount Kilimanjaro
+- King Charles Urges Courage and Reconciliation in Christmas Message
+- Syria to Start Currency Swap on January 1
+- Doctors Become Social Media Influencers to Combat Misinformation
+- UK Police Search for Two Missing Men off Southwest England Coast
+- Designer Transforms Historic Seattle Home Without Altering Footprint
+- Pope Urges Dialogue to Silence World's Conflicts on Christmas Day
 
 
 ----
+
+@cnn.com
+
+King Charles III urges courage and reconciliation in a divided and uncertain world in Christmas message https://cnn.it/4az08la
+
+[2025-12-26 00:25:20](https://bsky.app/profile/cnn.com/post/3mat3lcnjcl2x)
+
+---
+
+@reuters.com
+
+Syria to start currency swap on January 1, central bank governor says reut.rs/4quiQPy
+
+[2025-12-26 00:25:09](https://bsky.app/profile/reuters.com/post/3mat3ky5qtz24)
+
+---
+
+@wsj.com
+
+The Trump administration’s efforts to rewrite the rules of public health have created a new kind of influencer: Doctors taking to social media to combat misinformation.
+
+[2025-12-26 00:22:37](https://bsky.app/profile/wsj.com/post/3mat3ghk67r2o)
+
+---
+
+@financialtimes.com
+
+Can a kind word change your life? I know from experience that it can, writes FT columnist Tim Harford. on.ft.com/48Ilqdd
+
+[2025-12-26 00:22:04](https://bsky.app/profile/financialtimes.com/post/3mat3fh3btj2w)
+
+---
+
+@reuters.com
+
+Britain's King Charles lauds unity in diversity in his Christmas message reut.rs/3L2dhsw
+
+[2025-12-26 00:10:11](https://bsky.app/profile/reuters.com/post/3mat2q7jeo42k)
+
+---
+
+@forbes.com
+
+In a Truth Social post wishing Americans “Merry Christmas,” the president focused on attacking rivals and critics he labeled “Radical Left Scum.” 
+
+[2025-12-26 00:10:05](https://bsky.app/profile/forbes.com/post/3mat2pzvfyv2f)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】小学6年の女児ひき逃げの疑いで65歳男を逮捕 神戸・東灘区 女児は軽傷「大丈夫と言われ鵜呑みに」男供述 警察「自分で判断せず必ず届け出を」呼び掛け
+(2025-12-25 23:52) #ニュース
+
+[2025-12-26 00:09:52](https://bsky.app/profile/sokuho.news/post/3mat2pnulxv2r)
+
+---
 
 @reuters.com
 
@@ -65,62 +124,6 @@ More than 300 people dressed in Santa costumes hit the slopes at Sunday River in
 This year’s event raised $10,000 for two nonprofit organizations: the Boyne Forever Foundation and The River Fund Maine, according to the resort.
 
 [2025-12-26 00:02:12](https://bsky.app/profile/washingtonpost.com/post/3mat2bwqxqs24)
-
----
-
-@reuters.com
-
-Forest great Robertson, 'Picasso of our game', dies at 72 reut.rs/49srQig
-
-[2025-12-26 00:01:09](https://bsky.app/profile/reuters.com/post/3mat2a2zsph2o)
-
----
-
-@cnn.com
-
-A traffic stop outside of Baltimore ended with an undocumented man shot and another injured after ICE agents allege the driver of a van drove directly at officers, prompting them to open fire. 
-
-[2025-12-26 00:01:03](https://bsky.app/profile/cnn.com/post/3mat27uu6hf2c)
-
----
-
-@usatoday.com
-
-Mallory Millett and her family have hosted a gingerbread house making competition for the past five years. See their masterpieces from this year.
-
-[2025-12-26 00:00:39](https://bsky.app/profile/usatoday.com/post/3mat275z7wt2o)
-
----
-
-@cnbc.com
-
-Damola Adamolekun became a chief executive at 31, and says his approach to his weaknesses and having strong people skills helped him succeed. 
-
-[2025-12-26 00:00:33](https://bsky.app/profile/cnbc.com/post/3mat26xyhbm24)
-
----
-
-@apnews.com
-
-Pope Leo XIV during his first Christmas Day homily remembered the people of Gaza “exposed for weeks to rain, wind and cold” and said the world’s many conflicts can only be silenced through dialogue. Leo led the Christmas Day Mass from the central altar beneath the balustrade of St. Peter’s Basilica.
-
-[2025-12-26 00:00:26](https://bsky.app/profile/apnews.com/post/3mat26rmnpf2q)
-
----
-
-@bloomberg.com
-
-🧠 Can you crack today’s Alphadots faster than yesterday? Try now: 
-
-[2025-12-26 00:00:07](https://bsky.app/profile/bloomberg.com/post/3mat267ltle2w)
-
----
-
-@financialtimes.com
-
-'At rush hour on the London Overground recently, I came to a stark conclusion: there are two types of men…  those with bags they’d given some thought to and — this was the dividing line — those who clearly didn’t care what they carried to work' on.ft.com/3MnIRBm
-
-[2025-12-26 00:00:04](https://bsky.app/profile/financialtimes.com/post/3mat264ptp52p)
 
 ---
 
