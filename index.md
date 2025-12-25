@@ -1,9 +1,9 @@
-# [2025-12-26 07:50 updated](2025_12_26.md)
+# [2025-12-26 08:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">アクアライン渋滞、時間帯別1200円差で効果 www.nikkei.com/article/DGXZQO...  東京・神奈川に向かう上り線は土日・祝日の午後2〜3時ごろから交通量が増加。  時速10キロメートル以下の渋滞も珍しくありません。  混雑時間帯の料金を通常の2倍の1600円、夜中を400円としたところ、交通量分散に一定の効果がみられました。 <a href="https://bsky.app/profile/nikkei.com/post/3matuagrjt32n" target="_blank">nikkei.com</a> (2025-12-26 07:46:39)</span><span style="padding-right:50px;">A legendary math professor is leaving academia—and joining an AI startup run by a 24-year-old on.wsj.com/499PZsP <a href="https://bsky.app/profile/wsj.com/post/3matu6mmlf62c" target="_blank">wsj.com</a> (2025-12-26 07:45:38)</span><span style="padding-right:50px;">Hundreds of new Christmas songs are released every year, but each time December rolls around, the same small handful of classics races to the top of the charts. Will anything new ever break through? <a href="https://bsky.app/profile/npr.org/post/3matu6hq7kh24" target="_blank">npr.org</a> (2025-12-26 07:45:33)</span><span style="padding-right:50px;">Reports: A's sign LF/1B Tyler Soderstrom to 7-year extension reut.rs/3YJJo3j <a href="https://bsky.app/profile/reuters.com/post/3mattuvwlxv2c" target="_blank">reuters.com</a> (2025-12-26 07:40:12)</span><span style="padding-right:50px;">North Korean leader Kim Jong Un signaled the country will continue to develop missiles in the next five years as he visited major munitions enterprises in the last quarter of 2025, state media KCNA said reut.rs/3MUkStE <a href="https://bsky.app/profile/reuters.com/post/3mattlig7ac2z" target="_blank">reuters.com</a> (2025-12-26 07:34:56)</span>
+<span style="padding-right:50px;">The deaths of some pilots and crew members are being blamed on serious illnesses they developed after their exposures to toxic fumes while working aboard planes on.wsj.com/4pQMDSp <a href="https://bsky.app/profile/wsj.com/post/3matvgrsshe2c" target="_blank">wsj.com</a> (2025-12-26 08:08:06)</span><span style="padding-right:50px;">ウクライナは、英国製の長距離巡航ミサイル「ストームシャドー」とウクライナ製の長距離無人機（ドローン）を発射し、ロシアの石油・ガス施設数カ所を攻撃した。ウクライナ軍と治安当局が２５日に発表した。 bit.ly/4pUzJTH <a href="https://bsky.app/profile/japan.reuters.com/post/3matvgqltll2q" target="_blank">japan.reuters.com</a> (2025-12-26 08:08:04)</span><span style="padding-right:50px;">北朝鮮の金正恩朝鮮労働党総書記は、今後５年にわたってミサイル開発を継続することを示唆したと、国営メディア朝鮮中央通信（ＫＣＮＡ）が２６日に伝えた。金氏は今年第４・四半期に複数の主要な軍需企業を訪問したという。 bit.ly/3MVbgik <a href="https://bsky.app/profile/japan.reuters.com/post/3matveu4a4727" target="_blank">japan.reuters.com</a> (2025-12-26 08:07:01)</span><span style="padding-right:50px;">＜０７：５０＞　ドル155.30─156.50円の見通し、薄商い続く　上攻め限定的 bit.ly/3Lbr67T <a href="https://bsky.app/profile/japan.reuters.com/post/3matv53gm5r2s" target="_blank">japan.reuters.com</a> (2025-12-26 08:02:40)</span><span style="padding-right:50px;">A growing volume of AI-generated images and recipes meant to look like genuine food blogs have permeated social media sites like Facebook and Pinterest. https://cnn.it/3KPT5Kq <a href="https://bsky.app/profile/cnn.com/post/3matv25g6n42v" target="_blank">cnn.com</a> (2025-12-26 08:01:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔺0.12 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.00 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,100 +32,101 @@
 
 ## News Headlines
 
-- Aquiline Congestion, Peak Hour Fares Double to 1200 Yen
-- Legendary Math Professor Leaves Academia for AI Startup
-- North Korea's Kim Jong Un Signals Continued Missile Development
-- Israeli Military Kills Iranian Revolutionary Guard Members in Lebanon
-- Families Celebrate Christmas in Gaza, Demand Full Freedom for Detainees
-- Apple to Allow Alternative App Stores on iPhones and iPads
+- Pilots and crew members die from toxic fumes on planes
+- Ukraine fires missiles and drones at Russian oil and gas facilities
+- North Korea signals continued missile development
+- Global AI-generated images flood social media
+- Gen Zers save for retirement more aggressively than previous generations
+- US President Donald Trump criticized by Jimmy Kimmel in Christmas message
 
 
 ----
 
-@nikkei.com
-
-アクアライン渋滞、時間帯別1200円差で効果
-www.nikkei.com/article/DGXZQO...
-
-東京・神奈川に向かう上り線は土日・祝日の午後2〜3時ごろから交通量が増加。
-
-時速10キロメートル以下の渋滞も珍しくありません。
-
-混雑時間帯の料金を通常の2倍の1600円、夜中を400円としたところ、交通量分散に一定の効果がみられました。
-
-[2025-12-26 07:46:39](https://bsky.app/profile/nikkei.com/post/3matuagrjt32n)
-
----
-
 @wsj.com
 
-A legendary math professor is leaving academia—and joining an AI startup run by a 24-year-old on.wsj.com/499PZsP
+The deaths of some pilots and crew members are being blamed on serious illnesses they developed after their exposures to toxic fumes while working aboard planes on.wsj.com/4pQMDSp
 
-[2025-12-26 07:45:38](https://bsky.app/profile/wsj.com/post/3matu6mmlf62c)
-
----
-
-@npr.org
-
-Hundreds of new Christmas songs are released every year, but each time December rolls around, the same small handful of classics races to the top of the charts. Will anything new ever break through?
-
-[2025-12-26 07:45:33](https://bsky.app/profile/npr.org/post/3matu6hq7kh24)
-
----
-
-@reuters.com
-
-Reports: A's sign LF/1B Tyler Soderstrom to 7-year extension reut.rs/3YJJo3j
-
-[2025-12-26 07:40:12](https://bsky.app/profile/reuters.com/post/3mattuvwlxv2c)
-
----
-
-@reuters.com
-
-North Korean leader Kim Jong Un signaled the country will continue to develop missiles in the next five years as he visited major munitions enterprises in the last quarter of 2025, state media KCNA said reut.rs/3MUkStE
-
-[2025-12-26 07:34:56](https://bsky.app/profile/reuters.com/post/3mattlig7ac2z)
+[2025-12-26 08:08:06](https://bsky.app/profile/wsj.com/post/3matvgrsshe2c)
 
 ---
 
 @japan.reuters.com
 
-イスラエル軍は２５日、シリアとレバノンからの攻撃計画に関与していたイラン革命防衛隊の精鋭「コッズ部隊」のメンバーをレバノンで殺害したと発表した。 bit.ly/4jdlxmb
+ウクライナは、英国製の長距離巡航ミサイル「ストームシャドー」とウクライナ製の長距離無人機（ドローン）を発射し、ロシアの石油・ガス施設数カ所を攻撃した。ウクライナ軍と治安当局が２５日に発表した。 bit.ly/4pUzJTH
 
-[2025-12-26 07:32:48](https://bsky.app/profile/japan.reuters.com/post/3matthoht2s2n)
+[2025-12-26 08:08:04](https://bsky.app/profile/japan.reuters.com/post/3matvgqltll2q)
+
+---
+
+@japan.reuters.com
+
+北朝鮮の金正恩朝鮮労働党総書記は、今後５年にわたってミサイル開発を継続することを示唆したと、国営メディア朝鮮中央通信（ＫＣＮＡ）が２６日に伝えた。金氏は今年第４・四半期に複数の主要な軍需企業を訪問したという。 bit.ly/3MVbgik
+
+[2025-12-26 08:07:01](https://bsky.app/profile/japan.reuters.com/post/3matveu4a4727)
+
+---
+
+@japan.reuters.com
+
+＜０７：５０＞　ドル155.30─156.50円の見通し、薄商い続く　上攻め限定的 bit.ly/3Lbr67T
+
+[2025-12-26 08:02:40](https://bsky.app/profile/japan.reuters.com/post/3matv53gm5r2s)
+
+---
+
+@cnn.com
+
+A growing volume of AI-generated images and recipes meant to look like genuine food blogs have permeated social media sites like Facebook and Pinterest. https://cnn.it/3KPT5Kq
+
+[2025-12-26 08:01:02](https://bsky.app/profile/cnn.com/post/3matv25g6n42v)
+
+---
+
+@cnbc.com
+
+Gen Zers are saving for retirement earlier, and more aggressively, than the generations before them.
+
+[2025-12-26 08:01:02](https://bsky.app/profile/cnbc.com/post/3matv25opmj2x)
+
+---
+
+@nikkei.com
+
+【メモリー高騰がPC値上げ呼ぶ】
+マウスコンピューターは26年から、シャープ傘下のダイナブックも値上げ検討
+www.nikkei.com/article/DGXZQO...
+
+半導体メモリーは記録的な値上がりが続いています。
+
+DRAMは12月25日時点で、指標品となるDDR4型の8ギガビット品のスポット価格が14.1ドル前後と、2024年末の9.86倍に。
+
+シャープ傘下のダイナブックはDRAMの値上がりについて「経営努力で補える範囲を超えている」と説明します。
+
+[2025-12-26 08:00:49](https://bsky.app/profile/nikkei.com/post/3matuzrjtr72x)
 
 ---
 
 @usatoday.com
 
-There are just two weeks of regular season games left in the NFL season. Here's a look at how the draft order shakes out before Week 17.
+Is Target open or closed on Christmas Day 2025? Here's what to know
 
-[2025-12-26 07:30:22](https://bsky.app/profile/usatoday.com/post/3mattdcyfpf2o)
-
----
-
-@aljazeera.com
-
-Families celebrate Christmas releases while calling for full freedom of detainees.
-
-[2025-12-26 07:30:03](https://bsky.app/profile/aljazeera.com/post/3mattcqzagh2v)
+[2025-12-26 08:00:41](https://bsky.app/profile/usatoday.com/post/3matuzjnbnq2z)
 
 ---
 
-@nytimes.com
+@bloomberg.com
 
-For 11 months, Haitham Salem, an electrician from northern Gaza, languished in Israeli prisons and a detention facility without charge, enduring harsh conditions and, by his account, violent abuse. He was released as part of the cease-fire deal, but his suffering only intensified when he returned.
+Our Pulitzer Prize-winning series explores how urban design and architecture affect parents and kids. 
 
-[2025-12-26 07:30:03](https://bsky.app/profile/nytimes.com/post/3mattcqmlp52y)
+[2025-12-26 08:00:13](https://bsky.app/profile/bloomberg.com/post/3matuyoo4wr2d)
 
 ---
 
-@en.afp.com
+@washingtonpost.com
 
-How people marked Christmas around the world: A Christmas plunge in Barcelona, Spain 📷@joseplagophoto  Candle-lighting in Surabaya, Indonesia 📷 Juni Kriswanto  Serving meals to the homeless in Boston, United States 📷 @preziosonews Laughing with Santa in Bulawayo, Zimbabwe 📷 @zinyange.auntony
+In New Orleans, where there is a sizeable Honduran population, Latino-owned businesses have locked their doors, and some immigrants are sleeping at work because they fear being stopped by federal officers on their way home.
 
-[2025-12-26 07:22:30](https://bsky.app/profile/en.afp.com/post/3matsvazo3a2s)
+[2025-12-26 08:00:10](https://bsky.app/profile/washingtonpost.com/post/3matuym4otb2e)
 
 ---
 
