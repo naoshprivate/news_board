@@ -1,9 +1,9 @@
-# [2025-12-25 20:50 updated](2025_12_25.md)
+# [2025-12-25 21:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Pope Leo urges 'courage' to end Ukraine war in first Christmas address <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3masphjuttw25" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-25 20:48:28)</span><span style="padding-right:50px;">災害関連死 審査してもらえず“埋もれる”おそれ https://news.web.nhk/newsweb/na/na-k10015012381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maspgshtfa24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 20:48:02)</span><span style="padding-right:50px;">中国情報通信技術研究院が２５日発表したデータによると、中国での１１月の海外ブランド携帯電話の出荷台数は前年同月比１２８．４％増の６９３万台となった。 bit.ly/4jjGMCY <a href="https://bsky.app/profile/japan.reuters.com/post/3maspbnahxv2v" target="_blank">japan.reuters.com</a> (2025-12-25 20:45:11)</span><span style="padding-right:50px;">Pope Leo XIV surprised the rain-soaked faithful in St. Peter’s Square on Wednesday night with an apology, delivered in both English and Italian, to those who were unable to get inside the basilica for the pontiff’s first Christmas Eve Mass. <a href="https://bsky.app/profile/nytimes.com/post/3maspbeesqi2x" target="_blank">nytimes.com</a> (2025-12-25 20:45:02)</span><span style="padding-right:50px;">スピードスケート 全日本選手権あす開幕へ https://news.web.nhk/newsweb/na/na-k10015013961000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maspbh2wqn2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 20:45:02)</span>
+<span style="padding-right:50px;">新潟 中央区 マンションで火災 1人が病院搬送 https://news.web.nhk/newsweb/na/na-k10015013971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqmeapqu2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 21:09:02)</span><span style="padding-right:50px;">サッカー天皇杯 2027年元日に決勝 6大会ぶり元日の頂上決戦 https://news.web.nhk/newsweb/na/na-k10015014061000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqh5uw6j24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 21:06:08)</span><span style="padding-right:50px;">【広島】お米券など食料品支援 自治体は https://news.web.nhk/newsweb/na/na-k10015014051000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqgykxqr2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 21:06:02)</span><span style="padding-right:50px;">LIVE: British royals attend traditional Christmas service www.youtube.com/live/xvSzS2r... <a href="https://bsky.app/profile/reuters.com/post/3masqcbuvpc2g" target="_blank">reuters.com</a> (2025-12-25 21:03:26)</span><span style="padding-right:50px;">政府 女性特有の健康課題 会議立ち上げ支援体制など検討へ https://news.web.nhk/newsweb/na/na-k10015014071000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqbrofyj2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 21:03:07)</span>
   </div>
 </div>
 
@@ -32,97 +32,107 @@
 
 ## News Headlines
 
-- Pope Leo XIV Urges 'Courage' to End Ukraine War in First Christmas Address
-- China Sees Surge in Sales of Overseas-Branded Smartphones in November
-- Researchers Find Warm Bond with Sibling Predicts Good Emotional Health Later in Life
-- Powerball Winner in Arkansas Chooses $834.9 Million Cash Option
-- Goldman Sachs' Private-Lending Arm Continues to Clean Up Bad Loans
-- Poland Intercepts Russian Plane Over Baltic Sea
+- Fire breaks out in a condominium in Niigata's Chuo-ku, one person taken to the hospital
+- Japan to host 2027 Emperor's Cup final on New Year's Day for the first time in 6 years
+- Miyagi prefecture to provide food support including rice coupons to residents
+- Pope Leo XIV calls for courage to end Ukraine war in first Christmas address
+- Japanese government to consider setting up a system to support women's health issues
+- New head of the Imperial Household Agency, Kuroda Takeru, holds a press conference
 
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@nhknewsunofficial.bsky.social
 
-Pope Leo urges 'courage' to end Ukraine war in first Christmas address
+新潟 中央区 マンションで火災 1人が病院搬送
+https://news.web.nhk/newsweb/na/na-k10015013971000
 
-[2025-12-25 20:48:28](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3masphjuttw25)
+[2025-12-25 21:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqmeapqu2x)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-災害関連死 審査してもらえず“埋もれる”おそれ
-https://news.web.nhk/newsweb/na/na-k10015012381000
+サッカー天皇杯 2027年元日に決勝 6大会ぶり元日の頂上決戦
+https://news.web.nhk/newsweb/na/na-k10015014061000
 
-[2025-12-25 20:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maspgshtfa24)
-
----
-
-@japan.reuters.com
-
-中国情報通信技術研究院が２５日発表したデータによると、中国での１１月の海外ブランド携帯電話の出荷台数は前年同月比１２８．４％増の６９３万台となった。 bit.ly/4jjGMCY
-
-[2025-12-25 20:45:11](https://bsky.app/profile/japan.reuters.com/post/3maspbnahxv2v)
-
----
-
-@nytimes.com
-
-Pope Leo XIV surprised the rain-soaked faithful in St. Peter’s Square on Wednesday night with an apology, delivered in both English and Italian, to those who were unable to get inside the basilica for the pontiff’s first Christmas Eve Mass.
-
-[2025-12-25 20:45:02](https://bsky.app/profile/nytimes.com/post/3maspbeesqi2x)
+[2025-12-25 21:06:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqh5uw6j24)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-スピードスケート 全日本選手権あす開幕へ
-https://news.web.nhk/newsweb/na/na-k10015013961000
+【広島】お米券など食料品支援 自治体は
+https://news.web.nhk/newsweb/na/na-k10015014051000
 
-[2025-12-25 20:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maspbh2wqn2l)
+[2025-12-25 21:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqgykxqr2d)
 
 ---
 
-@cbsnews.com
+@reuters.com
 
-Facing high home heating bills this winter? These tips can help you save money.
+LIVE: British royals attend traditional Christmas service
+www.youtube.com/live/xvSzS2r...
 
-[2025-12-25 20:45:01](https://bsky.app/profile/cbsnews.com/post/3maspbdgny72f)
+[2025-12-25 21:03:26](https://bsky.app/profile/reuters.com/post/3masqcbuvpc2g)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【兵庫】お米券など食料品支援 自治体は
-https://news.web.nhk/newsweb/na/na-k10015013631000
+政府 女性特有の健康課題 会議立ち上げ支援体制など検討へ
+https://news.web.nhk/newsweb/na/na-k10015014071000
 
-[2025-12-25 20:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masp42zb5i24)
+[2025-12-25 21:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqbrofyj2v)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+宮内庁 黒田武一郎 新長官が会見
+https://news.web.nhk/newsweb/na/na-k10015014041000
+
+[2025-12-25 21:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqbmx65d22)
 
 ---
 
 @wsj.com
 
-Lots of people want to invest insurance money these days. Nobody does it quite like Warren Buffett.
+The all-star collective, initially assembled to mark the 85th anniversary of Blue Note Records, honors the legacy of the label and the genre while remaining vibrantly contemporary. on.wsj.com/48UF739
 
-[2025-12-25 20:36:28](https://bsky.app/profile/wsj.com/post/3masos2txqb2u)
+[2025-12-25 21:02:30](https://bsky.app/profile/wsj.com/post/3masqamg43l2k)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@usatoday.com
 
-高市首相 維新 吉村代表と会談 「副首都」構想実現へ連携確認
-https://news.web.nhk/newsweb/na/na-k10015014081000
+What's open and closed on Christmas Day 2025? Here's what to know
 
-[2025-12-25 20:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masore2oep2v)
+[2025-12-25 21:00:53](https://bsky.app/profile/usatoday.com/post/3masq5q2caj2l)
+
+---
+
+@nikkei.com
+
+【ミャクミャクに続け】
+横浜園芸博「トゥンクトゥンク」、販売ノウハウ継承
+www.nikkei.com/article/DGXZQO...
+
+はるか宇宙の彼方から、地球に憧れてやってきた好奇心いっぱいの精霊――。名前の由来は「人といろんな命が共鳴」する様だといいます。
+
+ライセンス事務局はミャクミャクと同じ企業で構成し、商品展開を見据えて準備を進めます。
+
+サンリオとのコラボ商品は発売初日に、売り場のある丸善・丸の内本店の前に200人以上が列に。「万博ロス」を感じる人たちの心に刺さっています。
+
+[2025-12-25 21:00:51](https://bsky.app/profile/nikkei.com/post/3masq5nbew72i)
 
 ---
 
 @japan.reuters.com
 
-香港の投資ファンド、オアシス・マネジメントが、カカクコム 株を５．２３％保有していることが分かった。２５日、関東財務局に大量保有報告書を提出した。保有目的は「ポートフォリオ投資および重要提案行為」としている。報告義務発生日は１８日。 bit.ly/4peNJ9w
+旧村上ファンド系の投資会社、シティインデックスイレブンス（東京都渋谷区）が共同保有者との合計でディー・エヌ・エー株の保有比率を６．２４％に引き上げたことが、２５日提出の変更報告書で分かった。前回報告では５．２２％だった。報告義務発生日は１８日。 bit.ly/4pT6kZN
 
-[2025-12-25 20:35:08](https://bsky.app/profile/japan.reuters.com/post/3masopnsevm2c)
+[2025-12-25 21:00:40](https://bsky.app/profile/japan.reuters.com/post/3masq5cwc6k2q)
 
 ---
 
