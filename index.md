@@ -1,9 +1,9 @@
-# [2025-12-25 14:50 updated](2025_12_25.md)
+# [2025-12-25 15:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">イスラエルのネタニヤフ首相は２４日、他国への依存を減らすため、独自の軍備開発に今後１０年で３５００億シェケル（約１１００億ドル）を投じると表明した。 bit.ly/4pU2iAF <a href="https://bsky.app/profile/japan.reuters.com/post/3mas34mvwki27" target="_blank">japan.reuters.com</a> (2025-12-25 14:44:28)</span><span style="padding-right:50px;">欧州連合（ＥＵ）欧州委員会は２３日、プラスチック類の輸入により厳格な規制を導入すると発表した。中国などからの安価な輸入品に苦しむ欧州のリサイクル工場を支援する。 bit.ly/497IVg7 <a href="https://bsky.app/profile/japan.reuters.com/post/3mas2uysei72c" target="_blank">japan.reuters.com</a> (2025-12-25 14:40:12)</span><span style="padding-right:50px;">🛎️ポストセブンより【スクープ】です。  《本誌スクープで年内活動辞退》「未成年アイドルを深夜自宅呼び出し」SKY-HIは「猛省しております」と回答していた【各テレビ局も検証を求める声】 (2025-12-25 14:35) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mas2smnze32y" target="_blank">sokuho.news</a> (2025-12-25 14:38:52)</span><span style="padding-right:50px;">＜１４：２０＞　ドル155円後半で変わらず、日銀総裁講演に反応薄 bit.ly/49r0Hwe <a href="https://bsky.app/profile/japan.reuters.com/post/3mas2hgxmon2u" target="_blank">japan.reuters.com</a> (2025-12-25 14:32:37)</span><span style="padding-right:50px;">Christmas celebrations muted at Bondi as Australians grieve after deadly shooting reut.rs/4ssHQsi <a href="https://bsky.app/profile/reuters.com/post/3mas2dk63fd2y" target="_blank">reuters.com</a> (2025-12-25 14:30:26)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】悠仁さま1月1日皇居での「新年祝賀の儀」に初めて出席へ 9月に成年式を終え (2025-12-25 15:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mas4ih434625" target="_blank">sokuho.news</a> (2025-12-25 15:08:58)</span><span style="padding-right:50px;">日銀 植田総裁 “今後も経済状況見ながら利上げ検討していく” https://news.web.nhk/newsweb/na/na-k10015013501000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas4dbe26q2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 15:06:03)</span><span style="padding-right:50px;">Saudi Arabia says Yemen group should withdraw its forces from seized provinces reut.rs/3MTOG9M <a href="https://bsky.app/profile/reuters.com/post/3mas4bmcjhr2r" target="_blank">reuters.com</a> (2025-12-25 15:05:09)</span><span style="padding-right:50px;">JUST IN: A winning ticket for Powerball's $1.8 billion jackpot was sold in Arkansas, the largest prize this year. <a href="https://bsky.app/profile/nbcnews.com/post/3mas45dizpy2x" target="_blank">nbcnews.com</a> (2025-12-25 15:02:45)</span><span style="padding-right:50px;">A grand jury has declined to indict the father of two Kentucky State University students who was charged with murder in an on-campus shooting that killed one student and critically injured another.  <a href="https://bsky.app/profile/cnn.com/post/3mas42a753723" target="_blank">cnn.com</a> (2025-12-25 15:01:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50350.08 (🔻100.10 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3367.00 (🔻10.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔺0.02 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50372.14 (🔻78.04 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3372.00 (🔻5.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.75 (🔺0.01 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,100 +32,102 @@
 
 ## News Headlines
 
-- Israel to Invest $11 Billion in Local Defense Industry Over 10 Years
-- EU to Introduce Stricter Regulations on Plastic Imports
-- BOJ Chief Says Inflation Steadily Approaching 2% Target
-- Nikkei Sees 2025 as Third-Warmest Year on Record
-- Hanwha's Philly Shipyard Can Build Nuclear Submarine for US Navy
-- Virtually All Top Oil Traders See Oversupply in 2026
+- Japan's BOJ Chief Sees Steady Progress Toward 2% Inflation Target
+- Winning Powerball Ticket Sold in Arkansas Worth $1.817 Billion
+- BOJ Chief Says Underlying Inflation Steadily Approaching 2% Target
+- Japan's BOJ Chief Says Economic Situation to be Monitored for Rate Hike
+- Taiwan's Exports Rise 7.1% in November, Outpacing Analysts' Forecast
+- TikTok Shopping Habits Shift from Budget to Luxury Brands
 
 
 ----
 
-@japan.reuters.com
-
-イスラエルのネタニヤフ首相は２４日、他国への依存を減らすため、独自の軍備開発に今後１０年で３５００億シェケル（約１１００億ドル）を投じると表明した。 bit.ly/4pU2iAF
-
-[2025-12-25 14:44:28](https://bsky.app/profile/japan.reuters.com/post/3mas34mvwki27)
-
----
-
-@japan.reuters.com
-
-欧州連合（ＥＵ）欧州委員会は２３日、プラスチック類の輸入により厳格な規制を導入すると発表した。中国などからの安価な輸入品に苦しむ欧州のリサイクル工場を支援する。 bit.ly/497IVg7
-
-[2025-12-25 14:40:12](https://bsky.app/profile/japan.reuters.com/post/3mas2uysei72c)
-
----
-
 @sokuho.news
 
-🛎️ポストセブンより【スクープ】です。
+🛎️NNNより【速報】です。
 
-《本誌スクープで年内活動辞退》「未成年アイドルを深夜自宅呼び出し」SKY-HIは「猛省しております」と回答していた【各テレビ局も検証を求める声】
-(2025-12-25 14:35) #ニュース
+【速報】悠仁さま1月1日皇居での「新年祝賀の儀」に初めて出席へ 9月に成年式を終え
+(2025-12-25 15:08) #ニュース
 
-[2025-12-25 14:38:52](https://bsky.app/profile/sokuho.news/post/3mas2smnze32y)
+[2025-12-25 15:08:58](https://bsky.app/profile/sokuho.news/post/3mas4ih434625)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-＜１４：２０＞　ドル155円後半で変わらず、日銀総裁講演に反応薄 bit.ly/49r0Hwe
+日銀 植田総裁 “今後も経済状況見ながら利上げ検討していく”
+https://news.web.nhk/newsweb/na/na-k10015013501000
 
-[2025-12-25 14:32:37](https://bsky.app/profile/japan.reuters.com/post/3mas2hgxmon2u)
+[2025-12-25 15:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas4dbe26q2m)
 
 ---
 
 @reuters.com
 
-Christmas celebrations muted at Bondi as Australians grieve after deadly shooting reut.rs/4ssHQsi
+Saudi Arabia says Yemen group should withdraw its forces from seized provinces reut.rs/3MTOG9M
 
-[2025-12-25 14:30:26](https://bsky.app/profile/reuters.com/post/3mas2dk63fd2y)
-
----
-
-@apnews.com
-
-Ten teams are in the NFL playoffs. Eight more are battling for the final four spots. The playoff picture will become more clear in Week 17.
-
-Pro Picks aims to continue a hot streak:
-
-[2025-12-25 14:30:08](https://bsky.app/profile/apnews.com/post/3mas2cz3gb723)
+[2025-12-25 15:05:09](https://bsky.app/profile/reuters.com/post/3mas4bmcjhr2r)
 
 ---
 
-@financialtimes.com
+@nbcnews.com
 
- AI upheaval shows little sign of lessening ft.trib.al/MQpdGis  | opinion
+<strong><span style="color: red;">JUST IN:</span> A winning ticket for Powerball's $1.8 billion jackpot was sold in Arkansas, the largest prize this year.</strong>
 
-[2025-12-25 14:28:53](https://bsky.app/profile/financialtimes.com/post/3mas2aqwpao2w)
+[2025-12-25 15:02:45](https://bsky.app/profile/nbcnews.com/post/3mas45dizpy2x)
 
 ---
 
-@financialtimes.com
+@cnn.com
 
- City of London churches offer sublime music in a divine setting ft.trib.al/Q8tP4M0  | opinion
+A grand jury has declined to indict the father of two Kentucky State University students who was charged with murder in an on-campus shooting that killed one student and critically injured another. 
 
-[2025-12-25 14:28:53](https://bsky.app/profile/financialtimes.com/post/3mas2aqygmy2w)
+[2025-12-25 15:01:01](https://bsky.app/profile/cnn.com/post/3mas42a753723)
+
+---
+
+@nikkei.com
+
+クリスマス「予定なし」54%（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+予定がない理由は「興味がない・習慣がない」が31%、次に「お金をかけたくない・節約したい」が16%でした。
+
+#クリスマスの予定
+
+[2025-12-25 15:00:54](https://bsky.app/profile/nikkei.com/post/3mas3zzkd6z26)
 
 ---
 
 @japan.reuters.com
 
-日銀の植田和男総裁は２５日、ここ数年、企業の賃金・価格設定行動は「大きく変化している」と評価し、賃金上昇を伴う形での２％の物価安定目標の実現が「着実に近づいている」と述べた。賃金の上昇継続とコスト上昇分の販売価格への転嫁の広がりに自信を示し、長らく続いてきた賃金も物価もほとんど変化しない「ゼロノルム」の世界に戻る可能性は「大きく低下している」と語った。 bit.ly/3L7vtB0
+東京・羽田空港で２０２４年１月に起きた海上保安庁と日本航空（ＪＡＬ）の機体衝突事故の原因を調べている運輸安全委員会は２５日、２回目となる経過報告を公表し、海保機機長の労務管理や疲労などを分析対象に追加したと明らかにした。 bit.ly/3YH5qDN
 
-[2025-12-25 14:24:49](https://bsky.app/profile/japan.reuters.com/post/3marzzijamn2u)
+[2025-12-25 15:00:28](https://bsky.app/profile/japan.reuters.com/post/3mas3zaeph422)
 
 ---
 
-@wsj.com
+@bloomberg.com
 
-Traffic in Miami is a nightmare, but one real-estate tycoon has a plan: flying taxis that take commuters around South Florida for $200.
+India and China are vying for control of strategic islands and chokepoints in the Indian Ocean. With shifting US policy, the battle for influence is intensifying, shaping regional and global power. (from the archive)
 
-🔗: on.wsj.com/3NgVIFC
+[2025-12-25 15:00:12](https://bsky.app/profile/bloomberg.com/post/3mas3yrg3do2p)
 
-[2025-12-25 14:23:41](https://bsky.app/profile/wsj.com/post/3marzxhruv72u)
+---
+
+@forbes.com
+
+This is the second biggest lottery prize of all time and the biggest jackpot of 2025—eclipsing a $1.76 billion prize split between two winners in September.
+
+[2025-12-25 15:00:06](https://bsky.app/profile/forbes.com/post/3mas3ylctfu2f)
+
+---
+
+@financialtimes.com
+
+ Year in a word: 6-7 ft.trib.al/AAJaaa0  | opinion
+
+[2025-12-25 14:58:47](https://bsky.app/profile/financialtimes.com/post/3mas3wacqyd24)
 
 ---
 
