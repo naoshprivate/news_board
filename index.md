@@ -1,9 +1,9 @@
-# [2025-12-25 20:30 updated](2025_12_25.md)
+# [2025-12-25 20:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国国営メディアによると、一人っ子政策を推進した彭佩雲・元国家計画生育委員会主任が２１日に死去した。 bit.ly/4qq03Vh <a href="https://bsky.app/profile/japan.reuters.com/post/3maso5yvwql27" target="_blank">japan.reuters.com</a> (2025-12-25 20:25:15)</span><span style="padding-right:50px;">Honduras, Bondi Christmas, and tensions over EU visa bans reut.rs/3YvMSXj <a href="https://bsky.app/profile/reuters.com/post/3maso5u4v572s" target="_blank">reuters.com</a> (2025-12-25 20:25:10)</span><span style="padding-right:50px;">On Christmas Eve, one Powerball ticket in Arkansas won the second-largest U.S. lottery jackpot ever. The winner can choose between the full $1.817 billion paid out over 30 years or a $834.9 million cash option, both before taxes. <a href="https://bsky.app/profile/nytimes.com/post/3maso5ringc2z" target="_blank">nytimes.com</a> (2025-12-25 20:25:07)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】新潟市中央区西堀通3番町でマンション火災「ふとんから火が出た」70代女性が救急搬送 (2025-12-25 20:22:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maso3d7cqx2b" target="_blank">sokuho.news</a> (2025-12-25 20:23:45)</span><span style="padding-right:50px;">Researchers have found that a warm, close bond with a sibling in early adult life is predictive of good emotional health later in life, with less loneliness, anxiety and depression. <a href="https://bsky.app/profile/npr.org/post/3maso2t3lfl24" target="_blank">npr.org</a> (2025-12-25 20:23:28)</span>
+<span style="padding-right:50px;">Pope Leo urges 'courage' to end Ukraine war in first Christmas address <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3masphjuttw25" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-25 20:48:28)</span><span style="padding-right:50px;">災害関連死 審査してもらえず“埋もれる”おそれ https://news.web.nhk/newsweb/na/na-k10015012381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maspgshtfa24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 20:48:02)</span><span style="padding-right:50px;">中国情報通信技術研究院が２５日発表したデータによると、中国での１１月の海外ブランド携帯電話の出荷台数は前年同月比１２８．４％増の６９３万台となった。 bit.ly/4jjGMCY <a href="https://bsky.app/profile/japan.reuters.com/post/3maspbnahxv2v" target="_blank">japan.reuters.com</a> (2025-12-25 20:45:11)</span><span style="padding-right:50px;">Pope Leo XIV surprised the rain-soaked faithful in St. Peter’s Square on Wednesday night with an apology, delivered in both English and Italian, to those who were unable to get inside the basilica for the pontiff’s first Christmas Eve Mass. <a href="https://bsky.app/profile/nytimes.com/post/3maspbeesqi2x" target="_blank">nytimes.com</a> (2025-12-25 20:45:02)</span><span style="padding-right:50px;">スピードスケート 全日本選手権あす開幕へ https://news.web.nhk/newsweb/na/na-k10015013961000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maspbh2wqn2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 20:45:02)</span>
   </div>
 </div>
 
@@ -32,98 +32,97 @@
 
 ## News Headlines
 
-- Former Chinese official who promoted one-child policy dies aged 80
-- Honduras, Bondi Christmas, and tensions over EU visa bans
-- Second-largest U.S. lottery jackpot won in Arkansas with $1.817 billion prize
-- Spontaneous fire in apartment building in Niigata, Japan, with multiple injuries reported
-- Chinese Commerce Ministry says TikTok's US business sale should comply with regulations, balance interests
-- Goldman Sachs' private-lending arm struggles to untangle bad loans, investors wait for results
+- Pope Leo XIV Urges 'Courage' to End Ukraine War in First Christmas Address
+- China Sees Surge in Sales of Overseas-Branded Smartphones in November
+- Researchers Find Warm Bond with Sibling Predicts Good Emotional Health Later in Life
+- Powerball Winner in Arkansas Chooses $834.9 Million Cash Option
+- Goldman Sachs' Private-Lending Arm Continues to Clean Up Bad Loans
+- Poland Intercepts Russian Plane Over Baltic Sea
 
 
 ----
 
-@japan.reuters.com
+@bbcnews-world-rss.bsky.social
 
-中国国営メディアによると、一人っ子政策を推進した彭佩雲・元国家計画生育委員会主任が２１日に死去した。 bit.ly/4qq03Vh
+Pope Leo urges 'courage' to end Ukraine war in first Christmas address
 
-[2025-12-25 20:25:15](https://bsky.app/profile/japan.reuters.com/post/3maso5yvwql27)
+[2025-12-25 20:48:28](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3masphjuttw25)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Honduras, Bondi Christmas, and tensions over EU visa bans reut.rs/3YvMSXj
+災害関連死 審査してもらえず“埋もれる”おそれ
+https://news.web.nhk/newsweb/na/na-k10015012381000
 
-[2025-12-25 20:25:10](https://bsky.app/profile/reuters.com/post/3maso5u4v572s)
+[2025-12-25 20:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maspgshtfa24)
+
+---
+
+@japan.reuters.com
+
+中国情報通信技術研究院が２５日発表したデータによると、中国での１１月の海外ブランド携帯電話の出荷台数は前年同月比１２８．４％増の６９３万台となった。 bit.ly/4jjGMCY
+
+[2025-12-25 20:45:11](https://bsky.app/profile/japan.reuters.com/post/3maspbnahxv2v)
 
 ---
 
 @nytimes.com
 
-On Christmas Eve, one Powerball ticket in Arkansas won the second-largest U.S. lottery jackpot ever. The winner can choose between the full $1.817 billion paid out over 30 years or a $834.9 million cash option, both before taxes.
+Pope Leo XIV surprised the rain-soaked faithful in St. Peter’s Square on Wednesday night with an apology, delivered in both English and Italian, to those who were unable to get inside the basilica for the pontiff’s first Christmas Eve Mass.
 
-[2025-12-25 20:25:07](https://bsky.app/profile/nytimes.com/post/3maso5ringc2z)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】新潟市中央区西堀通3番町でマンション火災「ふとんから火が出た」70代女性が救急搬送
-(2025-12-25 20:22:00) #ニュース
-
-[2025-12-25 20:23:45](https://bsky.app/profile/sokuho.news/post/3maso3d7cqx2b)
-
----
-
-@npr.org
-
-Researchers have found that a warm, close bond with a sibling in early adult life is predictive of good emotional health later in life, with less loneliness, anxiety and depression.
-
-[2025-12-25 20:23:28](https://bsky.app/profile/npr.org/post/3maso2t3lfl24)
+[2025-12-25 20:45:02](https://bsky.app/profile/nytimes.com/post/3maspbeesqi2x)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-林総務相の事務所 収支報告書を訂正 13人分の労務費支払い削除
-https://news.web.nhk/newsweb/na/na-k10015013951000
+スピードスケート 全日本選手権あす開幕へ
+https://news.web.nhk/newsweb/na/na-k10015013961000
 
-[2025-12-25 20:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masnwjko2d2l)
+[2025-12-25 20:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maspbh2wqn2l)
 
 ---
 
-@japan.reuters.com
+@cbsnews.com
 
-中国商務省の報道官は２５日、中国系動画投稿アプリ「ＴｉｋＴｏｋ（ティックトック）」の米国事業売却について、各企業が中国の法規制を順守し、全ての当事者の利益のバランスを取った解決策に達することを望んでいると述べた。 bit.ly/3YbTytq
+Facing high home heating bills this winter? These tips can help you save money.
 
-[2025-12-25 20:20:24](https://bsky.app/profile/japan.reuters.com/post/3masnvdc5xc2c)
+[2025-12-25 20:45:01](https://bsky.app/profile/cbsnews.com/post/3maspbdgny72f)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【兵庫】お米券など食料品支援 自治体は
+https://news.web.nhk/newsweb/na/na-k10015013631000
+
+[2025-12-25 20:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masp42zb5i24)
 
 ---
 
 @wsj.com
 
-Goldman Sachs’ private-lending arm has spent years untangling bad loans. The cleanup drags on—and investors are still waiting for results.
+Lots of people want to invest insurance money these days. Nobody does it quite like Warren Buffett.
 
-[2025-12-25 20:19:52](https://bsky.app/profile/wsj.com/post/3masnufcz2s2r)
+[2025-12-25 20:36:28](https://bsky.app/profile/wsj.com/post/3masos2txqb2u)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-新潟 中央区 マンションで火災 けが人複数の情報
-https://news.web.nhk/newsweb/na/na-k10015013971000
+高市首相 維新 吉村代表と会談 「副首都」構想実現へ連携確認
+https://news.web.nhk/newsweb/na/na-k10015014081000
 
-[2025-12-25 20:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masnr5ia7s2b)
+[2025-12-25 20:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masore2oep2v)
 
 ---
 
 @japan.reuters.com
 
-東京株式市場で日経平均は小幅に反発し、前営業日比６３円６９銭高の５万０４０７円７９銭で取引を終えた。海外勢がクリスマス休暇に入り参加者も手掛かり材料が少ない中、前日終値を挟んだ小動きが続いた。売買代金は３兆円を下回り、今年最低となった。 bit.ly/4aQ0kN5
+香港の投資ファンド、オアシス・マネジメントが、カカクコム 株を５．２３％保有していることが分かった。２５日、関東財務局に大量保有報告書を提出した。保有目的は「ポートフォリオ投資および重要提案行為」としている。報告義務発生日は１８日。 bit.ly/4peNJ9w
 
-[2025-12-25 20:15:20](https://bsky.app/profile/japan.reuters.com/post/3masnmbigr42q)
+[2025-12-25 20:35:08](https://bsky.app/profile/japan.reuters.com/post/3masopnsevm2c)
 
 ---
 
