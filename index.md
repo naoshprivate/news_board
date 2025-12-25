@@ -1,9 +1,9 @@
-# [2025-12-25 22:30 updated](2025_12_25.md)
+# [2025-12-25 22:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Is there an “Aha!” moment when you know it’s time to retire? Often, the signs are not so obvious. on.wsj.com/3MXldM8 <a href="https://bsky.app/profile/wsj.com/post/3masuygi76n2s" target="_blank">wsj.com</a> (2025-12-25 22:27:24)</span><span style="padding-right:50px;">LIVE: Hawaii's Kilauea volcano spews lava www.youtube.com/live/QSqQAob... <a href="https://bsky.app/profile/reuters.com/post/3masuwctkac2j" target="_blank">reuters.com</a> (2025-12-25 22:26:13)</span><span style="padding-right:50px;">Imani Dia Smith, a former Broadway child actress who appeared in “The Lion King,” died on Sunday after she was stabbed at a home in New Jersey, officials said. <a href="https://bsky.app/profile/nytimes.com/post/3masuw2zozm2z" target="_blank">nytimes.com</a> (2025-12-25 22:26:05)</span><span style="padding-right:50px;">Russia compares US blockade of Venezuela to piracy reut.rs/4seAgBe <a href="https://bsky.app/profile/reuters.com/post/3masuueedpm24" target="_blank">reuters.com</a> (2025-12-25 22:25:08)</span><span style="padding-right:50px;">This discount retailer thrived in 2025 despite a volatile backdrop. Why that momentum can continue in 2026 <a href="https://bsky.app/profile/cnbc.com/post/3masutplf332g" target="_blank">cnbc.com</a> (2025-12-25 22:24:46)</span>
+<span style="padding-right:50px;">An ICE officer shot an undocumented driver trying to evade arrest on Wednesday in a Baltimore suburb, ICE and local officials said, resulting in a crash that left the driver and a passenger hospitalized. <a href="https://bsky.app/profile/nytimes.com/post/3masvp4e5vr26" target="_blank">nytimes.com</a> (2025-12-25 22:40:05)</span><span style="padding-right:50px;">VIDEO: 🎵 🤖 Musicians sound alarm over AI impersonators  Musical artists are sounding the alarm as fraudulent AI-generated tracks are increasingly appearing in their profiles on streaming platforms, presented as their original work <a href="https://bsky.app/profile/en.afp.com/post/3masvide6o72x" target="_blank">en.afp.com</a> (2025-12-25 22:36:18)</span><span style="padding-right:50px;">Serbia supports talks with Hungary's Mol over sale of sanctioned NIS oil firm reut.rs/3YbKrJa <a href="https://bsky.app/profile/reuters.com/post/3masvgb5wrv2c" target="_blank">reuters.com</a> (2025-12-25 22:35:08)</span><span style="padding-right:50px;">ABEMA「今日、好きになりました。」情報圏の威力 www.nikkei.com/article/DGXZQO...  「10代女子が選ぶトレンドランキング」のヒト部門の1位は長浜広奈さんで、2位はMON7Aさん。2人は恋愛リアリティーショー「今日好き」の出演者です。  音楽部門でも2位は幾多りらさんの歌う主題歌。Z世代のトレンドが「今日好き」から生まれ、SNSを通じて瞬時に拡散されています。 <a href="https://bsky.app/profile/nikkei.com/post/3masv6a63f626" target="_blank">nikkei.com</a> (2025-12-25 22:30:39)</span><span style="padding-right:50px;">Morocco Coach Dismisses Aguerd injury talk, backs Ait Boudlal ahead of Mali test reut.rs/49bCGbm <a href="https://bsky.app/profile/reuters.com/post/3masv5sl2ai2y" target="_blank">reuters.com</a> (2025-12-25 22:30:25)</span>
   </div>
 </div>
 
@@ -32,15 +32,86 @@
 
 ## News Headlines
 
-- When to Know It's Time to Retire
-- Hawaii's Kilauea Volcano Spews Lava
-- Former Broadway Child Actress Imani Dia Smith Dies After Being Stabbed in New Jersey
-- Russia Compares US Blockade of Venezuela to Piracy
-- Discount Retailer Thrives Despite Volatile Backdrop, Can Continue in 2026
-- Pope Leo XIV Urges Russia and Ukraine to Hold Direct Talks
+- ICE officer shoots undocumented driver in Baltimore suburb, causing crash and hospitalizations
+- Musicians sound alarm over AI-generated tracks on streaming platforms
+- Serbia supports talks with Hungary's Mol over sale of sanctioned NIS oil firm
+- Morocco coach dismisses injury talk, backs Ait Boudlal ahead of Mali test
+- Pope Leo urges Russia and Ukraine to engage in direct talks to end war
+- Lava spews from Hawaii's Kilauea volcano in live video feed
 
 
 ----
+
+@nytimes.com
+
+An ICE officer shot an undocumented driver trying to evade arrest on Wednesday in a Baltimore suburb, ICE and local officials said, resulting in a crash that left the driver and a passenger hospitalized.
+
+[2025-12-25 22:40:05](https://bsky.app/profile/nytimes.com/post/3masvp4e5vr26)
+
+---
+
+@en.afp.com
+
+VIDEO: 🎵 🤖 Musicians sound alarm over AI impersonators
+
+Musical artists are sounding the alarm as fraudulent AI-generated tracks are increasingly appearing in their profiles on streaming platforms, presented as their original work
+
+[2025-12-25 22:36:18](https://bsky.app/profile/en.afp.com/post/3masvide6o72x)
+
+---
+
+@reuters.com
+
+Serbia supports talks with Hungary's Mol over sale of sanctioned NIS oil firm reut.rs/3YbKrJa
+
+[2025-12-25 22:35:08](https://bsky.app/profile/reuters.com/post/3masvgb5wrv2c)
+
+---
+
+@nikkei.com
+
+ABEMA「今日、好きになりました。」情報圏の威力
+www.nikkei.com/article/DGXZQO...
+
+「10代女子が選ぶトレンドランキング」のヒト部門の1位は長浜広奈さんで、2位はMON7Aさん。2人は恋愛リアリティーショー「今日好き」の出演者です。
+
+音楽部門でも2位は幾多りらさんの歌う主題歌。Z世代のトレンドが「今日好き」から生まれ、SNSを通じて瞬時に拡散されています。
+
+[2025-12-25 22:30:39](https://bsky.app/profile/nikkei.com/post/3masv6a63f626)
+
+---
+
+@reuters.com
+
+Morocco Coach Dismisses Aguerd injury talk, backs Ait Boudlal ahead of Mali test reut.rs/49bCGbm
+
+[2025-12-25 22:30:25](https://bsky.app/profile/reuters.com/post/3masv5sl2ai2y)
+
+---
+
+@usatoday.com
+
+The royal duo played a touching duet for "Royal Carols," which aired on British TV on Christmas Eve.
+
+[2025-12-25 22:30:08](https://bsky.app/profile/usatoday.com/post/3masv5cfdsk2o)
+
+---
+
+@aljazeera.com
+
+Raids across Istanbul seize weapons as authorities seek 22 remaining suspects still at large.
+
+[2025-12-25 22:30:04](https://bsky.app/profile/aljazeera.com/post/3masv56k5ez2z)
+
+---
+
+@cbsnews.com
+
+In his first Christmas homily, Pope Leo lamented conditions for Palestinians in Gaza and urged Ukraine and Russia to engage in direct talks to end their war.
+
+[2025-12-25 22:30:01](https://bsky.app/profile/cbsnews.com/post/3masv53qzfj2g)
+
+---
 
 @wsj.com
 
@@ -56,75 +127,6 @@ LIVE: Hawaii's Kilauea volcano spews lava
 www.youtube.com/live/QSqQAob...
 
 [2025-12-25 22:26:13](https://bsky.app/profile/reuters.com/post/3masuwctkac2j)
-
----
-
-@nytimes.com
-
-Imani Dia Smith, a former Broadway child actress who appeared in “The Lion King,” died on Sunday after she was stabbed at a home in New Jersey, officials said.
-
-[2025-12-25 22:26:05](https://bsky.app/profile/nytimes.com/post/3masuw2zozm2z)
-
----
-
-@reuters.com
-
-Russia compares US blockade of Venezuela to piracy reut.rs/4seAgBe
-
-[2025-12-25 22:25:08](https://bsky.app/profile/reuters.com/post/3masuueedpm24)
-
----
-
-@cnbc.com
-
-This discount retailer thrived in 2025 despite a volatile backdrop. Why that momentum can continue in 2026
-
-[2025-12-25 22:24:46](https://bsky.app/profile/cnbc.com/post/3masutplf332g)
-
----
-
-@cnbc.com
-
-Why buying Berkshire was Warren Buffett's biggest mistake
-
-[2025-12-25 22:22:36](https://bsky.app/profile/cnbc.com/post/3masupt6mrz23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-大分 大規模火災 “風向き頻繁に変わり飛び火か” 国の検討会
-https://news.web.nhk/newsweb/na/na-k10015014191000
-
-[2025-12-25 22:18:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masuhuflgd2l)
-
----
-
-@nhknewsunofficial.bsky.social
-
-「介護殺人」などで死亡した高齢者 10年間で少なくとも129人に
-https://news.web.nhk/newsweb/na/na-k10015014181000
-
-[2025-12-25 22:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masuhq7mfc2d)
-
----
-
-@nikkei.com
-
-名古屋駅前の再開発、名鉄「寝耳に水」の中断
-www.nikkei.com/article/DGXZQO...
-
-「歴史的に見ても例がないほどの難工事」。その背景を探ると、3つの理由が浮かんできました。
-
-[2025-12-25 22:16:39](https://bsky.app/profile/nikkei.com/post/3masuf6vkcv26)
-
----
-
-@cnbc.com
-
-Tariffs hit boots, bags and more as leather prices jump — and relief could be years away
-
-[2025-12-25 22:14:52](https://bsky.app/profile/cnbc.com/post/3masubzcbog2b)
 
 ---
 
