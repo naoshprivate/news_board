@@ -1,9 +1,9 @@
-# [2025-12-25 12:50 updated](2025_12_25.md)
+# [2025-12-25 13:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">政府 来年度予算案 あす決定へ 一般会計総額122兆3100億円程度 https://news.web.nhk/newsweb/na/na-k10015013411000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marummrlo42s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 12:48:06)</span><span style="padding-right:50px;">11月 コメの民間企業輸入量 前年同月の13倍に増加 https://news.web.nhk/newsweb/na/na-k10015013361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marumi3w2m2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 12:48:02)</span><span style="padding-right:50px;">横浜 特定の高校最寄り駅で盗撮被害相次ぐ SNS動画きっかけか https://news.web.nhk/newsweb/na/na-k10015013391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marubqn7i42s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 12:42:01)</span><span style="padding-right:50px;">In a world of big-airport upmanship—business-class lounges, exotic new flights and VIP check in—small airports have a devoted fan base. And it’s one that has been growing as discount airlines including Allegiant, Breeze and Avelo have come to town. 🔗 on.wsj.com/4pTBqRj <a href="https://bsky.app/profile/wsj.com/post/3marub75dxz2t" target="_blank">wsj.com</a> (2025-12-25 12:41:45)</span><span style="padding-right:50px;">ロシア政府は２４日、来年２月１５日―６月３０日の穀物輸出枠を２０００万トンに設定したと発表した。輸出枠は国内市場を守るためにマーケティング年度の後半に設定するもので、発表された規模は予想通りだった。 bit.ly/4qql1nd <a href="https://bsky.app/profile/japan.reuters.com/post/3maru6jkewi2s" target="_blank">japan.reuters.com</a> (2025-12-25 12:40:15)</span>
+<span style="padding-right:50px;">仏製薬大手サノフィは２４日、米バイオテクノロジー企業のダイナバックス・テクノロジーズを約２２億ドル（１９億ユーロ）で買収することに合意したと発表した。 bit.ly/48ZxNli <a href="https://bsky.app/profile/japan.reuters.com/post/3marvrpryds2q" target="_blank">japan.reuters.com</a> (2025-12-25 13:08:53)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  速報【破産開始決定】創業90年超の佐世保三川内焼の老舗「宝珠製陶所」割烹向け需要低迷と原材料高騰響く (2025-12-25 13:07:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3marvrh4sbf25" target="_blank">sokuho.news</a> (2025-12-25 13:08:44)</span><span style="padding-right:50px;">🛎️JNNより【独自】です。  【独自】国分太一さんの人権救済申し立てを認めず 日本弁護士連合会 国分さんの代理人「『人権侵害ではない』と認定されたわけではない」 (2025-12-25 13:00:49) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3marvgqwm362r" target="_blank">sokuho.news</a> (2025-12-25 13:02:45)</span><span style="padding-right:50px;">＜１２：５２＞　2年債入札は低調、国債先物はマイナス圏に沈む bit.ly/3YdCEdT <a href="https://bsky.app/profile/japan.reuters.com/post/3marvg2sh6227" target="_blank">japan.reuters.com</a> (2025-12-25 13:02:22)</span><span style="padding-right:50px;">The San Antonio Spurs are the hottest team in the NBA just a year removed from two of the worst seasons in franchise history. <a href="https://bsky.app/profile/apnews.com/post/3marvd5edtm2x" target="_blank">apnews.com</a> (2025-12-25 13:00:44)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50337.34 (🔻112.84 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3373.00 (🔻4.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.71 (🔻0.03 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50401.70 (🔻48.48 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3372.00 (🔻5.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.64 (🔻0.10 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,108 +32,110 @@
 
 ## News Headlines
 
-- Japanese Government to Decide on Next Year's Budget on December 26
-- Commodity Imports from Private Sector Soar 13 Times in November
-- Security Concerns at a Specific High School in Yokohama
-- Trump-Backed Candidate Wins Honduran Presidential Election
-- EU Introduces Strict Regulations on Plastic Imports
-- Korean Central Bank to Assess Data Before Lowering Interest Rates
+- Sanofi to Acquire Dynabeads Technology for $2.2 Billion
+- Bakery in Saga Prefecture Files for Bankruptcy
+- Japanese Lawyers' Association Rejects Request to Recognize Rights Violation
+- San Antonio Spurs Hot on the Court After Two Disappointing Seasons
+- Transport Ministry to Review Speed Limit for High-Speed Roads
+- Taiwan's Foxtron Unveils New Electric Vehicle Model
 
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-政府 来年度予算案 あす決定へ 一般会計総額122兆3100億円程度
-https://news.web.nhk/newsweb/na/na-k10015013411000
-
-[2025-12-25 12:48:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marummrlo42s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-11月 コメの民間企業輸入量 前年同月の13倍に増加
-https://news.web.nhk/newsweb/na/na-k10015013361000
-
-[2025-12-25 12:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marumi3w2m2x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-横浜 特定の高校最寄り駅で盗撮被害相次ぐ SNS動画きっかけか
-https://news.web.nhk/newsweb/na/na-k10015013391000
-
-[2025-12-25 12:42:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marubqn7i42s)
-
----
-
-@wsj.com
-
-In a world of big-airport upmanship—business-class lounges, exotic new flights and VIP check in—small airports have a devoted fan base. And it’s one that has been growing as discount airlines including Allegiant, Breeze and Avelo have come to town. 🔗 on.wsj.com/4pTBqRj
-
-[2025-12-25 12:41:45](https://bsky.app/profile/wsj.com/post/3marub75dxz2t)
-
----
-
 @japan.reuters.com
 
-ロシア政府は２４日、来年２月１５日―６月３０日の穀物輸出枠を２０００万トンに設定したと発表した。輸出枠は国内市場を守るためにマーケティング年度の後半に設定するもので、発表された規模は予想通りだった。 bit.ly/4qql1nd
+仏製薬大手サノフィは２４日、米バイオテクノロジー企業のダイナバックス・テクノロジーズを約２２億ドル（１９億ユーロ）で買収することに合意したと発表した。 bit.ly/48ZxNli
 
-[2025-12-25 12:40:15](https://bsky.app/profile/japan.reuters.com/post/3maru6jkewi2s)
-
----
-
-@japan.reuters.com
-
-サッカーのイングランド・プレミアリーグ、チェルシーのエンツォ・マレスカ監督は２４日、負傷を抱えていたコール・パーマーについて、ようやくフル出場が可能な状態になったと明かした。 bit.ly/4qklkQk
-
-[2025-12-25 12:39:16](https://bsky.app/profile/japan.reuters.com/post/3maru4qtnna2s)
-
----
-
-@japan.reuters.com
-
-欧州連合（ＥＵ）欧州委員会は２３日、プラスチック類の輸入により厳格な規制を導入すると発表した。中国などからの安価な輸入品に苦しむ欧州のリサイクル工場を支援する。 bit.ly/4b5WWxs
-
-[2025-12-25 12:32:48](https://bsky.app/profile/japan.reuters.com/post/3martr77qlr2q)
+[2025-12-25 13:08:53](https://bsky.app/profile/japan.reuters.com/post/3marvrpryds2q)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【独自】です。
+🛎️JNNより【速報】です。
 
-【独自】部活動の保護者負担は月額1000円から3000円目安に 公立中学校の休日実施は地域のスポーツクラブに委託へ 文科省
-(2025-12-25 12:21) #ニュース
+速報【破産開始決定】創業90年超の佐世保三川内焼の老舗「宝珠製陶所」割烹向け需要低迷と原材料高騰響く
+(2025-12-25 13:07:00) #ニュース
 
-[2025-12-25 12:30:56](https://bsky.app/profile/sokuho.news/post/3martntsivj2r)
+[2025-12-25 13:08:44](https://bsky.app/profile/sokuho.news/post/3marvrh4sbf25)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【独自】です。
+
+【独自】国分太一さんの人権救済申し立てを認めず 日本弁護士連合会 国分さんの代理人「『人権侵害ではない』と認定されたわけではない」
+(2025-12-25 13:00:49) #ニュース
+
+[2025-12-25 13:02:45](https://bsky.app/profile/sokuho.news/post/3marvgqwm362r)
+
+---
+
+@japan.reuters.com
+
+＜１２：５２＞　2年債入札は低調、国債先物はマイナス圏に沈む bit.ly/3YdCEdT
+
+[2025-12-25 13:02:22](https://bsky.app/profile/japan.reuters.com/post/3marvg2sh6227)
+
+---
+
+@apnews.com
+
+The San Antonio Spurs are the hottest team in the NBA just a year removed from two of the worst seasons in franchise history.
+
+[2025-12-25 13:00:44](https://bsky.app/profile/apnews.com/post/3marvd5edtm2x)
 
 ---
 
 @nikkei.com
 
-ホンジュラス大統領選挙、ようやく結果　トランプ氏支持の右派候補勝利
+【異例】羽田衝突事故を再現実験　原因究明へ運輸安全委が経過報告
 www.nikkei.com/article/DGXZQO...
+ 
+事故当時は月の出ていない夜。海保機と滑走路の灯火がともに白色だったため、上空から機体を認識しにくかった可能性があります。
+ 
+同種の灯火を使い、滑走路上に海保の同型機を停止させ、小型機やヘリコプターで上空から撮影する再現実験を実施。灯火を赤色に変えた場合の見え方の違いなども確かめました。
 
-11月30日投票で開票が難航していたホンジュラス大統領選挙は、トランプ氏が支持したナスリー・アスフラ氏が勝利しました。
-
-選挙管理委員会が発表したアスフラ氏の得票率は40.3％で次点候補は39.5％。1ポイントに満たない僅差でした。
-
-次点候補らはアメリカの意向が開票に働いたとみて「選挙クーデターだ」などと訴えています。
-
-#ニュース
-
-[2025-12-25 12:30:39](https://bsky.app/profile/nikkei.com/post/3martneclon24)
+[2025-12-25 13:00:39](https://bsky.app/profile/nikkei.com/post/3marvcygoho2n)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Taiwan's Foxtron unveils Bria EV model reut.rs/3NfgUvI
+In January 2025, Utkarsh Amitabh was approached by startup micro1 about joining its network of human experts who help companies train artificial intelligence models. 
 
-[2025-12-25 12:30:29](https://bsky.app/profile/reuters.com/post/3martn2ld522y)
+He spends 3.5 hours a day, on average, training AI models.
+
+[2025-12-25 13:00:19](https://bsky.app/profile/cnbc.com/post/3marvcfmzrk24)
+
+---
+
+@bloomberg.com
+
+Fake currency? Money laundering? Hacking tech? All this and more is for sale on "the Amazon for criminals." (from the archive)
+
+Read The Big Take ⤵️
+
+[2025-12-25 13:00:12](https://bsky.app/profile/bloomberg.com/post/3marvc6i5ut23)
+
+---
+
+@washingtonpost.com
+
+Bill Marler has worked on foodborne illnesses cases for decades — and he orders his steak cooked gray, never pink.
+
+“I’ve been in too many ICUs. I’ve been to too many funerals,” Marler said. “I know too much.” https://wapo.st/48Rw01P
+
+[2025-12-25 13:00:10](https://bsky.app/profile/washingtonpost.com/post/3marvc4nqf62i)
+
+---
+
+@aljazeera.com
+
+Fourteen countries condemn Israel's plans to expand West Bank settlements, express 'resolute support' for Palestinians https://aje.io/vl95me
+
+[2025-12-25 13:00:04](https://bsky.app/profile/aljazeera.com/post/3marvbwxjrf27)
 
 ---
 
