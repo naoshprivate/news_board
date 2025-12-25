@@ -1,9 +1,9 @@
-# [2025-12-25 19:30 updated](2025_12_25.md)
+# [2025-12-25 19:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:岡山県南部, 深さ:10km マグニチュード:3.2, 最大震度:1 📍https://www.google.com/maps?q=34.5,133.5&ll=34.5,133.5&z=7&t=h 地震発生日時:2025-12-25 19:22頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3maskspuddx2b" target="_blank">sokuho.news</a> (2025-12-25 19:25:15)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  19時22分頃、岡山県・広島県で最大震度1の地震を観測しました。 震源:岡山県南部, 深さ:10km, 規模:M3.2 この地震による津波の心配はありません。 (2025-12-25 19:24:48) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/25/2025-12-25-19-22-02.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3maskrxhv5w2z" target="_blank">sokuho.news</a> (2025-12-25 19:24:49)</span><span style="padding-right:50px;">Florida operative James Blair has become an influential figure in President Trump’s second term. <a href="https://bsky.app/profile/wsj.com/post/3maskmwqb7d2o" target="_blank">wsj.com</a> (2025-12-25 19:22:01)</span><span style="padding-right:50px;">Marty Reisman was nicknamed "The Needle" for his slender physique. He dressed well and put on a show. n.pr/4awIPkH <a href="https://bsky.app/profile/npr.org/post/3maskjwt34d24" target="_blank">npr.org</a> (2025-12-25 19:20:21)</span><span style="padding-right:50px;">【一覧】OTC類似薬 追加負担求める対象77成分の案示す 厚労省 https://news.web.nhk/newsweb/na/na-k10015013511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maskftzome24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 19:18:01)</span>
+<span style="padding-right:50px;">Turkey arrests 115 IS suspects 'planning New Year's attacks' <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3masm34bwiv2x" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-25 19:47:50)</span><span style="padding-right:50px;">My grandfather encouraged me to play for Algeria, Luca Zidane says reut.rs/49erMS1 <a href="https://bsky.app/profile/reuters.com/post/3maslwdcr2e2b" target="_blank">reuters.com</a> (2025-12-25 19:45:10)</span><span style="padding-right:50px;">Where is Santa right now? NORAD tracker maps his 2025 Christmas flight. <a href="https://bsky.app/profile/cbsnews.com/post/3maslw27qlo2q" target="_blank">cbsnews.com</a> (2025-12-25 19:45:01)</span><span style="padding-right:50px;">中国は２５日、米国が先週発表した台湾への武器売却を批判し、今回の売却が台湾海峡での戦争の脅威を「加速」させていると述べた。 bit.ly/4seh8n2 <a href="https://bsky.app/profile/japan.reuters.com/post/3maslnkhyst2u" target="_blank">japan.reuters.com</a> (2025-12-25 19:40:16)</span><span style="padding-right:50px;">【動画】日本の雪景色夢見て 台湾の人が集うのは https://news.web.nhk/newsweb/na/na-k10015011921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masllhffq72d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 19:39:03)</span>
   </div>
 </div>
 
@@ -32,117 +32,103 @@
 
 ## News Headlines
 
-- Japan Earthquake Strikes Southwestern Part of Okayama Prefecture with Magnitude of 3.2
-- Florida Operative Becomes Influential Figure in Trump's Second Term
-- Marty Reisman, 'The Needle,' Remembered for Slender Physique and Fashion Sense
-- Japan's Largest Shopping Center Association Reports 6.2% Increase in Sales
-- Egypt Appoints Interim Swimming Body as Olympic Chief Faces Trial
-- Japan's Economy Sees 45 Consecutive Months of Sales Increase, Largest Shopping Center Association Reports
+- Turkey Arrests 115 IS Suspects Planning New Year's Attacks
+- Luca Zidane's Grandfather Encouraged Him to Play for Algeria
+- China Criticizes US Arms Sale to Taiwan, Says It Escalates Taiwan Strait Conflict
+- Video: People in Taiwan Enjoy Snow Scenes
+- Multiple People Injured in New Year's Eve Fire at New Nagaoka Apartment Building
+- North Korea’s Kim Jong Un Visits Nuclear Submarine Factory, Receives Message from Putin
 
 
 ----
 
-@sokuho.news
+@bbcnews-world-rss.bsky.social
 
-🔔防災科研より【強震モニタ】動画です。
+Turkey arrests 115 IS suspects 'planning New Year's attacks'
 
-震源:岡山県南部, 深さ:10km
-マグニチュード:3.2, 最大震度:1
-📍https://www.google.com/maps?q=34.5,133.5&ll=34.5,133.5&z=7&t=h
-地震発生日時:2025-12-25 19:22頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-25 19:25:15](https://bsky.app/profile/sokuho.news/post/3maskspuddx2b)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-19時22分頃、岡山県・広島県で最大震度1の地震を観測しました。
-震源:岡山県南部, 深さ:10km, 規模:M3.2
-この地震による津波の心配はありません。
-(2025-12-25 19:24:48) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/25/2025-12-25-19-22-02.html?xlarge_image=1
-
-[2025-12-25 19:24:49](https://bsky.app/profile/sokuho.news/post/3maskrxhv5w2z)
-
----
-
-@wsj.com
-
-Florida operative James Blair has become an influential figure in President Trump’s second term.
-
-[2025-12-25 19:22:01](https://bsky.app/profile/wsj.com/post/3maskmwqb7d2o)
-
----
-
-@npr.org
-
-Marty Reisman was nicknamed "The Needle" for his slender physique. He dressed well and put on a show. n.pr/4awIPkH
-
-[2025-12-25 19:20:21](https://bsky.app/profile/npr.org/post/3maskjwt34d24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【一覧】OTC類似薬 追加負担求める対象77成分の案示す 厚労省
-https://news.web.nhk/newsweb/na/na-k10015013511000
-
-[2025-12-25 19:18:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maskftzome24)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】25日午後6時現在・高速道路通行止めの可能性がある区間発表 中国地方大雪のおそれ ネクスコ
-(2025-12-25 19:00) #ニュース
-
-❄️降雪量
-🔗https://www.jma.go.jp/bosai/snow/#zoom:5/lat:36.956909/lon:136.526600/colordepth:normal/elements:snowf24h
-
-[2025-12-25 19:17:34](https://bsky.app/profile/sokuho.news/post/3maskey42k72r)
+[2025-12-25 19:47:50](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3masm34bwiv2x)
 
 ---
 
 @reuters.com
 
-Egypt appoints interim swimming body as its Olympic chief faces trial following boy’s death reut.rs/3NfrHpI
+My grandfather encouraged me to play for Algeria, Luca Zidane says reut.rs/49erMS1
 
-[2025-12-25 19:15:11](https://bsky.app/profile/reuters.com/post/3maskaozsjr2i)
+[2025-12-25 19:45:10](https://bsky.app/profile/reuters.com/post/3maslwdcr2e2b)
+
+---
+
+@cbsnews.com
+
+Where is Santa right now? NORAD tracker maps his 2025 Christmas flight.
+
+[2025-12-25 19:45:01](https://bsky.app/profile/cbsnews.com/post/3maslw27qlo2q)
+
+---
+
+@japan.reuters.com
+
+中国は２５日、米国が先週発表した台湾への武器売却を批判し、今回の売却が台湾海峡での戦争の脅威を「加速」させていると述べた。 bit.ly/4seh8n2
+
+[2025-12-25 19:40:16](https://bsky.app/profile/japan.reuters.com/post/3maslnkhyst2u)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-赤坂 サウナ店火災 業務上過失致死の疑いで関連会社など捜索
-https://news.web.nhk/newsweb/na/na-k10015013941000
+【動画】日本の雪景色夢見て 台湾の人が集うのは
+https://news.web.nhk/newsweb/na/na-k10015011921000
 
-[2025-12-25 19:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maskaj3xdh2u)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】東京・赤坂の個室サウナ店で夫婦死亡の火災 運営会社の関連会社に家宅捜索 警視庁
-(2025-12-25 19:00:38) #ニュース
-
-[2025-12-25 19:12:34](https://bsky.app/profile/sokuho.news/post/3mask3zd5fx2r)
+[2025-12-25 19:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masllhffq72d)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-石川 能登半島地震の災害関連死 死因は「心血管疾患」が最多
-https://news.web.nhk/newsweb/na/na-k10015013931000
+【中継】新潟 中央区 マンションで火災 けが人複数
+https://news.web.nhk/newsweb/na/na-k10015013971000
 
-[2025-12-25 19:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mask354qs62u)
+[2025-12-25 19:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maslg2msap26)
+
+---
+
+@japan.reuters.com
+
+タイ商務省が２５日発表した１１月の輸出（通関ベース）は前年同月比７．１％増となり、伸び率はロイターが集計したアナリスト予想の８．２５％を下回った。１０月は５．７％増だった。 bit.ly/4sdvqnL
+
+[2025-12-25 19:35:09](https://bsky.app/profile/japan.reuters.com/post/3maslefrro62n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+20項目の和平案“ロシアが重要な変更求める方針” 米メディア
+https://news.web.nhk/newsweb/na/na-k10015013981000
+
+[2025-12-25 19:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maslapemft2u)
+
+---
+
+@nikkei.com
+
+サンタさんは今どこに？　クリスマス恒例の追跡作戦70周年（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+北米航空宇宙防衛司令部（NORAD）は専用サイトでサンタクロースの「現在地」や配達したプレゼント数を表示。
+
+アメリカ・コロラド州の基地では軍関係者らが、サンタの居場所を突き止めようとする子どもたちからの電話に応対しました。
+
+追跡作戦は1955年に「サンタに電話しよう」と百貨店が呼びかけた新聞広告に軍の番号が掲載され、軍人がサンタのふりをして電話対応したのがきっかけで始まりました。
+
+[2025-12-25 19:30:39](https://bsky.app/profile/nikkei.com/post/3masl4ehzie2c)
+
+---
+
+@japan.reuters.com
+
+午後３時のドル／円は、前日ニューヨーク市場の終盤からほぼ横ばいの１５５円後半で推移している。クリスマス休暇で多くの主要市場が休場のため取引は薄く、材料難の中で注目されていた日銀の植田和男総裁の講演も手掛かりにはならなかった。 bit.ly/45rJbFE
+
+[2025-12-25 19:30:18](https://bsky.app/profile/japan.reuters.com/post/3masl3qprcy2p)
 
 ---
 
