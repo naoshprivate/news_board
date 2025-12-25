@@ -1,9 +1,9 @@
-# [2025-12-25 22:50 updated](2025_12_25.md)
+# [2025-12-25 23:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">An ICE officer shot an undocumented driver trying to evade arrest on Wednesday in a Baltimore suburb, ICE and local officials said, resulting in a crash that left the driver and a passenger hospitalized. <a href="https://bsky.app/profile/nytimes.com/post/3masvp4e5vr26" target="_blank">nytimes.com</a> (2025-12-25 22:40:05)</span><span style="padding-right:50px;">VIDEO: 🎵 🤖 Musicians sound alarm over AI impersonators  Musical artists are sounding the alarm as fraudulent AI-generated tracks are increasingly appearing in their profiles on streaming platforms, presented as their original work <a href="https://bsky.app/profile/en.afp.com/post/3masvide6o72x" target="_blank">en.afp.com</a> (2025-12-25 22:36:18)</span><span style="padding-right:50px;">Serbia supports talks with Hungary's Mol over sale of sanctioned NIS oil firm reut.rs/3YbKrJa <a href="https://bsky.app/profile/reuters.com/post/3masvgb5wrv2c" target="_blank">reuters.com</a> (2025-12-25 22:35:08)</span><span style="padding-right:50px;">ABEMA「今日、好きになりました。」情報圏の威力 www.nikkei.com/article/DGXZQO...  「10代女子が選ぶトレンドランキング」のヒト部門の1位は長浜広奈さんで、2位はMON7Aさん。2人は恋愛リアリティーショー「今日好き」の出演者です。  音楽部門でも2位は幾多りらさんの歌う主題歌。Z世代のトレンドが「今日好き」から生まれ、SNSを通じて瞬時に拡散されています。 <a href="https://bsky.app/profile/nikkei.com/post/3masv6a63f626" target="_blank">nikkei.com</a> (2025-12-25 22:30:39)</span><span style="padding-right:50px;">Morocco Coach Dismisses Aguerd injury talk, backs Ait Boudlal ahead of Mali test reut.rs/49bCGbm <a href="https://bsky.app/profile/reuters.com/post/3masv5sl2ai2y" target="_blank">reuters.com</a> (2025-12-25 22:30:25)</span>
+<span style="padding-right:50px;">「箱根駅伝」 4年に1回の記念大会は全国の大学が出場可能に https://news.web.nhk/newsweb/na/na-k10015014201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masxcxfrhd2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 23:09:03)</span><span style="padding-right:50px;">Israel's Benjamin Netanyahu is proposing he oversee a commission to determine the scope of an inquiry into failings that enabled Hamas's Oct. 7 attack <a href="https://bsky.app/profile/wsj.com/post/3masx7td4ep2h" target="_blank">wsj.com</a> (2025-12-25 23:07:20)</span><span style="padding-right:50px;">North Korea released new images of what it claims is its first nuclear-powered submarine, a massive vessel equal in size to some of the United States Navy's attack subs. https://cnn.it/4pN1Xj0 <a href="https://bsky.app/profile/cnn.com/post/3maswvbxa5222" target="_blank">cnn.com</a> (2025-12-25 23:01:26)</span><span style="padding-right:50px;">As millions of Americans grapple with the rising cost of health insurance next year, we had our nationwide team of health reporters analyze almost $7 million in medical charges, more than $350,000 of that this year.  Here are our 10 takeaways from 2025: <a href="https://bsky.app/profile/washingtonpost.com/post/3maswuzwpke2g" target="_blank">washingtonpost.com</a> (2025-12-25 23:01:18)</span><span style="padding-right:50px;">アメリカの宝くじで2830億円、史上2番目　クリスマスイブに「大当たり」（無料記事） www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3maswu7delz24" target="_blank">nikkei.com</a> (2025-12-25 23:00:50)</span>
   </div>
 </div>
 
@@ -32,101 +32,97 @@
 
 ## News Headlines
 
-- ICE officer shoots undocumented driver in Baltimore suburb, causing crash and hospitalizations
-- Musicians sound alarm over AI-generated tracks on streaming platforms
-- Serbia supports talks with Hungary's Mol over sale of sanctioned NIS oil firm
-- Morocco coach dismisses injury talk, backs Ait Boudlal ahead of Mali test
-- Pope Leo urges Russia and Ukraine to engage in direct talks to end war
-- Lava spews from Hawaii's Kilauea volcano in live video feed
+- Israel's Netanyahu Proposes Probe into Hamas Attack Failings
+- North Korea Reveals Nuclear-Powered Submarine
+- US Health Insurance Costs Expected to Rise in 2025
+- Japan's Largest Lottery Jackpot Hits Record $28.3 Billion
+- Demilitarized Zone May Not Be Effective in Ending Russia-Ukraine War
+- Pope Leo XIV Calls for Peace and Consolation for War Victims
 
 
 ----
 
-@nytimes.com
+@nhknewsunofficial.bsky.social
 
-An ICE officer shot an undocumented driver trying to evade arrest on Wednesday in a Baltimore suburb, ICE and local officials said, resulting in a crash that left the driver and a passenger hospitalized.
+「箱根駅伝」 4年に1回の記念大会は全国の大学が出場可能に
+https://news.web.nhk/newsweb/na/na-k10015014201000
 
-[2025-12-25 22:40:05](https://bsky.app/profile/nytimes.com/post/3masvp4e5vr26)
-
----
-
-@en.afp.com
-
-VIDEO: 🎵 🤖 Musicians sound alarm over AI impersonators
-
-Musical artists are sounding the alarm as fraudulent AI-generated tracks are increasingly appearing in their profiles on streaming platforms, presented as their original work
-
-[2025-12-25 22:36:18](https://bsky.app/profile/en.afp.com/post/3masvide6o72x)
-
----
-
-@reuters.com
-
-Serbia supports talks with Hungary's Mol over sale of sanctioned NIS oil firm reut.rs/3YbKrJa
-
-[2025-12-25 22:35:08](https://bsky.app/profile/reuters.com/post/3masvgb5wrv2c)
-
----
-
-@nikkei.com
-
-ABEMA「今日、好きになりました。」情報圏の威力
-www.nikkei.com/article/DGXZQO...
-
-「10代女子が選ぶトレンドランキング」のヒト部門の1位は長浜広奈さんで、2位はMON7Aさん。2人は恋愛リアリティーショー「今日好き」の出演者です。
-
-音楽部門でも2位は幾多りらさんの歌う主題歌。Z世代のトレンドが「今日好き」から生まれ、SNSを通じて瞬時に拡散されています。
-
-[2025-12-25 22:30:39](https://bsky.app/profile/nikkei.com/post/3masv6a63f626)
-
----
-
-@reuters.com
-
-Morocco Coach Dismisses Aguerd injury talk, backs Ait Boudlal ahead of Mali test reut.rs/49bCGbm
-
-[2025-12-25 22:30:25](https://bsky.app/profile/reuters.com/post/3masv5sl2ai2y)
-
----
-
-@usatoday.com
-
-The royal duo played a touching duet for "Royal Carols," which aired on British TV on Christmas Eve.
-
-[2025-12-25 22:30:08](https://bsky.app/profile/usatoday.com/post/3masv5cfdsk2o)
-
----
-
-@aljazeera.com
-
-Raids across Istanbul seize weapons as authorities seek 22 remaining suspects still at large.
-
-[2025-12-25 22:30:04](https://bsky.app/profile/aljazeera.com/post/3masv56k5ez2z)
-
----
-
-@cbsnews.com
-
-In his first Christmas homily, Pope Leo lamented conditions for Palestinians in Gaza and urged Ukraine and Russia to engage in direct talks to end their war.
-
-[2025-12-25 22:30:01](https://bsky.app/profile/cbsnews.com/post/3masv53qzfj2g)
+[2025-12-25 23:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masxcxfrhd2m)
 
 ---
 
 @wsj.com
 
-Is there an “Aha!” moment when you know it’s time to retire? Often, the signs are not so obvious. on.wsj.com/3MXldM8
+Israel's Benjamin Netanyahu is proposing he oversee a commission to determine the scope of an inquiry into failings that enabled Hamas's Oct. 7 attack
 
-[2025-12-25 22:27:24](https://bsky.app/profile/wsj.com/post/3masuygi76n2s)
+[2025-12-25 23:07:20](https://bsky.app/profile/wsj.com/post/3masx7td4ep2h)
 
 ---
 
-@reuters.com
+@cnn.com
 
-LIVE: Hawaii's Kilauea volcano spews lava
-www.youtube.com/live/QSqQAob...
+North Korea released new images of what it claims is its first nuclear-powered submarine, a massive vessel equal in size to some of the United States Navy's attack subs. https://cnn.it/4pN1Xj0
 
-[2025-12-25 22:26:13](https://bsky.app/profile/reuters.com/post/3masuwctkac2j)
+[2025-12-25 23:01:26](https://bsky.app/profile/cnn.com/post/3maswvbxa5222)
+
+---
+
+@washingtonpost.com
+
+As millions of Americans grapple with the rising cost of health insurance next year, we had our nationwide team of health reporters analyze almost $7 million in medical charges, more than $350,000 of that this year.
+
+Here are our 10 takeaways from 2025:
+
+[2025-12-25 23:01:18](https://bsky.app/profile/washingtonpost.com/post/3maswuzwpke2g)
+
+---
+
+@nikkei.com
+
+アメリカの宝くじで2830億円、史上2番目　クリスマスイブに「大当たり」（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+[2025-12-25 23:00:50](https://bsky.app/profile/nikkei.com/post/3maswu7delz24)
+
+---
+
+@apnews.com
+
+From department stores to grocers, many companies across the U.S. close early on Christmas Eve and shut their doors entirely on Christmas Day — while others opt to cut back hours.
+
+[2025-12-25 23:00:27](https://bsky.app/profile/apnews.com/post/3maswtixov62u)
+
+---
+
+@usatoday.com
+
+President Trump proclaimed Dec. 26 a federal holiday in 2025, but some countries already recognize the date as its own holiday.
+
+[2025-12-25 23:00:21](https://bsky.app/profile/usatoday.com/post/3maswtdjuk22w)
+
+---
+
+@apnews.com
+
+County police in Maryland say federal immigration agents shot at a moving vehicle on Christmas Eve during an enforcement and removal action.
+
+[2025-12-25 23:00:13](https://bsky.app/profile/apnews.com/post/3maswt43ozx2k)
+
+---
+
+@aljazeera.com
+
+Ukraine accepts demilitarised zone to end Russia war, but do DMZs work? https://aje.io/mtz93e
+
+[2025-12-25 23:00:10](https://bsky.app/profile/aljazeera.com/post/3maswsyzvct2h)
+
+---
+
+@nbcnews.com
+
+In a holiday full of classic confections — candy canes, gingerbread and sugarplums — there's one that's showing up less often: fruitcake.
+
+[2025-12-25 23:00:06](https://bsky.app/profile/nbcnews.com/post/3maswsvpbmz2q)
 
 ---
 
