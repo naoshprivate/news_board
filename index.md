@@ -1,9 +1,9 @@
-# [2025-12-25 15:30 updated](2025_12_25.md)
+# [2025-12-25 15:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">＜１５：１４＞　国債先物は続落、長期金利2.045％　2年債入札低調で中期債金利上昇 bit.ly/4axd0bq <a href="https://bsky.app/profile/japan.reuters.com/post/3mas5ii2czl2f" target="_blank">japan.reuters.com</a> (2025-12-25 15:26:53)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】県道21号の犬鳴峠が全面通行止め 車3台の衝突事故で複数のけが人 2台から出火も 福岡・宮若市 (2025-12-25 15:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mas5gmsfxm26" target="_blank">sokuho.news</a> (2025-12-25 15:25:51)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】全国の百貨店 11月インバウンド売上高は2.5%マイナス 中国の“渡航自粛”から1か月以上 (2025-12-25 15:21:41) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mas5ep2gnd2x" target="_blank">sokuho.news</a> (2025-12-25 15:24:46)</span><span style="padding-right:50px;">Move over mocktails. The newest hangover-free indulgence is also the oldest. on.wsj.com/4qmvhwu <a href="https://bsky.app/profile/wsj.com/post/3mas5cwexcl2i" target="_blank">wsj.com</a> (2025-12-25 15:23:47)</span><span style="padding-right:50px;">5 major trends set to shape travel in 2026 <a href="https://bsky.app/profile/cnbc.com/post/3mas5asz44i24" target="_blank">cnbc.com</a> (2025-12-25 15:22:36)</span>
+<span style="padding-right:50px;">クスリのアオキホールディングスは２５日、発行済み株式の６．３２％に当たる６００万株・２４０億円を上限とする自社株買いを決議したと発表した。取得期間は２６日から２６年１２月２５日まで。 bit.ly/4aCPutH <a href="https://bsky.app/profile/japan.reuters.com/post/3mas6hvf2bd27" target="_blank">japan.reuters.com</a> (2025-12-25 15:44:27)</span><span style="padding-right:50px;">日本百貨店協会が２５日に発表した１１月の全国百貨店売上高は、店舗数調整後で前年比０．９％増の約５２１４億円となり、４カ月連続で前年を上回った。国内売り上げが順調に伸びて、インバウンドの落ち込みを補った。、 bit.ly/4s9eS0t <a href="https://bsky.app/profile/japan.reuters.com/post/3mas6e4kigg2f" target="_blank">japan.reuters.com</a> (2025-12-25 15:42:21)</span><span style="padding-right:50px;">Asfura won Honduras' presidential election, electoral authorities said Wednesday afternoon, ending a weeks-long count that has whittled away at the credibility of the nation's electoral system. n.pr/44HOdxw <a href="https://bsky.app/profile/npr.org/post/3mas6cx7gkj2y" target="_blank">npr.org</a> (2025-12-25 15:41:41)</span><span style="padding-right:50px;">片山さつき財務相は２５日、２０２６年度予算案に関し、過去最大規模と大きく報じられているが対名目国内総生産（ＧＤＰ）比率ではこの３年間ほとんど変わっておらず、民主党政権時代の方が若干大きかったと指摘した。経団連審議員会でのあいさつで語った。 bit.ly/493gfq1 <a href="https://bsky.app/profile/japan.reuters.com/post/3mas6adnl3427" target="_blank">japan.reuters.com</a> (2025-12-25 15:40:14)</span><span style="padding-right:50px;">Five killed in Nigeria mosque attack, police say reut.rs/3YdFWhf <a href="https://bsky.app/profile/reuters.com/post/3mas6ad2apk2o" target="_blank">reuters.com</a> (2025-12-25 15:40:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50380.44 (🔻69.74 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3372.00 (🔻5.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.75 (🔺0.01 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.89 (🔺0.15 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,21 +32,73 @@
 
 ## News Headlines
 
-- Japan Bond Futures Continue to Decline, Long-Term Interest Rates Reach 2.045%
-- Traffic on Hokkaido Road Reopened After Multiple Injuries and Car Fires
-- Japan's November Department Store Sales Decline 2.5% Due to China's Travel Restrictions
-- New Hangover-Free Drink Takes Center Stage
-- Teachers Assault Student in Sapporo, Japan
-- Japan's Central Bank to Maintain Loose Monetary Policy
+- Japan's Kusuri Holdings Approves ¥240 Billion Share Buyback Plan
+- Japan's Department Stores See Fourth Consecutive Month of Sales Growth
+- Asfura Wins Honduras Presidential Election Amid Election System Credibility Crisis
+- Japan's Finance Minister Criticizes 2026 Budget as Not Significantly Different from Previous Years
+- Five Killed in Nigeria Mosque Attack, Police Say
+- Multiple Injuries in Car Crash on Kusatsu Road in Fukuoka
 
 
 ----
 
 @japan.reuters.com
 
-＜１５：１４＞　国債先物は続落、長期金利2.045％　2年債入札低調で中期債金利上昇 bit.ly/4axd0bq
+クスリのアオキホールディングスは２５日、発行済み株式の６．３２％に当たる６００万株・２４０億円を上限とする自社株買いを決議したと発表した。取得期間は２６日から２６年１２月２５日まで。 bit.ly/4aCPutH
 
-[2025-12-25 15:26:53](https://bsky.app/profile/japan.reuters.com/post/3mas5ii2czl2f)
+[2025-12-25 15:44:27](https://bsky.app/profile/japan.reuters.com/post/3mas6hvf2bd27)
+
+---
+
+@japan.reuters.com
+
+日本百貨店協会が２５日に発表した１１月の全国百貨店売上高は、店舗数調整後で前年比０．９％増の約５２１４億円となり、４カ月連続で前年を上回った。国内売り上げが順調に伸びて、インバウンドの落ち込みを補った。、 bit.ly/4s9eS0t
+
+[2025-12-25 15:42:21](https://bsky.app/profile/japan.reuters.com/post/3mas6e4kigg2f)
+
+---
+
+@npr.org
+
+Asfura won Honduras' presidential election, electoral authorities said Wednesday afternoon, ending a weeks-long count that has whittled away at the credibility of the nation's electoral system. n.pr/44HOdxw
+
+[2025-12-25 15:41:41](https://bsky.app/profile/npr.org/post/3mas6cx7gkj2y)
+
+---
+
+@japan.reuters.com
+
+片山さつき財務相は２５日、２０２６年度予算案に関し、過去最大規模と大きく報じられているが対名目国内総生産（ＧＤＰ）比率ではこの３年間ほとんど変わっておらず、民主党政権時代の方が若干大きかったと指摘した。経団連審議員会でのあいさつで語った。 bit.ly/493gfq1
+
+[2025-12-25 15:40:14](https://bsky.app/profile/japan.reuters.com/post/3mas6adnl3427)
+
+---
+
+@reuters.com
+
+Five killed in Nigeria mosque attack, police say reut.rs/3YdFWhf
+
+[2025-12-25 15:40:13](https://bsky.app/profile/reuters.com/post/3mas6ad2apk2o)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】県道で車3台が絡む事故 うち2台から出火 子ども2人を含む6人を搬送 うち男性1人が意識不明 福岡
+(2025-12-25 15:30) #ニュース
+
+[2025-12-25 15:40:09](https://bsky.app/profile/sokuho.news/post/3mas6a7f42x2a)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【中継】福岡 宮若市で多重事故 複数人搬送
+https://news.web.nhk/newsweb/na/na-k10015013601000
+
+[2025-12-25 15:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas66bcihf2s)
 
 ---
 
@@ -54,84 +106,28 @@
 
 🛎️FNNより【速報】です。
 
-【速報】県道21号の犬鳴峠が全面通行止め 車3台の衝突事故で複数のけが人 2台から出火も 福岡・宮若市
+【速報】車3台の衝突事故で少なくとも6人救急搬送か 2台から出火も 県道21号線の犬鳴峠が全面通行止め 福岡・宮若市
 (2025-12-25 15:20) #ニュース
 
-[2025-12-25 15:25:51](https://bsky.app/profile/sokuho.news/post/3mas5gmsfxm26)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】全国の百貨店 11月インバウンド売上高は2.5%マイナス 中国の“渡航自粛”から1か月以上
-(2025-12-25 15:21:41) #ニュース
-
-[2025-12-25 15:24:46](https://bsky.app/profile/sokuho.news/post/3mas5ep2gnd2x)
-
----
-
-@wsj.com
-
-Move over mocktails. The newest hangover-free indulgence is also the oldest. on.wsj.com/4qmvhwu
-
-[2025-12-25 15:23:47](https://bsky.app/profile/wsj.com/post/3mas5cwexcl2i)
-
----
-
-@cnbc.com
-
-5 major trends set to shape travel in 2026
-
-[2025-12-25 15:22:36](https://bsky.app/profile/cnbc.com/post/3mas5asz44i24)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】登校中の小学生に無言で…腹部を殴り、体当たり 20代くらいの人物逃走 札幌市西区
-(2025-12-25 15:18) #ニュース
-
-[2025-12-25 15:21:17](https://bsky.app/profile/sokuho.news/post/3mas56hy5t42b)
+[2025-12-25 15:35:51](https://bsky.app/profile/sokuho.news/post/3mas5yjhtro2y)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-OTC類似薬 患者の追加負担 対象となる77成分の案示す 厚労省
-https://news.web.nhk/newsweb/na/na-k10015013511000
+打ち上げ失敗のH3ロケット 2段目機体と衛星 大気圏突入可能性
+https://news.web.nhk/newsweb/na/na-k10015013541000
 
-[2025-12-25 15:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas5632mf72k)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】登校中の小学生に無言で…腹部殴打し、体当たり 20代くらいの人物逃走 札幌市西区
-(2025-12-25 15:18) #ニュース
-
-[2025-12-25 15:20:28](https://bsky.app/profile/sokuho.news/post/3mas54yyyez2s)
+[2025-12-25 15:33:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas5toy5jj2m)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-午後３時のドル／円は、前日ニューヨーク市場の終盤からほぼ横ばいの１５５円後半で推移している。クリスマス休暇で多くの主要市場が休場のため取引は薄く、材料難の中で注目されていた日銀の植田和男総裁の講演も手掛かりにはならなかった。 bit.ly/4jx9lgl
+関西電力3原発 運転差し止め求めた訴え退ける 大津地裁
+https://news.web.nhk/newsweb/na/na-k10015013461000
 
-[2025-12-25 15:20:28](https://bsky.app/profile/japan.reuters.com/post/3mas54yrvha2q)
-
----
-
-@japan.reuters.com
-
-新華社によると、中国共産党の指導部である政治局は２５日に会議を開き、汚職取り締まりの強化策について議論した。 bit.ly/4p76YC1
-
-[2025-12-25 15:20:11](https://bsky.app/profile/japan.reuters.com/post/3mas54iedei2c)
+[2025-12-25 15:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas5tkwmpw2u)
 
 ---
 
