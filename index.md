@@ -1,9 +1,9 @@
-# [2025-12-25 13:50 updated](2025_12_25.md)
+# [2025-12-25 14:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米国の自動車安全規制当局は２４日、緊急時にドアロックが容易に解除できない可能性があるとして、米電気自動車（ＥＶ）大手テスラのセダン「モデル３」の欠陥調査を開始したと発表した。 bit.ly/4p4AKqN <a href="https://bsky.app/profile/japan.reuters.com/post/3marxjqp2en2q" target="_blank">japan.reuters.com</a> (2025-12-25 13:40:13)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】FW小山玲弥が2大会連続五輪メンバーに内定 アイスホッケー女子「スマイルジャパン」 山梨 (2025-12-25 13:37) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3marxf7kmqc2b" target="_blank">sokuho.news</a> (2025-12-25 13:37:41)</span><span style="padding-right:50px;">官房長官 “首相がトップ務める政府の会議数が増加 見直しを” https://news.web.nhk/newsweb/na/na-k10015013421000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marxccqjf52d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 13:36:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】青森県 ツキノワグマ出没警報を年末で解除へ (2025-12-25 13:35) #ニュース  🟨警報注意報 🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=020000 <a href="https://bsky.app/profile/sokuho.news/post/3marxbtc2bv2v" target="_blank">sokuho.news</a> (2025-12-25 13:35:47)</span><span style="padding-right:50px;">ウクライナ政府は２４日、経済成長率が一定水準を超えると返済額が上乗せされる２６億ドル規模のＧＤＰ連動ワラント債の債務再編について手続きを完了したと発表した。ウクライナがロシアの２２年の全面侵攻で陥った債務不履行の状態から脱却するための重要な一歩となる。 bit.ly/48RPZia <a href="https://bsky.app/profile/japan.reuters.com/post/3marxans5m425" target="_blank">japan.reuters.com</a> (2025-12-25 13:35:08)</span>
+<span style="padding-right:50px;">前場の中国株式市場は続伸。上海総合指数は１カ月超ぶりの高値を付けた。この基調を維持すれば７営業日続伸となる。香港市場は休場。 bit.ly/4b3JwBZ <a href="https://bsky.app/profile/japan.reuters.com/post/3marz4mtvfq2c" target="_blank">japan.reuters.com</a> (2025-12-25 14:08:40)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】道頓堀ビル火災 「バックドラフト」発生 屋外看板には「不燃材料」使われず 中間報告公表 (2025-12-25 14:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maryxiwpqg2b" target="_blank">sokuho.news</a> (2025-12-25 14:05:49)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】国分太一さんの人権救済 日弁連が申し立て認めず (2025-12-25 14:02:06) #ニュース https://news.tv-asahi.co.jp/news_society/articles/000475242.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3marywmwasn2z" target="_blank">sokuho.news</a> (2025-12-25 14:05:18)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「火炎は壁面を這うように」大阪・道頓堀ビル火災の中間報告公表 バックドラフト発生 エアコンが燃焼助長か (2025-12-25 14:02:33) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3marytgagzy27" target="_blank">sokuho.news</a> (2025-12-25 14:03:32)</span><span style="padding-right:50px;">Meet the boss who gave his employees a $240 million gift. <a href="https://bsky.app/profile/wsj.com/post/3maryszeh7e2h" target="_blank">wsj.com</a> (2025-12-25 14:03:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50318.85 (🔻131.33 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3367.00 (🔻10.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.71 (🔻0.03 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50313.14 (🔻137.04 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3365.00 (🔻12.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔻0.06 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,41 +32,21 @@
 
 ## News Headlines
 
-- Tesla's Model 3 Under Investigation for Safety Concerns
-- Australian PM Announces National Bravery Award for Civilians and First Responders
-- Ukraine Completes Debt Restructuring, Aims to Exit Default Status
-- School Principal in Fukushima Prefecture Faces Disciplinary Action for Drinking on the Job
-- Government Approves Plan to Make PSC Mark a Mandatory Safety Standard for Children's Toys
-- China's Politburo Discusses Anti-Corruption Efforts
+- Chinese Stocks Continue to Rise, Shanghai Composite Index Hits Record High
+- Fire at Osaka's Dotonbori Building: Investigation Reveals Backdraft Incident
+- Japan's Finance Minister Warns Against Rushed Fiscal Rebuilding
+- Global Oil Traders See Oversupply in 2026, With Some Variations in Projections
+- Australian Prime Minister Announces National Bravery Award to Honor Civilians and Responders
+- US Stocks End Year with 10th Consecutive Year of Double-Digit Growth
 
 
 ----
 
 @japan.reuters.com
 
-米国の自動車安全規制当局は２４日、緊急時にドアロックが容易に解除できない可能性があるとして、米電気自動車（ＥＶ）大手テスラのセダン「モデル３」の欠陥調査を開始したと発表した。 bit.ly/4p4AKqN
+前場の中国株式市場は続伸。上海総合指数は１カ月超ぶりの高値を付けた。この基調を維持すれば７営業日続伸となる。香港市場は休場。 bit.ly/4b3JwBZ
 
-[2025-12-25 13:40:13](https://bsky.app/profile/japan.reuters.com/post/3marxjqp2en2q)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】FW小山玲弥が2大会連続五輪メンバーに内定 アイスホッケー女子「スマイルジャパン」 山梨
-(2025-12-25 13:37) #ニュース
-
-[2025-12-25 13:37:41](https://bsky.app/profile/sokuho.news/post/3marxf7kmqc2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-官房長官 “首相がトップ務める政府の会議数が増加 見直しを”
-https://news.web.nhk/newsweb/na/na-k10015013421000
-
-[2025-12-25 13:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3marxccqjf52d)
+[2025-12-25 14:08:40](https://bsky.app/profile/japan.reuters.com/post/3marz4mtvfq2c)
 
 ---
 
@@ -74,21 +54,22 @@ https://news.web.nhk/newsweb/na/na-k10015013421000
 
 🛎️NNNより【速報】です。
 
-【速報】青森県 ツキノワグマ出没警報を年末で解除へ
-(2025-12-25 13:35) #ニュース
+【速報】道頓堀ビル火災 「バックドラフト」発生 屋外看板には「不燃材料」使われず 中間報告公表
+(2025-12-25 14:00) #ニュース
 
-🟨警報注意報
-🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=020000
-
-[2025-12-25 13:35:47](https://bsky.app/profile/sokuho.news/post/3marxbtc2bv2v)
+[2025-12-25 14:05:49](https://bsky.app/profile/sokuho.news/post/3maryxiwpqg2b)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-ウクライナ政府は２４日、経済成長率が一定水準を超えると返済額が上乗せされる２６億ドル規模のＧＤＰ連動ワラント債の債務再編について手続きを完了したと発表した。ウクライナがロシアの２２年の全面侵攻で陥った債務不履行の状態から脱却するための重要な一歩となる。 bit.ly/48RPZia
+🛎️ANNより【速報】です。
 
-[2025-12-25 13:35:08](https://bsky.app/profile/japan.reuters.com/post/3marxans5m425)
+【速報】国分太一さんの人権救済 日弁連が申し立て認めず
+(2025-12-25 14:02:06) #ニュース
+https://news.tv-asahi.co.jp/news_society/articles/000475242.html?display=full
+
+[2025-12-25 14:05:18](https://bsky.app/profile/sokuho.news/post/3marywmwasn2z)
 
 ---
 
@@ -96,50 +77,63 @@ https://news.web.nhk/newsweb/na/na-k10015013421000
 
 🛎️JNNより【速報】です。
 
-【速報】勤務中に校長室で飲酒、職員会議やPTA総会で居眠り…小学校の女性校長を停職処分 福島
-(2025-12-25 13:22:00) #ニュース
+【速報】「火炎は壁面を這うように」大阪・道頓堀ビル火災の中間報告公表 バックドラフト発生 エアコンが燃焼助長か
+(2025-12-25 14:02:33) #ニュース
 
-[2025-12-25 13:34:00](https://bsky.app/profile/sokuho.news/post/3marx6mrj2h25)
+[2025-12-25 14:03:32](https://bsky.app/profile/sokuho.news/post/3marytgagzy27)
 
 ---
 
-@sokuho.news
+@wsj.com
 
-🛎️JNNより【独自】です。
+Meet the boss who gave his employees a $240 million gift.
 
-【独自】帰宅途中の20代女性にわいせつな行為をしてけがをさせたか 不同意わいせつ傷害の疑いで男 (31）を逮捕 東京・練馬区 警視庁
-(2025-12-25 13:30:40) #ニュース
+[2025-12-25 14:03:18](https://bsky.app/profile/wsj.com/post/3maryszeh7e2h)
 
-[2025-12-25 13:33:53](https://bsky.app/profile/sokuho.news/post/3marx6ghut52r)
+---
+
+@wsj.com
+
+As Prime Minister Benjamin Netanyahu is set to visit President Trump in Washington, Israel is warning Iran’s missile rebuild could trigger new strikes, complicating U.S. efforts to stabilize the region.
+
+[2025-12-25 14:02:15](https://bsky.app/profile/wsj.com/post/3maryr57wwa23)
+
+---
+
+@japan.reuters.com
+
+高市早苗首相は２５日の内外情勢調査会で、財政運営を巡り「拙速な財政再建は、かえって財政の持続可能性を損なう」と述べた。税率を引き上げずに税収を増やす政策を進めることで、財政の持続可能性を実現する考えを強調した。 bit.ly/3YbPEAO
+
+[2025-12-25 14:02:07](https://bsky.app/profile/japan.reuters.com/post/3maryqvmomp2q)
 
 ---
 
 @nikkei.com
 
-乳幼児のおもちゃに初の安全規制　PSCマーク表示義務化、誤飲事故防げ
+2025年の気温、歴代3位見通し　速報で平年1.25度上回る
 www.nikkei.com/article/DGXZQO...
  
-日本で販売されるおもちゃのおよそ9割が輸入品です。国は輸入品にもPSCマーク表示を義務付けることで、民間頼みだった安全性の担保につなげます。
+上位5年は全て2019年以降の年が占めており、高温傾向が続いています。気象庁は地球温暖化の影響もあり「長期的に見れば、上昇していくのは間違いない」と述べ、適応策を考える必要があるとしています。
+ 
+#ニュース
 
-[2025-12-25 13:30:39](https://bsky.app/profile/nikkei.com/post/3marwympl6226)
-
----
-
-@apnews.com
-
-Australian Prime Minister Anthony Albanese announced plans for a national bravery award to recognize civilians and first responders who confronted “the worst of evil” during an antisemitic terror attack that left 15 dead and has cast a heavy shadow over the nation’s holiday season.
-
-[2025-12-25 13:30:28](https://bsky.app/profile/apnews.com/post/3marwycrmtb24)
+[2025-12-25 14:00:50](https://bsky.app/profile/nikkei.com/post/3maryolse4i22)
 
 ---
 
-@cnn.com
+@reuters.com
 
-The phone rings. Would your 10-year-old like to speak with the president? He’s tracking Santa Claus from his living room in Palm Beach.
+Hanwha's Philly Shipyard can build nuclear submarine for US Navy, executive says reut.rs/4qpPxNN
 
-“Santa is a very good person,” President Donald Trump, in a suit and gold tie, tells Jasper in Tulsa. https://cnn.it/4q4Ieva
+[2025-12-25 14:00:38](https://bsky.app/profile/reuters.com/post/3maryob7rzl2r)
 
-[2025-12-25 13:30:04](https://bsky.app/profile/cnn.com/post/3marwxlrnb72b)
+---
+
+@japan.reuters.com
+
+暗号資産（仮想通貨）交換業のコインベースは２２日、予測市場を運営する新興企業、ザ・クリアリング・カンパニーを買収すると発表した。暗号資産以外の分野に事業を多角化する動きで、今年１０件目の買収となる。 bit.ly/3YPlqUd
+
+[2025-12-25 14:00:37](https://bsky.app/profile/japan.reuters.com/post/3maryo7pldo2q)
 
 ---
 
