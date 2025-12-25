@@ -1,9 +1,9 @@
-# [2025-12-26 06:50 updated](2025_12_26.md)
+# [2025-12-26 07:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【本田圭佑氏と連携】 パーソルが会社対抗サッカー www.nikkei.com/article/DGXZQO...  2026年1月から3カ月間、KDDIやトヨタ自動車など6社と主催の3社で実証リーグを開催。  10分1本勝負の「4人制サッカー」で監督が存在せず、試合中は全員に出番があります。  社内や企業間のコミュニケーションを促進。健康経営支援やコンサルティングなど本業への相乗効果も狙います。 <a href="https://bsky.app/profile/nikkei.com/post/3matqv5jkab2c" target="_blank">nikkei.com</a> (2025-12-26 06:46:39)</span><span style="padding-right:50px;">メモリ品薄で価格上昇 パソコンやスマホなど値上がりの懸念 https://news.web.nhk/newsweb/na/na-k10015014101000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matqshvfpi26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 06:45:07)</span><span style="padding-right:50px;">Paper wealth is powering this economy. And it can disappear just as quickly as it was created. on.wsj.com/3KWJqlf <a href="https://bsky.app/profile/wsj.com/post/3matqscxy252h" target="_blank">wsj.com</a> (2025-12-26 06:45:04)</span><span style="padding-right:50px;">【動画】Pickup NEWS（12月26日） https://news.web.nhk/newsweb/na/na-k10015014031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matqsd7uxb2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 06:45:02)</span><span style="padding-right:50px;">Former prime minister Najib Razak faces judgment on Friday for his alleged involvement in Malaysia's 1MDB mega-graft scandal, with a guilty verdict likely to add years to a sentence already being served ➡️ u.afp.com/S8PA <a href="https://bsky.app/profile/en.afp.com/post/3matqrwwd6m2j" target="_blank">en.afp.com</a> (2025-12-26 06:44:51)</span>
+<span style="padding-right:50px;">注）手数料は上限。税込み。単位は％。 bit.ly/45kSCGP <a href="https://bsky.app/profile/japan.reuters.com/post/3mats4lwi4o25" target="_blank">japan.reuters.com</a> (2025-12-26 07:08:43)</span><span style="padding-right:50px;">Robert Lindsey, a journalist whose award-winning nonfiction spy thriller “The Falcon and the Snowman” was adapted into a movie starring Sean Penn and Timothy Hutton, and who ghostwrote autobiographies for former President Ronald Reagan and Marlon Brando, died this month. He was 90. <a href="https://bsky.app/profile/nytimes.com/post/3matrzbfz2t25" target="_blank">nytimes.com</a> (2025-12-26 07:06:51)</span><span style="padding-right:50px;">Xに投稿された画像を加工する機能　10秒でAI編集、権利侵害リスクも www.nikkei.com/article/DGXZQO...  Xが投稿画像を誰でもAIで加工できる新機能を搭載しました。  利用者側が自分の投稿した画像の編集を拒否する仕組みがなく、著作権や肖像権などの権利侵害につながる恐れがあります。  また、画像加工と投稿が簡単にできるようになったことで、誤情報や偽情報がX上で広まりやすくなるリスクもあります。 <a href="https://bsky.app/profile/nikkei.com/post/3matrz4wamo2f" target="_blank">nikkei.com</a> (2025-12-26 07:06:46)</span><span style="padding-right:50px;">A gargantuan task is underway to update the longest voter list in the world: https://cnn.it/4jaEYvK <a href="https://bsky.app/profile/cnn.com/post/3matrxsmse523" target="_blank">cnn.com</a> (2025-12-26 07:06:02)</span><span style="padding-right:50px;">🛎️文春より【スクープ】です。  「私の子供の父親は…」人気グラドル→未婚のシングルマザー・佐藤寛子が初めて「父親」を明かしたワケ (2025-12-26 07:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3matrofmd7u2v" target="_blank">sokuho.news</a> (2025-12-26 07:00:46)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.59 (🔻0.15 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.77 (🔺0.03 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,106 +32,103 @@
 
 ## News Headlines
 
-- Honda to team up with Guilty Guv to promote corporate soccer tournament
-- Memory shortage leads to price surge of computers, smartphones, and other electronic devices
-- Former Prime Minister Najib Razak to face trial for 1MDB scandal
-- Ukrainian President Zelensky hails 'new ideas' on peace deal after talks with US envoys
-- Colorado officials dismiss Trump's pardon of Peters, convicted of state crime
-- North Korea's Kim Jong Un signals continued missile development for next 5 years
+- Veteran Journalist Robert Lindsey Dies at 90
+- New X Feature Allows Users to Edit Images with AI, Raises Concerns Over Copyright and Privacy
+- Scotland Winger John Robertson Dies, Won European Cup Twice with Nottingham Forest
+- US Sees Record Snowfall in New York City
+- Ukraine's Zelensky Hails 'New Ideas' on Peace After Talk with US Envoys
+- Colorado Officials Dismiss Trump's Pardon of Peters, Convicted of State Crime
 
 
 ----
 
-@nikkei.com
-
-【本田圭佑氏と連携】
-パーソルが会社対抗サッカー
-www.nikkei.com/article/DGXZQO...
-
-2026年1月から3カ月間、KDDIやトヨタ自動車など6社と主催の3社で実証リーグを開催。
-
-10分1本勝負の「4人制サッカー」で監督が存在せず、試合中は全員に出番があります。
-
-社内や企業間のコミュニケーションを促進。健康経営支援やコンサルティングなど本業への相乗効果も狙います。
-
-[2025-12-26 06:46:39](https://bsky.app/profile/nikkei.com/post/3matqv5jkab2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-メモリ品薄で価格上昇 パソコンやスマホなど値上がりの懸念
-https://news.web.nhk/newsweb/na/na-k10015014101000
-
-[2025-12-26 06:45:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matqshvfpi26)
-
----
-
-@wsj.com
-
-Paper wealth is powering this economy. And it can disappear just as quickly as it was created. on.wsj.com/3KWJqlf
-
-[2025-12-26 06:45:04](https://bsky.app/profile/wsj.com/post/3matqscxy252h)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【動画】Pickup NEWS（12月26日）
-https://news.web.nhk/newsweb/na/na-k10015014031000
-
-[2025-12-26 06:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matqsd7uxb2d)
-
----
-
-@en.afp.com
-
-Former prime minister Najib Razak faces judgment on Friday for his alleged involvement in Malaysia's 1MDB mega-graft scandal, with a guilty verdict likely to add years to a sentence already being served ➡️ u.afp.com/S8PA
-
-[2025-12-26 06:44:51](https://bsky.app/profile/en.afp.com/post/3matqrwwd6m2j)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Zelensky hails 'new ideas' on peace after talk with US envoys
-
-[2025-12-26 06:43:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3matqpimomy2a)
-
----
-
 @japan.reuters.com
 
-ウクライナのゼレンスキー大統領は２５日、ロシアによる侵攻終結に向けた方策についてトランプ米政権のウィットコフ特使およびトランプ氏の娘婿ジャレド・クシュナー氏と約１時間協議したと明らかにした。 bit.ly/4qkSPSA
+注）手数料は上限。税込み。単位は％。 bit.ly/45kSCGP
 
-[2025-12-26 06:42:49](https://bsky.app/profile/japan.reuters.com/post/3matqocathz2c)
+[2025-12-26 07:08:43](https://bsky.app/profile/japan.reuters.com/post/3mats4lwi4o25)
 
 ---
 
 @nytimes.com
 
-As hurricane-force winds showered fire embers down on Altadena in January, it seemed almost impossible that much would survive. But while some of the towering deodar cedars lining Santa Rosa Avenue were singed by fire and damaged by wind, they survived. www.nytimes.com/card/2025/12...
+Robert Lindsey, a journalist whose award-winning nonfiction spy thriller “The Falcon and the Snowman” was adapted into a movie starring Sean Penn and Timothy Hutton, and who ghostwrote autobiographies for former President Ronald Reagan and Marlon Brando, died this month. He was 90.
 
-[2025-12-26 06:40:29](https://bsky.app/profile/nytimes.com/post/3matqk43jb22x)
+[2025-12-26 07:06:51](https://bsky.app/profile/nytimes.com/post/3matrzbfz2t25)
 
 ---
 
-@forbes.com
+@nikkei.com
 
-Colorado officials have dismissed the validity of Trump’s pardon, as Peters—whose arrest went viral across social platforms—was convicted of a state crime, where presidential pardons don’t apply.
+Xに投稿された画像を加工する機能　10秒でAI編集、権利侵害リスクも
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-26 06:35:04](https://bsky.app/profile/forbes.com/post/3matqah7js72c)
+Xが投稿画像を誰でもAIで加工できる新機能を搭載しました。
+
+利用者側が自分の投稿した画像の編集を拒否する仕組みがなく、著作権や肖像権などの権利侵害につながる恐れがあります。
+
+また、画像加工と投稿が簡単にできるようになったことで、誤情報や偽情報がX上で広まりやすくなるリスクもあります。
+
+[2025-12-26 07:06:46](https://bsky.app/profile/nikkei.com/post/3matrz4wamo2f)
+
+---
+
+@cnn.com
+
+A gargantuan task is underway to update the longest voter list in the world: https://cnn.it/4jaEYvK
+
+[2025-12-26 07:06:02](https://bsky.app/profile/cnn.com/post/3matrxsmse523)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️文春より【スクープ】です。
 
-【速報】小学生ひき逃げが多発…それぞれ高齢の男を逮捕 兵庫・明石市と神戸・西区 「ごめんな」「大丈夫ですか」声掛けて立ち去る 警察「けがの有無・大小に関わらず届け出を」
-(2025-12-26 06:15) #ニュース
+「私の子供の父親は…」人気グラドル→未婚のシングルマザー・佐藤寛子が初めて「父親」を明かしたワケ
+(2025-12-26 07:00) #ニュース
 
-[2025-12-26 06:31:08](https://bsky.app/profile/sokuho.news/post/3matpzfxijm2r)
+[2025-12-26 07:00:46](https://bsky.app/profile/sokuho.news/post/3matrofmd7u2v)
+
+---
+
+@apnews.com
+
+John Robertson, a former Scotland winger who won the European Cup twice with Nottingham Forest and scored the only goal in the 1980 final, has died.
+
+[2025-12-26 07:00:33](https://bsky.app/profile/apnews.com/post/3matrnyrbwl24)
+
+---
+
+@usatoday.com
+
+Is "Die Hard" a Christmas movie? What's the most annoying Christmas song and is Elf on the Shelf creepy? Here's where Americans stand on hot holiday topics.
+
+[2025-12-26 07:00:27](https://bsky.app/profile/usatoday.com/post/3matrntfzl42h)
+
+---
+
+@bloomberg.com
+
+Over the past decade, China has built up economic and military ties across the Indian Ocean. The region holds 40% of the world’s offshore oil and four of the most important maritime chokepoints. (from the archive)
+
+[2025-12-26 07:00:14](https://bsky.app/profile/bloomberg.com/post/3matrnh2tty23)
+
+---
+
+@washingtonpost.com
+
+At the summit of Mount Fuji, hot bowls of udon soup await climbers. Many swear that the exhaustion makes the food taste better at 12,400 feet. Could a bowl of noodles and an unforgettable sunset justify the climb?
+
+[2025-12-26 07:00:09](https://bsky.app/profile/washingtonpost.com/post/3matrnbotlc2d)
+
+---
+
+@nbcnews.com
+
+People covered by Obamacare and Medicaid may see health care costs rise, but for people on Medicare, Biden-era negotiated drug prices are set to go into effect.
+
+[2025-12-26 07:00:07](https://bsky.app/profile/nbcnews.com/post/3matrna6mfu2d)
 
 ---
 
