@@ -1,9 +1,9 @@
-# [2025-12-25 22:10 updated](2025_12_25.md)
+# [2025-12-25 22:30 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🎁 One of the greatest gifts Warren Buffett shared during his tenure as Berkshire Hathaway CEO: timeless wisdom. <a href="https://bsky.app/profile/yahoofinance.com/post/3mastscm37r2v" target="_blank">yahoofinance.com</a> (2025-12-25 22:06:05)</span><span style="padding-right:50px;">ローマ教皇レオ１４世は２５日、バチカンのサンピエトロ大聖堂で数千人の信者を前にクリスマスの説教を行い、ガザ地区のパレスチナ人の惨状を非難した。 bit.ly/4seOvGm <a href="https://bsky.app/profile/japan.reuters.com/post/3mastqtqbqm2q" target="_blank">japan.reuters.com</a> (2025-12-25 22:05:16)</span><span style="padding-right:50px;">These are the sports moments that defined the year for the WSJ Sports staff. on.wsj.com/3MQE7UZ <a href="https://bsky.app/profile/wsj.com/post/3mastnbrkwv2i" target="_blank">wsj.com</a> (2025-12-25 22:03:16)</span><span style="padding-right:50px;">Congressional Republicans have yet to break the record for most retirements in a single year, but some say it’s only a matter of time before widespread frustration with the current state of Washington leads to a tipping point as many in the party head for the exits. https://cnn.it/3KNK1Wt <a href="https://bsky.app/profile/cnn.com/post/3mastj6g7vb26" target="_blank">cnn.com</a> (2025-12-25 22:00:59)</span><span style="padding-right:50px;">Frequent travelers share what grinds their gears at airports, such as clueless passengers, impossible terminals and more.  Despite efforts by airport operators to improve, issues like long walks, crowded gates and limited charging stations persist.  <a href="https://bsky.app/profile/washingtonpost.com/post/3mastj42dt425" target="_blank">washingtonpost.com</a> (2025-12-25 22:00:56)</span>
+<span style="padding-right:50px;">Is there an “Aha!” moment when you know it’s time to retire? Often, the signs are not so obvious. on.wsj.com/3MXldM8 <a href="https://bsky.app/profile/wsj.com/post/3masuygi76n2s" target="_blank">wsj.com</a> (2025-12-25 22:27:24)</span><span style="padding-right:50px;">LIVE: Hawaii's Kilauea volcano spews lava www.youtube.com/live/QSqQAob... <a href="https://bsky.app/profile/reuters.com/post/3masuwctkac2j" target="_blank">reuters.com</a> (2025-12-25 22:26:13)</span><span style="padding-right:50px;">Imani Dia Smith, a former Broadway child actress who appeared in “The Lion King,” died on Sunday after she was stabbed at a home in New Jersey, officials said. <a href="https://bsky.app/profile/nytimes.com/post/3masuw2zozm2z" target="_blank">nytimes.com</a> (2025-12-25 22:26:05)</span><span style="padding-right:50px;">Russia compares US blockade of Venezuela to piracy reut.rs/4seAgBe <a href="https://bsky.app/profile/reuters.com/post/3masuueedpm24" target="_blank">reuters.com</a> (2025-12-25 22:25:08)</span><span style="padding-right:50px;">This discount retailer thrived in 2025 despite a volatile backdrop. Why that momentum can continue in 2026 <a href="https://bsky.app/profile/cnbc.com/post/3masutplf332g" target="_blank">cnbc.com</a> (2025-12-25 22:24:46)</span>
   </div>
 </div>
 
@@ -32,102 +32,99 @@
 
 ## News Headlines
 
-- Warren Buffett Shares Timeless Wisdom During His Tenure as Berkshire Hathaway CEO
-- Pope Leo XIV Condemns Gaza Situation in Christmas Message
-- Republicans Yet to Break Record for Most Retirements in a Single Year
-- Frequent Travelers Share Airport Gripes Despite Efforts to Improve
-- Bangladesh's Exiled Leader Returns After 17 Years in Exile
-- Pope Urges Russia and Ukraine to Hold Direct Talks in Christmas Message
+- When to Know It's Time to Retire
+- Hawaii's Kilauea Volcano Spews Lava
+- Former Broadway Child Actress Imani Dia Smith Dies After Being Stabbed in New Jersey
+- Russia Compares US Blockade of Venezuela to Piracy
+- Discount Retailer Thrives Despite Volatile Backdrop, Can Continue in 2026
+- Pope Leo XIV Urges Russia and Ukraine to Hold Direct Talks
 
 
 ----
 
-@yahoofinance.com
-
-🎁 One of the greatest gifts Warren Buffett shared during his tenure as Berkshire Hathaway CEO: timeless wisdom.
-
-[2025-12-25 22:06:05](https://bsky.app/profile/yahoofinance.com/post/3mastscm37r2v)
-
----
-
-@japan.reuters.com
-
-ローマ教皇レオ１４世は２５日、バチカンのサンピエトロ大聖堂で数千人の信者を前にクリスマスの説教を行い、ガザ地区のパレスチナ人の惨状を非難した。 bit.ly/4seOvGm
-
-[2025-12-25 22:05:16](https://bsky.app/profile/japan.reuters.com/post/3mastqtqbqm2q)
-
----
-
 @wsj.com
 
-These are the sports moments that defined the year for the WSJ Sports staff. on.wsj.com/3MQE7UZ
+Is there an “Aha!” moment when you know it’s time to retire? Often, the signs are not so obvious. on.wsj.com/3MXldM8
 
-[2025-12-25 22:03:16](https://bsky.app/profile/wsj.com/post/3mastnbrkwv2i)
-
----
-
-@cnn.com
-
-Congressional Republicans have yet to break the record for most retirements in a single year, but some say it’s only a matter of time before widespread frustration with the current state of Washington leads to a tipping point as many in the party head for the exits. https://cnn.it/3KNK1Wt
-
-[2025-12-25 22:00:59](https://bsky.app/profile/cnn.com/post/3mastj6g7vb26)
-
----
-
-@washingtonpost.com
-
-Frequent travelers share what grinds their gears at airports, such as clueless passengers, impossible terminals and more.
-
-Despite efforts by airport operators to improve, issues like long walks, crowded gates and limited charging stations persist. 
-
-[2025-12-25 22:00:56](https://bsky.app/profile/washingtonpost.com/post/3mastj42dt425)
-
----
-
-@cnbc.com
-
-For many parents, catching your child in a lie can feel like a personal betrayal. Parenting expert Alyssa Bask Campbell shares what to say so that you raise confident, honest kids. 
-
-[2025-12-25 22:00:51](https://bsky.app/profile/cnbc.com/post/3mastix2vhj2i)
-
----
-
-@nikkei.com
-
-砂漠の真ん中でプロ野球リーグ　未開の地で狙う「ドバイドリーム」
-www.nikkei.com/article/DGXZQO...
-
-初年度の2025年は4球団が参加してドバイで開催。ドバイの球団には日本選手14人が所属し、元ソフトバンクの川崎宗則選手もプレーしました。
-
-野球未開の地に成長の可能性を感じたアメリカ人実業家が元大リーガー20人から出資を受けて創設。
-
-2027年にはサウジアラビアなど8球団に拡大し、黒字化を目指す計画です。
-
-[2025-12-25 22:00:40](https://bsky.app/profile/nikkei.com/post/3mastimp3st2m)
+[2025-12-25 22:27:24](https://bsky.app/profile/wsj.com/post/3masuygi76n2s)
 
 ---
 
 @reuters.com
 
-Daughters of King Charles' brother Andrew join royals for Christmas service reut.rs/4pNyyoQ
+LIVE: Hawaii's Kilauea volcano spews lava
+www.youtube.com/live/QSqQAob...
 
-[2025-12-25 22:00:34](https://bsky.app/profile/reuters.com/post/3mastigsawc2s)
-
----
-
-@usatoday.com
-
-President Donald Trump participated in NORAD's Santa calls on Christmas Eve, speaking to kids from across the country.
-
-[2025-12-25 22:00:25](https://bsky.app/profile/usatoday.com/post/3masti64lp42l)
+[2025-12-25 22:26:13](https://bsky.app/profile/reuters.com/post/3masuwctkac2j)
 
 ---
 
-@apnews.com
+@nytimes.com
 
-A federal judge’s ruling has cleared the way for Hawaii to include cruise ship passengers in a new tourist tax to help cope with climate change, a levy set to go into effect at the start of 2026.
+Imani Dia Smith, a former Broadway child actress who appeared in “The Lion King,” died on Sunday after she was stabbed at a home in New Jersey, officials said.
 
-[2025-12-25 22:00:17](https://bsky.app/profile/apnews.com/post/3masthwikih2k)
+[2025-12-25 22:26:05](https://bsky.app/profile/nytimes.com/post/3masuw2zozm2z)
+
+---
+
+@reuters.com
+
+Russia compares US blockade of Venezuela to piracy reut.rs/4seAgBe
+
+[2025-12-25 22:25:08](https://bsky.app/profile/reuters.com/post/3masuueedpm24)
+
+---
+
+@cnbc.com
+
+This discount retailer thrived in 2025 despite a volatile backdrop. Why that momentum can continue in 2026
+
+[2025-12-25 22:24:46](https://bsky.app/profile/cnbc.com/post/3masutplf332g)
+
+---
+
+@cnbc.com
+
+Why buying Berkshire was Warren Buffett's biggest mistake
+
+[2025-12-25 22:22:36](https://bsky.app/profile/cnbc.com/post/3masupt6mrz23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+大分 大規模火災 “風向き頻繁に変わり飛び火か” 国の検討会
+https://news.web.nhk/newsweb/na/na-k10015014191000
+
+[2025-12-25 22:18:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masuhuflgd2l)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「介護殺人」などで死亡した高齢者 10年間で少なくとも129人に
+https://news.web.nhk/newsweb/na/na-k10015014181000
+
+[2025-12-25 22:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masuhq7mfc2d)
+
+---
+
+@nikkei.com
+
+名古屋駅前の再開発、名鉄「寝耳に水」の中断
+www.nikkei.com/article/DGXZQO...
+
+「歴史的に見ても例がないほどの難工事」。その背景を探ると、3つの理由が浮かんできました。
+
+[2025-12-25 22:16:39](https://bsky.app/profile/nikkei.com/post/3masuf6vkcv26)
+
+---
+
+@cnbc.com
+
+Tariffs hit boots, bags and more as leather prices jump — and relief could be years away
+
+[2025-12-25 22:14:52](https://bsky.app/profile/cnbc.com/post/3masubzcbog2b)
 
 ---
 
