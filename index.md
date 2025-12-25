@@ -1,9 +1,9 @@
-# [2025-12-25 15:10 updated](2025_12_25.md)
+# [2025-12-25 15:30 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】悠仁さま1月1日皇居での「新年祝賀の儀」に初めて出席へ 9月に成年式を終え (2025-12-25 15:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mas4ih434625" target="_blank">sokuho.news</a> (2025-12-25 15:08:58)</span><span style="padding-right:50px;">日銀 植田総裁 “今後も経済状況見ながら利上げ検討していく” https://news.web.nhk/newsweb/na/na-k10015013501000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas4dbe26q2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 15:06:03)</span><span style="padding-right:50px;">Saudi Arabia says Yemen group should withdraw its forces from seized provinces reut.rs/3MTOG9M <a href="https://bsky.app/profile/reuters.com/post/3mas4bmcjhr2r" target="_blank">reuters.com</a> (2025-12-25 15:05:09)</span><span style="padding-right:50px;">JUST IN: A winning ticket for Powerball's $1.8 billion jackpot was sold in Arkansas, the largest prize this year. <a href="https://bsky.app/profile/nbcnews.com/post/3mas45dizpy2x" target="_blank">nbcnews.com</a> (2025-12-25 15:02:45)</span><span style="padding-right:50px;">A grand jury has declined to indict the father of two Kentucky State University students who was charged with murder in an on-campus shooting that killed one student and critically injured another.  <a href="https://bsky.app/profile/cnn.com/post/3mas42a753723" target="_blank">cnn.com</a> (2025-12-25 15:01:01)</span>
+<span style="padding-right:50px;">＜１５：１４＞　国債先物は続落、長期金利2.045％　2年債入札低調で中期債金利上昇 bit.ly/4axd0bq <a href="https://bsky.app/profile/japan.reuters.com/post/3mas5ii2czl2f" target="_blank">japan.reuters.com</a> (2025-12-25 15:26:53)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】県道21号の犬鳴峠が全面通行止め 車3台の衝突事故で複数のけが人 2台から出火も 福岡・宮若市 (2025-12-25 15:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mas5gmsfxm26" target="_blank">sokuho.news</a> (2025-12-25 15:25:51)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】全国の百貨店 11月インバウンド売上高は2.5%マイナス 中国の“渡航自粛”から1か月以上 (2025-12-25 15:21:41) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mas5ep2gnd2x" target="_blank">sokuho.news</a> (2025-12-25 15:24:46)</span><span style="padding-right:50px;">Move over mocktails. The newest hangover-free indulgence is also the oldest. on.wsj.com/4qmvhwu <a href="https://bsky.app/profile/wsj.com/post/3mas5cwexcl2i" target="_blank">wsj.com</a> (2025-12-25 15:23:47)</span><span style="padding-right:50px;">5 major trends set to shape travel in 2026 <a href="https://bsky.app/profile/cnbc.com/post/3mas5asz44i24" target="_blank">cnbc.com</a> (2025-12-25 15:22:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50372.14 (🔻78.04 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3372.00 (🔻5.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.75 (🔺0.01 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50380.44 (🔻69.74 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3372.00 (🔻5.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.75 (🔺0.01 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,102 +32,106 @@
 
 ## News Headlines
 
-- Japan's BOJ Chief Sees Steady Progress Toward 2% Inflation Target
-- Winning Powerball Ticket Sold in Arkansas Worth $1.817 Billion
-- BOJ Chief Says Underlying Inflation Steadily Approaching 2% Target
-- Japan's BOJ Chief Says Economic Situation to be Monitored for Rate Hike
-- Taiwan's Exports Rise 7.1% in November, Outpacing Analysts' Forecast
-- TikTok Shopping Habits Shift from Budget to Luxury Brands
+- Japan Bond Futures Continue to Decline, Long-Term Interest Rates Reach 2.045%
+- Traffic on Hokkaido Road Reopened After Multiple Injuries and Car Fires
+- Japan's November Department Store Sales Decline 2.5% Due to China's Travel Restrictions
+- New Hangover-Free Drink Takes Center Stage
+- Teachers Assault Student in Sapporo, Japan
+- Japan's Central Bank to Maintain Loose Monetary Policy
 
 
 ----
+
+@japan.reuters.com
+
+＜１５：１４＞　国債先物は続落、長期金利2.045％　2年債入札低調で中期債金利上昇 bit.ly/4axd0bq
+
+[2025-12-25 15:26:53](https://bsky.app/profile/japan.reuters.com/post/3mas5ii2czl2f)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】県道21号の犬鳴峠が全面通行止め 車3台の衝突事故で複数のけが人 2台から出火も 福岡・宮若市
+(2025-12-25 15:20) #ニュース
+
+[2025-12-25 15:25:51](https://bsky.app/profile/sokuho.news/post/3mas5gmsfxm26)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】全国の百貨店 11月インバウンド売上高は2.5%マイナス 中国の“渡航自粛”から1か月以上
+(2025-12-25 15:21:41) #ニュース
+
+[2025-12-25 15:24:46](https://bsky.app/profile/sokuho.news/post/3mas5ep2gnd2x)
+
+---
+
+@wsj.com
+
+Move over mocktails. The newest hangover-free indulgence is also the oldest. on.wsj.com/4qmvhwu
+
+[2025-12-25 15:23:47](https://bsky.app/profile/wsj.com/post/3mas5cwexcl2i)
+
+---
+
+@cnbc.com
+
+5 major trends set to shape travel in 2026
+
+[2025-12-25 15:22:36](https://bsky.app/profile/cnbc.com/post/3mas5asz44i24)
+
+---
 
 @sokuho.news
 
 🛎️NNNより【速報】です。
 
-【速報】悠仁さま1月1日皇居での「新年祝賀の儀」に初めて出席へ 9月に成年式を終え
-(2025-12-25 15:08) #ニュース
+【速報】登校中の小学生に無言で…腹部を殴り、体当たり 20代くらいの人物逃走 札幌市西区
+(2025-12-25 15:18) #ニュース
 
-[2025-12-25 15:08:58](https://bsky.app/profile/sokuho.news/post/3mas4ih434625)
+[2025-12-25 15:21:17](https://bsky.app/profile/sokuho.news/post/3mas56hy5t42b)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-日銀 植田総裁 “今後も経済状況見ながら利上げ検討していく”
-https://news.web.nhk/newsweb/na/na-k10015013501000
+OTC類似薬 患者の追加負担 対象となる77成分の案示す 厚労省
+https://news.web.nhk/newsweb/na/na-k10015013511000
 
-[2025-12-25 15:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas4dbe26q2m)
-
----
-
-@reuters.com
-
-Saudi Arabia says Yemen group should withdraw its forces from seized provinces reut.rs/3MTOG9M
-
-[2025-12-25 15:05:09](https://bsky.app/profile/reuters.com/post/3mas4bmcjhr2r)
+[2025-12-25 15:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas5632mf72k)
 
 ---
 
-@nbcnews.com
+@sokuho.news
 
-<strong><span style="color: red;">JUST IN:</span> A winning ticket for Powerball's $1.8 billion jackpot was sold in Arkansas, the largest prize this year.</strong>
+🛎️NNNより【速報】です。
 
-[2025-12-25 15:02:45](https://bsky.app/profile/nbcnews.com/post/3mas45dizpy2x)
+【速報】登校中の小学生に無言で…腹部殴打し、体当たり 20代くらいの人物逃走 札幌市西区
+(2025-12-25 15:18) #ニュース
 
----
-
-@cnn.com
-
-A grand jury has declined to indict the father of two Kentucky State University students who was charged with murder in an on-campus shooting that killed one student and critically injured another. 
-
-[2025-12-25 15:01:01](https://bsky.app/profile/cnn.com/post/3mas42a753723)
-
----
-
-@nikkei.com
-
-クリスマス「予定なし」54%（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-予定がない理由は「興味がない・習慣がない」が31%、次に「お金をかけたくない・節約したい」が16%でした。
-
-#クリスマスの予定
-
-[2025-12-25 15:00:54](https://bsky.app/profile/nikkei.com/post/3mas3zzkd6z26)
+[2025-12-25 15:20:28](https://bsky.app/profile/sokuho.news/post/3mas54yyyez2s)
 
 ---
 
 @japan.reuters.com
 
-東京・羽田空港で２０２４年１月に起きた海上保安庁と日本航空（ＪＡＬ）の機体衝突事故の原因を調べている運輸安全委員会は２５日、２回目となる経過報告を公表し、海保機機長の労務管理や疲労などを分析対象に追加したと明らかにした。 bit.ly/3YH5qDN
+午後３時のドル／円は、前日ニューヨーク市場の終盤からほぼ横ばいの１５５円後半で推移している。クリスマス休暇で多くの主要市場が休場のため取引は薄く、材料難の中で注目されていた日銀の植田和男総裁の講演も手掛かりにはならなかった。 bit.ly/4jx9lgl
 
-[2025-12-25 15:00:28](https://bsky.app/profile/japan.reuters.com/post/3mas3zaeph422)
-
----
-
-@bloomberg.com
-
-India and China are vying for control of strategic islands and chokepoints in the Indian Ocean. With shifting US policy, the battle for influence is intensifying, shaping regional and global power. (from the archive)
-
-[2025-12-25 15:00:12](https://bsky.app/profile/bloomberg.com/post/3mas3yrg3do2p)
+[2025-12-25 15:20:28](https://bsky.app/profile/japan.reuters.com/post/3mas54yrvha2q)
 
 ---
 
-@forbes.com
+@japan.reuters.com
 
-This is the second biggest lottery prize of all time and the biggest jackpot of 2025—eclipsing a $1.76 billion prize split between two winners in September.
+新華社によると、中国共産党の指導部である政治局は２５日に会議を開き、汚職取り締まりの強化策について議論した。 bit.ly/4p76YC1
 
-[2025-12-25 15:00:06](https://bsky.app/profile/forbes.com/post/3mas3ylctfu2f)
-
----
-
-@financialtimes.com
-
- Year in a word: 6-7 ft.trib.al/AAJaaa0  | opinion
-
-[2025-12-25 14:58:47](https://bsky.app/profile/financialtimes.com/post/3mas3wacqyd24)
+[2025-12-25 15:20:11](https://bsky.app/profile/japan.reuters.com/post/3mas54iedei2c)
 
 ---
 
