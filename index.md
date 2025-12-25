@@ -1,9 +1,9 @@
-# [2025-12-25 16:10 updated](2025_12_25.md)
+# [2025-12-25 16:30 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ソフトバンクを自由契約の有原航平 日本ハムに6年ぶり復帰合意 https://news.web.nhk/newsweb/na/na-k10015013661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas7u23tjs2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 16:09:07)</span><span style="padding-right:50px;">高市首相“2度目の日米首脳会談を 来年早い時期の訪米を調整” https://news.web.nhk/newsweb/na/na-k10015013651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas7tvopbb2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 16:09:02)</span><span style="padding-right:50px;">東京株式市場で日経平均は小幅に反発し、前営業日比６３円６９銭高の５万０４０７円７９銭で取引を終えた。海外勢がクリスマス休暇に入り参加者も手掛かり材料が少ない中、前日終値を挟んだ小動きが続いた。売買代金は３兆円を下回り、今年最低となった。 bit.ly/44JWhOj <a href="https://bsky.app/profile/japan.reuters.com/post/3mas7suczvg2q" target="_blank">japan.reuters.com</a> (2025-12-25 16:08:29)</span><span style="padding-right:50px;">中国国営メディアによると、一人っ子政策を推進した彭佩雲・元国家計画生育委員会主任が２１日に死去した。 bit.ly/4jdEo09 <a href="https://bsky.app/profile/japan.reuters.com/post/3mas7p3b5t32p" target="_blank">japan.reuters.com</a> (2025-12-25 16:06:22)</span><span style="padding-right:50px;">Helicopter crash on Tanzania's Mount Kilimanjaro kills five, aviation authority says reut.rs/48RTCEO <a href="https://bsky.app/profile/reuters.com/post/3mas7mtsxci2x" target="_blank">reuters.com</a> (2025-12-25 16:05:07)</span>
+<span style="padding-right:50px;">香港の投資ファンド、オアシス・マネジメントが、カカクコム 株を５．２３％保有していることが分かった。２５日、関東財務局に大量保有報告書を提出した。保有目的は「ポートフォリオ投資および重要提案行為」としている。報告義務発生日は１８日。 bit.ly/4b3QlDE <a href="https://bsky.app/profile/japan.reuters.com/post/3masaxhgz422c" target="_blank">japan.reuters.com</a> (2025-12-25 16:28:57)</span><span style="padding-right:50px;">自民党を離党した元国会議員2人 参政党に入党 https://news.web.nhk/newsweb/na/na-k10015013671000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masau4qiub2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 16:27:03)</span><span style="padding-right:50px;">Watch: Moment robbers rip ATM machine from inside Texas store <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3masam44hqi2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-25 16:22:35)</span><span style="padding-right:50px;">Where is Santa now? Trump answers kids' calls to Norad tracker <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3masak6qfhg2s" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-25 16:21:31)</span><span style="padding-right:50px;">Law firms hire record number of City partners as US players expand aggressively ft.trib.al/IVNxlob <a href="https://bsky.app/profile/financialtimes.com/post/3masaixwrpj2o" target="_blank">financialtimes.com</a> (2025-12-25 16:20:51)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔺0.19 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔺0.12 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,95 +32,97 @@
 
 ## News Headlines
 
-- SoftBank's Soeda to Leave After 6 Years, Returns to Nippon Ham
-- Japan's PM to Hold 2nd Summit with US President in Early Next Year
-- Tokyo Stock Market Closed with a Small Increase
-- Former Head of China's Family Planning Committee Dies
-- Helicopter Crash on Tanzania's Mount Kilimanjaro Kills Five
-- Investors Find Little Cheer in Fine Wine Market
+- Japanese Fund Oasis Management Owns 5.23% of Kakaku.com
+- Two Former LDP Lawmakers Join Opposition Party
+- Record Number of Law Firms Hire City Partners as US Players Expand Aggressively
+- Bangladesh PM Front-Runner Returns After 17-Year Exile
+- Japanese Stock Market Ends Lower, but Ends Year with Record-Low Turnover
+- Toyota's Global Sales Fall in November for First Time in 11 Months
 
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-ソフトバンクを自由契約の有原航平 日本ハムに6年ぶり復帰合意
-https://news.web.nhk/newsweb/na/na-k10015013661000
-
-[2025-12-25 16:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas7u23tjs2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相“2度目の日米首脳会談を 来年早い時期の訪米を調整”
-https://news.web.nhk/newsweb/na/na-k10015013651000
-
-[2025-12-25 16:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas7tvopbb2k)
-
----
-
 @japan.reuters.com
 
-東京株式市場で日経平均は小幅に反発し、前営業日比６３円６９銭高の５万０４０７円７９銭で取引を終えた。海外勢がクリスマス休暇に入り参加者も手掛かり材料が少ない中、前日終値を挟んだ小動きが続いた。売買代金は３兆円を下回り、今年最低となった。 bit.ly/44JWhOj
+香港の投資ファンド、オアシス・マネジメントが、カカクコム 株を５．２３％保有していることが分かった。２５日、関東財務局に大量保有報告書を提出した。保有目的は「ポートフォリオ投資および重要提案行為」としている。報告義務発生日は１８日。 bit.ly/4b3QlDE
 
-[2025-12-25 16:08:29](https://bsky.app/profile/japan.reuters.com/post/3mas7suczvg2q)
-
----
-
-@japan.reuters.com
-
-中国国営メディアによると、一人っ子政策を推進した彭佩雲・元国家計画生育委員会主任が２１日に死去した。 bit.ly/4jdEo09
-
-[2025-12-25 16:06:22](https://bsky.app/profile/japan.reuters.com/post/3mas7p3b5t32p)
+[2025-12-25 16:28:57](https://bsky.app/profile/japan.reuters.com/post/3masaxhgz422c)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Helicopter crash on Tanzania's Mount Kilimanjaro kills five, aviation authority says reut.rs/48RTCEO
+自民党を離党した元国会議員2人 参政党に入党
+https://news.web.nhk/newsweb/na/na-k10015013671000
 
-[2025-12-25 16:05:07](https://bsky.app/profile/reuters.com/post/3mas7mtsxci2x)
+[2025-12-25 16:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masau4qiub2x)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Watch: Moment robbers rip ATM machine from inside Texas store
+
+[2025-12-25 16:22:35](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3masam44hqi2y)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Where is Santa now? Trump answers kids' calls to Norad tracker
+
+[2025-12-25 16:21:31](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3masak6qfhg2s)
 
 ---
 
 @financialtimes.com
 
-Fine wine investors find little cheer in third year of falls ft.trib.al/13ACSHX
+Law firms hire record number of City partners as US players expand aggressively ft.trib.al/IVNxlob
 
-[2025-12-25 16:05:06](https://bsky.app/profile/financialtimes.com/post/3mas7msnf4e2q)
-
----
-
-@cnn.com
-
-The longtime host of the Kennedy Center’s annual Christmas Eve jazz performance said he canceled Wednesday’s concert following the board of trustees’ move to rename the facility for both the 35th president and President Donald Trump. 
-
-[2025-12-25 16:05:01](https://bsky.app/profile/cnn.com/post/3mas7mo6rzk24)
+[2025-12-25 16:20:51](https://bsky.app/profile/financialtimes.com/post/3masaixwrpj2o)
 
 ---
 
-@wsj.com
+@bbcnews-world-rss.bsky.social
 
-Gabapentin has soared in popularity as an alternative to opioids—but patients are finding it can cause harm.
+Front-runner to be Bangladesh PM returns after 17 years in exile
 
-[2025-12-25 16:02:26](https://bsky.app/profile/wsj.com/post/3mas7i2m74s2c)
-
----
-
-@bloomberg.com
-
-Carbon offsets—a controversial tool companies use to try and make up for emissions—could be worth $1 trillion by 2050. But a crisis in one the world’s largest offset projects shows the limits of such efforts. (from the archive)
-
-[2025-12-25 16:00:44](https://bsky.app/profile/bloomberg.com/post/3mas7eyyope2f)
+[2025-12-25 16:20:26](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3masaibgqpb2v)
 
 ---
 
 @japan.reuters.com
 
-トヨタ自動車が２５日に発表したトヨタ単体（レクサス車を含む）の１１月の世界販売は、前年同月比２．２％減の９０万００１１台で、１１カ月ぶりに前年を下回った。主力市場の北米は好調が続いたものの、中国の低迷などで海外販売が振るわなかった。世界生産は同５．５％減の８２万１７２３台で、６カ月ぶりの前年割れとなった。 bit.ly/4jgGVqA
+１２月第３週（１２月１５日─１２月１９日）の海外投資家による日本の現物株と先物合計の売買は、４９６７億円の売り越し（前週は４７９３億円の買い越し）だった。売り越しは６週ぶり。個人は３３８９億円の買い越し（同２８２５億円の売り越し）で２週ぶりの買い越し、信託銀行は１１４４億円の売り越し（同１９０９億円の売り越し）で３週連続で売り越した。 bit.ly/44LkjIR
 
-[2025-12-25 16:00:41](https://bsky.app/profile/japan.reuters.com/post/3mas7evnnyl2p)
+[2025-12-25 16:20:23](https://bsky.app/profile/japan.reuters.com/post/3masai5jvhn25)
+
+---
+
+@japan.reuters.com
+
+高市早苗首相は２５日、経団連審議員会であいさつし、２０２６年度春季労使交渉（春闘）において「物価上昇に負けないベースアップ」を実現するよう企業経営者に呼びかけた。 bit.ly/4qpUfuX
+
+[2025-12-25 16:20:09](https://bsky.app/profile/japan.reuters.com/post/3masahq3zbk2c)
+
+---
+
+@wsj.com
+
+India is spending hundreds of millions of dollars to build roads, tunnels and landing strips throughout the Himalayas, as it prepares for a possible future clash with China.
+
+[2025-12-25 16:19:41](https://bsky.app/profile/wsj.com/post/3masagvd3jk2g)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】車3台の衝突事故 1人死亡 子供など6人搬送 2台から出火も 県道21号線の犬鳴峠が全面通行止め 福岡・宮若市
+(2025-12-25 15:20) #ニュース
+
+[2025-12-25 16:16:08](https://bsky.app/profile/sokuho.news/post/3masaak67t32s)
 
 ---
 
