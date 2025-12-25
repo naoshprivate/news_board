@@ -1,9 +1,9 @@
-# [2025-12-26 02:10 updated](2025_12_26.md)
+# [2025-12-26 02:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">One family’s centurieslong trade provides a window on British colonial history and Kenya’s independence, but its time looks to be coming to a close. on.wsj.com/4paqWLW <a href="https://bsky.app/profile/wsj.com/post/3mataxvto552r" target="_blank">wsj.com</a> (2025-12-26 02:01:52)</span><span style="padding-right:50px;">Catherine, Princess of Wales, and Princess Charlotte perform piano duet for Christmas carol service https://cnn.it/4q57fq4 <a href="https://bsky.app/profile/cnn.com/post/3matawiajfl26" target="_blank">cnn.com</a> (2025-12-26 02:01:04)</span><span style="padding-right:50px;">“I want my inheritance now.” From forced property transfers to drained pensions, older people are increasingly losing their life savings to family members. <a href="https://bsky.app/profile/bloomberg.com/post/3matawcobkq23" target="_blank">bloomberg.com</a> (2025-12-26 02:00:58)</span><span style="padding-right:50px;">Four members of Liechtenstein family found dead reut.rs/4pQBgdb <a href="https://bsky.app/profile/reuters.com/post/3matavxc6c42k" target="_blank">reuters.com</a> (2025-12-26 02:00:46)</span><span style="padding-right:50px;">No, you can’t get the flu from the flu vaccine.  The temporary side effects that you might feel after getting the vaccine are your immune system reacting to the inactive proteins from the surface of the virus. <a href="https://bsky.app/profile/washingtonpost.com/post/3matavdkaia2g" target="_blank">washingtonpost.com</a> (2025-12-26 02:00:25)</span>
+<span style="padding-right:50px;">Reports: Cavaliers F Evan Mobley to return vs. Knicks reut.rs/4paEtmG <a href="https://bsky.app/profile/reuters.com/post/3matcbj5dig2p" target="_blank">reuters.com</a> (2025-12-26 02:25:08)</span><span style="padding-right:50px;">Dave Willat was just 11 years old when he showed up for what he thought would be a routine church choir practice in 1965. He and his fellow singers ended up making history. <a href="https://bsky.app/profile/npr.org/post/3matc7nc7cp2b" target="_blank">npr.org</a> (2025-12-26 02:24:05)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】石川・七尾市の商業施設で男性切りつけられる 刃物を持った男が逃走中 (2025-12-26 02:19:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3matc3cmwoc2a" target="_blank">sokuho.news</a> (2025-12-26 02:21:39)</span><span style="padding-right:50px;">Report: Lions RB David Montgomery (illness) to play vs. Vikings reut.rs/3Ye10nP <a href="https://bsky.app/profile/reuters.com/post/3matbpqrxf723" target="_blank">reuters.com</a> (2025-12-26 02:15:12)</span><span style="padding-right:50px;">Commanders RB Chris Rodriguez Jr. inactive vs. Cowboys reut.rs/4s8eFKJ <a href="https://bsky.app/profile/reuters.com/post/3matbgrmk742i" target="_blank">reuters.com</a> (2025-12-26 02:10:11)</span>
   </div>
 </div>
 
@@ -32,15 +32,58 @@
 
 ## News Headlines
 
-- One family’s centuries-long trade provides a window on British colonial history and Kenya’s independence
-- Catherine, Princess of Wales, and Princess Charlotte perform piano duet for Christmas carol service
+- Cavaliers F Evan Mobley to return vs. Knicks
+- Lions RB David Montgomery to play vs. Vikings
+- Commanders RB Chris Rodriguez Jr. inactive vs. Cowboys
+- Family's centurieslong trade provides a window on British colonial history
+- Catherine, Princess of Wales, performs piano duet for Christmas carol service
 - Four members of Liechtenstein family found dead
-- New research shows how some animals in the wild manage to sleep in risky environments
-- King Charles III and members of the royal family walk to church for Christmas services
-- Pope Leo XIV used his first Christmas message as pontiff to call on world leaders to embrace peace talks
 
 
 ----
+
+@reuters.com
+
+Reports: Cavaliers F Evan Mobley to return vs. Knicks reut.rs/4paEtmG
+
+[2025-12-26 02:25:08](https://bsky.app/profile/reuters.com/post/3matcbj5dig2p)
+
+---
+
+@npr.org
+
+Dave Willat was just 11 years old when he showed up for what he thought would be a routine church choir practice in 1965. He and his fellow singers ended up making history.
+
+[2025-12-26 02:24:05](https://bsky.app/profile/npr.org/post/3matc7nc7cp2b)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】石川・七尾市の商業施設で男性切りつけられる 刃物を持った男が逃走中
+(2025-12-26 02:19:00) #ニュース
+
+[2025-12-26 02:21:39](https://bsky.app/profile/sokuho.news/post/3matc3cmwoc2a)
+
+---
+
+@reuters.com
+
+Report: Lions RB David Montgomery (illness) to play vs. Vikings reut.rs/3Ye10nP
+
+[2025-12-26 02:15:12](https://bsky.app/profile/reuters.com/post/3matbpqrxf723)
+
+---
+
+@reuters.com
+
+Commanders RB Chris Rodriguez Jr. inactive vs. Cowboys reut.rs/4s8eFKJ
+
+[2025-12-26 02:10:11](https://bsky.app/profile/reuters.com/post/3matbgrmk742i)
+
+---
 
 @wsj.com
 
@@ -81,50 +124,6 @@ No, you can’t get the flu from the flu vaccine.
 The temporary side effects that you might feel after getting the vaccine are your immune system reacting to the inactive proteins from the surface of the virus.
 
 [2025-12-26 02:00:25](https://bsky.app/profile/washingtonpost.com/post/3matavdkaia2g)
-
----
-
-@apnews.com
-
-New research shows how some animals in the wild manage to sleep in risky environments. From thousands of 4-second “microsleeps” to half-brain naps midair, scientists can now reveal some unusual animal sleep habits.
-
-Learn more: bit.ly/4qnGCMZ 
-
-[2025-12-26 02:00:21](https://bsky.app/profile/apnews.com/post/3matav6vis324)
-
----
-
-@cbsnews.com
-
-King Charles III and members of the royal family — minus his disgraced brother, the former Prince Andrew — walked to church for Christmas services Thursday morning on the king's private Sandringham Estate.
-
-[2025-12-26 02:00:01](https://bsky.app/profile/cbsnews.com/post/3mataulz2rk2c)
-
----
-
-@nytimes.com
-
-Lewis Berman, a veterinarian to the dogs, cats and other animals of celebrities including John F. Kennedy Jr. and Julie Andrews, died this month at 90.
-
-[2025-12-26 01:55:01](https://bsky.app/profile/nytimes.com/post/3matalo4cs72b)
-
----
-
-@wsj.com
-
-“The ultimate luxury is privacy.” The ultrawealthy are moving in increasingly private spheres, shelling out big money to bypass the indignities of public life. 
-
-🔗: on.wsj.com/4jljHQg
-
-[2025-12-26 01:51:29](https://bsky.app/profile/wsj.com/post/3matafdo7uy2c)
-
----
-
-@reuters.com
-
-Ole Miss QB Trinidad Chambliss hoping for additional eligibility reut.rs/4j9krYo
-
-[2025-12-26 01:50:16](https://bsky.app/profile/reuters.com/post/3matad6plzw2s)
 
 ---
 
