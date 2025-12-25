@@ -1,9 +1,9 @@
-# [2025-12-26 03:30 updated](2025_12_26.md)
+# [2025-12-26 03:50 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Five people, including tourists on a climbing trip, were killed when their helicopter crashed while descending Africa’s highest peak, Mount Kilimanjaro, Tanzanian authorities said on Thursday. <a href="https://bsky.app/profile/nytimes.com/post/3matfnovpwm2e" target="_blank">nytimes.com</a> (2025-12-26 03:25:38)</span><span style="padding-right:50px;">Russia's Gazprom supplied 38 bcm of gas to China via Power of Siberia pipeline in 2025 reut.rs/3Niymzq <a href="https://bsky.app/profile/reuters.com/post/3matfmtcn7e2k" target="_blank">reuters.com</a> (2025-12-26 03:25:09)</span><span style="padding-right:50px;">"It's easy to want to drive one of these cute kei cars. It's another thing to put your family in them and travel down the highway at 70 mph," one expert says. <a href="https://bsky.app/profile/nbcnews.com/post/3matflxmra62p" target="_blank">nbcnews.com</a> (2025-12-26 03:24:40)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:奄美大島近海, 深さ:20km マグニチュード:3.4, 最大震度:1 📍https://www.google.com/maps?q=27.7,128.7&ll=27.7,128.7&z=7&t=h 地震発生日時:2025-12-26 03:18頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3matfhmsadi2a" target="_blank">sokuho.news</a> (2025-12-26 03:22:14)</span><span style="padding-right:50px;">Pope Leo decried conditions for Palestinians in Gaza in his Christmas sermon, in an unusually direct appeal during what is normally a solemn, spiritual service on the day Christians across the globe celebrate the birth of Jesus reut.rs/4sbgSVO <a href="https://bsky.app/profile/reuters.com/post/3matfhcfz422z" target="_blank">reuters.com</a> (2025-12-26 03:22:03)</span>
+<span style="padding-right:50px;">The Trump administration said on Tuesday that it had received an application for seabed mining exploration in international waters, the first in its effort to encourage the controversial industry. Here's what to know. <a href="https://bsky.app/profile/nytimes.com/post/3matgqihxp62v" target="_blank">nytimes.com</a> (2025-12-26 03:45:05)</span><span style="padding-right:50px;">The tune crooned by Bing Crosby is still one of the most popular Christmas songs of all time. It's endured as a favorite — despite a complicated and controversial history. <a href="https://bsky.app/profile/npr.org/post/3matgaujxbq2p" target="_blank">npr.org</a> (2025-12-26 03:36:21)</span><span style="padding-right:50px;">From analog bags to phone-free parties, 2025 marked a shift in how much of their time people are willing to spend on the internet. <a href="https://bsky.app/profile/nbcnews.com/post/3matfwqbfm62n" target="_blank">nbcnews.com</a> (2025-12-26 03:30:41)</span><span style="padding-right:50px;">Celebs from Dolly Parton to Celine Dion posted some of their holiday celebrations on Instagram. <a href="https://bsky.app/profile/usatoday.com/post/3matfwllqsk25" target="_blank">usatoday.com</a> (2025-12-26 03:30:36)</span><span style="padding-right:50px;">Brazil ex-president Bolsonaro's surgery for hernia 'successful' <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3matfwdcsuy2a" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-26 03:30:26)</span>
   </div>
 </div>
 
@@ -32,15 +32,84 @@
 
 ## News Headlines
 
-- Five Killed in Helicopter Crash on Africa's Highest Peak, Mount Kilimanjaro
-- Russia Supplies 38 Bcm of Gas to China via Power of Siberia Pipeline
-- Pope Leo Criticizes Conditions in Gaza in Christmas Sermon
-- New Research Reveals Unusual Animal Sleep Habits in the Wild
-- Trump Heralds Christmas with Messages Criticizing 'Radical Left Scum'
-- Four Members of Liechtenstein Family Found Dead
+- Trump Administration Seeks to Encourage Seabed Mining Exploration in International Waters
+- Bing Crosby's Timeless Christmas Song Endures Amid Controversy
+- Powerful Winter Storm Brings Flash Flooding and Evacuation Orders to Southern California
+- Brazil's Ex-President Bolsonaro Undergoes Successful Double Hernia Surgery
+- Pope Leo Decries Conditions for Palestinians in Gaza in Christmas Sermon
+- Eight-Month-Old Among Multiple Palestinians Wounded in Attacks Across Occupied West Bank
 
 
 ----
+
+@nytimes.com
+
+The Trump administration said on Tuesday that it had received an application for seabed mining exploration in international waters, the first in its effort to encourage the controversial industry. Here's what to know.
+
+[2025-12-26 03:45:05](https://bsky.app/profile/nytimes.com/post/3matgqihxp62v)
+
+---
+
+@npr.org
+
+The tune crooned by Bing Crosby is still one of the most popular Christmas songs of all time. It's endured as a favorite — despite a complicated and controversial history.
+
+[2025-12-26 03:36:21](https://bsky.app/profile/npr.org/post/3matgaujxbq2p)
+
+---
+
+@nbcnews.com
+
+From analog bags to phone-free parties, 2025 marked a shift in how much of their time people are willing to spend on the internet.
+
+[2025-12-26 03:30:41](https://bsky.app/profile/nbcnews.com/post/3matfwqbfm62n)
+
+---
+
+@usatoday.com
+
+Celebs from Dolly Parton to Celine Dion posted some of their holiday celebrations on Instagram.
+
+[2025-12-26 03:30:36](https://bsky.app/profile/usatoday.com/post/3matfwllqsk25)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Brazil ex-president Bolsonaro's surgery for hernia 'successful'
+
+[2025-12-26 03:30:26](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3matfwdcsuy2a)
+
+---
+
+@aljazeera.com
+
+A powerful winter storm has unleashed torrential rain across Southern California, triggering flash flooding and prompting evacuation orders.
+
+Authorities have declared a state of emergency in six counties and warn the dangerous conditions could continue through Christmas Day.
+
+[2025-12-26 03:30:11](https://bsky.app/profile/aljazeera.com/post/3matfvt7ahk2p)
+
+---
+
+@en.afp.com
+
+A lucky lottery player in the US state of Arkansas has won the $1.8 billion Powerball prize, the second-largest US lottery jackpot ever won, the gambling game's organizer said on Thursday. 
+➡️ u.afp.com/S8PU
+
+[2025-12-26 03:30:06](https://bsky.app/profile/en.afp.com/post/3matfvpbawu2q)
+
+---
+
+@washingtonpost.com
+
+’Twas the night before Christmas, and all through Mar-a-Lago, President Trump assured children that Santa wasn’t a guerrilla.
+
+“We want to make sure he’s not infiltrated — that we’re not infiltrating into our country a bad Santa.”
+
+[2025-12-26 03:30:06](https://bsky.app/profile/washingtonpost.com/post/3matfvokds62i)
+
+---
 
 @nytimes.com
 
@@ -55,82 +124,6 @@ Five people, including tourists on a climbing trip, were killed when their helic
 Russia's Gazprom supplied 38 bcm of gas to China via Power of Siberia pipeline in 2025 reut.rs/3Niymzq
 
 [2025-12-26 03:25:09](https://bsky.app/profile/reuters.com/post/3matfmtcn7e2k)
-
----
-
-@nbcnews.com
-
-"It's easy to want to drive one of these cute kei cars. It's another thing to put your family in them and travel down the highway at 70 mph," one expert says.
-
-[2025-12-26 03:24:40](https://bsky.app/profile/nbcnews.com/post/3matflxmra62p)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:奄美大島近海, 深さ:20km
-マグニチュード:3.4, 最大震度:1
-📍https://www.google.com/maps?q=27.7,128.7&ll=27.7,128.7&z=7&t=h
-地震発生日時:2025-12-26 03:18頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-26 03:22:14](https://bsky.app/profile/sokuho.news/post/3matfhmsadi2a)
-
----
-
-@reuters.com
-
-Pope Leo decried conditions for Palestinians in Gaza in his Christmas sermon, in an unusually direct appeal during what is normally a solemn, spiritual service on the day Christians across the globe celebrate the birth of Jesus reut.rs/4sbgSVO
-
-[2025-12-26 03:22:03](https://bsky.app/profile/reuters.com/post/3matfhcfz422z)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-3時18分頃、鹿児島県で最大震度1の地震を観測しました。
-震源:奄美大島近海, 深さ:20km, 規模:M3.4
-この地震による津波の心配はありません。
-(2025-12-26 03:21:48) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/26/2025-12-26-03-18-57.html?xlarge_image=1
-
-[2025-12-26 03:21:49](https://bsky.app/profile/sokuho.news/post/3matfguypmc25)
-
----
-
-@npr.org
-
-Managing a full December calendar can quickly take you from festive to frazzled. Psychotherapist Niro Feliciano shares advice on reducing stress and increasing joy this season.
-
-[2025-12-26 03:18:00](https://bsky.app/profile/npr.org/post/3matfa23y7z2y)
-
----
-
-@nbcnews.com
-
-ICE officers shoot driver during immigration operation in Maryland, authorities say. 
-
-[2025-12-26 03:13:05](https://bsky.app/profile/nbcnews.com/post/3matexbbdf62u)
-
----
-
-@nytimes.com
-
-The Trump administration has sought to move away from Housing First, a once-bipartisan model for distributing homelessness aid that has guided federal work for a generation. Here is what the evidence says about its programs.
-
-[2025-12-26 03:10:04](https://bsky.app/profile/nytimes.com/post/3materu2vkz25)
-
----
-
-@wsj.com
-
-Few people make partner at Goldman. Two brothers doing it within two years of each other is even more unusual. on.wsj.com/4pf7sGf
-
-[2025-12-26 03:02:38](https://bsky.app/profile/wsj.com/post/3mateel4rul2t)
 
 ---
 
