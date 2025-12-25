@@ -1,9 +1,9 @@
-# [2025-12-25 09:50 updated](2025_12_25.md)
+# [2025-12-25 10:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">高市首相動静 2025年12月24日 https://news.web.nhk/newsweb/na/na-k10015013191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3markkoatwy2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 09:48:03)</span><span style="padding-right:50px;">ＣＮＢＣは２４日、エヌビディアが、人工知能（ＡＩ）用半導体開発会社グロックを現金２００億ドルで買収することで合意したと報じた。 bit.ly/4sc7QYJ <a href="https://bsky.app/profile/japan.reuters.com/post/3markfi37ay26" target="_blank">japan.reuters.com</a> (2025-12-25 09:45:11)</span><span style="padding-right:50px;">インド政府は２４日、輸入品質検査を簡素化する改革を発表した。インドの輸入品質基準が「煩雑」だとする米国の不満に対処する狙い。 bit.ly/4satV9U <a href="https://bsky.app/profile/japan.reuters.com/post/3markewihpp25" target="_blank">japan.reuters.com</a> (2025-12-25 09:44:53)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山岳遭難 94歳の男性が行方不明【岡山】 (2025-12-25 09:39:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mark6s2u372e" target="_blank">sokuho.news</a> (2025-12-25 09:41:27)</span><span style="padding-right:50px;">Netanyahu coalition pushes contentious Oct. 7 attack probe, families call for justice reut.rs/4pTp3of <a href="https://bsky.app/profile/reuters.com/post/3mark4w752z2o" target="_blank">reuters.com</a> (2025-12-25 09:40:24)</span>
+<span style="padding-right:50px;">A look at the upscale markets outside the city that are outperforming the French capital. on.wsj.com/3YO7dH6 <a href="https://bsky.app/profile/wsj.com/post/3marlcrpkgl2u" target="_blank">wsj.com</a> (2025-12-25 10:01:34)</span><span style="padding-right:50px;">The next three episodes of "Stranger Things" Season 5 premiere on Netflix Dec. 25. Here's what time to tune in. <a href="https://bsky.app/profile/usatoday.com/post/3marlbcynen2c" target="_blank">usatoday.com</a> (2025-12-25 10:00:46)</span><span style="padding-right:50px;">トランプ政権が「愛国教育」宣言　保守派校長「次のカーク氏育てる」 www.nikkei.com/article/DGXZQO...   マクマホン教育長官によると、60〜70年続いた「アメリカを憎み、歴史を修正し、分断する」教育から、「信仰、伝統、愛国心」に基づく公民教育を取り戻すといいます。   設立された「アメリカ250公民教育同盟」には主立った保守派が名を連ねています。   保守派視点から歴史や社会問題を説明する動画を配信する「プラガー・ユー」。子ども向け動画で、アニメのコロンブスが「奴隷になるのは殺されるよりまし」と語っています。 <a href="https://bsky.app/profile/nikkei.com/post/3marlb5zf6a2n" target="_blank">nikkei.com</a> (2025-12-25 10:00:40)</span><span style="padding-right:50px;">“The hospital is for high-class people.” The World Bank invested billions of dollars in private hospitals from Africa to Asia to improve healthcare. But stories of abuses have piled up. (from the archive) <a href="https://bsky.app/profile/bloomberg.com/post/3marlaxhhl22u" target="_blank">bloomberg.com</a> (2025-12-25 10:00:33)</span><span style="padding-right:50px;">The people you choose to surround yourself with can affect your mental health, productivity and even career trajectory.  Evy Poumpouras, who spent 12 years with the U.S. Secret Service as a special agent, identifies the three toxic personality types she learned to stay far away from. <a href="https://bsky.app/profile/cnbc.com/post/3marlarki4r2x" target="_blank">cnbc.com</a> (2025-12-25 10:00:27)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50434.26 (🔻15.92 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3372.00 (🔻5.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.07 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50400.17 (🔻50.01 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔻14.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.07 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,38 +32,97 @@
 
 ## News Headlines
 
-- NVIDIA to Acquire AI Chipmaker Groq for $20 Billion
-- India Simplifies Quality Control for Imported Goods
-- North Korea's Kim Inspects Missile Test in Eastern Sea
-- Gold Prices Soar to 46-Year High
-- US Department of Defense Reports China's Massive Military Buildup
-- Explosion Rocks Mosque in Nigeria, Multiple Casualties Reported
+- French Capital's Upscale Markets Outperform
+- Next Three Episodes of 'Stranger Things' Season 5 Premiere on Netflix December 25
+- US Education Secretary Announces Plan to Introduce 'Patriotic Education'
+- Mass Abduction of Schoolchildren in Nigeria Ends with Joyful Reunion
+- California Declares State of Emergency Due to Heavy Rainfall and Landslide Risks
+- NVIDIA to Acquire AI Chipmaker Groq for $2 Billion
 
 
 ----
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-高市首相動静 2025年12月24日
-https://news.web.nhk/newsweb/na/na-k10015013191000
+A look at the upscale markets outside the city that are outperforming the French capital. on.wsj.com/3YO7dH6
 
-[2025-12-25 09:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3markkoatwy2m)
-
----
-
-@japan.reuters.com
-
-ＣＮＢＣは２４日、エヌビディアが、人工知能（ＡＩ）用半導体開発会社グロックを現金２００億ドルで買収することで合意したと報じた。 bit.ly/4sc7QYJ
-
-[2025-12-25 09:45:11](https://bsky.app/profile/japan.reuters.com/post/3markfi37ay26)
+[2025-12-25 10:01:34](https://bsky.app/profile/wsj.com/post/3marlcrpkgl2u)
 
 ---
 
-@japan.reuters.com
+@usatoday.com
 
-インド政府は２４日、輸入品質検査を簡素化する改革を発表した。インドの輸入品質基準が「煩雑」だとする米国の不満に対処する狙い。 bit.ly/4satV9U
+The next three episodes of "Stranger Things" Season 5 premiere on Netflix Dec. 25. Here's what time to tune in.
 
-[2025-12-25 09:44:53](https://bsky.app/profile/japan.reuters.com/post/3markewihpp25)
+[2025-12-25 10:00:46](https://bsky.app/profile/usatoday.com/post/3marlbcynen2c)
+
+---
+
+@nikkei.com
+
+トランプ政権が「愛国教育」宣言　保守派校長「次のカーク氏育てる」
+www.nikkei.com/article/DGXZQO...
+ 
+マクマホン教育長官によると、60〜70年続いた「アメリカを憎み、歴史を修正し、分断する」教育から、「信仰、伝統、愛国心」に基づく公民教育を取り戻すといいます。
+ 
+設立された「アメリカ250公民教育同盟」には主立った保守派が名を連ねています。
+ 
+保守派視点から歴史や社会問題を説明する動画を配信する「プラガー・ユー」。子ども向け動画で、アニメのコロンブスが「奴隷になるのは殺されるよりまし」と語っています。
+
+[2025-12-25 10:00:40](https://bsky.app/profile/nikkei.com/post/3marlb5zf6a2n)
+
+---
+
+@bloomberg.com
+
+“The hospital is for high-class people.” The World Bank invested billions of dollars in private hospitals from Africa to Asia to improve healthcare. But stories of abuses have piled up. (from the archive)
+
+[2025-12-25 10:00:33](https://bsky.app/profile/bloomberg.com/post/3marlaxhhl22u)
+
+---
+
+@cnbc.com
+
+The people you choose to surround yourself with can affect your mental health, productivity and even career trajectory.
+
+Evy Poumpouras, who spent 12 years with the U.S. Secret Service as a special agent, identifies the three toxic personality types she learned to stay far away from.
+
+[2025-12-25 10:00:27](https://bsky.app/profile/cnbc.com/post/3marlarki4r2x)
+
+---
+
+@apnews.com
+
+Families in north-central Nigeria have joyfully reunited with schoolchildren held for a month after a mass abduction. 
+
+[2025-12-25 10:00:20](https://bsky.app/profile/apnews.com/post/3marlakml6j23)
+
+---
+
+@nbcnews.com
+
+Delaware officials lauded the heroic actions of a state trooper who was killed in a shooting at a Department of Motor Vehicles location in Wilmington. 
+
+[2025-12-25 10:00:14](https://bsky.app/profile/nbcnews.com/post/3marlaf5jic2q)
+
+---
+
+@washingtonpost.com
+
+Every year, the Christmas Bird Count draws tens of thousands of birders for the 126-year-old event that blends birding and data science.
+
+This year, it’s on track to set another record for participation. https://wapo.st/495gE9V
+
+[2025-12-25 10:00:10](https://bsky.app/profile/washingtonpost.com/post/3marlabhyaz2x)
+
+---
+
+@en.afp.com
+
+California governor declares state of emergency in Los Angeles and nearby areas as 'atmospheric river' brings heavy downpours and landslide risks around Christmas holiday
+u.afp.com/S8A6
+
+[2025-12-25 09:59:01](https://bsky.app/profile/en.afp.com/post/3marl67ecjm2d)
 
 ---
 
@@ -71,58 +130,10 @@ https://news.web.nhk/newsweb/na/na-k10015013191000
 
 🛎️JNNより【速報】です。
 
-【速報】山岳遭難 94歳の男性が行方不明【岡山】
+【速報】「山に仕掛けた罠を探しに行く」山岳遭難 94歳の男性が行方不明 警察・猟友会などが捜索中【岡山】
 (2025-12-25 09:39:00) #ニュース
 
-[2025-12-25 09:41:27](https://bsky.app/profile/sokuho.news/post/3mark6s2u372e)
-
----
-
-@reuters.com
-
-Netanyahu coalition pushes contentious Oct. 7 attack probe, families call for justice reut.rs/4pTp3of
-
-[2025-12-25 09:40:24](https://bsky.app/profile/reuters.com/post/3mark4w752z2o)
-
----
-
-@japan.reuters.com
-
-北朝鮮の金正恩朝鮮労働党総書記は２４日、東海近くの実験場で長距離地対空ミサイルの試射に立ち会ったと、国営メディア朝鮮中央通信（ＫＣＮＡ）が２５日に報じた。 bit.ly/4pRG8ia
-
-[2025-12-25 09:40:18](https://bsky.app/profile/japan.reuters.com/post/3mark4qknmv2c)
-
----
-
-@reuters.com
-
-China's 2026 first batch fuel export quotas steady year on year, sources say reut.rs/3YK0jmk
-
-[2025-12-25 09:35:09](https://bsky.app/profile/reuters.com/post/3marjtk7axu2k)
-
----
-
-@japan.reuters.com
-
-午後のニューヨーク外為市場では、円が米ドルに対し小幅上昇した。トレーダーらは、円安が日本当局の介入を促すかどうかに注目している。 bit.ly/4jdd2aF
-
-[2025-12-25 09:35:08](https://bsky.app/profile/japan.reuters.com/post/3marjtj5c4x25)
-
----
-
-@japan.reuters.com
-
-サウジアラビア政府系ファンドが支援するＬＩＶゴルフは２３日、メジャー５勝のブルックス・ケプカ（米国、３５）が今季終了後に契約を１年残した状態で離脱することを発表した。 bit.ly/4ax61PK
-
-[2025-12-25 09:34:07](https://bsky.app/profile/japan.reuters.com/post/3marjroii7w2v)
-
----
-
-@wsj.com
-
-A U.S. pressure campaign to topple President Nicolás Maduro is stranding Venezuelans around the world
-
-[2025-12-25 09:31:10](https://bsky.app/profile/wsj.com/post/3marjmfqr552i)
+[2025-12-25 09:51:38](https://bsky.app/profile/sokuho.news/post/3markqyq24q27)
 
 ---
 
