@@ -1,9 +1,9 @@
-# [2025-12-25 20:10 updated](2025_12_25.md)
+# [2025-12-25 20:30 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">From booming metros to culture-defining exports, the South has become a demographic powerhouse — and a battleground for American identity <a href="https://bsky.app/profile/bloomberg.com/post/3masn3rdwke2e" target="_blank">bloomberg.com</a> (2025-12-25 20:06:06)</span><span style="padding-right:50px;">ローマ教皇レオ１４世は２５日、バチカンのサンピエトロ大聖堂で数千人の信者を前にクリスマスの説教を行い、ガザ地区のパレスチナ人の惨状を非難した。 bit.ly/4p78PGL <a href="https://bsky.app/profile/japan.reuters.com/post/3masmt4ski32c" target="_blank">japan.reuters.com</a> (2025-12-25 20:01:17)</span><span style="padding-right:50px;">ＳＯＭＰＯホールディングスは２５日、子会社を通じて、東証グロース市場に上場する農業総合研究所に対する公開買い付け（ＴＯＢ）を開始すると発表した。１株７６７円で全株取得を目指し、同社を非公開化する。 bit.ly/4jdp9UY <a href="https://bsky.app/profile/japan.reuters.com/post/3masmsgxzr22q" target="_blank">japan.reuters.com</a> (2025-12-25 20:00:54)</span><span style="padding-right:50px;">箱根駅伝の記念大会、4年に1度開催へ　2028年1月から（無料記事） www.nikkei.com/article/DGXZQO...  夏季オリンピックと同じ年に実施します。記念大会はこれまで5年に1度の開催でした。  予選会から全国の大学が参加可能で、本戦では関東学生連合に代わり日本学生選抜が編成されます。  28年1月の第104回大会からは出場チーム数を3つ増やすことも決めました。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3masmsehljs2c" target="_blank">nikkei.com</a> (2025-12-25 20:00:51)</span><span style="padding-right:50px;">Astronauts of Expedition 74 aboard the International Space Station reflected on the unique experience of spending the holiday season in space and extended wishes for a merry Christmas and a happy New Year. <a href="https://bsky.app/profile/cnn.com/post/3masmsejbuv2b" target="_blank">cnn.com</a> (2025-12-25 20:00:51)</span>
+<span style="padding-right:50px;">中国国営メディアによると、一人っ子政策を推進した彭佩雲・元国家計画生育委員会主任が２１日に死去した。 bit.ly/4qq03Vh <a href="https://bsky.app/profile/japan.reuters.com/post/3maso5yvwql27" target="_blank">japan.reuters.com</a> (2025-12-25 20:25:15)</span><span style="padding-right:50px;">Honduras, Bondi Christmas, and tensions over EU visa bans reut.rs/3YvMSXj <a href="https://bsky.app/profile/reuters.com/post/3maso5u4v572s" target="_blank">reuters.com</a> (2025-12-25 20:25:10)</span><span style="padding-right:50px;">On Christmas Eve, one Powerball ticket in Arkansas won the second-largest U.S. lottery jackpot ever. The winner can choose between the full $1.817 billion paid out over 30 years or a $834.9 million cash option, both before taxes. <a href="https://bsky.app/profile/nytimes.com/post/3maso5ringc2z" target="_blank">nytimes.com</a> (2025-12-25 20:25:07)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】新潟市中央区西堀通3番町でマンション火災「ふとんから火が出た」70代女性が救急搬送 (2025-12-25 20:22:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maso3d7cqx2b" target="_blank">sokuho.news</a> (2025-12-25 20:23:45)</span><span style="padding-right:50px;">Researchers have found that a warm, close bond with a sibling in early adult life is predictive of good emotional health later in life, with less loneliness, anxiety and depression. <a href="https://bsky.app/profile/npr.org/post/3maso2t3lfl24" target="_blank">npr.org</a> (2025-12-25 20:23:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔺0.12 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 156.00 (🔺0.26 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,114 +32,98 @@
 
 ## News Headlines
 
-[{"en": "Pope Leo XIII denounces Gaza situation in Christmas sermon"}, 
-{"en": " SOMPO Holdings to acquire agricultural research institute"}, 
-{"en": "Tokyo University students will participate in the Hakone Ekiden race for the first time"}, 
-{"en": "Poland intercepts Russian plane over Baltic Sea"}, 
-{"en": "French bulldogs and other brachycephalic breeds come with high price tags and health problems"}, 
-{"en": "Nikkei announces launch of "moderate millionaire" club for 401(k) investors"}, 
-{"en": "Turkey arrests 115 IS suspects 'planning New Year's attacks'"}, 
-{"en": "China criticizes US weapons sale to Taiwan"}, 
-{"en": "Turkey's democracy takes a beating after jailing of opposition mayor"}, 
-{"en": "People in Mogadishu vote in first direct local polls in 56 years"}, 
-{"en": "Earthquake hits western Japan, causes no tsunami"}, 
-{"en": "Florida operative becomes influential figure in Trump's second term"}, 
-{"en": "Egypt appoints interim swimming body as its Olympic chief faces trial"}, 
-{"en": "China's stock market continues to rise"}, 
-{"en": "Conservative candidate wins Honduran presidential election"}]
+- Former Chinese official who promoted one-child policy dies aged 80
+- Honduras, Bondi Christmas, and tensions over EU visa bans
+- Second-largest U.S. lottery jackpot won in Arkansas with $1.817 billion prize
+- Spontaneous fire in apartment building in Niigata, Japan, with multiple injuries reported
+- Chinese Commerce Ministry says TikTok's US business sale should comply with regulations, balance interests
+- Goldman Sachs' private-lending arm struggles to untangle bad loans, investors wait for results
+
 
 ----
 
-@bloomberg.com
-
-From booming metros to culture-defining exports, the South has become a demographic powerhouse — and a battleground for American identity
-
-[2025-12-25 20:06:06](https://bsky.app/profile/bloomberg.com/post/3masn3rdwke2e)
-
----
-
 @japan.reuters.com
 
-ローマ教皇レオ１４世は２５日、バチカンのサンピエトロ大聖堂で数千人の信者を前にクリスマスの説教を行い、ガザ地区のパレスチナ人の惨状を非難した。 bit.ly/4p78PGL
+中国国営メディアによると、一人っ子政策を推進した彭佩雲・元国家計画生育委員会主任が２１日に死去した。 bit.ly/4qq03Vh
 
-[2025-12-25 20:01:17](https://bsky.app/profile/japan.reuters.com/post/3masmt4ski32c)
-
----
-
-@japan.reuters.com
-
-ＳＯＭＰＯホールディングスは２５日、子会社を通じて、東証グロース市場に上場する農業総合研究所に対する公開買い付け（ＴＯＢ）を開始すると発表した。１株７６７円で全株取得を目指し、同社を非公開化する。 bit.ly/4jdp9UY
-
-[2025-12-25 20:00:54](https://bsky.app/profile/japan.reuters.com/post/3masmsgxzr22q)
-
----
-
-@nikkei.com
-
-箱根駅伝の記念大会、4年に1度開催へ　2028年1月から（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-夏季オリンピックと同じ年に実施します。記念大会はこれまで5年に1度の開催でした。
-
-予選会から全国の大学が参加可能で、本戦では関東学生連合に代わり日本学生選抜が編成されます。
-
-28年1月の第104回大会からは出場チーム数を3つ増やすことも決めました。
-
-#ニュース
-
-[2025-12-25 20:00:51](https://bsky.app/profile/nikkei.com/post/3masmsehljs2c)
-
----
-
-@cnn.com
-
-Astronauts of Expedition 74 aboard the International Space Station reflected on the unique experience of spending the holiday season in space and extended wishes for a merry Christmas and a happy New Year.
-
-[2025-12-25 20:00:51](https://bsky.app/profile/cnn.com/post/3masmsejbuv2b)
+[2025-12-25 20:25:15](https://bsky.app/profile/japan.reuters.com/post/3maso5yvwql27)
 
 ---
 
 @reuters.com
 
-Poland intercepts Russian plane over Baltic Sea reut.rs/4jgGVXN
+Honduras, Bondi Christmas, and tensions over EU visa bans reut.rs/3YvMSXj
 
-[2025-12-25 20:00:46](https://bsky.app/profile/reuters.com/post/3masms7qlew2i)
-
----
-
-@washingtonpost.com
-
-French bulldogs and other brachycephalic breeds come with high price tags and, often, serious health problems. Is it ethical to buy one from a breeder? Our Ask A Vet columnist weighs in.
-
-[2025-12-25 20:00:19](https://bsky.app/profile/washingtonpost.com/post/3masmrfnohe2p)
+[2025-12-25 20:25:10](https://bsky.app/profile/reuters.com/post/3maso5u4v572s)
 
 ---
 
-@cnbc.com
+@nytimes.com
 
-The "big beautiful" budget bill created a $2,000 above-the-line deduction on charitable donations for tax year 2026.
+On Christmas Eve, one Powerball ticket in Arkansas won the second-largest U.S. lottery jackpot ever. The winner can choose between the full $1.817 billion paid out over 30 years or a $834.9 million cash option, both before taxes.
 
-Here's how to take full advantage.
-
-[2025-12-25 20:00:14](https://bsky.app/profile/cnbc.com/post/3masmrb26bh2b)
+[2025-12-25 20:25:07](https://bsky.app/profile/nytimes.com/post/3maso5ringc2z)
 
 ---
 
-@bloomberg.com
+@sokuho.news
 
-Good intentions rarely survive the twin forces of death and money. 
+🛎️JNNより【速報】です。
 
-From deciding if you’re even family to building your staff, here’s our guide on how to set up a successful family office ⤵️
+【速報】新潟市中央区西堀通3番町でマンション火災「ふとんから火が出た」70代女性が救急搬送
+(2025-12-25 20:22:00) #ニュース
 
-[2025-12-25 20:00:11](https://bsky.app/profile/bloomberg.com/post/3masmr64mk62h)
+[2025-12-25 20:23:45](https://bsky.app/profile/sokuho.news/post/3maso3d7cqx2b)
 
 ---
 
-@aljazeera.com
+@npr.org
 
-First Christmas in Gaza in two years: A story of hope and survival https://aje.io/2itg3n
+Researchers have found that a warm, close bond with a sibling in early adult life is predictive of good emotional health later in life, with less loneliness, anxiety and depression.
 
-[2025-12-25 20:00:06](https://bsky.app/profile/aljazeera.com/post/3masmqzp5op2l)
+[2025-12-25 20:23:28](https://bsky.app/profile/npr.org/post/3maso2t3lfl24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+林総務相の事務所 収支報告書を訂正 13人分の労務費支払い削除
+https://news.web.nhk/newsweb/na/na-k10015013951000
+
+[2025-12-25 20:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masnwjko2d2l)
+
+---
+
+@japan.reuters.com
+
+中国商務省の報道官は２５日、中国系動画投稿アプリ「ＴｉｋＴｏｋ（ティックトック）」の米国事業売却について、各企業が中国の法規制を順守し、全ての当事者の利益のバランスを取った解決策に達することを望んでいると述べた。 bit.ly/3YbTytq
+
+[2025-12-25 20:20:24](https://bsky.app/profile/japan.reuters.com/post/3masnvdc5xc2c)
+
+---
+
+@wsj.com
+
+Goldman Sachs’ private-lending arm has spent years untangling bad loans. The cleanup drags on—and investors are still waiting for results.
+
+[2025-12-25 20:19:52](https://bsky.app/profile/wsj.com/post/3masnufcz2s2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+新潟 中央区 マンションで火災 けが人複数の情報
+https://news.web.nhk/newsweb/na/na-k10015013971000
+
+[2025-12-25 20:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masnr5ia7s2b)
+
+---
+
+@japan.reuters.com
+
+東京株式市場で日経平均は小幅に反発し、前営業日比６３円６９銭高の５万０４０７円７９銭で取引を終えた。海外勢がクリスマス休暇に入り参加者も手掛かり材料が少ない中、前日終値を挟んだ小動きが続いた。売買代金は３兆円を下回り、今年最低となった。 bit.ly/4aQ0kN5
+
+[2025-12-25 20:15:20](https://bsky.app/profile/japan.reuters.com/post/3masnmbigr42q)
 
 ---
 
