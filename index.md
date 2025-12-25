@@ -1,9 +1,9 @@
-# [2025-12-25 17:30 updated](2025_12_25.md)
+# [2025-12-25 17:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国は２５日、米国が先週発表した台湾への武器売却を批判し、今回の売却が台湾海峡での戦争の脅威を「加速」させていると述べた。 bit.ly/49sGbLy <a href="https://bsky.app/profile/japan.reuters.com/post/3mase6kkoux2f" target="_blank">japan.reuters.com</a> (2025-12-25 17:26:36)</span><span style="padding-right:50px;">午後３時のドル／円は、前日ニューヨーク市場の終盤からほぼ横ばいの１５５円後半で推移している。クリスマス休暇で多くの主要市場が休場のため取引は薄く、材料難の中で注目されていた日銀の植田和男総裁の講演も手掛かりにはならなかった。 bit.ly/4sv501h <a href="https://bsky.app/profile/japan.reuters.com/post/3mase3vyeo527" target="_blank">japan.reuters.com</a> (2025-12-25 17:25:08)</span><span style="padding-right:50px;">Christmas around the world: Waterskiing Santas and giant cuts of meat <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3masdr2tm3d2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-25 17:19:03)</span><span style="padding-right:50px;">1月に使用する電力・都市ガス料金 大手各社いずれも値下がり https://news.web.nhk/newsweb/na/na-k10015013721000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masdpgc6x72k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 17:18:06)</span><span style="padding-right:50px;">「子供PSCマーク」とは？3歳未満のおもちゃに新規制【詳しく】 https://news.web.nhk/newsweb/na/na-k10015013621000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masdpbmscy2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 17:18:02)</span>
+<span style="padding-right:50px;">デパート 11月の免税品売り上げ 去年同時期比2.5％減少 https://news.web.nhk/newsweb/na/na-k10015013771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masff3vxyn26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 17:48:07)</span><span style="padding-right:50px;">危険運転致死傷罪 数値基準まとまる 法制審議会の部会 https://news.web.nhk/newsweb/na/na-k10015013451000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masfewf5fp2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 17:48:02)</span><span style="padding-right:50px;">日本百貨店協会が２５日に発表した１１月の全国百貨店売上高は、店舗数調整後で前年比０．９％増の約５２１４億円となり、４カ月連続で前年を上回った。国内売り上げが順調に伸びて、インバウンドの落ち込みを補った。、 bit.ly/4b2Nf2L <a href="https://bsky.app/profile/japan.reuters.com/post/3masf7q376h2u" target="_blank">japan.reuters.com</a> (2025-12-25 17:45:09)</span><span style="padding-right:50px;">Kennedy Center Christmas Eve jazz concert canceled after Trump name added to building. <a href="https://bsky.app/profile/cbsnews.com/post/3masf7hws3r2z" target="_blank">cbsnews.com</a> (2025-12-25 17:45:01)</span><span style="padding-right:50px;">中国外務省は２５日、米国防総省が報告書で中国とインドの関係発展について言及したことについて、国防総省が中国の国防政策を歪曲していると批判した。 bit.ly/45qDtnr <a href="https://bsky.app/profile/japan.reuters.com/post/3masf75bmvk2c" target="_blank">japan.reuters.com</a> (2025-12-25 17:44:50)</span>
   </div>
 </div>
 
@@ -32,100 +32,97 @@
 
 ## News Headlines
 
-- China Criticizes US for Selling Weapons to Taiwan, Warns of Escalation in Taiwan Strait Conflict
-- Yen Holds Steady Against Dollar
-- Japan's Power and Gas Prices to Fall in January
-- New Safety Regulations for Children's Toys Introduced
-- Japanese Prime Minister Fumio Kishida to Table Budget Plan for Next Year
-- European Union to Introduce Stricter Regulations on Plastic Imports
+- Department Store Sales Decline 2.5% in November Compared to Last Year
+- Dangerous Driving Penalty Standards to be Set
+- Tokyo Department Stores See Sales Increase 0.9% in November
+- China Criticizes US Defense Ministry for Mentioning China and India in Report
+- Russia-Ukraine Conflict Updates: December 25th
+- High-Value Panda Viewing Tickets Being Resold
 
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+デパート 11月の免税品売り上げ 去年同時期比2.5％減少
+https://news.web.nhk/newsweb/na/na-k10015013771000
+
+[2025-12-25 17:48:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masff3vxyn26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+危険運転致死傷罪 数値基準まとまる 法制審議会の部会
+https://news.web.nhk/newsweb/na/na-k10015013451000
+
+[2025-12-25 17:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masfewf5fp2m)
+
+---
+
 @japan.reuters.com
 
-中国は２５日、米国が先週発表した台湾への武器売却を批判し、今回の売却が台湾海峡での戦争の脅威を「加速」させていると述べた。 bit.ly/49sGbLy
+日本百貨店協会が２５日に発表した１１月の全国百貨店売上高は、店舗数調整後で前年比０．９％増の約５２１４億円となり、４カ月連続で前年を上回った。国内売り上げが順調に伸びて、インバウンドの落ち込みを補った。、 bit.ly/4b2Nf2L
 
-[2025-12-25 17:26:36](https://bsky.app/profile/japan.reuters.com/post/3mase6kkoux2f)
+[2025-12-25 17:45:09](https://bsky.app/profile/japan.reuters.com/post/3masf7q376h2u)
+
+---
+
+@cbsnews.com
+
+Kennedy Center Christmas Eve jazz concert canceled after Trump name added to building.
+
+[2025-12-25 17:45:01](https://bsky.app/profile/cbsnews.com/post/3masf7hws3r2z)
 
 ---
 
 @japan.reuters.com
 
-午後３時のドル／円は、前日ニューヨーク市場の終盤からほぼ横ばいの１５５円後半で推移している。クリスマス休暇で多くの主要市場が休場のため取引は薄く、材料難の中で注目されていた日銀の植田和男総裁の講演も手掛かりにはならなかった。 bit.ly/4sv501h
+中国外務省は２５日、米国防総省が報告書で中国とインドの関係発展について言及したことについて、国防総省が中国の国防政策を歪曲していると批判した。 bit.ly/45qDtnr
 
-[2025-12-25 17:25:08](https://bsky.app/profile/japan.reuters.com/post/3mase3vyeo527)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Christmas around the world: Waterskiing Santas and giant cuts of meat
-
-[2025-12-25 17:19:03](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3masdr2tm3d2b)
+[2025-12-25 17:44:50](https://bsky.app/profile/japan.reuters.com/post/3masf75bmvk2c)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-1月に使用する電力・都市ガス料金 大手各社いずれも値下がり
-https://news.web.nhk/newsweb/na/na-k10015013721000
+【随時更新】ロシア ウクライナに軍事侵攻（12月25日の動き）
+https://news.web.nhk/newsweb/na/na-k10014990721000
 
-[2025-12-25 17:18:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masdpgc6x72k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-「子供PSCマーク」とは？3歳未満のおもちゃに新規制【詳しく】
-https://news.web.nhk/newsweb/na/na-k10015013621000
-
-[2025-12-25 17:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masdpbmscy2b)
-
----
-
-@reuters.com
-
-LIVE: NORAD tracks Santa Claus
-www.youtube.com/live/x2IrLbx...
-
-[2025-12-25 17:15:50](https://bsky.app/profile/reuters.com/post/3masdlbu45c23)
+[2025-12-25 17:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masf2aqndn24)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-高市首相 来年度予算案 年明けの通常国会で早期成立目指す考え
-https://news.web.nhk/newsweb/na/na-k10015013701000
+パンダの観覧予約チケット 高額転売相次ぐ 転売発覚なら無効に
+https://news.web.nhk/newsweb/na/na-k10015013751000
 
-[2025-12-25 17:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masdeli6hc26)
+[2025-12-25 17:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maseutn7to2m)
 
 ---
 
 @wsj.com
 
-The 119th Congress has mostly been relegated to a sidekick role, deferring to President Trump’s muscular executive branch.
+When Bob Brody finally stopped drinking after half a century, he discovered that abstinence has physical and mental rewards, even when you’re in your 70s. on.wsj.com/3MJBKU2
 
-[2025-12-25 17:10:37](https://bsky.app/profile/wsj.com/post/3masdbyavcg2h)
+[2025-12-25 17:36:58](https://bsky.app/profile/wsj.com/post/3maser3ex7j2s)
 
 ---
 
 @reuters.com
 
-Two of NFC's best face off when 49ers host Bears reut.rs/45rGaFk
+Major Gulf markets subdued on soft oil prices reut.rs/3NhuwGP
 
-[2025-12-25 17:10:07](https://bsky.app/profile/reuters.com/post/3masdb3bwlt2i)
+[2025-12-25 17:35:09](https://bsky.app/profile/reuters.com/post/3masent6ft42r)
 
 ---
 
-@sokuho.news
+@japan.reuters.com
 
-🛎️NNNより【速報】です。
+米国の株式市場は３年連続で二桁台の上昇率を記録し今年の取引を終えつつある。２０２６年を４年連続の上昇相場とするには、力強い企業収益、ハト派的な米連邦準備理事会（ＦＲＢ）、人工知能（ＡＩ）に対する精力的な投資が必要との声が聞かれる。ただ中間選挙や米中関係といった不確定要因もあり、ハードルは高いと言えるだろう。 bit.ly/3MOpdyF
 
-【速報】秋田ノーザンハピネッツ 前田顕蔵ヘッドコーチが退任すると発表
-(2025-12-25 17:08) #ニュース
-
-[2025-12-25 17:08:18](https://bsky.app/profile/sokuho.news/post/3masd5t3zmi2r)
+[2025-12-25 17:35:08](https://bsky.app/profile/japan.reuters.com/post/3masensjcfw22)
 
 ---
 
