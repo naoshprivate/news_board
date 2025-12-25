@@ -1,9 +1,9 @@
-# [2025-12-25 16:50 updated](2025_12_25.md)
+# [2025-12-25 17:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">島津製作所は２５日、欧州を本拠とする電子顕微鏡のパイオニア企業、Ｔｅｓｃａｎ社を完全子会社化すると発表した。同社の全株式を間接的に保有するＧｌａｓｓ　ＨｏｌｄＣｏの全株式を取得する。Ｔｅｓｃａｎ社の実質的な株主であるカーライルとの間で合意した。 bit.ly/4peJfjc <a href="https://bsky.app/profile/japan.reuters.com/post/3masc26jums2c" target="_blank">japan.reuters.com</a> (2025-12-25 16:48:22)</span><span style="padding-right:50px;">Heat, Hawks aim for post-Christmas turnaround reut.rs/4ja9eXw <a href="https://bsky.app/profile/reuters.com/post/3masbuigx2i2b" target="_blank">reuters.com</a> (2025-12-25 16:45:11)</span><span style="padding-right:50px;">Wednesday's Christmas Eve drawing ended the lottery game's three-month stretch without a top-prize winner. Final ticket sales pushed the jackpot higher, making it the second-largest in U.S. history. n.pr/4qq3vPW <a href="https://bsky.app/profile/npr.org/post/3masbtfuz5a2e" target="_blank">npr.org</a> (2025-12-25 16:44:35)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】1月の電気・ガス料金は全社で値下がり…電気代は1000円前後・ガス代も500円前後安く 政府補助金で (2025-12-25 16:42) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3masbqtanq52y" target="_blank">sokuho.news</a> (2025-12-25 16:43:08)</span><span style="padding-right:50px;">仏製薬大手サノフィは２４日、米バイオテクノロジー企業のダイナバックス・テクノロジーズを約２２億ドル（１９億ユーロ）で買収することに合意したと発表した。 bit.ly/3MQx9PS <a href="https://bsky.app/profile/japan.reuters.com/post/3masblj7qgh2n" target="_blank">japan.reuters.com</a> (2025-12-25 16:40:10)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】秋田ノーザンハピネッツ 前田顕蔵ヘッドコーチが退任すると発表 (2025-12-25 17:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3masd5t3zmi2r" target="_blank">sokuho.news</a> (2025-12-25 17:08:18)</span><span style="padding-right:50px;">Thirteen European countries and Japan have condemned Israel’s decision earlier in the month to approve 19 new Jewish settlements in the Occupied West Bank saying the move harmed the prospects for long term peace and security in the region.  <a href="https://bsky.app/profile/cnn.com/post/3masd3jtlxf2u" target="_blank">cnn.com</a> (2025-12-25 17:07:01)</span><span style="padding-right:50px;">China accuses US of distorting its defence policy in relation to India ties reut.rs/4sjbtfE <a href="https://bsky.app/profile/reuters.com/post/3mascy66zy32i" target="_blank">reuters.com</a> (2025-12-25 17:05:08)</span><span style="padding-right:50px;">Democratic senators urge Trump to halt mass recall of ambassadors ft.trib.al/Dl1PH9W <a href="https://bsky.app/profile/financialtimes.com/post/3mascusb2mm2b" target="_blank">financialtimes.com</a> (2025-12-25 17:03:15)</span><span style="padding-right:50px;">自民 来年の通常国会 1月23日召集の政府方針 立民に伝える https://news.web.nhk/newsweb/na/na-k10015013711000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mascumka7j26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 17:03:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.89 (🔺0.15 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔺0.12 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,108 +32,103 @@
 
 ## News Headlines
 
-- Islandec to Acquire Tescan in $2.2 Billion Deal
-- Heat, Hawks Aim for Post-Christmas Turnaround
-- Christmas Eve Drawing Ends Three-Month Streak Without Top-Prize Winner
-- Sanoofi Agrees to Buy Dynavax Technologies for $19 Billion
-- Foreign-Branded Phone Shipments in China Surge 128.4% in November
-- Taylor Fritz, Coco Gauff Lead US Defense of United Cup Title
+- 13 European countries and Japan condemn Israel's approval of new Jewish settlements in the Occupied West Bank
+- China accuses US of distorting its defense policy in relation to India ties
+- Democratic senators urge Trump to halt mass recall of ambassadors
+- China hopes firms seek lawful, balanced solutions over TikTok deal
+- Heat, Hawks aim for post-Christmas turnaround
+- US official says Washington will focus on targeting Venezuela oil instead of military options
 
 
 ----
 
-@japan.reuters.com
+@sokuho.news
 
-島津製作所は２５日、欧州を本拠とする電子顕微鏡のパイオニア企業、Ｔｅｓｃａｎ社を完全子会社化すると発表した。同社の全株式を間接的に保有するＧｌａｓｓ　ＨｏｌｄＣｏの全株式を取得する。Ｔｅｓｃａｎ社の実質的な株主であるカーライルとの間で合意した。 bit.ly/4peJfjc
+🛎️NNNより【速報】です。
 
-[2025-12-25 16:48:22](https://bsky.app/profile/japan.reuters.com/post/3masc26jums2c)
+【速報】秋田ノーザンハピネッツ 前田顕蔵ヘッドコーチが退任すると発表
+(2025-12-25 17:08) #ニュース
+
+[2025-12-25 17:08:18](https://bsky.app/profile/sokuho.news/post/3masd5t3zmi2r)
+
+---
+
+@cnn.com
+
+Thirteen European countries and Japan have condemned Israel’s decision earlier in the month to approve 19 new Jewish settlements in the Occupied West Bank saying the move harmed the prospects for long term peace and security in the region. 
+
+[2025-12-25 17:07:01](https://bsky.app/profile/cnn.com/post/3masd3jtlxf2u)
 
 ---
 
 @reuters.com
 
-Heat, Hawks aim for post-Christmas turnaround reut.rs/4ja9eXw
+China accuses US of distorting its defence policy in relation to India ties reut.rs/4sjbtfE
 
-[2025-12-25 16:45:11](https://bsky.app/profile/reuters.com/post/3masbuigx2i2b)
-
----
-
-@npr.org
-
-Wednesday's Christmas Eve drawing ended the lottery game's three-month stretch without a top-prize winner. Final ticket sales pushed the jackpot higher, making it the second-largest in U.S. history. n.pr/4qq3vPW
-
-[2025-12-25 16:44:35](https://bsky.app/profile/npr.org/post/3masbtfuz5a2e)
+[2025-12-25 17:05:08](https://bsky.app/profile/reuters.com/post/3mascy66zy32i)
 
 ---
 
-@sokuho.news
+@financialtimes.com
 
-🛎️FNNより【速報】です。
+Democratic senators urge Trump to halt mass recall of ambassadors ft.trib.al/Dl1PH9W
 
-【速報】1月の電気・ガス料金は全社で値下がり…電気代は1000円前後・ガス代も500円前後安く 政府補助金で
-(2025-12-25 16:42) #ニュース
-
-[2025-12-25 16:43:08](https://bsky.app/profile/sokuho.news/post/3masbqtanq52y)
+[2025-12-25 17:03:15](https://bsky.app/profile/financialtimes.com/post/3mascusb2mm2b)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-仏製薬大手サノフィは２４日、米バイオテクノロジー企業のダイナバックス・テクノロジーズを約２２億ドル（１９億ユーロ）で買収することに合意したと発表した。 bit.ly/3MQx9PS
+自民 来年の通常国会 1月23日召集の政府方針 立民に伝える
+https://news.web.nhk/newsweb/na/na-k10015013711000
 
-[2025-12-25 16:40:10](https://bsky.app/profile/japan.reuters.com/post/3masblj7qgh2n)
-
----
-
-@japan.reuters.com
-
-中国情報通信技術研究院が２５日発表したデータによると、中国での１１月の海外ブランド携帯電話の出荷台数は前年同月比１２８．４％増の６９３万台となった。 bit.ly/44JnRva
-
-[2025-12-25 16:38:41](https://bsky.app/profile/japan.reuters.com/post/3masbiucqpd27)
+[2025-12-25 17:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mascumka7j26)
 
 ---
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-A few years ago, a California cryptocurrency developer hired a freelance coder remotely for a project. What he didn’t know: The salary he paid landed in the hands of North Korea.
+PFAS 上水道など5か所で暫定目標値超え 今年度の調査で 環境省
+https://news.web.nhk/newsweb/na/na-k10015013491000
 
-[2025-12-25 16:36:29](https://bsky.app/profile/wsj.com/post/3masbewy7ms2z)
+[2025-12-25 17:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mascuhlfcz22)
 
 ---
 
 @nikkei.com
 
-H3失敗、測位衛星「みちびき」5号機喪失（無料記事）
+インドネシア豪雨被害、森林破壊が誘発か　企業の環境破壊への批判広がる
 www.nikkei.com/article/DGXZQO...
+ 
+インドネシアでは11月下旬にスマトラ島を豪雨が襲い、各地で洪水や地滑りが発生。12月25日時点で死者は1129人となり、壊れた家屋も16万近くに上っています。
+ 
+過度な森林伐採が災害を誘発したとの見方が強く、インドネシア政府は大手を含む10社以上に営業停止処分を出しました。
 
-JAXAが文部科学省の会合で報告。ロケットやみちびき5号機とは通信ができず、分離の有無や機体の行方は分かっていませんでした。
-
-みちびきはアメリカのGPSなどに依存していた宇宙からの測位を日本独自のシステムで実現するための衛星。
-
-2026年2月に打ち上げが予定されている7号機とあわせて7基体制になれば、日本の衛星だけで常時測位できるようになるはずでした。
-
-#ニュース
-
-[2025-12-25 16:30:39](https://bsky.app/profile/nikkei.com/post/3masb2izlvn2m)
+[2025-12-25 17:00:50](https://bsky.app/profile/nikkei.com/post/3mascqhk6u726)
 
 ---
 
-@sokuho.news
+@washingtonpost.com
 
-🛎️JNNより【速報】です。
+Ukrainian President Volodymyr Zelensky appeared to wish Russian President Vladimir Putin dead, saying “May he perish” in a Christmas Eve address.
 
-【速報】「偽の診断書」を3回作成・提出して病気休暇を取得して給与などの支払いを受ける… 青森県五戸町はが都市計画課の20代の男性主事を懲戒免職処分に
-(2025-12-25 16:26:00) #ニュース
+[2025-12-25 17:00:45](https://bsky.app/profile/washingtonpost.com/post/3mascqd5ruh2b)
 
-[2025-12-25 16:30:35](https://bsky.app/profile/sokuho.news/post/3masb2ff55y2s)
+---
+
+@japan.reuters.com
+
+イスラエルのネタニヤフ首相は２４日、他国への依存を減らすため、独自の軍備開発に今後１０年で３５００億シェケル（約１１００億ドル）を投じると表明した。 bit.ly/49pHkUe
+
+[2025-12-25 17:00:38](https://bsky.app/profile/japan.reuters.com/post/3mascq45svu2p)
 
 ---
 
 @reuters.com
 
-Taylor Fritz, Coco Gauff lead U.S.'s defense of United Cup title reut.rs/3YG9Tqm
+China says it hopes firms seek lawful, balanced solutions over TikTok deal reut.rs/4pNrsRe
 
-[2025-12-25 16:30:21](https://bsky.app/profile/reuters.com/post/3masazxonmf2p)
+[2025-12-25 17:00:25](https://bsky.app/profile/reuters.com/post/3mascpqekde2x)
 
 ---
 
