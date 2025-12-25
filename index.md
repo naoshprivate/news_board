@@ -1,9 +1,9 @@
-# [2025-12-25 21:30 updated](2025_12_25.md)
+# [2025-12-25 21:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🇺🇸 ⛈️ Flash flood warnings were in effect in Los Angeles and most of southern California on Wednesday as one of the worst Christmas storms in recent memory brought heavy rain and fears of deadly mudslides ➡️ u.afp.com/S8dD <a href="https://bsky.app/profile/en.afp.com/post/3masrj3nhfi2f" target="_blank">en.afp.com</a> (2025-12-25 21:25:08)</span><span style="padding-right:50px;">The host of a long-running annual Christmas Eve jazz concert at the Kennedy Center canceled the event over the addition of Donald Trump’s name to the Washington, DC institution reut.rs/4atu16l <a href="https://bsky.app/profile/reuters.com/post/3masrhig33c2g" target="_blank">reuters.com</a> (2025-12-25 21:24:15)</span><span style="padding-right:50px;">New York City embarked on a controversial program to toll drivers entering some of Manhattan’s busiest streets. Nearly a year later, data shows congestion pricing is actually working. View the charts: bloom.bg/4jklVzm  📷: Michael Nagle/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3masqxexjyg2a" target="_blank">bloomberg.com</a> (2025-12-25 21:15:14)</span><span style="padding-right:50px;">日本ショッピングセンター（ＳＣ）協会が２５日に発表した１１月のＳＣ既存店売上高は前年比６．２％増となった。前年比での増加は４５カ月連続。 bit.ly/4at6iDe <a href="https://bsky.app/profile/japan.reuters.com/post/3masqxc4ebs2q" target="_blank">japan.reuters.com</a> (2025-12-25 21:15:11)</span><span style="padding-right:50px;">A bomb exploded during prayers at a mosque in Nigeria's northeastern city of Maiduguri on Wednesday night, killing five people and injuring 35 others, police said. <a href="https://bsky.app/profile/cbsnews.com/post/3masqwycc2e2z" target="_blank">cbsnews.com</a> (2025-12-25 21:15:01)</span>
+<span style="padding-right:50px;">中国は２５日、米国が先週発表した台湾への武器売却を批判し、今回の売却が台湾海峡での戦争の脅威を「加速」させていると述べた。 bit.ly/4jxldip <a href="https://bsky.app/profile/japan.reuters.com/post/3massn375vq25" target="_blank">japan.reuters.com</a> (2025-12-25 21:45:16)</span><span style="padding-right:50px;">Bad movies can be fun in their own way. <a href="https://bsky.app/profile/npr.org/post/3massk4b7lb2m" target="_blank">npr.org</a> (2025-12-25 21:43:36)</span><span style="padding-right:50px;">ロシアのプーチン大統領は、トランプ米大統領にクリスマスを祝うメッセージを送った。大統領府のペスコフ報道官が２５日明らかにした。 bit.ly/4sdWpzJ <a href="https://bsky.app/profile/japan.reuters.com/post/3massiuwf6x2c" target="_blank">japan.reuters.com</a> (2025-12-25 21:42:55)</span><span style="padding-right:50px;">#UPDATE 🇻🇦 🇺🇦 🇷🇺🎄 🇵🇸 Pope Leo XIV on Thursday urged Russia and Ukraine to find the "courage" to hold direct talks and spoke of the dire humanitarian situation in Gaza in his first Christmas message ➡️ u.afp.com/S8dR <a href="https://bsky.app/profile/en.afp.com/post/3mass4shrwk2e" target="_blank">en.afp.com</a> (2025-12-25 21:36:10)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:大分県中部, 深さ:10km マグニチュード:2.0, 最大震度:1 📍https://www.google.com/maps?q=33.3,131.4&ll=33.3,131.4&z=7&t=h 地震発生日時:2025-12-25 21:28頃 (10倍速▶90s→9s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3masruqublf2y" target="_blank">sokuho.news</a> (2025-12-25 21:31:40)</span>
   </div>
 </div>
 
@@ -32,99 +32,110 @@
 
 ## News Headlines
 
-- Flash flood warnings issued for Los Angeles and most of southern California as Christmas storm brings heavy rain and mudslide fears
-- Christmas concert at Kennedy Center canceled over addition of Donald Trump's name to building's facade
-- New York City congestion pricing program shows promising results after nearly a year
-- Japanese shopping centers report 6.2% increase in sales in November
-- Bomb explosion at mosque in Nigeria's Maiduguri city kills five and injures 35
-- Pope Leo XIV condemns war and calls for peace in Gaza and Ukraine in first Christmas message
+- China Criticizes US Arms Sales to Taiwan, Says It Increases Threat of War in Taiwan Strait
+- Putin Sends Trump Christmas Message, Russian Official Reveals
+- Pope Urges Russia and Ukraine to Hold Direct Talks, Condemns Senselessness of War
+- 5 Dead, 35 Injured in Bomb Blast at Mosque in Nigeria
+- Christmas Concert at Kennedy Center Canceled Over Trump Name Addition
+- Japan's Shopping Centers See Sales Increase for 45 Consecutive Months
 
 
 ----
 
-@en.afp.com
+@japan.reuters.com
 
-🇺🇸 ⛈️ Flash flood warnings were in effect in Los Angeles and most of southern California on Wednesday as one of the worst Christmas storms in recent memory brought heavy rain and fears of deadly mudslides ➡️ u.afp.com/S8dD
+中国は２５日、米国が先週発表した台湾への武器売却を批判し、今回の売却が台湾海峡での戦争の脅威を「加速」させていると述べた。 bit.ly/4jxldip
 
-[2025-12-25 21:25:08](https://bsky.app/profile/en.afp.com/post/3masrj3nhfi2f)
-
----
-
-@reuters.com
-
-The host of a long-running annual Christmas Eve jazz concert at the Kennedy Center canceled the event over the addition of Donald Trump’s name to the Washington, DC institution reut.rs/4atu16l
-
-[2025-12-25 21:24:15](https://bsky.app/profile/reuters.com/post/3masrhig33c2g)
+[2025-12-25 21:45:16](https://bsky.app/profile/japan.reuters.com/post/3massn375vq25)
 
 ---
 
-@bloomberg.com
+@npr.org
 
-New York City embarked on a controversial program to toll drivers entering some of Manhattan’s busiest streets. Nearly a year later, data shows congestion pricing is actually working. View the charts: bloom.bg/4jklVzm
+Bad movies can be fun in their own way.
 
-📷: Michael Nagle/Bloomberg
-
-[2025-12-25 21:15:14](https://bsky.app/profile/bloomberg.com/post/3masqxexjyg2a)
+[2025-12-25 21:43:36](https://bsky.app/profile/npr.org/post/3massk4b7lb2m)
 
 ---
 
 @japan.reuters.com
 
-日本ショッピングセンター（ＳＣ）協会が２５日に発表した１１月のＳＣ既存店売上高は前年比６．２％増となった。前年比での増加は４５カ月連続。 bit.ly/4at6iDe
+ロシアのプーチン大統領は、トランプ米大統領にクリスマスを祝うメッセージを送った。大統領府のペスコフ報道官が２５日明らかにした。 bit.ly/4sdWpzJ
 
-[2025-12-25 21:15:11](https://bsky.app/profile/japan.reuters.com/post/3masqxc4ebs2q)
-
----
-
-@cbsnews.com
-
-A bomb exploded during prayers at a mosque in Nigeria's northeastern city of Maiduguri on Wednesday night, killing five people and injuring 35 others, police said.
-
-[2025-12-25 21:15:01](https://bsky.app/profile/cbsnews.com/post/3masqwycc2e2z)
+[2025-12-25 21:42:55](https://bsky.app/profile/japan.reuters.com/post/3massiuwf6x2c)
 
 ---
 
-@nytimes.com
+@en.afp.com
 
-An annual Christmas Eve jazz concert at the Kennedy Center was canceled by its host after a board appointed by President Trump added his name to the Washington building's facade.
+#UPDATE 🇻🇦 🇺🇦 🇷🇺🎄 🇵🇸 Pope Leo XIV on Thursday urged Russia and Ukraine to find the "courage" to hold direct talks and spoke of the dire humanitarian situation in Gaza in his first Christmas message ➡️ u.afp.com/S8dR
 
-[2025-12-25 21:10:05](https://bsky.app/profile/nytimes.com/post/3masqo5vco52x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-新潟 中央区 マンションで火災 1人が病院搬送
-https://news.web.nhk/newsweb/na/na-k10015013971000
-
-[2025-12-25 21:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqmeapqu2x)
+[2025-12-25 21:36:10](https://bsky.app/profile/en.afp.com/post/3mass4shrwk2e)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-サッカー天皇杯 2027年元日に決勝 6大会ぶり元日の頂上決戦
-https://news.web.nhk/newsweb/na/na-k10015014061000
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-25 21:06:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqh5uw6j24)
+震源:大分県中部, 深さ:10km
+マグニチュード:2.0, 最大震度:1
+📍https://www.google.com/maps?q=33.3,131.4&ll=33.3,131.4&z=7&t=h
+地震発生日時:2025-12-25 21:28頃
+(10倍速▶90s→9s) #地震
 
----
-
-@nhknewsunofficial.bsky.social
-
-【広島】お米券など食料品支援 自治体は
-https://news.web.nhk/newsweb/na/na-k10015014051000
-
-[2025-12-25 21:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqgykxqr2d)
+[2025-12-25 21:31:40](https://bsky.app/profile/sokuho.news/post/3masruqublf2y)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-LIVE: British royals attend traditional Christmas service
-www.youtube.com/live/xvSzS2r...
+🔔気象庁より【地震速報】です。
 
-[2025-12-25 21:03:26](https://bsky.app/profile/reuters.com/post/3masqcbuvpc2g)
+21時28分頃、大分県で最大震度1の地震を観測しました。
+震源:大分県中部, 深さ:10km, 規模:M2.0
+この地震による津波の心配はありません。
+(2025-12-25 21:31:17) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/25/2025-12-25-21-28-35.html?xlarge_image=1
+
+[2025-12-25 21:31:18](https://bsky.app/profile/sokuho.news/post/3masru4eoib26)
+
+---
+
+@cnn.com
+
+A single Powerball ticket sold in Arkansas contained the winning numbers for the $1.817 billion prize, the second-largest ever in the US. https://cnn.it/4pUYi2T
+
+[2025-12-25 21:31:14](https://bsky.app/profile/cnn.com/post/3masrtyhslt2q)
+
+---
+
+@nikkei.com
+
+コワかった「忍者ハットリくん」のお面
+www.nikkei.com/article/DGXZQO...
+
+とぼけた顔も癒やしキャラだと思っていたが──。
+
+大阪芸術大学の有吉玉青教授は映画「20世紀少年　第1章」を観に行って「背筋が凍った」と振り返ります。
+
+[2025-12-25 21:30:40](https://bsky.app/profile/nikkei.com/post/3masrsxibre2g)
+
+---
+
+@usatoday.com
+
+Tommy Egan is not only calling the shots but taking the shots in "Power Book IV: Force."
+
+[2025-12-25 21:30:20](https://bsky.app/profile/usatoday.com/post/3masrselqky2w)
+
+---
+
+@aljazeera.com
+
+Photos: Global stories of 2025 in pictures https://aje.io/21w637
+
+[2025-12-25 21:30:11](https://bsky.app/profile/aljazeera.com/post/3masrs4no262p)
 
 ---
 
