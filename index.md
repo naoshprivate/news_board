@@ -1,9 +1,9 @@
-# [2025-12-26 05:50 updated](2025_12_26.md)
+# [2025-12-26 06:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Hundreds of people gathered in the Israeli city of Ashdod on Thursday to lay to rest Dan Elkayam, a French Jew killed in the December 14 antisemitic attack on a Hanukkah celebration at Bondi Beach in Australia.  u.afp.com/S8Pp <a href="https://bsky.app/profile/en.afp.com/post/3matngx4ev62s" target="_blank">en.afp.com</a> (2025-12-26 05:45:01)</span><span style="padding-right:50px;">One family’s centurieslong trade provides a window on British colonial history and Kenya’s independence. Its time looks to be coming to a close. <a href="https://bsky.app/profile/wsj.com/post/3matngbrwps2g" target="_blank">wsj.com</a> (2025-12-26 05:44:39)</span><span style="padding-right:50px;">Today, people consider "Yule" synonymous with "Christmas." But centuries ago, Yule meant something different — a pagan mid-winter festival, dating back to pre-Christian Germanic people. <a href="https://bsky.app/profile/npr.org/post/3matncek4an2n" target="_blank">npr.org</a> (2025-12-26 05:42:28)</span><span style="padding-right:50px;">Oil exports, Venezuela’s financial lifeblood, have plummeted after the U.S. took action against three ships that have been used to carry its crude. <a href="https://bsky.app/profile/nytimes.com/post/3matn65msma2e" target="_blank">nytimes.com</a> (2025-12-26 05:40:06)</span><span style="padding-right:50px;">香港高層住宅火災1か月 犠牲者の追悼行事 一部で開催できず https://news.web.nhk/newsweb/na/na-k10015014111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matmwxd2oa24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 05:36:03)</span>
+<span style="padding-right:50px;">🛎️FLASHより【独自】です。  【独自】『アッコにおまかせ！』後継は「上田晋也MCのワイドショー」、“新番組”の内容と“TBSの狙い”とは (2025-12-26 06:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3matosoysme25" target="_blank">sokuho.news</a> (2025-12-26 06:09:29)</span><span style="padding-right:50px;">Jimmy Kimmel used his Christmas Day message to U.K. viewers today to declare victory for free speech over President Trump's calls to cancel his talk show. <a href="https://bsky.app/profile/axios.com/post/3matonoq2hs2d" target="_blank">axios.com</a> (2025-12-26 06:06:41)</span><span style="padding-right:50px;">New York City is expecting its biggest snowfall in more than three years during the next few days. The region could see accumulations of up to 5 to 7 inches from late Friday into Saturday. <a href="https://bsky.app/profile/nytimes.com/post/3matokrdnxt27" target="_blank">nytimes.com</a> (2025-12-26 06:05:03)</span><span style="padding-right:50px;">Ukrainian President Volodymyr Zelensky had a “very good” conversation with US special envoy Steve Witkoff and President Donald Trump’s son-in-law Jared Kushner on Christmas Day as negotiations over the terms of a potential peace deal continued. https://cnn.it/4pTZLq3 <a href="https://bsky.app/profile/cnn.com/post/3matodku4uw2b" target="_blank">cnn.com</a> (2025-12-26 06:01:02)</span><span style="padding-right:50px;">Etsy seller Emily Odio-Sutton shares how she started, and grew, her lucrative print-on-demand side hustle — and offers tips for how to replicate her success. <a href="https://bsky.app/profile/cnbc.com/post/3matocziejf2m" target="_blank">cnbc.com</a> (2025-12-26 06:00:43)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔻0.11 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔻0.10 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,99 +32,96 @@
 
 ## News Headlines
 
-- Hundreds Gather to Mourn Israeli Man Killed at Australian Hanukkah Celebration
-- Family's Centuries-Long Trade Holds Window to British Colonial History and Kenya's Independence
-- US Sanctions Cause Oil Exports to Plummet in Venezuela
-- Christmas Celebrations Return to Jesus' Birthplace After Two-Year Hiatus
-- NFL Games on Christmas: A Look Back at the League's First Holiday Matchups
-- King Charles Delivers Christmas Message with Call for Compassion and Reconciliation
+- Jimmy Kimmel Declares Victory for Free Speech Over Trump's Cancellation Calls
+- New York City Braces for Biggest Snowfall in Three Years
+- Ukraine's Zelensky Holds Talks with US Envoy, Trump's Son-in-Law on Christmas
+- US Military Sends Transport Planes to Caribbean Amid Venezuela Tensions
+- Christmas Celebrations Return to Jesus' Birthplace, but Joy Overshadowed by Israeli Occupation
+- Steelers Sign Veteran CB Tre Flowers to Active Roster
 
 
 ----
 
-@en.afp.com
+@sokuho.news
 
-Hundreds of people gathered in the Israeli city of Ashdod on Thursday to lay to rest Dan Elkayam, a French Jew killed in the December 14 antisemitic attack on a Hanukkah celebration at Bondi Beach in Australia. 
-u.afp.com/S8Pp
+🛎️FLASHより【独自】です。
 
-[2025-12-26 05:45:01](https://bsky.app/profile/en.afp.com/post/3matngx4ev62s)
+【独自】『アッコにおまかせ！』後継は「上田晋也MCのワイドショー」、“新番組”の内容と“TBSの狙い”とは
+(2025-12-26 06:00) #ニュース
 
----
-
-@wsj.com
-
-One family’s centurieslong trade provides a window on British colonial history and Kenya’s independence. Its time looks to be coming to a close.
-
-[2025-12-26 05:44:39](https://bsky.app/profile/wsj.com/post/3matngbrwps2g)
+[2025-12-26 06:09:29](https://bsky.app/profile/sokuho.news/post/3matosoysme25)
 
 ---
 
-@npr.org
+@axios.com
 
-Today, people consider "Yule" synonymous with "Christmas." But centuries ago, Yule meant something different — a pagan mid-winter festival, dating back to pre-Christian Germanic people.
+Jimmy Kimmel used his Christmas Day message to U.K. viewers today to declare victory for free speech over President Trump's calls to cancel his talk show.
 
-[2025-12-26 05:42:28](https://bsky.app/profile/npr.org/post/3matncek4an2n)
+[2025-12-26 06:06:41](https://bsky.app/profile/axios.com/post/3matonoq2hs2d)
 
 ---
 
 @nytimes.com
 
-Oil exports, Venezuela’s financial lifeblood, have plummeted after the U.S. took action against three ships that have been used to carry its crude.
+New York City is expecting its biggest snowfall in more than three years during the next few days. The region could see accumulations of up to 5 to 7 inches from late Friday into Saturday.
 
-[2025-12-26 05:40:06](https://bsky.app/profile/nytimes.com/post/3matn65msma2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-香港高層住宅火災1か月 犠牲者の追悼行事 一部で開催できず
-https://news.web.nhk/newsweb/na/na-k10015014111000
-
-[2025-12-26 05:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matmwxd2oa24)
+[2025-12-26 06:05:03](https://bsky.app/profile/nytimes.com/post/3matokrdnxt27)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnn.com
 
-赤坂 サウナ店火災 ドアのへりに削られた跡 夫婦が脱出試みか
-https://news.web.nhk/newsweb/na/na-k10015014161000
+Ukrainian President Volodymyr Zelensky had a “very good” conversation with US special envoy Steve Witkoff and President Donald Trump’s son-in-law Jared Kushner on Christmas Day as negotiations over the terms of a potential peace deal continued. https://cnn.it/4pTZLq3
 
-[2025-12-26 05:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matmrlgxf72y)
+[2025-12-26 06:01:02](https://bsky.app/profile/cnn.com/post/3matodku4uw2b)
+
+---
+
+@cnbc.com
+
+Etsy seller Emily Odio-Sutton shares how she started, and grew, her lucrative print-on-demand side hustle — and offers tips for how to replicate her success.
+
+[2025-12-26 06:00:43](https://bsky.app/profile/cnbc.com/post/3matocziejf2m)
+
+---
+
+@apnews.com
+
+The past year wasn't all doom and gloom; there was plenty to smile about, too. 
+
+[2025-12-26 06:00:37](https://bsky.app/profile/apnews.com/post/3matocsxua32p)
 
 ---
 
 @usatoday.com
 
-For the first few decades of the NFL, the league avoided Christmas games. That changed in 1971. Here's a look at the first NFL games on Christmas.
+Erin and Ben Napier have more "Home Town" shows coming in 2026, but won't be able to host one of the beloved spinoffs.
 
-[2025-12-26 05:30:18](https://bsky.app/profile/usatoday.com/post/3matmmmvudb2z)
-
----
-
-@nhknewsunofficial.bsky.social
-
-青森県東方沖の地震 “震源東側で小規模地震続く” 調査委
-https://news.web.nhk/newsweb/na/na-k10015014221000
-
-[2025-12-26 05:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matlwregob2s)
+[2025-12-26 06:00:31](https://bsky.app/profile/usatoday.com/post/3matocnr6r62f)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@washingtonpost.com
 
-西～北日本の日本海側中心に雪強まる 交通影響や暴風など警戒
-https://news.web.nhk/newsweb/na/na-k10015014171000
+Most of the year, U.S. electricity grid utilization is around 50 percent. Some researchers say that spare electricity could be tapped and sent to other customers, presenting an opportunity to lower prices.
 
-[2025-12-26 05:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matlrf7mkw2w)
+[2025-12-26 06:00:14](https://bsky.app/profile/washingtonpost.com/post/3matoc5vjpz2e)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nbcnews.com
 
-政府 きょう来年度予算案決定 一般会計総額122兆3100億円程度
-https://news.web.nhk/newsweb/na/na-k10015014121000
+The Australian government has been accused of failing to heed warnings about antisemitic threats ahead of the deadly attack.
 
-[2025-12-26 05:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matlgpclbv2w)
+[2025-12-26 06:00:13](https://bsky.app/profile/nbcnews.com/post/3matoc4opw32p)
+
+---
+
+@nytimes.com
+
+The U.S. military has dispatched a number of transport and cargo planes to the Caribbean this week, as President Trump continues to ramp up military pressure on President Nicolás Maduro of Venezuela, whom Trump has threatened with military action.
+
+[2025-12-26 06:00:04](https://bsky.app/profile/nytimes.com/post/3matobu7cvs2b)
 
 ---
 
