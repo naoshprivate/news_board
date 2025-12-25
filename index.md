@@ -1,9 +1,9 @@
-# [2025-12-25 18:30 updated](2025_12_25.md)
+# [2025-12-25 18:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大雪予報で…26日始発から一部『計画運休』JR西日本の北陸線と湖西線 ほかの区間も取りやめ可能性 (2025-12-25 18:22:19) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mashkxjmjr26" target="_blank">sokuho.news</a> (2025-12-25 18:27:14)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】鴨池・垂水フェリー運航見合わせ 午後7時20分の便を最後に (2025-12-25 18:23:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mashkpkazf27" target="_blank">sokuho.news</a> (2025-12-25 18:27:05)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】新潟市中央区のマンションで火災《新潟》 (2025-12-25 18:26) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mashk5wefr2v" target="_blank">sokuho.news</a> (2025-12-25 18:26:47)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】大雪の影響で高速道路が通行止の可能性 名神高速や新名神高速などの一部区間で 冬用タイヤの装着とタイヤチェーンの携行を (2025-12-25 17:49) #ニュース  ❄️降雪量 🔗https://www.jma.go.jp/bosai/snow/#zoom:5/lat:36.956909/lon:136.526600/colordepth:normal/elements:snowf24h <a href="https://bsky.app/profile/sokuho.news/post/3mashjintmp2b" target="_blank">sokuho.news</a> (2025-12-25 18:26:25)</span><span style="padding-right:50px;">Brief Christmas pause in Cup of Nations action reut.rs/4qkuFaQ <a href="https://bsky.app/profile/reuters.com/post/3mashh5vqp42b" target="_blank">reuters.com</a> (2025-12-25 18:25:06)</span>
+<span style="padding-right:50px;">Powerball $1.817 billion Christmas Eve jackpot won by single ticket, in Arkansas. <a href="https://bsky.app/profile/cbsnews.com/post/3masikqyqad2c" target="_blank">cbsnews.com</a> (2025-12-25 18:45:01)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】新潟市中央区西堀通3番町でマンション火災「ふとんから火が出た」現在消火活動中 (2025-12-25 18:21:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3masifxipot2x" target="_blank">sokuho.news</a> (2025-12-25 18:42:20)</span><span style="padding-right:50px;">中国情報通信技術研究院が２５日発表したデータによると、中国での１１月の海外ブランド携帯電話の出荷台数は前年同月比１２８．４％増の６９３万台となった。 bit.ly/3YfzXse <a href="https://bsky.app/profile/japan.reuters.com/post/3masic46elw2c" target="_blank">japan.reuters.com</a> (2025-12-25 18:40:10)</span><span style="padding-right:50px;">パラリンピック スキーとスノーボード 代表内定選手ら意気込み https://news.web.nhk/newsweb/na/na-k10015013831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masiaco46i2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 18:39:08)</span><span style="padding-right:50px;">独禁法違反疑いの「ロピア」再発防止策など提出 公取委が認定 https://news.web.nhk/newsweb/na/na-k10015013811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masia52rsk2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 18:39:02)</span>
   </div>
 </div>
 
@@ -32,27 +32,21 @@
 
 ## News Headlines
 
-- JR West to Suspend Some Train Operations from December 26 Due to Heavy Snow Forecast
-- Suspension of Ferry Service from Awaji to Tokushima Due to Bad Weather
-- Fire Breaks Out at Apartment Building in Central District of Niigata City
-- Highway Traffic May be Restricted Due to Heavy Snowfall in Western Japan
-- Tokyo Stock Market Sees Small Rally, Closing at 54,040 Yen 79 Sen
-- Panda Viewing Tickets Sold at Exorbitant Prices, Resale Invalidates Tickets
+- Powerball $1.817 billion Christmas Eve jackpot won by single ticket, in Arkansas.
+- Japan's inflation continues to rise, with a 2% price stability target now seen as achievable with wage growth.
+- China's export of foreign-branded mobile phones surged 128.4% in November compared to the same month last year.
+- Riyadh calls seizure of oil-rich provinces 'unjustified escalation' as fragile anti-Houthi alliance shows cracks.
+- Tokyo's stock market sees a small rebound, with the Nikkei average ending the day at 50,407 yen 79 sen.
+- Vietnam's Vingroup withdraws bid for $67-bln North-South high-speed railway.
 
 
 ----
 
-@sokuho.news
+@cbsnews.com
 
-🛎️JNNより【速報】です。
+Powerball $1.817 billion Christmas Eve jackpot won by single ticket, in Arkansas.
 
-【速報】大雪予報で…26日始発から一部『計画運休』JR西日本の北陸線と湖西線 ほかの区間も取りやめ可能性
-(2025-12-25 18:22:19) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-25 18:27:14](https://bsky.app/profile/sokuho.news/post/3mashkxjmjr26)
+[2025-12-25 18:45:01](https://bsky.app/profile/cbsnews.com/post/3masikqyqad2c)
 
 ---
 
@@ -60,10 +54,56 @@
 
 🛎️JNNより【速報】です。
 
-【速報】鴨池・垂水フェリー運航見合わせ 午後7時20分の便を最後に
-(2025-12-25 18:23:00) #ニュース
+【速報】新潟市中央区西堀通3番町でマンション火災「ふとんから火が出た」現在消火活動中
+(2025-12-25 18:21:00) #ニュース
 
-[2025-12-25 18:27:05](https://bsky.app/profile/sokuho.news/post/3mashkpkazf27)
+[2025-12-25 18:42:20](https://bsky.app/profile/sokuho.news/post/3masifxipot2x)
+
+---
+
+@japan.reuters.com
+
+中国情報通信技術研究院が２５日発表したデータによると、中国での１１月の海外ブランド携帯電話の出荷台数は前年同月比１２８．４％増の６９３万台となった。 bit.ly/3YfzXse
+
+[2025-12-25 18:40:10](https://bsky.app/profile/japan.reuters.com/post/3masic46elw2c)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+パラリンピック スキーとスノーボード 代表内定選手ら意気込み
+https://news.web.nhk/newsweb/na/na-k10015013831000
+
+[2025-12-25 18:39:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masiaco46i2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+独禁法違反疑いの「ロピア」再発防止策など提出 公取委が認定
+https://news.web.nhk/newsweb/na/na-k10015013811000
+
+[2025-12-25 18:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masia52rsk2w)
+
+---
+
+@sokuho.news
+
+🛎️ANNより【速報】です。
+
+【速報】高級個室サウナ店夫婦死亡 関連会社などに家宅捜索 捜査関係者
+(2025-12-25 18:33:38) #ニュース
+https://news.tv-asahi.co.jp/news_society/articles/000475277.html?display=full
+
+[2025-12-25 18:36:07](https://bsky.app/profile/sokuho.news/post/3masi2v4zl32x)
+
+---
+
+@japan.reuters.com
+
+日銀の植田和男総裁は２５日、ここ数年、企業の賃金・価格設定行動は「大きく変化している」と評価し、賃金上昇を伴う形での２％の物価安定目標の実現が「着実に近づいている」と述べた。賃金の上昇継続とコスト上昇分の販売価格への転嫁の広がりに自信を示し、長らく続いてきた賃金も物価もほとんど変化しない「ゼロノルム」の世界に戻る可能性は「大きく低下している」と語った。 bit.ly/4p9vh24
+
+[2025-12-25 18:35:07](https://bsky.app/profile/japan.reuters.com/post/3mashz36ffc22)
 
 ---
 
@@ -71,81 +111,30 @@
 
 🛎️NNNより【速報】です。
 
-【速報】新潟市中央区のマンションで火災《新潟》
+【速報】新潟市中央区西堀通りのマンションで火災 「ふとんが燃えている」と通報《新潟》
 (2025-12-25 18:26) #ニュース
 
-[2025-12-25 18:26:47](https://bsky.app/profile/sokuho.news/post/3mashk5wefr2v)
+[2025-12-25 18:34:55](https://bsky.app/profile/sokuho.news/post/3mashypucir2a)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】大雪の影響で高速道路が通行止の可能性 名神高速や新名神高速などの一部区間で 冬用タイヤの装着とタイヤチェーンの携行を
-(2025-12-25 17:49) #ニュース
+【速報】新潟市中央区西堀のマンションで火災 「ふとんが燃えている」と通報《新潟》
+(2025-12-25 18:26) #ニュース
 
-❄️降雪量
-🔗https://www.jma.go.jp/bosai/snow/#zoom:5/lat:36.956909/lon:136.526600/colordepth:normal/elements:snowf24h
-
-[2025-12-25 18:26:25](https://bsky.app/profile/sokuho.news/post/3mashjintmp2b)
-
----
-
-@reuters.com
-
-Brief Christmas pause in Cup of Nations action reut.rs/4qkuFaQ
-
-[2025-12-25 18:25:06](https://bsky.app/profile/reuters.com/post/3mashh5vqp42b)
+[2025-12-25 18:34:06](https://bsky.app/profile/sokuho.news/post/3mashxael2y2r)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-円相場 小幅な値動き
-https://news.web.nhk/newsweb/na/na-k10015013851000
+お台場「イマーシブ・フォート東京」客足伸びず来年2月閉園へ
+https://news.web.nhk/newsweb/na/na-k10015013881000
 
-[2025-12-25 18:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mashfd7jec2u)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】西堀通3番町で火災「ふとんから火が出た」現在消火活動中 新潟・中央区
-(2025-12-25 18:21:00) #ニュース
-
-[2025-12-25 18:22:22](https://bsky.app/profile/sokuho.news/post/3mashcb5ych2z)
-
----
-
-@nhknewsunofficial.bsky.social
-
-維新 藤田共同代表 国民の連立政権参加を歓迎の意向
-https://news.web.nhk/newsweb/na/na-k10015013841000
-
-[2025-12-25 18:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masha3eyvn2l)
-
----
-
-@nhknewsunofficial.bsky.social
-
-インフルエンサー 5億円近い所得隠し 脱税の罪で在宅起訴
-https://news.web.nhk/newsweb/na/na-k10015013231000
-
-[2025-12-25 18:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mash7wxakn22)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】鴨池・垂水フェリー 午後7時20分発の便最後に運航見合わせ 荒天の影響
-(2025-12-25 18:15) #ニュース
-
-[2025-12-25 18:20:50](https://bsky.app/profile/sokuho.news/post/3mash7js7762r)
+[2025-12-25 18:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mashvfzxzt2b)
 
 ---
 
