@@ -1,9 +1,9 @@
-# [2025-12-26 08:30 updated](2025_12_26.md)
+# [2025-12-26 08:50 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">White House to present plans for Trump's East Wing ballroom in January reut.rs/4jxG7Op <a href="https://bsky.app/profile/reuters.com/post/3matwfbpmjv2s" target="_blank">reuters.com</a> (2025-12-26 08:25:09)</span><span style="padding-right:50px;">ロシアのノバク副首相は２５日、国営テレビ「ロシア２４」に対し、液化天然ガス（ＬＮＧ）の生産を年間１億トンに増やす目標の達成時期が、計画から「数年」先送りされたと明らかにした。欧米によるロシアのエネルギー部門への制裁が影響したという。 bit.ly/3YcoQ3o <a href="https://bsky.app/profile/japan.reuters.com/post/3matw63vt6m2u" target="_blank">japan.reuters.com</a> (2025-12-26 08:21:08)</span><span style="padding-right:50px;">バングラデシュの主要政党、バングラデシュ民族主義党（ＢＮＰ）のタリク・ラーマン党首代行が２５日、英国から約１７年ぶりに帰国した。同国は来年２月に総選挙を予定しており、ＢＮＰが勝利しラーマン氏が次期首相に就任するとの観測が出ている。 bit.ly/44IkGnq <a href="https://bsky.app/profile/japan.reuters.com/post/3matw24qabu2c" target="_blank">japan.reuters.com</a> (2025-12-26 08:18:55)</span><span style="padding-right:50px;">Judge grants injunction blocking US from detaining British anti-disinformation activist reut.rs/49bXOhA <a href="https://bsky.app/profile/reuters.com/post/3matvth5lzs2c" target="_blank">reuters.com</a> (2025-12-26 08:15:11)</span><span style="padding-right:50px;">Broncos activate TE Marcedes Lewis, 41, for game vs. Chiefs reut.rs/49t3sgr <a href="https://bsky.app/profile/reuters.com/post/3matvkicft72i" target="_blank">reuters.com</a> (2025-12-26 08:10:10)</span>
+<span style="padding-right:50px;">BREAKING: Trump says the US has launched a military strike against Islamic State targets in northwestern Nigeria <a href="https://bsky.app/profile/bloomberg.com/post/3matxps2o6423" target="_blank">bloomberg.com</a> (2025-12-26 08:48:55)</span><span style="padding-right:50px;">総務省が26日発表した11月の完全失業率（季節調整値）は2.6％で、前月（2.6％）から横ばいだった。 bit.ly/4sfzjsn <a href="https://bsky.app/profile/japan.reuters.com/post/3matxohefg42q" target="_blank">japan.reuters.com</a> (2025-12-26 08:48:11)</span><span style="padding-right:50px;">BREAKING: Trump says the U.S. struck Islamic State targets in Nigeria after he said the group had targeted Christians in the country. <a href="https://bsky.app/profile/apnews.com/post/3matxnxq6yz2k" target="_blank">apnews.com</a> (2025-12-26 08:47:54)</span><span style="padding-right:50px;">BREAKING: U.S. strikes ISIS targets in Nigeria, Trump says, accusing them of killing Christians in the country. <a href="https://bsky.app/profile/nbcnews.com/post/3matxnrt73g23" target="_blank">nbcnews.com</a> (2025-12-26 08:47:48)</span><span style="padding-right:50px;">NEW: U.S. forces "launched a powerful and deadly strike against ISIS" in Nigeria's northwest, President Trump said. <a href="https://bsky.app/profile/axios.com/post/3matxiulvws2d" target="_blank">axios.com</a> (2025-12-26 08:45:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.79 (🔻0.02 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.99 (🔺0.19 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,93 +32,97 @@
 
 ## News Headlines
 
-- White House to present plans for Trump's East Wing ballroom in January
-- Russia to miss 1 billion ton LNG production target due to US sanctions
-- Bangladesh opposition leader returns home after 17 years abroad
-- Judge blocks US from detaining British anti-disinformation activist
-- Broncos activate TE Marcedes Lewis, 41, for game vs. Chiefs
-- Ukraine attacks Russian oil and gas facilities with British and Ukrainian drones
+- US Launches Strikes Against Islamic State Militants in Nigeria
+- Trump Says US Struck Islamic State Targets in Nigeria After Group Targeted Christians
+- US Strikes ISIS Targets in Nigeria, Trump Says, Accusing Them of Killing Christians
+- US Forces Launch Deadly Strike Against ISIS in Nigeria's Northwest
+- Torrential Rains Unleash Flash Floods and Debris Flow in Southern California
+- Judge Blocks US from Detaining British Anti-Disinformation Campaigner
 
 
 ----
 
+@bloomberg.com
+
+<strong><span style="color: red;">BREAKING:</span> Trump says the US has launched a military strike against Islamic State targets in northwestern Nigeria</strong>
+
+[2025-12-26 08:48:55](https://bsky.app/profile/bloomberg.com/post/3matxps2o6423)
+
+---
+
+@japan.reuters.com
+
+総務省が26日発表した11月の完全失業率（季節調整値）は2.6％で、前月（2.6％）から横ばいだった。 bit.ly/4sfzjsn
+
+[2025-12-26 08:48:11](https://bsky.app/profile/japan.reuters.com/post/3matxohefg42q)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Trump says the U.S. struck Islamic State targets in Nigeria after he said the group had targeted Christians in the country.</strong>
+
+[2025-12-26 08:47:54](https://bsky.app/profile/apnews.com/post/3matxnxq6yz2k)
+
+---
+
+@nbcnews.com
+
+<strong><span style="color: red;">BREAKING:</span> U.S. strikes ISIS targets in Nigeria, Trump says, accusing them of killing Christians in the country.</strong>
+
+[2025-12-26 08:47:48](https://bsky.app/profile/nbcnews.com/post/3matxnrt73g23)
+
+---
+
+@axios.com
+
+NEW: U.S. forces "launched a powerful and deadly strike against ISIS" in Nigeria's northwest, President Trump said.
+
+[2025-12-26 08:45:03](https://bsky.app/profile/axios.com/post/3matxiulvws2d)
+
+---
+
+@en.afp.com
+
+Torrential rains unleashed flash floods and warnings of debris flow across southern California's fire-scarred areas, as a series of Christmas storms pummeled the state, with downpours and high winds forecast through Friday. 
+u.afp.com/S8Pm
+
+[2025-12-26 08:45:02](https://bsky.app/profile/en.afp.com/post/3matxiswujm2x)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】クマに襲われ動物園職員がけが
+(2025-12-26 08:42) #ニュース
+
+[2025-12-26 08:42:32](https://bsky.app/profile/sokuho.news/post/3matxee2ufz2b)
+
+---
+
+@japan.reuters.com
+
+＜０８：２０＞　寄り前の板状況、都築電気が買い優勢　古河機械金属は売り優勢 bit.ly/4phUS97
+
+[2025-12-26 08:38:22](https://bsky.app/profile/japan.reuters.com/post/3matx4vt5cm2u)
+
+---
+
 @reuters.com
 
-White House to present plans for Trump's East Wing ballroom in January reut.rs/4jxG7Op
+A US judge temporarily blocked the Trump administration from detaining British anti-disinformation campaigner Imran Ahmed, after the permanent resident sued officials over an entry ban for his role in what Washington argues is online censorship reut.rs/3YI0HBI
 
-[2025-12-26 08:25:09](https://bsky.app/profile/reuters.com/post/3matwfbpmjv2s)
-
----
-
-@japan.reuters.com
-
-ロシアのノバク副首相は２５日、国営テレビ「ロシア２４」に対し、液化天然ガス（ＬＮＧ）の生産を年間１億トンに増やす目標の達成時期が、計画から「数年」先送りされたと明らかにした。欧米によるロシアのエネルギー部門への制裁が影響したという。 bit.ly/3YcoQ3o
-
-[2025-12-26 08:21:08](https://bsky.app/profile/japan.reuters.com/post/3matw63vt6m2u)
-
----
-
-@japan.reuters.com
-
-バングラデシュの主要政党、バングラデシュ民族主義党（ＢＮＰ）のタリク・ラーマン党首代行が２５日、英国から約１７年ぶりに帰国した。同国は来年２月に総選挙を予定しており、ＢＮＰが勝利しラーマン氏が次期首相に就任するとの観測が出ている。 bit.ly/44IkGnq
-
-[2025-12-26 08:18:55](https://bsky.app/profile/japan.reuters.com/post/3matw24qabu2c)
-
----
-
-@reuters.com
-
-Judge grants injunction blocking US from detaining British anti-disinformation activist reut.rs/49bXOhA
-
-[2025-12-26 08:15:11](https://bsky.app/profile/reuters.com/post/3matvth5lzs2c)
-
----
-
-@reuters.com
-
-Broncos activate TE Marcedes Lewis, 41, for game vs. Chiefs reut.rs/49t3sgr
-
-[2025-12-26 08:10:10](https://bsky.app/profile/reuters.com/post/3matvkicft72i)
-
----
-
-@wsj.com
-
-The deaths of some pilots and crew members are being blamed on serious illnesses they developed after their exposures to toxic fumes while working aboard planes on.wsj.com/4pQMDSp
-
-[2025-12-26 08:08:06](https://bsky.app/profile/wsj.com/post/3matvgrsshe2c)
-
----
-
-@japan.reuters.com
-
-ウクライナは、英国製の長距離巡航ミサイル「ストームシャドー」とウクライナ製の長距離無人機（ドローン）を発射し、ロシアの石油・ガス施設数カ所を攻撃した。ウクライナ軍と治安当局が２５日に発表した。 bit.ly/4pUzJTH
-
-[2025-12-26 08:08:04](https://bsky.app/profile/japan.reuters.com/post/3matvgqltll2q)
-
----
-
-@japan.reuters.com
-
-北朝鮮の金正恩朝鮮労働党総書記は、今後５年にわたってミサイル開発を継続することを示唆したと、国営メディア朝鮮中央通信（ＫＣＮＡ）が２６日に伝えた。金氏は今年第４・四半期に複数の主要な軍需企業を訪問したという。 bit.ly/3MVbgik
-
-[2025-12-26 08:07:01](https://bsky.app/profile/japan.reuters.com/post/3matveu4a4727)
-
----
-
-@japan.reuters.com
-
-＜０７：５０＞　ドル155.30─156.50円の見通し、薄商い続く　上攻め限定的 bit.ly/3Lbr67T
-
-[2025-12-26 08:02:40](https://bsky.app/profile/japan.reuters.com/post/3matv53gm5r2s)
+[2025-12-26 08:37:54](https://bsky.app/profile/reuters.com/post/3matx4345ms2z)
 
 ---
 
 @cnn.com
 
-A growing volume of AI-generated images and recipes meant to look like genuine food blogs have permeated social media sites like Facebook and Pinterest. https://cnn.it/3KPT5Kq
+President Donald Trump said he’d ordered a deadly strike on Islamic State terrorists in Nigeria, who he has accused of persecuting Christians in the country. https://cnn.it/3Yf34fh
 
-[2025-12-26 08:01:02](https://bsky.app/profile/cnn.com/post/3matv25g6n42v)
+[2025-12-26 08:36:42](https://bsky.app/profile/cnn.com/post/3matwzwwlov2o)
 
 ---
 
