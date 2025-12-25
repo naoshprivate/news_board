@@ -1,9 +1,9 @@
-# [2025-12-25 15:50 updated](2025_12_25.md)
+# [2025-12-25 16:10 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">クスリのアオキホールディングスは２５日、発行済み株式の６．３２％に当たる６００万株・２４０億円を上限とする自社株買いを決議したと発表した。取得期間は２６日から２６年１２月２５日まで。 bit.ly/4aCPutH <a href="https://bsky.app/profile/japan.reuters.com/post/3mas6hvf2bd27" target="_blank">japan.reuters.com</a> (2025-12-25 15:44:27)</span><span style="padding-right:50px;">日本百貨店協会が２５日に発表した１１月の全国百貨店売上高は、店舗数調整後で前年比０．９％増の約５２１４億円となり、４カ月連続で前年を上回った。国内売り上げが順調に伸びて、インバウンドの落ち込みを補った。、 bit.ly/4s9eS0t <a href="https://bsky.app/profile/japan.reuters.com/post/3mas6e4kigg2f" target="_blank">japan.reuters.com</a> (2025-12-25 15:42:21)</span><span style="padding-right:50px;">Asfura won Honduras' presidential election, electoral authorities said Wednesday afternoon, ending a weeks-long count that has whittled away at the credibility of the nation's electoral system. n.pr/44HOdxw <a href="https://bsky.app/profile/npr.org/post/3mas6cx7gkj2y" target="_blank">npr.org</a> (2025-12-25 15:41:41)</span><span style="padding-right:50px;">片山さつき財務相は２５日、２０２６年度予算案に関し、過去最大規模と大きく報じられているが対名目国内総生産（ＧＤＰ）比率ではこの３年間ほとんど変わっておらず、民主党政権時代の方が若干大きかったと指摘した。経団連審議員会でのあいさつで語った。 bit.ly/493gfq1 <a href="https://bsky.app/profile/japan.reuters.com/post/3mas6adnl3427" target="_blank">japan.reuters.com</a> (2025-12-25 15:40:14)</span><span style="padding-right:50px;">Five killed in Nigeria mosque attack, police say reut.rs/3YdFWhf <a href="https://bsky.app/profile/reuters.com/post/3mas6ad2apk2o" target="_blank">reuters.com</a> (2025-12-25 15:40:13)</span>
+<span style="padding-right:50px;">ソフトバンクを自由契約の有原航平 日本ハムに6年ぶり復帰合意 https://news.web.nhk/newsweb/na/na-k10015013661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas7u23tjs2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 16:09:07)</span><span style="padding-right:50px;">高市首相“2度目の日米首脳会談を 来年早い時期の訪米を調整” https://news.web.nhk/newsweb/na/na-k10015013651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas7tvopbb2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 16:09:02)</span><span style="padding-right:50px;">東京株式市場で日経平均は小幅に反発し、前営業日比６３円６９銭高の５万０４０７円７９銭で取引を終えた。海外勢がクリスマス休暇に入り参加者も手掛かり材料が少ない中、前日終値を挟んだ小動きが続いた。売買代金は３兆円を下回り、今年最低となった。 bit.ly/44JWhOj <a href="https://bsky.app/profile/japan.reuters.com/post/3mas7suczvg2q" target="_blank">japan.reuters.com</a> (2025-12-25 16:08:29)</span><span style="padding-right:50px;">中国国営メディアによると、一人っ子政策を推進した彭佩雲・元国家計画生育委員会主任が２１日に死去した。 bit.ly/4jdEo09 <a href="https://bsky.app/profile/japan.reuters.com/post/3mas7p3b5t32p" target="_blank">japan.reuters.com</a> (2025-12-25 16:06:22)</span><span style="padding-right:50px;">Helicopter crash on Tanzania's Mount Kilimanjaro kills five, aviation authority says reut.rs/48RTCEO <a href="https://bsky.app/profile/reuters.com/post/3mas7mtsxci2x" target="_blank">reuters.com</a> (2025-12-25 16:05:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.89 (🔺0.15 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔺0.19 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,102 +32,95 @@
 
 ## News Headlines
 
-- Japan's Kusuri Holdings Approves ¥240 Billion Share Buyback Plan
-- Japan's Department Stores See Fourth Consecutive Month of Sales Growth
-- Asfura Wins Honduras Presidential Election Amid Election System Credibility Crisis
-- Japan's Finance Minister Criticizes 2026 Budget as Not Significantly Different from Previous Years
-- Five Killed in Nigeria Mosque Attack, Police Say
-- Multiple Injuries in Car Crash on Kusatsu Road in Fukuoka
+- SoftBank's Soeda to Leave After 6 Years, Returns to Nippon Ham
+- Japan's PM to Hold 2nd Summit with US President in Early Next Year
+- Tokyo Stock Market Closed with a Small Increase
+- Former Head of China's Family Planning Committee Dies
+- Helicopter Crash on Tanzania's Mount Kilimanjaro Kills Five
+- Investors Find Little Cheer in Fine Wine Market
 
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-クスリのアオキホールディングスは２５日、発行済み株式の６．３２％に当たる６００万株・２４０億円を上限とする自社株買いを決議したと発表した。取得期間は２６日から２６年１２月２５日まで。 bit.ly/4aCPutH
+ソフトバンクを自由契約の有原航平 日本ハムに6年ぶり復帰合意
+https://news.web.nhk/newsweb/na/na-k10015013661000
 
-[2025-12-25 15:44:27](https://bsky.app/profile/japan.reuters.com/post/3mas6hvf2bd27)
+[2025-12-25 16:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas7u23tjs2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相“2度目の日米首脳会談を 来年早い時期の訪米を調整”
+https://news.web.nhk/newsweb/na/na-k10015013651000
+
+[2025-12-25 16:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas7tvopbb2k)
 
 ---
 
 @japan.reuters.com
 
-日本百貨店協会が２５日に発表した１１月の全国百貨店売上高は、店舗数調整後で前年比０．９％増の約５２１４億円となり、４カ月連続で前年を上回った。国内売り上げが順調に伸びて、インバウンドの落ち込みを補った。、 bit.ly/4s9eS0t
+東京株式市場で日経平均は小幅に反発し、前営業日比６３円６９銭高の５万０４０７円７９銭で取引を終えた。海外勢がクリスマス休暇に入り参加者も手掛かり材料が少ない中、前日終値を挟んだ小動きが続いた。売買代金は３兆円を下回り、今年最低となった。 bit.ly/44JWhOj
 
-[2025-12-25 15:42:21](https://bsky.app/profile/japan.reuters.com/post/3mas6e4kigg2f)
-
----
-
-@npr.org
-
-Asfura won Honduras' presidential election, electoral authorities said Wednesday afternoon, ending a weeks-long count that has whittled away at the credibility of the nation's electoral system. n.pr/44HOdxw
-
-[2025-12-25 15:41:41](https://bsky.app/profile/npr.org/post/3mas6cx7gkj2y)
+[2025-12-25 16:08:29](https://bsky.app/profile/japan.reuters.com/post/3mas7suczvg2q)
 
 ---
 
 @japan.reuters.com
 
-片山さつき財務相は２５日、２０２６年度予算案に関し、過去最大規模と大きく報じられているが対名目国内総生産（ＧＤＰ）比率ではこの３年間ほとんど変わっておらず、民主党政権時代の方が若干大きかったと指摘した。経団連審議員会でのあいさつで語った。 bit.ly/493gfq1
+中国国営メディアによると、一人っ子政策を推進した彭佩雲・元国家計画生育委員会主任が２１日に死去した。 bit.ly/4jdEo09
 
-[2025-12-25 15:40:14](https://bsky.app/profile/japan.reuters.com/post/3mas6adnl3427)
+[2025-12-25 16:06:22](https://bsky.app/profile/japan.reuters.com/post/3mas7p3b5t32p)
 
 ---
 
 @reuters.com
 
-Five killed in Nigeria mosque attack, police say reut.rs/3YdFWhf
+Helicopter crash on Tanzania's Mount Kilimanjaro kills five, aviation authority says reut.rs/48RTCEO
 
-[2025-12-25 15:40:13](https://bsky.app/profile/reuters.com/post/3mas6ad2apk2o)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】県道で車3台が絡む事故 うち2台から出火 子ども2人を含む6人を搬送 うち男性1人が意識不明 福岡
-(2025-12-25 15:30) #ニュース
-
-[2025-12-25 15:40:09](https://bsky.app/profile/sokuho.news/post/3mas6a7f42x2a)
+[2025-12-25 16:05:07](https://bsky.app/profile/reuters.com/post/3mas7mtsxci2x)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-【中継】福岡 宮若市で多重事故 複数人搬送
-https://news.web.nhk/newsweb/na/na-k10015013601000
+Fine wine investors find little cheer in third year of falls ft.trib.al/13ACSHX
 
-[2025-12-25 15:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas66bcihf2s)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】車3台の衝突事故で少なくとも6人救急搬送か 2台から出火も 県道21号線の犬鳴峠が全面通行止め 福岡・宮若市
-(2025-12-25 15:20) #ニュース
-
-[2025-12-25 15:35:51](https://bsky.app/profile/sokuho.news/post/3mas5yjhtro2y)
+[2025-12-25 16:05:06](https://bsky.app/profile/financialtimes.com/post/3mas7msnf4e2q)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnn.com
 
-打ち上げ失敗のH3ロケット 2段目機体と衛星 大気圏突入可能性
-https://news.web.nhk/newsweb/na/na-k10015013541000
+The longtime host of the Kennedy Center’s annual Christmas Eve jazz performance said he canceled Wednesday’s concert following the board of trustees’ move to rename the facility for both the 35th president and President Donald Trump. 
 
-[2025-12-25 15:33:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas5toy5jj2m)
+[2025-12-25 16:05:01](https://bsky.app/profile/cnn.com/post/3mas7mo6rzk24)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-関西電力3原発 運転差し止め求めた訴え退ける 大津地裁
-https://news.web.nhk/newsweb/na/na-k10015013461000
+Gabapentin has soared in popularity as an alternative to opioids—but patients are finding it can cause harm.
 
-[2025-12-25 15:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mas5tkwmpw2u)
+[2025-12-25 16:02:26](https://bsky.app/profile/wsj.com/post/3mas7i2m74s2c)
+
+---
+
+@bloomberg.com
+
+Carbon offsets—a controversial tool companies use to try and make up for emissions—could be worth $1 trillion by 2050. But a crisis in one the world’s largest offset projects shows the limits of such efforts. (from the archive)
+
+[2025-12-25 16:00:44](https://bsky.app/profile/bloomberg.com/post/3mas7eyyope2f)
+
+---
+
+@japan.reuters.com
+
+トヨタ自動車が２５日に発表したトヨタ単体（レクサス車を含む）の１１月の世界販売は、前年同月比２．２％減の９０万００１１台で、１１カ月ぶりに前年を下回った。主力市場の北米は好調が続いたものの、中国の低迷などで海外販売が振るわなかった。世界生産は同５．５％減の８２万１７２３台で、６カ月ぶりの前年割れとなった。 bit.ly/4jgGVqA
+
+[2025-12-25 16:00:41](https://bsky.app/profile/japan.reuters.com/post/3mas7evnnyl2p)
 
 ---
 
