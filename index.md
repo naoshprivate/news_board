@@ -1,9 +1,9 @@
-# [2025-12-25 18:10 updated](2025_12_25.md)
+# [2025-12-25 18:30 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Vietnam's Vingroup to withdraw bid for $67-bln North-South high-speed railway reut.rs/3YI68AD <a href="https://bsky.app/profile/reuters.com/post/3masgdh7sud2r" target="_blank">reuters.com</a> (2025-12-25 18:05:08)</span><span style="padding-right:50px;">TBS HD コンプライアンス担当常務取締役 交際費不正使用で辞任 https://news.web.nhk/newsweb/na/na-k10015013801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masg7rdkma2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 18:03:02)</span><span style="padding-right:50px;">【糖度は最高78度】 宮崎の焼き芋、あふれ出る甘い蜜で11カ国・地域開拓 www.nikkei.com/article/DGXZQO...   ハチミツがかけられているように見える「極蜜熟成やきいも」。実際は内部から蜜がしみ出たものです。   ロサンゼルスやニューヨークで開かれた展示会にも出品。会場では「アメージング。こんな焼き芋は食べたことがない」「ハチミツのようにナチュラルで甘い」と反応は上々。   今ではアメリカ、ブラジル、タイ、香港に定期的に出荷。不定期のカンボジアや台湾を含めると出荷先は11カ国・地域に上ります。 <a href="https://bsky.app/profile/nikkei.com/post/3masg3hnj3s26" target="_blank">nikkei.com</a> (2025-12-25 18:00:40)</span><span style="padding-right:50px;">Renowned actor and director Mohammad Bakri died at the age of 72, according to his family. Bakri had been suffering from heart problems. His funeral was held the same day in his town of birth, al-Bi'neh, in northern Israel. https://cnn.it/3YfsmKe <a href="https://bsky.app/profile/cnn.com/post/3masg36efko22" target="_blank">cnn.com</a> (2025-12-25 18:00:30)</span><span style="padding-right:50px;">アスクルは２５日、２０２６年５月期の半期報告書（５月─１１月）について、提出期限を延長する承認申請書を関東財務局へ提出すると発表した。１０月に発生したランサムウエア感染によるシステム障害の影響で、被害額の集計や監査手続きなどに時間を要するため。 bit.ly/499GEkK <a href="https://bsky.app/profile/japan.reuters.com/post/3masg345aki2q" target="_blank">japan.reuters.com</a> (2025-12-25 18:00:28)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大雪予報で…26日始発から一部『計画運休』JR西日本の北陸線と湖西線 ほかの区間も取りやめ可能性 (2025-12-25 18:22:19) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mashkxjmjr26" target="_blank">sokuho.news</a> (2025-12-25 18:27:14)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】鴨池・垂水フェリー運航見合わせ 午後7時20分の便を最後に (2025-12-25 18:23:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mashkpkazf27" target="_blank">sokuho.news</a> (2025-12-25 18:27:05)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】新潟市中央区のマンションで火災《新潟》 (2025-12-25 18:26) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mashk5wefr2v" target="_blank">sokuho.news</a> (2025-12-25 18:26:47)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】大雪の影響で高速道路が通行止の可能性 名神高速や新名神高速などの一部区間で 冬用タイヤの装着とタイヤチェーンの携行を (2025-12-25 17:49) #ニュース  ❄️降雪量 🔗https://www.jma.go.jp/bosai/snow/#zoom:5/lat:36.956909/lon:136.526600/colordepth:normal/elements:snowf24h <a href="https://bsky.app/profile/sokuho.news/post/3mashjintmp2b" target="_blank">sokuho.news</a> (2025-12-25 18:26:25)</span><span style="padding-right:50px;">Brief Christmas pause in Cup of Nations action reut.rs/4qkuFaQ <a href="https://bsky.app/profile/reuters.com/post/3mashh5vqp42b" target="_blank">reuters.com</a> (2025-12-25 18:25:06)</span>
   </div>
 </div>
 
@@ -32,107 +32,120 @@
 
 ## News Headlines
 
-- Vingroup withdraws bid for $67-bln North-South high-speed railway
-- TBS HD executive resigns over improper use of expense money
-- Miyazaki sweet potato with honey-like nectar sold to 11 countries
-- Renowned actor and director Mohammad Bakri dies at 72
-- Asuraku announces delay in submitting 2026 half-year financial report
-- Parenting coach suggests focusing on children's well-being over behavior
+- JR West to Suspend Some Train Operations from December 26 Due to Heavy Snow Forecast
+- Suspension of Ferry Service from Awaji to Tokushima Due to Bad Weather
+- Fire Breaks Out at Apartment Building in Central District of Niigata City
+- Highway Traffic May be Restricted Due to Heavy Snowfall in Western Japan
+- Tokyo Stock Market Sees Small Rally, Closing at 54,040 Yen 79 Sen
+- Panda Viewing Tickets Sold at Exorbitant Prices, Resale Invalidates Tickets
 
 
 ----
 
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】大雪予報で…26日始発から一部『計画運休』JR西日本の北陸線と湖西線 ほかの区間も取りやめ可能性
+(2025-12-25 18:22:19) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-25 18:27:14](https://bsky.app/profile/sokuho.news/post/3mashkxjmjr26)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】鴨池・垂水フェリー運航見合わせ 午後7時20分の便を最後に
+(2025-12-25 18:23:00) #ニュース
+
+[2025-12-25 18:27:05](https://bsky.app/profile/sokuho.news/post/3mashkpkazf27)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】新潟市中央区のマンションで火災《新潟》
+(2025-12-25 18:26) #ニュース
+
+[2025-12-25 18:26:47](https://bsky.app/profile/sokuho.news/post/3mashk5wefr2v)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】大雪の影響で高速道路が通行止の可能性 名神高速や新名神高速などの一部区間で 冬用タイヤの装着とタイヤチェーンの携行を
+(2025-12-25 17:49) #ニュース
+
+❄️降雪量
+🔗https://www.jma.go.jp/bosai/snow/#zoom:5/lat:36.956909/lon:136.526600/colordepth:normal/elements:snowf24h
+
+[2025-12-25 18:26:25](https://bsky.app/profile/sokuho.news/post/3mashjintmp2b)
+
+---
+
 @reuters.com
 
-Vietnam's Vingroup to withdraw bid for $67-bln North-South high-speed railway reut.rs/3YI68AD
+Brief Christmas pause in Cup of Nations action reut.rs/4qkuFaQ
 
-[2025-12-25 18:05:08](https://bsky.app/profile/reuters.com/post/3masgdh7sud2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-TBS HD コンプライアンス担当常務取締役 交際費不正使用で辞任
-https://news.web.nhk/newsweb/na/na-k10015013801000
-
-[2025-12-25 18:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masg7rdkma2u)
-
----
-
-@nikkei.com
-
-【糖度は最高78度】
-宮崎の焼き芋、あふれ出る甘い蜜で11カ国・地域開拓
-www.nikkei.com/article/DGXZQO...
- 
-ハチミツがかけられているように見える「極蜜熟成やきいも」。実際は内部から蜜がしみ出たものです。
- 
-ロサンゼルスやニューヨークで開かれた展示会にも出品。会場では「アメージング。こんな焼き芋は食べたことがない」「ハチミツのようにナチュラルで甘い」と反応は上々。
- 
-今ではアメリカ、ブラジル、タイ、香港に定期的に出荷。不定期のカンボジアや台湾を含めると出荷先は11カ国・地域に上ります。
-
-[2025-12-25 18:00:40](https://bsky.app/profile/nikkei.com/post/3masg3hnj3s26)
-
----
-
-@cnn.com
-
-Renowned actor and director Mohammad Bakri died at the age of 72, according to his family. Bakri had been suffering from heart problems. His funeral was held the same day in his town of birth, al-Bi'neh, in northern Israel. https://cnn.it/3YfsmKe
-
-[2025-12-25 18:00:30](https://bsky.app/profile/cnn.com/post/3masg36efko22)
-
----
-
-@japan.reuters.com
-
-アスクルは２５日、２０２６年５月期の半期報告書（５月─１１月）について、提出期限を延長する承認申請書を関東財務局へ提出すると発表した。１０月に発生したランサムウエア感染によるシステム障害の影響で、被害額の集計や監査手続きなどに時間を要するため。 bit.ly/499GEkK
-
-[2025-12-25 18:00:28](https://bsky.app/profile/japan.reuters.com/post/3masg345aki2q)
-
----
-
-@cnbc.com
-
-Parenting coach Reem Raouda discussed a common parenting mistake involving your child's behavior.
-
-“Stop focusing on their behavior and start focusing on their [well-being],” she says. “Children are not robots, and their emotions are being completely ignored, dismissed [or even] punished.”
-
-[2025-12-25 18:00:15](https://bsky.app/profile/cnbc.com/post/3masg2pwdfd2b)
-
----
-
-@bloomberg.com
-
-Tsinghua University has educated China's top science and engineering students for decades. Now, it's at the forefront of the AI revolution, receiving more patents each year than MIT, Stanford, Princeton and Harvard combined. (from the archive)
-
-[2025-12-25 18:00:11](https://bsky.app/profile/bloomberg.com/post/3masg2lnyhk23)
-
----
-
-@aljazeera.com
-
-Many of the remaining churches across Gaza either scaled back or cancelled Christmas activities altogether.
-
-[2025-12-25 18:00:05](https://bsky.app/profile/aljazeera.com/post/3masg2gqhdm2p)
-
----
-
-@financialtimes.com
-
-What is the ultimate luxury status symbol? Once upon a time it may have been a sports car or a flashy watch.
-
-But with soaring costs of living, perhaps the most serious flex of wealth is something once considered a natural part of life: having kids on.ft.com/4q0KALt
-
-[2025-12-25 18:00:04](https://bsky.app/profile/financialtimes.com/post/3masg2flkvr2o)
+[2025-12-25 18:25:06](https://bsky.app/profile/reuters.com/post/3mashh5vqp42b)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-大阪・関西万博 成果検証の有識者会議 初会合
-https://news.web.nhk/newsweb/na/na-k10015013781000
+円相場 小幅な値動き
+https://news.web.nhk/newsweb/na/na-k10015013851000
 
-[2025-12-25 17:57:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masfuyfimd22)
+[2025-12-25 18:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mashfd7jec2u)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】西堀通3番町で火災「ふとんから火が出た」現在消火活動中 新潟・中央区
+(2025-12-25 18:21:00) #ニュース
+
+[2025-12-25 18:22:22](https://bsky.app/profile/sokuho.news/post/3mashcb5ych2z)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+維新 藤田共同代表 国民の連立政権参加を歓迎の意向
+https://news.web.nhk/newsweb/na/na-k10015013841000
+
+[2025-12-25 18:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masha3eyvn2l)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+インフルエンサー 5億円近い所得隠し 脱税の罪で在宅起訴
+https://news.web.nhk/newsweb/na/na-k10015013231000
+
+[2025-12-25 18:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mash7wxakn22)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】鴨池・垂水フェリー 午後7時20分発の便最後に運航見合わせ 荒天の影響
+(2025-12-25 18:15) #ニュース
+
+[2025-12-25 18:20:50](https://bsky.app/profile/sokuho.news/post/3mash7js7762r)
 
 ---
 
