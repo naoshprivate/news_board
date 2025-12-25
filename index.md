@@ -1,9 +1,9 @@
-# [2025-12-26 03:50 updated](2025_12_26.md)
+# [2025-12-26 04:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Trump administration said on Tuesday that it had received an application for seabed mining exploration in international waters, the first in its effort to encourage the controversial industry. Here's what to know. <a href="https://bsky.app/profile/nytimes.com/post/3matgqihxp62v" target="_blank">nytimes.com</a> (2025-12-26 03:45:05)</span><span style="padding-right:50px;">The tune crooned by Bing Crosby is still one of the most popular Christmas songs of all time. It's endured as a favorite — despite a complicated and controversial history. <a href="https://bsky.app/profile/npr.org/post/3matgaujxbq2p" target="_blank">npr.org</a> (2025-12-26 03:36:21)</span><span style="padding-right:50px;">From analog bags to phone-free parties, 2025 marked a shift in how much of their time people are willing to spend on the internet. <a href="https://bsky.app/profile/nbcnews.com/post/3matfwqbfm62n" target="_blank">nbcnews.com</a> (2025-12-26 03:30:41)</span><span style="padding-right:50px;">Celebs from Dolly Parton to Celine Dion posted some of their holiday celebrations on Instagram. <a href="https://bsky.app/profile/usatoday.com/post/3matfwllqsk25" target="_blank">usatoday.com</a> (2025-12-26 03:30:36)</span><span style="padding-right:50px;">Brazil ex-president Bolsonaro's surgery for hernia 'successful' <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3matfwdcsuy2a" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-26 03:30:26)</span>
+<span style="padding-right:50px;">Goodwill, long known for its dingy thrift stores with dark, crammed aisles and overflowing bins, is getting more glamorous on.wsj.com/4pbxkTl <a href="https://bsky.app/profile/wsj.com/post/3mathqcueah2u" target="_blank">wsj.com</a> (2025-12-26 04:02:53)</span><span style="padding-right:50px;">We're taking stock of this year's notable holiday movies, with titles including such gems as Oy to the World!, Christmas at the Catnip Cafe, A Merry Little Ex-Mas, and A Pickleball Christmas. <a href="https://bsky.app/profile/npr.org/post/3mathq5jz3l2e" target="_blank">npr.org</a> (2025-12-26 04:02:48)</span><span style="padding-right:50px;">South Africa do not fear Salah or Marmoush, coach Broos says reut.rs/4siYqL6 <a href="https://bsky.app/profile/reuters.com/post/3mathndd3w62y" target="_blank">reuters.com</a> (2025-12-26 04:01:13)</span><span style="padding-right:50px;">That Christmas she had completely given up on love. Then the house sitter showed up https://cnn.it/3LdgSDY <a href="https://bsky.app/profile/cnn.com/post/3mathmylnmt24" target="_blank">cnn.com</a> (2025-12-26 04:01:02)</span><span style="padding-right:50px;">Where the projected NFL playoff picture stands with Week 17 underway. <a href="https://bsky.app/profile/usatoday.com/post/3mathmkgz5z2g" target="_blank">usatoday.com</a> (2025-12-26 04:00:47)</span>
   </div>
 </div>
 
@@ -32,98 +32,95 @@
 
 ## News Headlines
 
-- Trump Administration Seeks to Encourage Seabed Mining Exploration in International Waters
-- Bing Crosby's Timeless Christmas Song Endures Amid Controversy
-- Powerful Winter Storm Brings Flash Flooding and Evacuation Orders to Southern California
-- Brazil's Ex-President Bolsonaro Undergoes Successful Double Hernia Surgery
+- Goodwill Gets Glamorous
+- Ukraine's President Zelenskyy Has 'Very Good Conversation' With Trump Envoy
+- A Lucky Arkansas Lottery Player Wins $1.8 Billion Powerball Prize
 - Pope Leo Decries Conditions for Palestinians in Gaza in Christmas Sermon
-- Eight-Month-Old Among Multiple Palestinians Wounded in Attacks Across Occupied West Bank
+- Brazil's Ex-President Bolsonaro Undergoes Successful Hernia Surgery
+- Powerful Winter Storm Unleashes Torrential Rain in Southern California
 
 
 ----
 
-@nytimes.com
+@wsj.com
 
-The Trump administration said on Tuesday that it had received an application for seabed mining exploration in international waters, the first in its effort to encourage the controversial industry. Here's what to know.
+Goodwill, long known for its dingy thrift stores with dark, crammed aisles and overflowing bins, is getting more glamorous on.wsj.com/4pbxkTl
 
-[2025-12-26 03:45:05](https://bsky.app/profile/nytimes.com/post/3matgqihxp62v)
+[2025-12-26 04:02:53](https://bsky.app/profile/wsj.com/post/3mathqcueah2u)
 
 ---
 
 @npr.org
 
-The tune crooned by Bing Crosby is still one of the most popular Christmas songs of all time. It's endured as a favorite — despite a complicated and controversial history.
+We're taking stock of this year's notable holiday movies, with titles including such gems as Oy to the World!, Christmas at the Catnip Cafe, A Merry Little Ex-Mas, and A Pickleball Christmas.
 
-[2025-12-26 03:36:21](https://bsky.app/profile/npr.org/post/3matgaujxbq2p)
-
----
-
-@nbcnews.com
-
-From analog bags to phone-free parties, 2025 marked a shift in how much of their time people are willing to spend on the internet.
-
-[2025-12-26 03:30:41](https://bsky.app/profile/nbcnews.com/post/3matfwqbfm62n)
-
----
-
-@usatoday.com
-
-Celebs from Dolly Parton to Celine Dion posted some of their holiday celebrations on Instagram.
-
-[2025-12-26 03:30:36](https://bsky.app/profile/usatoday.com/post/3matfwllqsk25)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Brazil ex-president Bolsonaro's surgery for hernia 'successful'
-
-[2025-12-26 03:30:26](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3matfwdcsuy2a)
-
----
-
-@aljazeera.com
-
-A powerful winter storm has unleashed torrential rain across Southern California, triggering flash flooding and prompting evacuation orders.
-
-Authorities have declared a state of emergency in six counties and warn the dangerous conditions could continue through Christmas Day.
-
-[2025-12-26 03:30:11](https://bsky.app/profile/aljazeera.com/post/3matfvt7ahk2p)
-
----
-
-@en.afp.com
-
-A lucky lottery player in the US state of Arkansas has won the $1.8 billion Powerball prize, the second-largest US lottery jackpot ever won, the gambling game's organizer said on Thursday. 
-➡️ u.afp.com/S8PU
-
-[2025-12-26 03:30:06](https://bsky.app/profile/en.afp.com/post/3matfvpbawu2q)
-
----
-
-@washingtonpost.com
-
-’Twas the night before Christmas, and all through Mar-a-Lago, President Trump assured children that Santa wasn’t a guerrilla.
-
-“We want to make sure he’s not infiltrated — that we’re not infiltrating into our country a bad Santa.”
-
-[2025-12-26 03:30:06](https://bsky.app/profile/washingtonpost.com/post/3matfvokds62i)
-
----
-
-@nytimes.com
-
-Five people, including tourists on a climbing trip, were killed when their helicopter crashed while descending Africa’s highest peak, Mount Kilimanjaro, Tanzanian authorities said on Thursday.
-
-[2025-12-26 03:25:38](https://bsky.app/profile/nytimes.com/post/3matfnovpwm2e)
+[2025-12-26 04:02:48](https://bsky.app/profile/npr.org/post/3mathq5jz3l2e)
 
 ---
 
 @reuters.com
 
-Russia's Gazprom supplied 38 bcm of gas to China via Power of Siberia pipeline in 2025 reut.rs/3Niymzq
+South Africa do not fear Salah or Marmoush, coach Broos says reut.rs/4siYqL6
 
-[2025-12-26 03:25:09](https://bsky.app/profile/reuters.com/post/3matfmtcn7e2k)
+[2025-12-26 04:01:13](https://bsky.app/profile/reuters.com/post/3mathndd3w62y)
+
+---
+
+@cnn.com
+
+That Christmas she had completely given up on love. Then the house sitter showed up https://cnn.it/3LdgSDY
+
+[2025-12-26 04:01:02](https://bsky.app/profile/cnn.com/post/3mathmylnmt24)
+
+---
+
+@usatoday.com
+
+Where the projected NFL playoff picture stands with Week 17 underway.
+
+[2025-12-26 04:00:47](https://bsky.app/profile/usatoday.com/post/3mathmkgz5z2g)
+
+---
+
+@cnbc.com
+
+Clinical psychologist Dr. Amy Tran shares her best advice for how to spot red flags that often masquerade as romantic chemistry. 
+
+[2025-12-26 04:00:35](https://bsky.app/profile/cnbc.com/post/3mathm75d5e2p)
+
+---
+
+@nbcnews.com
+
+Dozens of members are nearing the end of their congressional careers and hanging up their voting cards.
+
+But for some, their family’s political legacies will continue, as their kids and relatives run for office in 2026.
+
+[2025-12-26 04:00:17](https://bsky.app/profile/nbcnews.com/post/3mathlo226x2p)
+
+---
+
+@washingtonpost.com
+
+A ceasefire has brought Gaza a measure of calm, and over the past few weeks, Christians there have embraced the holiday spirit, lighting up trees and passing out sweets. https://wapo.st/3Lhprha
+
+[2025-12-26 04:00:12](https://bsky.app/profile/washingtonpost.com/post/3mathljfqlv2n)
+
+---
+
+@bloomberg.com
+
+Crowdstrike, AWS, Cloudflare... When there's a web outage these days, it seems to bring down a multitude of websites. Why is that? (from November)
+
+[2025-12-26 04:00:10](https://bsky.app/profile/bloomberg.com/post/3mathlhnjrm2w)
+
+---
+
+@aljazeera.com
+
+Search teams find site of crash that killed Libyan army chief and seven other people, including three crew members.
+
+[2025-12-26 04:00:03](https://bsky.app/profile/aljazeera.com/post/3mathlam23427)
 
 ---
 
