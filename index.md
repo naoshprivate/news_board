@@ -1,9 +1,9 @@
-# [2025-12-26 05:30 updated](2025_12_26.md)
+# [2025-12-26 05:50 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">青森県東方沖の地震 “震源東側で小規模地震続く” 調査委 https://news.web.nhk/newsweb/na/na-k10015014221000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matlwregob2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 05:18:02)</span><span style="padding-right:50px;">西～北日本の日本海側中心に雪強まる 交通影響や暴風など警戒 https://news.web.nhk/newsweb/na/na-k10015014171000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matlrf7mkw2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 05:15:02)</span><span style="padding-right:50px;">政府 きょう来年度予算案決定 一般会計総額122兆3100億円程度 https://news.web.nhk/newsweb/na/na-k10015014121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matlgpclbv2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 05:09:03)</span><span style="padding-right:50px;">Steelers sign veteran CB Tre Flowers to active roster reut.rs/498Tyzb <a href="https://bsky.app/profile/reuters.com/post/3matl7n6xys2s" target="_blank">reuters.com</a> (2025-12-26 05:05:08)</span><span style="padding-right:50px;">The party goes on in New York City, if you have the cash on.wsj.com/4pTsIm4 <a href="https://bsky.app/profile/wsj.com/post/3matl6ljpe42r" target="_blank">wsj.com</a> (2025-12-26 05:04:33)</span>
+<span style="padding-right:50px;">Hundreds of people gathered in the Israeli city of Ashdod on Thursday to lay to rest Dan Elkayam, a French Jew killed in the December 14 antisemitic attack on a Hanukkah celebration at Bondi Beach in Australia.  u.afp.com/S8Pp <a href="https://bsky.app/profile/en.afp.com/post/3matngx4ev62s" target="_blank">en.afp.com</a> (2025-12-26 05:45:01)</span><span style="padding-right:50px;">One family’s centurieslong trade provides a window on British colonial history and Kenya’s independence. Its time looks to be coming to a close. <a href="https://bsky.app/profile/wsj.com/post/3matngbrwps2g" target="_blank">wsj.com</a> (2025-12-26 05:44:39)</span><span style="padding-right:50px;">Today, people consider "Yule" synonymous with "Christmas." But centuries ago, Yule meant something different — a pagan mid-winter festival, dating back to pre-Christian Germanic people. <a href="https://bsky.app/profile/npr.org/post/3matncek4an2n" target="_blank">npr.org</a> (2025-12-26 05:42:28)</span><span style="padding-right:50px;">Oil exports, Venezuela’s financial lifeblood, have plummeted after the U.S. took action against three ships that have been used to carry its crude. <a href="https://bsky.app/profile/nytimes.com/post/3matn65msma2e" target="_blank">nytimes.com</a> (2025-12-26 05:40:06)</span><span style="padding-right:50px;">香港高層住宅火災1か月 犠牲者の追悼行事 一部で開催できず https://news.web.nhk/newsweb/na/na-k10015014111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matmwxd2oa24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 05:36:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔻0.12 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔻0.11 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,15 +32,74 @@
 
 ## News Headlines
 
-- Small earthquakes continue to strike off the east of the epicenter in Aomori Prefecture
-- Heavy snow hits western to northern Japan, prompting caution over transportation and winds
-- Japanese government to decide on upcoming budget plan for 2024, with general account budget estimated to be around 122 trillion yen
-- Steelers sign veteran cornerback Tre Flowers to active roster
-- New York City's party scene continues, but only for those with deep pockets
-- Pelvic floor dysfunction therapists report increase in male patients, particularly those in high-stress jobs
+- Hundreds Gather to Mourn Israeli Man Killed at Australian Hanukkah Celebration
+- Family's Centuries-Long Trade Holds Window to British Colonial History and Kenya's Independence
+- US Sanctions Cause Oil Exports to Plummet in Venezuela
+- Christmas Celebrations Return to Jesus' Birthplace After Two-Year Hiatus
+- NFL Games on Christmas: A Look Back at the League's First Holiday Matchups
+- King Charles Delivers Christmas Message with Call for Compassion and Reconciliation
 
 
 ----
+
+@en.afp.com
+
+Hundreds of people gathered in the Israeli city of Ashdod on Thursday to lay to rest Dan Elkayam, a French Jew killed in the December 14 antisemitic attack on a Hanukkah celebration at Bondi Beach in Australia. 
+u.afp.com/S8Pp
+
+[2025-12-26 05:45:01](https://bsky.app/profile/en.afp.com/post/3matngx4ev62s)
+
+---
+
+@wsj.com
+
+One family’s centurieslong trade provides a window on British colonial history and Kenya’s independence. Its time looks to be coming to a close.
+
+[2025-12-26 05:44:39](https://bsky.app/profile/wsj.com/post/3matngbrwps2g)
+
+---
+
+@npr.org
+
+Today, people consider "Yule" synonymous with "Christmas." But centuries ago, Yule meant something different — a pagan mid-winter festival, dating back to pre-Christian Germanic people.
+
+[2025-12-26 05:42:28](https://bsky.app/profile/npr.org/post/3matncek4an2n)
+
+---
+
+@nytimes.com
+
+Oil exports, Venezuela’s financial lifeblood, have plummeted after the U.S. took action against three ships that have been used to carry its crude.
+
+[2025-12-26 05:40:06](https://bsky.app/profile/nytimes.com/post/3matn65msma2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+香港高層住宅火災1か月 犠牲者の追悼行事 一部で開催できず
+https://news.web.nhk/newsweb/na/na-k10015014111000
+
+[2025-12-26 05:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matmwxd2oa24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+赤坂 サウナ店火災 ドアのへりに削られた跡 夫婦が脱出試みか
+https://news.web.nhk/newsweb/na/na-k10015014161000
+
+[2025-12-26 05:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matmrlgxf72y)
+
+---
+
+@usatoday.com
+
+For the first few decades of the NFL, the league avoided Christmas games. That changed in 1971. Here's a look at the first NFL games on Christmas.
+
+[2025-12-26 05:30:18](https://bsky.app/profile/usatoday.com/post/3matmmmvudb2z)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -66,62 +125,6 @@ https://news.web.nhk/newsweb/na/na-k10015014171000
 https://news.web.nhk/newsweb/na/na-k10015014121000
 
 [2025-12-26 05:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matlgpclbv2w)
-
----
-
-@reuters.com
-
-Steelers sign veteran CB Tre Flowers to active roster reut.rs/498Tyzb
-
-[2025-12-26 05:05:08](https://bsky.app/profile/reuters.com/post/3matl7n6xys2s)
-
----
-
-@wsj.com
-
-The party goes on in New York City, if you have the cash on.wsj.com/4pTsIm4
-
-[2025-12-26 05:04:33](https://bsky.app/profile/wsj.com/post/3matl6ljpe42r)
-
----
-
-@bloomberg.com
-
-“No one wants to talk about penile pain at work.” Therapists who treat pelvic floor dysfunction say men in high-stress jobs are their fastest-growing groups of patients.
-
-[2025-12-26 05:02:06](https://bsky.app/profile/bloomberg.com/post/3matl26lxc22w)
-
----
-
-@reuters.com
-
-Report: Nuggets F Cameron Johnson (knee) out 4-6 weeks reut.rs/3NfLJ3o
-
-[2025-12-26 05:00:36](https://bsky.app/profile/reuters.com/post/3matkxj635d2x)
-
----
-
-@usatoday.com
-
-King Charles delivered his annual address at Westminster Abbey, rather than Buckingham Palace as Queen Elizabeth often did
-
-[2025-12-26 05:00:21](https://bsky.app/profile/usatoday.com/post/3matkx2vbdi2o)
-
----
-
-@cnn.com
-
-Christmas celebrations have returned to the birthplace of Jesus after a two-year hiatus, but the joy remains overshadowed by another turbulent year for Palestinians living under an Israeli-occupation in the West Bank. https://cnn.it/4p7m6iN
-
-[2025-12-26 05:00:16](https://bsky.app/profile/cnn.com/post/3matkww7ejx22)
-
----
-
-@washingtonpost.com
-
-Because riders and passersby can be unreliable, Waymo pays workers in L.A. $20 or more for rescuing a robotaxi by closing a door, summoning help through an app called Honk that is like an Uber for towing companies.
-
-[2025-12-26 05:00:15](https://bsky.app/profile/washingtonpost.com/post/3matkwuqwib2e)
 
 ---
 
