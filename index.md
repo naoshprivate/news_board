@@ -1,9 +1,9 @@
-# [2025-12-25 09:30 updated](2025_12_25.md)
+# [2025-12-25 09:50 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">PHOTOS: A strong winter storm is pummeling Southern California with flooding rains, triggering evacuation orders in the Los Angeles area and leaving nearly 42 million under flood watches. <a href="https://bsky.app/profile/axios.com/post/3marjhikinc2f" target="_blank">axios.com</a> (2025-12-25 09:28:25)</span><span style="padding-right:50px;">＜０９：１１＞　日経平均は反発で寄り付く、幅広い業種で買い優勢 bit.ly/3MQksVb <a href="https://bsky.app/profile/japan.reuters.com/post/3marjdqwsg625" target="_blank">japan.reuters.com</a> (2025-12-25 09:26:20)</span><span style="padding-right:50px;">India's space agency successfully launches its heaviest ever payload, in a boost for the country's ambitious low-cost programme that aims for crewed missions in the coming years. u.afp.com/S8AX <a href="https://bsky.app/profile/en.afp.com/post/3marjbfsiob2v" target="_blank">en.afp.com</a> (2025-12-25 09:25:01)</span><span style="padding-right:50px;">米司法省は２４日、性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関連する可能性のある文書を新たに１００万件以上発見したと発表した。当局が被害者保護のため文書の詳細を墨塗りするため、完全な公開は数週間遅れる見通しだという。 bit.ly/3Yc60cv <a href="https://bsky.app/profile/japan.reuters.com/post/3marj7tlzda2u" target="_blank">japan.reuters.com</a> (2025-12-25 09:24:08)</span><span style="padding-right:50px;">＊この記事は見出しのみの速報です。 bit.ly/4j9WNuO <a href="https://bsky.app/profile/japan.reuters.com/post/3marizrpyc62q" target="_blank">japan.reuters.com</a> (2025-12-25 09:20:45)</span>
+<span style="padding-right:50px;">高市首相動静 2025年12月24日 https://news.web.nhk/newsweb/na/na-k10015013191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3markkoatwy2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 09:48:03)</span><span style="padding-right:50px;">ＣＮＢＣは２４日、エヌビディアが、人工知能（ＡＩ）用半導体開発会社グロックを現金２００億ドルで買収することで合意したと報じた。 bit.ly/4sc7QYJ <a href="https://bsky.app/profile/japan.reuters.com/post/3markfi37ay26" target="_blank">japan.reuters.com</a> (2025-12-25 09:45:11)</span><span style="padding-right:50px;">インド政府は２４日、輸入品質検査を簡素化する改革を発表した。インドの輸入品質基準が「煩雑」だとする米国の不満に対処する狙い。 bit.ly/4satV9U <a href="https://bsky.app/profile/japan.reuters.com/post/3markewihpp25" target="_blank">japan.reuters.com</a> (2025-12-25 09:44:53)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山岳遭難 94歳の男性が行方不明【岡山】 (2025-12-25 09:39:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mark6s2u372e" target="_blank">sokuho.news</a> (2025-12-25 09:41:27)</span><span style="padding-right:50px;">Netanyahu coalition pushes contentious Oct. 7 attack probe, families call for justice reut.rs/4pTp3of <a href="https://bsky.app/profile/reuters.com/post/3mark4w752z2o" target="_blank">reuters.com</a> (2025-12-25 09:40:24)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50467.88 (🔺17.70 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3376.00 (🔻1.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔺0.14 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50434.26 (🔻15.92 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.69 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3372.00 (🔻5.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.07 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,94 +32,97 @@
 
 ## News Headlines
 
-- Winter storm pummels Southern California with flooding rains, triggers evacuation orders
-- India's space agency successfully launches heaviest payload, aims for crewed missions
-- US Department of Justice discovers over 1 million documents related to Jeffrey Epstein's case
-- NVIDIA acquires top staff from AI chip start-up Groq in licensing deal
-- US imposes sanctions on Russian energy company over Ukraine conflict
-- North Korean leader Kim Jong-un visits nuclear submarine construction site
+- NVIDIA to Acquire AI Chipmaker Groq for $20 Billion
+- India Simplifies Quality Control for Imported Goods
+- North Korea's Kim Inspects Missile Test in Eastern Sea
+- Gold Prices Soar to 46-Year High
+- US Department of Defense Reports China's Massive Military Buildup
+- Explosion Rocks Mosque in Nigeria, Multiple Casualties Reported
 
 
 ----
 
-@axios.com
+@nhknewsunofficial.bsky.social
 
-PHOTOS: A strong winter storm is pummeling Southern California with flooding rains, triggering evacuation orders in the Los Angeles area and leaving nearly 42 million under flood watches.
+高市首相動静 2025年12月24日
+https://news.web.nhk/newsweb/na/na-k10015013191000
 
-[2025-12-25 09:28:25](https://bsky.app/profile/axios.com/post/3marjhikinc2f)
-
----
-
-@japan.reuters.com
-
-＜０９：１１＞　日経平均は反発で寄り付く、幅広い業種で買い優勢 bit.ly/3MQksVb
-
-[2025-12-25 09:26:20](https://bsky.app/profile/japan.reuters.com/post/3marjdqwsg625)
-
----
-
-@en.afp.com
-
-India's space agency successfully launches its heaviest ever payload, in a boost for the country's ambitious low-cost programme that aims for crewed missions in the coming years.
-u.afp.com/S8AX
-
-[2025-12-25 09:25:01](https://bsky.app/profile/en.afp.com/post/3marjbfsiob2v)
+[2025-12-25 09:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3markkoatwy2m)
 
 ---
 
 @japan.reuters.com
 
-米司法省は２４日、性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関連する可能性のある文書を新たに１００万件以上発見したと発表した。当局が被害者保護のため文書の詳細を墨塗りするため、完全な公開は数週間遅れる見通しだという。 bit.ly/3Yc60cv
+ＣＮＢＣは２４日、エヌビディアが、人工知能（ＡＩ）用半導体開発会社グロックを現金２００億ドルで買収することで合意したと報じた。 bit.ly/4sc7QYJ
 
-[2025-12-25 09:24:08](https://bsky.app/profile/japan.reuters.com/post/3marj7tlzda2u)
-
----
-
-@japan.reuters.com
-
-＊この記事は見出しのみの速報です。 bit.ly/4j9WNuO
-
-[2025-12-25 09:20:45](https://bsky.app/profile/japan.reuters.com/post/3marizrpyc62q)
+[2025-12-25 09:45:11](https://bsky.app/profile/japan.reuters.com/post/3markfi37ay26)
 
 ---
 
 @japan.reuters.com
 
-市場筋２人によると、カザフスタン産原油の主要油種であるＣＰＣブレンド油の輸出は、１２月に１４カ月ぶりの低水準となる見通しだ。先月ウクライナのドローン攻撃を受けたロシアの積み込みインフラの修復が、悪天候により遅れるため。 bit.ly/4awtyjR
+インド政府は２４日、輸入品質検査を簡素化する改革を発表した。インドの輸入品質基準が「煩雑」だとする米国の不満に対処する狙い。 bit.ly/4satV9U
 
-[2025-12-25 09:14:10](https://bsky.app/profile/japan.reuters.com/post/3marinyr5wg2c)
-
----
-
-@japan.reuters.com
-
-＜為替＞円が米ドルに対し小幅上昇した。トレーダーらは、円安が日本当局の介入を促すかどうかに注目している。 bit.ly/49qabHX
-
-[2025-12-25 09:10:10](https://bsky.app/profile/japan.reuters.com/post/3marigtpvxq2q)
+[2025-12-25 09:44:53](https://bsky.app/profile/japan.reuters.com/post/3markewihpp25)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-英国、カナダ、ドイツなどの国々は２４日、イスラエル安全保障会議が占領下のヨルダン川西岸地域に１９の新たな入植地建設を承認したことを非難する声明を発表した。国際法に違反し、不安定化を助長する恐れがあるとした。 bit.ly/3Lert1A
+🛎️JNNより【速報】です。
 
-[2025-12-25 09:05:10](https://bsky.app/profile/japan.reuters.com/post/3mari5vxlxq26)
+【速報】山岳遭難 94歳の男性が行方不明【岡山】
+(2025-12-25 09:39:00) #ニュース
 
----
-
-@japan.reuters.com
-
-＜０８：４６＞　国債先物は反発で寄り付く、米金利低下や夜間取引の上昇で bit.ly/4b1nK1S
-
-[2025-12-25 09:02:12](https://bsky.app/profile/japan.reuters.com/post/3marhymigyv2c)
+[2025-12-25 09:41:27](https://bsky.app/profile/sokuho.news/post/3mark6s2u372e)
 
 ---
 
 @reuters.com
 
-Japan expects growth to accelerate next year with fiscal stimulus reut.rs/4qpRSIK
+Netanyahu coalition pushes contentious Oct. 7 attack probe, families call for justice reut.rs/4pTp3of
 
-[2025-12-25 09:01:07](https://bsky.app/profile/reuters.com/post/3marhwnv73g23)
+[2025-12-25 09:40:24](https://bsky.app/profile/reuters.com/post/3mark4w752z2o)
+
+---
+
+@japan.reuters.com
+
+北朝鮮の金正恩朝鮮労働党総書記は２４日、東海近くの実験場で長距離地対空ミサイルの試射に立ち会ったと、国営メディア朝鮮中央通信（ＫＣＮＡ）が２５日に報じた。 bit.ly/4pRG8ia
+
+[2025-12-25 09:40:18](https://bsky.app/profile/japan.reuters.com/post/3mark4qknmv2c)
+
+---
+
+@reuters.com
+
+China's 2026 first batch fuel export quotas steady year on year, sources say reut.rs/3YK0jmk
+
+[2025-12-25 09:35:09](https://bsky.app/profile/reuters.com/post/3marjtk7axu2k)
+
+---
+
+@japan.reuters.com
+
+午後のニューヨーク外為市場では、円が米ドルに対し小幅上昇した。トレーダーらは、円安が日本当局の介入を促すかどうかに注目している。 bit.ly/4jdd2aF
+
+[2025-12-25 09:35:08](https://bsky.app/profile/japan.reuters.com/post/3marjtj5c4x25)
+
+---
+
+@japan.reuters.com
+
+サウジアラビア政府系ファンドが支援するＬＩＶゴルフは２３日、メジャー５勝のブルックス・ケプカ（米国、３５）が今季終了後に契約を１年残した状態で離脱することを発表した。 bit.ly/4ax61PK
+
+[2025-12-25 09:34:07](https://bsky.app/profile/japan.reuters.com/post/3marjroii7w2v)
+
+---
+
+@wsj.com
+
+A U.S. pressure campaign to topple President Nicolás Maduro is stranding Venezuelans around the world
+
+[2025-12-25 09:31:10](https://bsky.app/profile/wsj.com/post/3marjmfqr552i)
 
 ---
 
