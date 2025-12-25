@@ -1,9 +1,9 @@
-# [2025-12-26 02:50 updated](2025_12_26.md)
+# [2025-12-26 03:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The heavy rains are the result of a weather phenomenon known as the “Pineapple Express.” <a href="https://bsky.app/profile/forbes.com/post/3matdf6couz2s" target="_blank">forbes.com</a> (2025-12-26 02:45:04)</span><span style="padding-right:50px;">A remote-controlled robot jockey competes on a camel on a sandy racing track in Qatar on Thursday. The camels are guided by an operator who can apply the whip antenna, command the jockey to pull on the reins, and shouts encouragement to the camel via a built-in speaker. <a href="https://bsky.app/profile/en.afp.com/post/3matdf45dn72q" target="_blank">en.afp.com</a> (2025-12-26 02:45:02)</span><span style="padding-right:50px;">As they try to repair their political brand before the midterm elections, Democrats are rushing to redefine themselves as Washington disrupters, eager to challenge a government that many Americans believe has failed to improve their lives. <a href="https://bsky.app/profile/nytimes.com/post/3matd4b4abd25" target="_blank">nytimes.com</a> (2025-12-26 02:40:05)</span><span style="padding-right:50px;">Trump heralded Christmas with messages criticizing 'Radical Left Scum' and promoting the country's economic growth. <a href="https://bsky.app/profile/usatoday.com/post/3matckovny525" target="_blank">usatoday.com</a> (2025-12-26 02:30:16)</span><span style="padding-right:50px;">After a harrowing and deadly Christmas Eve in California with rescues and evacuations amid widespread flooding and debris flow threats, another storm is battering the state Christmas Day, with more expected into Friday. https://cnn.it/49rATQx <a href="https://bsky.app/profile/cnn.com/post/3matckgrxa222" target="_blank">cnn.com</a> (2025-12-26 02:30:07)</span>
+<span style="padding-right:50px;">Few people make partner at Goldman. Two brothers doing it within two years of each other is even more unusual. on.wsj.com/4pf7sGf <a href="https://bsky.app/profile/wsj.com/post/3mateel4rul2t" target="_blank">wsj.com</a> (2025-12-26 03:02:38)</span><span style="padding-right:50px;">From Santa’s reindeer and the Hanukkah armadillo to some very festive sea worms, our changing world is changing life for creatures great and small. And while some of these animals are struggling, a few may be key to helping us adapt to the future. https://cnn.it/4axo3RW <a href="https://bsky.app/profile/cnn.com/post/3matebpkfmi26" target="_blank">cnn.com</a> (2025-12-26 03:01:02)</span><span style="padding-right:50px;">Donald Trump is obsessed with the idea of taking over Greenland. What has the island got that he wants so badly? <a href="https://bsky.app/profile/bloomberg.com/post/3matebcsw6g2z" target="_blank">bloomberg.com</a> (2025-12-26 03:00:49)</span><span style="padding-right:50px;">Ed Taylor, who has run a free Santa School since 2015, says interest has surged in recent years.  While high-end Santas can earn more than $10,000 a month, many of Taylor’s students say the real reward is purpose and fulfillment in retirement. https://wapo.st/3MOhz7u <a href="https://bsky.app/profile/washingtonpost.com/post/3mateaobmi224" target="_blank">washingtonpost.com</a> (2025-12-26 03:00:27)</span><span style="padding-right:50px;">CBS said it shelved the segment on the notorious Salvadoran CECOT prison because it "needed additional reporting." <a href="https://bsky.app/profile/usatoday.com/post/3mateaegk3k25" target="_blank">usatoday.com</a> (2025-12-26 03:00:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 156.00 (🔺0.26 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.69 (🔻0.05 : 2025-12-25)</span>
   </div>
 </div>
 
@@ -32,96 +32,103 @@
 
 ## News Headlines
 
-- California Hit by Second Storm in Two Days, with More Rain Expected
-- Pineapple Express Brings Heavy Rains to the Region
-- Cavaliers F Evan Mobley to Return vs. Knicks
-- Commanders RB Chris Rodriguez Jr. Inactive vs. Cowboys
-- Family's Centuries-Long Trade Provides a Window on British Colonial History and Kenya's Independence
-- New Research Reveals Unusual Animal Sleep Habits
+- Two Brothers Make Partner At Goldman Within Two Years of Each Other
+- Pope Leo XIV Calls for Peace in Christmas Message
+- Remote-Controlled Robot Rides Camel in Qatar Racing Competition
+- Two Brothers Make Partner At Goldman Within Two Years of Each Other
+- King Charles III Attends Christmas Service with Royal Family
+- New Animal Sleep Habits Revealed Through Research
 
 
 ----
 
-@forbes.com
+@wsj.com
 
-The heavy rains are the result of a weather phenomenon known as the “Pineapple Express.”
+Few people make partner at Goldman. Two brothers doing it within two years of each other is even more unusual. on.wsj.com/4pf7sGf
 
-[2025-12-26 02:45:04](https://bsky.app/profile/forbes.com/post/3matdf6couz2s)
-
----
-
-@en.afp.com
-
-A remote-controlled robot jockey competes on a camel on a sandy racing track in Qatar on Thursday. The camels are guided by an operator who can apply the whip antenna, command the jockey to pull on the reins, and shouts encouragement to the camel via a built-in speaker.
-
-[2025-12-26 02:45:02](https://bsky.app/profile/en.afp.com/post/3matdf45dn72q)
-
----
-
-@nytimes.com
-
-As they try to repair their political brand before the midterm elections, Democrats are rushing to redefine themselves as Washington disrupters, eager to challenge a government that many Americans believe has failed to improve their lives.
-
-[2025-12-26 02:40:05](https://bsky.app/profile/nytimes.com/post/3matd4b4abd25)
-
----
-
-@usatoday.com
-
-Trump heralded Christmas with messages criticizing 'Radical Left Scum' and promoting the country's economic growth.
-
-[2025-12-26 02:30:16](https://bsky.app/profile/usatoday.com/post/3matckovny525)
+[2025-12-26 03:02:38](https://bsky.app/profile/wsj.com/post/3mateel4rul2t)
 
 ---
 
 @cnn.com
 
-After a harrowing and deadly Christmas Eve in California with rescues and evacuations amid widespread flooding and debris flow threats, another storm is battering the state Christmas Day, with more expected into Friday. https://cnn.it/49rATQx
+From Santa’s reindeer and the Hanukkah armadillo to some very festive sea worms, our changing world is changing life for creatures great and small. And while some of these animals are struggling, a few may be key to helping us adapt to the future. https://cnn.it/4axo3RW
 
-[2025-12-26 02:30:07](https://bsky.app/profile/cnn.com/post/3matckgrxa222)
+[2025-12-26 03:01:02](https://bsky.app/profile/cnn.com/post/3matebpkfmi26)
+
+---
+
+@bloomberg.com
+
+Donald Trump is obsessed with the idea of taking over Greenland. What has the island got that he wants so badly?
+
+[2025-12-26 03:00:49](https://bsky.app/profile/bloomberg.com/post/3matebcsw6g2z)
+
+---
+
+@washingtonpost.com
+
+Ed Taylor, who has run a free Santa School since 2015, says interest has surged in recent years.
+
+While high-end Santas can earn more than $10,000 a month, many of Taylor’s students say the real reward is purpose and fulfillment in retirement. https://wapo.st/3MOhz7u
+
+[2025-12-26 03:00:27](https://bsky.app/profile/washingtonpost.com/post/3mateaobmi224)
+
+---
+
+@usatoday.com
+
+CBS said it shelved the segment on the notorious Salvadoran CECOT prison because it "needed additional reporting."
+
+[2025-12-26 03:00:17](https://bsky.app/profile/usatoday.com/post/3mateaegk3k25)
+
+---
+
+@apnews.com
+
+Former Brazilian President Jair Bolsonaro's family says he's underwent double hernia surgery at a hospital in the country's capital.
+
+[2025-12-26 03:00:08](https://bsky.app/profile/apnews.com/post/3matea4d5ut26)
 
 ---
 
 @aljazeera.com
 
-Eight-month-old among multiple Palestinians wounded in attacks across the occupied West Bank.
+Brazil’s jailed ex-President Bolsonaro undergoes ‘successful’ surgery https://aje.io/1058pz
 
-[2025-12-26 02:30:05](https://bsky.app/profile/aljazeera.com/post/3matckeu6to27)
-
----
-
-@nytimes.com
-
-Will Zohran Mamdani be the 111th or the 112th mayor of New York? An arcane numbering system and the misplacement of an official record have caused confusion on where the latest mayor-elect falls in history.
-
-[2025-12-26 02:30:02](https://bsky.app/profile/nytimes.com/post/3matckbpegh2y)
+[2025-12-26 03:00:05](https://bsky.app/profile/aljazeera.com/post/3mate7ziaap27)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-Reports: Cavaliers F Evan Mobley to return vs. Knicks reut.rs/4paEtmG
+Management scholars are making a case study of Christmas, says Tim Harford.⁠
+⁠
+Discover his take on the economics of seasonal serenity: ft.trib.al/ozcNqm0
 
-[2025-12-26 02:25:08](https://bsky.app/profile/reuters.com/post/3matcbj5dig2p)
+[2025-12-26 03:00:03](https://bsky.app/profile/financialtimes.com/post/3mate7xps4x2o)
 
 ---
 
-@npr.org
+@cbsnews.com
 
-Dave Willat was just 11 years old when he showed up for what he thought would be a routine church choir practice in 1965. He and his fellow singers ended up making history.
+Imprisoned Brazilian ex-president Jair Bolsonaro undergoes double hernia surgery
 
-[2025-12-26 02:24:05](https://bsky.app/profile/npr.org/post/3matc7nc7cp2b)
+[2025-12-26 03:00:01](https://bsky.app/profile/cbsnews.com/post/3mate7vf75s2j)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🔔防災科研より【強震モニタ】動画です。
 
-【速報】石川・七尾市の商業施設で男性切りつけられる 刃物を持った男が逃走中
-(2025-12-26 02:19:00) #ニュース
+震源:熊本県熊本地方, 深さ:10km
+マグニチュード:2.7, 最大震度:2
+📍https://www.google.com/maps?q=32.7,130.7&ll=32.7,130.7&z=7&t=h
+地震発生日時:2025-12-26 02:56頃
+(10倍速▶120s→12s) #地震
 
-[2025-12-26 02:21:39](https://bsky.app/profile/sokuho.news/post/3matc3cmwoc2a)
+[2025-12-26 03:00:00](https://bsky.app/profile/sokuho.news/post/3mate7unz3c2v)
 
 ---
 
