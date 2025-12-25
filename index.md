@@ -1,9 +1,9 @@
-# [2025-12-25 21:10 updated](2025_12_25.md)
+# [2025-12-25 21:30 updated](2025_12_25.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">新潟 中央区 マンションで火災 1人が病院搬送 https://news.web.nhk/newsweb/na/na-k10015013971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqmeapqu2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 21:09:02)</span><span style="padding-right:50px;">サッカー天皇杯 2027年元日に決勝 6大会ぶり元日の頂上決戦 https://news.web.nhk/newsweb/na/na-k10015014061000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqh5uw6j24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 21:06:08)</span><span style="padding-right:50px;">【広島】お米券など食料品支援 自治体は https://news.web.nhk/newsweb/na/na-k10015014051000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqgykxqr2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 21:06:02)</span><span style="padding-right:50px;">LIVE: British royals attend traditional Christmas service www.youtube.com/live/xvSzS2r... <a href="https://bsky.app/profile/reuters.com/post/3masqcbuvpc2g" target="_blank">reuters.com</a> (2025-12-25 21:03:26)</span><span style="padding-right:50px;">政府 女性特有の健康課題 会議立ち上げ支援体制など検討へ https://news.web.nhk/newsweb/na/na-k10015014071000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqbrofyj2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-25 21:03:07)</span>
+<span style="padding-right:50px;">🇺🇸 ⛈️ Flash flood warnings were in effect in Los Angeles and most of southern California on Wednesday as one of the worst Christmas storms in recent memory brought heavy rain and fears of deadly mudslides ➡️ u.afp.com/S8dD <a href="https://bsky.app/profile/en.afp.com/post/3masrj3nhfi2f" target="_blank">en.afp.com</a> (2025-12-25 21:25:08)</span><span style="padding-right:50px;">The host of a long-running annual Christmas Eve jazz concert at the Kennedy Center canceled the event over the addition of Donald Trump’s name to the Washington, DC institution reut.rs/4atu16l <a href="https://bsky.app/profile/reuters.com/post/3masrhig33c2g" target="_blank">reuters.com</a> (2025-12-25 21:24:15)</span><span style="padding-right:50px;">New York City embarked on a controversial program to toll drivers entering some of Manhattan’s busiest streets. Nearly a year later, data shows congestion pricing is actually working. View the charts: bloom.bg/4jklVzm  📷: Michael Nagle/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3masqxexjyg2a" target="_blank">bloomberg.com</a> (2025-12-25 21:15:14)</span><span style="padding-right:50px;">日本ショッピングセンター（ＳＣ）協会が２５日に発表した１１月のＳＣ既存店売上高は前年比６．２％増となった。前年比での増加は４５カ月連続。 bit.ly/4at6iDe <a href="https://bsky.app/profile/japan.reuters.com/post/3masqxc4ebs2q" target="_blank">japan.reuters.com</a> (2025-12-25 21:15:11)</span><span style="padding-right:50px;">A bomb exploded during prayers at a mosque in Nigeria's northeastern city of Maiduguri on Wednesday night, killing five people and injuring 35 others, police said. <a href="https://bsky.app/profile/cbsnews.com/post/3masqwycc2e2z" target="_blank">cbsnews.com</a> (2025-12-25 21:15:01)</span>
   </div>
 </div>
 
@@ -32,15 +32,65 @@
 
 ## News Headlines
 
-- Fire breaks out in a condominium in Niigata's Chuo-ku, one person taken to the hospital
-- Japan to host 2027 Emperor's Cup final on New Year's Day for the first time in 6 years
-- Miyagi prefecture to provide food support including rice coupons to residents
-- Pope Leo XIV calls for courage to end Ukraine war in first Christmas address
-- Japanese government to consider setting up a system to support women's health issues
-- New head of the Imperial Household Agency, Kuroda Takeru, holds a press conference
+- Flash flood warnings issued for Los Angeles and most of southern California as Christmas storm brings heavy rain and mudslide fears
+- Christmas concert at Kennedy Center canceled over addition of Donald Trump's name to building's facade
+- New York City congestion pricing program shows promising results after nearly a year
+- Japanese shopping centers report 6.2% increase in sales in November
+- Bomb explosion at mosque in Nigeria's Maiduguri city kills five and injures 35
+- Pope Leo XIV condemns war and calls for peace in Gaza and Ukraine in first Christmas message
 
 
 ----
+
+@en.afp.com
+
+🇺🇸 ⛈️ Flash flood warnings were in effect in Los Angeles and most of southern California on Wednesday as one of the worst Christmas storms in recent memory brought heavy rain and fears of deadly mudslides ➡️ u.afp.com/S8dD
+
+[2025-12-25 21:25:08](https://bsky.app/profile/en.afp.com/post/3masrj3nhfi2f)
+
+---
+
+@reuters.com
+
+The host of a long-running annual Christmas Eve jazz concert at the Kennedy Center canceled the event over the addition of Donald Trump’s name to the Washington, DC institution reut.rs/4atu16l
+
+[2025-12-25 21:24:15](https://bsky.app/profile/reuters.com/post/3masrhig33c2g)
+
+---
+
+@bloomberg.com
+
+New York City embarked on a controversial program to toll drivers entering some of Manhattan’s busiest streets. Nearly a year later, data shows congestion pricing is actually working. View the charts: bloom.bg/4jklVzm
+
+📷: Michael Nagle/Bloomberg
+
+[2025-12-25 21:15:14](https://bsky.app/profile/bloomberg.com/post/3masqxexjyg2a)
+
+---
+
+@japan.reuters.com
+
+日本ショッピングセンター（ＳＣ）協会が２５日に発表した１１月のＳＣ既存店売上高は前年比６．２％増となった。前年比での増加は４５カ月連続。 bit.ly/4at6iDe
+
+[2025-12-25 21:15:11](https://bsky.app/profile/japan.reuters.com/post/3masqxc4ebs2q)
+
+---
+
+@cbsnews.com
+
+A bomb exploded during prayers at a mosque in Nigeria's northeastern city of Maiduguri on Wednesday night, killing five people and injuring 35 others, police said.
+
+[2025-12-25 21:15:01](https://bsky.app/profile/cbsnews.com/post/3masqwycc2e2z)
+
+---
+
+@nytimes.com
+
+An annual Christmas Eve jazz concert at the Kennedy Center was canceled by its host after a board appointed by President Trump added his name to the Washington building's facade.
+
+[2025-12-25 21:10:05](https://bsky.app/profile/nytimes.com/post/3masqo5vco52x)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -75,64 +125,6 @@ LIVE: British royals attend traditional Christmas service
 www.youtube.com/live/xvSzS2r...
 
 [2025-12-25 21:03:26](https://bsky.app/profile/reuters.com/post/3masqcbuvpc2g)
-
----
-
-@nhknewsunofficial.bsky.social
-
-政府 女性特有の健康課題 会議立ち上げ支援体制など検討へ
-https://news.web.nhk/newsweb/na/na-k10015014071000
-
-[2025-12-25 21:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqbrofyj2v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-宮内庁 黒田武一郎 新長官が会見
-https://news.web.nhk/newsweb/na/na-k10015014041000
-
-[2025-12-25 21:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3masqbmx65d22)
-
----
-
-@wsj.com
-
-The all-star collective, initially assembled to mark the 85th anniversary of Blue Note Records, honors the legacy of the label and the genre while remaining vibrantly contemporary. on.wsj.com/48UF739
-
-[2025-12-25 21:02:30](https://bsky.app/profile/wsj.com/post/3masqamg43l2k)
-
----
-
-@usatoday.com
-
-What's open and closed on Christmas Day 2025? Here's what to know
-
-[2025-12-25 21:00:53](https://bsky.app/profile/usatoday.com/post/3masq5q2caj2l)
-
----
-
-@nikkei.com
-
-【ミャクミャクに続け】
-横浜園芸博「トゥンクトゥンク」、販売ノウハウ継承
-www.nikkei.com/article/DGXZQO...
-
-はるか宇宙の彼方から、地球に憧れてやってきた好奇心いっぱいの精霊――。名前の由来は「人といろんな命が共鳴」する様だといいます。
-
-ライセンス事務局はミャクミャクと同じ企業で構成し、商品展開を見据えて準備を進めます。
-
-サンリオとのコラボ商品は発売初日に、売り場のある丸善・丸の内本店の前に200人以上が列に。「万博ロス」を感じる人たちの心に刺さっています。
-
-[2025-12-25 21:00:51](https://bsky.app/profile/nikkei.com/post/3masq5nbew72i)
-
----
-
-@japan.reuters.com
-
-旧村上ファンド系の投資会社、シティインデックスイレブンス（東京都渋谷区）が共同保有者との合計でディー・エヌ・エー株の保有比率を６．２４％に引き上げたことが、２５日提出の変更報告書で分かった。前回報告では５．２２％だった。報告義務発生日は１８日。 bit.ly/4pT6kZN
-
-[2025-12-25 21:00:40](https://bsky.app/profile/japan.reuters.com/post/3masq5cwc6k2q)
 
 ---
 
