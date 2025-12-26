@@ -1,9 +1,9 @@
-# [2025-12-27 03:50 updated](2025_12_27.md)
+# [2025-12-27 04:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Trump exempted a copper smelter in Arizona from air-quality rules. An EPA official provided guidance to the company, according to emails and documents reviewed by The New York Times. It’s one of many efforts by the Trump administration to weaken or waive environmental protections. <a href="https://bsky.app/profile/nytimes.com/post/3mavwwflf7k2x" target="_blank">nytimes.com</a> (2025-12-27 03:40:03)</span><span style="padding-right:50px;">Former ULA CEO Tory Bruno to join Blue Origin's new national security business reut.rs/49soCeC <a href="https://bsky.app/profile/reuters.com/post/3mavwnnrnrg2k" target="_blank">reuters.com</a> (2025-12-27 03:35:10)</span><span style="padding-right:50px;">"Bachelorette" alum Joelle "JoJo" Fletcher welcomed her first baby, a girl, with final rose recipient Jordan Rodgers. <a href="https://bsky.app/profile/usatoday.com/post/3mavweyi6gs2w" target="_blank">usatoday.com</a> (2025-12-27 03:30:19)</span><span style="padding-right:50px;">At least eight people were killed and 18 others injured in an explosion targeting a mosque in the Syrian city of Homs on Friday, the country's health ministry said. https://cnn.it/4pg9XYK <a href="https://bsky.app/profile/cnn.com/post/3mavwenw6y42b" target="_blank">cnn.com</a> (2025-12-27 03:30:08)</span><span style="padding-right:50px;">Attacks by unknown assailants entering Tajik territory appear to target Chinese businesses and workers. <a href="https://bsky.app/profile/aljazeera.com/post/3mavwej5ewo2l" target="_blank">aljazeera.com</a> (2025-12-27 03:30:03)</span>
+<span style="padding-right:50px;">Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance' <a href="https://bsky.app/profile/yahoofinance.com/post/3mavyfbz32w26" target="_blank">yahoofinance.com</a> (2025-12-27 04:06:16)</span><span style="padding-right:50px;">Time to sell silver and buy gold, says Carter Worth <a href="https://bsky.app/profile/cnbc.com/post/3mavy7f5qur24" target="_blank">cnbc.com</a> (2025-12-27 04:02:58)</span><span style="padding-right:50px;">SPACs are having a revival. Here's what to know about the blank-check companies (from October) <a href="https://bsky.app/profile/bloomberg.com/post/3mavy43j2pl23" target="_blank">bloomberg.com</a> (2025-12-27 04:01:08)</span><span style="padding-right:50px;">You never forget the year's most painful TV deaths. 2025 hit the dark mark with tragedy on "9-1-1," "White Lotus," "The Last of Us," "1923" and more. <a href="https://bsky.app/profile/usatoday.com/post/3mavy3lsrdc2f" target="_blank">usatoday.com</a> (2025-12-27 04:00:51)</span><span style="padding-right:50px;">Volunteering with children can help them develop confidence and awareness that they can make a difference in their communities. Here's how to find opportunities that welcome small children. <a href="https://bsky.app/profile/apnews.com/post/3mavy2p3yba2n" target="_blank">apnews.com</a> (2025-12-27 04:00:21)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48659.32 (🔻53.15 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23629.54 (🔻16.37 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 192.02 (🔺2.06 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.49 (🔺0.68 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48648.77 (🔻63.70 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23639.90 (🔻6.01 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 192.59 (🔺2.63 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.59 (🔺0.78 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,95 +32,94 @@
 
 ## News Headlines
 
-- Trump Exempts Copper Smelter in Arizona from Air-Quality Rules
-- Former ULA CEO to Join Blue Origin's National Security Business
-- Explosion in Syrian City of Homs Kills at Least Eight People
-- Israel Recognizes Somaliland as Independent State
-- US Airline Cancellations Soar Ahead of Winter Storm
-- President Trump Orders Military Strikes Against ISIS in Nigeria
+- Nvidia's Groq Deal: A Sign of Dominance in AI Chip Market
+- Sell Silver, Buy Gold, Says Analyst Carter Worth
+- SPACs Experience a Resurgence: What You Need to Know
+- TV's Most Painful Deaths of 2025 Include 9-1-1, The Last of Us, and The White Lotus
+- Volunteering with Children: How to Find Opportunities for Small Children
+- US Imposes Sanctions on 20 Chinese Defense Companies and 10 Executives
 
 
 ----
 
-@nytimes.com
+@yahoofinance.com
 
-President Trump exempted a copper smelter in Arizona from air-quality rules. An EPA official provided guidance to the company, according to emails and documents reviewed by The New York Times. It’s one of many efforts by the Trump administration to weaken or waive environmental protections.
+Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance'
 
-[2025-12-27 03:40:03](https://bsky.app/profile/nytimes.com/post/3mavwwflf7k2x)
+[2025-12-27 04:06:16](https://bsky.app/profile/yahoofinance.com/post/3mavyfbz32w26)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Former ULA CEO Tory Bruno to join Blue Origin's new national security business reut.rs/49soCeC
+Time to sell silver and buy gold, says Carter Worth
 
-[2025-12-27 03:35:10](https://bsky.app/profile/reuters.com/post/3mavwnnrnrg2k)
+[2025-12-27 04:02:58](https://bsky.app/profile/cnbc.com/post/3mavy7f5qur24)
+
+---
+
+@bloomberg.com
+
+SPACs are having a revival. Here's what to know about the blank-check companies (from October)
+
+[2025-12-27 04:01:08](https://bsky.app/profile/bloomberg.com/post/3mavy43j2pl23)
 
 ---
 
 @usatoday.com
 
-"Bachelorette" alum Joelle "JoJo" Fletcher welcomed her first baby, a girl, with final rose recipient Jordan Rodgers.
+You never forget the year's most painful TV deaths. 2025 hit the dark mark with tragedy on "9-1-1," "White Lotus," "The Last of Us," "1923" and more.
 
-[2025-12-27 03:30:19](https://bsky.app/profile/usatoday.com/post/3mavweyi6gs2w)
+[2025-12-27 04:00:51](https://bsky.app/profile/usatoday.com/post/3mavy3lsrdc2f)
+
+---
+
+@apnews.com
+
+Volunteering with children can help them develop confidence and awareness that they can make a difference in their communities. Here's how to find opportunities that welcome small children.
+
+[2025-12-27 04:00:21](https://bsky.app/profile/apnews.com/post/3mavy2p3yba2n)
+
+---
+
+@washingtonpost.com
+
+Ukrainian President Zelensky said he will meet President Trump in Florida on Sunday to discuss the latest draft of a peace plan, including security guarantees for Ukraine and prospects for future economic development. 
+
+[2025-12-27 04:00:19](https://bsky.app/profile/washingtonpost.com/post/3mavy2nkfgr24)
 
 ---
 
 @cnn.com
 
-At least eight people were killed and 18 others injured in an explosion targeting a mosque in the Syrian city of Homs on Friday, the country's health ministry said.
-https://cnn.it/4pg9XYK
+The program offers Parkinson’s patients the opportunity for physical activity that has been shown to improve many symptoms and possibly slow progression of the disease. It’s also become a sort of informal support group.
+https://cnn.it/4pXGy6W
 
-[2025-12-27 03:30:08](https://bsky.app/profile/cnn.com/post/3mavwenw6y42b)
+[2025-12-27 04:00:19](https://bsky.app/profile/cnn.com/post/3mavy2nk6y326)
+
+---
+
+@nbcnews.com
+
+ Beijing imposes sanctions against 20 U.S. defense-related companies and 10 executives, a week after Washington announced large-scale arms sales to Taiwan.
+
+[2025-12-27 04:00:12](https://bsky.app/profile/nbcnews.com/post/3mavy2gqg672d)
 
 ---
 
 @aljazeera.com
 
-Attacks by unknown assailants entering Tajik territory appear to target Chinese businesses and workers.
+Ukrainian president highlights 'significant progress' in talks, but Moscow says Kyiv is working to 'torpedo' deal https://aje.io/iaxtot
 
-[2025-12-27 03:30:03](https://bsky.app/profile/aljazeera.com/post/3mavwej5ewo2l)
-
----
-
-@financialtimes.com
-
-A Medellín cartel kingpin’s mission to recast his legacy ft.trib.al/tf8j1iS
-
-[2025-12-27 03:28:49](https://bsky.app/profile/financialtimes.com/post/3mavwccr4wa2b)
+[2025-12-27 04:00:04](https://bsky.app/profile/aljazeera.com/post/3mavy26zweq27)
 
 ---
 
-@japan.reuters.com
+@cbsnews.com
 
-２６日のユーロ圏金融・債券市場はボクシングデーのため休信します。 bit.ly/4qlV2gA
+U.S. stocks hover at record highs in quiet trading after the Christmas holiday
 
-[2025-12-27 03:27:13](https://bsky.app/profile/japan.reuters.com/post/3mavw7hehyd22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-群馬  関越道で車50台以上からむ事故 1人死亡 26人けが
-https://news.web.nhk/newsweb/na/na-k10015015301000
-
-[2025-12-27 03:27:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavw7625wk2u)
-
----
-
-@wsj.com
-
-The fate of a European dream of unity, what we learn from lyric sheets, economic irrationality and more. on.wsj.com/499VdEF
-
-[2025-12-27 03:26:02](https://bsky.app/profile/wsj.com/post/3mavw5dx4sg2g)
-
----
-
-@reuters.com
-
-New York to require social media platforms to display mental health warnings reut.rs/4jh7Wdp
-
-[2025-12-27 03:25:08](https://bsky.app/profile/reuters.com/post/3mavw3qljxt2r)
+[2025-12-27 04:00:01](https://bsky.app/profile/cbsnews.com/post/3mavy243lc42y)
 
 ---
 
