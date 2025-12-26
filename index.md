@@ -1,9 +1,9 @@
-# [2025-12-27 06:30 updated](2025_12_27.md)
+# [2025-12-27 06:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">（暫定値） bit.ly/3YMpjJE <a href="https://bsky.app/profile/japan.reuters.com/post/3mawab5idmm2v" target="_blank">japan.reuters.com</a> (2025-12-27 06:27:07)</span><span style="padding-right:50px;">Whether you plan to head out to the theater or binge from the couch, our critics have gathered together their favorite films and TV shows of 2025. <a href="https://bsky.app/profile/npr.org/post/3maw7yljl5323" target="_blank">npr.org</a> (2025-12-27 06:22:20)</span><span style="padding-right:50px;">The ringleader of California’s Yimby movement says his affordable-housing mission is ready for the national stage. on.wsj.com/3KOcuvh <a href="https://bsky.app/profile/wsj.com/post/3maw7nwdjx723" target="_blank">wsj.com</a> (2025-12-27 06:16:22)</span><span style="padding-right:50px;">Silver rises 9% to hit fresh record high reut.rs/4qraWpU <a href="https://bsky.app/profile/reuters.com/post/3maw7luvyef2r" target="_blank">reuters.com</a> (2025-12-27 06:15:13)</span><span style="padding-right:50px;">For 50+ years, the NPR Network has offered America trusted information, free of charge. As public media faces a future without federal funding, we're relying on you to sustain this work in 2026 and beyond.   Donate now to power Tiny Desk concerts, local reporting and more: n.pr/4pCcFIx <a href="https://bsky.app/profile/npr.org/post/3maw7jgnync2g" target="_blank">npr.org</a> (2025-12-27 06:13:52)</span>
+<span style="padding-right:50px;">The hottest place to buy wine in wine country? Costco. on.wsj.com/4sjPTYo <a href="https://bsky.app/profile/wsj.com/post/3mawbiru2mi2s" target="_blank">wsj.com</a> (2025-12-27 06:49:17)</span><span style="padding-right:50px;">トランプ米大統領は、週末に予定されている...ウクライナのゼレンスキー大統領との会談を前に、「私が承認するまで、彼は何もできない」と語った。ポリティコのインタビューに応じた。 bit.ly/4jcV3RP <a href="https://bsky.app/profile/japan.reuters.com/post/3mawbbnyjxk2s" target="_blank">japan.reuters.com</a> (2025-12-27 06:45:18)</span><span style="padding-right:50px;">Only five Sears stores remain in the U.S., with the end likely near for what was once the mightiest American retailer. Here’s a look back at why the company’s last great hope was a promise that never materialized. <a href="https://bsky.app/profile/nytimes.com/post/3mawayc5ajc2z" target="_blank">nytimes.com</a> (2025-12-27 06:40:04)</span><span style="padding-right:50px;">帰省ラッシュ始まる 各交通機関や高速道路は朝から混雑 https://news.web.nhk/newsweb/na/na-k10015015161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawar5nhot2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 06:36:02)</span><span style="padding-right:50px;">Japan schedules sanitary audit on Brazilian beef for March 2026, Brazil says reut.rs/3Yxv1iJ <a href="https://bsky.app/profile/reuters.com/post/3mawaphqijf2r" target="_blank">reuters.com</a> (2025-12-27 06:35:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48710.97 (🔻1.50 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23593.10 (🔻52.81 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.53 (🔺0.57 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.55 (🔺0.74 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48710.97 (🔻1.50 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23593.10 (🔻52.81 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.53 (🔺0.57 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.57 (🔺0.77 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,95 +32,95 @@
 
 ## News Headlines
 
-- California Yimby leader's affordable-housing mission goes national
-- Silver price rises 9% to hit fresh record high
-- NPR relies on public support as federal funding faces uncertain future
-- US airline flights canceled due to winter storm
-- Ukraine's Zelensky to discuss peace framework with Trump
-- Steelers' T.J. Watt and Nick Herbig practice again ahead of Sunday's game
+- Costco Tops the List as the Hottest Place to Buy Wine in Wine Country
+- Trump Warns Zelensky That He Can't Do Anything Without His Approval
+- Only 5 Sears Stores Remain in the US, a Far Cry from Its Former Glory
+- Japan Schedules Sanitary Audit on Brazilian Beef for March 2026
+- Wealthy Families Launch Offices to Manage Their Money and Secure Deals
+- Israel Recognizes Somaliland as an Independent and Sovereign State
 
 
 ----
 
-@japan.reuters.com
-
-（暫定値） bit.ly/3YMpjJE
-
-[2025-12-27 06:27:07](https://bsky.app/profile/japan.reuters.com/post/3mawab5idmm2v)
-
----
-
-@npr.org
-
-Whether you plan to head out to the theater or binge from the couch, our critics have gathered together their favorite films and TV shows of 2025.
-
-[2025-12-27 06:22:20](https://bsky.app/profile/npr.org/post/3maw7yljl5323)
-
----
-
 @wsj.com
 
-The ringleader of California’s Yimby movement says his affordable-housing mission is ready for the national stage. on.wsj.com/3KOcuvh
+The hottest place to buy wine in wine country? Costco. on.wsj.com/4sjPTYo
 
-[2025-12-27 06:16:22](https://bsky.app/profile/wsj.com/post/3maw7nwdjx723)
-
----
-
-@reuters.com
-
-Silver rises 9% to hit fresh record high reut.rs/4qraWpU
-
-[2025-12-27 06:15:13](https://bsky.app/profile/reuters.com/post/3maw7luvyef2r)
-
----
-
-@npr.org
-
-For 50+ years, the NPR Network has offered America trusted information, free of charge. As public media faces a future without federal funding, we're relying on you to sustain this work in 2026 and beyond. 
-
-Donate now to power Tiny Desk concerts, local reporting and more: n.pr/4pCcFIx
-
-[2025-12-27 06:13:52](https://bsky.app/profile/npr.org/post/3maw7jgnync2g)
-
----
-
-@reuters.com
-
-White House press secretary Karoline Leavitt announces pregnancy reut.rs/4scF61W
-
-[2025-12-27 06:10:13](https://bsky.app/profile/reuters.com/post/3maw7cvvovc2o)
+[2025-12-27 06:49:17](https://bsky.app/profile/wsj.com/post/3mawbiru2mi2s)
 
 ---
 
 @japan.reuters.com
 
-航空便追跡サイト「ＦｌｉｇｈｔＡｗａｒｅ」によると、米航空各社では休暇旅行のピーク期にあたる２６日、冬の気象警報の影響で航空便の欠航・遅延が発生した。米東部時間午後０時３０分現在、１１３９便が欠航、３８０８便が遅延している。 bit.ly/49cNxSn
+トランプ米大統領は、週末に予定されている...ウクライナのゼレンスキー大統領との会談を前に、「私が承認するまで、彼は何もできない」と語った。ポリティコのインタビューに応じた。 bit.ly/4jcV3RP
 
-[2025-12-27 06:08:15](https://bsky.app/profile/japan.reuters.com/post/3maw77fhvnu2u)
+[2025-12-27 06:45:18](https://bsky.app/profile/japan.reuters.com/post/3mawbbnyjxk2s)
 
 ---
 
 @nytimes.com
 
-New York City was bracing on Friday for its biggest snowfall in more than three years. The area in and around the city was expected to get 6 to 9 inches of snow over the weekend, with up to 10 inches predicted in some areas.
+Only five Sears stores remain in the U.S., with the end likely near for what was once the mightiest American retailer. Here’s a look back at why the company’s last great hope was a promise that never materialized.
 
-[2025-12-27 06:03:31](https://bsky.app/profile/nytimes.com/post/3maw6wxbbl32r)
+[2025-12-27 06:40:04](https://bsky.app/profile/nytimes.com/post/3mawayc5ajc2z)
 
 ---
 
-@apnews.com
+@nhknewsunofficial.bsky.social
 
-How well do you remember what happened in 2025? Test your knowledge with 25 questions about some of the year’s biggest stories.
+帰省ラッシュ始まる 各交通機関や高速道路は朝から混雑
+https://news.web.nhk/newsweb/na/na-k10015015161000
 
-[2025-12-27 06:01:14](https://bsky.app/profile/apnews.com/post/3maw6stwvns2r)
+[2025-12-27 06:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawar5nhot2v)
+
+---
+
+@reuters.com
+
+Japan schedules sanitary audit on Brazilian beef for March 2026, Brazil says reut.rs/3Yxv1iJ
+
+[2025-12-27 06:35:08](https://bsky.app/profile/reuters.com/post/3mawaphqijf2r)
+
+---
+
+@wsj.com
+
+Wealthy families are launching offices to manage their money at a record clip and are increasingly getting a seat at the table in significant deals. on.wsj.com/45s4uqB
+
+[2025-12-27 06:34:03](https://bsky.app/profile/wsj.com/post/3mawanjxqir2i)
+
+---
+
+@japan.reuters.com
+
+米国株式市場はクリスマス後で取引量が少ない中、ほぼ横ばいで取引を終えた。主要３株価指数は週次では上昇を記録した。 bit.ly/4aA0hEP
+
+[2025-12-27 06:33:04](https://bsky.app/profile/japan.reuters.com/post/3mawalrn6pw2c)
 
 ---
 
 @usatoday.com
 
-"Song Sung Blue" director had to decide what Neil Diamond songs made the movie starring Hugh Jackman and Kate Hudson, and what got cut.
+Martin Scorsese pays tribute to his "hilarious" friend Rob Reiner in a new essay, and calls his and wife Michele's deaths "an obscenity."
 
-[2025-12-27 06:00:43](https://bsky.app/profile/usatoday.com/post/3maw6rwqy5t2o)
+[2025-12-27 06:30:29](https://bsky.app/profile/usatoday.com/post/3mawah5k6sg2c)
+
+---
+
+@cnn.com
+
+Israel became the first country to formally recognize the self-declared Republic of Somaliland as an independent and sovereign state – a decision that could reshape regional dynamics and test Somalia's longstanding opposition to its secession.
+https://cnn.it/45dOMPS
+
+[2025-12-27 06:30:07](https://bsky.app/profile/cnn.com/post/3mawagijd4x2u)
+
+---
+
+@washingtonpost.com
+
+Officials in President Trump’s administration posted overtly sectarian messages for Christmas, such as a day to celebrate the birth of “our Savior Jesus Christ.” The messages sharply diverged from a tradition of secular holiday messages.
+
+[2025-12-27 06:30:06](https://bsky.app/profile/washingtonpost.com/post/3mawagiaxww2m)
 
 ---
 
