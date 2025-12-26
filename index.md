@@ -1,9 +1,9 @@
-# [2025-12-26 22:30 updated](2025_12_26.md)
+# [2025-12-26 22:50 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Global dealmaking hits $4.5tn in second-best year on record ft.trib.al/55LHNFw <a href="https://bsky.app/profile/financialtimes.com/post/3mavffocfel2v" target="_blank">financialtimes.com</a> (2025-12-26 22:26:28)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - Renewables turn LNG glut into a sinkhole reut.rs/4jin4r5 <a href="https://bsky.app/profile/reuters.com/post/3mavfdesbh42y" target="_blank">reuters.com</a> (2025-12-26 22:25:11)</span><span style="padding-right:50px;">President Volodymyr Zelensky of Ukraine said Friday that he would meet soon with President Trump, as Ukraine and the U.S. try to keep momentum going in U.S.-led efforts to end the war with Russia. <a href="https://bsky.app/profile/nytimes.com/post/3mavfd4wlsw2r" target="_blank">nytimes.com</a> (2025-12-26 22:25:03)</span><span style="padding-right:50px;">BREAKING: Malaysia's former Prime Minister Najib Razak ordered to serve 15 years in jail after a court convicted him on multiple counts of abuse of power and money laundering over his role in the multibillion-dollar fraud scandal at 1MDB reut.rs/3Y8M36u <a href="https://bsky.app/profile/reuters.com/post/3mavf7xbo2s2i" target="_blank">reuters.com</a> (2025-12-26 22:23:16)</span><span style="padding-right:50px;">中国人民銀行（中央銀行）は２６日、年次金融安定報告を公表した声明で、積極的なマクロ経済政策の実施とともに流動性を潤沢に保ち、システミックリスクを警戒する方針を示した。 bit.ly/3MRuzsU <a href="https://bsky.app/profile/japan.reuters.com/post/3mavf6lyntp2q" target="_blank">japan.reuters.com</a> (2025-12-26 22:22:31)</span>
+<span style="padding-right:50px;">Trump is expected to host Zelensky in Mar-a-Lago on Sunday to try and reach agreement on the U.S. peace plan.  The meeting is a sign of significant progress in the talks. Trump said previously that he'd only meet Zelensky if he felt a deal was close. <a href="https://bsky.app/profile/axios.com/post/3mavgif547s2e" target="_blank">axios.com</a> (2025-12-26 22:45:53)</span><span style="padding-right:50px;">Ukrainian President Zelensky says he plans to meet with President Trump in Florida on Sunday as part of efforts to reach a peace deal with Russia. https://cnn.it/3MUrM23 <a href="https://bsky.app/profile/cnn.com/post/3mavgdyoepm2u" target="_blank">cnn.com</a> (2025-12-26 22:43:26)</span><span style="padding-right:50px;">The New Year's Eve ball drop in New York City will sparkle in red, white, and blue to kick off celebrations for the U.S.'s 250th birthday in 2026. <a href="https://bsky.app/profile/apnews.com/post/3mavgcwuzgl23" target="_blank">apnews.com</a> (2025-12-26 22:42:50)</span><span style="padding-right:50px;">🇵🇰 Dancing Santas and camel rides: Pakistan's Christians celebrate Christmas  Hundreds of Christians celebrate Christmas on the streets of Karachi, with people dancing, riding camels and dressing up as Santa Claus. <a href="https://bsky.app/profile/en.afp.com/post/3mavg6v23ho26" target="_blank">en.afp.com</a> (2025-12-26 22:40:34)</span><span style="padding-right:50px;">韓国の特別検察官は２６日、「非常戒厳」宣言の失敗後、自身の逮捕を妨害しようとした罪などに問われている尹錫悦・前大統領に対し懲役１０年を求刑した。 bit.ly/3YeKkMZ <a href="https://bsky.app/profile/japan.reuters.com/post/3mavg6fnqll26" target="_blank">japan.reuters.com</a> (2025-12-26 22:40:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.27 (🔺0.46 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.30 (🔺0.49 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,93 +32,101 @@
 
 ## News Headlines
 
-- Global dealmaking hits $4.5tn in second-best year on record
-- Renewables turn LNG glut into a sinkhole
-- Ukraine's Zelensky says to meet Trump soon
-- Malaysia's ex-PM Najib sentenced to 15 years in jail
-- China's central bank keeps liquidity ample amid macroeconomic stability
-- US targets Islamic State in Nigeria, Trump orders strikes
+- Trump to Host Zelensky at Mar-a-Lago to Discuss US Peace Plan
+- NYC's New Year's Eve Ball to be Red, White, and Blue for 250th US Birthday
+- Najib Razak Sentenced to 15 Years in Prison in 1MDB Case
+- Nvidia's Groq Deal, S&P's Winning Week, Leather Tariffs and More
+- Global Deal-Making Hits $4.5 Trillion in Second-Best Year on Record
+- US Military Targets Islamic State in Nigeria After Trump Orders Strikes
 
 
 ----
 
-@financialtimes.com
+@axios.com
 
-Global dealmaking hits $4.5tn in second-best year on record ft.trib.al/55LHNFw
+Trump is expected to host Zelensky in Mar-a-Lago on Sunday to try and reach agreement on the U.S. peace plan.
 
-[2025-12-26 22:26:28](https://bsky.app/profile/financialtimes.com/post/3mavffocfel2v)
+The meeting is a sign of significant progress in the talks. Trump said previously that he'd only meet Zelensky if he felt a deal was close.
+
+[2025-12-26 22:45:53](https://bsky.app/profile/axios.com/post/3mavgif547s2e)
+
+---
+
+@cnn.com
+
+Ukrainian President Zelensky says he plans to meet with President Trump in Florida on Sunday as part of efforts to reach a peace deal with Russia.
+https://cnn.it/3MUrM23
+
+[2025-12-26 22:43:26](https://bsky.app/profile/cnn.com/post/3mavgdyoepm2u)
+
+---
+
+@apnews.com
+
+The New Year's Eve ball drop in New York City will sparkle in red, white, and blue to kick off celebrations for the U.S.'s 250th birthday in 2026.
+
+[2025-12-26 22:42:50](https://bsky.app/profile/apnews.com/post/3mavgcwuzgl23)
+
+---
+
+@en.afp.com
+
+🇵🇰 Dancing Santas and camel rides: Pakistan's Christians celebrate Christmas
+
+Hundreds of Christians celebrate Christmas on the streets of Karachi, with people dancing, riding camels and dressing up as Santa Claus.
+
+[2025-12-26 22:40:34](https://bsky.app/profile/en.afp.com/post/3mavg6v23ho26)
+
+---
+
+@japan.reuters.com
+
+韓国の特別検察官は２６日、「非常戒厳」宣言の失敗後、自身の逮捕を妨害しようとした罪などに問われている尹錫悦・前大統領に対し懲役１０年を求刑した。 bit.ly/3YeKkMZ
+
+[2025-12-26 22:40:18](https://bsky.app/profile/japan.reuters.com/post/3mavg6fnqll26)
 
 ---
 
 @reuters.com
 
-From Breakingviews - Breakingviews - Renewables turn LNG glut into a sinkhole reut.rs/4jin4r5
+Malaysia's ex-PM Najib ordered to serve 15 years in jail in 1MDB case reut.rs/4qoVdYm
 
-[2025-12-26 22:25:11](https://bsky.app/profile/reuters.com/post/3mavfdesbh42y)
+[2025-12-26 22:40:15](https://bsky.app/profile/reuters.com/post/3mavg6d4nip2b)
 
 ---
 
 @nytimes.com
 
-President Volodymyr Zelensky of Ukraine said Friday that he would meet soon with President Trump, as Ukraine and the U.S. try to keep momentum going in U.S.-led efforts to end the war with Russia.
+<strong><span style="color: red;">Breaking News</span>: Najib Razak, the former leader of Malaysia, was sentenced to 15 years in prison in a case related to the looting of a government fund.</strong>
 
-[2025-12-26 22:25:03](https://bsky.app/profile/nytimes.com/post/3mavfd4wlsw2r)
+[2025-12-26 22:38:56](https://bsky.app/profile/nytimes.com/post/3mavg3xyonh2a)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】群馬・みなかみ町の関越自動車道下り線で少なくとも15台の事故 数人けが 上下線とも一部区間が通行止め
+(2025-12-26 22:34:33) #ニュース
+
+[2025-12-26 22:38:24](https://bsky.app/profile/sokuho.news/post/3mavg2yslsz2x)
 
 ---
 
 @reuters.com
 
-<strong><span style="color: red;">BREAKING:</span> Malaysia's former Prime Minister Najib Razak ordered to serve 15 years in jail after a court convicted him on multiple counts of abuse of power and money laundering over his role in the multibillion-dollar fraud scandal at 1MDB reut.rs/3Y8M36u</strong>
+Johnson & Johnson halts mid-stage trial of experimental eczema drug reut.rs/48V7Wwd
 
-[2025-12-26 22:23:16](https://bsky.app/profile/reuters.com/post/3mavf7xbo2s2i)
-
----
-
-@japan.reuters.com
-
-中国人民銀行（中央銀行）は２６日、年次金融安定報告を公表した声明で、積極的なマクロ経済政策の実施とともに流動性を潤沢に保ち、システミックリスクを警戒する方針を示した。 bit.ly/3MRuzsU
-
-[2025-12-26 22:22:31](https://bsky.app/profile/japan.reuters.com/post/3mavf6lyntp2q)
+[2025-12-26 22:35:08](https://bsky.app/profile/reuters.com/post/3mavfv5yjx42r)
 
 ---
 
-@npr.org
+@wsj.com
 
-Figuring out the insurance options for families often falls to women. Some say they're delaying marriage, taking side jobs, and putting their kids on Medicaid as premium prices shoot up in 2026. n.pr/4ay419W
+The year’s dramatic run-up in precious metals broke new ground on Friday, while U.S. stocks were poised to resume trading close to record highs.
 
-[2025-12-26 22:19:47](https://bsky.app/profile/npr.org/post/3mavezq5mu324)
-
----
-
-@reuters.com
-
-From Breakingviews - Breakingviews - Chatbots find their voice as audio assistants rise reut.rs/3NheDAc
-
-[2025-12-26 22:15:14](https://bsky.app/profile/reuters.com/post/3maverl5p7m2k)
-
----
-
-@japan.reuters.com
-
-ウクライナのゼレンスキー大統領は２６日、トランプ米大統領との早期会談を予定していると述べ、ロシアとの戦争終結に向けた米国の外交努力が加速するなか、年内に多くのことが決定される可能性があるとの見通しを示した。 bit.ly/4q5S5ko
-
-[2025-12-26 22:15:13](https://bsky.app/profile/japan.reuters.com/post/3maverku7wp2f)
-
----
-
-@cnbc.com
-
-Pilot Joe Sobczak's $698,000 home comes with a 3,600-square-foot airplane hangar, where he keeps a Beechcraft T-34 Mentor plane he can use to fly to SFO.
-
-[2025-12-26 22:12:39](https://bsky.app/profile/cnbc.com/post/3mavemxhjf22e)
-
----
-
-@japan.reuters.com
-
-２０２５年最後の週の米国株式市場は、最高値を更新してさらなる節目に近づき、強気基調で終えると期待されている。市場に影響を与えそうな注目材料は３０日発表の米連邦公開市場委員会（ＦＯＭＣ）議事要旨（１２月開催分）。年末のポートフォリオ調整も、取引が少ない中で市場の変動を大きくする可能性がある。 bit.ly/4jcbYE5
-
-[2025-12-26 22:10:22](https://bsky.app/profile/japan.reuters.com/post/3maveiul47t2c)
+[2025-12-26 22:34:00](https://bsky.app/profile/wsj.com/post/3mavft5hcxa2e)
 
 ---
 
