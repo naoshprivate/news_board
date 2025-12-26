@@ -1,9 +1,9 @@
-# [2025-12-27 05:50 updated](2025_12_27.md)
+# [2025-12-27 06:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ウクライナのゼレンスキー大統領は２６日、アクシオスに対し、２８日の トランプ米大統領との会談では、和平の枠組みで合意したい意向を表明。ロシアが停戦に同意すれば、その合意案を国民投票にかける用意があると語った。 bit.ly/4asHP0S <a href="https://bsky.app/profile/japan.reuters.com/post/3maw5wccucn2v" target="_blank">japan.reuters.com</a> (2025-12-27 05:45:16)</span><span style="padding-right:50px;">Steelers LBs T.J. Watt, Nick Herbig practice again Friday reut.rs/4auD0UM <a href="https://bsky.app/profile/reuters.com/post/3maw5nde3oz2s" target="_blank">reuters.com</a> (2025-12-27 05:40:15)</span><span style="padding-right:50px;">静岡 工場で15人刺傷 勤務交代の時間帯の犯行 https://news.web.nhk/newsweb/na/na-k10015015021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maw5l7wz6y22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 05:39:02)</span><span style="padding-right:50px;">The Western alliance has been foundational to the global order since WW II. Now, European leaders are asking whether it’s dead. <a href="https://bsky.app/profile/wsj.com/post/3maw5h23u3w2u" target="_blank">wsj.com</a> (2025-12-27 05:36:44)</span><span style="padding-right:50px;">Bucs LT Tristan Wirfs (toe) ruled out for Sunday's game vs. Dolphins reut.rs/48UjQXc <a href="https://bsky.app/profile/reuters.com/post/3maw5eau4ws2o" target="_blank">reuters.com</a> (2025-12-27 05:35:10)</span>
+<span style="padding-right:50px;">航空便追跡サイト「ＦｌｉｇｈｔＡｗａｒｅ」によると、米航空各社では休暇旅行のピーク期にあたる２６日、冬の気象警報の影響で航空便の欠航・遅延が発生した。米東部時間午後０時３０分現在、１１３９便が欠航、３８０８便が遅延している。 bit.ly/49cNxSn <a href="https://bsky.app/profile/japan.reuters.com/post/3maw77fhvnu2u" target="_blank">japan.reuters.com</a> (2025-12-27 06:08:15)</span><span style="padding-right:50px;">New York City was bracing on Friday for its biggest snowfall in more than three years. The area in and around the city was expected to get 6 to 9 inches of snow over the weekend, with up to 10 inches predicted in some areas. <a href="https://bsky.app/profile/nytimes.com/post/3maw6wxbbl32r" target="_blank">nytimes.com</a> (2025-12-27 06:03:31)</span><span style="padding-right:50px;">How well do you remember what happened in 2025? Test your knowledge with 25 questions about some of the year’s biggest stories. <a href="https://bsky.app/profile/apnews.com/post/3maw6stwvns2r" target="_blank">apnews.com</a> (2025-12-27 06:01:14)</span><span style="padding-right:50px;">"Song Sung Blue" director had to decide what Neil Diamond songs made the movie starring Hugh Jackman and Kate Hudson, and what got cut. <a href="https://bsky.app/profile/usatoday.com/post/3maw6rwqy5t2o" target="_blank">usatoday.com</a> (2025-12-27 06:00:43)</span><span style="padding-right:50px;">Money expert Brian Page shares the timeless financial lessons he learned growing up with a frugal father. "While others rushed to buy the newest car or gadget, he was content with what he had," he writes. "That mindset made him the quintessential millionaire next door."  <a href="https://bsky.app/profile/cnbc.com/post/3maw6rr5x2n2e" target="_blank">cnbc.com</a> (2025-12-27 06:00:37)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48694.67 (🔻17.80 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23607.82 (🔻38.09 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.26 (🔺1.30 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.49 (🔺0.69 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48710.97 (🔻1.50 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23593.10 (🔻52.81 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.53 (🔺0.57 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.54 (🔺0.73 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,95 +32,100 @@
 
 ## News Headlines
 
-- Zelenskyy Expresses Desire to Hold Referendum on Peace Framework with US
-- Steelers Linebackers T.J. Watt, Nick Herbig Return to Practice
-- 15 Injured in Stabbing at Japanese Factory During Shift Change
-- European Leaders Question the Future of the Western Alliance
-- Nvidia Strikes $20 Billion Deal with Groq, Largest Ever
-- Dove Collaborates with 'Bridgerton' for Royal Treatment Collection
+- Flights Canceled, Delayed in US as Winter Storm Hits
+- New York City Braces for Largest Snowfall in Three Years
+- Ukraine's Zelensky to Discuss Peace Framework with Trump
+- Airlines Cancel Hundreds of Flights Ahead of New York City Snowstorm
+- Florida Man Kills Wife, Injures Stepdaughter Over TV Channel Dispute
+- Rare Wild Cat Spotted in Thailand After 30-Year Absence
 
 
 ----
 
 @japan.reuters.com
 
-ウクライナのゼレンスキー大統領は２６日、アクシオスに対し、２８日の トランプ米大統領との会談では、和平の枠組みで合意したい意向を表明。ロシアが停戦に同意すれば、その合意案を国民投票にかける用意があると語った。 bit.ly/4asHP0S
+航空便追跡サイト「ＦｌｉｇｈｔＡｗａｒｅ」によると、米航空各社では休暇旅行のピーク期にあたる２６日、冬の気象警報の影響で航空便の欠航・遅延が発生した。米東部時間午後０時３０分現在、１１３９便が欠航、３８０８便が遅延している。 bit.ly/49cNxSn
 
-[2025-12-27 05:45:16](https://bsky.app/profile/japan.reuters.com/post/3maw5wccucn2v)
-
----
-
-@reuters.com
-
-Steelers LBs T.J. Watt, Nick Herbig practice again Friday reut.rs/4auD0UM
-
-[2025-12-27 05:40:15](https://bsky.app/profile/reuters.com/post/3maw5nde3oz2s)
+[2025-12-27 06:08:15](https://bsky.app/profile/japan.reuters.com/post/3maw77fhvnu2u)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nytimes.com
 
-静岡 工場で15人刺傷 勤務交代の時間帯の犯行
-https://news.web.nhk/newsweb/na/na-k10015015021000
+New York City was bracing on Friday for its biggest snowfall in more than three years. The area in and around the city was expected to get 6 to 9 inches of snow over the weekend, with up to 10 inches predicted in some areas.
 
-[2025-12-27 05:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maw5l7wz6y22)
-
----
-
-@wsj.com
-
-The Western alliance has been foundational to the global order since WW II. Now, European leaders are asking whether it’s dead.
-
-[2025-12-27 05:36:44](https://bsky.app/profile/wsj.com/post/3maw5h23u3w2u)
+[2025-12-27 06:03:31](https://bsky.app/profile/nytimes.com/post/3maw6wxbbl32r)
 
 ---
 
-@reuters.com
+@apnews.com
 
-Bucs LT Tristan Wirfs (toe) ruled out for Sunday's game vs. Dolphins reut.rs/48UjQXc
+How well do you remember what happened in 2025? Test your knowledge with 25 questions about some of the year’s biggest stories.
 
-[2025-12-27 05:35:10](https://bsky.app/profile/reuters.com/post/3maw5eau4ws2o)
-
----
-
-@japan.reuters.com
-
-終盤のニューヨーク外為市場では、円が軟化した。投資家は引き続き、介入の可能性を注視している。 bit.ly/3LiaLhS
-
-[2025-12-27 05:33:02](https://bsky.app/profile/japan.reuters.com/post/3maw5ag6nfu2u)
-
----
-
-@japan.reuters.com
-
-南米ベネズエラの刑務所当局は２５日、２０２４年の大統領選を巡る抗議活動後に拘束された９９人を釈放したと発表した。米政権がマドゥロ大統領への圧力を強めている中での動き。ただ、人権関連団体は実際の釈放者の数はさらに少ないとの見方を示した。 bit.ly/49jJhAC
-
-[2025-12-27 05:30:36](https://bsky.app/profile/japan.reuters.com/post/3maw543k66a2p)
+[2025-12-27 06:01:14](https://bsky.app/profile/apnews.com/post/3maw6stwvns2r)
 
 ---
 
 @usatoday.com
 
-Spoiler alert! When Will Byers comes out to his friends and family in the seventh episode of 'Stranger Things' Season 5, it doesn't feel profound.
+"Song Sung Blue" director had to decide what Neil Diamond songs made the movie starring Hugh Jackman and Kate Hudson, and what got cut.
 
-[2025-12-27 05:30:23](https://bsky.app/profile/usatoday.com/post/3maw53ojhhv2t)
+[2025-12-27 06:00:43](https://bsky.app/profile/usatoday.com/post/3maw6rwqy5t2o)
+
+---
+
+@cnbc.com
+
+Money expert Brian Page shares the timeless financial lessons he learned growing up with a frugal father. "While others rushed to buy the newest car or gadget, he was content with what he had," he writes. "That mindset made him the quintessential millionaire next door." 
+
+[2025-12-27 06:00:37](https://bsky.app/profile/cnbc.com/post/3maw6rr5x2n2e)
+
+---
+
+@bloomberg.com
+
+Donald Trump’s pardon of Juan Orlando Hernández, the former president of Honduras, toppled the capstone of one of the most ambitious narcotics investigations in the history of the Department of Justice.
+
+Read The Big Take ⬇️ 
+
+[2025-12-27 06:00:33](https://bsky.app/profile/bloomberg.com/post/3maw6rnbwex2z)
+
+---
+
+@reuters.com
+
+Large Brazilian union rejects Petrobras proposal to end strike reut.rs/4pVfvsT
+
+[2025-12-27 06:00:26](https://bsky.app/profile/reuters.com/post/3maw6rgar7p2y)
 
 ---
 
 @cnn.com
 
-A man was arrested after stabbing eight people and injuring seven others with what was believed to be bleach at a tire factory in central Japan, officials said. There was no immediate explanation of his motive.
-https://cnn.it/44KLK5y
+When the flu strikes, it can feel relentless: rising fever, hacking cough, stuffy nose and sore throat. For many people, relief can come in the form of Tamiflu.
 
-[2025-12-27 05:30:06](https://bsky.app/profile/cnn.com/post/3maw536s57e2c)
+But some people may not realize that Tamiflu isn’t the only option.
+https://cnn.it/3MRr5GQ
+
+[2025-12-27 06:00:14](https://bsky.app/profile/cnn.com/post/3maw6r2qrjq2a)
 
 ---
 
 @washingtonpost.com
 
-At least eight people were killed in an explosion at a mosque in Homs, Syria, according to authorities, who described it as a terrorist attack. The blast occurred in an area where most residents belong to the Alawite religious minority. 
+Diana Shams had been displaced seven times in two years by the war in Gaza. A ceasefire agreement offered hope that she and her family could return to their home.
 
-[2025-12-27 05:30:06](https://bsky.app/profile/washingtonpost.com/post/3maw536lxab2p)
+But in the final hours before the ceasefire took effect, their apartment was flattened.
+
+[2025-12-27 06:00:13](https://bsky.app/profile/washingtonpost.com/post/3maw6r25d6e23)
+
+---
+
+@nbcnews.com
+
+A Florida man fatally shot his wife, critically wounded his stepdaughter and then killed himself after the parents argued over changing the channel from “Monday Night Football,” authorities say.
+
+[2025-12-27 06:00:08](https://bsky.app/profile/nbcnews.com/post/3maw6qv2nka2n)
 
 ---
 
