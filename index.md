@@ -1,9 +1,9 @@
-# [2025-12-26 08:50 updated](2025_12_26.md)
+# [2025-12-26 09:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: Trump says the US has launched a military strike against Islamic State targets in northwestern Nigeria <a href="https://bsky.app/profile/bloomberg.com/post/3matxps2o6423" target="_blank">bloomberg.com</a> (2025-12-26 08:48:55)</span><span style="padding-right:50px;">総務省が26日発表した11月の完全失業率（季節調整値）は2.6％で、前月（2.6％）から横ばいだった。 bit.ly/4sfzjsn <a href="https://bsky.app/profile/japan.reuters.com/post/3matxohefg42q" target="_blank">japan.reuters.com</a> (2025-12-26 08:48:11)</span><span style="padding-right:50px;">BREAKING: Trump says the U.S. struck Islamic State targets in Nigeria after he said the group had targeted Christians in the country. <a href="https://bsky.app/profile/apnews.com/post/3matxnxq6yz2k" target="_blank">apnews.com</a> (2025-12-26 08:47:54)</span><span style="padding-right:50px;">BREAKING: U.S. strikes ISIS targets in Nigeria, Trump says, accusing them of killing Christians in the country. <a href="https://bsky.app/profile/nbcnews.com/post/3matxnrt73g23" target="_blank">nbcnews.com</a> (2025-12-26 08:47:48)</span><span style="padding-right:50px;">NEW: U.S. forces "launched a powerful and deadly strike against ISIS" in Nigeria's northwest, President Trump said. <a href="https://bsky.app/profile/axios.com/post/3matxiulvws2d" target="_blank">axios.com</a> (2025-12-26 08:45:03)</span>
+<span style="padding-right:50px;">総務省が２６日に発表した１２月の東京都区部消費者物価指数（生鮮食品を除く総合指数、コアＣＰＩ）は、前年比２．３％上昇した。伸び率は前月の２．８％から大きく縮小した。エネルギー価格が前年比下落に転じたほか、生鮮食品を除く食料の伸び率縮小が続いた。 bit.ly/49bi5np <a href="https://bsky.app/profile/japan.reuters.com/post/3matys3yqwz26" target="_blank">japan.reuters.com</a> (2025-12-26 09:08:07)</span><span style="padding-right:50px;">About 50 of Planned Parenthood’s nearly 600 clinics have shut down this year, largely because of Republican moves to cut the organization off from government money. As the closures mount, a different kind of organization is seeking to fill the void: anti-abortion pregnancy centers. <a href="https://bsky.app/profile/nytimes.com/post/3matympdhfs27" target="_blank">nytimes.com</a> (2025-12-26 09:05:06)</span><span style="padding-right:50px;">経済産業省が26日発表した11月鉱工業生産指数速報は前月比 2.6％低下となった。ロイターの事前予測調査では同 2.0％低下と予想されており、これを下回った。 bit.ly/4pRRtyJ <a href="https://bsky.app/profile/japan.reuters.com/post/3matymbt2or2q" target="_blank">japan.reuters.com</a> (2025-12-26 09:04:52)</span><span style="padding-right:50px;">米プロバスケットボール協会（ＮＢＡ）ナゲッツのフォワード、キャメロン・ジョンソン（２９）が膝の故障で４─６週間離脱する見込みとなった。米ＥＳＰＮが２５日に伝えた。 bit.ly/4quxWVe <a href="https://bsky.app/profile/japan.reuters.com/post/3matykf3ury2c" target="_blank">japan.reuters.com</a> (2025-12-26 09:03:48)</span><span style="padding-right:50px;">11月の完全失業率2.6％ 前月と変わらず横ばい https://news.web.nhk/newsweb/na/na-k10015014261000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matyj7zxpx24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 09:03:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 155.99 (🔺0.19 : 2025-12-25)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.79 (🔻42.39 : 2025-12-25)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3374.00 (🔻3.00 : 2025-12-25)</span><span style="padding-right:50px;">USD/JPY: 156.24 (🔺0.43 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,97 +32,100 @@
 
 ## News Headlines
 
-- US Launches Strikes Against Islamic State Militants in Nigeria
-- Trump Says US Struck Islamic State Targets in Nigeria After Group Targeted Christians
-- US Strikes ISIS Targets in Nigeria, Trump Says, Accusing Them of Killing Christians
-- US Forces Launch Deadly Strike Against ISIS in Nigeria's Northwest
-- Torrential Rains Unleash Flash Floods and Debris Flow in Southern California
-- Judge Blocks US from Detaining British Anti-Disinformation Campaigner
+- US Launches Strike Against Islamic State in Nigeria After Trump Accuses Group of Targeting Christians
+- Trump Announces US Strike on Islamic State in Nigeria, Accusing Group of Targeting Christians
+- US Strikes ISIS Targets in Nigeria, Trump Says, After Group Accused of Killing Christians
+- US Forces Launch Deadly Strike Against ISIS in Nigeria, Trump Says
+- President Trump Announces US Military Strike on Islamic State in Nigeria
+- US Launches Military Strike on ISIS in Nigeria After Trump Accuses Group of Targeting Christians
 
 
 ----
 
-@bloomberg.com
+@japan.reuters.com
 
-<strong><span style="color: red;">BREAKING:</span> Trump says the US has launched a military strike against Islamic State targets in northwestern Nigeria</strong>
+総務省が２６日に発表した１２月の東京都区部消費者物価指数（生鮮食品を除く総合指数、コアＣＰＩ）は、前年比２．３％上昇した。伸び率は前月の２．８％から大きく縮小した。エネルギー価格が前年比下落に転じたほか、生鮮食品を除く食料の伸び率縮小が続いた。 bit.ly/49bi5np
 
-[2025-12-26 08:48:55](https://bsky.app/profile/bloomberg.com/post/3matxps2o6423)
+[2025-12-26 09:08:07](https://bsky.app/profile/japan.reuters.com/post/3matys3yqwz26)
+
+---
+
+@nytimes.com
+
+About 50 of Planned Parenthood’s nearly 600 clinics have shut down this year, largely because of Republican moves to cut the organization off from government money. As the closures mount, a different kind of organization is seeking to fill the void: anti-abortion pregnancy centers.
+
+[2025-12-26 09:05:06](https://bsky.app/profile/nytimes.com/post/3matympdhfs27)
 
 ---
 
 @japan.reuters.com
 
-総務省が26日発表した11月の完全失業率（季節調整値）は2.6％で、前月（2.6％）から横ばいだった。 bit.ly/4sfzjsn
+経済産業省が26日発表した11月鉱工業生産指数速報は前月比 2.6％低下となった。ロイターの事前予測調査では同 2.0％低下と予想されており、これを下回った。 bit.ly/4pRRtyJ
 
-[2025-12-26 08:48:11](https://bsky.app/profile/japan.reuters.com/post/3matxohefg42q)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Trump says the U.S. struck Islamic State targets in Nigeria after he said the group had targeted Christians in the country.</strong>
-
-[2025-12-26 08:47:54](https://bsky.app/profile/apnews.com/post/3matxnxq6yz2k)
-
----
-
-@nbcnews.com
-
-<strong><span style="color: red;">BREAKING:</span> U.S. strikes ISIS targets in Nigeria, Trump says, accusing them of killing Christians in the country.</strong>
-
-[2025-12-26 08:47:48](https://bsky.app/profile/nbcnews.com/post/3matxnrt73g23)
-
----
-
-@axios.com
-
-NEW: U.S. forces "launched a powerful and deadly strike against ISIS" in Nigeria's northwest, President Trump said.
-
-[2025-12-26 08:45:03](https://bsky.app/profile/axios.com/post/3matxiulvws2d)
-
----
-
-@en.afp.com
-
-Torrential rains unleashed flash floods and warnings of debris flow across southern California's fire-scarred areas, as a series of Christmas storms pummeled the state, with downpours and high winds forecast through Friday. 
-u.afp.com/S8Pm
-
-[2025-12-26 08:45:02](https://bsky.app/profile/en.afp.com/post/3matxiswujm2x)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】クマに襲われ動物園職員がけが
-(2025-12-26 08:42) #ニュース
-
-[2025-12-26 08:42:32](https://bsky.app/profile/sokuho.news/post/3matxee2ufz2b)
+[2025-12-26 09:04:52](https://bsky.app/profile/japan.reuters.com/post/3matymbt2or2q)
 
 ---
 
 @japan.reuters.com
 
-＜０８：２０＞　寄り前の板状況、都築電気が買い優勢　古河機械金属は売り優勢 bit.ly/4phUS97
+米プロバスケットボール協会（ＮＢＡ）ナゲッツのフォワード、キャメロン・ジョンソン（２９）が膝の故障で４─６週間離脱する見込みとなった。米ＥＳＰＮが２５日に伝えた。 bit.ly/4quxWVe
 
-[2025-12-26 08:38:22](https://bsky.app/profile/japan.reuters.com/post/3matx4vt5cm2u)
-
----
-
-@reuters.com
-
-A US judge temporarily blocked the Trump administration from detaining British anti-disinformation campaigner Imran Ahmed, after the permanent resident sued officials over an entry ban for his role in what Washington argues is online censorship reut.rs/3YI0HBI
-
-[2025-12-26 08:37:54](https://bsky.app/profile/reuters.com/post/3matx4345ms2z)
+[2025-12-26 09:03:48](https://bsky.app/profile/japan.reuters.com/post/3matykf3ury2c)
 
 ---
 
-@cnn.com
+@nhknewsunofficial.bsky.social
 
-President Donald Trump said he’d ordered a deadly strike on Islamic State terrorists in Nigeria, who he has accused of persecuting Christians in the country. https://cnn.it/3Yf34fh
+11月の完全失業率2.6％ 前月と変わらず横ばい
+https://news.web.nhk/newsweb/na/na-k10015014261000
 
-[2025-12-26 08:36:42](https://bsky.app/profile/cnn.com/post/3matwzwwlov2o)
+[2025-12-26 09:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matyj7zxpx24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+東京23区 12月の消費者物価指数 前年同月比2.3％上昇
+https://news.web.nhk/newsweb/na/na-k10015014271000
+
+[2025-12-26 09:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3matyj3wea526)
+
+---
+
+@cnbc.com
+
+Asia markets set to open higher with holiday-thinned trade
+
+[2025-12-26 09:02:43](https://bsky.app/profile/cnbc.com/post/3matyigv7be2e)
+
+---
+
+@wsj.com
+
+Trump said the U.S. launched strikes against Islamic State militants in Nigeria, accusing them of targeting Christians.
+
+[2025-12-26 09:02:12](https://bsky.app/profile/wsj.com/post/3matyhkibo72c)
+
+---
+
+@usatoday.com
+
+The crash happened Dec. 24, killing five people, authorities said.
+
+[2025-12-26 09:00:48](https://bsky.app/profile/usatoday.com/post/3matyezkq352t)
+
+---
+
+@nikkei.com
+
+英チャールズ国王、「反移民・難民」に懸念　クリスマス恒例メッセージ（無料記事）
+www.nikkei.com/article/DGXZQO...
+ 
+「国内外で分断の声が聞かれる」。ロシアのウクライナ侵略など紛争が続き、イギリスを含む欧米で反移民・難民感情が広がる中、懸念を表明。国民に結束を呼びかけました。
+ 
+国王は政府の助言を受けずメッセージを考えたといい、動画ではウクライナ出身者らのコーラスも流れました。
+
+[2025-12-26 09:00:40](https://bsky.app/profile/nikkei.com/post/3matyerrlmi2x)
 
 ---
 
