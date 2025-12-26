@@ -1,9 +1,9 @@
-# [2025-12-26 17:30 updated](2025_12_26.md)
+# [2025-12-26 17:50 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ASIA GOLD Record gold rally cools Indian buying; China discounts narrow reut.rs/45d6gvK <a href="https://bsky.app/profile/reuters.com/post/3mauukumx7h2c" target="_blank">reuters.com</a> (2025-12-26 17:25:09)</span><span style="padding-right:50px;">フィリピン中央銀行は２６日、同国の今年の経常赤字が１５５億ドル（国内総生産＝ＧＤＰ＝比３．２％）になる見通しを示した。１０月時点の予測からやや縮小した。 bit.ly/45rnaXv <a href="https://bsky.app/profile/japan.reuters.com/post/3mauuku7iqs2n" target="_blank">japan.reuters.com</a> (2025-12-26 17:25:08)</span><span style="padding-right:50px;">スピードスケート男子500m 森重航が国内最高記録 五輪内定確実 https://news.web.nhk/newsweb/na/na-k10015014831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauudq7npv2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 17:21:07)</span><span style="padding-right:50px;">【ライブ】政府 来年度予算案決定 一般会計総額122兆3092億円 https://news.web.nhk/newsweb/na/na-k10015014121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauudlrau42s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 17:21:03)</span><span style="padding-right:50px;">中国国営中央テレビ（ＣＣＴＶ）は２６日、政府が半導体や先進製造業といった「ハードテクノロジー」分野に投資する３つのベンチャーキャピタル（ＶＣ）ファンドを立ち上げたと報じた。 bit.ly/3KNvYjF <a href="https://bsky.app/profile/japan.reuters.com/post/3mauubwlyro25" target="_blank">japan.reuters.com</a> (2025-12-26 17:20:09)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「何者かにより5～6人が工場敷地内で刃物で刺された」三島市の工場から119番通報 容疑者とみられる人物を確保=静岡県 (2025-12-26 17:42:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauvuo46b52b" target="_blank">sokuho.news</a> (2025-12-26 17:48:31)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】JR吉備線 大安寺～備前一宮間の踏切で自動車が立ち往生 岡山～総社間で運転を見合わせ【岡山 26日午後5時40分現在】 (2025-12-26 17:45:00) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mauvugqf4y26" target="_blank">sokuho.news</a> (2025-12-26 17:48:24)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】高市総理「強い経済と財政の持続可能性を両立」 過去最大122.3兆円の来年度予算案を閣議決定 (2025-12-26 17:45:37) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauvu4niq427" target="_blank">sokuho.news</a> (2025-12-26 17:48:13)</span><span style="padding-right:50px;">在日米軍 沖縄での単独パトロール 早ければ年内にも再開へ https://news.web.nhk/newsweb/na/na-k10015014931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauvtuv7xw2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 17:48:02)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】コメ平均販売価格が最高値更新 5kgあたり4337円 全国スーパー約1000店舗 (2025年12月26日 17:46) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauvsnvcga2x" target="_blank">sokuho.news</a> (2025-12-26 17:47:24)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.36 (🔺0.56 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.33 (🔺0.52 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,64 +32,58 @@
 
 ## News Headlines
 
-- Record gold rally cools Indian buying; China discounts narrow
-- Philippines central bank forecasts 155 billion dollar deficit for 2025
-- Japan speed skater breaks national record in 500m event, secures Olympic spot
-- Japan government approves 122.3 trillion yen budget for 2026
-- China launches three venture capital funds for hard technology sector
-- Average price of rice in Japan reaches record high of 4337 yen per 5 kg
+- Multiple people stabbed with knife in factory in Mishima, Shizuoka
+- Train halted due to car stuck at rail crossing in Okayama
+- Japanese government approves record defense budget of over 9 trillion yen
+- Record high rice prices in Japan, averaging 4337 yen per 5 kg
+- Malaysian ex-PM Najib Razak convicted in 1MDB corruption trial
+- South Korea charges 10 people over alleged chip technology leak to China
 
 
 ----
 
-@reuters.com
+@sokuho.news
 
-ASIA GOLD Record gold rally cools Indian buying; China discounts narrow reut.rs/45d6gvK
+🛎️JNNより【速報】です。
 
-[2025-12-26 17:25:09](https://bsky.app/profile/reuters.com/post/3mauukumx7h2c)
+【速報】「何者かにより5～6人が工場敷地内で刃物で刺された」三島市の工場から119番通報 容疑者とみられる人物を確保=静岡県
+(2025-12-26 17:42:00) #ニュース
 
----
-
-@japan.reuters.com
-
-フィリピン中央銀行は２６日、同国の今年の経常赤字が１５５億ドル（国内総生産＝ＧＤＰ＝比３．２％）になる見通しを示した。１０月時点の予測からやや縮小した。 bit.ly/45rnaXv
-
-[2025-12-26 17:25:08](https://bsky.app/profile/japan.reuters.com/post/3mauuku7iqs2n)
+[2025-12-26 17:48:31](https://bsky.app/profile/sokuho.news/post/3mauvuo46b52b)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-スピードスケート男子500m 森重航が国内最高記録 五輪内定確実
-https://news.web.nhk/newsweb/na/na-k10015014831000
+🛎️JNNより【速報】です。
 
-[2025-12-26 17:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauudq7npv2b)
+【速報】JR吉備線 大安寺～備前一宮間の踏切で自動車が立ち往生 岡山～総社間で運転を見合わせ【岡山 26日午後5時40分現在】
+(2025-12-26 17:45:00) #ニュース
 
----
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
 
-@nhknewsunofficial.bsky.social
-
-【ライブ】政府 来年度予算案決定 一般会計総額122兆3092億円
-https://news.web.nhk/newsweb/na/na-k10015014121000
-
-[2025-12-26 17:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauudlrau42s)
+[2025-12-26 17:48:24](https://bsky.app/profile/sokuho.news/post/3mauvugqf4y26)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-中国国営中央テレビ（ＣＣＴＶ）は２６日、政府が半導体や先進製造業といった「ハードテクノロジー」分野に投資する３つのベンチャーキャピタル（ＶＣ）ファンドを立ち上げたと報じた。 bit.ly/3KNvYjF
+🛎️JNNより【速報】です。
 
-[2025-12-26 17:20:09](https://bsky.app/profile/japan.reuters.com/post/3mauubwlyro25)
+【速報】高市総理「強い経済と財政の持続可能性を両立」 過去最大122.3兆円の来年度予算案を閣議決定
+(2025-12-26 17:45:37) #ニュース
+
+[2025-12-26 17:48:13](https://bsky.app/profile/sokuho.news/post/3mauvu4niq427)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-スーパーのコメ平均価格 5キロ4337円 最高値を更新
-https://news.web.nhk/newsweb/na/na-k10015014911000
+在日米軍 沖縄での単独パトロール 早ければ年内にも再開へ
+https://news.web.nhk/newsweb/na/na-k10015014931000
 
-[2025-12-26 17:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauu67oz6v2b)
+[2025-12-26 17:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauvtuv7xw2d)
 
 ---
 
@@ -98,34 +92,57 @@ https://news.web.nhk/newsweb/na/na-k10015014911000
 🔔ANNより【速報】です。
 
 【速報】コメ平均販売価格が最高値更新 5kgあたり4337円 全国スーパー約1000店舗
-(2025年12月26日 17:15) #ニュース
+(2025年12月26日 17:46) #ニュース
 
-[2025-12-26 17:15:22](https://bsky.app/profile/sokuho.news/post/3mautzeqr4z2b)
+[2025-12-26 17:47:24](https://bsky.app/profile/sokuho.news/post/3mauvsnvcga2x)
 
 ---
 
 @reuters.com
 
-Russian drones damage foreign-flagged vessels in southern ports, Ukraine says reut.rs/49aqbga
+Jailed former Malaysian Prime Minister Najib Razak was found guilty of abuse of power in the biggest trial yet in the multibillion-dollar 1MDB scandal, a ruling that could have significant political repercussions reut.rs/4pg2s4f
 
-[2025-12-26 17:15:10](https://bsky.app/profile/reuters.com/post/3mautyznsdi2i)
+[2025-12-26 17:47:20](https://bsky.app/profile/reuters.com/post/3mauvsjzlq22i)
 
 ---
 
-@sokuho.news
+@nikkei.com
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>スーパーのコメ平均価格 5キロ4337円 最高値を更新</strong><br><strong>(2025-12-26 17:14:35) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10015014911000</strong>
+NHK紅白歌合戦、大トリは白組「ミセス」　紅組最後はMISIAさん（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-26 17:15:00](https://bsky.app/profile/sokuho.news/post/3mautypp5iz2z)
+出場者の最後を飾る大トリにはロックバンド「Mrs.GREEN APPLE」が選ばれ、「GOOD DAY」を歌います。
+
+オープニングではミセスやアイナ・ジ・エンドさん、氷川きよしさんらが「放送100年紅白スペシャルメドレー」を披露します。
+
+[2025-12-26 17:46:39](https://bsky.app/profile/nikkei.com/post/3mauvrd6sj524)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-立民 安住幹事長“国民会議 政府と対等に議論できるなら参加”
-https://news.web.nhk/newsweb/na/na-k10015014841000
+被災地で指摘される“医療離脱” 医療から離れる住民たち
+https://news.web.nhk/newsweb/na/na-k10015014801000
 
-[2025-12-26 17:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mautti54ka2x)
+[2025-12-26 17:45:11](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauvor3lgc2v)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+水俣病被害者の療養手当 月額最大1500円増額方針 物価高に対応
+https://news.web.nhk/newsweb/na/na-k10015014941000
+
+[2025-12-26 17:45:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauvomwbzi2l)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+能登半島地震から2年 金継ぎがつなぐ 希望のかけら
+https://news.web.nhk/newsweb/na/na-k10015014821000
+
+[2025-12-26 17:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauvoioxhp26)
 
 ---
 
