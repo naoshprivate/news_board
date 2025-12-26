@@ -1,9 +1,9 @@
-# [2025-12-26 20:10 updated](2025_12_26.md)
+# [2025-12-26 20:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">２０２５年最後の週の米国株式市場は、最高値を更新してさらなる節目に近づき、強気基調で終えると期待されている。市場に影響を与えそうな注目材料は３０日発表の米連邦公開市場委員会（ＦＯＭＣ）議事要旨（１２月開催分）。年末のポートフォリオ調整も、取引が少ない中で市場の変動を大きくする可能性がある。 bit.ly/3Yda7oH <a href="https://bsky.app/profile/japan.reuters.com/post/3mav5ptsw5z2q" target="_blank">japan.reuters.com</a> (2025-12-26 20:09:00)</span><span style="padding-right:50px;">The original Betty Boop, the first four Nancy Drew books and Greta Garbo's first talkie are among the many works from 1930 that will be free to use, share and remake starting on Jan. 1. n.pr/4scrT9d <a href="https://bsky.app/profile/npr.org/post/3mav5koptvu23" target="_blank">npr.org</a> (2025-12-26 20:06:06)</span><span style="padding-right:50px;">ウクライナのクレバ副首相は２６日、オデーサ、ミコライウ両州で港に停泊していたスロバキア、パラオ、リベリア各船籍の船舶が損傷したと明らかにした。 bit.ly/4b6Vo6m <a href="https://bsky.app/profile/japan.reuters.com/post/3mav5iyyony2n" target="_blank">japan.reuters.com</a> (2025-12-26 20:05:10)</span><span style="padding-right:50px;"> Black economic empowerment has failed — except on the rugby pitch ft.trib.al/i53O4kD  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mav5ftvpuv2w" target="_blank">financialtimes.com</a> (2025-12-26 20:03:24)</span><span style="padding-right:50px;">Thai defence minister to attend truce talks with Cambodia, PM says reut.rs/4qllGpS <a href="https://bsky.app/profile/reuters.com/post/3mav5bpafuj2o" target="_blank">reuters.com</a> (2025-12-26 20:01:05)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】静岡・三島市 工場で複数人刺される 38歳の男を殺人未遂の疑いで現行犯逮捕 (2025年12月26日 20:26) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mav6u624pv2b" target="_blank">sokuho.news</a> (2025-12-26 20:29:18)</span><span style="padding-right:50px;">Shale drillers have turned the Permian Basin of West Texas and New Mexico into a pressure cooker that is literally bursting at the seams. <a href="https://bsky.app/profile/wsj.com/post/3mav6r66zf22s" target="_blank">wsj.com</a> (2025-12-26 20:27:37)</span><span style="padding-right:50px;">How silver is traded, from stocks and shares to coins and bars reut.rs/4joEKRR <a href="https://bsky.app/profile/reuters.com/post/3mav6mppmaz2k" target="_blank">reuters.com</a> (2025-12-26 20:25:08)</span><span style="padding-right:50px;">A man has died from injuries he sustained more than a month ago, when a UPS cargo plane crashed in Louisville, Kentucky, killing three crew members on board and 12 people on the ground, officials said Thursday. <a href="https://bsky.app/profile/nytimes.com/post/3mav6mnkx4j2r" target="_blank">nytimes.com</a> (2025-12-26 20:25:06)</span><span style="padding-right:50px;">Stock futures are little changed, Wall Street heads for winning week: Live updates <a href="https://bsky.app/profile/cnbc.com/post/3mav6hautn72d" target="_blank">cnbc.com</a> (2025-12-26 20:22:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.40 (🔺0.59 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔺0.55 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,101 +32,101 @@
 
 ## News Headlines
 
-- US stocks near record highs ahead of major economic data release
-- Classic works to enter public domain in 2026
-- Ukraine reports damage to ships in Odessa and Nikolaev regions
-- Thai defense minister to attend truce talks with Cambodia
-- Iwate prefecture uses drones and sensors to monitor wildlife
-- Toyota aims to produce over 10 million vehicles in 2026
+- Police Arrest Man Suspected of Stabbing Multiple People at Factory in Japan
+- Multiple Ships Damaged in Ukraine's Odessa Region, Vice Prime Minister Says
+- Russian Central Bank Cuts Forex Sales from 2026, Withdraws Some Support for Rouble
+- Original Works from 1930 to Enter Public Domain on January 1
+- Elusive Wild Cat Rediscovered in Thailand After 30-Year Absence
+- Russian President Putin Suggests Possibility of Exchanging Territory in Ukraine
 
 
 ----
 
-@japan.reuters.com
+@sokuho.news
 
-２０２５年最後の週の米国株式市場は、最高値を更新してさらなる節目に近づき、強気基調で終えると期待されている。市場に影響を与えそうな注目材料は３０日発表の米連邦公開市場委員会（ＦＯＭＣ）議事要旨（１２月開催分）。年末のポートフォリオ調整も、取引が少ない中で市場の変動を大きくする可能性がある。 bit.ly/3Yda7oH
+🔔ANNより【速報】です。
 
-[2025-12-26 20:09:00](https://bsky.app/profile/japan.reuters.com/post/3mav5ptsw5z2q)
+【速報】静岡・三島市 工場で複数人刺される 38歳の男を殺人未遂の疑いで現行犯逮捕
+(2025年12月26日 20:26) #ニュース
 
----
-
-@npr.org
-
-The original Betty Boop, the first four Nancy Drew books and Greta Garbo's first talkie are among the many works from 1930 that will be free to use, share and remake starting on Jan. 1. n.pr/4scrT9d
-
-[2025-12-26 20:06:06](https://bsky.app/profile/npr.org/post/3mav5koptvu23)
+[2025-12-26 20:29:18](https://bsky.app/profile/sokuho.news/post/3mav6u624pv2b)
 
 ---
 
-@japan.reuters.com
+@wsj.com
 
-ウクライナのクレバ副首相は２６日、オデーサ、ミコライウ両州で港に停泊していたスロバキア、パラオ、リベリア各船籍の船舶が損傷したと明らかにした。 bit.ly/4b6Vo6m
+Shale drillers have turned the Permian Basin of West Texas and New Mexico into a pressure cooker that is literally bursting at the seams.
 
-[2025-12-26 20:05:10](https://bsky.app/profile/japan.reuters.com/post/3mav5iyyony2n)
-
----
-
-@financialtimes.com
-
- Black economic empowerment has failed — except on the rugby pitch ft.trib.al/i53O4kD  | opinion
-
-[2025-12-26 20:03:24](https://bsky.app/profile/financialtimes.com/post/3mav5ftvpuv2w)
+[2025-12-26 20:27:37](https://bsky.app/profile/wsj.com/post/3mav6r66zf22s)
 
 ---
 
 @reuters.com
 
-Thai defence minister to attend truce talks with Cambodia, PM says reut.rs/4qllGpS
+How silver is traded, from stocks and shares to coins and bars reut.rs/4joEKRR
 
-[2025-12-26 20:01:05](https://bsky.app/profile/reuters.com/post/3mav5bpafuj2o)
-
----
-
-@nikkei.com
-
-鳥獣ハンター、石川県は登録8割増　羽咋市はジビエ活用で捕獲増
-www.nikkei.com/article/DGXZQO...
-
-2004年にツキノワグマが大量出没した石川県は狩猟免許の試験を年4回に増やすなど、新人ハンターの発掘に力を入れました。
-
-岩手県奥州市ではセンサーカメラやドローンを使ってクマやシカの生態を探り、捕獲作業の効率化を目指します。
-
-[2025-12-26 20:00:54](https://bsky.app/profile/nikkei.com/post/3mav5bf6n2y2m)
+[2025-12-26 20:25:08](https://bsky.app/profile/reuters.com/post/3mav6mppmaz2k)
 
 ---
 
-@japan.reuters.com
+@nytimes.com
 
-アイカ工業は２６日、インドでメラミン化粧板等の製造販売を行っているStylam Industriesを連結子会社化すると発表した。創業家株主からの株式譲渡と株式公開買い付けで４０―５３．１２％を取得する。株式取得とＴＯＢは１株２２５０ルピーで実施、取得価格は１５３億―２０３億ルピー（約２６７億―３５５億円）となる。 bit.ly/495Knzz
+A man has died from injuries he sustained more than a month ago, when a UPS cargo plane crashed in Louisville, Kentucky, killing three crew members on board and 12 people on the ground, officials said Thursday.
 
-[2025-12-26 20:00:52](https://bsky.app/profile/japan.reuters.com/post/3mav5bczkpd2c)
+[2025-12-26 20:25:06](https://bsky.app/profile/nytimes.com/post/3mav6mnkx4j2r)
 
 ---
 
 @cnbc.com
 
-Symone Austin was laid off from her six-figure tech job in January and reworked her budget immediately.
+Stock futures are little changed, Wall Street heads for winning week: Live updates
 
-Here's how she estimates she spends $1,000 less per month now, compared with before the layoff.
-
-[2025-12-26 20:00:31](https://bsky.app/profile/cnbc.com/post/3mav5ap4j3m2g)
+[2025-12-26 20:22:05](https://bsky.app/profile/cnbc.com/post/3mav6hautn72d)
 
 ---
 
-@washingtonpost.com
+@nhknewsunofficial.bsky.social
 
-As Gen Z seeks out phone-free experiences and extols going analog, some volunteer organizations have worked to recruit them and tailor programming to their interests.
+潜水艦用エンジンの検査不正問題 川崎重工を指名停止に 防衛省
+https://news.web.nhk/newsweb/na/na-k10015015201000
 
-[2025-12-26 20:00:13](https://bsky.app/profile/washingtonpost.com/post/3mav5a662362d)
+[2025-12-26 20:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav6fh35rw2x)
 
 ---
 
 @en.afp.com
 
-🇹🇭 An elusive wild cat long feared extinct in Thailand has been rediscovered three decades after the last recorded sighting, conservation authorities and an NGO said Friday. 
-➡️ u.afp.com/S8Wc
+🇪🇸 Thousands of runners dressed as Santa take part in Barcelona race
 
-[2025-12-26 20:00:13](https://bsky.app/profile/en.afp.com/post/3mav5a62u7c2k)
+Not flying on a sleigh, but out of the gates, thousands of runners dressed as Santa Claus take part in a five kilometre race to kick off Barcelona's Christmas festivities
+
+[2025-12-26 20:20:45](https://bsky.app/profile/en.afp.com/post/3mav6ev3csn26)
+
+---
+
+@japan.reuters.com
+
+香港の投資ファンド、オアシス・マネジメントが小林製薬株の保有比率を１３．０６％に引き上げたことが、２６日提出の変更報告書で分かった。前回報告では１０．１０％だった。 bit.ly/48WyHAx
+
+[2025-12-26 20:20:12](https://bsky.app/profile/japan.reuters.com/post/3mav6dv7g522n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+能登半島地震の死者 703人になる見通し 審査会が答申
+https://news.web.nhk/newsweb/na/na-k10015015151000
+
+[2025-12-26 20:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav6a3f7la2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ゼレンスキー大統領 “米トランプ大統領と近く首脳会談”
+https://news.web.nhk/newsweb/na/na-k10015015191000
+
+[2025-12-26 20:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav62qsgi62x)
 
 ---
 
