@@ -1,9 +1,9 @@
-# [2025-12-26 13:10 updated](2025_12_26.md)
+# [2025-12-26 13:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Ten years ago, the WSJ’s retirement columnist, Glenn Ruffenach, retired. He had it all worked out. Then life threw him a curveball. on.wsj.com/3Lf7P5C <a href="https://bsky.app/profile/wsj.com/post/3maugbk7kl22c" target="_blank">wsj.com</a> (2025-12-26 13:09:23)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】脚本家の内館牧子さん（77）が急性左心不全で死去 女性初の横綱審議委員を務める (2025年12月26日 13:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maug5sims42y" target="_blank">sokuho.news</a> (2025-12-26 13:07:18)</span><span style="padding-right:50px;">２０２５年は多くの海外中央銀行が利下げを重ねた一方、日銀は１２月１９日、同年２度目の利上げを決定した。この金融政策の内外格差を踏まえ、２５年は円高観測もきかれたが、実際は円安が進行。国際通貨基金（ＩＭＦ）が算出する円の名目実効為替レート（ナロー・ベース）は年初より約４％も減価した。対スイスフランや対ユーロで史上最安値を更新したほか対ドルでも日米金利差に照らせば年央以降、大幅にドル高・円安方向へ乖離（かいり）している。ドルは他通貨に対して軟調に推移しており、この乖離も円安によるものとみるのが妥当だ。 bit.ly/3Y8VB1l <a href="https://bsky.app/profile/japan.reuters.com/post/3maufzxwlyx2q" target="_blank">japan.reuters.com</a> (2025-12-26 13:05:10)</span><span style="padding-right:50px;">政府 来年度の税制改正大綱を閣議決定 https://news.web.nhk/newsweb/na/na-k10015014561000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maufwafqgf24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 13:03:02)</span><span style="padding-right:50px;">内館牧子さん死去　脚本家、女性初の横綱審議委員 www.nikkei.com/article/DGXZQO...  1988年に脚本家としてデビュー。代表作にNHK連続テレビ小説「ひらり」「私の青空」などがあります。 <a href="https://bsky.app/profile/nikkei.com/post/3maufrwin5q24" target="_blank">nikkei.com</a> (2025-12-26 13:00:40)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】中央道 韮崎IC～長坂ICの下り線が通行止め 事故の影響 山梨 (2025-12-26 13:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauhbidp3h2v" target="_blank">sokuho.news</a> (2025-12-26 13:27:15)</span><span style="padding-right:50px;">中国国家統計局は２６日、２０２４年の国内総生産（ＧＤＰ）を名目ベースで１３４兆８０００億元（１９兆２３００億ドル）に下方改定した。 bit.ly/45jWZC7 <a href="https://bsky.app/profile/japan.reuters.com/post/3mauh5nt7b52u" target="_blank">japan.reuters.com</a> (2025-12-26 13:25:07)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】中央道 韮崎IC～長坂ICの下り線が通行止め 事故の影響 (2025-12-26 13:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maugydk4og27" target="_blank">sokuho.news</a> (2025-12-26 13:22:08)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR湖西線運転再開 今後も「強風の状況により運転見合わせが発生する可能性」 (2025-12-26 13:14) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3maugvsyp3f2y" target="_blank">sokuho.news</a> (2025-12-26 13:20:44)</span><span style="padding-right:50px;">中国は２６日、２０２６─２０３０年に粗鋼生産量を抑制し、生産能力の違法な拡大を引き続き禁止すると発表した。 bit.ly/3MSaGSu <a href="https://bsky.app/profile/japan.reuters.com/post/3maugvnisa527" target="_blank">japan.reuters.com</a> (2025-12-26 13:20:38)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50904.99 (🔺377.86 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3381.00 (🔺4.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.05 (🔺0.25 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.48 (🔺309.35 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.16 (🔺0.36 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,102 +32,111 @@
 
 ## News Headlines
 
-- WSJ Retirement Columnist's New Chapter: A Curveball Thrown by Life
-- Legendary Scriptwriter Naoko Ito Passes Away at 77
-- Japan's BOJ Raises Interest Rates for the Second Time This Year
-- Japan's Government Approves 2026 Defense Budget with Increased Spending on Unmanned Equipment
-- China Pledges to Control Steel Output During 2026-2030 Period
-- Lakers' Austin Reaves Ruled Out with Calf Injury
+- Traffic on the Chuo Expressway from Nirasaki IC to Nagasaka IC is closed due to an accident in Yamanashi
+- China's GDP is revised downward to 13.8 trillion yuan ($1.93 trillion) in nominal terms for 2024
+- JR Kosei Line resumes operation, but may be suspended due to strong winds
+- China announces plans to control steel output during 2026-2030 period
+- Russia's Foreign Ministry spokesperson criticizes US for reviving piracy in the Caribbean
+- Government announces 2026 defense budget of 9.035 trillion yen, a 3.8% increase from the previous year
 
 
 ----
 
-@wsj.com
+@sokuho.news
 
-Ten years ago, the WSJ’s retirement columnist, Glenn Ruffenach, retired. He had it all worked out. Then life threw him a curveball. on.wsj.com/3Lf7P5C
+🛎️NNNより【速報】です。
 
-[2025-12-26 13:09:23](https://bsky.app/profile/wsj.com/post/3maugbk7kl22c)
+【速報】中央道 韮崎IC～長坂ICの下り線が通行止め 事故の影響 山梨
+(2025-12-26 13:21) #ニュース
+
+[2025-12-26 13:27:15](https://bsky.app/profile/sokuho.news/post/3mauhbidp3h2v)
+
+---
+
+@japan.reuters.com
+
+中国国家統計局は２６日、２０２４年の国内総生産（ＧＤＰ）を名目ベースで１３４兆８０００億元（１９兆２３００億ドル）に下方改定した。 bit.ly/45jWZC7
+
+[2025-12-26 13:25:07](https://bsky.app/profile/japan.reuters.com/post/3mauh5nt7b52u)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】脚本家の内館牧子さん（77）が急性左心不全で死去 女性初の横綱審議委員を務める
-(2025年12月26日 13:05) #ニュース
+【速報】中央道 韮崎IC～長坂ICの下り線が通行止め 事故の影響
+(2025-12-26 13:21) #ニュース
 
-[2025-12-26 13:07:18](https://bsky.app/profile/sokuho.news/post/3maug5sims42y)
+[2025-12-26 13:22:08](https://bsky.app/profile/sokuho.news/post/3maugydk4og27)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】JR湖西線運転再開 今後も「強風の状況により運転見合わせが発生する可能性」
+(2025-12-26 13:14) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-26 13:20:44](https://bsky.app/profile/sokuho.news/post/3maugvsyp3f2y)
 
 ---
 
 @japan.reuters.com
 
-２０２５年は多くの海外中央銀行が利下げを重ねた一方、日銀は１２月１９日、同年２度目の利上げを決定した。この金融政策の内外格差を踏まえ、２５年は円高観測もきかれたが、実際は円安が進行。国際通貨基金（ＩＭＦ）が算出する円の名目実効為替レート（ナロー・ベース）は年初より約４％も減価した。対スイスフランや対ユーロで史上最安値を更新したほか対ドルでも日米金利差に照らせば年央以降、大幅にドル高・円安方向へ乖離（かいり）している。ドルは他通貨に対して軟調に推移しており、この乖離も円安によるものとみるのが妥当だ。 bit.ly/3Y8VB1l
+中国は２６日、２０２６─２０３０年に粗鋼生産量を抑制し、生産能力の違法な拡大を引き続き禁止すると発表した。 bit.ly/3MSaGSu
 
-[2025-12-26 13:05:10](https://bsky.app/profile/japan.reuters.com/post/3maufzxwlyx2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-政府 来年度の税制改正大綱を閣議決定
-https://news.web.nhk/newsweb/na/na-k10015014561000
-
-[2025-12-26 13:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maufwafqgf24)
+[2025-12-26 13:20:38](https://bsky.app/profile/japan.reuters.com/post/3maugvnisa527)
 
 ---
 
-@nikkei.com
+@japan.reuters.com
 
-内館牧子さん死去　脚本家、女性初の横綱審議委員
-www.nikkei.com/article/DGXZQO...
+ロシア外務省のザハロワ報道官は２５日、ウクライナ紛争の解決に向けた米国との交渉はゆっくりではあるが着実に進展していると述べた。 bit.ly/44Gl6uz
 
-1988年に脚本家としてデビュー。代表作にNHK連続テレビ小説「ひらり」「私の青空」などがあります。
-
-[2025-12-26 13:00:40](https://bsky.app/profile/nikkei.com/post/3maufrwin5q24)
+[2025-12-26 13:20:11](https://bsky.app/profile/japan.reuters.com/post/3maugutw3i52u)
 
 ---
 
 @reuters.com
 
-China pledges to control steel output during 2026-2030 period reut.rs/4b4p83F
+Mainoo is the future of Man United, says Amorim reut.rs/4pdy3n1
 
-[2025-12-26 13:00:33](https://bsky.app/profile/reuters.com/post/3maufrq5aab2p)
+[2025-12-26 13:20:10](https://bsky.app/profile/reuters.com/post/3maugusitxl2k)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】群馬県利根・沼田地域に大雪警報
+(2025-12-26 13:18) #ニュース
+
+🟨警報注意報
+🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=100000
+
+[2025-12-26 13:18:48](https://bsky.app/profile/sokuho.news/post/3maugseh3ab2e)
 
 ---
 
 @japan.reuters.com
 
-政府は２６日、防衛力整備計画４年目に当たる２０２６年度の防衛予算案を前年比３．８％増の９兆０３５３億円に決定した。有人の武器に比べてコストが安い無人機の導入を各国が進める中、自衛隊も無人装備を大量に調達する。年明けに始まる通常国会で成立すれば過去最高を更新し、初めて９兆円台に乗せる。 bit.ly/4axD0TX
+総務省が２６日に発表した１２月の東京都区部消費者物価指数（生鮮食品を除く総合指数、コアＣＰＩ）は、前年比２．３％上昇した。伸び率は前月の２．８％から大きく縮小した。エネルギー価格が前年比下落に転じたほか、生鮮食品を除く食料の伸び率縮小が続いた。 bit.ly/49fk620
 
-[2025-12-26 13:00:26](https://bsky.app/profile/japan.reuters.com/post/3maufrjhm262q)
-
----
-
-@cnbc.com
-
-Dhruv Amin and Marcus Lowe shut down their developer marketplace in 2023 after predicting that the AI revolution would render their business model obsolete.
-
-Then, they shuttered the whole thing to start over from scratch — all due to ChatGPT, says Amin.
-
-[2025-12-26 13:00:20](https://bsky.app/profile/cnbc.com/post/3maufrdzigi25)
+[2025-12-26 13:15:13](https://bsky.app/profile/japan.reuters.com/post/3mauglxe4ov2c)
 
 ---
 
-@apnews.com
+@bloomberg.com
 
-De'Aaron Fox scored 29 points and the San Antonio Spurs defeated the Oklahoma City Thunder 117-102 on Thursday.
+Currency intervention by the India's central bank has become more unpredictable, discouraging rupee traders from making speculative bets. But it also risks a deeper slump in the currency.
 
-[2025-12-26 13:00:07](https://bsky.app/profile/apnews.com/post/3maufqxu7l22u)
-
----
-
-@cnn.com
-
-As millions of Americans hit the road or take to the skies for the holidays, another seasonal traveler is picking up speed: influenza. https://cnn.it/3YIqvxB
-
-[2025-12-26 13:00:05](https://bsky.app/profile/cnn.com/post/3maufqvnoia25)
+[2025-12-26 13:13:19](https://bsky.app/profile/bloomberg.com/post/3maugiksmh72w)
 
 ---
 
