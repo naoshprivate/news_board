@@ -1,9 +1,9 @@
-# [2025-12-26 15:50 updated](2025_12_26.md)
+# [2025-12-26 16:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】国道18号通行止め 長野市大倉～新潟県妙高市までの間 大雪による集中除雪のため う回路なし 長野 (2025-12-26 15:32:00) #ニュース  ❄️降雪量 🔗https://www.jma.go.jp/bosai/snow/#zoom:7/lat:37.90222/lon:139.02361/colordepth:normal/elements:snowf24h <a href="https://bsky.app/profile/sokuho.news/post/3mauoztdhec2b" target="_blank">sokuho.news</a> (2025-12-26 15:46:08)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大津市の住宅で白骨化遺体が見つかった事件 母親の生存装い年金を詐取した疑いで息子（50）を再逮捕 (2025-12-26 15:40:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauozjtqzf2z" target="_blank">sokuho.news</a> (2025-12-26 15:45:58)</span><span style="padding-right:50px;">午前中盤のインド株式市場は、年末の薄商いのなか下落している。アナリストは、株価の勢いは来年１月から始まる第４四半期に左右されるとしている。 bit.ly/3MP2Nxf <a href="https://bsky.app/profile/japan.reuters.com/post/3mauowtqui326" target="_blank">japan.reuters.com</a> (2025-12-26 15:44:28)</span><span style="padding-right:50px;">UAE welcomes Saudi efforts to support security in Yemen, foreign ministry says reut.rs/3Ni8gwv <a href="https://bsky.app/profile/reuters.com/post/3mauope4ihh2y" target="_blank">reuters.com</a> (2025-12-26 15:40:17)</span><span style="padding-right:50px;">ロシア外務省のザハロワ報道官は２５日、米国がベネズエラを海上封鎖することによってカリブ海で海賊行為を復活させていると批判し、トランプ米大統領のプラグマティズム（実用主義）が事態の収拾に役立つことを期待すると述べた。 bit.ly/4pa8RxG <a href="https://bsky.app/profile/japan.reuters.com/post/3mauop7dobg27" target="_blank">japan.reuters.com</a> (2025-12-26 15:40:12)</span>
+<span style="padding-right:50px;">韓国 ユン前大統領「非常戒厳」裁判 検察側が懲役10年を求刑 https://news.web.nhk/newsweb/na/na-k10015014771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauq5q4joh22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 16:06:11)</span><span style="padding-right:50px;">【栃木】お米券など食料品支援 自治体は https://news.web.nhk/newsweb/na/na-k10015014731000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauq5lo4a22d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 16:06:06)</span><span style="padding-right:50px;">When does a 40-something couple give up hope for a second child? After going into debt for failed IVF treatments, this couple decides whether to try one more time. on.wsj.com/3YMZ4CM <a href="https://bsky.app/profile/wsj.com/post/3mauq5inoj42u" target="_blank">wsj.com</a> (2025-12-26 16:06:05)</span><span style="padding-right:50px;">【鹿児島】お米券など食料品支援 自治体は https://news.web.nhk/newsweb/na/na-k10015014721000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauq5h565n26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 16:06:02)</span><span style="padding-right:50px;">Blaze at Russia's Temryuk is put out after drone attack reut.rs/3MLEa4B <a href="https://bsky.app/profile/reuters.com/post/3mauq3sqjlz2i" target="_blank">reuters.com</a> (2025-12-26 16:05:08)</span>
   </div>
 </div>
 
@@ -32,113 +32,103 @@
 
 ## News Headlines
 
-- Japan's Defense Ministry to Increase Number of Unmanned Equipment by 1,300 Units in Next Fiscal Year
-- China's Industrial Production Expected to Increase by 5.9% in 2025
-- Japan's GDP Growth Forecast Downgraded to 13.4 Trillion Yuan
-- Japan's Defense Spending to Increase by 3.8% to 9.035 Trillion Yen in 2026
-- India's Astrology Market Grows to $7 Billion
-- Norway's Traditional Dish Lutefisk Experiencing a Revival
+- South Korean Ex-President Yoon's Corruption Trial: Prosecutors Seek 10-Year Jail Term
+- Local Governments in Japan Offer Food Aid and Vouchers
+- Dallas Cowboys Edge Past Washington Commanders in Thrilling Match
+- Japan's Three-Year-Old University Faces Possible Closure Due to Staff Shortage
+- North Korean Leader Calls for Increased Missile Production
+- Russia's Temryuk Blaze Put Out After Drone Attack
 
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️JNNより【速報】です。
+韓国 ユン前大統領「非常戒厳」裁判 検察側が懲役10年を求刑
+https://news.web.nhk/newsweb/na/na-k10015014771000
 
-【速報】国道18号通行止め 長野市大倉～新潟県妙高市までの間 大雪による集中除雪のため う回路なし 長野
-(2025-12-26 15:32:00) #ニュース
-
-❄️降雪量
-🔗https://www.jma.go.jp/bosai/snow/#zoom:7/lat:37.90222/lon:139.02361/colordepth:normal/elements:snowf24h
-
-[2025-12-26 15:46:08](https://bsky.app/profile/sokuho.news/post/3mauoztdhec2b)
+[2025-12-26 16:06:11](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauq5q4joh22)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️JNNより【速報】です。
+【栃木】お米券など食料品支援 自治体は
+https://news.web.nhk/newsweb/na/na-k10015014731000
 
-【速報】大津市の住宅で白骨化遺体が見つかった事件 母親の生存装い年金を詐取した疑いで息子（50）を再逮捕
-(2025-12-26 15:40:00) #ニュース
-
-[2025-12-26 15:45:58](https://bsky.app/profile/sokuho.news/post/3mauozjtqzf2z)
+[2025-12-26 16:06:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauq5lo4a22d)
 
 ---
 
-@japan.reuters.com
+@wsj.com
 
-午前中盤のインド株式市場は、年末の薄商いのなか下落している。アナリストは、株価の勢いは来年１月から始まる第４四半期に左右されるとしている。 bit.ly/3MP2Nxf
+When does a 40-something couple give up hope for a second child? After going into debt for failed IVF treatments, this couple decides whether to try one more time. on.wsj.com/3YMZ4CM
 
-[2025-12-26 15:44:28](https://bsky.app/profile/japan.reuters.com/post/3mauowtqui326)
+[2025-12-26 16:06:05](https://bsky.app/profile/wsj.com/post/3mauq5inoj42u)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【鹿児島】お米券など食料品支援 自治体は
+https://news.web.nhk/newsweb/na/na-k10015014721000
+
+[2025-12-26 16:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauq5h565n26)
 
 ---
 
 @reuters.com
 
-UAE welcomes Saudi efforts to support security in Yemen, foreign ministry says reut.rs/3Ni8gwv
+Blaze at Russia's Temryuk is put out after drone attack reut.rs/3MLEa4B
 
-[2025-12-26 15:40:17](https://bsky.app/profile/reuters.com/post/3mauope4ihh2y)
+[2025-12-26 16:05:08](https://bsky.app/profile/reuters.com/post/3mauq3sqjlz2i)
+
+---
+
+@cnn.com
+
+A helicopter crashed on Tanzania’s Mount Kilimanjaro, killing five people, the civil aviation authority said on Thursday: https://cnn.it/4pZqjWU
+
+[2025-12-26 16:01:03](https://bsky.app/profile/cnn.com/post/3maupuicfoj25)
+
+---
+
+@nikkei.com
+
+短大、3年以内に50校撤退　介護・保育人材細る恐れ
+www.nikkei.com/article/DGXZQO...
+ 
+総合職などのキャリアを目指す女性が増え、四年制大学を志望する女性が増加。
+ 
+低収入などが課題とされてきた保育・介護職の敬遠が加速したことも、短大の魅力を低下させました。
+ 
+あるこども園園長は「保育士の求人に全く応募がない。人材育成の場が減ると運営が難しくなる。子育て世代の不利益が大きい」と気をもみます。
+
+[2025-12-26 16:00:39](https://bsky.app/profile/nikkei.com/post/3mauptrc4ro2c)
+
+---
+
+@reuters.com
+
+Blaze at Russia's Temryuk is put out after drone attack reut.rs/3YOYHYo
+
+[2025-12-26 16:00:38](https://bsky.app/profile/reuters.com/post/3mauptqednd2k)
+
+---
+
+@apnews.com
+
+Dak Prescott threw for 307 yards and two touchdowns, and the Dallas Cowboys blew most of an 18-point lead before squeezing past the Washington Commanders 30-23.
+
+[2025-12-26 16:00:35](https://bsky.app/profile/apnews.com/post/3mauptnepcq23)
 
 ---
 
 @japan.reuters.com
 
-ロシア外務省のザハロワ報道官は２５日、米国がベネズエラを海上封鎖することによってカリブ海で海賊行為を復活させていると批判し、トランプ米大統領のプラグマティズム（実用主義）が事態の収拾に役立つことを期待すると述べた。 bit.ly/4pa8RxG
+三陽商会 は２６日、２０２６年８月３１日を基準日に株式を３分割すると発表した。効力発生日は９月１日。併せて株式優待制度を見直し、分割後６００株以上を保有する株主に同社の商品を購入できるポイントを付与する。 bit.ly/4qqalVs
 
-[2025-12-26 15:40:12](https://bsky.app/profile/japan.reuters.com/post/3mauop7dobg27)
-
----
-
-@japan.reuters.com
-
-＜１５：２５＞　午後3時のドル156円前半へ上昇、上値追いは限定的 bit.ly/3MLD20R
-
-[2025-12-26 15:39:00](https://bsky.app/profile/japan.reuters.com/post/3mauon2mldb2n)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】国道18号 長野市大倉～新潟県妙高市までの間が通行止め 大雪による集中除雪のため う回路なし 長野
-(2025-12-26 15:32:00) #ニュース
-
-❄️降雪量
-🔗https://www.jma.go.jp/bosai/snow/#zoom:7/lat:37.90222/lon:139.02361/colordepth:normal/elements:snowf24h
-
-[2025-12-26 15:36:32](https://bsky.app/profile/sokuho.news/post/3mauoinakez2b)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】岡山市のトマト銀行 預金金利と短プラ2026年2月に引き上げへ【岡山】
-(2025-12-26 15:25) #ニュース
-
-[2025-12-26 15:35:37](https://bsky.app/profile/sokuho.news/post/3mauogzpedg2a)
-
----
-
-@nhknewsunofficial.bsky.social
-
-福島 東邦銀が大東銀の株式を新たに取得へ 連携検討か
-https://news.web.nhk/newsweb/na/na-k10015014751000
-
-[2025-12-26 15:33:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauocll2la2x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【沖縄】お米券など食料品支援 自治体は
-https://news.web.nhk/newsweb/na/na-k10015014711000
-
-[2025-12-26 15:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauocgxeyi2x)
+[2025-12-26 16:00:29](https://bsky.app/profile/japan.reuters.com/post/3maupti6q5d2c)
 
 ---
 
