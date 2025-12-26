@@ -1,9 +1,9 @@
-# [2025-12-27 07:10 updated](2025_12_27.md)
+# [2025-12-27 07:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">White House press secretary Karoline Leavitt said she is expecting a second child, a girl due in May reut.rs/3NjcpQP <a href="https://bsky.app/profile/reuters.com/post/3mawchvejo226" target="_blank">reuters.com</a> (2025-12-27 07:06:41)</span><span style="padding-right:50px;">Luluemon's got a few New Year's resolutions for 2026. 👀 <a href="https://bsky.app/profile/yahoofinance.com/post/3mawchbkrhq2f" target="_blank">yahoofinance.com</a> (2025-12-27 07:06:20)</span><span style="padding-right:50px;">President Volodymyr Zelenskiy said Russia was using ordinary apartment blocks on the territory of its ally Belarus to attack Ukrainian targets and circumvent Kyiv's defenses reut.rs/49cCN6i <a href="https://bsky.app/profile/reuters.com/post/3mawcgmtdvk26" target="_blank">reuters.com</a> (2025-12-27 07:05:59)</span><span style="padding-right:50px;">「トケマッチ」元代表ら 約2300本の腕時計を質入れや売却か https://news.web.nhk/newsweb/na/na-k10015014921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawcbgp3po2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 07:03:02)</span><span style="padding-right:50px;">Christmas came early for someone who purchased a Powerball ticket worth more than $1.8 billion at a gas station outside Little Rock, Arkansas. <a href="https://bsky.app/profile/apnews.com/post/3mawc5zoy4u2u" target="_blank">apnews.com</a> (2025-12-27 07:01:10)</span>
+<span style="padding-right:50px;">Man Utd move up to fifth with win over Newcastle reut.rs/3L37LG6 <a href="https://bsky.app/profile/reuters.com/post/3mawdivtetv2s" target="_blank">reuters.com</a> (2025-12-27 07:25:09)</span><span style="padding-right:50px;">＜為替＞ 円が軟化した。投資家は引き続き、介入の可能性を注視している。 bit.ly/48V2NnX <a href="https://bsky.app/profile/japan.reuters.com/post/3mawdamrpsi2c" target="_blank">japan.reuters.com</a> (2025-12-27 07:20:31)</span><span style="padding-right:50px;">A group of Venezuelans who were sent to a maximum-security El Salvador prison from the US and then returned to Venezuela called for the United States to comply with a ruling that would allow them to challenge their deportation in US courts reut.rs/4pVoB8V <a href="https://bsky.app/profile/reuters.com/post/3mawd33k4pc2u" target="_blank">reuters.com</a> (2025-12-27 07:17:25)</span><span style="padding-right:50px;">Venezuelans held in Salvadoran prison look to challenge deportation in US court reut.rs/4b3ixGQ <a href="https://bsky.app/profile/reuters.com/post/3mawcx6gbze2k" target="_blank">reuters.com</a> (2025-12-27 07:15:14)</span><span style="padding-right:50px;">米金融・債券市場では、１０年国債利回りが低下した。今週はクリスマス休暇で取引が短縮され、比較的静かな値動きとなった。 bit.ly/49boU8C <a href="https://bsky.app/profile/japan.reuters.com/post/3mawcwokzer25" target="_blank">japan.reuters.com</a> (2025-12-27 07:14:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48710.97 (🔻1.50 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23593.10 (🔻52.81 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.53 (🔺0.61 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.56 (🔺0.75 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48710.97 (🔻1.50 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23593.10 (🔻52.81 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.53 (🔺0.57 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.56 (🔺0.75 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,15 +32,71 @@
 
 ## News Headlines
 
-- White House press secretary Karoline Leavitt expecting second child
-- Lululemon's New Year's resolutions for 2026
-- Putin accused of using Belarusian apartment blocks to attack Ukraine
-- Israel becomes first country to formally recognize Somaliland
-- Blogger and Egyptian government critic arrives in UK after 12-year imprisonment
-- Israel becomes first country to formally recognize Somaliland as an independent state
+- Man Utd moves up to fifth with win over Newcastle
+- Dollar weakens as intervention concern persists
+- Venezuelans held in Salvadoran prison seek to challenge deportation in US court
+- US bond market sees 10-year Treasury yield drop
+- Polish jazz musician and pioneer Michał Urbaniak dies at 82
+- US president's expected meeting with Ukraine's Zelenskiy brings new tensions
 
 
 ----
+
+@reuters.com
+
+Man Utd move up to fifth with win over Newcastle reut.rs/3L37LG6
+
+[2025-12-27 07:25:09](https://bsky.app/profile/reuters.com/post/3mawdivtetv2s)
+
+---
+
+@japan.reuters.com
+
+＜為替＞ 円が軟化した。投資家は引き続き、介入の可能性を注視している。 bit.ly/48V2NnX
+
+[2025-12-27 07:20:31](https://bsky.app/profile/japan.reuters.com/post/3mawdamrpsi2c)
+
+---
+
+@reuters.com
+
+A group of Venezuelans who were sent to a maximum-security El Salvador prison from the US and then returned to Venezuela called for the United States to comply with a ruling that would allow them to challenge their deportation in US courts reut.rs/4pVoB8V
+
+[2025-12-27 07:17:25](https://bsky.app/profile/reuters.com/post/3mawd33k4pc2u)
+
+---
+
+@reuters.com
+
+Venezuelans held in Salvadoran prison look to challenge deportation in US court reut.rs/4b3ixGQ
+
+[2025-12-27 07:15:14](https://bsky.app/profile/reuters.com/post/3mawcx6gbze2k)
+
+---
+
+@japan.reuters.com
+
+米金融・債券市場では、１０年国債利回りが低下した。今週はクリスマス休暇で取引が短縮され、比較的静かな値動きとなった。 bit.ly/49boU8C
+
+[2025-12-27 07:14:57](https://bsky.app/profile/japan.reuters.com/post/3mawcwokzer25)
+
+---
+
+@nytimes.com
+
+Michał Urbaniak, a Polish violinist and jazz fusion pioneer who in the 1970s became one of the first jazz musicians from his Eastern bloc country to gain an international following, eventually playing with luminaries like Miles Davis, Wayne Shorter and Herbie Hancock, died on Saturday. He was 82.
+
+[2025-12-27 07:10:07](https://bsky.app/profile/nytimes.com/post/3mawcnzu5cd2y)
+
+---
+
+@wsj.com
+
+Just as AI can personalize ads online, bad actors are using it to glean personal information that enables them to create custom-tailored scams.
+
+[2025-12-27 07:10:04](https://bsky.app/profile/wsj.com/post/3mawcnwqh552r)
+
+---
 
 @reuters.com
 
@@ -63,65 +119,6 @@ Luluemon's got a few New Year's resolutions for 2026. 👀
 President Volodymyr Zelenskiy said Russia was using ordinary apartment blocks on the territory of its ally Belarus to attack Ukrainian targets and circumvent Kyiv's defenses reut.rs/49cCN6i
 
 [2025-12-27 07:05:59](https://bsky.app/profile/reuters.com/post/3mawcgmtdvk26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-「トケマッチ」元代表ら 約2300本の腕時計を質入れや売却か
-https://news.web.nhk/newsweb/na/na-k10015014921000
-
-[2025-12-27 07:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawcbgp3po2b)
-
----
-
-@apnews.com
-
-Christmas came early for someone who purchased a Powerball ticket worth more than $1.8 billion at a gas station outside Little Rock, Arkansas.
-
-[2025-12-27 07:01:10](https://bsky.app/profile/apnews.com/post/3mawc5zoy4u2u)
-
----
-
-@reuters.com
-
-Fire add M Robin Lod on multi-year free-agent deal reut.rs/4qlIE02
-
-[2025-12-27 07:01:02](https://bsky.app/profile/reuters.com/post/3mawc5sdbcx23)
-
----
-
-@usatoday.com
-
-"Rightside Up," a two-hour finale for "Stranger Things" Season 5, debuts on New Year's Eve.
-
-[2025-12-27 07:00:21](https://bsky.app/profile/usatoday.com/post/3mawc4klrjf25)
-
----
-
-@nbcnews.com
-
-Over the last year, these online witches have been credited with saving weddings, securing jobs, and influencing basketball games.
-
-[2025-12-27 07:00:20](https://bsky.app/profile/nbcnews.com/post/3mawc4jzfjw23)
-
----
-
-@cnn.com
-
-A couple ventured down a nondescript dirt road to snap photos. Instead, they stumbled across a grisly discovery among smattered shrubs and parched soil: the decomposed remains of a little girl. https://cnn.it/4sfTJBx
-
-[2025-12-27 07:00:13](https://bsky.app/profile/cnn.com/post/3mawc4dehrk2q)
-
----
-
-@washingtonpost.com
-
-More than 800 storm victims around Helene-battered western North Carolina have applied for FEMA’s voluntary program that would enable the government to buy out their properties.
-
-So far, they say, not a single approval has come through.
-
-[2025-12-27 07:00:13](https://bsky.app/profile/washingtonpost.com/post/3mawc4d3qmq2e)
 
 ---
 
