@@ -1,9 +1,9 @@
-# [2025-12-27 01:10 updated](2025_12_27.md)
+# [2025-12-27 01:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The U.S. has launched a "deadly strike" against Islamic State fighters in northwest Nigeria, according to Trump. And, holiday spending was higher than expected this year. n.pr/3N1DpnQ <a href="https://bsky.app/profile/npr.org/post/3mavoitdpca2m" target="_blank">npr.org</a> (2025-12-27 01:09:18)</span><span style="padding-right:50px;">New York City’s John F. Kennedy International Airport is the hardest hit, with more than 300 flights scheduled for Friday already cancelled. <a href="https://bsky.app/profile/forbes.com/post/3mavobciacl2q" target="_blank">forbes.com</a> (2025-12-27 01:05:05)</span><span style="padding-right:50px;">Arsenal is sitting in first place ahead of the glut of Christmas matches. But that rarely bodes well for the club—especially when Manchester City is lurking. on.wsj.com/4b7fkGe <a href="https://bsky.app/profile/wsj.com/post/3mavo7td7zh2t" target="_blank">wsj.com</a> (2025-12-27 01:04:15)</span><span style="padding-right:50px;">The family of Imani Dia Smith, 26, said she was stabbed to death by her boyfriend. Officials said the man charged in her death knew Smith, but they did not elaborate. <a href="https://bsky.app/profile/nbcnews.com/post/3mavo3sdzjz2k" target="_blank">nbcnews.com</a> (2025-12-27 01:02:00)</span><span style="padding-right:50px;">Courts thus far have come to different conclusions about whether such policies are constitutional, which could pave the way for a Supreme Court case. <a href="https://bsky.app/profile/usatoday.com/post/3mavo2ffyjq2h" target="_blank">usatoday.com</a> (2025-12-27 01:01:13)</span>
+<span style="padding-right:50px;">Liverpool's Slot hails Ekitike impact at both ends of the pitch reut.rs/4pPiuTD <a href="https://bsky.app/profile/reuters.com/post/3mavpfauzms2r" target="_blank">reuters.com</a> (2025-12-27 01:25:11)</span><span style="padding-right:50px;">There are two risks the market isn’t pricing in heading into the new year, according to Apollo’s Torsten Slok <a href="https://bsky.app/profile/cnbc.com/post/3mavpbatkhg25" target="_blank">cnbc.com</a> (2025-12-27 01:22:57)</span><span style="padding-right:50px;">🇮🇱 Israel has formally recognised Somaliland as an "independent and sovereign state" and signed an agreement to establish diplomatic ties between the two countries, the office of Prime Minister Benjamin Netanyahu said.  ➡️ u.afp.com/S8mN <a href="https://bsky.app/profile/en.afp.com/post/3mavp3z67jw2y" target="_blank">en.afp.com</a> (2025-12-27 01:20:01)</span><span style="padding-right:50px;">The maker of Sally Hansen nail polishes and Marc Jacobs perfumes is resetting its supply chain to respond to fast-changing demand. <a href="https://bsky.app/profile/wsj.com/post/3mavonqzz7x2c" target="_blank">wsj.com</a> (2025-12-27 01:12:03)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】関越道の事故 50台以上が絡み1人死亡確認 月夜野IC～湯沢IC通行止め続く (2025年12月27日 01:10) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mavolrqc7a2e" target="_blank">sokuho.news</a> (2025-12-27 01:10:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48692.31 (🔻20.16 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23624.17 (🔻21.74 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.41 (🔺1.45 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.50 (🔺0.69 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48680.16 (🔻32.31 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23618.26 (🔻27.64 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.98 (🔺1.02 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.64 (🔺0.84 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,96 +32,98 @@
 
 ## News Headlines
 
-- US Forces Launch Deadly Strike Against ISIS in Nigeria
-- US Christmas Holiday Spending Higher Than Expected
-- Arsenal Sits at Top of League Table Ahead of Christmas Matches
-- Malaysian Ex-PM Najib Razak Sentenced to 15 Years in Prison
-- US Forces Strike Islamic State Targets in Nigeria After Trump Threats
-- Winter Storm to Bring Heavy Snow and Ice to Northeast US
+- Liverpool's Slot hails Ekitike impact at both ends of the pitch
+- Israel formally recognizes Somaliland as independent state, establishes diplomatic ties
+- Malaysia's former PM Najib Razak sentenced to 15 years in jail for abuse of power, money laundering
+- New York City's John F. Kennedy International Airport hit by over 300 flight cancellations due to winter storm
+- U.S. forces launch 'deadly strike' against Islamic State fighters in northwest Nigeria
+- Will Arnett finds humor in latest role as stressed-out dude, but it's no laughing matter
 
 
 ----
 
-@npr.org
-
-The U.S. has launched a "deadly strike" against Islamic State fighters in northwest Nigeria, according to Trump. And, holiday spending was higher than expected this year. n.pr/3N1DpnQ
-
-[2025-12-27 01:09:18](https://bsky.app/profile/npr.org/post/3mavoitdpca2m)
-
----
-
-@forbes.com
-
-New York City’s John F. Kennedy International Airport is the hardest hit, with more than 300 flights scheduled for Friday already cancelled.
-
-[2025-12-27 01:05:05](https://bsky.app/profile/forbes.com/post/3mavobciacl2q)
-
----
-
-@wsj.com
-
-Arsenal is sitting in first place ahead of the glut of Christmas matches. But that rarely bodes well for the club—especially when Manchester City is lurking. on.wsj.com/4b7fkGe
-
-[2025-12-27 01:04:15](https://bsky.app/profile/wsj.com/post/3mavo7td7zh2t)
-
----
-
-@nbcnews.com
-
-The family of Imani Dia Smith, 26, said she was stabbed to death by her boyfriend. Officials said the man charged in her death knew Smith, but they did not elaborate.
-
-[2025-12-27 01:02:00](https://bsky.app/profile/nbcnews.com/post/3mavo3sdzjz2k)
-
----
-
-@usatoday.com
-
-Courts thus far have come to different conclusions about whether such policies are constitutional, which could pave the way for a Supreme Court case.
-
-[2025-12-27 01:01:13](https://bsky.app/profile/usatoday.com/post/3mavo2ffyjq2h)
-
----
-
 @reuters.com
 
-Orlando City sign Brazilian teenager Luis Otavio reut.rs/3L8NzTc
+Liverpool's Slot hails Ekitike impact at both ends of the pitch reut.rs/4pPiuTD
 
-[2025-12-27 01:00:47](https://bsky.app/profile/reuters.com/post/3mavnzmirzy2y)
-
----
-
-@washingtonpost.com
-
-Over the course of his 30-year acting career, Will Arnett has become a welcome screen presence playing stressed-out dudes driven to extreme — and extremely funny — coping methods. 
-
-In his latest role, though, being funny is how he copes.
-
-[2025-12-27 01:00:33](https://bsky.app/profile/washingtonpost.com/post/3mavnz6uack2n)
+[2025-12-27 01:25:11](https://bsky.app/profile/reuters.com/post/3mavpfauzms2r)
 
 ---
 
-@apnews.com
+@cnbc.com
 
-The month after Christmas has been dubbed "Returnuary" for a reason.
+There are two risks the market isn’t pricing in heading into the new year, according to Apollo’s Torsten Slok
 
-[2025-12-27 01:00:15](https://bsky.app/profile/apnews.com/post/3mavnynry6l25)
+[2025-12-27 01:22:57](https://bsky.app/profile/cnbc.com/post/3mavpbatkhg25)
 
 ---
 
 @en.afp.com
 
-🇹🇭 An elusive wild cat long feared extinct in Thailand has been rediscovered three decades after the last recorded sighting, conservation authorities and an NGO said Friday. 
-➡️ u.afp.com/S8Wc
+🇮🇱 Israel has formally recognised Somaliland as an "independent and sovereign state" and signed an agreement to establish diplomatic ties between the two countries, the office of Prime Minister Benjamin Netanyahu said. 
+➡️ u.afp.com/S8mN
 
-[2025-12-27 01:00:12](https://bsky.app/profile/en.afp.com/post/3mavnyku5ob2s)
+[2025-12-27 01:20:01](https://bsky.app/profile/en.afp.com/post/3mavp3z67jw2y)
 
 ---
 
-@aljazeera.com
+@wsj.com
 
-Drone attacks hit fuel market in city that serves as headquarters for RSF's alternative government.
+The maker of Sally Hansen nail polishes and Marc Jacobs perfumes is resetting its supply chain to respond to fast-changing demand.
 
-[2025-12-27 01:00:02](https://bsky.app/profile/aljazeera.com/post/3mavnybe2gn27)
+[2025-12-27 01:12:03](https://bsky.app/profile/wsj.com/post/3mavonqzz7x2c)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】関越道の事故 50台以上が絡み1人死亡確認 月夜野IC～湯沢IC通行止め続く
+(2025年12月27日 01:10) #ニュース
+
+[2025-12-27 01:10:57](https://bsky.app/profile/sokuho.news/post/3mavolrqc7a2e)
+
+---
+
+@en.afp.com
+
+🇺🇸 🇳🇬 Nigeria has signalled that more strikes against jihadist groups were expected after a Christmas Day bombardment by US forces against militants in the north of the country, which it said was a joint operation with its military. 
+➡️ u.afp.com/S8mc
+
+[2025-12-27 01:10:01](https://bsky.app/profile/en.afp.com/post/3mavok52fwg2y)
+
+---
+
+@reuters.com
+
+On a day of reckoning for arguably Malaysia's most divisive politician, Najib was found guilty of all four counts of abuse of power and all 21 money laundering charges, after a marathon legal battle that included multiple appeals and a partial royal pardon reut.rs/44MxjOp
+
+[2025-12-27 01:09:52](https://bsky.app/profile/reuters.com/post/3mavom4twkk2i)
+
+---
+
+@reuters.com
+
+During a verdict that took five hours to deliver, high court judge Collin Lawrence Sequerah said Najib's contention that he was repeatedly deceived by others at 1MDB was implausible and to believe that would 'stretch the imagination into the realms of pure fantasy'
+
+[2025-12-27 01:09:52](https://bsky.app/profile/reuters.com/post/3mavolag7a22i)
+
+---
+
+@reuters.com
+
+More than $1 billion allegedly made its way into accounts linked to 72-year-old Najib, who was first imprisoned in 2022 in another 1MDB case and has long insisted he's been made the scapegoat for Malaysia's biggest-ever financial scandal
+
+[2025-12-27 01:09:52](https://bsky.app/profile/reuters.com/post/3mavokoaa6k2i)
+
+---
+
+@reuters.com
+
+Here are the details of the sprawling 1MDB scandal and cases brought against Razak reut.rs/4sas1q5
+
+[2025-12-27 01:09:52](https://bsky.app/profile/reuters.com/post/3mavokiphwk2i)
 
 ---
 
