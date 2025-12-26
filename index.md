@@ -1,9 +1,9 @@
-# [2025-12-26 20:30 updated](2025_12_26.md)
+# [2025-12-26 20:50 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】静岡・三島市 工場で複数人刺される 38歳の男を殺人未遂の疑いで現行犯逮捕 (2025年12月26日 20:26) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mav6u624pv2b" target="_blank">sokuho.news</a> (2025-12-26 20:29:18)</span><span style="padding-right:50px;">Shale drillers have turned the Permian Basin of West Texas and New Mexico into a pressure cooker that is literally bursting at the seams. <a href="https://bsky.app/profile/wsj.com/post/3mav6r66zf22s" target="_blank">wsj.com</a> (2025-12-26 20:27:37)</span><span style="padding-right:50px;">How silver is traded, from stocks and shares to coins and bars reut.rs/4joEKRR <a href="https://bsky.app/profile/reuters.com/post/3mav6mppmaz2k" target="_blank">reuters.com</a> (2025-12-26 20:25:08)</span><span style="padding-right:50px;">A man has died from injuries he sustained more than a month ago, when a UPS cargo plane crashed in Louisville, Kentucky, killing three crew members on board and 12 people on the ground, officials said Thursday. <a href="https://bsky.app/profile/nytimes.com/post/3mav6mnkx4j2r" target="_blank">nytimes.com</a> (2025-12-26 20:25:06)</span><span style="padding-right:50px;">Stock futures are little changed, Wall Street heads for winning week: Live updates <a href="https://bsky.app/profile/cnbc.com/post/3mav6hautn72d" target="_blank">cnbc.com</a> (2025-12-26 20:22:05)</span>
+<span style="padding-right:50px;">振り出しの名古屋駅前再開発、名鉄に3シナリオ www.nikkei.com/article/DGXZQO...  規模を縮小して自力で開発を続けるのか、ともに名古屋駅を構成し財務が強固なJR東海を巻き込むのか。  地元勢を巻き込んだ「オール名古屋」での大型開発を期待する声も少なくありません。  ストップした再開発計画がどうなってしまうのか探りました。 <a href="https://bsky.app/profile/nikkei.com/post/3mav7t7iegs22" target="_blank">nikkei.com</a> (2025-12-26 20:46:40)</span><span style="padding-right:50px;">防衛省は２６日、潜水艦用エンジンの検査で長期にわたる不正があったとして、川崎重工業を来年３月１１日まで２カ月半指名停止にすると発表した。 bit.ly/4pgGqye <a href="https://bsky.app/profile/japan.reuters.com/post/3mav7qlos272f" target="_blank">japan.reuters.com</a> (2025-12-26 20:45:12)</span><span style="padding-right:50px;">🇮🇷 Iran's women bikers take the road despite legal, social obstacles  Maryam Ghelich has helped hundreds of women to navigate not only Tehran's gridlocked streets but the barriers facing female motorcyclists in the conservative Islamic republic. <a href="https://bsky.app/profile/en.afp.com/post/3mav7ims4uk2u" target="_blank">en.afp.com</a> (2025-12-26 20:40:45)</span><span style="padding-right:50px;">東邦銀行は２６日、ＨＳホールディングス（旧澤田ホールディングス）が保有する大東銀行の株式の大半（訂正）を取得すると発表した。取得後の持ち株比率は１９．６７％になる見込み。福島県を営業基盤とする両行が健全な競合関係を維持しながら、互いの強みを生かして連携することが重要と判断した。 bit.ly/4pRedPt <a href="https://bsky.app/profile/japan.reuters.com/post/3mav7hq56sf22" target="_blank">japan.reuters.com</a> (2025-12-26 20:40:15)</span><span style="padding-right:50px;">Alaska Airlines is the latest airline to ground its planes because of an IT meltdown. We talked to industry leaders about why these systems fail, and what airlines can learn from past disruptions. n.pr/49t1BZ2 <a href="https://bsky.app/profile/npr.org/post/3mav7ebr45h2x" target="_blank">npr.org</a> (2025-12-26 20:38:19)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔺0.55 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.38 (🔺0.57 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,101 +32,105 @@
 
 ## News Headlines
 
-- Police Arrest Man Suspected of Stabbing Multiple People at Factory in Japan
-- Multiple Ships Damaged in Ukraine's Odessa Region, Vice Prime Minister Says
-- Russian Central Bank Cuts Forex Sales from 2026, Withdraws Some Support for Rouble
-- Original Works from 1930 to Enter Public Domain on January 1
-- Elusive Wild Cat Rediscovered in Thailand After 30-Year Absence
-- Russian President Putin Suggests Possibility of Exchanging Territory in Ukraine
+- Nagoya Station redevelopment plan scrapped, or downsized, by JR East and Kintetsu
+- Japan's Kawasaki Heavy Industries ordered to halt submarine engine inspection for 2.5 months
+- Tokyo Stock Market Continues to Rise, Closes at 50,750.39 JPY
+- Eneos to Cancel Some New Graduate Hires, Including Administrative and IT Staff
+- South Korean Prosecutors Seek 10-Year Jail Term for Ex-President Yoon Suk-yeol
+- Head of Ukraine's Zelenskyy to Meet with Trump in the Near Future, Signaling Progress in Talks to End Russia-Ukraine War
 
 
 ----
 
-@sokuho.news
+@nikkei.com
 
-🔔ANNより【速報】です。
+振り出しの名古屋駅前再開発、名鉄に3シナリオ
+www.nikkei.com/article/DGXZQO...
 
-【速報】静岡・三島市 工場で複数人刺される 38歳の男を殺人未遂の疑いで現行犯逮捕
-(2025年12月26日 20:26) #ニュース
+規模を縮小して自力で開発を続けるのか、ともに名古屋駅を構成し財務が強固なJR東海を巻き込むのか。
 
-[2025-12-26 20:29:18](https://bsky.app/profile/sokuho.news/post/3mav6u624pv2b)
+地元勢を巻き込んだ「オール名古屋」での大型開発を期待する声も少なくありません。
 
----
+ストップした再開発計画がどうなってしまうのか探りました。
 
-@wsj.com
-
-Shale drillers have turned the Permian Basin of West Texas and New Mexico into a pressure cooker that is literally bursting at the seams.
-
-[2025-12-26 20:27:37](https://bsky.app/profile/wsj.com/post/3mav6r66zf22s)
-
----
-
-@reuters.com
-
-How silver is traded, from stocks and shares to coins and bars reut.rs/4joEKRR
-
-[2025-12-26 20:25:08](https://bsky.app/profile/reuters.com/post/3mav6mppmaz2k)
-
----
-
-@nytimes.com
-
-A man has died from injuries he sustained more than a month ago, when a UPS cargo plane crashed in Louisville, Kentucky, killing three crew members on board and 12 people on the ground, officials said Thursday.
-
-[2025-12-26 20:25:06](https://bsky.app/profile/nytimes.com/post/3mav6mnkx4j2r)
-
----
-
-@cnbc.com
-
-Stock futures are little changed, Wall Street heads for winning week: Live updates
-
-[2025-12-26 20:22:05](https://bsky.app/profile/cnbc.com/post/3mav6hautn72d)
-
----
-
-@nhknewsunofficial.bsky.social
-
-潜水艦用エンジンの検査不正問題 川崎重工を指名停止に 防衛省
-https://news.web.nhk/newsweb/na/na-k10015015201000
-
-[2025-12-26 20:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav6fh35rw2x)
-
----
-
-@en.afp.com
-
-🇪🇸 Thousands of runners dressed as Santa take part in Barcelona race
-
-Not flying on a sleigh, but out of the gates, thousands of runners dressed as Santa Claus take part in a five kilometre race to kick off Barcelona's Christmas festivities
-
-[2025-12-26 20:20:45](https://bsky.app/profile/en.afp.com/post/3mav6ev3csn26)
+[2025-12-26 20:46:40](https://bsky.app/profile/nikkei.com/post/3mav7t7iegs22)
 
 ---
 
 @japan.reuters.com
 
-香港の投資ファンド、オアシス・マネジメントが小林製薬株の保有比率を１３．０６％に引き上げたことが、２６日提出の変更報告書で分かった。前回報告では１０．１０％だった。 bit.ly/48WyHAx
+防衛省は２６日、潜水艦用エンジンの検査で長期にわたる不正があったとして、川崎重工業を来年３月１１日まで２カ月半指名停止にすると発表した。 bit.ly/4pgGqye
 
-[2025-12-26 20:20:12](https://bsky.app/profile/japan.reuters.com/post/3mav6dv7g522n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-能登半島地震の死者 703人になる見通し 審査会が答申
-https://news.web.nhk/newsweb/na/na-k10015015151000
-
-[2025-12-26 20:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav6a3f7la2b)
+[2025-12-26 20:45:12](https://bsky.app/profile/japan.reuters.com/post/3mav7qlos272f)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@en.afp.com
 
-ゼレンスキー大統領 “米トランプ大統領と近く首脳会談”
-https://news.web.nhk/newsweb/na/na-k10015015191000
+🇮🇷 Iran's women bikers take the road despite legal, social obstacles
 
-[2025-12-26 20:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav62qsgi62x)
+Maryam Ghelich has helped hundreds of women to navigate not only Tehran's gridlocked streets but the barriers facing female motorcyclists in the conservative Islamic republic.
+
+[2025-12-26 20:40:45](https://bsky.app/profile/en.afp.com/post/3mav7ims4uk2u)
+
+---
+
+@japan.reuters.com
+
+東邦銀行は２６日、ＨＳホールディングス（旧澤田ホールディングス）が保有する大東銀行の株式の大半（訂正）を取得すると発表した。取得後の持ち株比率は１９．６７％になる見込み。福島県を営業基盤とする両行が健全な競合関係を維持しながら、互いの強みを生かして連携することが重要と判断した。 bit.ly/4pRedPt
+
+[2025-12-26 20:40:15](https://bsky.app/profile/japan.reuters.com/post/3mav7hq56sf22)
+
+---
+
+@npr.org
+
+Alaska Airlines is the latest airline to ground its planes because of an IT meltdown. We talked to industry leaders about why these systems fail, and what airlines can learn from past disruptions. n.pr/49t1BZ2
+
+[2025-12-26 20:38:19](https://bsky.app/profile/npr.org/post/3mav7ebr45h2x)
+
+---
+
+@japan.reuters.com
+
+２０２０年に韓国の海洋水産省職員が北朝鮮軍に射殺された事件を巡り、事実関係を隠蔽・操作したとして職権乱用などの罪に問われていた文在寅・元政権の高官５人に対し、ソウル中央地裁は２６日、無罪判決を言い渡した。 bit.ly/4scywZ9
+
+[2025-12-26 20:35:08](https://bsky.app/profile/japan.reuters.com/post/3mav76lzpn522)
+
+---
+
+@forbes.com
+
+Bookmakers have already poured in millions to bet on key events in 2026, including upcoming elections, sporting events and potential military conflicts. 
+
+[2025-12-26 20:35:04](https://bsky.app/profile/forbes.com/post/3mav76hruxm2o)
+
+---
+
+@japan.reuters.com
+
+韓国の特別検察官は２６日、「非常戒厳」宣言の失敗後、自身の逮捕を妨害しようとした罪などに問われている尹錫悦・前大統領に対し懲役１０年を求刑した。 bit.ly/4q4KfaT
+
+[2025-12-26 20:32:56](https://bsky.app/profile/japan.reuters.com/post/3mav72ntzex2f)
+
+---
+
+@nikkei.com
+
+ENEOS、27年入社の新卒採用一部見送り　事務系やIT職など
+www.nikkei.com/article/DGXZQO...
+
+#ニュース
+
+[2025-12-26 20:30:39](https://bsky.app/profile/nikkei.com/post/3mav6wl7qmf2i)
+
+---
+
+@reuters.com
+
+Israeli reservist rams vehicle into Palestinian man praying in West Bank reut.rs/3N446bz
+
+[2025-12-26 20:30:26](https://bsky.app/profile/reuters.com/post/3mav6w6lkce2s)
 
 ---
 
