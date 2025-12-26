@@ -1,9 +1,9 @@
-# [2025-12-27 02:30 updated](2025_12_27.md)
+# [2025-12-27 02:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Airlines in the United States canceled or delayed thousands of flights during peak holiday travel due to severe winter storm warnings, according to flight tracking website FlightAware reut.rs/499T1xb <a href="https://bsky.app/profile/reuters.com/post/3mavsxese4c26" target="_blank">reuters.com</a> (2025-12-27 02:29:01)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  群馬 関越道の多重事故で1人死亡 複数人けが (2025-12-27 02:26:32) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mavstojpqk2b" target="_blank">sokuho.news</a> (2025-12-27 02:26:57)</span><span style="padding-right:50px;">Measles cases in South Carolina rise to 156, state health department says reut.rs/3YKCU4d <a href="https://bsky.app/profile/reuters.com/post/3mavsqgw7fs2x" target="_blank">reuters.com</a> (2025-12-27 02:25:08)</span><span style="padding-right:50px;">2025: The year the Big 3 backed away from EVs <a href="https://bsky.app/profile/yahoofinance.com/post/3mavsjahc762j" target="_blank">yahoofinance.com</a> (2025-12-27 02:21:06)</span><span style="padding-right:50px;">The relentless rise of YouTube ft.trib.al/lOOWh7o <a href="https://bsky.app/profile/financialtimes.com/post/3mavsekv4742y" target="_blank">financialtimes.com</a> (2025-12-27 02:18:30)</span>
+<span style="padding-right:50px;">As diplomatic calls grow for an independent Palestine to be more widely recognized, increased Israeli activity is undermining the viability of such a nation <a href="https://bsky.app/profile/bloomberg.com/post/3mavu3bwqfg2e" target="_blank">bloomberg.com</a> (2025-12-27 02:49:06)</span><span style="padding-right:50px;">Chiefs TE Travis Kelce takes (final?) bow at Arrowhead reut.rs/4b2VqMA <a href="https://bsky.app/profile/reuters.com/post/3mavtujqtb22x" target="_blank">reuters.com</a> (2025-12-27 02:45:19)</span><span style="padding-right:50px;">This tiny caterpillar is the last known of its kind.  Scientists hope to breed the critically endangered Sacramento Mountains checkerspot by finding and capturing another individual from the wild — if any are left. <a href="https://bsky.app/profile/nytimes.com/post/3mavtu27clp2z" target="_blank">nytimes.com</a> (2025-12-27 02:45:03)</span><span style="padding-right:50px;">When a family of four wanted to expand their historic Seattle home without changing its footprint, a designer helped transform the underused square footage above their heads into a stylish primary suite.  🔗: on.wsj.com/44Iec8b <a href="https://bsky.app/profile/wsj.com/post/3mavtnumnxb2k" target="_blank">wsj.com</a> (2025-12-27 02:41:35)</span><span style="padding-right:50px;">Salah penalty gives 10-man Egypt rearguard 1-0 win over S Africa reut.rs/4b7PhPb <a href="https://bsky.app/profile/reuters.com/post/3mavtcehsec2b" target="_blank">reuters.com</a> (2025-12-27 02:35:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48680.02 (🔻32.45 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23615.29 (🔻30.62 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.76 (🔺0.80 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.64 (🔺0.84 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48635.30 (🔻77.17 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23611.21 (🔻34.70 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.00 (🔺1.04 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.59 (🔺0.79 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,93 +32,98 @@
 
 ## News Headlines
 
-- US Airlines Cancel Thousands of Flights Amid Severe Winter Storm
-- 1 Dead, Several Injured in Multi-Car Pileup on Japan Highway
-- Measles Cases Rise to 156 in South Carolina
-- Big 3 Automakers Back Away from Electric Vehicles in 2025
-- US Airstrikes in Nigeria Target Militants Linked to Islamic State
-- Myanmar to Hold First Election in Five Years Amid Ongoing Civil War
+- Increased Israeli activity undermines viability of independent Palestine
+- Chiefs tight end Travis Kelce takes final bow at Arrowhead
+- Scientists hope to breed last known Sacramento Mountains checkerspot butterfly
+- Family transforms historic Seattle home into stylish primary suite without expanding footprint
+- Egypt wins narrow 1-0 victory over South Africa with Salah penalty
+- Snoop Dogg's halftime show brings festive energy to U.S. Bank Stadium on Christmas
 
 
 ----
 
-@reuters.com
+@bloomberg.com
 
-Airlines in the United States canceled or delayed thousands of flights during peak holiday travel due to severe winter storm warnings, according to flight tracking website FlightAware reut.rs/499T1xb
+As diplomatic calls grow for an independent Palestine to be more widely recognized, increased Israeli activity is undermining the viability of such a nation
 
-[2025-12-27 02:29:01](https://bsky.app/profile/reuters.com/post/3mavsxese4c26)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>群馬 関越道の多重事故で1人死亡 複数人けが</strong><br><strong>(2025-12-27 02:26:32) #ニュース</strong>
-
-[2025-12-27 02:26:57](https://bsky.app/profile/sokuho.news/post/3mavstojpqk2b)
+[2025-12-27 02:49:06](https://bsky.app/profile/bloomberg.com/post/3mavu3bwqfg2e)
 
 ---
 
 @reuters.com
 
-Measles cases in South Carolina rise to 156, state health department says reut.rs/3YKCU4d
+Chiefs TE Travis Kelce takes (final?) bow at Arrowhead reut.rs/4b2VqMA
 
-[2025-12-27 02:25:08](https://bsky.app/profile/reuters.com/post/3mavsqgw7fs2x)
-
----
-
-@yahoofinance.com
-
-2025: The year the Big 3 backed away from EVs
-
-[2025-12-27 02:21:06](https://bsky.app/profile/yahoofinance.com/post/3mavsjahc762j)
-
----
-
-@financialtimes.com
-
-The relentless rise of YouTube ft.trib.al/lOOWh7o
-
-[2025-12-27 02:18:30](https://bsky.app/profile/financialtimes.com/post/3mavsekv4742y)
-
----
-
-@reuters.com
-
-Jets rule out TE Mason Taylor, DE Will McDonald, 2 others vs. Patriots reut.rs/3KLVRjS
-
-[2025-12-27 02:15:18](https://bsky.app/profile/reuters.com/post/3mavs6tyax22k)
+[2025-12-27 02:45:19](https://bsky.app/profile/reuters.com/post/3mavtujqtb22x)
 
 ---
 
 @nytimes.com
 
-A non-Japanese-speaking visitor to Tokyo used Apple’s new in-ear translation feature to connect with locals at bars, sushi classes and even a fire ritual. Here's how it went.
+This tiny caterpillar is the last known of its kind.
 
-[2025-12-27 02:15:05](https://bsky.app/profile/nytimes.com/post/3mavs6hvgp326)
+Scientists hope to breed the critically endangered Sacramento Mountains checkerspot by finding and capturing another individual from the wild — if any are left.
+
+[2025-12-27 02:45:03](https://bsky.app/profile/nytimes.com/post/3mavtu27clp2z)
 
 ---
 
-@forbes.com
+@wsj.com
 
-“Marty Supreme” earned $9.5 million on its opening day, a big total spurred by great reviews and a viral press tour.
+When a family of four wanted to expand their historic Seattle home without changing its footprint, a designer helped transform the underused square footage above their heads into a stylish primary suite.
 
-[2025-12-27 02:15:04](https://bsky.app/profile/forbes.com/post/3mavs6gxyo52f)
+🔗: on.wsj.com/44Iec8b
+
+[2025-12-27 02:41:35](https://bsky.app/profile/wsj.com/post/3mavtnumnxb2k)
 
 ---
 
 @reuters.com
 
-More rain expected in drenched California before drier weekend reut.rs/3LkLHGW
+Salah penalty gives 10-man Egypt rearguard 1-0 win over S Africa reut.rs/4b7PhPb
 
-[2025-12-27 02:10:12](https://bsky.app/profile/reuters.com/post/3mavrvq452l2i)
+[2025-12-27 02:35:10](https://bsky.app/profile/reuters.com/post/3mavtcehsec2b)
 
 ---
 
-@cnbc.com
+@reuters.com
 
-Stocks making the biggest moves midday: Freeport-McMoran, Coupang, Target & more
+Return of Havertz will boost Arsenal's struggling attack, Arteta says reut.rs/3Ydlk8M
 
-[2025-12-27 02:05:08](https://bsky.app/profile/cnbc.com/post/3mavrmoinbh2y)
+[2025-12-27 02:30:44](https://bsky.app/profile/reuters.com/post/3mavt2h3etn2i)
+
+---
+
+@usatoday.com
+
+There was something for everyone during Snoop Dogg's halftime show from U.S. Bank Stadium on Christmas.
+
+[2025-12-27 02:30:35](https://bsky.app/profile/usatoday.com/post/3mavt26tipu2g)
+
+---
+
+@aljazeera.com
+
+Stabbing, chemical spray attack injures 15 at Japanese factory https://aje.io/t941ce
+
+[2025-12-27 02:30:05](https://bsky.app/profile/aljazeera.com/post/3mavszcg7oe27)
+
+---
+
+@nytimes.com
+
+The passage of Proposition 50, which redrew California’s congressional map, means that all of the state’s conservative north is likely to be represented by Democrats. “I don’t think people that were born and raised in the cities can represent us to the same extent,” one farmer said.
+
+[2025-12-27 02:30:03](https://bsky.app/profile/nytimes.com/post/3mavsz7s5v42a)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+群馬  関越道の多重事故で1人死亡 複数人けが
+https://news.web.nhk/newsweb/na/na-k10015015301000
+
+[2025-12-27 02:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavszbfx6v2u)
 
 ---
 
