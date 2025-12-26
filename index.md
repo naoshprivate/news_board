@@ -1,9 +1,9 @@
-# [2025-12-26 18:50 updated](2025_12_26.md)
+# [2025-12-26 19:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">崎陽軒シウマイ弁当、110円上がり1180円に　2026年2月から（無料記事） www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3mauz4mlaem2c" target="_blank">nikkei.com</a> (2025-12-26 18:46:39)</span><span style="padding-right:50px;">中国国家発展改革委員会（発改委）は２６日、２０２６─３０年の次期５カ年計画で銅とアルミナの新規プロジェクトに対する監督を強化し、不合理な投資や無秩序な拡大を抑制する方針を示した。発改委のウェブサイトで明らかにした。 bit.ly/3Ll2QAl <a href="https://bsky.app/profile/japan.reuters.com/post/3mauz22ti2w25" target="_blank">japan.reuters.com</a> (2025-12-26 18:45:14)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】上信越道上り線 信濃町～信州中野インターの間の通行止め解除 上り線上越高田～信濃町インターの間と下り線長野～上越高田インターの間の通行止めは継続 長野 (2025-12-26 18:40:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauyxiks5i27" target="_blank">sokuho.news</a> (2025-12-26 18:43:47)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】工場で切りつけ…14人の負傷者を確認 容疑者を確保 静岡・三島市 (2025-12-26 18:43) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauywqrssh2v" target="_blank">sokuho.news</a> (2025-12-26 18:43:22)</span><span style="padding-right:50px;">中学校の部活動「地域展開」参加費 月額1000～3000円程度目安 https://news.web.nhk/newsweb/na/na-k10015014901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauyukgxex2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 18:42:06)</span>
+<span style="padding-right:50px;">【詳しく】政府 122兆円余の来年度予算案を決定 主な事業は https://news.web.nhk/newsweb/na/na-k10015014121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav2epeqql2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 19:09:02)</span><span style="padding-right:50px;">Amanda Seyfried is up for a Golden Globe for her performance in The Testament of Ann Lee, a movie musical about the leader of the Shakers, the 18th-century religious movement that preached celibacy, gender and racial equality, and pacifism. n.pr/4jkc5gW <a href="https://bsky.app/profile/npr.org/post/3mav2cbpbfa24" target="_blank">npr.org</a> (2025-12-26 19:07:43)</span><span style="padding-right:50px;">伊藤忠商事は２６日、セブン銀行の株式を議決権ベースで２０％取得し、同社を持ち分法適用会社にしたと発表した。「資本業務提携を通じて、より付加価値の高い金融サービスの実現を目指していく」としている。 bit.ly/3MLKVU1 <a href="https://bsky.app/profile/japan.reuters.com/post/3mav25r237g25" target="_blank">japan.reuters.com</a> (2025-12-26 19:05:11)</span><span style="padding-right:50px;">China allocates $634 million in relief funds to support people in need reut.rs/4j9Qh7m <a href="https://bsky.app/profile/reuters.com/post/3mav25pqiyz24" target="_blank">reuters.com</a> (2025-12-26 19:05:10)</span><span style="padding-right:50px;">食品3500品目値上げへ どうなる物価？ https://news.web.nhk/newsweb/na/na-k10015014411000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauzzybvra2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 19:03:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.43 (🔺0.63 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.43 (🔺0.62 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,43 +32,71 @@
 
 ## News Headlines
 
-- Copper and Aluminum Project Supervision to be Strengthened in China's Next 5-Year Plan
-- Multiple People Injured in Stabbing Incident at Yokohama Rubber's Three Islands Factory
-- Bank of East Asia Acquires Major Stake in Daiei Bank
-- China Imposes Sanctions on US Defense Firms and Individuals Over Arms Sales to Taiwan
-- Malaysian Ex-PM Najib Razak Found Guilty of Abuse of Power
-- Russia's VTB Reports 3.3% Drop in Net Profit for January-November
+- Japanese Government Approves 122 Trillion Yen Budget for Next Year
+- Amanda Seyfried Nominated for Golden Globe for Her Role in The Testament of Ann Lee
+- Itochu Acquires 20% of Seven Bank Shares, Becomes Largest Shareholder
+- China Allocates $634 Million in Relief Funds for People in Need
+- Food Prices to Rise: What to Expect
+- East Japan Railway Company Cancels Trains Due to Car Accident in Okayama
 
 
 ----
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-崎陽軒シウマイ弁当、110円上がり1180円に　2026年2月から（無料記事）
-www.nikkei.com/article/DGXZQO...
+【詳しく】政府 122兆円余の来年度予算案を決定 主な事業は
+https://news.web.nhk/newsweb/na/na-k10015014121000
 
-#ニュース
+[2025-12-26 19:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav2epeqql2y)
 
-[2025-12-26 18:46:39](https://bsky.app/profile/nikkei.com/post/3mauz4mlaem2c)
+---
+
+@npr.org
+
+Amanda Seyfried is up for a Golden Globe for her performance in The Testament of Ann Lee, a movie musical about the leader of the Shakers, the 18th-century religious movement that preached celibacy, gender and racial equality, and pacifism. n.pr/4jkc5gW
+
+[2025-12-26 19:07:43](https://bsky.app/profile/npr.org/post/3mav2cbpbfa24)
 
 ---
 
 @japan.reuters.com
 
-中国国家発展改革委員会（発改委）は２６日、２０２６─３０年の次期５カ年計画で銅とアルミナの新規プロジェクトに対する監督を強化し、不合理な投資や無秩序な拡大を抑制する方針を示した。発改委のウェブサイトで明らかにした。 bit.ly/3Ll2QAl
+伊藤忠商事は２６日、セブン銀行の株式を議決権ベースで２０％取得し、同社を持ち分法適用会社にしたと発表した。「資本業務提携を通じて、より付加価値の高い金融サービスの実現を目指していく」としている。 bit.ly/3MLKVU1
 
-[2025-12-26 18:45:14](https://bsky.app/profile/japan.reuters.com/post/3mauz22ti2w25)
+[2025-12-26 19:05:11](https://bsky.app/profile/japan.reuters.com/post/3mav25r237g25)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🛎️JNNより【速報】です。
+China allocates $634 million in relief funds to support people in need reut.rs/4j9Qh7m
 
-【速報】上信越道上り線 信濃町～信州中野インターの間の通行止め解除 上り線上越高田～信濃町インターの間と下り線長野～上越高田インターの間の通行止めは継続 長野
-(2025-12-26 18:40:00) #ニュース
+[2025-12-26 19:05:10](https://bsky.app/profile/reuters.com/post/3mav25pqiyz24)
 
-[2025-12-26 18:43:47](https://bsky.app/profile/sokuho.news/post/3mauyxiks5i27)
+---
+
+@nhknewsunofficial.bsky.social
+
+食品3500品目値上げへ どうなる物価？
+https://news.web.nhk/newsweb/na/na-k10015014411000
+
+[2025-12-26 19:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauzzybvra2w)
+
+---
+
+@japan.reuters.com
+
+東邦ホールディングスは２６日、シンガポール拠点の投資ファンド、３Ｄインベストメント・パートナーズが求めていた不祥事に関する第三者委員会の設置は不要と判断し、３Ｄ側に回答したと発表した。 bit.ly/455FgOX
+
+[2025-12-26 19:03:00](https://bsky.app/profile/japan.reuters.com/post/3mauzztdnub2q)
+
+---
+
+@wsj.com
+
+Timothée Chalamet may be the star of the movie, but it’s the actual people swirling around his character that give the movie an authentic feel. on.wsj.com/49r8ZnH
+
+[2025-12-26 19:02:27](https://bsky.app/profile/wsj.com/post/3mauzyuntpx2c)
 
 ---
 
@@ -76,66 +104,29 @@ www.nikkei.com/article/DGXZQO...
 
 🛎️NNNより【速報】です。
 
-【速報】工場で切りつけ…14人の負傷者を確認 容疑者を確保 静岡・三島市
-(2025-12-26 18:43) #ニュース
+【速報】激しくあがる炎 住宅が燃える火事… 住人と連絡とれ負傷者なしか 北海道恵庭市
+(2025-12-26 19:01) #ニュース
 
-[2025-12-26 18:43:22](https://bsky.app/profile/sokuho.news/post/3mauywqrssh2v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-中学校の部活動「地域展開」参加費 月額1000～3000円程度目安
-https://news.web.nhk/newsweb/na/na-k10015014901000
-
-[2025-12-26 18:42:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauyukgxex2x)
+[2025-12-26 19:02:06](https://bsky.app/profile/sokuho.news/post/3mauzy7uiqi2z)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nbcnews.com
 
-静岡 工場で「刃物で刺された」14人けが 殺人未遂疑いで逮捕
-https://news.web.nhk/newsweb/na/na-k10015015021000
+President Trump injected some politics into this year’s Christmas Eve phone calls with children from across the country, touching on topics like energy production and the 2020 election as part of the U.S. military’s annual NORAD Tracks Santa event.
 
-[2025-12-26 18:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauyufvj3h2x)
+[2025-12-26 19:01:16](https://bsky.app/profile/nbcnews.com/post/3mauzwqpdqq2n)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】香川・綾川町の一部地域で停電 四国電力送配電【香川】
-(2025-12-26 18:30) #ニュース
+【速報】高知市でマンション火災 現場から女性1人が救急搬送（26日午後7時）
+(2025-12-26 19:00:00) #ニュース
 
-🕯停電情報
-🔗https://www.fepc.or.jp/sp/bousai/link.html
-
-[2025-12-26 18:40:53](https://bsky.app/profile/sokuho.news/post/3mauysbv3422r)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>静岡 工場で「刃物で刺された」14人けが 殺人未遂疑いで逮捕</strong><br><strong>(2025-12-26 18:39:52) #ニュース</strong>
-
-[2025-12-26 18:40:19](https://bsky.app/profile/sokuho.news/post/3mauyrbvbta2z)
-
----
-
-@japan.reuters.com
-
-金と銀が２６日、ともに最高値を更新した。安全資産需要の高まりや来年の米利下げ観測が背景。プラチナも最高値を更新、パラジウムも急伸している。 bit.ly/4pUsiM5
-
-[2025-12-26 18:40:09](https://bsky.app/profile/japan.reuters.com/post/3mauyqycc2a2v)
-
----
-
-@japan.reuters.com
-
-防衛省は２６日、潜水艦用エンジンの検査で長期にわたる不正があったとして、川崎重工業を来年３月１１日まで２カ月半指名停止にすると発表した。 bit.ly/4jhoIJF
-
-[2025-12-26 18:38:33](https://bsky.app/profile/japan.reuters.com/post/3mauyo4h6xr2q)
+[2025-12-26 19:00:51](https://bsky.app/profile/sokuho.news/post/3mauzvyh2j32r)
 
 ---
 
