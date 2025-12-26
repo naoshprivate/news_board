@@ -1,9 +1,9 @@
-# [2025-12-27 04:50 updated](2025_12_27.md)
+# [2025-12-27 05:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A 450-foot Prometheus. A 500-foot George Washington. Tech investors are racing to build colossal monuments celebrating Western power. <a href="https://bsky.app/profile/bloomberg.com/post/3maw2dkiiaa2z" target="_blank">bloomberg.com</a> (2025-12-27 04:41:06)</span><span style="padding-right:50px;">帰省ラッシュ始まる 各交通機関 朝から混雑の見通し https://news.web.nhk/newsweb/na/na-k10015015161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maw27whtzy2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 04:39:01)</span><span style="padding-right:50px;">Nvidia-Groq deal is structured to keep 'fiction of competition alive,' analyst says <a href="https://bsky.app/profile/cnbc.com/post/3mavzxh7y7i24" target="_blank">cnbc.com</a> (2025-12-27 04:34:20)</span><span style="padding-right:50px;">Here’s where you can still snag 4% yields on idle cash <a href="https://bsky.app/profile/cnbc.com/post/3mavzvcnwo32m" target="_blank">cnbc.com</a> (2025-12-27 04:33:08)</span><span style="padding-right:50px;">2 police officers injured, suspect killed during child custody exchange <a href="https://bsky.app/profile/cbsnews.com/post/3mavztwsgun2q" target="_blank">cbsnews.com</a> (2025-12-27 04:32:22)</span>
+<span style="padding-right:50px;">自民 防衛装備品の移転 「5類型」見直しの議論本格化へ https://news.web.nhk/newsweb/na/na-k10015015231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maw3vmenko24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 05:09:03)</span><span style="padding-right:50px;">Saudi warplanes struck a Yemeni militia backed by the United Arab Emirates on Friday, as tensions between the two Gulf powers rise over their competing positions in conflicts around the region. <a href="https://bsky.app/profile/wsj.com/post/3maw3tqyqxm2t" target="_blank">wsj.com</a> (2025-12-27 05:08:03)</span><span style="padding-right:50px;">Will WSJ’s House of the Month December winner be a New York mansion with a F1 car parked in the living room, a Connecticut home in a Midcentury Modern mecca or a Kiawah Island home on a Jack Nicklaus-designed course? on.wsj.com/49cDexq <a href="https://bsky.app/profile/wsj.com/post/3maw3kkbbdu2t" target="_blank">wsj.com</a> (2025-12-27 05:02:54)</span><span style="padding-right:50px;">Dove's new collab with 'Bridgerton' invites fans for a 'royal treatment' <a href="https://bsky.app/profile/usatoday.com/post/3maw3idhxwn25" target="_blank">usatoday.com</a> (2025-12-27 05:01:40)</span><span style="padding-right:50px;">First goalless draw at Cup of Nations leaves Comoros, Zambia in peril reut.rs/45glbVW <a href="https://bsky.app/profile/reuters.com/post/3maw3gvnc522b" target="_blank">reuters.com</a> (2025-12-27 05:00:52)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48648.55 (🔻63.92 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23626.05 (🔻19.86 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 192.01 (🔺2.04 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.54 (🔺0.74 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48661.75 (🔻50.72 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23615.94 (🔻29.97 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.57 (🔺1.61 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.48 (🔺0.68 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,94 +32,99 @@
 
 ## News Headlines
 
-- Tech investors racing to build colossal monuments celebrating Western power
-- Investors shrug off AI-fueled market warnings, push share prices to new highs
-- Winter storm to bring hazardous conditions to Northeast during post-holiday travel
-- Ukraine's president meets US diplomat, discusses draft peace plan with security guarantees
-- Gold, silver bulls taunt bitcoin investors amid parabolic rally
-- New York to require social media platforms to display mental health warnings
+- Japan Self-Defense Forces to Review Defense Equipment Transfer Classification
+- Saudi Warplanes Strike Yemeni Militia Backed by UAE
+- WSJ Reveals Winner of House of the Month December
+- Dove Partners with 'Bridgerton' for Royal Treatment
+- Economists Optimistic About US Housing Market in 2026
+- US Judge Blocks Detention of British Anti-Disinformation Campaigner
 
 
 ----
 
-@bloomberg.com
-
-A 450-foot Prometheus. A 500-foot George Washington. Tech investors are racing to build colossal monuments celebrating Western power.
-
-[2025-12-27 04:41:06](https://bsky.app/profile/bloomberg.com/post/3maw2dkiiaa2z)
-
----
-
 @nhknewsunofficial.bsky.social
 
-帰省ラッシュ始まる 各交通機関 朝から混雑の見通し
-https://news.web.nhk/newsweb/na/na-k10015015161000
+自民 防衛装備品の移転 「5類型」見直しの議論本格化へ
+https://news.web.nhk/newsweb/na/na-k10015015231000
 
-[2025-12-27 04:39:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maw27whtzy2x)
-
----
-
-@cnbc.com
-
-Nvidia-Groq deal is structured to keep 'fiction of competition alive,' analyst says
-
-[2025-12-27 04:34:20](https://bsky.app/profile/cnbc.com/post/3mavzxh7y7i24)
+[2025-12-27 05:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maw3vmenko24)
 
 ---
 
-@cnbc.com
+@wsj.com
 
-Here’s where you can still snag 4% yields on idle cash
+Saudi warplanes struck a Yemeni militia backed by the United Arab Emirates on Friday, as tensions between the two Gulf powers rise over their competing positions in conflicts around the region.
 
-[2025-12-27 04:33:08](https://bsky.app/profile/cnbc.com/post/3mavzvcnwo32m)
+[2025-12-27 05:08:03](https://bsky.app/profile/wsj.com/post/3maw3tqyqxm2t)
 
 ---
 
-@cbsnews.com
+@wsj.com
 
-2 police officers injured, suspect killed during child custody exchange
+Will WSJ’s House of the Month December winner be a New York mansion with a F1 car parked in the living room, a Connecticut home in a Midcentury Modern mecca or a Kiawah Island home on a Jack Nicklaus-designed course? on.wsj.com/49cDexq
 
-[2025-12-27 04:32:22](https://bsky.app/profile/cbsnews.com/post/3mavztwsgun2q)
+[2025-12-27 05:02:54](https://bsky.app/profile/wsj.com/post/3maw3kkbbdu2t)
 
 ---
 
 @usatoday.com
 
-Caitlin Clark stars in a new Nike basketball commercial, featuring cameos from Jason and Travis Kelce, rapper Travis Scott and comedian Michael Che.
+Dove's new collab with 'Bridgerton' invites fans for a 'royal treatment'
 
-[2025-12-27 04:30:38](https://bsky.app/profile/usatoday.com/post/3mavzqtpnis2h)
+[2025-12-27 05:01:40](https://bsky.app/profile/usatoday.com/post/3maw3idhxwn25)
 
 ---
 
 @reuters.com
 
-French police detain man after knife attack on three women in Paris centre reut.rs/4sjURV2
+First goalless draw at Cup of Nations leaves Comoros, Zambia in peril reut.rs/45glbVW
 
-[2025-12-27 04:30:26](https://bsky.app/profile/reuters.com/post/3mavzqifwdv2r)
+[2025-12-27 05:00:52](https://bsky.app/profile/reuters.com/post/3maw3gvnc522b)
+
+---
+
+@cnn.com
+
+Next year, many economists are optimistic about the housing market. Many anticipate that rising incomes will start to outpace home prices, making homes feel more affordable for many Americans.
+https://cnn.it/49p39Dr
+
+[2025-12-27 05:00:23](https://bsky.app/profile/cnn.com/post/3maw3g22jog2u)
 
 ---
 
 @washingtonpost.com
 
-A significant winter storm was bearing down on the Northeast early Friday, set to deliver potentially hazardous conditions coinciding with post-holiday travel.
+Should you mention a group trip in advance to a friend who's not invited to give them a heads up? Or let her find out via social media?
 
-[2025-12-27 04:30:06](https://bsky.app/profile/washingtonpost.com/post/3mavzpvks6y2e)
+Asking Eric has advice: 
+
+[2025-12-27 05:00:21](https://bsky.app/profile/washingtonpost.com/post/3maw3fy2fqh2e)
+
+---
+
+@apnews.com
+
+Days after Ghislaine Maxwell asked a judge to immediately free her from a 20-year prison sentence, the public release of grand jury transcripts from her sex trafficking case returned the spotlight to victims whose allegations helped land her behind bars.
+
+[2025-12-27 05:00:20](https://bsky.app/profile/apnews.com/post/3maw3fxoxy32q)
+
+---
+
+@nbcnews.com
+
+A U.S. judge temporarily blocks the Trump administration from detaining British anti-disinformation campaigner Imran Ahmed, after the U.S. permanent resident sued officials over an entry ban.
+
+[2025-12-27 05:00:16](https://bsky.app/profile/nbcnews.com/post/3maw3fu2vgk23)
 
 ---
 
 @nytimes.com
 
-Investors in the A.I.-fueled stock market have largely shrugged off warnings about a bubble, pushing share prices to repeated new highs this year. But some say the debt market is telling a different story.
+In @nytopinion.nytimes.com
 
-[2025-12-27 04:30:03](https://bsky.app/profile/nytimes.com/post/3mavzpsvzrg2v)
+“As 2025 limps toward its end, there are reasons to be hopeful,” our columnist Michelle Goldberg writes. “That’s because of millions of people throughout the country who have refused to surrender to this administration’s bullying.”
 
----
-
-@aljazeera.com
-
-Washington's top diplomat says he thanked Asfura, who was backed by Trump, for 'advocacy of US strategic objectives' https://aje.io/y24aje
-
-[2025-12-27 04:30:03](https://bsky.app/profile/aljazeera.com/post/3mavzpsnqxf2i)
+[2025-12-27 05:00:05](https://bsky.app/profile/nytimes.com/post/3maw3fjmqzq2y)
 
 ---
 
