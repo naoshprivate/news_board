@@ -1,9 +1,9 @@
-# [2025-12-27 00:30 updated](2025_12_27.md)
+# [2025-12-27 00:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Target faces activist investor pressure amid sales decline, FT reports reut.rs/4s5MWua <a href="https://bsky.app/profile/reuters.com/post/3mavlzx5cni23" target="_blank">reuters.com</a> (2025-12-27 00:25:11)</span><span style="padding-right:50px;">A 23-year-old CVS employee was fatally stabbed on Long Island on Christmas, the Suffolk County Police said. Police are searching for a suspect in his 40s who fled on foot. <a href="https://bsky.app/profile/nytimes.com/post/3mavlzp2t7r2a" target="_blank">nytimes.com</a> (2025-12-27 00:25:02)</span><span style="padding-right:50px;">The domains of the Habsburgs formed a politcal and cultural patchwork that would come under increasing strain. on.wsj.com/4ayE75Y <a href="https://bsky.app/profile/wsj.com/post/3mavltfieio2g" target="_blank">wsj.com</a> (2025-12-27 00:21:31)</span><span style="padding-right:50px;">Opinion: Italy, often dismissed as Europe's weak link in the past, has become a success story. And this is shown clearly in the verdict of investors. on.ft.com/4oQM8Xq <a href="https://bsky.app/profile/financialtimes.com/post/3mavlqqmrw32b" target="_blank">financialtimes.com</a> (2025-12-27 00:20:02)</span><span style="padding-right:50px;">Shorn of the music they were written for, the lyrics of Johnny Cash and others may not leap off the page. But they say a lot about the songwriter’s obsessions. on.wsj.com/3KRf97r <a href="https://bsky.app/profile/wsj.com/post/3mavllcn73t2c" target="_blank">wsj.com</a> (2025-12-27 00:17:00)</span>
+<span style="padding-right:50px;">A bombing at a mosque located in the Syrian city of Homs killed at least eight people and wounded 18 others, authorities said. <a href="https://bsky.app/profile/cbsnews.com/post/3mavncexaq32j" target="_blank">cbsnews.com</a> (2025-12-27 00:47:48)</span><span style="padding-right:50px;">Drone attack kills two soldiers in Chad near Sudan border, sources say reut.rs/49fV4ji <a href="https://bsky.app/profile/reuters.com/post/3mavn5qybtw2c" target="_blank">reuters.com</a> (2025-12-27 00:45:12)</span><span style="padding-right:50px;">U.S. forces struck Islamic State targets in Nigeria, the U.S. and Nigerian governments said, acting after threats by President Trump to attack the country in an effort to stop what he has said are the killings of Christians. <a href="https://bsky.app/profile/washingtonpost.com/post/3mavn5kcroj2x" target="_blank">washingtonpost.com</a> (2025-12-27 00:45:05)</span><span style="padding-right:50px;">🇺🇸 Hundreds of Santas hit the ski slopes for charity in the US  Hundreds of people dressed as Santa Claus take to the South Ridge slope in Maine, US, skiing together to raise money for two local charities. <a href="https://bsky.app/profile/en.afp.com/post/3mavmvrb54t2y" target="_blank">en.afp.com</a> (2025-12-27 00:40:44)</span><span style="padding-right:50px;">Angola and Zimbabwe in 1-1 draw at Cup of Nations reut.rs/3YcSENb <a href="https://bsky.app/profile/reuters.com/post/3mavmlv5xow2r" target="_blank">reuters.com</a> (2025-12-27 00:35:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48718.52 (🔺6.05 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23614.69 (🔻31.21 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.69 (🔺1.73 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.36 (🔺0.56 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48718.47 (🔺6.00 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23624.69 (🔻21.22 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.86 (🔺1.90 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.41 (🔺0.61 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,93 +32,97 @@
 
 ## News Headlines
 
+- Bombing at Syria Mosque Kills Eight, Wounds 18
+- US Forces Strike IS Targets in Nigeria
+- Hundreds of Santas Hit Ski Slopes for Charity in Maine
+- Angola, Zimbabwe Draw in Africa Cup of Nations
+- China to Keep Monetary Policy Loose, Warns of Systemic Risks
 - Target Faces Pressure from Activist Investor Amid Sales Decline
-- Ukraine's Zelensky to Meet Trump in Florida for Talks on Russian Invasion
-- Malaysia Sentences Ex-Leader Najib Razak to 15 Years in Prison
-- China to Require Repatriation of Funds Raised Overseas Under New Rules
-- Pressure Grows on Target as Activist Investor Builds Stake
-- Abel Ferrara's Movies Driven by Consequences of Extreme Impulses
 
 
 ----
 
+@cbsnews.com
+
+A bombing at a mosque located in the Syrian city of Homs killed at least eight people and wounded 18 others, authorities said.
+
+[2025-12-27 00:47:48](https://bsky.app/profile/cbsnews.com/post/3mavncexaq32j)
+
+---
+
 @reuters.com
 
-Target faces activist investor pressure amid sales decline, FT reports reut.rs/4s5MWua
+Drone attack kills two soldiers in Chad near Sudan border, sources say reut.rs/49fV4ji
 
-[2025-12-27 00:25:11](https://bsky.app/profile/reuters.com/post/3mavlzx5cni23)
-
----
-
-@nytimes.com
-
-A 23-year-old CVS employee was fatally stabbed on Long Island on Christmas, the Suffolk County Police said. Police are searching for a suspect in his 40s who fled on foot.
-
-[2025-12-27 00:25:02](https://bsky.app/profile/nytimes.com/post/3mavlzp2t7r2a)
+[2025-12-27 00:45:12](https://bsky.app/profile/reuters.com/post/3mavn5qybtw2c)
 
 ---
 
-@wsj.com
+@washingtonpost.com
 
-The domains of the Habsburgs formed a politcal and cultural patchwork that would come under increasing strain. on.wsj.com/4ayE75Y
+U.S. forces struck Islamic State targets in Nigeria, the U.S. and Nigerian governments said, acting after threats by President Trump to attack the country in an effort to stop what he has said are the killings of Christians.
 
-[2025-12-27 00:21:31](https://bsky.app/profile/wsj.com/post/3mavltfieio2g)
-
----
-
-@financialtimes.com
-
-Opinion: Italy, often dismissed as Europe's weak link in the past, has become a success story. And this is shown clearly in the verdict of investors. on.ft.com/4oQM8Xq
-
-[2025-12-27 00:20:02](https://bsky.app/profile/financialtimes.com/post/3mavlqqmrw32b)
+[2025-12-27 00:45:05](https://bsky.app/profile/washingtonpost.com/post/3mavn5kcroj2x)
 
 ---
 
-@wsj.com
+@en.afp.com
 
-Shorn of the music they were written for, the lyrics of Johnny Cash and others may not leap off the page. But they say a lot about the songwriter’s obsessions. on.wsj.com/3KRf97r
+🇺🇸 Hundreds of Santas hit the ski slopes for charity in the US
 
-[2025-12-27 00:17:00](https://bsky.app/profile/wsj.com/post/3mavllcn73t2c)
+Hundreds of people dressed as Santa Claus take to the South Ridge slope in Maine, US, skiing together to raise money for two local charities.
 
----
-
-@wsj.com
-
-Adrienne Salinger’s photographs revealed her adolescent subjects through the spaces they could call their own. on.wsj.com/48UsGUV
-
-[2025-12-27 00:17:00](https://bsky.app/profile/wsj.com/post/3mavllcmwo52c)
+[2025-12-27 00:40:44](https://bsky.app/profile/en.afp.com/post/3mavmvrb54t2y)
 
 ---
 
-@npr.org
+@reuters.com
 
-The Trump administration wants to revamp U.S. childhood vaccination recommendations to align with some other peer nations, including one tiny country in northern Europe. n.pr/4atOAzx
+Angola and Zimbabwe in 1-1 draw at Cup of Nations reut.rs/3YcSENb
 
-[2025-12-27 00:16:43](https://bsky.app/profile/npr.org/post/3mavlkt4v7q2n)
+[2025-12-27 00:35:13](https://bsky.app/profile/reuters.com/post/3mavmlv5xow2r)
 
 ---
 
 @japan.reuters.com
 
-ロシア大統領府のウシャコフ補佐官は、ウクライナ和平を巡る米国提案を受け取った後、米政府の一部高官と電話で協議した。大統領府のペスコフ報道官が明らかにしたもので、協議時期は明らかにしなかった。報道官は和平案文書について、分析しておりプーチン大統領に代わり米ロ政府の間で接触していると指摘。「協議の継続で合意した」と述べた。関係筋によると、ドミトリエフ大統領特別代表も米高官との協議に参加した。 bit.ly/3L9Ru1V
+中国人民銀行（中央銀行）は２６日、年次金融安定報告を公表した声明で、積極的なマクロ経済政策の実施とともに流動性を潤沢に保ち、システミックリスクを警戒する方針を示した。 bit.ly/4pdjksb
 
-[2025-12-27 00:15:20](https://bsky.app/profile/japan.reuters.com/post/3mavlideq3s2v)
+[2025-12-27 00:30:33](https://bsky.app/profile/japan.reuters.com/post/3mavmdjvj6o22)
 
 ---
 
 @reuters.com
 
-China to require repatriation of funds raised overseas under new rules reut.rs/3MRoX1P
+Man City ready for title push with injured players set to return, Guardiola says reut.rs/4q0ntRu
 
-[2025-12-27 00:15:17](https://bsky.app/profile/reuters.com/post/3mavlibd4dt2b)
+[2025-12-27 00:30:28](https://bsky.app/profile/reuters.com/post/3mavmdf7o2n2r)
 
 ---
 
-@wsj.com
+@usatoday.com
 
-Malaysia’s High Court sentenced former leader Najib Razak to 15 years in prison after convicting him on charges of money laundering and abuse of power connected to the 1MDB sovereign-wealth fund.
+Austin Reaves was ruled out of the remainder of the Lakers' game against the Rockets due to left calf soreness.
 
-[2025-12-27 00:13:57](https://bsky.app/profile/wsj.com/post/3mavlfv37m62s)
+[2025-12-27 00:30:26](https://bsky.app/profile/usatoday.com/post/3mavmddeu4j2c)
+
+---
+
+@cnn.com
+
+A winter storm is poised to bring heavy snow and ice to the Northeast Friday into early Saturday, with more than 23 million people under winter storm warnings — including New York City, which could see its biggest snowfall since 2022.
+https://cnn.it/3YLgorW
+
+[2025-12-27 00:30:10](https://bsky.app/profile/cnn.com/post/3mavmcu4r2a25)
+
+---
+
+@en.afp.com
+
+⚽ Veteran Knowledge Musona scored as Zimbabwe came from behind to draw 1-1 with Angola in Marrakesh on Friday as the second round of Africa Cup of Nations (AFCON) group matches kicked off. 
+➡️ u.afp.com/S8mS
+
+[2025-12-27 00:30:08](https://bsky.app/profile/en.afp.com/post/3mavmcs3mxl2x)
 
 ---
 
