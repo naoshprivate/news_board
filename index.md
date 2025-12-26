@@ -1,9 +1,9 @@
-# [2025-12-26 21:50 updated](2025_12_26.md)
+# [2025-12-26 22:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Why brands such as Me+Em and Toast are championing an old-school print format in our online age ft.trib.al/WAEPziw <a href="https://bsky.app/profile/financialtimes.com/post/3mavd7cieba2q" target="_blank">financialtimes.com</a> (2025-12-26 21:47:07)</span><span style="padding-right:50px;">UAE shares slip in thin trade; Dubai index marks fifth weekly gain reut.rs/4pUD6tD <a href="https://bsky.app/profile/reuters.com/post/3mavd3wxssy24" target="_blank">reuters.com</a> (2025-12-26 21:45:14)</span><span style="padding-right:50px;">ロシアのプーチン大統領は、ウクライナでロシア軍が支配する一部地域について、交換に応じる可能性がある一方、ドンバス地方全域の確保を望んでいると、ロシア有力紙コメルサントが報じた。 bit.ly/49rjbwt <a href="https://bsky.app/profile/japan.reuters.com/post/3mavd3wdbdo2f" target="_blank">japan.reuters.com</a> (2025-12-26 21:45:13)</span><span style="padding-right:50px;">群馬 みなかみ町 関越道下り線で多重事故 数人けが 通行止めも https://news.web.nhk/newsweb/na/na-k10015015301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavd3nh3tq2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 21:45:02)</span><span style="padding-right:50px;">Silver prices have been rising in part because of constrained supply, with the world’s pureplay silver deposits mostly exhausted, and amateur investors find it attractive. <a href="https://bsky.app/profile/wsj.com/post/3mavd2jwmzd2t" target="_blank">wsj.com</a> (2025-12-26 21:44:27)</span>
+<span style="padding-right:50px;">Resolutions to consider for a 2026 that brings you as few tax troubles as possible. <a href="https://bsky.app/profile/wsj.com/post/3maveciad2g2g" target="_blank">wsj.com</a> (2025-12-26 22:06:47)</span><span style="padding-right:50px;">🔊 Today on the Reuters World News podcast: - The US military targets Islamic State in Nigeria - Companies are hedging their bets on tariff refunds  - Is Trump's power fading heading into 2026? Listen now reut.rs/4qr1tz2 <a href="https://bsky.app/profile/reuters.com/post/3mave3zq6d22i" target="_blank">reuters.com</a> (2025-12-26 22:03:11)</span><span style="padding-right:50px;">ロシア大統領府のウシャコフ補佐官は、ウクライナ和平を巡る米国提案を受け取った後、米政府の一部高官と電話で協議した。大統領府のペスコフ報道官が明らかにしたもので、協議時期は明らかにしなかった。報道官は和平案文書について、分析しておりプーチン大統領に代わり米ロ政府の間で接触していると指摘。「協議の継続で合意した」と述べた。関係筋によると、ドミトリエフ大統領特別代表も米高官との協議に参加した。 bit.ly/4qp7NXJ <a href="https://bsky.app/profile/japan.reuters.com/post/3mave2vhzj22c" target="_blank">japan.reuters.com</a> (2025-12-26 22:02:33)</span><span style="padding-right:50px;">Nvidia's Groq deal, S&P's winning week, leather tariffs and more in Morning Squawk <a href="https://bsky.app/profile/cnbc.com/post/3mave2udwna2e" target="_blank">cnbc.com</a> (2025-12-26 22:02:32)</span><span style="padding-right:50px;">Spoiler alert! Everything you need to know about "Stranger Things" Season 5 Episode 5, as we get closer to the end. <a href="https://bsky.app/profile/usatoday.com/post/3mavdy73mfc2o" target="_blank">usatoday.com</a> (2025-12-26 22:01:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.44 (🔺0.63 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.34 (🔺0.53 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -30,86 +30,106 @@
 
 ---
 
-@financialtimes.com
+## News Headlines
 
-Why brands such as Me+Em and Toast are championing an old-school print format in our online age ft.trib.al/WAEPziw
+- US Military Targets Islamic State in Nigeria
+- Trump Orders Strikes on Islamic State Terrorists in Nigeria
+- Toyota to Produce Over 10 Million Units in 2026
+- Nvidia's Groq Deal and S&P's Winning Week
+- Malaysia's Ex-PM Najib and the 1MDB Scandal
+- Treasury Yields Little Changed as Traders Return from Christmas Holiday
 
-[2025-12-26 21:47:07](https://bsky.app/profile/financialtimes.com/post/3mavd7cieba2q)
+
+----
+
+@wsj.com
+
+Resolutions to consider for a 2026 that brings you as few tax troubles as possible.
+
+[2025-12-26 22:06:47](https://bsky.app/profile/wsj.com/post/3maveciad2g2g)
 
 ---
 
 @reuters.com
 
-UAE shares slip in thin trade; Dubai index marks fifth weekly gain reut.rs/4pUD6tD
+🔊 Today on the Reuters World News podcast:
+- The US military targets Islamic State in Nigeria
+- Companies are hedging their bets on tariff refunds 
+- Is Trump's power fading heading into 2026?
+Listen now reut.rs/4qr1tz2
 
-[2025-12-26 21:45:14](https://bsky.app/profile/reuters.com/post/3mavd3wxssy24)
+[2025-12-26 22:03:11](https://bsky.app/profile/reuters.com/post/3mave3zq6d22i)
 
 ---
 
 @japan.reuters.com
 
-ロシアのプーチン大統領は、ウクライナでロシア軍が支配する一部地域について、交換に応じる可能性がある一方、ドンバス地方全域の確保を望んでいると、ロシア有力紙コメルサントが報じた。 bit.ly/49rjbwt
+ロシア大統領府のウシャコフ補佐官は、ウクライナ和平を巡る米国提案を受け取った後、米政府の一部高官と電話で協議した。大統領府のペスコフ報道官が明らかにしたもので、協議時期は明らかにしなかった。報道官は和平案文書について、分析しておりプーチン大統領に代わり米ロ政府の間で接触していると指摘。「協議の継続で合意した」と述べた。関係筋によると、ドミトリエフ大統領特別代表も米高官との協議に参加した。 bit.ly/4qp7NXJ
 
-[2025-12-26 21:45:13](https://bsky.app/profile/japan.reuters.com/post/3mavd3wdbdo2f)
-
----
-
-@nhknewsunofficial.bsky.social
-
-群馬 みなかみ町 関越道下り線で多重事故 数人けが 通行止めも
-https://news.web.nhk/newsweb/na/na-k10015015301000
-
-[2025-12-26 21:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavd3nh3tq2w)
+[2025-12-26 22:02:33](https://bsky.app/profile/japan.reuters.com/post/3mave2vhzj22c)
 
 ---
 
-@wsj.com
+@cnbc.com
 
-Silver prices have been rising in part because of constrained supply, with the world’s pureplay silver deposits mostly exhausted, and amateur investors find it attractive.
+Nvidia's Groq deal, S&P's winning week, leather tariffs and more in Morning Squawk
 
-[2025-12-26 21:44:27](https://bsky.app/profile/wsj.com/post/3mavd2jwmzd2t)
-
----
-
-@npr.org
-
-America's literary highways may be plenty crowded with middle-aged runaways fleeing lives that increasingly feel like a bad fit. But Ben Markovits adds a moving tale to the collection. n.pr/4pXHgkC
-
-[2025-12-26 21:44:23](https://bsky.app/profile/npr.org/post/3mavd2fpeuy2b)
+[2025-12-26 22:02:32](https://bsky.app/profile/cnbc.com/post/3mave2udwna2e)
 
 ---
 
-@en.afp.com
+@usatoday.com
 
-🧊 The ice cores that could help save the world's glaciers
+Spoiler alert! Everything you need to know about "Stranger Things" Season 5 Episode 5, as we get closer to the end.
 
-Glaciologists hope fist-sized ice samples can help them understand why the glaciers in Tajikistan they came from are the only ones to resist rapid melting seen almost everywhere else.
-
-[2025-12-26 21:40:44](https://bsky.app/profile/en.afp.com/post/3mavctvdnmw2j)
+[2025-12-26 22:01:02](https://bsky.app/profile/usatoday.com/post/3mavdy73mfc2o)
 
 ---
 
-@reuters.com
+@nikkei.com
 
-Malaysia's ex-PM Najib and the multi-billion dollar 1MDB scandal reut.rs/4jhEWSU
+「ボディビルダー」現代アメリカの閉塞と男性的な肉体　映画評13本
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-26 21:40:12](https://bsky.app/profile/reuters.com/post/3mavcswqncx2y)
+公開中の「ボディビルダー」はボディビルに夢中になり栄光をめざす青年の苦闘と、日常生活からの逸脱のプロセスを生々しく描く力作。
 
----
+劇場版「緊急取調室 THE FINAL」をはじめ、年末年始に観たい映画13本を紹介します。
 
-@bbcnews-world-rss.bsky.social
-
-Thailand bombs Cambodian border area as ceasefire talks continue
-
-[2025-12-26 21:37:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mavco4fvpp2z)
+[2025-12-26 22:00:39](https://bsky.app/profile/nikkei.com/post/3mavdxjaho42i)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@apnews.com
 
-Two killed in suspected Palestinian ramming and knife attack in Israel
+Defending champion and 100-foot supermaxi LawConnect led the Sydney to Hobart fleet out of Sydney harbor for the 80th running of the ocean race to the island state of Tasmania.
 
-[2025-12-26 21:36:26](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mavcm7spyk2e)
+[2025-12-26 22:00:34](https://bsky.app/profile/apnews.com/post/3mavdxdtrjl2x)
+
+---
+
+@cnn.com
+
+Through the decades, downtown Kabul's Ariana Cinema had weathered revolution and war, emerging battered and bruised but still standing to entertain Afghans with Bollywood movies and American action flicks. Now, it is no more. https://cnn.it/4qwHorb
+
+[2025-12-26 22:00:27](https://bsky.app/profile/cnn.com/post/3mavdx5jfwb2v)
+
+---
+
+@washingtonpost.com
+
+The coming year will be packed with stunning spectacles in the skies, starting and ending with meteor showers, a total solar eclipse and a total lunar eclipse.
+
+Here are the top astronomical events of 2026:
+
+[2025-12-26 22:00:26](https://bsky.app/profile/washingtonpost.com/post/3mavdx452xu2x)
+
+---
+
+@nbcnews.com
+
+President Trump says he ordered “numerous” strikes on Islamic State terrorists in Nigeria he accused of killing Christians.
+
+[2025-12-26 22:00:10](https://bsky.app/profile/nbcnews.com/post/3mavdwn5imz2k)
 
 ---
 
