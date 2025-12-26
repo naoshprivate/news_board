@@ -1,9 +1,9 @@
-# [2025-12-27 03:12 updated](2025_12_27.md)
+# [2025-12-27 03:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">南米ベネズエラの刑務所当局は２５日、２０２４年の大統領選を巡る抗議活動後に拘束された９９人を釈放したと発表した。米政権がマドゥロ大統領への圧力を強めている中での動き。ただ、人権関連団体は実際の釈放者の数はさらに少ないとの見方を示した。 bit.ly/4qLZTYT <a href="https://bsky.app/profile/japan.reuters.com/post/3mavv5lszmq2n" target="_blank">japan.reuters.com</a> (2025-12-27 03:08:17)</span><span style="padding-right:50px;">So long, American exceptionalism ft.trib.al/u6gasby <a href="https://bsky.app/profile/financialtimes.com/post/3mavuz6aj7c23" target="_blank">financialtimes.com</a> (2025-12-27 03:05:48)</span><span style="padding-right:50px;">Israel recognises Somaliland as independent state, Netanyahu says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mavuv5sm5e2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 03:03:33)</span><span style="padding-right:50px;">イスラエルは２６日、アフリカ北東部の「ソマリランド共和国」を独立主権国家として正式に承認した。国際的にソマリランドを国家として承認したのはイスラエルが初めて。 bit.ly/3Y94WWZ <a href="https://bsky.app/profile/japan.reuters.com/post/3mavutuzhj727" target="_blank">japan.reuters.com</a> (2025-12-27 03:02:51)</span><span style="padding-right:50px;">Forget pricey, fashion-y exercise apparel. We grilled pros on the best clothes, shoes and gadgets—just in time for your extremely ambitious 2026 fitness goals. on.wsj.com/3LeqVZs <a href="https://bsky.app/profile/wsj.com/post/3mavurgqel423" target="_blank">wsj.com</a> (2025-12-27 03:01:29)</span>
+<span style="padding-right:50px;">A Medellín cartel kingpin’s mission to recast his legacy ft.trib.al/tf8j1iS <a href="https://bsky.app/profile/financialtimes.com/post/3mavwccr4wa2b" target="_blank">financialtimes.com</a> (2025-12-27 03:28:49)</span><span style="padding-right:50px;">２６日のユーロ圏金融・債券市場はボクシングデーのため休信します。 bit.ly/4qlV2gA <a href="https://bsky.app/profile/japan.reuters.com/post/3mavw7hehyd22" target="_blank">japan.reuters.com</a> (2025-12-27 03:27:13)</span><span style="padding-right:50px;">群馬  関越道で車50台以上からむ事故 1人死亡 26人けが https://news.web.nhk/newsweb/na/na-k10015015301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavw7625wk2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 03:27:01)</span><span style="padding-right:50px;">The fate of a European dream of unity, what we learn from lyric sheets, economic irrationality and more. on.wsj.com/499VdEF <a href="https://bsky.app/profile/wsj.com/post/3mavw5dx4sg2g" target="_blank">wsj.com</a> (2025-12-27 03:26:02)</span><span style="padding-right:50px;">New York to require social media platforms to display mental health warnings reut.rs/4jh7Wdp <a href="https://bsky.app/profile/reuters.com/post/3mavw3qljxt2r" target="_blank">reuters.com</a> (2025-12-27 03:25:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48628.65 (🔻83.82 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23615.51 (🔻30.40 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.45 (🔺1.49 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.57 (🔺0.77 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48615.80 (🔻96.67 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23610.01 (🔻35.90 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.52 (🔺1.56 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.55 (🔺0.74 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-- Venezuela Jail Authorities Release 99 Detainees Following Anti-Government Protests
+- Cartel Kingpin Seeks to Recast His Legacy
+- European Financial Market Closed for Boxing Day
+- One Dead, 26 Injured in Multi-Vehicle Accident in Japan's Gunma Prefecture
 - Israel Recognizes Somaliland as Independent State
-- Study Finds Higher Muscle Mass Linked to Younger-Looking Brains
-- UPS Plane Crash in Kentucky Leaves 15th Fatality
-- Breakaway Region of Somalia Achieves Diplomatic Breakthrough
-- Severe Winter Storm Causes Flight Delays and Cancellations in the US
+- US President Trump Orders Military Strikes Against ISIS in Nigeria
+- European Stocks Closed for Boxing Day
 
 
 ----
 
-@japan.reuters.com
-
-南米ベネズエラの刑務所当局は２５日、２０２４年の大統領選を巡る抗議活動後に拘束された９９人を釈放したと発表した。米政権がマドゥロ大統領への圧力を強めている中での動き。ただ、人権関連団体は実際の釈放者の数はさらに少ないとの見方を示した。 bit.ly/4qLZTYT
-
-[2025-12-27 03:08:17](https://bsky.app/profile/japan.reuters.com/post/3mavv5lszmq2n)
-
----
-
 @financialtimes.com
 
-So long, American exceptionalism ft.trib.al/u6gasby
+A Medellín cartel kingpin’s mission to recast his legacy ft.trib.al/tf8j1iS
 
-[2025-12-27 03:05:48](https://bsky.app/profile/financialtimes.com/post/3mavuz6aj7c23)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Israel recognises Somaliland as independent state, Netanyahu says
-
-[2025-12-27 03:03:33](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mavuv5sm5e2y)
+[2025-12-27 03:28:49](https://bsky.app/profile/financialtimes.com/post/3mavwccr4wa2b)
 
 ---
 
 @japan.reuters.com
 
-イスラエルは２６日、アフリカ北東部の「ソマリランド共和国」を独立主権国家として正式に承認した。国際的にソマリランドを国家として承認したのはイスラエルが初めて。 bit.ly/3Y94WWZ
+２６日のユーロ圏金融・債券市場はボクシングデーのため休信します。 bit.ly/4qlV2gA
 
-[2025-12-27 03:02:51](https://bsky.app/profile/japan.reuters.com/post/3mavutuzhj727)
+[2025-12-27 03:27:13](https://bsky.app/profile/japan.reuters.com/post/3mavw7hehyd22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+群馬  関越道で車50台以上からむ事故 1人死亡 26人けが
+https://news.web.nhk/newsweb/na/na-k10015015301000
+
+[2025-12-27 03:27:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavw7625wk2u)
 
 ---
 
 @wsj.com
 
-Forget pricey, fashion-y exercise apparel. We grilled pros on the best clothes, shoes and gadgets—just in time for your extremely ambitious 2026 fitness goals. on.wsj.com/3LeqVZs
+The fate of a European dream of unity, what we learn from lyric sheets, economic irrationality and more. on.wsj.com/499VdEF
 
-[2025-12-27 03:01:29](https://bsky.app/profile/wsj.com/post/3mavurgqel423)
-
----
-
-@nbcnews.com
-
-"Big Brother" alum Mickey Lee died on Thursday after suffering multiple heart attacks following flu complications, according to her family. She was 35.
-
-[2025-12-27 03:01:26](https://bsky.app/profile/nbcnews.com/post/3mavurdiw3a2u)
+[2025-12-27 03:26:02](https://bsky.app/profile/wsj.com/post/3mavw5dx4sg2g)
 
 ---
 
-@usatoday.com
+@reuters.com
 
-President Donald Trump said he ordered military strikes against 'ISIS terrorist scum' in Nigeria on Christmas Day.
+New York to require social media platforms to display mental health warnings reut.rs/4jh7Wdp
 
-[2025-12-27 03:01:22](https://bsky.app/profile/usatoday.com/post/3mavur7xyp52t)
-
----
-
-@apnews.com
-
-Since returning to the White House in January, President Donald Trump has overturned decades of U.S. trade policy.
-
-[2025-12-27 03:00:35](https://bsky.app/profile/apnews.com/post/3mavuptpmzm2n)
+[2025-12-27 03:25:08](https://bsky.app/profile/reuters.com/post/3mavw3qljxt2r)
 
 ---
 
-@cnn.com
+@nytimes.com
 
-These peaceful country roads have led to somewhere dark: The Wolf’s Lair — a vast, secluded complex where Nazi leader Adolf Hitler planned major military campaigns of World War II, and where an assassination plot nearly altered the course of the war.
-https://cnn.it/4pWzVSl
+After Israel sealed Gaza’s borders, a 12-year-old girl who suffered from celiac disease spent months seeking food and care. “I needed to be a millionaire to keep her alive,” her father said.
 
-[2025-12-27 03:00:23](https://bsky.app/profile/cnn.com/post/3mavupiaket2b)
+[2025-12-27 03:25:05](https://bsky.app/profile/nytimes.com/post/3mavw3mtmhd2b)
 
 ---
 
-@washingtonpost.com
+@sokuho.news
 
-A study of nearly 1,200 healthy, middle-aged adults found that higher muscle mass was linked to younger-looking brains.
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>群馬 関越道で車50台以上からむ事故 1人死亡 26人けが</strong><br><strong>(2025-12-27 03:23:49) #ニュース</strong>
 
-The findings add to evidence that maintaining muscle as we age may help protect brain health. https://wapo.st/4p38moV
+[2025-12-27 03:24:13](https://bsky.app/profile/sokuho.news/post/3mavw23b44x2y)
 
-[2025-12-27 03:00:21](https://bsky.app/profile/washingtonpost.com/post/3mavupfhi3p24)
+---
+
+@financialtimes.com
+
+Why bomb Sokoto? Trump’s strikes baffle Nigerians ft.trib.al/2KW7bDZ
+
+[2025-12-27 03:21:57](https://bsky.app/profile/financialtimes.com/post/3mavvw2ckgf23)
+
+---
+
+@japan.reuters.com
+
+２６日のロンドン株式市場はボクシングデーのため休場。 bit.ly/4b6uH1y
+
+[2025-12-27 03:20:36](https://bsky.app/profile/japan.reuters.com/post/3mavvtmldrj2f)
+
+---
+
+@cnbc.com
+
+Airlines cancel more than 1,200 flights ahead of winter storm. Here’s what to know
+
+[2025-12-27 03:17:35](https://bsky.app/profile/cnbc.com/post/3mavvo7lchz2g)
 
 ---
 
