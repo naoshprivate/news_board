@@ -1,9 +1,9 @@
-# [2025-12-27 02:50 updated](2025_12_27.md)
+# [2025-12-27 03:12 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">As diplomatic calls grow for an independent Palestine to be more widely recognized, increased Israeli activity is undermining the viability of such a nation <a href="https://bsky.app/profile/bloomberg.com/post/3mavu3bwqfg2e" target="_blank">bloomberg.com</a> (2025-12-27 02:49:06)</span><span style="padding-right:50px;">Chiefs TE Travis Kelce takes (final?) bow at Arrowhead reut.rs/4b2VqMA <a href="https://bsky.app/profile/reuters.com/post/3mavtujqtb22x" target="_blank">reuters.com</a> (2025-12-27 02:45:19)</span><span style="padding-right:50px;">This tiny caterpillar is the last known of its kind.  Scientists hope to breed the critically endangered Sacramento Mountains checkerspot by finding and capturing another individual from the wild — if any are left. <a href="https://bsky.app/profile/nytimes.com/post/3mavtu27clp2z" target="_blank">nytimes.com</a> (2025-12-27 02:45:03)</span><span style="padding-right:50px;">When a family of four wanted to expand their historic Seattle home without changing its footprint, a designer helped transform the underused square footage above their heads into a stylish primary suite.  🔗: on.wsj.com/44Iec8b <a href="https://bsky.app/profile/wsj.com/post/3mavtnumnxb2k" target="_blank">wsj.com</a> (2025-12-27 02:41:35)</span><span style="padding-right:50px;">Salah penalty gives 10-man Egypt rearguard 1-0 win over S Africa reut.rs/4b7PhPb <a href="https://bsky.app/profile/reuters.com/post/3mavtcehsec2b" target="_blank">reuters.com</a> (2025-12-27 02:35:10)</span>
+<span style="padding-right:50px;">南米ベネズエラの刑務所当局は２５日、２０２４年の大統領選を巡る抗議活動後に拘束された９９人を釈放したと発表した。米政権がマドゥロ大統領への圧力を強めている中での動き。ただ、人権関連団体は実際の釈放者の数はさらに少ないとの見方を示した。 bit.ly/4qLZTYT <a href="https://bsky.app/profile/japan.reuters.com/post/3mavv5lszmq2n" target="_blank">japan.reuters.com</a> (2025-12-27 03:08:17)</span><span style="padding-right:50px;">So long, American exceptionalism ft.trib.al/u6gasby <a href="https://bsky.app/profile/financialtimes.com/post/3mavuz6aj7c23" target="_blank">financialtimes.com</a> (2025-12-27 03:05:48)</span><span style="padding-right:50px;">Israel recognises Somaliland as independent state, Netanyahu says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mavuv5sm5e2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 03:03:33)</span><span style="padding-right:50px;">イスラエルは２６日、アフリカ北東部の「ソマリランド共和国」を独立主権国家として正式に承認した。国際的にソマリランドを国家として承認したのはイスラエルが初めて。 bit.ly/3Y94WWZ <a href="https://bsky.app/profile/japan.reuters.com/post/3mavutuzhj727" target="_blank">japan.reuters.com</a> (2025-12-27 03:02:51)</span><span style="padding-right:50px;">Forget pricey, fashion-y exercise apparel. We grilled pros on the best clothes, shoes and gadgets—just in time for your extremely ambitious 2026 fitness goals. on.wsj.com/3LeqVZs <a href="https://bsky.app/profile/wsj.com/post/3mavurgqel423" target="_blank">wsj.com</a> (2025-12-27 03:01:29)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48635.30 (🔻77.17 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23611.21 (🔻34.70 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.00 (🔺1.04 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.59 (🔺0.79 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48628.65 (🔻83.82 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23615.51 (🔻30.40 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.45 (🔺1.49 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.57 (🔺0.77 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,98 +32,96 @@
 
 ## News Headlines
 
-- Increased Israeli activity undermines viability of independent Palestine
-- Chiefs tight end Travis Kelce takes final bow at Arrowhead
-- Scientists hope to breed last known Sacramento Mountains checkerspot butterfly
-- Family transforms historic Seattle home into stylish primary suite without expanding footprint
-- Egypt wins narrow 1-0 victory over South Africa with Salah penalty
-- Snoop Dogg's halftime show brings festive energy to U.S. Bank Stadium on Christmas
+- Venezuela Jail Authorities Release 99 Detainees Following Anti-Government Protests
+- Israel Recognizes Somaliland as Independent State
+- Study Finds Higher Muscle Mass Linked to Younger-Looking Brains
+- UPS Plane Crash in Kentucky Leaves 15th Fatality
+- Breakaway Region of Somalia Achieves Diplomatic Breakthrough
+- Severe Winter Storm Causes Flight Delays and Cancellations in the US
 
 
 ----
 
-@bloomberg.com
+@japan.reuters.com
 
-As diplomatic calls grow for an independent Palestine to be more widely recognized, increased Israeli activity is undermining the viability of such a nation
+南米ベネズエラの刑務所当局は２５日、２０２４年の大統領選を巡る抗議活動後に拘束された９９人を釈放したと発表した。米政権がマドゥロ大統領への圧力を強めている中での動き。ただ、人権関連団体は実際の釈放者の数はさらに少ないとの見方を示した。 bit.ly/4qLZTYT
 
-[2025-12-27 02:49:06](https://bsky.app/profile/bloomberg.com/post/3mavu3bwqfg2e)
-
----
-
-@reuters.com
-
-Chiefs TE Travis Kelce takes (final?) bow at Arrowhead reut.rs/4b2VqMA
-
-[2025-12-27 02:45:19](https://bsky.app/profile/reuters.com/post/3mavtujqtb22x)
+[2025-12-27 03:08:17](https://bsky.app/profile/japan.reuters.com/post/3mavv5lszmq2n)
 
 ---
 
-@nytimes.com
+@financialtimes.com
 
-This tiny caterpillar is the last known of its kind.
+So long, American exceptionalism ft.trib.al/u6gasby
 
-Scientists hope to breed the critically endangered Sacramento Mountains checkerspot by finding and capturing another individual from the wild — if any are left.
+[2025-12-27 03:05:48](https://bsky.app/profile/financialtimes.com/post/3mavuz6aj7c23)
 
-[2025-12-27 02:45:03](https://bsky.app/profile/nytimes.com/post/3mavtu27clp2z)
+---
+
+@bbcnews-world-rss.bsky.social
+
+Israel recognises Somaliland as independent state, Netanyahu says
+
+[2025-12-27 03:03:33](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mavuv5sm5e2y)
+
+---
+
+@japan.reuters.com
+
+イスラエルは２６日、アフリカ北東部の「ソマリランド共和国」を独立主権国家として正式に承認した。国際的にソマリランドを国家として承認したのはイスラエルが初めて。 bit.ly/3Y94WWZ
+
+[2025-12-27 03:02:51](https://bsky.app/profile/japan.reuters.com/post/3mavutuzhj727)
 
 ---
 
 @wsj.com
 
-When a family of four wanted to expand their historic Seattle home without changing its footprint, a designer helped transform the underused square footage above their heads into a stylish primary suite.
+Forget pricey, fashion-y exercise apparel. We grilled pros on the best clothes, shoes and gadgets—just in time for your extremely ambitious 2026 fitness goals. on.wsj.com/3LeqVZs
 
-🔗: on.wsj.com/44Iec8b
-
-[2025-12-27 02:41:35](https://bsky.app/profile/wsj.com/post/3mavtnumnxb2k)
+[2025-12-27 03:01:29](https://bsky.app/profile/wsj.com/post/3mavurgqel423)
 
 ---
 
-@reuters.com
+@nbcnews.com
 
-Salah penalty gives 10-man Egypt rearguard 1-0 win over S Africa reut.rs/4b7PhPb
+"Big Brother" alum Mickey Lee died on Thursday after suffering multiple heart attacks following flu complications, according to her family. She was 35.
 
-[2025-12-27 02:35:10](https://bsky.app/profile/reuters.com/post/3mavtcehsec2b)
-
----
-
-@reuters.com
-
-Return of Havertz will boost Arsenal's struggling attack, Arteta says reut.rs/3Ydlk8M
-
-[2025-12-27 02:30:44](https://bsky.app/profile/reuters.com/post/3mavt2h3etn2i)
+[2025-12-27 03:01:26](https://bsky.app/profile/nbcnews.com/post/3mavurdiw3a2u)
 
 ---
 
 @usatoday.com
 
-There was something for everyone during Snoop Dogg's halftime show from U.S. Bank Stadium on Christmas.
+President Donald Trump said he ordered military strikes against 'ISIS terrorist scum' in Nigeria on Christmas Day.
 
-[2025-12-27 02:30:35](https://bsky.app/profile/usatoday.com/post/3mavt26tipu2g)
-
----
-
-@aljazeera.com
-
-Stabbing, chemical spray attack injures 15 at Japanese factory https://aje.io/t941ce
-
-[2025-12-27 02:30:05](https://bsky.app/profile/aljazeera.com/post/3mavszcg7oe27)
+[2025-12-27 03:01:22](https://bsky.app/profile/usatoday.com/post/3mavur7xyp52t)
 
 ---
 
-@nytimes.com
+@apnews.com
 
-The passage of Proposition 50, which redrew California’s congressional map, means that all of the state’s conservative north is likely to be represented by Democrats. “I don’t think people that were born and raised in the cities can represent us to the same extent,” one farmer said.
+Since returning to the White House in January, President Donald Trump has overturned decades of U.S. trade policy.
 
-[2025-12-27 02:30:03](https://bsky.app/profile/nytimes.com/post/3mavsz7s5v42a)
+[2025-12-27 03:00:35](https://bsky.app/profile/apnews.com/post/3mavuptpmzm2n)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnn.com
 
-群馬  関越道の多重事故で1人死亡 複数人けが
-https://news.web.nhk/newsweb/na/na-k10015015301000
+These peaceful country roads have led to somewhere dark: The Wolf’s Lair — a vast, secluded complex where Nazi leader Adolf Hitler planned major military campaigns of World War II, and where an assassination plot nearly altered the course of the war.
+https://cnn.it/4pWzVSl
 
-[2025-12-27 02:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavszbfx6v2u)
+[2025-12-27 03:00:23](https://bsky.app/profile/cnn.com/post/3mavupiaket2b)
+
+---
+
+@washingtonpost.com
+
+A study of nearly 1,200 healthy, middle-aged adults found that higher muscle mass was linked to younger-looking brains.
+
+The findings add to evidence that maintaining muscle as we age may help protect brain health. https://wapo.st/4p38moV
+
+[2025-12-27 03:00:21](https://bsky.app/profile/washingtonpost.com/post/3mavupfhi3p24)
 
 ---
 
