@@ -1,9 +1,9 @@
-# [2025-12-26 19:10 updated](2025_12_26.md)
+# [2025-12-26 19:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【詳しく】政府 122兆円余の来年度予算案を決定 主な事業は https://news.web.nhk/newsweb/na/na-k10015014121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav2epeqql2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 19:09:02)</span><span style="padding-right:50px;">Amanda Seyfried is up for a Golden Globe for her performance in The Testament of Ann Lee, a movie musical about the leader of the Shakers, the 18th-century religious movement that preached celibacy, gender and racial equality, and pacifism. n.pr/4jkc5gW <a href="https://bsky.app/profile/npr.org/post/3mav2cbpbfa24" target="_blank">npr.org</a> (2025-12-26 19:07:43)</span><span style="padding-right:50px;">伊藤忠商事は２６日、セブン銀行の株式を議決権ベースで２０％取得し、同社を持ち分法適用会社にしたと発表した。「資本業務提携を通じて、より付加価値の高い金融サービスの実現を目指していく」としている。 bit.ly/3MLKVU1 <a href="https://bsky.app/profile/japan.reuters.com/post/3mav25r237g25" target="_blank">japan.reuters.com</a> (2025-12-26 19:05:11)</span><span style="padding-right:50px;">China allocates $634 million in relief funds to support people in need reut.rs/4j9Qh7m <a href="https://bsky.app/profile/reuters.com/post/3mav25pqiyz24" target="_blank">reuters.com</a> (2025-12-26 19:05:10)</span><span style="padding-right:50px;">食品3500品目値上げへ どうなる物価？ https://news.web.nhk/newsweb/na/na-k10015014411000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauzzybvra2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 19:03:02)</span>
+<span style="padding-right:50px;">香港高層住宅火災1か月 市民主体の追悼行事などは抑え込まれる https://news.web.nhk/newsweb/na/na-k10015014621000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav3evnea724" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 19:27:02)</span><span style="padding-right:50px;">Wingtech chairman says it must take back control of Nexperia, state media reports reut.rs/4je9vbW <a href="https://bsky.app/profile/reuters.com/post/3mav3bflzsh2r" target="_blank">reuters.com</a> (2025-12-26 19:25:07)</span><span style="padding-right:50px;">秋篠宮ご一家 戦中戦後の子どもテーマの絵画 鑑賞される https://news.web.nhk/newsweb/na/na-k10015015051000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav37jguux22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 19:24:02)</span><span style="padding-right:50px;">大分 大規模火災受け設置の避難所 市が閉鎖 住まい確保にめど https://news.web.nhk/newsweb/na/na-k10015015061000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav325kago2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 19:21:02)</span><span style="padding-right:50px;">Scott Wiener, the soft-spoken, 6-foot-7 ringleader of California’s Yimby movement, really, really wants to be the next Nancy Pelosi. <a href="https://bsky.app/profile/wsj.com/post/3mav2uucqty2u" target="_blank">wsj.com</a> (2025-12-26 19:18:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.43 (🔺0.62 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.40 (🔺0.60 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,101 +32,105 @@
 
 ## News Headlines
 
-- Japanese Government Approves 122 Trillion Yen Budget for Next Year
-- Amanda Seyfried Nominated for Golden Globe for Her Role in The Testament of Ann Lee
-- Itochu Acquires 20% of Seven Bank Shares, Becomes Largest Shareholder
-- China Allocates $634 Million in Relief Funds for People in Need
-- Food Prices to Rise: What to Expect
-- East Japan Railway Company Cancels Trains Due to Car Accident in Okayama
+- Hong Kong high-rise residential fire one month on, public mourning events suppressed
+- Wingtech chairman says it must take back control of Nexperia
+- Akebono Palace in Hiroshima honors war orphans with art exhibit
+- Oita city closes large-scale evacuation center after major fire
+- California Democrat Scott Wiener aims to be next Nancy Pelosi
+- Uniqlo to offer refunds for unpopular lotion product
 
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-【詳しく】政府 122兆円余の来年度予算案を決定 主な事業は
-https://news.web.nhk/newsweb/na/na-k10015014121000
+香港高層住宅火災1か月 市民主体の追悼行事などは抑え込まれる
+https://news.web.nhk/newsweb/na/na-k10015014621000
 
-[2025-12-26 19:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav2epeqql2y)
-
----
-
-@npr.org
-
-Amanda Seyfried is up for a Golden Globe for her performance in The Testament of Ann Lee, a movie musical about the leader of the Shakers, the 18th-century religious movement that preached celibacy, gender and racial equality, and pacifism. n.pr/4jkc5gW
-
-[2025-12-26 19:07:43](https://bsky.app/profile/npr.org/post/3mav2cbpbfa24)
-
----
-
-@japan.reuters.com
-
-伊藤忠商事は２６日、セブン銀行の株式を議決権ベースで２０％取得し、同社を持ち分法適用会社にしたと発表した。「資本業務提携を通じて、より付加価値の高い金融サービスの実現を目指していく」としている。 bit.ly/3MLKVU1
-
-[2025-12-26 19:05:11](https://bsky.app/profile/japan.reuters.com/post/3mav25r237g25)
+[2025-12-26 19:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav3evnea724)
 
 ---
 
 @reuters.com
 
-China allocates $634 million in relief funds to support people in need reut.rs/4j9Qh7m
+Wingtech chairman says it must take back control of Nexperia, state media reports reut.rs/4je9vbW
 
-[2025-12-26 19:05:10](https://bsky.app/profile/reuters.com/post/3mav25pqiyz24)
+[2025-12-26 19:25:07](https://bsky.app/profile/reuters.com/post/3mav3bflzsh2r)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-食品3500品目値上げへ どうなる物価？
-https://news.web.nhk/newsweb/na/na-k10015014411000
+秋篠宮ご一家 戦中戦後の子どもテーマの絵画 鑑賞される
+https://news.web.nhk/newsweb/na/na-k10015015051000
 
-[2025-12-26 19:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauzzybvra2w)
+[2025-12-26 19:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav37jguux22)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-東邦ホールディングスは２６日、シンガポール拠点の投資ファンド、３Ｄインベストメント・パートナーズが求めていた不祥事に関する第三者委員会の設置は不要と判断し、３Ｄ側に回答したと発表した。 bit.ly/455FgOX
+大分 大規模火災受け設置の避難所 市が閉鎖 住まい確保にめど
+https://news.web.nhk/newsweb/na/na-k10015015061000
 
-[2025-12-26 19:03:00](https://bsky.app/profile/japan.reuters.com/post/3mauzztdnub2q)
+[2025-12-26 19:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mav325kago2v)
 
 ---
 
 @wsj.com
 
-Timothée Chalamet may be the star of the movie, but it’s the actual people swirling around his character that give the movie an authentic feel. on.wsj.com/49r8ZnH
+Scott Wiener, the soft-spoken, 6-foot-7 ringleader of California’s Yimby movement, really, really wants to be the next Nancy Pelosi.
 
-[2025-12-26 19:02:27](https://bsky.app/profile/wsj.com/post/3mauzyuntpx2c)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】激しくあがる炎 住宅が燃える火事… 住人と連絡とれ負傷者なしか 北海道恵庭市
-(2025-12-26 19:01) #ニュース
-
-[2025-12-26 19:02:06](https://bsky.app/profile/sokuho.news/post/3mauzy7uiqi2z)
+[2025-12-26 19:18:06](https://bsky.app/profile/wsj.com/post/3mav2uucqty2u)
 
 ---
 
-@nbcnews.com
+@npr.org
 
-President Trump injected some politics into this year’s Christmas Eve phone calls with children from across the country, touching on topics like energy production and the 2020 election as part of the U.S. military’s annual NORAD Tracks Santa event.
+If your New Year's resolution is to start resistance training, Life Kit is here to help. Sign up for our Guide to Building Strength and get a month of expert tips on how to create a lasting routine. n.pr/44KLvr5
 
-[2025-12-26 19:01:16](https://bsky.app/profile/nbcnews.com/post/3mauzwqpdqq2n)
+[2025-12-26 19:18:02](https://bsky.app/profile/npr.org/post/3mav2upsizq2p)
 
 ---
 
-@sokuho.news
+@nikkei.com
 
-🛎️JNNより【速報】です。
+無印良品、SNSで香り不評の乳液に返金対応（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-【速報】高知市でマンション火災 現場から女性1人が救急搬送（26日午後7時）
-(2025-12-26 19:00:00) #ニュース
+「薬用リンクルブライト乳液」に、SNSで「香りが変わった」などの指摘が相次いでいました。
 
-[2025-12-26 19:00:51](https://bsky.app/profile/sokuho.news/post/3mauzvyh2j32r)
+良品計画は「原料の収穫時期や状態などにより、香りに違いが生じる場合がある」としています。
+
+安全性に問題がないことを確認済みで、商品回収は実施しません。
+
+#ニュース
+
+[2025-12-26 19:16:39](https://bsky.app/profile/nikkei.com/post/3mav2sb6tvg2c)
+
+---
+
+@japan.reuters.com
+
+米投資会社のバリューアクト・キャピタルが、マネーフォワード株の保有比率を９．５３％に引き上げたことが２６日提出の変更報告書で分かった。前回報告は５．６２％だった。２３日に市場外で３．０６％の株式を取得した。 bit.ly/4pXS5mG
+
+[2025-12-26 19:15:13](https://bsky.app/profile/japan.reuters.com/post/3mav2potoht27)
+
+---
+
+@japan.reuters.com
+
+中国外務省は２６日、台湾向け武器売却を理由に、米国の防衛企業２０社と個人１０人を制裁対象に指定したと発表した。制裁対象には、米航空機大手ボーイングのセントルイス支部も含まれる。 bit.ly/4az71CT
+
+[2025-12-26 19:14:14](https://bsky.app/profile/japan.reuters.com/post/3mav2nwshb72s)
+
+---
+
+@japan.reuters.com
+
+インドが次期指導者の検討を始める時期が近づいている。２０２６年末までに、モディ首相は３期５年の中間点を迎える。現在７５歳のモディ氏は、１０年以上にわたり強力で親ビジネス的な政権を維持してきた。４期目の可能性もゼロではないが、与党・インド人民党（ＢＪＰ）の過半数維持が揺らぎ、現職批判が高まるなかで、その実現性は低い。誰が後継となるかという問いは、今後切実さを増すことになる。 bit.ly/3YcnOV6
+
+[2025-12-26 19:10:14](https://bsky.app/profile/japan.reuters.com/post/3mav2grr52b2q)
 
 ---
 
