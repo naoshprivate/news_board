@@ -1,9 +1,9 @@
-# [2025-12-26 20:50 updated](2025_12_26.md)
+# [2025-12-26 21:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">振り出しの名古屋駅前再開発、名鉄に3シナリオ www.nikkei.com/article/DGXZQO...  規模を縮小して自力で開発を続けるのか、ともに名古屋駅を構成し財務が強固なJR東海を巻き込むのか。  地元勢を巻き込んだ「オール名古屋」での大型開発を期待する声も少なくありません。  ストップした再開発計画がどうなってしまうのか探りました。 <a href="https://bsky.app/profile/nikkei.com/post/3mav7t7iegs22" target="_blank">nikkei.com</a> (2025-12-26 20:46:40)</span><span style="padding-right:50px;">防衛省は２６日、潜水艦用エンジンの検査で長期にわたる不正があったとして、川崎重工業を来年３月１１日まで２カ月半指名停止にすると発表した。 bit.ly/4pgGqye <a href="https://bsky.app/profile/japan.reuters.com/post/3mav7qlos272f" target="_blank">japan.reuters.com</a> (2025-12-26 20:45:12)</span><span style="padding-right:50px;">🇮🇷 Iran's women bikers take the road despite legal, social obstacles  Maryam Ghelich has helped hundreds of women to navigate not only Tehran's gridlocked streets but the barriers facing female motorcyclists in the conservative Islamic republic. <a href="https://bsky.app/profile/en.afp.com/post/3mav7ims4uk2u" target="_blank">en.afp.com</a> (2025-12-26 20:40:45)</span><span style="padding-right:50px;">東邦銀行は２６日、ＨＳホールディングス（旧澤田ホールディングス）が保有する大東銀行の株式の大半（訂正）を取得すると発表した。取得後の持ち株比率は１９．６７％になる見込み。福島県を営業基盤とする両行が健全な競合関係を維持しながら、互いの強みを生かして連携することが重要と判断した。 bit.ly/4pRedPt <a href="https://bsky.app/profile/japan.reuters.com/post/3mav7hq56sf22" target="_blank">japan.reuters.com</a> (2025-12-26 20:40:15)</span><span style="padding-right:50px;">Alaska Airlines is the latest airline to ground its planes because of an IT meltdown. We talked to industry leaders about why these systems fail, and what airlines can learn from past disruptions. n.pr/49t1BZ2 <a href="https://bsky.app/profile/npr.org/post/3mav7ebr45h2x" target="_blank">npr.org</a> (2025-12-26 20:38:19)</span>
+<span style="padding-right:50px;">静岡 工場に刃物持った男侵入 15人けが 容疑者をその場で逮捕 https://news.web.nhk/newsweb/na/na-k10015015021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavb3bixic26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 21:09:02)</span><span style="padding-right:50px;">Zelenskyy preparing to meet Trump within days ft.trib.al/rYvyB52 <a href="https://bsky.app/profile/financialtimes.com/post/3mavayttgjm2b" target="_blank">financialtimes.com</a> (2025-12-26 21:07:43)</span><span style="padding-right:50px;">Weddings, dinners, weekends away: maintaining social connections is becoming increasingly expensive. on.ft.com/4s4xNcP <a href="https://bsky.app/profile/financialtimes.com/post/3mavaxplkew2o" target="_blank">financialtimes.com</a> (2025-12-26 21:07:05)</span><span style="padding-right:50px;">東邦ホールディングスは２６日、シンガポール拠点の投資ファンド、３Ｄインベストメント・パートナーズが求めていた不祥事に関する第三者委員会の設置は不要と判断し、３Ｄ側に回答したと発表した。 bit.ly/4qr46Ro <a href="https://bsky.app/profile/japan.reuters.com/post/3mavaubignu2q" target="_blank">japan.reuters.com</a> (2025-12-26 21:05:09)</span><span style="padding-right:50px;">China eases IPO rules for firms developing reusable rockets reut.rs/49aACjQ <a href="https://bsky.app/profile/reuters.com/post/3mavauahtlf2r" target="_blank">reuters.com</a> (2025-12-26 21:05:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.38 (🔺0.57 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.43 (🔺0.63 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,105 +32,95 @@
 
 ## News Headlines
 
-- Nagoya Station redevelopment plan scrapped, or downsized, by JR East and Kintetsu
-- Japan's Kawasaki Heavy Industries ordered to halt submarine engine inspection for 2.5 months
-- Tokyo Stock Market Continues to Rise, Closes at 50,750.39 JPY
-- Eneos to Cancel Some New Graduate Hires, Including Administrative and IT Staff
-- South Korean Prosecutors Seek 10-Year Jail Term for Ex-President Yoon Suk-yeol
-- Head of Ukraine's Zelenskyy to Meet with Trump in the Near Future, Signaling Progress in Talks to End Russia-Ukraine War
+- Man Arrested for Breaking into a Factory in Shizuoka with a Knife, 15 People Injured
+- Zelenskyy to Meet Trump Within Days
+- The Cost of Social Connections is Becoming Increasingly Expensive
+- Japan's East Japan Railway Company to Collaborate with Nagoya Station Development
+- Thai Central Bank Intervenes in Currency Market to Curb Baht Appreciation
+- U.S. Customs Stops Tens of Thousands of Imports Due to Missing or Incomplete Information
 
 
 ----
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-振り出しの名古屋駅前再開発、名鉄に3シナリオ
-www.nikkei.com/article/DGXZQO...
+静岡 工場に刃物持った男侵入 15人けが 容疑者をその場で逮捕
+https://news.web.nhk/newsweb/na/na-k10015015021000
 
-規模を縮小して自力で開発を続けるのか、ともに名古屋駅を構成し財務が強固なJR東海を巻き込むのか。
+[2025-12-26 21:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavb3bixic26)
 
-地元勢を巻き込んだ「オール名古屋」での大型開発を期待する声も少なくありません。
+---
 
-ストップした再開発計画がどうなってしまうのか探りました。
+@financialtimes.com
 
-[2025-12-26 20:46:40](https://bsky.app/profile/nikkei.com/post/3mav7t7iegs22)
+Zelenskyy preparing to meet Trump within days ft.trib.al/rYvyB52
+
+[2025-12-26 21:07:43](https://bsky.app/profile/financialtimes.com/post/3mavayttgjm2b)
+
+---
+
+@financialtimes.com
+
+Weddings, dinners, weekends away: maintaining social connections is becoming increasingly expensive. on.ft.com/4s4xNcP
+
+[2025-12-26 21:07:05](https://bsky.app/profile/financialtimes.com/post/3mavaxplkew2o)
 
 ---
 
 @japan.reuters.com
 
-防衛省は２６日、潜水艦用エンジンの検査で長期にわたる不正があったとして、川崎重工業を来年３月１１日まで２カ月半指名停止にすると発表した。 bit.ly/4pgGqye
+東邦ホールディングスは２６日、シンガポール拠点の投資ファンド、３Ｄインベストメント・パートナーズが求めていた不祥事に関する第三者委員会の設置は不要と判断し、３Ｄ側に回答したと発表した。 bit.ly/4qr46Ro
 
-[2025-12-26 20:45:12](https://bsky.app/profile/japan.reuters.com/post/3mav7qlos272f)
-
----
-
-@en.afp.com
-
-🇮🇷 Iran's women bikers take the road despite legal, social obstacles
-
-Maryam Ghelich has helped hundreds of women to navigate not only Tehran's gridlocked streets but the barriers facing female motorcyclists in the conservative Islamic republic.
-
-[2025-12-26 20:40:45](https://bsky.app/profile/en.afp.com/post/3mav7ims4uk2u)
-
----
-
-@japan.reuters.com
-
-東邦銀行は２６日、ＨＳホールディングス（旧澤田ホールディングス）が保有する大東銀行の株式の大半（訂正）を取得すると発表した。取得後の持ち株比率は１９．６７％になる見込み。福島県を営業基盤とする両行が健全な競合関係を維持しながら、互いの強みを生かして連携することが重要と判断した。 bit.ly/4pRedPt
-
-[2025-12-26 20:40:15](https://bsky.app/profile/japan.reuters.com/post/3mav7hq56sf22)
-
----
-
-@npr.org
-
-Alaska Airlines is the latest airline to ground its planes because of an IT meltdown. We talked to industry leaders about why these systems fail, and what airlines can learn from past disruptions. n.pr/49t1BZ2
-
-[2025-12-26 20:38:19](https://bsky.app/profile/npr.org/post/3mav7ebr45h2x)
-
----
-
-@japan.reuters.com
-
-２０２０年に韓国の海洋水産省職員が北朝鮮軍に射殺された事件を巡り、事実関係を隠蔽・操作したとして職権乱用などの罪に問われていた文在寅・元政権の高官５人に対し、ソウル中央地裁は２６日、無罪判決を言い渡した。 bit.ly/4scywZ9
-
-[2025-12-26 20:35:08](https://bsky.app/profile/japan.reuters.com/post/3mav76lzpn522)
-
----
-
-@forbes.com
-
-Bookmakers have already poured in millions to bet on key events in 2026, including upcoming elections, sporting events and potential military conflicts. 
-
-[2025-12-26 20:35:04](https://bsky.app/profile/forbes.com/post/3mav76hruxm2o)
-
----
-
-@japan.reuters.com
-
-韓国の特別検察官は２６日、「非常戒厳」宣言の失敗後、自身の逮捕を妨害しようとした罪などに問われている尹錫悦・前大統領に対し懲役１０年を求刑した。 bit.ly/4q4KfaT
-
-[2025-12-26 20:32:56](https://bsky.app/profile/japan.reuters.com/post/3mav72ntzex2f)
-
----
-
-@nikkei.com
-
-ENEOS、27年入社の新卒採用一部見送り　事務系やIT職など
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-12-26 20:30:39](https://bsky.app/profile/nikkei.com/post/3mav6wl7qmf2i)
+[2025-12-26 21:05:09](https://bsky.app/profile/japan.reuters.com/post/3mavaubignu2q)
 
 ---
 
 @reuters.com
 
-Israeli reservist rams vehicle into Palestinian man praying in West Bank reut.rs/3N446bz
+China eases IPO rules for firms developing reusable rockets reut.rs/49aACjQ
 
-[2025-12-26 20:30:26](https://bsky.app/profile/reuters.com/post/3mav6w6lkce2s)
+[2025-12-26 21:05:08](https://bsky.app/profile/reuters.com/post/3mavauahtlf2r)
+
+---
+
+@wsj.com
+
+Two years ago, James Nnaji was drafted into the NBA. Now, after playing in the development league, he’s headed to college hoops instead. on.wsj.com/4b8B4S1
+
+[2025-12-26 21:04:02](https://bsky.app/profile/wsj.com/post/3mavasbsfle2g)
+
+---
+
+@wsj.com
+
+This richly illustrated nine-panel work in Prague’s Agnes Cloister emphasizes the humanity in the essential chapters of Christian faith, creating images with universal appeal. on.wsj.com/3MRcb3o
+
+[2025-12-26 21:04:02](https://bsky.app/profile/wsj.com/post/3mavasbxcep2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【新潟】お米券など食料品支援 自治体は
+https://news.web.nhk/newsweb/na/na-k10015015101000
+
+[2025-12-26 21:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavaqjztwl2s)
+
+---
+
+@cnbc.com
+
+These are Raymond James' top stock picks for 2026
+
+[2025-12-26 21:02:42](https://bsky.app/profile/cnbc.com/post/3mavaputyon2d)
+
+---
+
+@financialtimes.com
+
+Populists attack London because it is ‘progressive and successful’, says Khan ft.trib.al/nTni2DD
+
+[2025-12-26 21:01:41](https://bsky.app/profile/financialtimes.com/post/3mavao36kqs2o)
 
 ---
 
