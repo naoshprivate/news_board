@@ -1,9 +1,9 @@
-# [2025-12-26 23:30 updated](2025_12_26.md)
+# [2025-12-26 23:50 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">After his mom died, Fry Bread author Kevin Maillard found himself wondering, "but where did she go?" So he wrote about it. His new kids' book is And They Walk On, illustrated by Rafael López. <a href="https://bsky.app/profile/npr.org/post/3maviowudsu24" target="_blank">npr.org</a> (2025-12-26 23:25:20)</span><span style="padding-right:50px;">Southern California will receive more rain on Friday after several days of downpours, adding to the risk of flooding before the weather improves, forecasters said. <a href="https://bsky.app/profile/nytimes.com/post/3maviohehiz2r" target="_blank">nytimes.com</a> (2025-12-26 23:25:04)</span><span style="padding-right:50px;">The price of silver surged more than 4% and crossed the $75-per-ounce mark for the first time as precious metal prices continue a record-breaking rally. <a href="https://bsky.app/profile/forbes.com/post/3maviogkt3a2g" target="_blank">forbes.com</a> (2025-12-26 23:25:03)</span><span style="padding-right:50px;">Zelensky plans to meet Trump on Sunday for talks on peace deal <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mavimofdrd2z" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-26 23:24:03)</span><span style="padding-right:50px;">Properly deciphering the branching pathways of evolution could unlock the history of every component of natural biology. on.wsj.com/498wuRg <a href="https://bsky.app/profile/wsj.com/post/3maviloee5k2r" target="_blank">wsj.com</a> (2025-12-26 23:23:30)</span>
+<span style="padding-right:50px;">Facing an unraveling marriage, a middle-aged lawyer sets off on a road trip in the hopes of rekindling his life’s meaning. on.wsj.com/4pdfKyf <a href="https://bsky.app/profile/wsj.com/post/3mavjx2mwfc2u" target="_blank">wsj.com</a> (2025-12-26 23:47:46)</span><span style="padding-right:50px;">Mosque bombing in Alawite district in Syria leaves at least 8 dead ft.trib.al/PmXc4c5 <a href="https://bsky.app/profile/financialtimes.com/post/3mavjuorc572y" target="_blank">financialtimes.com</a> (2025-12-26 23:46:27)</span><span style="padding-right:50px;">群馬 みなかみ町 関越道で多重事故 けが人複数の情報も https://news.web.nhk/newsweb/na/na-k10015015301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavjs7bvtw2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 23:45:02)</span><span style="padding-right:50px;">The anomalies studied by behavioral economists suggest that logic is rarely the most important factor in decisions. on.wsj.com/3NjncKM <a href="https://bsky.app/profile/wsj.com/post/3mavjp32yes2t" target="_blank">wsj.com</a> (2025-12-26 23:43:18)</span><span style="padding-right:50px;">Reforms to Portugal's golden visa scheme have seen money flow to museums, cultural projects and funds, but some want to see more social spending. <a href="https://bsky.app/profile/bloomberg.com/post/3mavjhkrdui2u" target="_blank">bloomberg.com</a> (2025-12-26 23:39:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48705.54 (🔻6.93 : 2025-12-26)</span><span style="padding-right:50px;">^IXIC: Error</span><span style="padding-right:50px;">NVIDIA: 189.95 (🔻0.01 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.34 (🔺0.53 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48730.02 (🔺17.55 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23647.69 (🔺1.79 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.81 (🔺1.85 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.46 (🔺0.66 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,93 +32,94 @@
 
 ## News Headlines
 
-- Author writes children's book to cope with mom's passing
-- Silver price surges to over $75 per ounce
-- Zelensky to meet Trump on Sunday for peace talks
-- Iran seizes oil tanker carrying smuggled fuel
-- Former Malaysian PM Najib Razak found guilty of corruption
-- Worldwide mergers and acquisitions increase by 50% in 2024
+- Middle-Aged Lawyer Embarks on Road Trip to Rekindle Life's Meaning
+- Mosque Bombing in Syria Leaves at Least 8 Dead
+- Multiple-Car Crash on Japan's National Highway Leaves Several Injured
+- Logic Not the Most Important Factor in Decision-Making, Study Suggests
+- Portugal's Golden Visa Scheme Sees Money Flow to Museums and Cultural Projects
+- US Experiencing Rapid Shift Away from Traditional Religion
 
 
 ----
 
-@npr.org
-
-After his mom died, Fry Bread author Kevin Maillard found himself wondering, "but where did she go?" So he wrote about it. His new kids' book is And They Walk On, illustrated by Rafael López.
-
-[2025-12-26 23:25:20](https://bsky.app/profile/npr.org/post/3maviowudsu24)
-
----
-
-@nytimes.com
-
-Southern California will receive more rain on Friday after several days of downpours, adding to the risk of flooding before the weather improves, forecasters said.
-
-[2025-12-26 23:25:04](https://bsky.app/profile/nytimes.com/post/3maviohehiz2r)
-
----
-
-@forbes.com
-
-The price of silver surged more than 4% and crossed the $75-per-ounce mark for the first time as precious metal prices continue a record-breaking rally.
-
-[2025-12-26 23:25:03](https://bsky.app/profile/forbes.com/post/3maviogkt3a2g)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Zelensky plans to meet Trump on Sunday for talks on peace deal
-
-[2025-12-26 23:24:03](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mavimofdrd2z)
-
----
-
 @wsj.com
 
-Properly deciphering the branching pathways of evolution could unlock the history of every component of natural biology. on.wsj.com/498wuRg
+Facing an unraveling marriage, a middle-aged lawyer sets off on a road trip in the hopes of rekindling his life’s meaning. on.wsj.com/4pdfKyf
 
-[2025-12-26 23:23:30](https://bsky.app/profile/wsj.com/post/3maviloee5k2r)
-
----
-
-@wsj.com
-
-Selected by Simon Tolkien, the author of the novels, “The Palace at the End of the Sea” and “The Room of Lost Steps.” on.wsj.com/496MXVZ
-
-[2025-12-26 23:16:48](https://bsky.app/profile/wsj.com/post/3mavi7oij3f2z)
-
----
-
-@nytimes.com
-
-An attacker from the Israeli-occupied West Bank killed two people in a car ramming and stabbing attack in northern Israel on Friday, the Israeli authorities said. A preliminary investigation indicated that the attack was terrorism, the Israeli police said.
-
-[2025-12-26 23:15:06](https://bsky.app/profile/nytimes.com/post/3mavi4n66dl2x)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-1MDB: Former Malaysian prime minister Najib Razak found guilty of abusing power and money laundering
-
-[2025-12-26 23:13:37](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mavhzywepj2x)
-
----
-
-@cnbc.com
-
-Winter storm puts airlines to the test. Here's what travelers need to know
-
-[2025-12-26 23:13:03](https://bsky.app/profile/cnbc.com/post/3mavhyy5oq62e)
+[2025-12-26 23:47:46](https://bsky.app/profile/wsj.com/post/3mavjx2mwfc2u)
 
 ---
 
 @financialtimes.com
 
-Worldwide mergers and acquisitions increased by almost 50% from 2024 to $4.5tn, according to data from the London Stock Exchange Group. ft.trib.al/bEXXzrb
+Mosque bombing in Alawite district in Syria leaves at least 8 dead ft.trib.al/PmXc4c5
 
-[2025-12-26 23:12:44](https://bsky.app/profile/financialtimes.com/post/3mavhyfb7gz25)
+[2025-12-26 23:46:27](https://bsky.app/profile/financialtimes.com/post/3mavjuorc572y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+群馬 みなかみ町 関越道で多重事故 けが人複数の情報も
+https://news.web.nhk/newsweb/na/na-k10015015301000
+
+[2025-12-26 23:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavjs7bvtw2u)
+
+---
+
+@wsj.com
+
+The anomalies studied by behavioral economists suggest that logic is rarely the most important factor in decisions. on.wsj.com/3NjncKM
+
+[2025-12-26 23:43:18](https://bsky.app/profile/wsj.com/post/3mavjp32yes2t)
+
+---
+
+@bloomberg.com
+
+Reforms to Portugal's golden visa scheme have seen money flow to museums, cultural projects and funds, but some want to see more social spending.
+
+[2025-12-26 23:39:06](https://bsky.app/profile/bloomberg.com/post/3mavjhkrdui2u)
+
+---
+
+@axios.com
+
+The U.S. is undergoing its fastest religious shift in modern history, marked by a rapid increase in the religiously unaffiliated and numerous church closures nationwide.
+
+[2025-12-26 23:38:07](https://bsky.app/profile/axios.com/post/3mavjfsalus26)
+
+---
+
+@yahoofinance.com
+
+2025: The year the Big Three backed away from EVs
+
+[2025-12-26 23:36:06](https://bsky.app/profile/yahoofinance.com/post/3mavjc6xeyr2f)
+
+---
+
+@nbcnews.com
+
+The table tennis couple who helped prepare Timothée Chalamet for “Marty Supreme.”
+
+[2025-12-26 23:32:22](https://bsky.app/profile/nbcnews.com/post/3mavj3iqp6e24)
+
+---
+
+@japan.reuters.com
+
+中国外務省は２６日、台湾向け武器売却を理由に、米国の防衛企業２０社と個人１０人を制裁対象に指定したと発表した。制裁対象には、米航空機大手ボーイングのセントルイス支部も含まれる。 bit.ly/45dqu8E
+
+[2025-12-26 23:30:32](https://bsky.app/profile/japan.reuters.com/post/3maviyadanl26)
+
+---
+
+@usatoday.com
+
+In most cases, Christmas decorations, including artificial trees, ornaments and string lights, can be recycled.
+
+[2025-12-26 23:30:25](https://bsky.app/profile/usatoday.com/post/3mavixzjjpv2s)
 
 ---
 
