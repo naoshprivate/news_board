@@ -1,9 +1,9 @@
-# [2025-12-26 10:50 updated](2025_12_26.md)
+# [2025-12-26 11:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ロシア外務省のザハロワ報道官は２５日、米国がベネズエラを海上封鎖することによってカリブ海で海賊行為を復活させていると批判し、トランプ米大統領のプラグマティズム（実用主義）が事態の収拾に役立つことを期待すると述べた。 bit.ly/49a0D2q <a href="https://bsky.app/profile/japan.reuters.com/post/3mau6gcg4oi27" target="_blank">japan.reuters.com</a> (2025-12-26 10:48:53)</span><span style="padding-right:50px;">２０２６年度国債発行計画の概要は以下の通り。カッコ内は対前年当初（▲はマイナス）。 bit.ly/4stkDWW <a href="https://bsky.app/profile/japan.reuters.com/post/3mau66llpnq27" target="_blank">japan.reuters.com</a> (2025-12-26 10:44:34)</span><span style="padding-right:50px;">The U.S. strikes against the Islamic State in Nigeria followed President Trump’s threat to take military action to protect Christians from attacks by Islamic militants. Trump did not specify which attacks he was referring to, nor did he cite evidence for the claim that Christians are being targeted. <a href="https://bsky.app/profile/nytimes.com/post/3mau65vwzyk2b" target="_blank">nytimes.com</a> (2025-12-26 10:44:12)</span><span style="padding-right:50px;">政府は２６日、防衛力整備計画４年目に当たる２０２６年度の防衛予算案を前年比３．８％増の９兆０３５３億円に決定した。有人の武器に比べてコストが安い無人機の導入を各国が進める中、自衛隊も無人装備を大量に調達する。年明けに始まる通常国会で成立すれば過去最高を更新し、初めて９兆円台に乗せる。 bit.ly/45eVLYO <a href="https://bsky.app/profile/japan.reuters.com/post/3mau62roufi22" target="_blank">japan.reuters.com</a> (2025-12-26 10:42:27)</span><span style="padding-right:50px;">楽天モバイル、全契約回線数1000万に　月収入増・地方開拓が課題（無料記事） www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3mau5xlp7dy2i" target="_blank">nikkei.com</a> (2025-12-26 10:40:40)</span>
+<span style="padding-right:50px;">Forget hoodies. The latest addition to the tech-bro look is a newly taut face. on.wsj.com/4s7xWMx <a href="https://bsky.app/profile/wsj.com/post/3mau7fyjhn22z" target="_blank">wsj.com</a> (2025-12-26 11:06:36)</span><span style="padding-right:50px;">'Humans are the most important part' of investing, says a fund manager whose firm makes every call with algorithms <a href="https://bsky.app/profile/cnbc.com/post/3mau76kuux625" target="_blank">cnbc.com</a> (2025-12-26 11:02:27)</span><span style="padding-right:50px;">＜１０：５０＞　ドル156円前半に上昇、仲値前後で買い優勢に bit.ly/4atwEVG <a href="https://bsky.app/profile/japan.reuters.com/post/3mau76hyo532q" target="_blank">japan.reuters.com</a> (2025-12-26 11:02:24)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】大阪・門真署で保管していた偽造ナンバーなど盗難 覚醒剤所持の疑いで40代の男を逮捕 盗難との関連調べる (2025-12-26 10:51) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mau74qib5k2x" target="_blank">sokuho.news</a> (2025-12-26 11:01:26)</span><span style="padding-right:50px;">ロシア外務省のザハロワ報道官は２５日、ウクライナ紛争の解決に向けた米国との交渉はゆっくりではあるが着実に進展していると述べた。 bit.ly/45sem3E <a href="https://bsky.app/profile/japan.reuters.com/post/3mau73zxvkc26" target="_blank">japan.reuters.com</a> (2025-12-26 11:01:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50870.65 (🔺343.52 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3391.00 (🔺14.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.32 (🔺0.51 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50895.70 (🔺368.57 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3392.00 (🔺15.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.24 (🔺0.43 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,95 +32,105 @@
 
 ## News Headlines
 
-- Russia Criticizes US over Venezuela Blockade, Sees Trump's Pragmatism Helping Resolve Situation
-- Japan's Defense Budget for 2026 Sets Record High of 9.035 Trillion Yen
-- Japan's Defense Budget for 2026 Sets Record High of 9.035 Trillion Yen
-- Russia Puts Off Goal to Increase LNG Production to 100 Million Tons by Several Years
-- Syrian Central Bank Announces Plan to Exchange Old and New Banknotes Starting from January 1, 2026
-- Japanese Government Approves Record-Breaking 122.3 Trillion Yen Budget for 2026
+- Forget hoodies, the latest tech-bro look is a newly taut face
+- Fund manager: 'Humans are the most important part' of investing
+- Japan cuts longest bond issuance as fiscal worries drive selloff
+- Japanese government approves record 122 trillion yen budget
+- Russia's deputy PM says gas production goal delayed due to sanctions
+- Ukrainian president meets with Trump envoy to discuss ceasefire
 
 
 ----
 
-@japan.reuters.com
+@wsj.com
 
-ロシア外務省のザハロワ報道官は２５日、米国がベネズエラを海上封鎖することによってカリブ海で海賊行為を復活させていると批判し、トランプ米大統領のプラグマティズム（実用主義）が事態の収拾に役立つことを期待すると述べた。 bit.ly/49a0D2q
+Forget hoodies. The latest addition to the tech-bro look is a newly taut face. on.wsj.com/4s7xWMx
 
-[2025-12-26 10:48:53](https://bsky.app/profile/japan.reuters.com/post/3mau6gcg4oi27)
+[2025-12-26 11:06:36](https://bsky.app/profile/wsj.com/post/3mau7fyjhn22z)
+
+---
+
+@cnbc.com
+
+'Humans are the most important part' of investing, says a fund manager whose firm makes every call with algorithms
+
+[2025-12-26 11:02:27](https://bsky.app/profile/cnbc.com/post/3mau76kuux625)
 
 ---
 
 @japan.reuters.com
 
-２０２６年度国債発行計画の概要は以下の通り。カッコ内は対前年当初（▲はマイナス）。 bit.ly/4stkDWW
+＜１０：５０＞　ドル156円前半に上昇、仲値前後で買い優勢に bit.ly/4atwEVG
 
-[2025-12-26 10:44:34](https://bsky.app/profile/japan.reuters.com/post/3mau66llpnq27)
+[2025-12-26 11:02:24](https://bsky.app/profile/japan.reuters.com/post/3mau76hyo532q)
 
 ---
 
-@nytimes.com
+@sokuho.news
 
-The U.S. strikes against the Islamic State in Nigeria followed President Trump’s threat to take military action to protect Christians from attacks by Islamic militants. Trump did not specify which attacks he was referring to, nor did he cite evidence for the claim that Christians are being targeted.
+🛎️FNNより【速報】です。
 
-[2025-12-26 10:44:12](https://bsky.app/profile/nytimes.com/post/3mau65vwzyk2b)
+【速報】大阪・門真署で保管していた偽造ナンバーなど盗難 覚醒剤所持の疑いで40代の男を逮捕 盗難との関連調べる
+(2025-12-26 10:51) #ニュース
+
+[2025-12-26 11:01:26](https://bsky.app/profile/sokuho.news/post/3mau74qib5k2x)
 
 ---
 
 @japan.reuters.com
 
-政府は２６日、防衛力整備計画４年目に当たる２０２６年度の防衛予算案を前年比３．８％増の９兆０３５３億円に決定した。有人の武器に比べてコストが安い無人機の導入を各国が進める中、自衛隊も無人装備を大量に調達する。年明けに始まる通常国会で成立すれば過去最高を更新し、初めて９兆円台に乗せる。 bit.ly/45eVLYO
+ロシア外務省のザハロワ報道官は２５日、ウクライナ紛争の解決に向けた米国との交渉はゆっくりではあるが着実に進展していると述べた。 bit.ly/45sem3E
 
-[2025-12-26 10:42:27](https://bsky.app/profile/japan.reuters.com/post/3mau62roufi22)
+[2025-12-26 11:01:03](https://bsky.app/profile/japan.reuters.com/post/3mau73zxvkc26)
+
+---
+
+@cnn.com
+
+This college entrance exam was so hard an official had to resign. Could you ace these questions? https://cnn.it/4st0QXE
+
+[2025-12-26 11:01:01](https://bsky.app/profile/cnn.com/post/3mau73yv2zg2v)
 
 ---
 
 @nikkei.com
 
-楽天モバイル、全契約回線数1000万に　月収入増・地方開拓が課題（無料記事）
+AIが提案する「パーソナライズド」価格、NY州が全米初の規制
 www.nikkei.com/article/DGXZQO...
+ 
+高所得層が住む地域からホテルを予約すると、あるいはMac使用者が予約すると、通常より高い料金が請求される──。
+ 
+「パーソナライズドプライシング」は郵便番号や所得などの個人データを用いて価格を設定する手法です。
+ 
+ただ、AIによる行き過ぎた個人データの活用で、インフレや消費者への不利益が広がるとの警戒が強まっています。全米の少なくとも10州で規制が審議中です。
 
-[2025-12-26 10:40:40](https://bsky.app/profile/nikkei.com/post/3mau5xlp7dy2i)
+[2025-12-26 11:00:52](https://bsky.app/profile/nikkei.com/post/3mau73pnh4u2m)
+
+---
+
+@usatoday.com
+
+Will Taylor Swift be in attendance for the Chiefs vs. Broncos on Christmas in Kansas City? Here's the latest.
+
+[2025-12-26 11:00:52](https://bsky.app/profile/usatoday.com/post/3mau73pnpt22f)
+
+---
+
+@cnbc.com
+
+Dhruv Amin and Marcus Lowe shut down their developer marketplace in 2023 after predicting that the AI revolution would render their business model obsolete.
+
+Then, they shuttered the whole thing to start over from scratch — all due to ChatGPT, says Amin.
+
+[2025-12-26 11:00:34](https://bsky.app/profile/cnbc.com/post/3mau736dlsd24)
 
 ---
 
 @japan.reuters.com
 
-シリア中央銀行のフスリエ総裁は２５日、２０２６年１月１日から旧紙幣と新紙幣の交換を開始すると発表した。 bit.ly/4s9Pyrb
+ウクライナのゼレンスキー大統領は２５日、ロシアによる侵攻終結に向けた方策についてトランプ米政権のウィットコフ特使およびトランプ氏の娘婿ジャレド・クシュナー氏と約１時間協議したと明らかにした。 bit.ly/3L1VUYS
 
-[2025-12-26 10:40:14](https://bsky.app/profile/japan.reuters.com/post/3mau5wt6ybq27)
-
----
-
-@japan.reuters.com
-
-＜１０：２５＞　日経平均は４００円超高、主力株がしっかり　ＴＯＰＩＸは史上最高値更新 bit.ly/4s8uHEp
-
-[2025-12-26 10:38:09](https://bsky.app/profile/japan.reuters.com/post/3mau5t3oajf2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-政府 来年度予算案を決定 一般会計総額122兆3092億円 過去最大
-https://news.web.nhk/newsweb/na/na-k10015014121000
-
-[2025-12-26 10:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mau5pev6mk2u)
-
----
-
-@japan.reuters.com
-
-政府は２６日、２０２６年度一般会計予算案を閣議決定した。予算規模は１２２兆円超と過去最大に膨らんだが、経済成長に伴う高税収を見込み、新規国債の発行額を抑制した。規模を追求する中でも公債依存度を２４．２％と１９９８年度以来の水準に抑え、「責任財政」に腐心した構成となった。 bit.ly/48XiWcE
-
-[2025-12-26 10:32:47](https://bsky.app/profile/japan.reuters.com/post/3mau5jijsu72q)
-
----
-
-@japan.reuters.com
-
-ロシアのノバク副首相は２５日、国営テレビ「ロシア２４」に対し、液化天然ガス（ＬＮＧ）の生産を年間１億トンに増やす目標の達成時期が、計画から「数年」先送りされたと明らかにした。欧米によるロシアのエネルギー部門への制裁が影響したという。 bit.ly/3MQNqUZ
-
-[2025-12-26 10:30:24](https://bsky.app/profile/japan.reuters.com/post/3mau5farpms2q)
+[2025-12-26 11:00:28](https://bsky.app/profile/japan.reuters.com/post/3mau72ysyjh2n)
 
 ---
 
