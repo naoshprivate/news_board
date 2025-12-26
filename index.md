@@ -1,9 +1,9 @@
-# [2025-12-26 09:50 updated](2025_12_26.md)
+# [2025-12-26 10:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【動画】Pickup NEWS（12月26日） https://news.web.nhk/newsweb/na/na-k10015014281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mau2zk2hvm2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 09:48:02)</span><span style="padding-right:50px;">カカクコムが大幅に反発し、前営業日比７％超高の２３７０円付近を推移している。午前９時３０分現在、東証プライム市場の値上がり率トップ。香港の投資ファンド、オアシス・マネジメントが、カカクコム株を５．２３％保有していることが分かり、材料視されている。 bit.ly/4qooa6R <a href="https://bsky.app/profile/japan.reuters.com/post/3mau2ueeyhy2p" target="_blank">japan.reuters.com</a> (2025-12-26 09:45:10)</span><span style="padding-right:50px;">米国の数字選択式宝くじ「パワーボール」で２４日夜、１８億１７００万ドル（約２８３０億円）のジャックポット（大当たり）が出た。史上２番目の高額当選で、アーカンソー州で購入されたくじだという。 bit.ly/3YLDqyQ <a href="https://bsky.app/profile/japan.reuters.com/post/3mau2ql7lwb2q" target="_blank">japan.reuters.com</a> (2025-12-26 09:43:03)</span><span style="padding-right:50px;">Trump says US struck Isis targets in Nigeria over attacks on Christians ft.trib.al/OBG35gn <a href="https://bsky.app/profile/financialtimes.com/post/3mau2pbn7rn25" target="_blank">financialtimes.com</a> (2025-12-26 09:42:19)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「建物が燃えている」と通報 倉敷市広江で火災 【岡山】 (2025-12-26 09:40:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mau2nswhyp2y" target="_blank">sokuho.news</a> (2025-12-26 09:41:30)</span>
+<span style="padding-right:50px;">11月の鉱工業生産指数 前月を2.6％下回る 低下は3か月ぶり https://news.web.nhk/newsweb/na/na-k10015014291000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mau474lo3d22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 10:09:03)</span><span style="padding-right:50px;">“Men love tech pants and want to live in them. But I can tell you that their partners, both business and personal, have gotten sick of them.” Our guide to the divisive, stretchy pants features styling tips and sharp upgrades. on.wsj.com/45d2DWC <a href="https://bsky.app/profile/wsj.com/post/3mau3wzbekg2o" target="_blank">wsj.com</a> (2025-12-26 10:04:33)</span><span style="padding-right:50px;">‘Tis the season to indulge in mulled wine — or if you’re feeling especially festive, wassail. https://cnn.it/4pWUmyz <a href="https://bsky.app/profile/cnn.com/post/3mau3qpu45t2u" target="_blank">cnn.com</a> (2025-12-26 10:01:02)</span><span style="padding-right:50px;">Beyond Jolibee: The top restaurants to check out in Manila for a star chef's Filipino food and the best halo halo. (from the archive) <a href="https://bsky.app/profile/bloomberg.com/post/3mau3qamxvx2p" target="_blank">bloomberg.com</a> (2025-12-26 10:00:46)</span><span style="padding-right:50px;">参政党、元自民議員の入党相次ぐ www.nikkei.com/article/DGXZQO...   参政党が元自民党の中川俊直氏と宇都隆史氏の入党を発表。いずれも政調会長補佐に就きました。   中川氏は経済産業政務官、宇都氏は外務副大臣を務めた経験。国会議員の経験者を起用し、党の政策立案能力を補強します。   中川氏は女性問題が発覚した2017年に、宇都氏は22年参院選で落選し、25年12月に自民党を離党していました。 <a href="https://bsky.app/profile/nikkei.com/post/3mau3q26omz2g" target="_blank">nikkei.com</a> (2025-12-26 10:00:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50789.41 (🔺262.28 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3381.00 (🔺4.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.30 (🔺0.50 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50785.12 (🔺257.99 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.36 (🔺0.56 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,104 +32,101 @@
 
 ## News Headlines
 
-- Stocks surge as Kakaku.com jumps 7%
-- $1.8 billion Powerball jackpot won in US
-- US strikes Isis targets in Nigeria, killing militant fighters
-- Israeli military kills Iranian elite unit members in Lebanon
-- Athletics sign longest contract in MLB history with Tyler Soderstrom
-- Japanese drugstore chain Kusuri's shares rise amid buyout rumors
+- Japan's Industrial Production Index Falls 2.6% in November
+- Tech-Pants Are a Divisive Fashion Trend
+- Mulled Wine and Wassail: The Perfect Winter Drinks
+- New Restaurants to Try in Manila for Filipino Food and Halo Halo
+- New Restaurants to Try in Manila for Filipino Food and Halo Halo
+- US Forces Strike Isis Targets in Nigeria
 
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-【動画】Pickup NEWS（12月26日）
-https://news.web.nhk/newsweb/na/na-k10015014281000
+11月の鉱工業生産指数 前月を2.6％下回る 低下は3か月ぶり
+https://news.web.nhk/newsweb/na/na-k10015014291000
 
-[2025-12-26 09:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mau2zk2hvm2w)
-
----
-
-@japan.reuters.com
-
-カカクコムが大幅に反発し、前営業日比７％超高の２３７０円付近を推移している。午前９時３０分現在、東証プライム市場の値上がり率トップ。香港の投資ファンド、オアシス・マネジメントが、カカクコム株を５．２３％保有していることが分かり、材料視されている。 bit.ly/4qooa6R
-
-[2025-12-26 09:45:10](https://bsky.app/profile/japan.reuters.com/post/3mau2ueeyhy2p)
+[2025-12-26 10:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mau474lo3d22)
 
 ---
 
-@japan.reuters.com
+@wsj.com
 
-米国の数字選択式宝くじ「パワーボール」で２４日夜、１８億１７００万ドル（約２８３０億円）のジャックポット（大当たり）が出た。史上２番目の高額当選で、アーカンソー州で購入されたくじだという。 bit.ly/3YLDqyQ
+“Men love tech pants and want to live in them. But I can tell you that their partners, both business and personal, have gotten sick of them.” Our guide to the divisive, stretchy pants features styling tips and sharp upgrades. on.wsj.com/45d2DWC
 
-[2025-12-26 09:43:03](https://bsky.app/profile/japan.reuters.com/post/3mau2ql7lwb2q)
-
----
-
-@financialtimes.com
-
-Trump says US struck Isis targets in Nigeria over attacks on Christians ft.trib.al/OBG35gn
-
-[2025-12-26 09:42:19](https://bsky.app/profile/financialtimes.com/post/3mau2pbn7rn25)
+[2025-12-26 10:04:33](https://bsky.app/profile/wsj.com/post/3mau3wzbekg2o)
 
 ---
 
-@sokuho.news
+@cnn.com
 
-🛎️JNNより【速報】です。
+‘Tis the season to indulge in mulled wine — or if you’re feeling especially festive, wassail. https://cnn.it/4pWUmyz
 
-【速報】「建物が燃えている」と通報 倉敷市広江で火災 【岡山】
-(2025-12-26 09:40:00) #ニュース
-
-[2025-12-26 09:41:30](https://bsky.app/profile/sokuho.news/post/3mau2nswhyp2y)
+[2025-12-26 10:01:02](https://bsky.app/profile/cnn.com/post/3mau3qpu45t2u)
 
 ---
 
-@japan.reuters.com
+@bloomberg.com
 
-イスラエル軍は２５日、シリアとレバノンからの攻撃計画に関与していたイラン革命防衛隊の精鋭「コッズ部隊」のメンバーをレバノンで殺害したと発表した。 bit.ly/3Y962lB
+Beyond Jolibee: The top restaurants to check out in Manila for a star chef's Filipino food and the best halo halo. (from the archive)
 
-[2025-12-26 09:35:07](https://bsky.app/profile/japan.reuters.com/post/3mau2cf2dvq22)
-
----
-
-@japan.reuters.com
-
-米大リーグ（ＭＬＢ）のアスレチックスが、生え抜きの中軸打者タイラー・ソダーストロム外野手（２４）と球団史上最長となる７年８６００万ドル（約１３４億円）で契約延長に合意したと、ＭＬＢ公式サイトが関係者の話として２５日に報じた。 bit.ly/4paELtO
-
-[2025-12-26 09:33:18](https://bsky.app/profile/japan.reuters.com/post/3mau274umif2c)
-
----
-
-@japan.reuters.com
-
-クスリのアオキホールディングスが買い気配となっている。同社は２５日、記念配当や自社株買いの方針、中期経営計画を発表し、好感する動きが先行している。 bit.ly/495wGAI
-
-[2025-12-26 09:32:14](https://bsky.app/profile/japan.reuters.com/post/3mau25altlh27)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: The U.S. struck the Islamic State in northwestern Nigeria, President Trump announced. The strike comes weeks after Trump ordered the Defense Department to prepare to intervene to protect Christians from Islamic militants.</strong>
-
-[2025-12-26 09:31:09](https://bsky.app/profile/nytimes.com/post/3mau23cejzu2e)
+[2025-12-26 10:00:46](https://bsky.app/profile/bloomberg.com/post/3mau3qamxvx2p)
 
 ---
 
 @nikkei.com
 
-恐竜の卵の殻を直接測定、古代の生態系の年代が驚くほど正確に
+参政党、元自民議員の入党相次ぐ
 www.nikkei.com/article/DGXZQO...
+ 
+参政党が元自民党の中川俊直氏と宇都隆史氏の入党を発表。いずれも政調会長補佐に就きました。
+ 
+中川氏は経済産業政務官、宇都氏は外務副大臣を務めた経験。国会議員の経験者を起用し、党の政策立案能力を補強します。
+ 
+中川氏は女性問題が発覚した2017年に、宇都氏は22年参院選で落選し、25年12月に自民党を離党していました。
 
-はるか昔に卵の殻に取り込まれた放射性鉱物から、その卵がいつ産み落とされたものなのかを判断する手法が登場しました。
+[2025-12-26 10:00:39](https://bsky.app/profile/nikkei.com/post/3mau3q26omz2g)
 
-古代の生態系の年代をこれまでよりも正確に特定できる可能性があります。
+---
 
-#ナショナルジオグラフィック
+@usatoday.com
 
-[2025-12-26 09:30:40](https://bsky.app/profile/nikkei.com/post/3mau22g4wff2g)
+Anthony Davis exited the Dallas Mavericks' Christmas Day game against the Golden State Warriors and headed back to the locker room.
+
+[2025-12-26 10:00:38](https://bsky.app/profile/usatoday.com/post/3mau3pzowte2o)
+
+---
+
+@cnbc.com
+
+Years before Emery Wells sold his startup Frame.io for $1.28 billion, a rash decision to buy a camera he couldn't afford changed the trajectory of his career.
+
+[2025-12-26 10:00:13](https://bsky.app/profile/cnbc.com/post/3mau3payi7c2b)
+
+---
+
+@washingtonpost.com
+
+As U.S. forces mass off Venezuela, launch attacks on alleged drug traffickers and seize oil tankers, authorities in Caracas are mobilizing the army, calling on allies for support and appealing to the U.N.
+
+[2025-12-26 10:00:10](https://bsky.app/profile/washingtonpost.com/post/3mau3p6xrdj2n)
+
+---
+
+@apnews.com
+
+Here are some of the most compelling images worldwide published by The Associated Press in the past week.
+
+[2025-12-26 10:00:06](https://bsky.app/profile/apnews.com/post/3mau3p37ikm23)
+
+---
+
+@en.afp.com
+
+Russia has made an offer to France regarding a jailed researcher facing espionage charges that could see him sentenced to 20 years in prison, the Kremlin said Thursday.  The surprise public overture prompted hopes from Laurent Vinatier's family that he could soon be freed. u.afp.com/S8Ps
+
+[2025-12-26 10:00:05](https://bsky.app/profile/en.afp.com/post/3mau3p275dr2y)
 
 ---
 
