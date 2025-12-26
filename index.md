@@ -1,9 +1,9 @@
-# [2025-12-26 11:50 updated](2025_12_26.md)
+# [2025-12-26 12:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Trump made the announcement late Thursday on social media, saying the strike was in response to the Islamic State targeting Christians in Nigeria. n.pr/3MSCLcw <a href="https://bsky.app/profile/npr.org/post/3maubpgo5ea2e" target="_blank">npr.org</a> (2025-12-26 11:47:41)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】「トケマッチ」事件 国外逃亡の元代表逮捕へ (2025-12-26 11:42:51) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maubouk6f32z" target="_blank">sokuho.news</a> (2025-12-26 11:47:22)</span><span style="padding-right:50px;">エンゲル係数、食料高で過去最高29.4% www.nikkei.com/article/DGXZQO...   日本のエンゲル係数は2024年時点でG7の中でトップ。特に係数が最低のアメリカは約16%で、日本とは10ポイント以上の差も。   ただ、家計調査によれば、2人以上世帯の1～10月の食費は、物価変動の影響を除いて前年同期比1.2%減っています。   食料インフレの中で意外にみえますが、購入量削減などで既に切り詰めを徹底した家計が多いことを示しています。 <a href="https://bsky.app/profile/nikkei.com/post/3maubnl6u7a2x" target="_blank">nikkei.com</a> (2025-12-26 11:46:39)</span><span style="padding-right:50px;">イングランド・サッカー協会（ＦＡ）は、２０日の試合で退場処分を受けたトットナムの主将クリスティアン・ロメロに「不適切な」行動があったと告発した。 bit.ly/4arEfEe <a href="https://bsky.app/profile/japan.reuters.com/post/3maubltbuju27" target="_blank">japan.reuters.com</a> (2025-12-26 11:45:40)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「建物が燃えている」と通報 倉敷市広江で火災 女性1人が転倒してけが 【岡山】 (2025-12-26 11:43:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maublmdjgf2v" target="_blank">sokuho.news</a> (2025-12-26 11:45:33)</span>
+<span style="padding-right:50px;">高級腕時計シェア「トケマッチ」運営会社元代表 詐欺容疑 逮捕 https://news.web.nhk/newsweb/na/na-k10015014351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maucvnveqe2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 12:09:01)</span><span style="padding-right:50px;">St. Paul enacted rent controls. Housing construction plummeted. Next-door Minneapolis generated a downtown boom without regulating rent. on.wsj.com/3YO4Gg5 <a href="https://bsky.app/profile/wsj.com/post/3maucuxey4z23" target="_blank">wsj.com</a> (2025-12-26 12:08:40)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】地震で損傷したNTT鉄塔 きょう午前で修復工事が完了 地震前と同じ耐震強度に回復 (2025-12-26 11:35) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3maucuqhcih2z" target="_blank">sokuho.news</a> (2025-12-26 12:08:33)</span><span style="padding-right:50px;">西～北日本で暴風雪や大雪のおそれ 交通影響など警戒を https://news.web.nhk/newsweb/na/na-k10015014171000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maucqceqym2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 12:06:02)</span><span style="padding-right:50px;">ロシア国営天然ガス独占企業ガスプロムのミレル最高経営責任者（ＣＥＯ）は２５日、天然ガスパイプライン「シベリアの力」経由の中国向けガスの供給量が今年、前年比約２割増の３８８億立方メートルに達したと明らかにした。 bit.ly/4stmjzI <a href="https://bsky.app/profile/japan.reuters.com/post/3maucon5zzc2c" target="_blank">japan.reuters.com</a> (2025-12-26 12:05:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50916.93 (🔺389.80 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3392.00 (🔺15.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.24 (🔺0.44 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50916.93 (🔺389.80 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3392.00 (🔺15.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.22 (🔺0.41 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,107 +32,100 @@
 
 ## News Headlines
 
-- US Strikes Islamic State in Nigeria in Response to Christian Persecution
-- Trump Announces Plan for New White House Ballroom
-- Japanese Engel Coefficient Tops G7 with 29.4% Food Price Inflation
-- UK Football Association Charges Tottenham's Christian Romero with Unseemly Behavior
-- Eight Billion, One Hundred Seventy Million US Dollars Jackpot Prize in Powerball
-- Former Representative of "Tokemachi" Arrested for Fraud
+- Japanese High-End Watch Sharing Platform CEO Arrested for Embezzlement
+- St. Paul Enacts Rent Controls, Housing Construction Plummets
+- NTT Tower Repairs Completed After Earthquake Damage
+- Typhoon and Heavy Snow Warnings Issued in Western and Northern Japan
+- Russia's Gazprom Reports Record Gas Exports to China
+- Austin Hayes Becomes Top Attraction in MLB Offseason
 
 
 ----
 
-@npr.org
+@nhknewsunofficial.bsky.social
 
-President Trump made the announcement late Thursday on social media, saying the strike was in response to the Islamic State targeting Christians in Nigeria. n.pr/3MSCLcw
+高級腕時計シェア「トケマッチ」運営会社元代表 詐欺容疑 逮捕
+https://news.web.nhk/newsweb/na/na-k10015014351000
 
-[2025-12-26 11:47:41](https://bsky.app/profile/npr.org/post/3maubpgo5ea2e)
+[2025-12-26 12:09:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maucvnveqe2l)
+
+---
+
+@wsj.com
+
+St. Paul enacted rent controls. Housing construction plummeted. Next-door Minneapolis generated a downtown boom without regulating rent. on.wsj.com/3YO4Gg5
+
+[2025-12-26 12:08:40](https://bsky.app/profile/wsj.com/post/3maucuxey4z23)
 
 ---
 
 @sokuho.news
 
-🛎️ANNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】「トケマッチ」事件 国外逃亡の元代表逮捕へ
-(2025-12-26 11:42:51) #ニュース
+【速報】地震で損傷したNTT鉄塔 きょう午前で修復工事が完了 地震前と同じ耐震強度に回復
+(2025-12-26 11:35) #地震
 
-[2025-12-26 11:47:22](https://bsky.app/profile/sokuho.news/post/3maubouk6f32z)
-
----
-
-@nikkei.com
-
-エンゲル係数、食料高で過去最高29.4%
-www.nikkei.com/article/DGXZQO...
- 
-日本のエンゲル係数は2024年時点でG7の中でトップ。特に係数が最低のアメリカは約16%で、日本とは10ポイント以上の差も。
- 
-ただ、家計調査によれば、2人以上世帯の1～10月の食費は、物価変動の影響を除いて前年同期比1.2%減っています。
- 
-食料インフレの中で意外にみえますが、購入量削減などで既に切り詰めを徹底した家計が多いことを示しています。
-
-[2025-12-26 11:46:39](https://bsky.app/profile/nikkei.com/post/3maubnl6u7a2x)
-
----
-
-@japan.reuters.com
-
-イングランド・サッカー協会（ＦＡ）は、２０日の試合で退場処分を受けたトットナムの主将クリスティアン・ロメロに「不適切な」行動があったと告発した。 bit.ly/4arEfEe
-
-[2025-12-26 11:45:40](https://bsky.app/profile/japan.reuters.com/post/3maubltbuju27)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】「建物が燃えている」と通報 倉敷市広江で火災 女性1人が転倒してけが 【岡山】
-(2025-12-26 11:43:00) #ニュース
-
-[2025-12-26 11:45:33](https://bsky.app/profile/sokuho.news/post/3maublmdjgf2v)
-
----
-
-@japan.reuters.com
-
-米国の数字選択式宝くじ「パワーボール」で２４日夜、１８億１７００万ドル（約２８３０億円）のジャックポット（大当たり）が出た。史上２番目の高額当選で、アーカンソー州で購入されたくじだという。 bit.ly/4qdky8l
-
-[2025-12-26 11:45:11](https://bsky.app/profile/japan.reuters.com/post/3maubkxdo5d2p)
+[2025-12-26 12:08:33](https://bsky.app/profile/sokuho.news/post/3maucuqhcih2z)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-「トケマッチ」運営会社元代表 詐欺容疑で逮捕へ
-https://news.web.nhk/newsweb/na/na-k10015014351000
+西～北日本で暴風雪や大雪のおそれ 交通影響など警戒を
+https://news.web.nhk/newsweb/na/na-k10015014171000
 
-[2025-12-26 11:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maubkr4ulw2s)
-
----
-
-@japan.reuters.com
-
-＜１１：３２＞　前場の日経平均は続伸、配当狙いが支え　円安も追い風 bit.ly/45jUAr5
-
-[2025-12-26 11:44:35](https://bsky.app/profile/japan.reuters.com/post/3maubjuwwti2c)
+[2025-12-26 12:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maucqceqym2l)
 
 ---
 
 @japan.reuters.com
 
-トランプ米政権は、ホワイトハウスの建物に巨大な宴会場（ボールルーム）を建設する計画について、来年１月８日に新たな詳細を公表する。 bit.ly/45sfnbY
+ロシア国営天然ガス独占企業ガスプロムのミレル最高経営責任者（ＣＥＯ）は２５日、天然ガスパイプライン「シベリアの力」経由の中国向けガスの供給量が今年、前年比約２割増の３８８億立方メートルに達したと明らかにした。 bit.ly/4stmjzI
 
-[2025-12-26 11:42:27](https://bsky.app/profile/japan.reuters.com/post/3maubg3iy4u25)
+[2025-12-26 12:05:08](https://bsky.app/profile/japan.reuters.com/post/3maucon5zzc2c)
 
 ---
 
-@financialtimes.com
+@japan.reuters.com
 
-Good morning, Asia. While you were sleeping, this piece about Generation Alpha’s ubiquitous watchword was our most-read article. What does it actually mean? ft.trib.al/GKgmwS5
+米大リーグ（ＭＬＢ）公式サイトは２４日、移籍市場のトップクラス外野手であるカイル・タッカーとコディ・ベリンジャーの動向が停滞している状況で、オースティン・ヘイズ外野手がヤンキースなどから関心を集めていると報じた。 bit.ly/4asqBRf
 
-[2025-12-26 11:42:22](https://bsky.app/profile/financialtimes.com/post/3maubfweu5r2y)
+[2025-12-26 12:03:25](https://bsky.app/profile/japan.reuters.com/post/3mauclklk6r2v)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+食品値上げ予定 約3500品目 来年1月～4月 ことしと比べ4割減
+https://news.web.nhk/newsweb/na/na-k10015014411000
+
+[2025-12-26 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauckxggv42v)
+
+---
+
+@cnn.com
+
+Lately, increasing numbers of Americans are calling the Cotswolds home, local real estate agents told CNN. https://cnn.it/3YIrbmD
+
+[2025-12-26 12:01:02](https://bsky.app/profile/cnn.com/post/3mauchd4zwf2v)
+
+---
+
+@nikkei.com
+
+自転車の交通違反にも青切符　2026年の知っておきたい制度改正3分野
+www.nikkei.com/article/DGXZQO...
+
+[2025-12-26 12:00:40](https://bsky.app/profile/nikkei.com/post/3maucgnb6ks2y)
+
+---
+
+@reuters.com
+
+LawConnect seizes early lead in Sydney to Hobart race reut.rs/4sjJzAa
+
+[2025-12-26 12:00:25](https://bsky.app/profile/reuters.com/post/3maucg7bvss2b)
 
 ---
 
