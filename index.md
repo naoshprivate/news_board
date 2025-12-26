@@ -1,9 +1,9 @@
-# [2025-12-26 11:10 updated](2025_12_26.md)
+# [2025-12-26 11:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Forget hoodies. The latest addition to the tech-bro look is a newly taut face. on.wsj.com/4s7xWMx <a href="https://bsky.app/profile/wsj.com/post/3mau7fyjhn22z" target="_blank">wsj.com</a> (2025-12-26 11:06:36)</span><span style="padding-right:50px;">'Humans are the most important part' of investing, says a fund manager whose firm makes every call with algorithms <a href="https://bsky.app/profile/cnbc.com/post/3mau76kuux625" target="_blank">cnbc.com</a> (2025-12-26 11:02:27)</span><span style="padding-right:50px;">＜１０：５０＞　ドル156円前半に上昇、仲値前後で買い優勢に bit.ly/4atwEVG <a href="https://bsky.app/profile/japan.reuters.com/post/3mau76hyo532q" target="_blank">japan.reuters.com</a> (2025-12-26 11:02:24)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】大阪・門真署で保管していた偽造ナンバーなど盗難 覚醒剤所持の疑いで40代の男を逮捕 盗難との関連調べる (2025-12-26 10:51) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mau74qib5k2x" target="_blank">sokuho.news</a> (2025-12-26 11:01:26)</span><span style="padding-right:50px;">ロシア外務省のザハロワ報道官は２５日、ウクライナ紛争の解決に向けた米国との交渉はゆっくりではあるが着実に進展していると述べた。 bit.ly/45sem3E <a href="https://bsky.app/profile/japan.reuters.com/post/3mau73zxvkc26" target="_blank">japan.reuters.com</a> (2025-12-26 11:01:03)</span>
+<span style="padding-right:50px;">経済産業省が２６日公表した１１月の鉱工業生産指数（速報、２０２０年＝１００）は前月比２．６％低下し３カ月ぶりのマイナスとなった。ロイター集計民間予測は同２．０％低下でこれを下回った。自動車、リチウムイオン電池などの大幅減産が響いた。基調判断は「一進一退」で据え置いた。企業の生産計画に基づいた予測指数は１２月が前月比１．３％上昇、２０２６年１月は同８．０％上昇を見込む。 bit.ly/3L2y1Ao <a href="https://bsky.app/profile/japan.reuters.com/post/3mauah4bv6r26" target="_blank">japan.reuters.com</a> (2025-12-26 11:25:08)</span><span style="padding-right:50px;">China launches venture capital funds to invest in 'hard technology', state media report reut.rs/4pfPMdF <a href="https://bsky.app/profile/reuters.com/post/3maua6b7pei2x" target="_blank">reuters.com</a> (2025-12-26 11:20:11)</span><span style="padding-right:50px;">防衛省 弾薬庫増設へ 来年度予算案に約560億円盛り込む https://news.web.nhk/newsweb/na/na-k10015014381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maua2hxemn22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 11:18:02)</span><span style="padding-right:50px;">レンズの常識を覆す「メタレンズ」、何がすごいのか　3分解説（Podcast） www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3mau7xx5yey2y" target="_blank">nikkei.com</a> (2025-12-26 11:16:39)</span><span style="padding-right:50px;">中国国家統計局は２６日、２０２４年の国内総生産（ＧＤＰ）を名目ベースで１３４兆８０００億元（１９兆２３００億ドル）に下方改定した。 bit.ly/4jhgOQk <a href="https://bsky.app/profile/japan.reuters.com/post/3mau7xpspkp2c" target="_blank">japan.reuters.com</a> (2025-12-26 11:16:31)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50895.70 (🔺368.57 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3392.00 (🔺15.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.24 (🔺0.43 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50893.41 (🔺366.28 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3394.00 (🔺17.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.26 (🔺0.45 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,105 +32,102 @@
 
 ## News Headlines
 
-- Forget hoodies, the latest tech-bro look is a newly taut face
-- Fund manager: 'Humans are the most important part' of investing
-- Japan cuts longest bond issuance as fiscal worries drive selloff
-- Japanese government approves record 122 trillion yen budget
-- Russia's deputy PM says gas production goal delayed due to sanctions
-- Ukrainian president meets with Trump envoy to discuss ceasefire
+- Japan's Industrial Production Index Falls for First Time in Three Months
+- China Launches Venture Capital Funds to Invest in 'Hard Technology'
+- Defense Ministry to Increase Ammunition Storage Capacity
+- Japan Revises Down 2024 GDP Estimate
+- Tokyo Metro Area Consumer Price Index Exceeds Last Year's Level
+- Japan's Cabinet Approves Record 122 Trillion Yen Budget
 
 
 ----
 
-@wsj.com
-
-Forget hoodies. The latest addition to the tech-bro look is a newly taut face. on.wsj.com/4s7xWMx
-
-[2025-12-26 11:06:36](https://bsky.app/profile/wsj.com/post/3mau7fyjhn22z)
-
----
-
-@cnbc.com
-
-'Humans are the most important part' of investing, says a fund manager whose firm makes every call with algorithms
-
-[2025-12-26 11:02:27](https://bsky.app/profile/cnbc.com/post/3mau76kuux625)
-
----
-
 @japan.reuters.com
 
-＜１０：５０＞　ドル156円前半に上昇、仲値前後で買い優勢に bit.ly/4atwEVG
+経済産業省が２６日公表した１１月の鉱工業生産指数（速報、２０２０年＝１００）は前月比２．６％低下し３カ月ぶりのマイナスとなった。ロイター集計民間予測は同２．０％低下でこれを下回った。自動車、リチウムイオン電池などの大幅減産が響いた。基調判断は「一進一退」で据え置いた。企業の生産計画に基づいた予測指数は１２月が前月比１．３％上昇、２０２６年１月は同８．０％上昇を見込む。 bit.ly/3L2y1Ao
 
-[2025-12-26 11:02:24](https://bsky.app/profile/japan.reuters.com/post/3mau76hyo532q)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】大阪・門真署で保管していた偽造ナンバーなど盗難 覚醒剤所持の疑いで40代の男を逮捕 盗難との関連調べる
-(2025-12-26 10:51) #ニュース
-
-[2025-12-26 11:01:26](https://bsky.app/profile/sokuho.news/post/3mau74qib5k2x)
+[2025-12-26 11:25:08](https://bsky.app/profile/japan.reuters.com/post/3mauah4bv6r26)
 
 ---
 
-@japan.reuters.com
+@reuters.com
 
-ロシア外務省のザハロワ報道官は２５日、ウクライナ紛争の解決に向けた米国との交渉はゆっくりではあるが着実に進展していると述べた。 bit.ly/45sem3E
+China launches venture capital funds to invest in 'hard technology', state media report reut.rs/4pfPMdF
 
-[2025-12-26 11:01:03](https://bsky.app/profile/japan.reuters.com/post/3mau73zxvkc26)
+[2025-12-26 11:20:11](https://bsky.app/profile/reuters.com/post/3maua6b7pei2x)
 
 ---
 
-@cnn.com
+@nhknewsunofficial.bsky.social
 
-This college entrance exam was so hard an official had to resign. Could you ace these questions? https://cnn.it/4st0QXE
+防衛省 弾薬庫増設へ 来年度予算案に約560億円盛り込む
+https://news.web.nhk/newsweb/na/na-k10015014381000
 
-[2025-12-26 11:01:01](https://bsky.app/profile/cnn.com/post/3mau73yv2zg2v)
+[2025-12-26 11:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maua2hxemn22)
 
 ---
 
 @nikkei.com
 
-AIが提案する「パーソナライズド」価格、NY州が全米初の規制
+レンズの常識を覆す「メタレンズ」、何がすごいのか　3分解説（Podcast）
 www.nikkei.com/article/DGXZQO...
- 
-高所得層が住む地域からホテルを予約すると、あるいはMac使用者が予約すると、通常より高い料金が請求される──。
- 
-「パーソナライズドプライシング」は郵便番号や所得などの個人データを用いて価格を設定する手法です。
- 
-ただ、AIによる行き過ぎた個人データの活用で、インフレや消費者への不利益が広がるとの警戒が強まっています。全米の少なくとも10州で規制が審議中です。
 
-[2025-12-26 11:00:52](https://bsky.app/profile/nikkei.com/post/3mau73pnh4u2m)
-
----
-
-@usatoday.com
-
-Will Taylor Swift be in attendance for the Chiefs vs. Broncos on Christmas in Kansas City? Here's the latest.
-
-[2025-12-26 11:00:52](https://bsky.app/profile/usatoday.com/post/3mau73pnpt22f)
-
----
-
-@cnbc.com
-
-Dhruv Amin and Marcus Lowe shut down their developer marketplace in 2023 after predicting that the AI revolution would render their business model obsolete.
-
-Then, they shuttered the whole thing to start over from scratch — all due to ChatGPT, says Amin.
-
-[2025-12-26 11:00:34](https://bsky.app/profile/cnbc.com/post/3mau736dlsd24)
+[2025-12-26 11:16:39](https://bsky.app/profile/nikkei.com/post/3mau7xx5yey2y)
 
 ---
 
 @japan.reuters.com
 
-ウクライナのゼレンスキー大統領は２５日、ロシアによる侵攻終結に向けた方策についてトランプ米政権のウィットコフ特使およびトランプ氏の娘婿ジャレド・クシュナー氏と約１時間協議したと明らかにした。 bit.ly/3L1VUYS
+中国国家統計局は２６日、２０２４年の国内総生産（ＧＤＰ）を名目ベースで１３４兆８０００億元（１９兆２３００億ドル）に下方改定した。 bit.ly/4jhgOQk
 
-[2025-12-26 11:00:28](https://bsky.app/profile/japan.reuters.com/post/3mau72ysyjh2n)
+[2025-12-26 11:16:31](https://bsky.app/profile/japan.reuters.com/post/3mau7xpspkp2c)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】「新年一般参賀」に悠仁さまが初めて出席へ 1月2日皇居・宮殿
+(2025-12-26 11:09) #ニュース
+
+[2025-12-26 11:13:50](https://bsky.app/profile/sokuho.news/post/3mau7svimia2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+長野 松川村 車4台の事故 1人死亡 1人けが 雪でスリップか
+https://news.web.nhk/newsweb/na/na-k10015014321000
+
+[2025-12-26 11:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mau7pr6hu42s)
+
+---
+
+@reuters.com
+
+China's statistics bureau revises down 2024 final GDP reut.rs/44Mq8pj
+
+[2025-12-26 11:10:15](https://bsky.app/profile/reuters.com/post/3mau7mihmdb2r)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】青森県が統合新病院イメージパースを公表 一般病床数は50減らして701に変更へ
+(2025-12-26 11:05:00) #ニュース
+
+[2025-12-26 11:10:11](https://bsky.app/profile/sokuho.news/post/3mau7mfgo6l2r)
+
+---
+
+@japan.reuters.com
+
+総務省が２６日に発表した１２月の東京都区部消費者物価指数（生鮮食品を除く総合指数、コアＣＰＩ）は、前年比２．３％上昇した。伸び率は前月の２．８％から大きく縮小した。エネルギー価格が前年比下落に転じたほか、生鮮食品を除く食料の伸び率縮小が続いた。 bit.ly/4q0Y4au
+
+[2025-12-26 11:10:11](https://bsky.app/profile/japan.reuters.com/post/3mau7meievd2s)
 
 ---
 
