@@ -1,9 +1,9 @@
-# [2025-12-26 21:30 updated](2025_12_26.md)
+# [2025-12-26 21:50 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">フェンシング全日本選手権開幕 男子エペ 加納虹輝 3回目の優勝 https://news.web.nhk/newsweb/na/na-k10015015291000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavc3iol5x2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 21:27:03)</span><span style="padding-right:50px;">Heard on the Street: Rolex could rake in millions of dollars in extra profits from selling its secondhand watches. Here’s why forgoing that cash is a smart decision. <a href="https://bsky.app/profile/wsj.com/post/3mavbz5b2od2k" target="_blank">wsj.com</a> (2025-12-26 21:25:46)</span><span style="padding-right:50px;">More patients went to emergency rooms in New York City complaining of flulike symptoms in the week ending Dec. 20 than during any other week in the past decade. <a href="https://bsky.app/profile/nytimes.com/post/3mavbxsb3wv26" target="_blank">nytimes.com</a> (2025-12-26 21:25:01)</span><span style="padding-right:50px;">中国外務省は２６日、台湾向け武器売却を理由に、米国の防衛企業２０社と個人１０人を制裁対象に指定したと発表した。制裁対象には、米航空機大手ボーイングのセントルイス支部も含まれる。 bit.ly/3YcSTYK <a href="https://bsky.app/profile/japan.reuters.com/post/3mavbpcb2ez2q" target="_blank">japan.reuters.com</a> (2025-12-26 21:20:16)</span><span style="padding-right:50px;">【東京23区と首都圏】お米券など食料品支援 自治体は https://news.web.nhk/newsweb/na/na-k10015015121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavblen6xt2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 21:18:02)</span>
+<span style="padding-right:50px;">Why brands such as Me+Em and Toast are championing an old-school print format in our online age ft.trib.al/WAEPziw <a href="https://bsky.app/profile/financialtimes.com/post/3mavd7cieba2q" target="_blank">financialtimes.com</a> (2025-12-26 21:47:07)</span><span style="padding-right:50px;">UAE shares slip in thin trade; Dubai index marks fifth weekly gain reut.rs/4pUD6tD <a href="https://bsky.app/profile/reuters.com/post/3mavd3wxssy24" target="_blank">reuters.com</a> (2025-12-26 21:45:14)</span><span style="padding-right:50px;">ロシアのプーチン大統領は、ウクライナでロシア軍が支配する一部地域について、交換に応じる可能性がある一方、ドンバス地方全域の確保を望んでいると、ロシア有力紙コメルサントが報じた。 bit.ly/49rjbwt <a href="https://bsky.app/profile/japan.reuters.com/post/3mavd3wdbdo2f" target="_blank">japan.reuters.com</a> (2025-12-26 21:45:13)</span><span style="padding-right:50px;">群馬 みなかみ町 関越道下り線で多重事故 数人けが 通行止めも https://news.web.nhk/newsweb/na/na-k10015015301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavd3nh3tq2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 21:45:02)</span><span style="padding-right:50px;">Silver prices have been rising in part because of constrained supply, with the world’s pureplay silver deposits mostly exhausted, and amateur investors find it attractive. <a href="https://bsky.app/profile/wsj.com/post/3mavd2jwmzd2t" target="_blank">wsj.com</a> (2025-12-26 21:44:27)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.45 (🔺0.65 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.44 (🔺0.63 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -30,97 +30,86 @@
 
 ---
 
-## News Headlines
+@financialtimes.com
 
-- Fencing Championship Opens in Japan, Men's Epee Champion Won by Kan Naoki for the Third Time
-- Rolex Could Make Millions from Second-Hand Watches, But Forgoing the Cash May Be a Smart Decision
-- China Imposes Sanctions on US Defense Companies and Individuals Over Taiwan Arms Sales
-- Indian Government Begins to Consider Successor to Prime Minister Modi as He Approaches Mid-Term of Third Term
-- Household Waste Increases by 25% Between Thanksgiving and New Year's
-- India's Coforge to Acquire US-Based Encora in $2.35 Billion Deal
+Why brands such as Me+Em and Toast are championing an old-school print format in our online age ft.trib.al/WAEPziw
 
+[2025-12-26 21:47:07](https://bsky.app/profile/financialtimes.com/post/3mavd7cieba2q)
 
-----
+---
+
+@reuters.com
+
+UAE shares slip in thin trade; Dubai index marks fifth weekly gain reut.rs/4pUD6tD
+
+[2025-12-26 21:45:14](https://bsky.app/profile/reuters.com/post/3mavd3wxssy24)
+
+---
+
+@japan.reuters.com
+
+ロシアのプーチン大統領は、ウクライナでロシア軍が支配する一部地域について、交換に応じる可能性がある一方、ドンバス地方全域の確保を望んでいると、ロシア有力紙コメルサントが報じた。 bit.ly/49rjbwt
+
+[2025-12-26 21:45:13](https://bsky.app/profile/japan.reuters.com/post/3mavd3wdbdo2f)
+
+---
 
 @nhknewsunofficial.bsky.social
 
-フェンシング全日本選手権開幕 男子エペ 加納虹輝 3回目の優勝
-https://news.web.nhk/newsweb/na/na-k10015015291000
+群馬 みなかみ町 関越道下り線で多重事故 数人けが 通行止めも
+https://news.web.nhk/newsweb/na/na-k10015015301000
 
-[2025-12-26 21:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavc3iol5x2b)
+[2025-12-26 21:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavd3nh3tq2w)
 
 ---
 
 @wsj.com
 
-Heard on the Street: Rolex could rake in millions of dollars in extra profits from selling its secondhand watches. Here’s why forgoing that cash is a smart decision.
+Silver prices have been rising in part because of constrained supply, with the world’s pureplay silver deposits mostly exhausted, and amateur investors find it attractive.
 
-[2025-12-26 21:25:46](https://bsky.app/profile/wsj.com/post/3mavbz5b2od2k)
-
----
-
-@nytimes.com
-
-More patients went to emergency rooms in New York City complaining of flulike symptoms in the week ending Dec. 20 than during any other week in the past decade.
-
-[2025-12-26 21:25:01](https://bsky.app/profile/nytimes.com/post/3mavbxsb3wv26)
-
----
-
-@japan.reuters.com
-
-中国外務省は２６日、台湾向け武器売却を理由に、米国の防衛企業２０社と個人１０人を制裁対象に指定したと発表した。制裁対象には、米航空機大手ボーイングのセントルイス支部も含まれる。 bit.ly/3YcSTYK
-
-[2025-12-26 21:20:16](https://bsky.app/profile/japan.reuters.com/post/3mavbpcb2ez2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【東京23区と首都圏】お米券など食料品支援 自治体は
-https://news.web.nhk/newsweb/na/na-k10015015121000
-
-[2025-12-26 21:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavblen6xt2d)
-
----
-
-@japan.reuters.com
-
-インドが次期指導者の検討を始める時期が近づいている。２０２６年末までに、モディ首相は３期５年の中間点を迎える。現在７５歳のモディ氏は、１０年以上にわたり強力で親ビジネス的な政権を維持してきた。４期目の可能性もゼロではないが、与党・インド人民党（ＢＪＰ）の過半数維持が揺らぎ、現職批判が高まるなかで、その実現性は低い。誰が後継となるかという問いは、今後切実さを増すことになる。 bit.ly/3KR1ugF
-
-[2025-12-26 21:15:15](https://bsky.app/profile/japan.reuters.com/post/3mavbgd3fzj2q)
-
----
-
-@cnbc.com
-
-Oracle shares on pace for worst quarter since 2001 as new CEOs face concerns about AI buildout
-
-[2025-12-26 21:12:31](https://bsky.app/profile/cnbc.com/post/3mavbbh66a62i)
-
----
-
-@financialtimes.com
-
- The malaise of multilateralism ft.trib.al/7tB1os2  | opinion
-
-[2025-12-26 21:10:58](https://bsky.app/profile/financialtimes.com/post/3mavb6nnx5225)
+[2025-12-26 21:44:27](https://bsky.app/profile/wsj.com/post/3mavd2jwmzd2t)
 
 ---
 
 @npr.org
 
-Household waste increases by 25% between Thanksgiving and New Years. Rules vary by municipality on what you can recycle and what needs to go into the trash. n.pr/4sa4RjD
+America's literary highways may be plenty crowded with middle-aged runaways fleeing lives that increasingly feel like a bad fit. But Ben Markovits adds a moving tale to the collection. n.pr/4pXHgkC
 
-[2025-12-26 21:10:57](https://bsky.app/profile/npr.org/post/3mavb6ndugf2y)
+[2025-12-26 21:44:23](https://bsky.app/profile/npr.org/post/3mavd2fpeuy2b)
 
 ---
 
-@japan.reuters.com
+@en.afp.com
 
-伊藤忠商事は２６日、セブン銀行の株式を議決権ベースで２０％取得し、同社を持ち分法適用会社にしたと発表した。「資本業務提携を通じて、より付加価値の高い金融サービスの実現を目指していく」としている。 bit.ly/4q08JC8
+🧊 The ice cores that could help save the world's glaciers
 
-[2025-12-26 21:10:15](https://bsky.app/profile/japan.reuters.com/post/3mavb5exjpr2c)
+Glaciologists hope fist-sized ice samples can help them understand why the glaciers in Tajikistan they came from are the only ones to resist rapid melting seen almost everywhere else.
+
+[2025-12-26 21:40:44](https://bsky.app/profile/en.afp.com/post/3mavctvdnmw2j)
+
+---
+
+@reuters.com
+
+Malaysia's ex-PM Najib and the multi-billion dollar 1MDB scandal reut.rs/4jhEWSU
+
+[2025-12-26 21:40:12](https://bsky.app/profile/reuters.com/post/3mavcswqncx2y)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Thailand bombs Cambodian border area as ceasefire talks continue
+
+[2025-12-26 21:37:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mavco4fvpp2z)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Two killed in suspected Palestinian ramming and knife attack in Israel
+
+[2025-12-26 21:36:26](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mavcm7spyk2e)
 
 ---
 
