@@ -1,9 +1,9 @@
-# [2025-12-27 06:50 updated](2025_12_27.md)
+# [2025-12-27 07:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The hottest place to buy wine in wine country? Costco. on.wsj.com/4sjPTYo <a href="https://bsky.app/profile/wsj.com/post/3mawbiru2mi2s" target="_blank">wsj.com</a> (2025-12-27 06:49:17)</span><span style="padding-right:50px;">トランプ米大統領は、週末に予定されている...ウクライナのゼレンスキー大統領との会談を前に、「私が承認するまで、彼は何もできない」と語った。ポリティコのインタビューに応じた。 bit.ly/4jcV3RP <a href="https://bsky.app/profile/japan.reuters.com/post/3mawbbnyjxk2s" target="_blank">japan.reuters.com</a> (2025-12-27 06:45:18)</span><span style="padding-right:50px;">Only five Sears stores remain in the U.S., with the end likely near for what was once the mightiest American retailer. Here’s a look back at why the company’s last great hope was a promise that never materialized. <a href="https://bsky.app/profile/nytimes.com/post/3mawayc5ajc2z" target="_blank">nytimes.com</a> (2025-12-27 06:40:04)</span><span style="padding-right:50px;">帰省ラッシュ始まる 各交通機関や高速道路は朝から混雑 https://news.web.nhk/newsweb/na/na-k10015015161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawar5nhot2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 06:36:02)</span><span style="padding-right:50px;">Japan schedules sanitary audit on Brazilian beef for March 2026, Brazil says reut.rs/3Yxv1iJ <a href="https://bsky.app/profile/reuters.com/post/3mawaphqijf2r" target="_blank">reuters.com</a> (2025-12-27 06:35:08)</span>
+<span style="padding-right:50px;">White House press secretary Karoline Leavitt said she is expecting a second child, a girl due in May reut.rs/3NjcpQP <a href="https://bsky.app/profile/reuters.com/post/3mawchvejo226" target="_blank">reuters.com</a> (2025-12-27 07:06:41)</span><span style="padding-right:50px;">Luluemon's got a few New Year's resolutions for 2026. 👀 <a href="https://bsky.app/profile/yahoofinance.com/post/3mawchbkrhq2f" target="_blank">yahoofinance.com</a> (2025-12-27 07:06:20)</span><span style="padding-right:50px;">President Volodymyr Zelenskiy said Russia was using ordinary apartment blocks on the territory of its ally Belarus to attack Ukrainian targets and circumvent Kyiv's defenses reut.rs/49cCN6i <a href="https://bsky.app/profile/reuters.com/post/3mawcgmtdvk26" target="_blank">reuters.com</a> (2025-12-27 07:05:59)</span><span style="padding-right:50px;">「トケマッチ」元代表ら 約2300本の腕時計を質入れや売却か https://news.web.nhk/newsweb/na/na-k10015014921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawcbgp3po2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 07:03:02)</span><span style="padding-right:50px;">Christmas came early for someone who purchased a Powerball ticket worth more than $1.8 billion at a gas station outside Little Rock, Arkansas. <a href="https://bsky.app/profile/apnews.com/post/3mawc5zoy4u2u" target="_blank">apnews.com</a> (2025-12-27 07:01:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48710.97 (🔻1.50 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23593.10 (🔻52.81 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.53 (🔺0.57 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.57 (🔺0.77 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48710.97 (🔻1.50 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23593.10 (🔻52.81 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.53 (🔺0.61 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.56 (🔺0.75 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,95 +32,96 @@
 
 ## News Headlines
 
-- Costco Tops the List as the Hottest Place to Buy Wine in Wine Country
-- Trump Warns Zelensky That He Can't Do Anything Without His Approval
-- Only 5 Sears Stores Remain in the US, a Far Cry from Its Former Glory
-- Japan Schedules Sanitary Audit on Brazilian Beef for March 2026
-- Wealthy Families Launch Offices to Manage Their Money and Secure Deals
-- Israel Recognizes Somaliland as an Independent and Sovereign State
+- White House press secretary Karoline Leavitt expecting second child
+- Lululemon's New Year's resolutions for 2026
+- Putin accused of using Belarusian apartment blocks to attack Ukraine
+- Israel becomes first country to formally recognize Somaliland
+- Blogger and Egyptian government critic arrives in UK after 12-year imprisonment
+- Israel becomes first country to formally recognize Somaliland as an independent state
 
 
 ----
 
-@wsj.com
+@reuters.com
 
-The hottest place to buy wine in wine country? Costco. on.wsj.com/4sjPTYo
+White House press secretary Karoline Leavitt said she is expecting a second child, a girl due in May reut.rs/3NjcpQP
 
-[2025-12-27 06:49:17](https://bsky.app/profile/wsj.com/post/3mawbiru2mi2s)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領は、週末に予定されている...ウクライナのゼレンスキー大統領との会談を前に、「私が承認するまで、彼は何もできない」と語った。ポリティコのインタビューに応じた。 bit.ly/4jcV3RP
-
-[2025-12-27 06:45:18](https://bsky.app/profile/japan.reuters.com/post/3mawbbnyjxk2s)
+[2025-12-27 07:06:41](https://bsky.app/profile/reuters.com/post/3mawchvejo226)
 
 ---
 
-@nytimes.com
+@yahoofinance.com
 
-Only five Sears stores remain in the U.S., with the end likely near for what was once the mightiest American retailer. Here’s a look back at why the company’s last great hope was a promise that never materialized.
+Luluemon's got a few New Year's resolutions for 2026. 👀
 
-[2025-12-27 06:40:04](https://bsky.app/profile/nytimes.com/post/3mawayc5ajc2z)
-
----
-
-@nhknewsunofficial.bsky.social
-
-帰省ラッシュ始まる 各交通機関や高速道路は朝から混雑
-https://news.web.nhk/newsweb/na/na-k10015015161000
-
-[2025-12-27 06:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawar5nhot2v)
+[2025-12-27 07:06:20](https://bsky.app/profile/yahoofinance.com/post/3mawchbkrhq2f)
 
 ---
 
 @reuters.com
 
-Japan schedules sanitary audit on Brazilian beef for March 2026, Brazil says reut.rs/3Yxv1iJ
+President Volodymyr Zelenskiy said Russia was using ordinary apartment blocks on the territory of its ally Belarus to attack Ukrainian targets and circumvent Kyiv's defenses reut.rs/49cCN6i
 
-[2025-12-27 06:35:08](https://bsky.app/profile/reuters.com/post/3mawaphqijf2r)
-
----
-
-@wsj.com
-
-Wealthy families are launching offices to manage their money at a record clip and are increasingly getting a seat at the table in significant deals. on.wsj.com/45s4uqB
-
-[2025-12-27 06:34:03](https://bsky.app/profile/wsj.com/post/3mawanjxqir2i)
+[2025-12-27 07:05:59](https://bsky.app/profile/reuters.com/post/3mawcgmtdvk26)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-米国株式市場はクリスマス後で取引量が少ない中、ほぼ横ばいで取引を終えた。主要３株価指数は週次では上昇を記録した。 bit.ly/4aA0hEP
+「トケマッチ」元代表ら 約2300本の腕時計を質入れや売却か
+https://news.web.nhk/newsweb/na/na-k10015014921000
 
-[2025-12-27 06:33:04](https://bsky.app/profile/japan.reuters.com/post/3mawalrn6pw2c)
+[2025-12-27 07:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawcbgp3po2b)
+
+---
+
+@apnews.com
+
+Christmas came early for someone who purchased a Powerball ticket worth more than $1.8 billion at a gas station outside Little Rock, Arkansas.
+
+[2025-12-27 07:01:10](https://bsky.app/profile/apnews.com/post/3mawc5zoy4u2u)
+
+---
+
+@reuters.com
+
+Fire add M Robin Lod on multi-year free-agent deal reut.rs/4qlIE02
+
+[2025-12-27 07:01:02](https://bsky.app/profile/reuters.com/post/3mawc5sdbcx23)
 
 ---
 
 @usatoday.com
 
-Martin Scorsese pays tribute to his "hilarious" friend Rob Reiner in a new essay, and calls his and wife Michele's deaths "an obscenity."
+"Rightside Up," a two-hour finale for "Stranger Things" Season 5, debuts on New Year's Eve.
 
-[2025-12-27 06:30:29](https://bsky.app/profile/usatoday.com/post/3mawah5k6sg2c)
+[2025-12-27 07:00:21](https://bsky.app/profile/usatoday.com/post/3mawc4klrjf25)
+
+---
+
+@nbcnews.com
+
+Over the last year, these online witches have been credited with saving weddings, securing jobs, and influencing basketball games.
+
+[2025-12-27 07:00:20](https://bsky.app/profile/nbcnews.com/post/3mawc4jzfjw23)
 
 ---
 
 @cnn.com
 
-Israel became the first country to formally recognize the self-declared Republic of Somaliland as an independent and sovereign state – a decision that could reshape regional dynamics and test Somalia's longstanding opposition to its secession.
-https://cnn.it/45dOMPS
+A couple ventured down a nondescript dirt road to snap photos. Instead, they stumbled across a grisly discovery among smattered shrubs and parched soil: the decomposed remains of a little girl. https://cnn.it/4sfTJBx
 
-[2025-12-27 06:30:07](https://bsky.app/profile/cnn.com/post/3mawagijd4x2u)
+[2025-12-27 07:00:13](https://bsky.app/profile/cnn.com/post/3mawc4dehrk2q)
 
 ---
 
 @washingtonpost.com
 
-Officials in President Trump’s administration posted overtly sectarian messages for Christmas, such as a day to celebrate the birth of “our Savior Jesus Christ.” The messages sharply diverged from a tradition of secular holiday messages.
+More than 800 storm victims around Helene-battered western North Carolina have applied for FEMA’s voluntary program that would enable the government to buy out their properties.
 
-[2025-12-27 06:30:06](https://bsky.app/profile/washingtonpost.com/post/3mawagiaxww2m)
+So far, they say, not a single approval has come through.
+
+[2025-12-27 07:00:13](https://bsky.app/profile/washingtonpost.com/post/3mawc4d3qmq2e)
 
 ---
 
