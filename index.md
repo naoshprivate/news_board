@@ -1,9 +1,9 @@
-# [2025-12-27 08:30 updated](2025_12_27.md)
+# [2025-12-27 08:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:兵庫県北方沖, 深さ:10km マグニチュード:3.6, 最大震度:2 📍https://www.google.com/maps?q=35.7,134.8&ll=35.7,134.8&z=7&t=h 地震発生日時:2025-12-27 08:26頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3mawh3rji4y2r" target="_blank">sokuho.news</a> (2025-12-27 08:29:23)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  8時26分頃、兵庫県・京都府で最大震度2の地震を観測しました。 震源:兵庫県北方沖, 深さ:10km, 規模:M3.6 この地震による津波の心配はありません。 (2025-12-27 08:28:57) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/27/2025-12-27-08-26-30.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3mawh2zzzhi2s" target="_blank">sokuho.news</a> (2025-12-27 08:28:58)</span><span style="padding-right:50px;">Michigan has agreed to a five-year contract with Kyle Whittingham to replace fired football coach Sherrone Moore. <a href="https://bsky.app/profile/apnews.com/post/3mawgqidrso2k" target="_blank">apnews.com</a> (2025-12-27 08:23:04)</span><span style="padding-right:50px;">航空便追跡サイト「ＦｌｉｇｈｔＡｗａｒｅ」によると、米航空各社では休暇旅行のピーク期にあたる２６日、冬の気象警報の影響で航空便の欠航・遅延が発生した。米東部時間午後０時３０分現在、１１３９便が欠航、３８０８便が遅延している。 bit.ly/3MVdoXl <a href="https://bsky.app/profile/japan.reuters.com/post/3mawgcjwhmk22" target="_blank">japan.reuters.com</a> (2025-12-27 08:15:16)</span><span style="padding-right:50px;">D.C. Police Chief Pamela A. Smith addressed accusations against her in a fiery farewell speech after two federal draft reports alleged she incentivized false crime statistics. <a href="https://bsky.app/profile/washingtonpost.com/post/3mawgc3br2b2x" target="_blank">washingtonpost.com</a> (2025-12-27 08:15:01)</span>
+<span style="padding-right:50px;">映画「国宝」 年末年始も約400館で上映 異例のロングラン https://news.web.nhk/newsweb/na/na-k10015015341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawi572xrs2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 08:48:02)</span><span style="padding-right:50px;">Raiders' Maxx Crosby upset that he will sit out vs. Giants reut.rs/3YMx3eG <a href="https://bsky.app/profile/reuters.com/post/3mawhxzkzj62i" target="_blank">reuters.com</a> (2025-12-27 08:45:11)</span><span style="padding-right:50px;">In his first Christmas Day address, Pope Leo XIV highlighted conditions in Gaza, saying its inhabitants “have nothing left and have lost everything,” as he called for peace talks to end conflicts around the world, including those in Africa and Ukraine.   <a href="https://bsky.app/profile/washingtonpost.com/post/3mawhxqrvv423" target="_blank">washingtonpost.com</a> (2025-12-27 08:45:02)</span><span style="padding-right:50px;">So much has happened since President Trump took office again that it can be hard to keep track of it all. New York Times reporters reflected on Trump’s most consequential actions in his first year back in the White House. <a href="https://bsky.app/profile/nytimes.com/post/3mawhovhuqr27" target="_blank">nytimes.com</a> (2025-12-27 08:40:05)</span><span style="padding-right:50px;">鈴木宗男議員 ロシア外務省高官に「北方墓参」再開を要求 https://news.web.nhk/newsweb/na/na-k10015015331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawhnaeg7i2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 08:39:07)</span>
   </div>
 </div>
 
@@ -32,105 +32,98 @@
 
 ## News Headlines
 
-- US Airstrikes in Nigeria Hit Muslim-Populated Area, Trump Claims Targeting IS Terrorists
-- Michigan Hires Kyle Whittingham as New Football Coach, Firing Sherrone Moore
-- Malaysian Ex-PM Najib Razak Found Guilty in 1MDB Trial
-- Perry Bamonte, Keyboardist and Guitarist for The Cure, Dies at 65
-- Malik Willis to Start for Packers Against Ravens as Jordan Love Out
-- White House Press Secretary Karoline Leavitt Announces Second Pregnancy
+- Movie 'National Treasure' to be shown in over 400 theaters during year-end and New Year
+- Raiders' Maxx Crosby to sit out against Giants
+- Pope Leo XIV highlights Gaza's struggles in Christmas Day address
+- New York Times reports on Trump's consequential actions in first year back in White House
+- Lawmakers urge Japan to resume 'Northern Territories' pilgrimage
+- Thai and Cambodian forces clash, ceasefire talks in doubt
 
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🔔防災科研より【強震モニタ】動画です。
+映画「国宝」 年末年始も約400館で上映 異例のロングラン
+https://news.web.nhk/newsweb/na/na-k10015015341000
 
-震源:兵庫県北方沖, 深さ:10km
-マグニチュード:3.6, 最大震度:2
-📍https://www.google.com/maps?q=35.7,134.8&ll=35.7,134.8&z=7&t=h
-地震発生日時:2025-12-27 08:26頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-27 08:29:23](https://bsky.app/profile/sokuho.news/post/3mawh3rji4y2r)
+[2025-12-27 08:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawi572xrs2s)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🔔気象庁より【地震速報】です。
+Raiders' Maxx Crosby upset that he will sit out vs. Giants reut.rs/3YMx3eG
 
-8時26分頃、兵庫県・京都府で最大震度2の地震を観測しました。
-震源:兵庫県北方沖, 深さ:10km, 規模:M3.6
-この地震による津波の心配はありません。
-(2025-12-27 08:28:57) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/27/2025-12-27-08-26-30.html?xlarge_image=1
-
-[2025-12-27 08:28:58](https://bsky.app/profile/sokuho.news/post/3mawh2zzzhi2s)
-
----
-
-@apnews.com
-
-Michigan has agreed to a five-year contract with Kyle Whittingham to replace fired football coach Sherrone Moore.
-
-[2025-12-27 08:23:04](https://bsky.app/profile/apnews.com/post/3mawgqidrso2k)
-
----
-
-@japan.reuters.com
-
-航空便追跡サイト「ＦｌｉｇｈｔＡｗａｒｅ」によると、米航空各社では休暇旅行のピーク期にあたる２６日、冬の気象警報の影響で航空便の欠航・遅延が発生した。米東部時間午後０時３０分現在、１１３９便が欠航、３８０８便が遅延している。 bit.ly/3MVdoXl
-
-[2025-12-27 08:15:16](https://bsky.app/profile/japan.reuters.com/post/3mawgcjwhmk22)
+[2025-12-27 08:45:11](https://bsky.app/profile/reuters.com/post/3mawhxzkzj62i)
 
 ---
 
 @washingtonpost.com
 
-D.C. Police Chief Pamela A. Smith addressed accusations against her in a fiery farewell speech after two federal draft reports alleged she incentivized false crime statistics.
+In his first Christmas Day address, Pope Leo XIV highlighted conditions in Gaza, saying its inhabitants “have nothing left and have lost everything,” as he called for peace talks to end conflicts around the world, including those in Africa and Ukraine. 
 
-[2025-12-27 08:15:01](https://bsky.app/profile/washingtonpost.com/post/3mawgc3br2b2x)
 
----
-
-@cnbc.com
-
-New NASA boss Isaacman says U.S. will return to the moon within Trump's term
-
-[2025-12-27 08:12:51](https://bsky.app/profile/cnbc.com/post/3mawg67alic2d)
+[2025-12-27 08:45:02](https://bsky.app/profile/washingtonpost.com/post/3mawhxqrvv423)
 
 ---
 
-@reuters.com
+@nytimes.com
 
-Perry Bamonte, keyboardist and guitarist in The Cure, has died at 65, the English indie rock band confirmed through their official website reut.rs/44L8BxS
+So much has happened since President Trump took office again that it can be hard to keep track of it all. New York Times reporters reflected on Trump’s most consequential actions in his first year back in the White House.
 
-[2025-12-27 08:05:26](https://bsky.app/profile/reuters.com/post/3mawfqwoxpk2r)
-
----
-
-@reuters.com
-
-Packers' Jordan Love out vs. Ravens; Malik Willis expected to start reut.rs/4pbh0lu
-
-[2025-12-27 08:05:10](https://bsky.app/profile/reuters.com/post/3mawfqhuagx2i)
+[2025-12-27 08:40:05](https://bsky.app/profile/nytimes.com/post/3mawhovhuqr27)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Perry Bamonte, keyboardist and guitarist for The Cure, dies at 65 reut.rs/4jaPq6o
+鈴木宗男議員 ロシア外務省高官に「北方墓参」再開を要求
+https://news.web.nhk/newsweb/na/na-k10015015331000
 
-[2025-12-27 08:01:23](https://bsky.app/profile/reuters.com/post/3mawfjpa5bu2c)
+[2025-12-27 08:39:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawhnaeg7i2w)
 
 ---
 
-@cnbc.com
+@nhknewsunofficial.bsky.social
 
-These jobs are "very attainable" without a degree, according to a career expert. 
+タイとカンボジア軍事衝突 国防相協議で停戦合意できるか焦点
+https://news.web.nhk/newsweb/na/na-k10015015271000
 
-[2025-12-27 08:01:19](https://bsky.app/profile/cnbc.com/post/3mawfjkvupp25)
+[2025-12-27 08:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawhn3xfkf2l)
+
+---
+
+@wsj.com
+
+Backpacks from Japan, Milka chocolate biscuits from Europe and other goods shipped to the U.S. aren’t just being blocked from entering the country. Some are smashed to bits. on.wsj.com/3MRJZxk
+
+[2025-12-27 08:30:51](https://bsky.app/profile/wsj.com/post/3mawh6frw2a2q)
+
+---
+
+@usatoday.com
+
+Julianne Hough is open to dating – but with a few important specifications for her new partner.
+
+[2025-12-27 08:30:19](https://bsky.app/profile/usatoday.com/post/3mawh5h26li2o)
+
+---
+
+@aljazeera.com
+
+Israeli forces kill Palestinian in Gaza, carry out raids across West Bank https://aje.io/t285fu
+
+[2025-12-27 08:30:04](https://bsky.app/profile/aljazeera.com/post/3mawh4ymje32p)
+
+---
+
+@washingtonpost.com
+
+Since taking office, President Trump has suffered multiple losses in his efforts to strip security clearances from political opponents and prestigious Washington law firms. The issue could become one of the next Supreme Court fights over presidential power. 
+
+
+[2025-12-27 08:30:04](https://bsky.app/profile/washingtonpost.com/post/3mawh4y5ixf2g)
 
 ---
 
