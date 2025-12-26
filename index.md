@@ -1,9 +1,9 @@
-# [2025-12-27 08:10 updated](2025_12_27.md)
+# [2025-12-27 08:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Perry Bamonte, keyboardist and guitarist in The Cure, has died at 65, the English indie rock band confirmed through their official website reut.rs/44L8BxS <a href="https://bsky.app/profile/reuters.com/post/3mawfqwoxpk2r" target="_blank">reuters.com</a> (2025-12-27 08:05:26)</span><span style="padding-right:50px;">Packers' Jordan Love out vs. Ravens; Malik Willis expected to start reut.rs/4pbh0lu <a href="https://bsky.app/profile/reuters.com/post/3mawfqhuagx2i" target="_blank">reuters.com</a> (2025-12-27 08:05:10)</span><span style="padding-right:50px;">Perry Bamonte, keyboardist and guitarist for The Cure, dies at 65 reut.rs/4jaPq6o <a href="https://bsky.app/profile/reuters.com/post/3mawfjpa5bu2c" target="_blank">reuters.com</a> (2025-12-27 08:01:23)</span><span style="padding-right:50px;">These jobs are "very attainable" without a degree, according to a career expert.  <a href="https://bsky.app/profile/cnbc.com/post/3mawfjkvupp25" target="_blank">cnbc.com</a> (2025-12-27 08:01:19)</span><span style="padding-right:50px;">"Rob Reiner was my friend, and so was Michele. From now on, I'll have to use the past tense, and that fills me with such profound sadness. But there's no other choice," Martin Scorsese says. <a href="https://bsky.app/profile/nbcnews.com/post/3mawfinnwr32u" target="_blank">nbcnews.com</a> (2025-12-27 08:00:48)</span>
+<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:兵庫県北方沖, 深さ:10km マグニチュード:3.6, 最大震度:2 📍https://www.google.com/maps?q=35.7,134.8&ll=35.7,134.8&z=7&t=h 地震発生日時:2025-12-27 08:26頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3mawh3rji4y2r" target="_blank">sokuho.news</a> (2025-12-27 08:29:23)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  8時26分頃、兵庫県・京都府で最大震度2の地震を観測しました。 震源:兵庫県北方沖, 深さ:10km, 規模:M3.6 この地震による津波の心配はありません。 (2025-12-27 08:28:57) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/27/2025-12-27-08-26-30.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3mawh2zzzhi2s" target="_blank">sokuho.news</a> (2025-12-27 08:28:58)</span><span style="padding-right:50px;">Michigan has agreed to a five-year contract with Kyle Whittingham to replace fired football coach Sherrone Moore. <a href="https://bsky.app/profile/apnews.com/post/3mawgqidrso2k" target="_blank">apnews.com</a> (2025-12-27 08:23:04)</span><span style="padding-right:50px;">航空便追跡サイト「ＦｌｉｇｈｔＡｗａｒｅ」によると、米航空各社では休暇旅行のピーク期にあたる２６日、冬の気象警報の影響で航空便の欠航・遅延が発生した。米東部時間午後０時３０分現在、１１３９便が欠航、３８０８便が遅延している。 bit.ly/3MVdoXl <a href="https://bsky.app/profile/japan.reuters.com/post/3mawgcjwhmk22" target="_blank">japan.reuters.com</a> (2025-12-27 08:15:16)</span><span style="padding-right:50px;">D.C. Police Chief Pamela A. Smith addressed accusations against her in a fiery farewell speech after two federal draft reports alleged she incentivized false crime statistics. <a href="https://bsky.app/profile/washingtonpost.com/post/3mawgc3br2b2x" target="_blank">washingtonpost.com</a> (2025-12-27 08:15:01)</span>
   </div>
 </div>
 
@@ -32,15 +32,75 @@
 
 ## News Headlines
 
-- Keyboardist and guitarist for The Cure Perry Bamonte dies at 65
-- Jordan Love out, Malik Willis to start for Packers against Ravens
-- Rob Reiner and Michele remembered by Martin Scorsese
-- New Trailer for 'Avengers: Doomsday' Reveals More About the Film
-- Millions of people hunt for post-holiday deals as Christmas shopping rush ends
-- Newsom leaps into the breach as Democrats seek new leader
+- US Airstrikes in Nigeria Hit Muslim-Populated Area, Trump Claims Targeting IS Terrorists
+- Michigan Hires Kyle Whittingham as New Football Coach, Firing Sherrone Moore
+- Malaysian Ex-PM Najib Razak Found Guilty in 1MDB Trial
+- Perry Bamonte, Keyboardist and Guitarist for The Cure, Dies at 65
+- Malik Willis to Start for Packers Against Ravens as Jordan Love Out
+- White House Press Secretary Karoline Leavitt Announces Second Pregnancy
 
 
 ----
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:兵庫県北方沖, 深さ:10km
+マグニチュード:3.6, 最大震度:2
+📍https://www.google.com/maps?q=35.7,134.8&ll=35.7,134.8&z=7&t=h
+地震発生日時:2025-12-27 08:26頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-27 08:29:23](https://bsky.app/profile/sokuho.news/post/3mawh3rji4y2r)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+8時26分頃、兵庫県・京都府で最大震度2の地震を観測しました。
+震源:兵庫県北方沖, 深さ:10km, 規模:M3.6
+この地震による津波の心配はありません。
+(2025-12-27 08:28:57) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/27/2025-12-27-08-26-30.html?xlarge_image=1
+
+[2025-12-27 08:28:58](https://bsky.app/profile/sokuho.news/post/3mawh2zzzhi2s)
+
+---
+
+@apnews.com
+
+Michigan has agreed to a five-year contract with Kyle Whittingham to replace fired football coach Sherrone Moore.
+
+[2025-12-27 08:23:04](https://bsky.app/profile/apnews.com/post/3mawgqidrso2k)
+
+---
+
+@japan.reuters.com
+
+航空便追跡サイト「ＦｌｉｇｈｔＡｗａｒｅ」によると、米航空各社では休暇旅行のピーク期にあたる２６日、冬の気象警報の影響で航空便の欠航・遅延が発生した。米東部時間午後０時３０分現在、１１３９便が欠航、３８０８便が遅延している。 bit.ly/3MVdoXl
+
+[2025-12-27 08:15:16](https://bsky.app/profile/japan.reuters.com/post/3mawgcjwhmk22)
+
+---
+
+@washingtonpost.com
+
+D.C. Police Chief Pamela A. Smith addressed accusations against her in a fiery farewell speech after two federal draft reports alleged she incentivized false crime statistics.
+
+[2025-12-27 08:15:01](https://bsky.app/profile/washingtonpost.com/post/3mawgc3br2b2x)
+
+---
+
+@cnbc.com
+
+New NASA boss Isaacman says U.S. will return to the moon within Trump's term
+
+[2025-12-27 08:12:51](https://bsky.app/profile/cnbc.com/post/3mawg67alic2d)
+
+---
 
 @reuters.com
 
@@ -71,63 +131,6 @@ Perry Bamonte, keyboardist and guitarist for The Cure, dies at 65 reut.rs/4jaPq6
 These jobs are "very attainable" without a degree, according to a career expert. 
 
 [2025-12-27 08:01:19](https://bsky.app/profile/cnbc.com/post/3mawfjkvupp25)
-
----
-
-@nbcnews.com
-
-"Rob Reiner was my friend, and so was Michele. From now on, I'll have to use the past tense, and that fills me with such profound sadness. But there's no other choice," Martin Scorsese says.
-
-[2025-12-27 08:00:48](https://bsky.app/profile/nbcnews.com/post/3mawfinnwr32u)
-
----
-
-@usatoday.com
-
-A second trailer for "Avengers: Doomsday" is now playing exclusively in movie theaters. Here's what it reveals about the film.
-
-[2025-12-27 08:00:43](https://bsky.app/profile/usatoday.com/post/3mawfiixbki2o)
-
----
-
-@nikkei.com
-
-【自動車も高額転売】
-スズキ「ジムニーノマド」中古車が定価の1.5倍
-www.nikkei.com/article/DGXZQO...
-
-「『ポケモンカード』と似た状態で、健全ではない」。
-
-中古車出品台数は11月時点で630台に上り、大半が走行距離100キロメートル以下。「未使用」と書かれたものも。
-
-なぜノマドが転売の的になったのか。背景にはスズキの誤算がありました。
-
-[2025-12-27 08:00:40](https://bsky.app/profile/nikkei.com/post/3mawfifuxoo2c)
-
----
-
-@apnews.com
-
-The shopping rush leading up to Christmas is over and in its place, like every year, another has begun as millions of people hunt for post-holiday deals and get in line to return gifts that didn't fit, or didn't hit quite right.
-
-[2025-12-27 08:00:31](https://bsky.app/profile/apnews.com/post/3mawfi5rh5r26)
-
----
-
-@bloomberg.com
-
-Polls show Democrats are more disillusioned than they’ve been in decades—fed up with aging, feckless leaders, frustrated by a party adrift and yearning for someone to take on Trump. Newsom has leaped into the breach.
-
-[2025-12-27 08:00:27](https://bsky.app/profile/bloomberg.com/post/3mawfi2cgon27)
-
----
-
-@cnn.com
-
-White House press secretary Karoline Leavitt announced that she and her husband are expecting their second child, a baby girl due in May of next year.
-https://cnn.it/4qs4vDd
-
-[2025-12-27 08:00:14](https://bsky.app/profile/cnn.com/post/3mawfhnbxpn2q)
 
 ---
 
