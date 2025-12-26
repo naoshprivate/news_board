@@ -1,9 +1,9 @@
-# [2025-12-26 12:10 updated](2025_12_26.md)
+# [2025-12-26 12:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">高級腕時計シェア「トケマッチ」運営会社元代表 詐欺容疑 逮捕 https://news.web.nhk/newsweb/na/na-k10015014351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maucvnveqe2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 12:09:01)</span><span style="padding-right:50px;">St. Paul enacted rent controls. Housing construction plummeted. Next-door Minneapolis generated a downtown boom without regulating rent. on.wsj.com/3YO4Gg5 <a href="https://bsky.app/profile/wsj.com/post/3maucuxey4z23" target="_blank">wsj.com</a> (2025-12-26 12:08:40)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】地震で損傷したNTT鉄塔 きょう午前で修復工事が完了 地震前と同じ耐震強度に回復 (2025-12-26 11:35) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3maucuqhcih2z" target="_blank">sokuho.news</a> (2025-12-26 12:08:33)</span><span style="padding-right:50px;">西～北日本で暴風雪や大雪のおそれ 交通影響など警戒を https://news.web.nhk/newsweb/na/na-k10015014171000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maucqceqym2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 12:06:02)</span><span style="padding-right:50px;">ロシア国営天然ガス独占企業ガスプロムのミレル最高経営責任者（ＣＥＯ）は２５日、天然ガスパイプライン「シベリアの力」経由の中国向けガスの供給量が今年、前年比約２割増の３８８億立方メートルに達したと明らかにした。 bit.ly/4stmjzI <a href="https://bsky.app/profile/japan.reuters.com/post/3maucon5zzc2c" target="_blank">japan.reuters.com</a> (2025-12-26 12:05:08)</span>
+<span style="padding-right:50px;">サッカーの元フランス代表ジネディーヌ・ジダン氏の息子ルカ（２７）が、フランス代表のユースでプレーした後にアルジェリア代表を選んだことについて、祖父の後押しがあったと明かした。 bit.ly/3Y8ULBJ <a href="https://bsky.app/profile/japan.reuters.com/post/3maudwaeowb2q" target="_blank">japan.reuters.com</a> (2025-12-26 12:27:17)</span><span style="padding-right:50px;">片山さつき財務相は２６日の閣議後会見で、２０２６年度一般会計予算案について「経済規模にふさわしくない過大な数字ということは、どこからみても言えない」と指摘した。重要施策への予算を増額させるとともに財政規律にも配慮し、「強い経済の実現と財政の持続可能性を両立させる予算案にできた」とも評価した。 bit.ly/4qotXt7 <a href="https://bsky.app/profile/japan.reuters.com/post/3mauduafbad22" target="_blank">japan.reuters.com</a> (2025-12-26 12:26:10)</span><span style="padding-right:50px;">バングラデシュの主要政党、バングラデシュ民族主義党（ＢＮＰ）のタリク・ラーマン党首代行が２５日、英国から約１７年ぶりに帰国した。同国は来年２月に総選挙を予定しており、ＢＮＰが勝利しラーマン氏が次期首相に就任するとの観測が出ている。 bit.ly/4pc4Ngw <a href="https://bsky.app/profile/japan.reuters.com/post/3maudsgymum27" target="_blank">japan.reuters.com</a> (2025-12-26 12:25:09)</span><span style="padding-right:50px;">トヨタ 来年2026年に世界全体で1000万台超の自動車生産を計画 https://news.web.nhk/newsweb/na/na-k10015014531000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maudlbv4dv2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 12:21:07)</span><span style="padding-right:50px;">【佐賀】お米券など食料品支援 自治体は https://news.web.nhk/newsweb/na/na-k10015014401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maudl57vpi2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 12:21:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50916.93 (🔺389.80 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3392.00 (🔺15.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.22 (🔺0.41 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50916.93 (🔺389.80 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3392.00 (🔺15.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.20 (🔺0.39 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,100 +32,98 @@
 
 ## News Headlines
 
-- Japanese High-End Watch Sharing Platform CEO Arrested for Embezzlement
-- St. Paul Enacts Rent Controls, Housing Construction Plummets
-- NTT Tower Repairs Completed After Earthquake Damage
-- Typhoon and Heavy Snow Warnings Issued in Western and Northern Japan
-- Russia's Gazprom Reports Record Gas Exports to China
-- Austin Hayes Becomes Top Attraction in MLB Offseason
-
+[{"en": "Son of former French football star Zinedine Zidane reveals he chose to play for Algeria national team with family support"}, 
+{"en": "Japan's finance minister says 2026 budget is "unbeatable" and prioritizes key policies while maintaining fiscal discipline"}, 
+{"en": "Bangladesh's main opposition party leader returns home after 17 years abroad ahead of upcoming election"}, 
+{"en": "Toyota plans to produce over 10 million vehicles globally in 2026"}, 
+{"en": "Japanese local government offers food aid, including rice coupons"}, 
+{"en": "Asian oil prices rise as US pressures Venezuela to stop oil exports and conducts airstrikes in Nigeria"}]
 
 ----
 
-@nhknewsunofficial.bsky.social
+@japan.reuters.com
 
-高級腕時計シェア「トケマッチ」運営会社元代表 詐欺容疑 逮捕
-https://news.web.nhk/newsweb/na/na-k10015014351000
+サッカーの元フランス代表ジネディーヌ・ジダン氏の息子ルカ（２７）が、フランス代表のユースでプレーした後にアルジェリア代表を選んだことについて、祖父の後押しがあったと明かした。 bit.ly/3Y8ULBJ
 
-[2025-12-26 12:09:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maucvnveqe2l)
-
----
-
-@wsj.com
-
-St. Paul enacted rent controls. Housing construction plummeted. Next-door Minneapolis generated a downtown boom without regulating rent. on.wsj.com/3YO4Gg5
-
-[2025-12-26 12:08:40](https://bsky.app/profile/wsj.com/post/3maucuxey4z23)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】地震で損傷したNTT鉄塔 きょう午前で修復工事が完了 地震前と同じ耐震強度に回復
-(2025-12-26 11:35) #地震
-
-[2025-12-26 12:08:33](https://bsky.app/profile/sokuho.news/post/3maucuqhcih2z)
-
----
-
-@nhknewsunofficial.bsky.social
-
-西～北日本で暴風雪や大雪のおそれ 交通影響など警戒を
-https://news.web.nhk/newsweb/na/na-k10015014171000
-
-[2025-12-26 12:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maucqceqym2l)
+[2025-12-26 12:27:17](https://bsky.app/profile/japan.reuters.com/post/3maudwaeowb2q)
 
 ---
 
 @japan.reuters.com
 
-ロシア国営天然ガス独占企業ガスプロムのミレル最高経営責任者（ＣＥＯ）は２５日、天然ガスパイプライン「シベリアの力」経由の中国向けガスの供給量が今年、前年比約２割増の３８８億立方メートルに達したと明らかにした。 bit.ly/4stmjzI
+片山さつき財務相は２６日の閣議後会見で、２０２６年度一般会計予算案について「経済規模にふさわしくない過大な数字ということは、どこからみても言えない」と指摘した。重要施策への予算を増額させるとともに財政規律にも配慮し、「強い経済の実現と財政の持続可能性を両立させる予算案にできた」とも評価した。 bit.ly/4qotXt7
 
-[2025-12-26 12:05:08](https://bsky.app/profile/japan.reuters.com/post/3maucon5zzc2c)
+[2025-12-26 12:26:10](https://bsky.app/profile/japan.reuters.com/post/3mauduafbad22)
 
 ---
 
 @japan.reuters.com
 
-米大リーグ（ＭＬＢ）公式サイトは２４日、移籍市場のトップクラス外野手であるカイル・タッカーとコディ・ベリンジャーの動向が停滞している状況で、オースティン・ヘイズ外野手がヤンキースなどから関心を集めていると報じた。 bit.ly/4asqBRf
+バングラデシュの主要政党、バングラデシュ民族主義党（ＢＮＰ）のタリク・ラーマン党首代行が２５日、英国から約１７年ぶりに帰国した。同国は来年２月に総選挙を予定しており、ＢＮＰが勝利しラーマン氏が次期首相に就任するとの観測が出ている。 bit.ly/4pc4Ngw
 
-[2025-12-26 12:03:25](https://bsky.app/profile/japan.reuters.com/post/3mauclklk6r2v)
+[2025-12-26 12:25:09](https://bsky.app/profile/japan.reuters.com/post/3maudsgymum27)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-食品値上げ予定 約3500品目 来年1月～4月 ことしと比べ4割減
-https://news.web.nhk/newsweb/na/na-k10015014411000
+トヨタ 来年2026年に世界全体で1000万台超の自動車生産を計画
+https://news.web.nhk/newsweb/na/na-k10015014531000
 
-[2025-12-26 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauckxggv42v)
-
----
-
-@cnn.com
-
-Lately, increasing numbers of Americans are calling the Cotswolds home, local real estate agents told CNN. https://cnn.it/3YIrbmD
-
-[2025-12-26 12:01:02](https://bsky.app/profile/cnn.com/post/3mauchd4zwf2v)
+[2025-12-26 12:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maudlbv4dv2l)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-自転車の交通違反にも青切符　2026年の知っておきたい制度改正3分野
-www.nikkei.com/article/DGXZQO...
+【佐賀】お米券など食料品支援 自治体は
+https://news.web.nhk/newsweb/na/na-k10015014401000
 
-[2025-12-26 12:00:40](https://bsky.app/profile/nikkei.com/post/3maucgnb6ks2y)
+[2025-12-26 12:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maudl57vpi2s)
+
+---
+
+@japan.reuters.com
+
+アジア時間の原油先物は上昇。トランプ米政権がベネズエラの石油輸出阻止へ圧力を強めるとともに、キリスト教徒迫害を理由に産油国ナイジェリアのイスラム過激派組織への空爆を実施したことに反応した。 bit.ly/4jggXn1
+
+[2025-12-26 12:20:45](https://bsky.app/profile/japan.reuters.com/post/3maudkkflwa2c)
+
+---
+
+@japan.reuters.com
+
+英国のチャールズ国王（７７）は２５日、クリスマス恒例のメッセージを公開し、戦争や緊張によって世界の地域社会が緊張状態にある中、多様性の中で結束する重要性を強調した。 bit.ly/44LAKF0
+
+[2025-12-26 12:20:13](https://bsky.app/profile/japan.reuters.com/post/3maudjmqowx2f)
 
 ---
 
 @reuters.com
 
-LawConnect seizes early lead in Sydney to Hobart race reut.rs/4sjJzAa
+Asia stocks rise to six-week high; precious metals on a tear reut.rs/4jhXvq7
 
-[2025-12-26 12:00:25](https://bsky.app/profile/reuters.com/post/3maucg7bvss2b)
+[2025-12-26 12:20:12](https://bsky.app/profile/reuters.com/post/3maudjkvvvu2x)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+株価 値上がり 半導体関連銘柄などに買い注文広がる
+https://news.web.nhk/newsweb/na/na-k10015014501000
+
+[2025-12-26 12:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maudfrp7vq22)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】国際手配の「トケマッチ」運営会社元代表の男（44）を逮捕 高級腕時計シェアリングサービスで預かった腕時計数十本時価総額1500万円を詐取か 警視庁
+(2025-12-26 12:08:17) #ニュース
+
+[2025-12-26 12:16:24](https://bsky.app/profile/sokuho.news/post/3maudcrzg7u2b)
 
 ---
 
