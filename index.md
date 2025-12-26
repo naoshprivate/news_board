@@ -1,9 +1,9 @@
-# [2025-12-26 13:50 updated](2025_12_26.md)
+# [2025-12-26 14:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】上・中越に「大雪警報」発表 26日夕方から夜遅くまで大雪に警戒《新潟》 (2025-12-26 13:46) #ニュース  🟨警報注意報 🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=150000 <a href="https://bsky.app/profile/sokuho.news/post/3mauihoyx7s2y" target="_blank">sokuho.news</a> (2025-12-26 13:48:37)</span><span style="padding-right:50px;">WBC 日本代表 ドジャース大谷翔平など 8人を選出 https://news.web.nhk/newsweb/na/na-k10015014611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauigppyno2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 13:48:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】上・中越に「大雪警報」発表 26日夕方から26日夜遅くまで大雪に警戒《新潟》 (2025-12-26 13:46) #ニュース  🟨警報注意報 🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=150000 <a href="https://bsky.app/profile/sokuho.news/post/3mauidv3adt2z" target="_blank">sokuho.news</a> (2025-12-26 13:46:30)</span><span style="padding-right:50px;">北朝鮮報道 キム総書記の“執事”国務委員会部長の死去伝える https://news.web.nhk/newsweb/na/na-k10015014591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maui3y6ial2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 13:42:02)</span><span style="padding-right:50px;">Rupee to track subdued Asian peers, shuffle around on corporate flows reut.rs/4pi3vk1 <a href="https://bsky.app/profile/reuters.com/post/3mauhymmpnr2r" target="_blank">reuters.com</a> (2025-12-26 13:40:12)</span>
+<span style="padding-right:50px;">AI boom adds $500bn to net worth of US tech billionaires in 2025 ft.trib.al/EFxcfx7 <a href="https://bsky.app/profile/financialtimes.com/post/3maujlgul6v2y" target="_blank">financialtimes.com</a> (2025-12-26 14:08:37)</span><span style="padding-right:50px;">木原稔官房長官は２６日の会見で、同日に閣議決定した２０２６年度一般会計予算案について、重要施策に予算を重点化しつつ財政規律に配慮したとして「強い経済の実現と財政の持続可能性を両立させる予算」と表現できるとコメントした。 bit.ly/495vdKF <a href="https://bsky.app/profile/japan.reuters.com/post/3maujf74pvw22" target="_blank">japan.reuters.com</a> (2025-12-26 14:05:07)</span><span style="padding-right:50px;"> China isn’t just dumping cheap goods anymore — it’s sending caviar ft.trib.al/KtZj1n6  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3maujdjxf552k" target="_blank">financialtimes.com</a> (2025-12-26 14:04:12)</span><span style="padding-right:50px;"> Cocktails in a can: the new frontier for drooping drinks giants ft.trib.al/85ZOoxW  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3maujdjjhkt2o" target="_blank">financialtimes.com</a> (2025-12-26 14:04:11)</span><span style="padding-right:50px;">＜１３：４０＞　日経平均は高値圏、為替の値動きで上下　商い薄く bit.ly/3YccJ6s <a href="https://bsky.app/profile/japan.reuters.com/post/3maujbdf7f72q" target="_blank">japan.reuters.com</a> (2025-12-26 14:02:58)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50839.04 (🔺311.91 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.14 (🔺0.34 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50802.75 (🔺275.62 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3378.00 (🔺1.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.11 (🔺0.31 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,107 +32,102 @@
 
 ## News Headlines
 
-- Japan Issues Heavy Snow Warning for Niigata Prefecture
-- WBC Names Japanese Representative Team with Shohei Ohtani and 7 Other Players
-- North Korea Reports Death of Kim's 'Personal Secretary'
-- Rupee to Track Subdued Asian Peers, Corporate Flows to Shuffle
-- Japan's Mitsubishi Kinzoku to Split Shares in August 2026
-- Gold and Silver Prices Hit Record Highs on Safe-Haven Demand
+- AI Boom Adds $500 Billion to Net Worth of US Tech Billionaires in 2025
+- Japanese Official Comments on 2026 Budget Plan
+- China Sends High-End Goods, Including Caviar, to Global Markets
+- Review: 'Song Sung Blue' is a Fascinating Addition to Music Biopic Genre
+- India's Renewable Energy Boom Faces Hidden Waste Problem
+- North Korea Reports Death of Kim Jong-un's 'Butler'
 
 
 ----
 
-@sokuho.news
+@financialtimes.com
 
-🛎️NNNより【速報】です。
+AI boom adds $500bn to net worth of US tech billionaires in 2025 ft.trib.al/EFxcfx7
 
-【速報】上・中越に「大雪警報」発表 26日夕方から夜遅くまで大雪に警戒《新潟》
-(2025-12-26 13:46) #ニュース
-
-🟨警報注意報
-🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=150000
-
-[2025-12-26 13:48:37](https://bsky.app/profile/sokuho.news/post/3mauihoyx7s2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-WBC 日本代表 ドジャース大谷翔平など 8人を選出
-https://news.web.nhk/newsweb/na/na-k10015014611000
-
-[2025-12-26 13:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauigppyno2x)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】上・中越に「大雪警報」発表 26日夕方から26日夜遅くまで大雪に警戒《新潟》
-(2025-12-26 13:46) #ニュース
-
-🟨警報注意報
-🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=150000
-
-[2025-12-26 13:46:30](https://bsky.app/profile/sokuho.news/post/3mauidv3adt2z)
-
----
-
-@nhknewsunofficial.bsky.social
-
-北朝鮮報道 キム総書記の“執事”国務委員会部長の死去伝える
-https://news.web.nhk/newsweb/na/na-k10015014591000
-
-[2025-12-26 13:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maui3y6ial2w)
-
----
-
-@reuters.com
-
-Rupee to track subdued Asian peers, shuffle around on corporate flows reut.rs/4pi3vk1
-
-[2025-12-26 13:40:12](https://bsky.app/profile/reuters.com/post/3mauhymmpnr2r)
+[2025-12-26 14:08:37](https://bsky.app/profile/financialtimes.com/post/3maujlgul6v2y)
 
 ---
 
 @japan.reuters.com
 
-三陽商会 は２６日、２０２６年８月３１日を基準日に株式を３分割すると発表した。効力発生日は９月１日。併せて株式優待制度を見直し、分割後６００株以上を保有する株主に同社の商品を購入できるポイントを付与する。 bit.ly/49bFrJu
+木原稔官房長官は２６日の会見で、同日に閣議決定した２０２６年度一般会計予算案について、重要施策に予算を重点化しつつ財政規律に配慮したとして「強い経済の実現と財政の持続可能性を両立させる予算」と表現できるとコメントした。 bit.ly/495vdKF
 
-[2025-12-26 13:40:10](https://bsky.app/profile/japan.reuters.com/post/3mauhylhfab2p)
+[2025-12-26 14:05:07](https://bsky.app/profile/japan.reuters.com/post/3maujf74pvw22)
+
+---
+
+@financialtimes.com
+
+ China isn’t just dumping cheap goods anymore — it’s sending caviar ft.trib.al/KtZj1n6  | opinion
+
+[2025-12-26 14:04:12](https://bsky.app/profile/financialtimes.com/post/3maujdjxf552k)
+
+---
+
+@financialtimes.com
+
+ Cocktails in a can: the new frontier for drooping drinks giants ft.trib.al/85ZOoxW  | opinion
+
+[2025-12-26 14:04:11](https://bsky.app/profile/financialtimes.com/post/3maujdjjhkt2o)
 
 ---
 
 @japan.reuters.com
 
-金と銀が２６日、ともに最高値を更新した。安全資産需要の高まりや来年の米利下げ観測が背景。プラチナも最高値を更新、パラジウムも急伸している。 bit.ly/499cbTT
+＜１３：４０＞　日経平均は高値圏、為替の値動きで上下　商い薄く bit.ly/3YccJ6s
 
-[2025-12-26 13:39:00](https://bsky.app/profile/japan.reuters.com/post/3mauhwig5rv22)
+[2025-12-26 14:02:58](https://bsky.app/profile/japan.reuters.com/post/3maujbdf7f72q)
+
+---
+
+@wsj.com
+
+Gift givers think it’s the ultimate faux pas. But research suggests that those on the receiving end don’t mind nearly as much as we fear.
+
+🔗: on.wsj.com/48WND0i
+
+[2025-12-26 14:02:32](https://bsky.app/profile/wsj.com/post/3maujal6uzd2i)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Solar energy: India's renewable energy boom faces a hidden waste problem
+
+[2025-12-26 14:00:52](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mauj5mcgn327)
+
+---
+
+@nikkei.com
+
+大学進学率の「18歳人口｣、特別支援学校を50年以上除外か　文科省が数値修正
+www.nikkei.com/article/DGXZQO...
+ 
+学校基本調査は国の「基幹統計」の一つ。大学進学率は大学入学者数を「18歳人口」で割って算出しますが、特別支援学校の生徒を含めていませんでした。
+ 
+除外は遅くとも1971年度から始まっていました。文科省は長年除外していたこと、それが問題だと認識していなかったことを「不適切だった」としました。
+ 
+#ニュース
+
+[2025-12-26 14:00:50](https://bsky.app/profile/nikkei.com/post/3mauj5jx2td2i)
 
 ---
 
 @japan.reuters.com
 
-２０２６年度国債発行計画の概要は以下の通り。カッコ内は対前年当初（▲はマイナス）。 bit.ly/45q0kiW
+ミャンマーは来年１月２５日に総選挙の第３段階を実施する。ミャンマー軍事政権の発表を国営紙グローバル・ニュー・ライト・オブ・ミャンマーが２６日伝えた。 bit.ly/49rZnJr
 
-[2025-12-26 13:35:09](https://bsky.app/profile/japan.reuters.com/post/3mauhplmicw27)
-
----
-
-@japan.reuters.com
-
-米プロバスケットボール協会（ＮＢＡ）は２５日、各地で試合を行い、八村塁の所属するレーカーズはロケッツに９６─１１９で敗れて３連敗となった。 bit.ly/3MUvgBE
-
-[2025-12-26 13:33:38](https://bsky.app/profile/japan.reuters.com/post/3mauhmvhfah2q)
+[2025-12-26 14:00:46](https://bsky.app/profile/japan.reuters.com/post/3mauj5g5pon2q)
 
 ---
 
 @japan.reuters.com
 
-中国国営中央テレビ（ＣＣＴＶ）は２６日、政府が半導体や先進製造業といった「ハードテクノロジー」分野に投資する３つのベンチャーキャピタル（ＶＣ）ファンドを立ち上げたと報じた。 bit.ly/3MUvetw
+経済産業省が２６日公表した１１月の商業動態統計速報によると、小売販売額は前年比１．０％増となり、３カ月連続で増加した。ロイターがまとめた民間調査機関の事前予測（０．９％増）を上回った。休日（土日祝日）が前年より２日多く、食品の値上げも押し上げた。 bit.ly/4pUcSYj
 
-[2025-12-26 13:32:36](https://bsky.app/profile/japan.reuters.com/post/3mauhkzz6jc2c)
+[2025-12-26 14:00:35](https://bsky.app/profile/japan.reuters.com/post/3mauj52yvyv2c)
 
 ---
 
