@@ -1,9 +1,9 @@
-# [2025-12-27 01:50 updated](2025_12_27.md)
+# [2025-12-27 02:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】関越道の事故 50台以上が絡み1人死亡確認 月夜野IC～湯沢IC通行止め続く (2025年12月27日 01:42) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mavqfm54c22b" target="_blank">sokuho.news</a> (2025-12-27 01:43:17)</span><span style="padding-right:50px;">How old is too old to rejuvenate? At 66, Howard Chua-Eoan decided to get healthy again. <a href="https://bsky.app/profile/bloomberg.com/post/3mavqdivd6f27" target="_blank">bloomberg.com</a> (2025-12-27 01:42:06)</span><span style="padding-right:50px;">At home and abroad, President Trump has driven change at warp speed, upending policy and challenging democratic norms. Here are some of the most consequential moments from his first year back in the White House. <a href="https://bsky.app/profile/nytimes.com/post/3mavq7sjpbr2z" target="_blank">nytimes.com</a> (2025-12-27 01:40:02)</span><span style="padding-right:50px;">🕌 An explosion killed at least eight worshippers at a mosque in a predominantly Alawite area of Syria's Homs on Friday, state media said, with an Islamist militant group claiming responsibility.  ➡️ u.afp.com/S8mY <a href="https://bsky.app/profile/en.afp.com/post/3mavq7rk3tf2f" target="_blank">en.afp.com</a> (2025-12-27 01:40:01)</span><span style="padding-right:50px;">Mayor-elect Zohran Mamdani's plans to make New York City more affordable will take time — and in some cases the cooperation of state legislators. Lina Khan, a leading progressive scholar and the former chair of the FTC, has ideas for making a swift impact. <a href="https://bsky.app/profile/nytimes.com/post/3mavpu5jooi2x" target="_blank">nytimes.com</a> (2025-12-27 01:33:31)</span>
+<span style="padding-right:50px;">Stocks making the biggest moves midday: Freeport-McMoran, Coupang, Target & more <a href="https://bsky.app/profile/cnbc.com/post/3mavrmoinbh2y" target="_blank">cnbc.com</a> (2025-12-27 02:05:08)</span><span style="padding-right:50px;">EXCLUSIVE: Zelensky tells Axios that he hopes to agree on a Ukraine-Russia peace framework when he meets Trump on Sunday.  Zelensky revealed he's willing to bring that plan up for a referendum if Russia agrees to a ceasefire of at least 60 days. <a href="https://bsky.app/profile/axios.com/post/3mavrmls4tc2y" target="_blank">axios.com</a> (2025-12-27 02:05:05)</span><span style="padding-right:50px;">These are UBS' top stock picks for 2026 <a href="https://bsky.app/profile/cnbc.com/post/3mavriq7mhs2g" target="_blank">cnbc.com</a> (2025-12-27 02:02:56)</span><span style="padding-right:50px;">Israel police say 2 killed in car-ramming and stabbing attack by Palestinian <a href="https://bsky.app/profile/cbsnews.com/post/3mavrhyqbbc2g" target="_blank">cbsnews.com</a> (2025-12-27 02:02:31)</span><span style="padding-right:50px;">The U.S. airstrikes targeting militants affiliated with the Islamic State group in northwestern Nigeria are widely seen by experts as crucial help for the country's security forces, which are often overstretched and outgunned as they fight multiple crises across different regions. <a href="https://bsky.app/profile/apnews.com/post/3mavreru7vl24" target="_blank">apnews.com</a> (2025-12-27 02:00:43)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48636.70 (🔻75.77 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23615.69 (🔻30.22 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.16 (🔺1.20 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.61 (🔺0.81 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48631.60 (🔻80.87 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23598.02 (🔻47.88 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.73 (🔺0.76 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.61 (🔺0.81 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,101 +32,95 @@
 
 ## News Headlines
 
-- At Least Eight Killed in Mosque Bombing in Syria
-- Najib Razak Sentenced to 15 More Years in Jail
-- U.S. Forces Strike Islamic State Targets in Nigeria
-- Iran's Government Faces Tough Road Ahead as Currency Hits New Low
-- Rare Storms Bring Heavy Rain to Southern California
-- Wild Cat Rediscovered in Thailand After Three Decades
+- Exclusive: Zelensky hopes to agree on Ukraine-Russia peace framework with Trump
+- US airstrikes target Islamic State group in northwestern Nigeria
+- Israel police say 2 killed in car-ramming and stabbing attack by Palestinian
+- Los Angeles Lakers called out by head coach JJ Redick after another loss
+- Trump's ocean mining plans spark a new era for green tech
+- Myanmar holds its first general election in five years
 
 
 ----
 
-@sokuho.news
+@cnbc.com
 
-🔔ANNより【速報】です。
+Stocks making the biggest moves midday: Freeport-McMoran, Coupang, Target & more
 
-【速報】関越道の事故 50台以上が絡み1人死亡確認 月夜野IC～湯沢IC通行止め続く
-(2025年12月27日 01:42) #ニュース
-
-[2025-12-27 01:43:17](https://bsky.app/profile/sokuho.news/post/3mavqfm54c22b)
+[2025-12-27 02:05:08](https://bsky.app/profile/cnbc.com/post/3mavrmoinbh2y)
 
 ---
 
-@bloomberg.com
+@axios.com
 
-How old is too old to rejuvenate? At 66, Howard Chua-Eoan decided to get healthy again.
+EXCLUSIVE: Zelensky tells Axios that he hopes to agree on a Ukraine-Russia peace framework when he meets Trump on Sunday.
 
-[2025-12-27 01:42:06](https://bsky.app/profile/bloomberg.com/post/3mavqdivd6f27)
+Zelensky revealed he's willing to bring that plan up for a referendum if Russia agrees to a ceasefire of at least 60 days.
 
----
-
-@nytimes.com
-
-At home and abroad, President Trump has driven change at warp speed, upending policy and challenging democratic norms. Here are some of the most consequential moments from his first year back in the White House.
-
-[2025-12-27 01:40:02](https://bsky.app/profile/nytimes.com/post/3mavq7sjpbr2z)
+[2025-12-27 02:05:05](https://bsky.app/profile/axios.com/post/3mavrmls4tc2y)
 
 ---
 
-@en.afp.com
+@cnbc.com
 
-🕌 An explosion killed at least eight worshippers at a mosque in a predominantly Alawite area of Syria's Homs on Friday, state media said, with an Islamist militant group claiming responsibility. 
-➡️ u.afp.com/S8mY
+These are UBS' top stock picks for 2026
 
-[2025-12-27 01:40:01](https://bsky.app/profile/en.afp.com/post/3mavq7rk3tf2f)
-
----
-
-@nytimes.com
-
-Mayor-elect Zohran Mamdani's plans to make New York City more affordable will take time — and in some cases the cooperation of state legislators. Lina Khan, a leading progressive scholar and the former chair of the FTC, has ideas for making a swift impact.
-
-[2025-12-27 01:33:31](https://bsky.app/profile/nytimes.com/post/3mavpu5jooi2x)
+[2025-12-27 02:02:56](https://bsky.app/profile/cnbc.com/post/3mavriq7mhs2g)
 
 ---
 
-@cnn.com
+@cbsnews.com
 
-After a year of surprises and upheaval, the airline industry is hoping 2026 brings something rare: a stretch of relative calm.
+Israel police say 2 killed in car-ramming and stabbing attack by Palestinian
 
-Here are the trends set to shape air travel in 2026.
-https://cnn.it/45szFSG
+[2025-12-27 02:02:31](https://bsky.app/profile/cbsnews.com/post/3mavrhyqbbc2g)
 
-[2025-12-27 01:31:04](https://bsky.app/profile/cnn.com/post/3mavppr2jib2v)
+---
+
+@apnews.com
+
+The U.S. airstrikes targeting militants affiliated with the Islamic State group in northwestern Nigeria are widely seen by experts as crucial help for the country's security forces, which are often overstretched and outgunned as they fight multiple crises across different regions.
+
+[2025-12-27 02:00:43](https://bsky.app/profile/apnews.com/post/3mavreru7vl24)
+
+---
+
+@wsj.com
+
+Simu Liu stars in this eight-part thriller about a man at an intelligence agency who becomes targeted by parties unknown. on.wsj.com/3YdzJSn
+
+[2025-12-27 02:00:38](https://bsky.app/profile/wsj.com/post/3mavremshtp2h)
+
+---
+
+@washingtonpost.com
+
+Files offer new details on Jeffrey Epstein’s death in federal custody in 2019, with additional evidence that jail officials failed to properly monitor Epstein even though they had previously put him on suicide watch. 
+
+[2025-12-27 02:00:33](https://bsky.app/profile/washingtonpost.com/post/3mavrei7n2q2y)
 
 ---
 
 @usatoday.com
 
-On Christmas Day, torrential rain in Southern California set new records in Los Angeles, Burbank and Santa Barbara, forecasters say.
+Los Angeles head coach JJ Redick called out the Lakers after another loss.
 
-[2025-12-27 01:30:30](https://bsky.app/profile/usatoday.com/post/3mavpoqyojs2s)
-
----
-
-@en.afp.com
-
-🇺🇦 Inside an abandoned control room at Ukraine's Chernobyl nuclear power plant, a worker in an orange hardhat gazed at a grey wall of seemingly endless dials, screens and gauges that were supposed to prevent disaster. 
-➡️ u.afp.com/S8mf
-
-[2025-12-27 01:30:09](https://bsky.app/profile/en.afp.com/post/3mavpo4l22f26)
+[2025-12-27 02:00:33](https://bsky.app/profile/usatoday.com/post/3mavrehwkwn2h)
 
 ---
 
-@aljazeera.com
+@bloomberg.com
 
-Iran’s government budget reveals tough road ahead as currency hits new low https://aje.io/hhfji1
+Trump set off a race to extract minerals critical for batteries and other green tech from the ocean depths. Here's how it's going. (from July) 
 
-[2025-12-27 01:30:03](https://bsky.app/profile/aljazeera.com/post/3mavpnxevvl2l)
+[2025-12-27 02:00:28](https://bsky.app/profile/bloomberg.com/post/3mavredm4ro2u)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Liverpool's Slot hails Ekitike impact at both ends of the pitch reut.rs/4pPiuTD
+Nicole Brewer, 43, has lived abroad for 16 years. To follow in her footsteps, she says, you'll have to ignore naysayers and do thorough research.
 
-[2025-12-27 01:25:11](https://bsky.app/profile/reuters.com/post/3mavpfauzms2r)
+[2025-12-27 02:00:21](https://bsky.app/profile/cnbc.com/post/3mavre4uicr24)
 
 ---
 
