@@ -1,9 +1,9 @@
-# [2025-12-26 16:52 updated](2025_12_26.md)
+# [2025-12-26 17:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A one-time Roth conversion outperforms an equal-installments conversion or sticking with traditional IRAs and 401(k)s—regardless of the balance size and potential tax hit on.wsj.com/4aBxT5n <a href="https://bsky.app/profile/wsj.com/post/3mausjx7izs2o" target="_blank">wsj.com</a> (2025-12-26 16:48:50)</span><span style="padding-right:50px;">ソウル株式市場は反発して引けた。海外からの投資資金流入が主導する形で半導体株が上昇し、サムスン電子は史上最高値を付けた。 bit.ly/4sbGwd2 <a href="https://bsky.app/profile/japan.reuters.com/post/3mausd25eny2v" target="_blank">japan.reuters.com</a> (2025-12-26 16:44:59)</span><span style="padding-right:50px;">What are the stories that will define 2026? Martin Wolf, the FT's chief economics commentator, unwraps the big ideas shaping the year ahead.  A little gift from #FTEdit 🎁 Follow for more #FTEditpresents <a href="https://bsky.app/profile/ftedit.ft.com/post/3maus7obaac26" target="_blank">ftedit.ft.com</a> (2025-12-26 16:43:06)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】“音信不通”銚子のホテル社長が謝罪「前のオーナー管理のHPで予約可能に」リフォーム後に再オープンの意向も 千葉 (2025-12-26 16:26) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maus6zefya2z" target="_blank">sokuho.news</a> (2025-12-26 16:42:44)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】越前市長選挙に県土木部長の平林透氏が立候補へ 26日付で県庁を退職 (2025-12-26 16:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maus3q2w7b2y" target="_blank">sokuho.news</a> (2025-12-26 16:40:53)</span>
+<span style="padding-right:50px;">中国株式市場では、上海総合指数が朝方の安値から戻し８営業日続伸。４月以降で最長の上昇となった。 bit.ly/4qqQWE0 <a href="https://bsky.app/profile/japan.reuters.com/post/3mautnh2zvs2p" target="_blank">japan.reuters.com</a> (2025-12-26 17:08:42)</span><span style="padding-right:50px;">Chinese pronouns are largely split between female and male – prompting LGBTQ activists to invent their own gender-neutral pronoun. That movement just took a big step forward. https://cnn.it/4jhyN9k <a href="https://bsky.app/profile/cnn.com/post/3mautkhpkf622" target="_blank">cnn.com</a> (2025-12-26 17:07:02)</span><span style="padding-right:50px;">市場筋によると、中国の大手国有銀行は２６日、オンショアのスポット市場で積極的にドルを買っている。 bit.ly/49bWD1s <a href="https://bsky.app/profile/japan.reuters.com/post/3mauth47fic2p" target="_blank">japan.reuters.com</a> (2025-12-26 17:05:09)</span><span style="padding-right:50px;">LG Energy Solution cancels 3.9 trillion won battery order with Freudenberg reut.rs/3N1vFlL <a href="https://bsky.app/profile/reuters.com/post/3mauth3u6hm2k" target="_blank">reuters.com</a> (2025-12-26 17:05:08)</span><span style="padding-right:50px;">The Trump-class battleship faces a large obstacle in its way: reality. <a href="https://bsky.app/profile/cnbc.com/post/3mautfqs34u2y" target="_blank">cnbc.com</a> (2025-12-26 17:04:23)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔺0.56 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.42 (🔺0.62 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -30,95 +30,100 @@
 
 ---
 
-@wsj.com
+## News Headlines
 
-A one-time Roth conversion outperforms an equal-installments conversion or sticking with traditional IRAs and 401(k)s—regardless of the balance size and potential tax hit on.wsj.com/4aBxT5n
+- Shanghai Composite Index Extends Rally to 8 Trading Days, Reversing Morning Low
+- China Warns Solar Firms Against Price Collusion, Fraud
+- LG Energy Solution Cancels 3.9 Trillion Won Battery Order with Freudenberg
+- Cambodia Blames Thailand for 'Ruthless' Bombardment Amid Border Talks
+- China to Strengthen Oversight of New Copper and Aluminum Projects
+- India Prepares for Leadership Change as Modi's Term Draws Near
 
-[2025-12-26 16:48:50](https://bsky.app/profile/wsj.com/post/3mausjx7izs2o)
+
+----
+
+@japan.reuters.com
+
+中国株式市場では、上海総合指数が朝方の安値から戻し８営業日続伸。４月以降で最長の上昇となった。 bit.ly/4qqQWE0
+
+[2025-12-26 17:08:42](https://bsky.app/profile/japan.reuters.com/post/3mautnh2zvs2p)
+
+---
+
+@cnn.com
+
+Chinese pronouns are largely split between female and male – prompting LGBTQ activists to invent their own gender-neutral pronoun. That movement just took a big step forward. https://cnn.it/4jhyN9k
+
+[2025-12-26 17:07:02](https://bsky.app/profile/cnn.com/post/3mautkhpkf622)
 
 ---
 
 @japan.reuters.com
 
-ソウル株式市場は反発して引けた。海外からの投資資金流入が主導する形で半導体株が上昇し、サムスン電子は史上最高値を付けた。 bit.ly/4sbGwd2
+市場筋によると、中国の大手国有銀行は２６日、オンショアのスポット市場で積極的にドルを買っている。 bit.ly/49bWD1s
 
-[2025-12-26 16:44:59](https://bsky.app/profile/japan.reuters.com/post/3mausd25eny2v)
-
----
-
-@ftedit.ft.com
-
-What are the stories that will define 2026? Martin Wolf, the FT's chief economics commentator, unwraps the big ideas shaping the year ahead.
-
-A little gift from #FTEdit 🎁 Follow for more #FTEditpresents
-
-[2025-12-26 16:43:06](https://bsky.app/profile/ftedit.ft.com/post/3maus7obaac26)
+[2025-12-26 17:05:09](https://bsky.app/profile/japan.reuters.com/post/3mauth47fic2p)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🛎️FNNより【速報】です。
+LG Energy Solution cancels 3.9 trillion won battery order with Freudenberg reut.rs/3N1vFlL
 
-【速報】“音信不通”銚子のホテル社長が謝罪「前のオーナー管理のHPで予約可能に」リフォーム後に再オープンの意向も 千葉
-(2025-12-26 16:26) #ニュース
-
-[2025-12-26 16:42:44](https://bsky.app/profile/sokuho.news/post/3maus6zefya2z)
+[2025-12-26 17:05:08](https://bsky.app/profile/reuters.com/post/3mauth3u6hm2k)
 
 ---
 
-@sokuho.news
+@cnbc.com
 
-🛎️FNNより【速報】です。
+The Trump-class battleship faces a large obstacle in its way: reality.
 
-【速報】越前市長選挙に県土木部長の平林透氏が立候補へ 26日付で県庁を退職
-(2025-12-26 16:30) #ニュース
+[2025-12-26 17:04:23](https://bsky.app/profile/cnbc.com/post/3mautfqs34u2y)
 
-[2025-12-26 16:40:53](https://bsky.app/profile/sokuho.news/post/3maus3q2w7b2y)
+---
+
+@nikkei.com
+
+北海道帯広のインデアンカレー、値上げでワンコイン突破も衰えぬ人気
+www.nikkei.com/article/DGXZQO...
+
+帯広・釧路エリアで13店舗のみを展開。年末年始には、帰省する家族のために鍋を持ち込んで家に持ち帰る人も。
+
+ルーは3種類で、スパイスの配合を知るのは「歴代社長のみ」。冷凍のお土産や「インデアンまん」といった新展開も打ち出しています。
+
+[2025-12-26 17:00:51](https://bsky.app/profile/nikkei.com/post/3maut7gavfu2c)
 
 ---
 
 @japan.reuters.com
 
-中国国家発展改革委員会（発改委）は２６日、２０２６─３０年の次期５カ年計画で銅とアルミナの新規プロジェクトに対する監督を強化し、不合理な投資や無秩序な拡大を抑制する方針を示した。発改委のウェブサイトで明らかにした。 bit.ly/3KOoyN7
+片山さつき財務相は２６日の閣議後会見で、２０２６年度一般会計予算案について「経済規模にふさわしくない過大な数字ということは、どこからみても言えない」と指摘した。重要施策への予算を増額させるとともに財政規律にも配慮し、「強い経済の実現と財政の持続可能性を両立させる予算案にできた」とも評価した。 bit.ly/44NE2aS
 
-[2025-12-26 16:40:10](https://bsky.app/profile/japan.reuters.com/post/3maus2ggegi2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-“トマト3割高も キャベツは安く” 来月の野菜価格見通し
-https://news.web.nhk/newsweb/na/na-k10015014791000
-
-[2025-12-26 16:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauryhytbu2b)
+[2025-12-26 17:00:32](https://bsky.app/profile/japan.reuters.com/post/3maut6ubw6s2c)
 
 ---
 
-@japan.reuters.com
+@reuters.com
 
-■レートは終値（前日比または前週末比）、安値─高値 bit.ly/3YKVjhi
+China warns solar firms against price collusion, fraud reut.rs/45hXdJX
 
-[2025-12-26 16:38:31](https://bsky.app/profile/japan.reuters.com/post/3maurxil5ad2c)
-
----
-
-@npr.org
-
-In an "alternative" message to the king's annual Christmas speech, Kimmel told British viewers that "from a fascism perspective, this has been a really great year," for the United States. n.pr/4q2rPru
-
-[2025-12-26 16:37:47](https://bsky.app/profile/npr.org/post/3maurw6todv24)
+[2025-12-26 17:00:25](https://bsky.app/profile/reuters.com/post/3maut6ndl562r)
 
 ---
 
-@sokuho.news
+@washingtonpost.com
 
-🛎️FNNより【速報】です。
+The committee charged by Congress with overseeing federal construction is preparing to host a presentation on the White House ballroom building next month, the first public hearing for the controversial project.
 
-【速報】越前市長選挙に県土木部長の平林透氏が立候補へ 26日付で県庁を辞職 27日に正式表明
-(2025-12-26 16:30) #ニュース
+[2025-12-26 17:00:11](https://bsky.app/profile/washingtonpost.com/post/3maut6afvj52g)
 
-[2025-12-26 16:35:50](https://bsky.app/profile/sokuho.news/post/3maursoyzam2b)
+---
+
+@aljazeera.com
+
+Cambodia blames Thailand for ‘ruthless’ bombardment amid border talks https://aje.io/945uch
+
+[2025-12-26 17:00:04](https://bsky.app/profile/aljazeera.com/post/3maut5zutoy27)
 
 ---
 
