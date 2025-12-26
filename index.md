@@ -1,9 +1,9 @@
-# [2025-12-27 05:30 updated](2025_12_27.md)
+# [2025-12-27 05:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Nvidia struck a non-exclusive deal with Groq worth $20 billion, marking Nvidia’s largest-ever deal. <a href="https://bsky.app/profile/yahoofinance.com/post/3maw4r45fje2h" target="_blank">yahoofinance.com</a> (2025-12-27 05:24:28)</span><span style="padding-right:50px;">Brazil's top court orders detention of ex- head of highway police after escape attempt reut.rs/4qjzOzO <a href="https://bsky.app/profile/reuters.com/post/3maw4aniotq2s" target="_blank">reuters.com</a> (2025-12-27 05:15:15)</span><span style="padding-right:50px;">2025 draws to a close next week as investors brace for a new year <a href="https://bsky.app/profile/cnbc.com/post/3maw4aaf2mf2i" target="_blank">cnbc.com</a> (2025-12-27 05:15:02)</span><span style="padding-right:50px;">"What makes Costco’s Champagne so great is that it isn’t made by Costco," our Wirecutter tester writes. "This Champagne is really, really good for the price." <a href="https://bsky.app/profile/nytimes.com/post/3maw42xguge2y" target="_blank">nytimes.com</a> (2025-12-27 05:12:05)</span><span style="padding-right:50px;">自民 防衛装備品の移転 「5類型」見直しの議論本格化へ https://news.web.nhk/newsweb/na/na-k10015015231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maw3vmenko24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 05:09:03)</span>
+<span style="padding-right:50px;">ウクライナのゼレンスキー大統領は２６日、アクシオスに対し、２８日の トランプ米大統領との会談では、和平の枠組みで合意したい意向を表明。ロシアが停戦に同意すれば、その合意案を国民投票にかける用意があると語った。 bit.ly/4asHP0S <a href="https://bsky.app/profile/japan.reuters.com/post/3maw5wccucn2v" target="_blank">japan.reuters.com</a> (2025-12-27 05:45:16)</span><span style="padding-right:50px;">Steelers LBs T.J. Watt, Nick Herbig practice again Friday reut.rs/4auD0UM <a href="https://bsky.app/profile/reuters.com/post/3maw5nde3oz2s" target="_blank">reuters.com</a> (2025-12-27 05:40:15)</span><span style="padding-right:50px;">静岡 工場で15人刺傷 勤務交代の時間帯の犯行 https://news.web.nhk/newsweb/na/na-k10015015021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maw5l7wz6y22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 05:39:02)</span><span style="padding-right:50px;">The Western alliance has been foundational to the global order since WW II. Now, European leaders are asking whether it’s dead. <a href="https://bsky.app/profile/wsj.com/post/3maw5h23u3w2u" target="_blank">wsj.com</a> (2025-12-27 05:36:44)</span><span style="padding-right:50px;">Bucs LT Tristan Wirfs (toe) ruled out for Sunday's game vs. Dolphins reut.rs/48UjQXc <a href="https://bsky.app/profile/reuters.com/post/3maw5eau4ws2o" target="_blank">reuters.com</a> (2025-12-27 05:35:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48676.00 (🔻36.47 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23613.45 (🔻32.46 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.47 (🔺1.51 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.52 (🔺0.71 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48694.67 (🔻17.80 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23607.82 (🔻38.09 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.26 (🔺1.30 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.49 (🔺0.69 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,95 +32,95 @@
 
 ## News Headlines
 
-- Nvidia strikes $20 billion deal with Groq in largest-ever partnership
-- Brazil's ex-highway police chief ordered detained after escape attempt
-- 2025 draws to a close, investors prepare for new year
-- Costco's affordable Champagne praised by Wirecutter tester
-- Saudi warplanes strike Yemeni militia backed by UAE
-- WSJ's House of the Month winner to be announced in December
+- Zelenskyy Expresses Desire to Hold Referendum on Peace Framework with US
+- Steelers Linebackers T.J. Watt, Nick Herbig Return to Practice
+- 15 Injured in Stabbing at Japanese Factory During Shift Change
+- European Leaders Question the Future of the Western Alliance
+- Nvidia Strikes $20 Billion Deal with Groq, Largest Ever
+- Dove Collaborates with 'Bridgerton' for Royal Treatment Collection
 
 
 ----
 
-@yahoofinance.com
+@japan.reuters.com
 
-Nvidia struck a non-exclusive deal with Groq worth $20 billion, marking Nvidia’s largest-ever deal.
+ウクライナのゼレンスキー大統領は２６日、アクシオスに対し、２８日の トランプ米大統領との会談では、和平の枠組みで合意したい意向を表明。ロシアが停戦に同意すれば、その合意案を国民投票にかける用意があると語った。 bit.ly/4asHP0S
 
-[2025-12-27 05:24:28](https://bsky.app/profile/yahoofinance.com/post/3maw4r45fje2h)
+[2025-12-27 05:45:16](https://bsky.app/profile/japan.reuters.com/post/3maw5wccucn2v)
 
 ---
 
 @reuters.com
 
-Brazil's top court orders detention of ex- head of highway police after escape attempt reut.rs/4qjzOzO
+Steelers LBs T.J. Watt, Nick Herbig practice again Friday reut.rs/4auD0UM
 
-[2025-12-27 05:15:15](https://bsky.app/profile/reuters.com/post/3maw4aniotq2s)
-
----
-
-@cnbc.com
-
-2025 draws to a close next week as investors brace for a new year
-
-[2025-12-27 05:15:02](https://bsky.app/profile/cnbc.com/post/3maw4aaf2mf2i)
-
----
-
-@nytimes.com
-
-"What makes Costco’s Champagne so great is that it isn’t made by Costco," our Wirecutter tester writes. "This Champagne is really, really good for the price."
-
-[2025-12-27 05:12:05](https://bsky.app/profile/nytimes.com/post/3maw42xguge2y)
+[2025-12-27 05:40:15](https://bsky.app/profile/reuters.com/post/3maw5nde3oz2s)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-自民 防衛装備品の移転 「5類型」見直しの議論本格化へ
-https://news.web.nhk/newsweb/na/na-k10015015231000
+静岡 工場で15人刺傷 勤務交代の時間帯の犯行
+https://news.web.nhk/newsweb/na/na-k10015015021000
 
-[2025-12-27 05:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maw3vmenko24)
-
----
-
-@wsj.com
-
-Saudi warplanes struck a Yemeni militia backed by the United Arab Emirates on Friday, as tensions between the two Gulf powers rise over their competing positions in conflicts around the region.
-
-[2025-12-27 05:08:03](https://bsky.app/profile/wsj.com/post/3maw3tqyqxm2t)
+[2025-12-27 05:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maw5l7wz6y22)
 
 ---
 
 @wsj.com
 
-Will WSJ’s House of the Month December winner be a New York mansion with a F1 car parked in the living room, a Connecticut home in a Midcentury Modern mecca or a Kiawah Island home on a Jack Nicklaus-designed course? on.wsj.com/49cDexq
+The Western alliance has been foundational to the global order since WW II. Now, European leaders are asking whether it’s dead.
 
-[2025-12-27 05:02:54](https://bsky.app/profile/wsj.com/post/3maw3kkbbdu2t)
-
----
-
-@usatoday.com
-
-Dove's new collab with 'Bridgerton' invites fans for a 'royal treatment'
-
-[2025-12-27 05:01:40](https://bsky.app/profile/usatoday.com/post/3maw3idhxwn25)
+[2025-12-27 05:36:44](https://bsky.app/profile/wsj.com/post/3maw5h23u3w2u)
 
 ---
 
 @reuters.com
 
-First goalless draw at Cup of Nations leaves Comoros, Zambia in peril reut.rs/45glbVW
+Bucs LT Tristan Wirfs (toe) ruled out for Sunday's game vs. Dolphins reut.rs/48UjQXc
 
-[2025-12-27 05:00:52](https://bsky.app/profile/reuters.com/post/3maw3gvnc522b)
+[2025-12-27 05:35:10](https://bsky.app/profile/reuters.com/post/3maw5eau4ws2o)
+
+---
+
+@japan.reuters.com
+
+終盤のニューヨーク外為市場では、円が軟化した。投資家は引き続き、介入の可能性を注視している。 bit.ly/3LiaLhS
+
+[2025-12-27 05:33:02](https://bsky.app/profile/japan.reuters.com/post/3maw5ag6nfu2u)
+
+---
+
+@japan.reuters.com
+
+南米ベネズエラの刑務所当局は２５日、２０２４年の大統領選を巡る抗議活動後に拘束された９９人を釈放したと発表した。米政権がマドゥロ大統領への圧力を強めている中での動き。ただ、人権関連団体は実際の釈放者の数はさらに少ないとの見方を示した。 bit.ly/49jJhAC
+
+[2025-12-27 05:30:36](https://bsky.app/profile/japan.reuters.com/post/3maw543k66a2p)
+
+---
+
+@usatoday.com
+
+Spoiler alert! When Will Byers comes out to his friends and family in the seventh episode of 'Stranger Things' Season 5, it doesn't feel profound.
+
+[2025-12-27 05:30:23](https://bsky.app/profile/usatoday.com/post/3maw53ojhhv2t)
 
 ---
 
 @cnn.com
 
-Next year, many economists are optimistic about the housing market. Many anticipate that rising incomes will start to outpace home prices, making homes feel more affordable for many Americans.
-https://cnn.it/49p39Dr
+A man was arrested after stabbing eight people and injuring seven others with what was believed to be bleach at a tire factory in central Japan, officials said. There was no immediate explanation of his motive.
+https://cnn.it/44KLK5y
 
-[2025-12-27 05:00:23](https://bsky.app/profile/cnn.com/post/3maw3g22jog2u)
+[2025-12-27 05:30:06](https://bsky.app/profile/cnn.com/post/3maw536s57e2c)
+
+---
+
+@washingtonpost.com
+
+At least eight people were killed in an explosion at a mosque in Homs, Syria, according to authorities, who described it as a terrorist attack. The blast occurred in an area where most residents belong to the Alawite religious minority. 
+
+[2025-12-27 05:30:06](https://bsky.app/profile/washingtonpost.com/post/3maw536lxab2p)
 
 ---
 
