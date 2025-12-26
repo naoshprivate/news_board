@@ -1,9 +1,9 @@
-# [2025-12-26 18:30 updated](2025_12_26.md)
+# [2025-12-26 18:50 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">さいたま地検の検事 交際相手に職務上の情報漏らし懲戒免職 https://news.web.nhk/newsweb/na/na-k10015014951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauxzm6d362b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 18:27:02)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  静岡 工場で「刃物で刺された」通報 14人けが 身柄確保 警察 (2025-12-26 18:26:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauxz3twl227" target="_blank">sokuho.news</a> (2025-12-26 18:26:47)</span><span style="padding-right:50px;">Russia's VTB says Jan-Nov net profit down 3.3%, maintains 2025 profit forecast reut.rs/48XhLK4 <a href="https://bsky.app/profile/reuters.com/post/3mauxw62ped2r" target="_blank">reuters.com</a> (2025-12-26 18:25:09)</span><span style="padding-right:50px;">円相場 値下がり 日銀による早期追加利上げの観測後退から https://news.web.nhk/newsweb/na/na-k10015015041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauxufgsi62v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 18:24:07)</span><span style="padding-right:50px;">岡山 鳥取道下り線 雪の影響などで一時 約100台の車が動けず https://news.web.nhk/newsweb/na/na-k10015015031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauxuaal5k2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 18:24:02)</span>
+<span style="padding-right:50px;">崎陽軒シウマイ弁当、110円上がり1180円に　2026年2月から（無料記事） www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3mauz4mlaem2c" target="_blank">nikkei.com</a> (2025-12-26 18:46:39)</span><span style="padding-right:50px;">中国国家発展改革委員会（発改委）は２６日、２０２６─３０年の次期５カ年計画で銅とアルミナの新規プロジェクトに対する監督を強化し、不合理な投資や無秩序な拡大を抑制する方針を示した。発改委のウェブサイトで明らかにした。 bit.ly/3Ll2QAl <a href="https://bsky.app/profile/japan.reuters.com/post/3mauz22ti2w25" target="_blank">japan.reuters.com</a> (2025-12-26 18:45:14)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】上信越道上り線 信濃町～信州中野インターの間の通行止め解除 上り線上越高田～信濃町インターの間と下り線長野～上越高田インターの間の通行止めは継続 長野 (2025-12-26 18:40:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauyxiks5i27" target="_blank">sokuho.news</a> (2025-12-26 18:43:47)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】工場で切りつけ…14人の負傷者を確認 容疑者を確保 静岡・三島市 (2025-12-26 18:43) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauywqrssh2v" target="_blank">sokuho.news</a> (2025-12-26 18:43:22)</span><span style="padding-right:50px;">中学校の部活動「地域展開」参加費 月額1000～3000円程度目安 https://news.web.nhk/newsweb/na/na-k10015014901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauyukgxex2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 18:42:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.41 (🔺0.61 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.43 (🔺0.63 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,67 +32,43 @@
 
 ## News Headlines
 
-- Prosecutor Disciplined for Leaking Official Information
-- 14 Injured in Stabbing at Factory in Shizuoka Prefecture
-- VTB's Profit Drops 3.3% in November, Maintains 2025 Forecast
-- Bank of Japan Observes Slowing Down of Early Additional Monetary Easing
-- About 100 Cars Stranded on Okayama-Tottori Expressway Due to Snow
-- President Trump Launches Strikes Against Islamic State Militants in Nigeria
+- Copper and Aluminum Project Supervision to be Strengthened in China's Next 5-Year Plan
+- Multiple People Injured in Stabbing Incident at Yokohama Rubber's Three Islands Factory
+- Bank of East Asia Acquires Major Stake in Daiei Bank
+- China Imposes Sanctions on US Defense Firms and Individuals Over Arms Sales to Taiwan
+- Malaysian Ex-PM Najib Razak Found Guilty of Abuse of Power
+- Russia's VTB Reports 3.3% Drop in Net Profit for January-November
 
 
 ----
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-さいたま地検の検事 交際相手に職務上の情報漏らし懲戒免職
-https://news.web.nhk/newsweb/na/na-k10015014951000
+崎陽軒シウマイ弁当、110円上がり1180円に　2026年2月から（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-26 18:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauxzm6d362b)
+#ニュース
+
+[2025-12-26 18:46:39](https://bsky.app/profile/nikkei.com/post/3mauz4mlaem2c)
+
+---
+
+@japan.reuters.com
+
+中国国家発展改革委員会（発改委）は２６日、２０２６─３０年の次期５カ年計画で銅とアルミナの新規プロジェクトに対する監督を強化し、不合理な投資や無秩序な拡大を抑制する方針を示した。発改委のウェブサイトで明らかにした。 bit.ly/3Ll2QAl
+
+[2025-12-26 18:45:14](https://bsky.app/profile/japan.reuters.com/post/3mauz22ti2w25)
 
 ---
 
 @sokuho.news
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>静岡 工場で「刃物で刺された」通報 14人けが 身柄確保 警察</strong><br><strong>(2025-12-26 18:26:24) #ニュース</strong>
+🛎️JNNより【速報】です。
 
-[2025-12-26 18:26:47](https://bsky.app/profile/sokuho.news/post/3mauxz3twl227)
+【速報】上信越道上り線 信濃町～信州中野インターの間の通行止め解除 上り線上越高田～信濃町インターの間と下り線長野～上越高田インターの間の通行止めは継続 長野
+(2025-12-26 18:40:00) #ニュース
 
----
-
-@reuters.com
-
-Russia's VTB says Jan-Nov net profit down 3.3%, maintains 2025 profit forecast reut.rs/48XhLK4
-
-[2025-12-26 18:25:09](https://bsky.app/profile/reuters.com/post/3mauxw62ped2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-円相場 値下がり 日銀による早期追加利上げの観測後退から
-https://news.web.nhk/newsweb/na/na-k10015015041000
-
-[2025-12-26 18:24:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauxufgsi62v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-岡山 鳥取道下り線 雪の影響などで一時 約100台の車が動けず
-https://news.web.nhk/newsweb/na/na-k10015015031000
-
-[2025-12-26 18:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauxuaal5k2y)
-
----
-
-@sokuho.news
-
-🔔NHKより【速報】です。
-
-静岡県三島市の工場で起きた事件 けが人14人に 全員意識あり 消防
-(2025-12-26 18:23) #ニュース
-
-[2025-12-26 18:23:19](https://bsky.app/profile/sokuho.news/post/3mauxsv7uit2y)
+[2025-12-26 18:43:47](https://bsky.app/profile/sokuho.news/post/3mauyxiks5i27)
 
 ---
 
@@ -100,35 +76,66 @@ https://news.web.nhk/newsweb/na/na-k10015015031000
 
 🛎️NNNより【速報】です。
 
-【速報】負傷者8人に…容体は不明 工場で「5～6人刺された」と通報 “容疑者”を確保 静岡・三島市
-(2025-12-26 18:21) #ニュース
+【速報】工場で切りつけ…14人の負傷者を確認 容疑者を確保 静岡・三島市
+(2025-12-26 18:43) #ニュース
 
-[2025-12-26 18:21:35](https://bsky.app/profile/sokuho.news/post/3mauxpsbbh32y)
-
----
-
-@wsj.com
-
-President Trump said the U.S. launched strikes against Islamic State militants in Nigeria, accusing them of targeting Christians.
-
-[2025-12-26 18:21:22](https://bsky.app/profile/wsj.com/post/3mauxpfi3my2z)
+[2025-12-26 18:43:22](https://bsky.app/profile/sokuho.news/post/3mauywqrssh2v)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-静岡 工場から8人搬送「刃物で刺された」通報 身柄確保 警察
+中学校の部活動「地域展開」参加費 月額1000～3000円程度目安
+https://news.web.nhk/newsweb/na/na-k10015014901000
+
+[2025-12-26 18:42:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauyukgxex2x)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+静岡 工場で「刃物で刺された」14人けが 殺人未遂疑いで逮捕
 https://news.web.nhk/newsweb/na/na-k10015015021000
 
-[2025-12-26 18:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauxouioa32l)
+[2025-12-26 18:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauyufvj3h2x)
 
 ---
 
 @sokuho.news
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>静岡 工場から8人搬送「刃物で刺された」通報 身柄確保 警察</strong><br><strong>(2025-12-26 18:18:28) #ニュース</strong>
+🛎️FNNより【速報】です。
 
-[2025-12-26 18:18:53](https://bsky.app/profile/sokuho.news/post/3mauxkxdtvs25)
+【速報】香川・綾川町の一部地域で停電 四国電力送配電【香川】
+(2025-12-26 18:30) #ニュース
+
+🕯停電情報
+🔗https://www.fepc.or.jp/sp/bousai/link.html
+
+[2025-12-26 18:40:53](https://bsky.app/profile/sokuho.news/post/3mauysbv3422r)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>静岡 工場で「刃物で刺された」14人けが 殺人未遂疑いで逮捕</strong><br><strong>(2025-12-26 18:39:52) #ニュース</strong>
+
+[2025-12-26 18:40:19](https://bsky.app/profile/sokuho.news/post/3mauyrbvbta2z)
+
+---
+
+@japan.reuters.com
+
+金と銀が２６日、ともに最高値を更新した。安全資産需要の高まりや来年の米利下げ観測が背景。プラチナも最高値を更新、パラジウムも急伸している。 bit.ly/4pUsiM5
+
+[2025-12-26 18:40:09](https://bsky.app/profile/japan.reuters.com/post/3mauyqycc2a2v)
+
+---
+
+@japan.reuters.com
+
+防衛省は２６日、潜水艦用エンジンの検査で長期にわたる不正があったとして、川崎重工業を来年３月１１日まで２カ月半指名停止にすると発表した。 bit.ly/4jhoIJF
+
+[2025-12-26 18:38:33](https://bsky.app/profile/japan.reuters.com/post/3mauyo4h6xr2q)
 
 ---
 
