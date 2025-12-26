@@ -1,9 +1,9 @@
-# [2025-12-26 11:30 updated](2025_12_26.md)
+# [2025-12-26 11:50 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">経済産業省が２６日公表した１１月の鉱工業生産指数（速報、２０２０年＝１００）は前月比２．６％低下し３カ月ぶりのマイナスとなった。ロイター集計民間予測は同２．０％低下でこれを下回った。自動車、リチウムイオン電池などの大幅減産が響いた。基調判断は「一進一退」で据え置いた。企業の生産計画に基づいた予測指数は１２月が前月比１．３％上昇、２０２６年１月は同８．０％上昇を見込む。 bit.ly/3L2y1Ao <a href="https://bsky.app/profile/japan.reuters.com/post/3mauah4bv6r26" target="_blank">japan.reuters.com</a> (2025-12-26 11:25:08)</span><span style="padding-right:50px;">China launches venture capital funds to invest in 'hard technology', state media report reut.rs/4pfPMdF <a href="https://bsky.app/profile/reuters.com/post/3maua6b7pei2x" target="_blank">reuters.com</a> (2025-12-26 11:20:11)</span><span style="padding-right:50px;">防衛省 弾薬庫増設へ 来年度予算案に約560億円盛り込む https://news.web.nhk/newsweb/na/na-k10015014381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maua2hxemn22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 11:18:02)</span><span style="padding-right:50px;">レンズの常識を覆す「メタレンズ」、何がすごいのか　3分解説（Podcast） www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3mau7xx5yey2y" target="_blank">nikkei.com</a> (2025-12-26 11:16:39)</span><span style="padding-right:50px;">中国国家統計局は２６日、２０２４年の国内総生産（ＧＤＰ）を名目ベースで１３４兆８０００億元（１９兆２３００億ドル）に下方改定した。 bit.ly/4jhgOQk <a href="https://bsky.app/profile/japan.reuters.com/post/3mau7xpspkp2c" target="_blank">japan.reuters.com</a> (2025-12-26 11:16:31)</span>
+<span style="padding-right:50px;">President Trump made the announcement late Thursday on social media, saying the strike was in response to the Islamic State targeting Christians in Nigeria. n.pr/3MSCLcw <a href="https://bsky.app/profile/npr.org/post/3maubpgo5ea2e" target="_blank">npr.org</a> (2025-12-26 11:47:41)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】「トケマッチ」事件 国外逃亡の元代表逮捕へ (2025-12-26 11:42:51) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maubouk6f32z" target="_blank">sokuho.news</a> (2025-12-26 11:47:22)</span><span style="padding-right:50px;">エンゲル係数、食料高で過去最高29.4% www.nikkei.com/article/DGXZQO...   日本のエンゲル係数は2024年時点でG7の中でトップ。特に係数が最低のアメリカは約16%で、日本とは10ポイント以上の差も。   ただ、家計調査によれば、2人以上世帯の1～10月の食費は、物価変動の影響を除いて前年同期比1.2%減っています。   食料インフレの中で意外にみえますが、購入量削減などで既に切り詰めを徹底した家計が多いことを示しています。 <a href="https://bsky.app/profile/nikkei.com/post/3maubnl6u7a2x" target="_blank">nikkei.com</a> (2025-12-26 11:46:39)</span><span style="padding-right:50px;">イングランド・サッカー協会（ＦＡ）は、２０日の試合で退場処分を受けたトットナムの主将クリスティアン・ロメロに「不適切な」行動があったと告発した。 bit.ly/4arEfEe <a href="https://bsky.app/profile/japan.reuters.com/post/3maubltbuju27" target="_blank">japan.reuters.com</a> (2025-12-26 11:45:40)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「建物が燃えている」と通報 倉敷市広江で火災 女性1人が転倒してけが 【岡山】 (2025-12-26 11:43:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maublmdjgf2v" target="_blank">sokuho.news</a> (2025-12-26 11:45:33)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50893.41 (🔺366.28 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3394.00 (🔺17.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.26 (🔺0.45 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50916.93 (🔺389.80 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3392.00 (🔺15.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.24 (🔺0.44 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,83 +32,55 @@
 
 ## News Headlines
 
-- Japan's Industrial Production Index Falls for First Time in Three Months
-- China Launches Venture Capital Funds to Invest in 'Hard Technology'
-- Defense Ministry to Increase Ammunition Storage Capacity
-- Japan Revises Down 2024 GDP Estimate
-- Tokyo Metro Area Consumer Price Index Exceeds Last Year's Level
-- Japan's Cabinet Approves Record 122 Trillion Yen Budget
+- US Strikes Islamic State in Nigeria in Response to Christian Persecution
+- Trump Announces Plan for New White House Ballroom
+- Japanese Engel Coefficient Tops G7 with 29.4% Food Price Inflation
+- UK Football Association Charges Tottenham's Christian Romero with Unseemly Behavior
+- Eight Billion, One Hundred Seventy Million US Dollars Jackpot Prize in Powerball
+- Former Representative of "Tokemachi" Arrested for Fraud
 
 
 ----
 
-@japan.reuters.com
+@npr.org
 
-経済産業省が２６日公表した１１月の鉱工業生産指数（速報、２０２０年＝１００）は前月比２．６％低下し３カ月ぶりのマイナスとなった。ロイター集計民間予測は同２．０％低下でこれを下回った。自動車、リチウムイオン電池などの大幅減産が響いた。基調判断は「一進一退」で据え置いた。企業の生産計画に基づいた予測指数は１２月が前月比１．３％上昇、２０２６年１月は同８．０％上昇を見込む。 bit.ly/3L2y1Ao
+President Trump made the announcement late Thursday on social media, saying the strike was in response to the Islamic State targeting Christians in Nigeria. n.pr/3MSCLcw
 
-[2025-12-26 11:25:08](https://bsky.app/profile/japan.reuters.com/post/3mauah4bv6r26)
-
----
-
-@reuters.com
-
-China launches venture capital funds to invest in 'hard technology', state media report reut.rs/4pfPMdF
-
-[2025-12-26 11:20:11](https://bsky.app/profile/reuters.com/post/3maua6b7pei2x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-防衛省 弾薬庫増設へ 来年度予算案に約560億円盛り込む
-https://news.web.nhk/newsweb/na/na-k10015014381000
-
-[2025-12-26 11:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maua2hxemn22)
-
----
-
-@nikkei.com
-
-レンズの常識を覆す「メタレンズ」、何がすごいのか　3分解説（Podcast）
-www.nikkei.com/article/DGXZQO...
-
-[2025-12-26 11:16:39](https://bsky.app/profile/nikkei.com/post/3mau7xx5yey2y)
-
----
-
-@japan.reuters.com
-
-中国国家統計局は２６日、２０２４年の国内総生産（ＧＤＰ）を名目ベースで１３４兆８０００億元（１９兆２３００億ドル）に下方改定した。 bit.ly/4jhgOQk
-
-[2025-12-26 11:16:31](https://bsky.app/profile/japan.reuters.com/post/3mau7xpspkp2c)
+[2025-12-26 11:47:41](https://bsky.app/profile/npr.org/post/3maubpgo5ea2e)
 
 ---
 
 @sokuho.news
 
-🛎️NNNより【速報】です。
+🛎️ANNより【速報】です。
 
-【速報】「新年一般参賀」に悠仁さまが初めて出席へ 1月2日皇居・宮殿
-(2025-12-26 11:09) #ニュース
+【速報】「トケマッチ」事件 国外逃亡の元代表逮捕へ
+(2025-12-26 11:42:51) #ニュース
 
-[2025-12-26 11:13:50](https://bsky.app/profile/sokuho.news/post/3mau7svimia2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-長野 松川村 車4台の事故 1人死亡 1人けが 雪でスリップか
-https://news.web.nhk/newsweb/na/na-k10015014321000
-
-[2025-12-26 11:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mau7pr6hu42s)
+[2025-12-26 11:47:22](https://bsky.app/profile/sokuho.news/post/3maubouk6f32z)
 
 ---
 
-@reuters.com
+@nikkei.com
 
-China's statistics bureau revises down 2024 final GDP reut.rs/44Mq8pj
+エンゲル係数、食料高で過去最高29.4%
+www.nikkei.com/article/DGXZQO...
+ 
+日本のエンゲル係数は2024年時点でG7の中でトップ。特に係数が最低のアメリカは約16%で、日本とは10ポイント以上の差も。
+ 
+ただ、家計調査によれば、2人以上世帯の1～10月の食費は、物価変動の影響を除いて前年同期比1.2%減っています。
+ 
+食料インフレの中で意外にみえますが、購入量削減などで既に切り詰めを徹底した家計が多いことを示しています。
 
-[2025-12-26 11:10:15](https://bsky.app/profile/reuters.com/post/3mau7mihmdb2r)
+[2025-12-26 11:46:39](https://bsky.app/profile/nikkei.com/post/3maubnl6u7a2x)
+
+---
+
+@japan.reuters.com
+
+イングランド・サッカー協会（ＦＡ）は、２０日の試合で退場処分を受けたトットナムの主将クリスティアン・ロメロに「不適切な」行動があったと告発した。 bit.ly/4arEfEe
+
+[2025-12-26 11:45:40](https://bsky.app/profile/japan.reuters.com/post/3maubltbuju27)
 
 ---
 
@@ -116,18 +88,51 @@ China's statistics bureau revises down 2024 final GDP reut.rs/44Mq8pj
 
 🛎️JNNより【速報】です。
 
-【速報】青森県が統合新病院イメージパースを公表 一般病床数は50減らして701に変更へ
-(2025-12-26 11:05:00) #ニュース
+【速報】「建物が燃えている」と通報 倉敷市広江で火災 女性1人が転倒してけが 【岡山】
+(2025-12-26 11:43:00) #ニュース
 
-[2025-12-26 11:10:11](https://bsky.app/profile/sokuho.news/post/3mau7mfgo6l2r)
+[2025-12-26 11:45:33](https://bsky.app/profile/sokuho.news/post/3maublmdjgf2v)
 
 ---
 
 @japan.reuters.com
 
-総務省が２６日に発表した１２月の東京都区部消費者物価指数（生鮮食品を除く総合指数、コアＣＰＩ）は、前年比２．３％上昇した。伸び率は前月の２．８％から大きく縮小した。エネルギー価格が前年比下落に転じたほか、生鮮食品を除く食料の伸び率縮小が続いた。 bit.ly/4q0Y4au
+米国の数字選択式宝くじ「パワーボール」で２４日夜、１８億１７００万ドル（約２８３０億円）のジャックポット（大当たり）が出た。史上２番目の高額当選で、アーカンソー州で購入されたくじだという。 bit.ly/4qdky8l
 
-[2025-12-26 11:10:11](https://bsky.app/profile/japan.reuters.com/post/3mau7meievd2s)
+[2025-12-26 11:45:11](https://bsky.app/profile/japan.reuters.com/post/3maubkxdo5d2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「トケマッチ」運営会社元代表 詐欺容疑で逮捕へ
+https://news.web.nhk/newsweb/na/na-k10015014351000
+
+[2025-12-26 11:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maubkr4ulw2s)
+
+---
+
+@japan.reuters.com
+
+＜１１：３２＞　前場の日経平均は続伸、配当狙いが支え　円安も追い風 bit.ly/45jUAr5
+
+[2025-12-26 11:44:35](https://bsky.app/profile/japan.reuters.com/post/3maubjuwwti2c)
+
+---
+
+@japan.reuters.com
+
+トランプ米政権は、ホワイトハウスの建物に巨大な宴会場（ボールルーム）を建設する計画について、来年１月８日に新たな詳細を公表する。 bit.ly/45sfnbY
+
+[2025-12-26 11:42:27](https://bsky.app/profile/japan.reuters.com/post/3maubg3iy4u25)
+
+---
+
+@financialtimes.com
+
+Good morning, Asia. While you were sleeping, this piece about Generation Alpha’s ubiquitous watchword was our most-read article. What does it actually mean? ft.trib.al/GKgmwS5
+
+[2025-12-26 11:42:22](https://bsky.app/profile/financialtimes.com/post/3maubfweu5r2y)
 
 ---
 
