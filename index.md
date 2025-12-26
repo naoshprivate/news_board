@@ -1,9 +1,9 @@
-# [2025-12-26 10:10 updated](2025_12_26.md)
+# [2025-12-26 10:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">11月の鉱工業生産指数 前月を2.6％下回る 低下は3か月ぶり https://news.web.nhk/newsweb/na/na-k10015014291000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mau474lo3d22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 10:09:03)</span><span style="padding-right:50px;">“Men love tech pants and want to live in them. But I can tell you that their partners, both business and personal, have gotten sick of them.” Our guide to the divisive, stretchy pants features styling tips and sharp upgrades. on.wsj.com/45d2DWC <a href="https://bsky.app/profile/wsj.com/post/3mau3wzbekg2o" target="_blank">wsj.com</a> (2025-12-26 10:04:33)</span><span style="padding-right:50px;">‘Tis the season to indulge in mulled wine — or if you’re feeling especially festive, wassail. https://cnn.it/4pWUmyz <a href="https://bsky.app/profile/cnn.com/post/3mau3qpu45t2u" target="_blank">cnn.com</a> (2025-12-26 10:01:02)</span><span style="padding-right:50px;">Beyond Jolibee: The top restaurants to check out in Manila for a star chef's Filipino food and the best halo halo. (from the archive) <a href="https://bsky.app/profile/bloomberg.com/post/3mau3qamxvx2p" target="_blank">bloomberg.com</a> (2025-12-26 10:00:46)</span><span style="padding-right:50px;">参政党、元自民議員の入党相次ぐ www.nikkei.com/article/DGXZQO...   参政党が元自民党の中川俊直氏と宇都隆史氏の入党を発表。いずれも政調会長補佐に就きました。   中川氏は経済産業政務官、宇都氏は外務副大臣を務めた経験。国会議員の経験者を起用し、党の政策立案能力を補強します。   中川氏は女性問題が発覚した2017年に、宇都氏は22年参院選で落選し、25年12月に自民党を離党していました。 <a href="https://bsky.app/profile/nikkei.com/post/3mau3q26omz2g" target="_blank">nikkei.com</a> (2025-12-26 10:00:39)</span>
+<span style="padding-right:50px;">The Wrightwood community in San Bernardino County was hit by severe thunderstorms that triggered mudslides, rockslides and debris flows, leaving homes and cars buried in the muck.  Read more: https://cnn.it/495nRXz <a href="https://bsky.app/profile/cnn.com/post/3mau5bow24u25" target="_blank">cnn.com</a> (2025-12-26 10:28:25)</span><span style="padding-right:50px;">NPR's Leila Fadel tags along for lunch with Elazar Sontag, the Washington Post's new food critic. <a href="https://bsky.app/profile/npr.org/post/3mau4x63tak24" target="_blank">npr.org</a> (2025-12-26 10:22:32)</span><span style="padding-right:50px;">サッカーのイングランド・プレミアリーグ、ノッティンガム・フォレストは２５日、同クラブで活躍したジョン・ロバートソン氏が死去したと発表。７２歳だった。 bit.ly/496h1kz <a href="https://bsky.app/profile/japan.reuters.com/post/3mau4w3bzjx2q" target="_blank">japan.reuters.com</a> (2025-12-26 10:21:55)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR湖西線 和邇駅～近江今津駅間で列車の運転「一時取り止め」へ 強風の影響 (2025-12-26 10:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mau4u76ote2v" target="_blank">sokuho.news</a> (2025-12-26 10:20:52)</span><span style="padding-right:50px;">アメリカ就労ビザ「H-1B」　選考方法変更は26年2月27日、高賃金労働者を優遇（無料記事） www.nikkei.com/article/DGXZQO...  従来は申請者の賃金水準にかかわらず無作為に抽選を実施してきましたが、新たな選考方法では申請者を賃金水準で4段階に分類して抽選回数に差をつけます。  最も高賃金の水準なら4回抽選に参加できますが、最も低賃金の場合は1回しか抽選に参加できなくなります。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3mau4tstsmz2x" target="_blank">nikkei.com</a> (2025-12-26 10:20:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50785.12 (🔺257.99 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.36 (🔺0.56 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50862.76 (🔺335.63 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3385.00 (🔺8.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.21 (🔺0.41 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,101 +32,115 @@
 
 ## News Headlines
 
-- Japan's Industrial Production Index Falls 2.6% in November
-- Tech-Pants Are a Divisive Fashion Trend
-- Mulled Wine and Wassail: The Perfect Winter Drinks
-- New Restaurants to Try in Manila for Filipino Food and Halo Halo
-- New Restaurants to Try in Manila for Filipino Food and Halo Halo
-- US Forces Strike Isis Targets in Nigeria
+- Severe Thunderstorms Devastate Wrightwood Community in San Bernardino County
+- Washington Post's New Food Critic Elazar Sontag's Lunch Experience
+- FNN Breaking News: JR Lake Line Train Service Temporarily Suspended Due to Strong Winds
+- US to Change H-1B Visa Selection Method, Favoring Higher-Paying Workers
+- Japanese Government Approves Record 122.3 Trillion Yen Budget for Next Fiscal Year
+- Bangladesh's Opposition Leader Returns Home After 17 Years in Exile
 
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-11月の鉱工業生産指数 前月を2.6％下回る 低下は3か月ぶり
-https://news.web.nhk/newsweb/na/na-k10015014291000
-
-[2025-12-26 10:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mau474lo3d22)
-
----
-
-@wsj.com
-
-“Men love tech pants and want to live in them. But I can tell you that their partners, both business and personal, have gotten sick of them.” Our guide to the divisive, stretchy pants features styling tips and sharp upgrades. on.wsj.com/45d2DWC
-
-[2025-12-26 10:04:33](https://bsky.app/profile/wsj.com/post/3mau3wzbekg2o)
-
----
-
 @cnn.com
 
-‘Tis the season to indulge in mulled wine — or if you’re feeling especially festive, wassail. https://cnn.it/4pWUmyz
+The Wrightwood community in San Bernardino County was hit by severe thunderstorms that triggered mudslides, rockslides and debris flows, leaving homes and cars buried in the muck.
 
-[2025-12-26 10:01:02](https://bsky.app/profile/cnn.com/post/3mau3qpu45t2u)
+Read more: https://cnn.it/495nRXz
+
+[2025-12-26 10:28:25](https://bsky.app/profile/cnn.com/post/3mau5bow24u25)
 
 ---
 
-@bloomberg.com
+@npr.org
 
-Beyond Jolibee: The top restaurants to check out in Manila for a star chef's Filipino food and the best halo halo. (from the archive)
+NPR's Leila Fadel tags along for lunch with Elazar Sontag, the Washington Post's new food critic.
 
-[2025-12-26 10:00:46](https://bsky.app/profile/bloomberg.com/post/3mau3qamxvx2p)
+[2025-12-26 10:22:32](https://bsky.app/profile/npr.org/post/3mau4x63tak24)
+
+---
+
+@japan.reuters.com
+
+サッカーのイングランド・プレミアリーグ、ノッティンガム・フォレストは２５日、同クラブで活躍したジョン・ロバートソン氏が死去したと発表。７２歳だった。 bit.ly/496h1kz
+
+[2025-12-26 10:21:55](https://bsky.app/profile/japan.reuters.com/post/3mau4w3bzjx2q)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】JR湖西線 和邇駅～近江今津駅間で列車の運転「一時取り止め」へ 強風の影響
+(2025-12-26 10:08) #ニュース
+
+[2025-12-26 10:20:52](https://bsky.app/profile/sokuho.news/post/3mau4u76ote2v)
 
 ---
 
 @nikkei.com
 
-参政党、元自民議員の入党相次ぐ
+アメリカ就労ビザ「H-1B」　選考方法変更は26年2月27日、高賃金労働者を優遇（無料記事）
 www.nikkei.com/article/DGXZQO...
- 
-参政党が元自民党の中川俊直氏と宇都隆史氏の入党を発表。いずれも政調会長補佐に就きました。
- 
-中川氏は経済産業政務官、宇都氏は外務副大臣を務めた経験。国会議員の経験者を起用し、党の政策立案能力を補強します。
- 
-中川氏は女性問題が発覚した2017年に、宇都氏は22年参院選で落選し、25年12月に自民党を離党していました。
 
-[2025-12-26 10:00:39](https://bsky.app/profile/nikkei.com/post/3mau3q26omz2g)
+従来は申請者の賃金水準にかかわらず無作為に抽選を実施してきましたが、新たな選考方法では申請者を賃金水準で4段階に分類して抽選回数に差をつけます。
 
----
+最も高賃金の水準なら4回抽選に参加できますが、最も低賃金の場合は1回しか抽選に参加できなくなります。
 
-@usatoday.com
+#ニュース
 
-Anthony Davis exited the Dallas Mavericks' Christmas Day game against the Golden State Warriors and headed back to the locker room.
-
-[2025-12-26 10:00:38](https://bsky.app/profile/usatoday.com/post/3mau3pzowte2o)
+[2025-12-26 10:20:39](https://bsky.app/profile/nikkei.com/post/3mau4tstsmz2x)
 
 ---
 
-@cnbc.com
+@sokuho.news
 
-Years before Emery Wells sold his startup Frame.io for $1.28 billion, a rash decision to buy a camera he couldn't afford changed the trajectory of his career.
+🛎️ANNより【速報】です。
 
-[2025-12-26 10:00:13](https://bsky.app/profile/cnbc.com/post/3mau3payi7c2b)
+【速報】来年度予算案122.3兆円を閣議決定 2年連続で過去最大 新規国債発行は30兆円弱
+(2025-12-26 10:08:53) #ニュース
 
----
-
-@washingtonpost.com
-
-As U.S. forces mass off Venezuela, launch attacks on alleged drug traffickers and seize oil tankers, authorities in Caracas are mobilizing the army, calling on allies for support and appealing to the U.N.
-
-[2025-12-26 10:00:10](https://bsky.app/profile/washingtonpost.com/post/3mau3p6xrdj2n)
+[2025-12-26 10:20:21](https://bsky.app/profile/sokuho.news/post/3mau4tbahbx2b)
 
 ---
 
-@apnews.com
+@japan.reuters.com
 
-Here are some of the most compelling images worldwide published by The Associated Press in the past week.
+バングラデシュの主要政党、バングラデシュ民族主義党（ＢＮＰ）のタリク・ラーマン党首代行が２５日、英国から約１７年ぶりに帰国した。同国は来年２月に総選挙を予定しており、ＢＮＰが勝利しラーマン氏が次期首相に就任するとの観測が出ている。 bit.ly/3MOUfXb
 
-[2025-12-26 10:00:06](https://bsky.app/profile/apnews.com/post/3mau3p37ikm23)
+[2025-12-26 10:20:14](https://bsky.app/profile/japan.reuters.com/post/3mau4t34f4a22)
 
 ---
 
-@en.afp.com
+@sokuho.news
 
-Russia has made an offer to France regarding a jailed researcher facing espionage charges that could see him sentenced to 20 years in prison, the Kremlin said Thursday.  The surprise public overture prompted hopes from Laurent Vinatier's family that he could soon be freed. u.afp.com/S8Ps
+🛎️JNNより【速報】です。
 
-[2025-12-26 10:00:05](https://bsky.app/profile/en.afp.com/post/3mau3p275dr2y)
+【速報】『高市カラー』過去最大122.3兆円の来年度予算案を閣議決定 国債発行額は29.6兆円 国債依存度低下も4分の1占める PBは28年ぶり黒字化
+(2025-12-26 10:18:30) #ニュース
+
+[2025-12-26 10:19:41](https://bsky.app/profile/sokuho.news/post/3mau4s3blcp2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+卵の12月の平均価格 同月比で過去最高値 東京地区で
+https://news.web.nhk/newsweb/na/na-k10015014331000
+
+[2025-12-26 10:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mau4p6pdgr2d)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】来年度予算案122.3兆円を閣議決定 2年連続で過去最大 新規国債発行は30兆円弱
+(2025年12月26日 10:15) #ニュース
+
+[2025-12-26 10:15:22](https://bsky.app/profile/sokuho.news/post/3mau4kescdn2s)
 
 ---
 
