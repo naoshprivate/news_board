@@ -1,9 +1,9 @@
-# [2025-12-27 07:30 updated](2025_12_27.md)
+# [2025-12-27 07:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Man Utd move up to fifth with win over Newcastle reut.rs/3L37LG6 <a href="https://bsky.app/profile/reuters.com/post/3mawdivtetv2s" target="_blank">reuters.com</a> (2025-12-27 07:25:09)</span><span style="padding-right:50px;">＜為替＞ 円が軟化した。投資家は引き続き、介入の可能性を注視している。 bit.ly/48V2NnX <a href="https://bsky.app/profile/japan.reuters.com/post/3mawdamrpsi2c" target="_blank">japan.reuters.com</a> (2025-12-27 07:20:31)</span><span style="padding-right:50px;">A group of Venezuelans who were sent to a maximum-security El Salvador prison from the US and then returned to Venezuela called for the United States to comply with a ruling that would allow them to challenge their deportation in US courts reut.rs/4pVoB8V <a href="https://bsky.app/profile/reuters.com/post/3mawd33k4pc2u" target="_blank">reuters.com</a> (2025-12-27 07:17:25)</span><span style="padding-right:50px;">Venezuelans held in Salvadoran prison look to challenge deportation in US court reut.rs/4b3ixGQ <a href="https://bsky.app/profile/reuters.com/post/3mawcx6gbze2k" target="_blank">reuters.com</a> (2025-12-27 07:15:14)</span><span style="padding-right:50px;">米金融・債券市場では、１０年国債利回りが低下した。今週はクリスマス休暇で取引が短縮され、比較的静かな値動きとなった。 bit.ly/49boU8C <a href="https://bsky.app/profile/japan.reuters.com/post/3mawcwokzer25" target="_blank">japan.reuters.com</a> (2025-12-27 07:14:57)</span>
+<span style="padding-right:50px;">U.S. airstrikes in Nigeria on Thursday hit an area populated overwhelmingly by Muslims, who bear the brunt of terrorist attacks there, analysts and groups that monitor conflict say, even as President Trump said the targets were Islamic State terrorists responsible for killing Christians. <a href="https://bsky.app/profile/nytimes.com/post/3mawedjhydp2b" target="_blank">nytimes.com</a> (2025-12-27 07:40:02)</span><span style="padding-right:50px;">群馬 関越道で多重事故 1人死亡 26人重軽傷 スリップが原因か https://news.web.nhk/newsweb/na/na-k10015015301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawebs47x72k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 07:39:02)</span><span style="padding-right:50px;">Morocco held to a draw by Mali to end record run of wins reut.rs/499g4rQ <a href="https://bsky.app/profile/reuters.com/post/3mawe2sies52k" target="_blank">reuters.com</a> (2025-12-27 07:35:09)</span><span style="padding-right:50px;">Timothée Chalamet may be the focus of ”Marty Supreme,” but it’s the people swirling around his character who send the propulsive drama about ambition into overdrive. on.wsj.com/49abb1L <a href="https://bsky.app/profile/wsj.com/post/3mawdsjg6zd2k" target="_blank">wsj.com</a> (2025-12-27 07:30:31)</span><span style="padding-right:50px;">In the sequel to the blockbuster "Wicked," Elphaba and Glinda are forced to reunite when a girl from Kansas "crashes into their lives." <a href="https://bsky.app/profile/usatoday.com/post/3mawdsits7a2l" target="_blank">usatoday.com</a> (2025-12-27 07:30:31)</span>
   </div>
 </div>
 
@@ -32,15 +32,73 @@
 
 ## News Headlines
 
-- Man Utd moves up to fifth with win over Newcastle
-- Dollar weakens as intervention concern persists
-- Venezuelans held in Salvadoran prison seek to challenge deportation in US court
-- US bond market sees 10-year Treasury yield drop
-- Polish jazz musician and pioneer Michał Urbaniak dies at 82
-- US president's expected meeting with Ukraine's Zelenskiy brings new tensions
+- US Airstrikes in Nigeria Hit Overwhelmingly Muslim Areas, Analysts Say
+- Japan Schedules Sanitary Audit on Brazilian Beef for March 2026
+- Israel Recognizes Somaliland as Independent and Sovereign State
+- Sears Stores Near End as Only Five Remain in US
+- US Officials Post Sectarian Christmas Messages, Breaking Tradition
+- Venezuelans Held in Salvadoran Prison Seek to Challenge Deportation in US Court
 
 
 ----
+
+@nytimes.com
+
+U.S. airstrikes in Nigeria on Thursday hit an area populated overwhelmingly by Muslims, who bear the brunt of terrorist attacks there, analysts and groups that monitor conflict say, even as President Trump said the targets were Islamic State terrorists responsible for killing Christians.
+
+[2025-12-27 07:40:02](https://bsky.app/profile/nytimes.com/post/3mawedjhydp2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+群馬 関越道で多重事故 1人死亡 26人重軽傷 スリップが原因か
+https://news.web.nhk/newsweb/na/na-k10015015301000
+
+[2025-12-27 07:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawebs47x72k)
+
+---
+
+@reuters.com
+
+Morocco held to a draw by Mali to end record run of wins reut.rs/499g4rQ
+
+[2025-12-27 07:35:09](https://bsky.app/profile/reuters.com/post/3mawe2sies52k)
+
+---
+
+@wsj.com
+
+Timothée Chalamet may be the focus of ”Marty Supreme,” but it’s the people swirling around his character who send the propulsive drama about ambition into overdrive. on.wsj.com/49abb1L
+
+[2025-12-27 07:30:31](https://bsky.app/profile/wsj.com/post/3mawdsjg6zd2k)
+
+---
+
+@usatoday.com
+
+In the sequel to the blockbuster "Wicked," Elphaba and Glinda are forced to reunite when a girl from Kansas "crashes into their lives."
+
+[2025-12-27 07:30:31](https://bsky.app/profile/usatoday.com/post/3mawdsits7a2l)
+
+---
+
+@aljazeera.com
+
+Israel attacks press as ‘silencing’ policy: Palestinian journalists union https://aje.io/6q7qv7
+
+[2025-12-27 07:30:06](https://bsky.app/profile/aljazeera.com/post/3mawdrrpl7h2d)
+
+---
+
+@washingtonpost.com
+
+Top Nigerian officials said that U.S. attacks in the country could mark the opening salvo in a campaign against militant groups. But security analysts warned that Trump administration officials are stepping into a conflict that they may not fully understand. 
+
+
+[2025-12-27 07:30:05](https://bsky.app/profile/washingtonpost.com/post/3mawdrpzhez2d)
+
+---
 
 @reuters.com
 
@@ -63,62 +121,6 @@ Man Utd move up to fifth with win over Newcastle reut.rs/3L37LG6
 A group of Venezuelans who were sent to a maximum-security El Salvador prison from the US and then returned to Venezuela called for the United States to comply with a ruling that would allow them to challenge their deportation in US courts reut.rs/4pVoB8V
 
 [2025-12-27 07:17:25](https://bsky.app/profile/reuters.com/post/3mawd33k4pc2u)
-
----
-
-@reuters.com
-
-Venezuelans held in Salvadoran prison look to challenge deportation in US court reut.rs/4b3ixGQ
-
-[2025-12-27 07:15:14](https://bsky.app/profile/reuters.com/post/3mawcx6gbze2k)
-
----
-
-@japan.reuters.com
-
-米金融・債券市場では、１０年国債利回りが低下した。今週はクリスマス休暇で取引が短縮され、比較的静かな値動きとなった。 bit.ly/49boU8C
-
-[2025-12-27 07:14:57](https://bsky.app/profile/japan.reuters.com/post/3mawcwokzer25)
-
----
-
-@nytimes.com
-
-Michał Urbaniak, a Polish violinist and jazz fusion pioneer who in the 1970s became one of the first jazz musicians from his Eastern bloc country to gain an international following, eventually playing with luminaries like Miles Davis, Wayne Shorter and Herbie Hancock, died on Saturday. He was 82.
-
-[2025-12-27 07:10:07](https://bsky.app/profile/nytimes.com/post/3mawcnzu5cd2y)
-
----
-
-@wsj.com
-
-Just as AI can personalize ads online, bad actors are using it to glean personal information that enables them to create custom-tailored scams.
-
-[2025-12-27 07:10:04](https://bsky.app/profile/wsj.com/post/3mawcnwqh552r)
-
----
-
-@reuters.com
-
-White House press secretary Karoline Leavitt said she is expecting a second child, a girl due in May reut.rs/3NjcpQP
-
-[2025-12-27 07:06:41](https://bsky.app/profile/reuters.com/post/3mawchvejo226)
-
----
-
-@yahoofinance.com
-
-Luluemon's got a few New Year's resolutions for 2026. 👀
-
-[2025-12-27 07:06:20](https://bsky.app/profile/yahoofinance.com/post/3mawchbkrhq2f)
-
----
-
-@reuters.com
-
-President Volodymyr Zelenskiy said Russia was using ordinary apartment blocks on the territory of its ally Belarus to attack Ukrainian targets and circumvent Kyiv's defenses reut.rs/49cCN6i
-
-[2025-12-27 07:05:59](https://bsky.app/profile/reuters.com/post/3mawcgmtdvk26)
 
 ---
 
