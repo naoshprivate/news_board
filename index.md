@@ -1,9 +1,9 @@
-# [2025-12-27 02:10 updated](2025_12_27.md)
+# [2025-12-27 02:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Stocks making the biggest moves midday: Freeport-McMoran, Coupang, Target & more <a href="https://bsky.app/profile/cnbc.com/post/3mavrmoinbh2y" target="_blank">cnbc.com</a> (2025-12-27 02:05:08)</span><span style="padding-right:50px;">EXCLUSIVE: Zelensky tells Axios that he hopes to agree on a Ukraine-Russia peace framework when he meets Trump on Sunday.  Zelensky revealed he's willing to bring that plan up for a referendum if Russia agrees to a ceasefire of at least 60 days. <a href="https://bsky.app/profile/axios.com/post/3mavrmls4tc2y" target="_blank">axios.com</a> (2025-12-27 02:05:05)</span><span style="padding-right:50px;">These are UBS' top stock picks for 2026 <a href="https://bsky.app/profile/cnbc.com/post/3mavriq7mhs2g" target="_blank">cnbc.com</a> (2025-12-27 02:02:56)</span><span style="padding-right:50px;">Israel police say 2 killed in car-ramming and stabbing attack by Palestinian <a href="https://bsky.app/profile/cbsnews.com/post/3mavrhyqbbc2g" target="_blank">cbsnews.com</a> (2025-12-27 02:02:31)</span><span style="padding-right:50px;">The U.S. airstrikes targeting militants affiliated with the Islamic State group in northwestern Nigeria are widely seen by experts as crucial help for the country's security forces, which are often overstretched and outgunned as they fight multiple crises across different regions. <a href="https://bsky.app/profile/apnews.com/post/3mavreru7vl24" target="_blank">apnews.com</a> (2025-12-27 02:00:43)</span>
+<span style="padding-right:50px;">Airlines in the United States canceled or delayed thousands of flights during peak holiday travel due to severe winter storm warnings, according to flight tracking website FlightAware reut.rs/499T1xb <a href="https://bsky.app/profile/reuters.com/post/3mavsxese4c26" target="_blank">reuters.com</a> (2025-12-27 02:29:01)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  群馬 関越道の多重事故で1人死亡 複数人けが (2025-12-27 02:26:32) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mavstojpqk2b" target="_blank">sokuho.news</a> (2025-12-27 02:26:57)</span><span style="padding-right:50px;">Measles cases in South Carolina rise to 156, state health department says reut.rs/3YKCU4d <a href="https://bsky.app/profile/reuters.com/post/3mavsqgw7fs2x" target="_blank">reuters.com</a> (2025-12-27 02:25:08)</span><span style="padding-right:50px;">2025: The year the Big 3 backed away from EVs <a href="https://bsky.app/profile/yahoofinance.com/post/3mavsjahc762j" target="_blank">yahoofinance.com</a> (2025-12-27 02:21:06)</span><span style="padding-right:50px;">The relentless rise of YouTube ft.trib.al/lOOWh7o <a href="https://bsky.app/profile/financialtimes.com/post/3mavsekv4742y" target="_blank">financialtimes.com</a> (2025-12-27 02:18:30)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48631.60 (🔻80.87 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23598.02 (🔻47.88 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.73 (🔺0.76 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.61 (🔺0.81 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48680.02 (🔻32.45 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23615.29 (🔻30.62 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.76 (🔺0.80 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.64 (🔺0.84 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,95 +32,93 @@
 
 ## News Headlines
 
-- Exclusive: Zelensky hopes to agree on Ukraine-Russia peace framework with Trump
-- US airstrikes target Islamic State group in northwestern Nigeria
-- Israel police say 2 killed in car-ramming and stabbing attack by Palestinian
-- Los Angeles Lakers called out by head coach JJ Redick after another loss
-- Trump's ocean mining plans spark a new era for green tech
-- Myanmar holds its first general election in five years
+- US Airlines Cancel Thousands of Flights Amid Severe Winter Storm
+- 1 Dead, Several Injured in Multi-Car Pileup on Japan Highway
+- Measles Cases Rise to 156 in South Carolina
+- Big 3 Automakers Back Away from Electric Vehicles in 2025
+- US Airstrikes in Nigeria Target Militants Linked to Islamic State
+- Myanmar to Hold First Election in Five Years Amid Ongoing Civil War
 
 
 ----
+
+@reuters.com
+
+Airlines in the United States canceled or delayed thousands of flights during peak holiday travel due to severe winter storm warnings, according to flight tracking website FlightAware reut.rs/499T1xb
+
+[2025-12-27 02:29:01](https://bsky.app/profile/reuters.com/post/3mavsxese4c26)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>群馬 関越道の多重事故で1人死亡 複数人けが</strong><br><strong>(2025-12-27 02:26:32) #ニュース</strong>
+
+[2025-12-27 02:26:57](https://bsky.app/profile/sokuho.news/post/3mavstojpqk2b)
+
+---
+
+@reuters.com
+
+Measles cases in South Carolina rise to 156, state health department says reut.rs/3YKCU4d
+
+[2025-12-27 02:25:08](https://bsky.app/profile/reuters.com/post/3mavsqgw7fs2x)
+
+---
+
+@yahoofinance.com
+
+2025: The year the Big 3 backed away from EVs
+
+[2025-12-27 02:21:06](https://bsky.app/profile/yahoofinance.com/post/3mavsjahc762j)
+
+---
+
+@financialtimes.com
+
+The relentless rise of YouTube ft.trib.al/lOOWh7o
+
+[2025-12-27 02:18:30](https://bsky.app/profile/financialtimes.com/post/3mavsekv4742y)
+
+---
+
+@reuters.com
+
+Jets rule out TE Mason Taylor, DE Will McDonald, 2 others vs. Patriots reut.rs/3KLVRjS
+
+[2025-12-27 02:15:18](https://bsky.app/profile/reuters.com/post/3mavs6tyax22k)
+
+---
+
+@nytimes.com
+
+A non-Japanese-speaking visitor to Tokyo used Apple’s new in-ear translation feature to connect with locals at bars, sushi classes and even a fire ritual. Here's how it went.
+
+[2025-12-27 02:15:05](https://bsky.app/profile/nytimes.com/post/3mavs6hvgp326)
+
+---
+
+@forbes.com
+
+“Marty Supreme” earned $9.5 million on its opening day, a big total spurred by great reviews and a viral press tour.
+
+[2025-12-27 02:15:04](https://bsky.app/profile/forbes.com/post/3mavs6gxyo52f)
+
+---
+
+@reuters.com
+
+More rain expected in drenched California before drier weekend reut.rs/3LkLHGW
+
+[2025-12-27 02:10:12](https://bsky.app/profile/reuters.com/post/3mavrvq452l2i)
+
+---
 
 @cnbc.com
 
 Stocks making the biggest moves midday: Freeport-McMoran, Coupang, Target & more
 
 [2025-12-27 02:05:08](https://bsky.app/profile/cnbc.com/post/3mavrmoinbh2y)
-
----
-
-@axios.com
-
-EXCLUSIVE: Zelensky tells Axios that he hopes to agree on a Ukraine-Russia peace framework when he meets Trump on Sunday.
-
-Zelensky revealed he's willing to bring that plan up for a referendum if Russia agrees to a ceasefire of at least 60 days.
-
-[2025-12-27 02:05:05](https://bsky.app/profile/axios.com/post/3mavrmls4tc2y)
-
----
-
-@cnbc.com
-
-These are UBS' top stock picks for 2026
-
-[2025-12-27 02:02:56](https://bsky.app/profile/cnbc.com/post/3mavriq7mhs2g)
-
----
-
-@cbsnews.com
-
-Israel police say 2 killed in car-ramming and stabbing attack by Palestinian
-
-[2025-12-27 02:02:31](https://bsky.app/profile/cbsnews.com/post/3mavrhyqbbc2g)
-
----
-
-@apnews.com
-
-The U.S. airstrikes targeting militants affiliated with the Islamic State group in northwestern Nigeria are widely seen by experts as crucial help for the country's security forces, which are often overstretched and outgunned as they fight multiple crises across different regions.
-
-[2025-12-27 02:00:43](https://bsky.app/profile/apnews.com/post/3mavreru7vl24)
-
----
-
-@wsj.com
-
-Simu Liu stars in this eight-part thriller about a man at an intelligence agency who becomes targeted by parties unknown. on.wsj.com/3YdzJSn
-
-[2025-12-27 02:00:38](https://bsky.app/profile/wsj.com/post/3mavremshtp2h)
-
----
-
-@washingtonpost.com
-
-Files offer new details on Jeffrey Epstein’s death in federal custody in 2019, with additional evidence that jail officials failed to properly monitor Epstein even though they had previously put him on suicide watch. 
-
-[2025-12-27 02:00:33](https://bsky.app/profile/washingtonpost.com/post/3mavrei7n2q2y)
-
----
-
-@usatoday.com
-
-Los Angeles head coach JJ Redick called out the Lakers after another loss.
-
-[2025-12-27 02:00:33](https://bsky.app/profile/usatoday.com/post/3mavrehwkwn2h)
-
----
-
-@bloomberg.com
-
-Trump set off a race to extract minerals critical for batteries and other green tech from the ocean depths. Here's how it's going. (from July) 
-
-[2025-12-27 02:00:28](https://bsky.app/profile/bloomberg.com/post/3mavredm4ro2u)
-
----
-
-@cnbc.com
-
-Nicole Brewer, 43, has lived abroad for 16 years. To follow in her footsteps, she says, you'll have to ignore naysayers and do thorough research.
-
-[2025-12-27 02:00:21](https://bsky.app/profile/cnbc.com/post/3mavre4uicr24)
 
 ---
 
