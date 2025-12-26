@@ -1,9 +1,9 @@
-# [2025-12-26 12:50 updated](2025_12_26.md)
+# [2025-12-26 13:10 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長崎ランタンフェス 2026年から開催期間を「固定」へ 皇帝役1人目は俳優・前原瑞樹さん (2025-12-26 12:46:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauf4ervqq2b" target="_blank">sokuho.news</a> (2025-12-26 12:48:36)</span><span style="padding-right:50px;">シリア中央銀行のフスリエ総裁は２５日、２０２６年１月１日から旧紙幣と新紙幣の交換を開始すると発表した。 bit.ly/3KRcfj4 <a href="https://bsky.app/profile/japan.reuters.com/post/3mauewdnfgj2v" target="_blank">japan.reuters.com</a> (2025-12-26 12:45:14)</span><span style="padding-right:50px;">【きょうのおはBiz 12月26日(金)】解説 コメ輸入量が増加 https://news.web.nhk/newsweb/na/na-k10015014371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauew2zlez2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 12:45:03)</span><span style="padding-right:50px;">🔔NHKより【速報】です。  脚本家の内館牧子さん死去 77歳 数多くのテレビドラマなど手がける (2025-12-26 12:44) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauevmpokq2b" target="_blank">sokuho.news</a> (2025-12-26 12:44:50)</span><span style="padding-right:50px;">午前のソウル株式市場の株価は反発した。人工知能（ＡＩ）への期待感を背景に、半導体メーカー株が米同業につれ高となった。 bit.ly/3MR5SNe <a href="https://bsky.app/profile/japan.reuters.com/post/3mauevcln4625" target="_blank">japan.reuters.com</a> (2025-12-26 12:44:39)</span>
+<span style="padding-right:50px;">Ten years ago, the WSJ’s retirement columnist, Glenn Ruffenach, retired. He had it all worked out. Then life threw him a curveball. on.wsj.com/3Lf7P5C <a href="https://bsky.app/profile/wsj.com/post/3maugbk7kl22c" target="_blank">wsj.com</a> (2025-12-26 13:09:23)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】脚本家の内館牧子さん（77）が急性左心不全で死去 女性初の横綱審議委員を務める (2025年12月26日 13:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maug5sims42y" target="_blank">sokuho.news</a> (2025-12-26 13:07:18)</span><span style="padding-right:50px;">２０２５年は多くの海外中央銀行が利下げを重ねた一方、日銀は１２月１９日、同年２度目の利上げを決定した。この金融政策の内外格差を踏まえ、２５年は円高観測もきかれたが、実際は円安が進行。国際通貨基金（ＩＭＦ）が算出する円の名目実効為替レート（ナロー・ベース）は年初より約４％も減価した。対スイスフランや対ユーロで史上最安値を更新したほか対ドルでも日米金利差に照らせば年央以降、大幅にドル高・円安方向へ乖離（かいり）している。ドルは他通貨に対して軟調に推移しており、この乖離も円安によるものとみるのが妥当だ。 bit.ly/3Y8VB1l <a href="https://bsky.app/profile/japan.reuters.com/post/3maufzxwlyx2q" target="_blank">japan.reuters.com</a> (2025-12-26 13:05:10)</span><span style="padding-right:50px;">政府 来年度の税制改正大綱を閣議決定 https://news.web.nhk/newsweb/na/na-k10015014561000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maufwafqgf24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 13:03:02)</span><span style="padding-right:50px;">内館牧子さん死去　脚本家、女性初の横綱審議委員 www.nikkei.com/article/DGXZQO...  1988年に脚本家としてデビュー。代表作にNHK連続テレビ小説「ひらり」「私の青空」などがあります。 <a href="https://bsky.app/profile/nikkei.com/post/3maufrwin5q24" target="_blank">nikkei.com</a> (2025-12-26 13:00:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50889.42 (🔺362.29 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3383.00 (🔺6.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.15 (🔺0.34 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50904.99 (🔺377.86 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3381.00 (🔺4.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.05 (🔺0.25 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,117 +32,102 @@
 
 ## News Headlines
 
-[{"en": "Nagasaki Lantern Festival to Hold Fixed Dates from 2026"}, 
-{"en": "Syrian Central Bank to Exchange Old and New Currency from January 1, 2026"}, 
-{"en": "NHK: Renowned Scriptwriter Masako Inoue Passes Away at 77"}, 
-{"en": "Lakers G Austin Reaves Ruled Out vs. Rockets with Calf Injury"}, 
-{"en": "Russia to Delay LNG Production Target by Several Years Due to Sanctions"}, 
-{"en": "Trump Administration Conducts Airstrike Against Islamic Extremist Group in Nigeria"}, 
-{"en": "Japan's Finance Minister Yui Edano Criticizes Excessive Budget Numbers"}, 
-{"en": "Philippines to Record a $15.5 Billion Budget Deficit for 2025"}, 
-{"en": "UK's Charles King Expresses Importance of Unity in Diverse Societies"}, 
-{"en": "Asia Stocks Rise to Six-Week High, Precious Metals Surge"}, 
-{"en": "Tokyo Metropolitan Police Arrest Former CEO of Luxury Watch-Sharing Service for Embezzlement"}, 
-{"en": "North Korea Suggests Continuing Missile Development for Next Five Years"}, 
-{"en": "Japanese Government to Hold Conference on Ensuring Essential Goods"}, 
-{"en": "St. Paul Enacts Rent Controls, Housing Construction Plummets"}, 
-{"en": "NTT Tower Repair Work to Be Completed Today"}, 
-{"en": "Russia's Gazprom Reports Record Gas Supplies to China Through Siberian Power Pipeline"}, 
-{"en": "MLB Top Outfielders Kyle Tucker and Cody Bellinger's Trade Rumors Stall"}, 
-{"en": "Japan to Reduce Food Price Increases by 4% from 2026"}, 
-{"en": "Bangladesh's opposition party leader returns home after 17 years"}, 
-{"en": "Toyota Plans to Produce Over 10 Million Vehicles Globally in 2026"}, 
-{"en": "Bangladesh's opposition party leader returns home after 17 years"}
+- WSJ Retirement Columnist's New Chapter: A Curveball Thrown by Life
+- Legendary Scriptwriter Naoko Ito Passes Away at 77
+- Japan's BOJ Raises Interest Rates for the Second Time This Year
+- Japan's Government Approves 2026 Defense Budget with Increased Spending on Unmanned Equipment
+- China Pledges to Control Steel Output During 2026-2030 Period
+- Lakers' Austin Reaves Ruled Out with Calf Injury
+
 
 ----
 
+@wsj.com
+
+Ten years ago, the WSJ’s retirement columnist, Glenn Ruffenach, retired. He had it all worked out. Then life threw him a curveball. on.wsj.com/3Lf7P5C
+
+[2025-12-26 13:09:23](https://bsky.app/profile/wsj.com/post/3maugbk7kl22c)
+
+---
+
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🔔ANNより【速報】です。
 
-【速報】長崎ランタンフェス 2026年から開催期間を「固定」へ 皇帝役1人目は俳優・前原瑞樹さん
-(2025-12-26 12:46:00) #ニュース
+【速報】脚本家の内館牧子さん（77）が急性左心不全で死去 女性初の横綱審議委員を務める
+(2025年12月26日 13:05) #ニュース
 
-[2025-12-26 12:48:36](https://bsky.app/profile/sokuho.news/post/3mauf4ervqq2b)
+[2025-12-26 13:07:18](https://bsky.app/profile/sokuho.news/post/3maug5sims42y)
 
 ---
 
 @japan.reuters.com
 
-シリア中央銀行のフスリエ総裁は２５日、２０２６年１月１日から旧紙幣と新紙幣の交換を開始すると発表した。 bit.ly/3KRcfj4
+２０２５年は多くの海外中央銀行が利下げを重ねた一方、日銀は１２月１９日、同年２度目の利上げを決定した。この金融政策の内外格差を踏まえ、２５年は円高観測もきかれたが、実際は円安が進行。国際通貨基金（ＩＭＦ）が算出する円の名目実効為替レート（ナロー・ベース）は年初より約４％も減価した。対スイスフランや対ユーロで史上最安値を更新したほか対ドルでも日米金利差に照らせば年央以降、大幅にドル高・円安方向へ乖離（かいり）している。ドルは他通貨に対して軟調に推移しており、この乖離も円安によるものとみるのが妥当だ。 bit.ly/3Y8VB1l
 
-[2025-12-26 12:45:14](https://bsky.app/profile/japan.reuters.com/post/3mauewdnfgj2v)
+[2025-12-26 13:05:10](https://bsky.app/profile/japan.reuters.com/post/3maufzxwlyx2q)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【きょうのおはBiz 12月26日(金)】解説 コメ輸入量が増加
-https://news.web.nhk/newsweb/na/na-k10015014371000
+政府 来年度の税制改正大綱を閣議決定
+https://news.web.nhk/newsweb/na/na-k10015014561000
 
-[2025-12-26 12:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauew2zlez2b)
-
----
-
-@sokuho.news
-
-🔔NHKより【速報】です。
-
-脚本家の内館牧子さん死去 77歳 数多くのテレビドラマなど手がける
-(2025-12-26 12:44) #ニュース
-
-[2025-12-26 12:44:50](https://bsky.app/profile/sokuho.news/post/3mauevmpokq2b)
+[2025-12-26 13:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maufwafqgf24)
 
 ---
 
-@japan.reuters.com
+@nikkei.com
 
-午前のソウル株式市場の株価は反発した。人工知能（ＡＩ）への期待感を背景に、半導体メーカー株が米同業につれ高となった。 bit.ly/3MR5SNe
+内館牧子さん死去　脚本家、女性初の横綱審議委員
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-26 12:44:39](https://bsky.app/profile/japan.reuters.com/post/3mauevcln4625)
+1988年に脚本家としてデビュー。代表作にNHK連続テレビ小説「ひらり」「私の青空」などがあります。
 
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】全日本スピードスケート選手権 吉田雪乃選手（盛岡市出身）が女子500メートルで優勝
-(2025-12-26 12:42) #ニュース
-
-[2025-12-26 12:42:42](https://bsky.app/profile/sokuho.news/post/3mauertchpo2b)
+[2025-12-26 13:00:40](https://bsky.app/profile/nikkei.com/post/3maufrwin5q24)
 
 ---
 
 @reuters.com
 
-Lakers G Austin Reaves (calf) ruled out vs. Rockets reut.rs/4qpXRgA
+China pledges to control steel output during 2026-2030 period reut.rs/4b4p83F
 
-[2025-12-26 12:40:13](https://bsky.app/profile/reuters.com/post/3mauenemnhj2c)
-
----
-
-@japan.reuters.com
-
-ロシアのノバク副首相は２５日、国営テレビ「ロシア２４」に対し、液化天然ガス（ＬＮＧ）の生産を年間１億トンに増やす目標の達成時期が、計画から「数年」先送りされたと明らかにした。欧米によるロシアのエネルギー部門への制裁が影響したという。 bit.ly/3YejTqJ
-
-[2025-12-26 12:40:12](https://bsky.app/profile/japan.reuters.com/post/3mauendciav2c)
+[2025-12-26 13:00:33](https://bsky.app/profile/reuters.com/post/3maufrq5aab2p)
 
 ---
 
 @japan.reuters.com
 
-午前のドルは１５６円前半へ上昇した。年内最後の営業日となる事業会社も多く、朝方から実需筋を中心にドル買い需要が強まった。ただ、介入への警戒感が重しとなり、上値が抑えられる状況に変化はない。 bit.ly/3YcvEhi
+政府は２６日、防衛力整備計画４年目に当たる２０２６年度の防衛予算案を前年比３．８％増の９兆０３５３億円に決定した。有人の武器に比べてコストが安い無人機の導入を各国が進める中、自衛隊も無人装備を大量に調達する。年明けに始まる通常国会で成立すれば過去最高を更新し、初めて９兆円台に乗せる。 bit.ly/4axD0TX
 
-[2025-12-26 12:38:07](https://bsky.app/profile/japan.reuters.com/post/3mauejmixsv2c)
+[2025-12-26 13:00:26](https://bsky.app/profile/japan.reuters.com/post/3maufrjhm262q)
 
 ---
 
-@japan.reuters.com
+@cnbc.com
 
-トランプ米大統領と米軍は２５日、ナイジェリア北西部でイスラム過激派組織に対して空爆を行ったと発表した。キリスト教徒を迫害していることを理由とし、ナイジェリア当局と連携して実施したと説明した。 bit.ly/44Isiq0
+Dhruv Amin and Marcus Lowe shut down their developer marketplace in 2023 after predicting that the AI revolution would render their business model obsolete.
 
-[2025-12-26 12:35:07](https://bsky.app/profile/japan.reuters.com/post/3maueeballn2n)
+Then, they shuttered the whole thing to start over from scratch — all due to ChatGPT, says Amin.
+
+[2025-12-26 13:00:20](https://bsky.app/profile/cnbc.com/post/3maufrdzigi25)
+
+---
+
+@apnews.com
+
+De'Aaron Fox scored 29 points and the San Antonio Spurs defeated the Oklahoma City Thunder 117-102 on Thursday.
+
+[2025-12-26 13:00:07](https://bsky.app/profile/apnews.com/post/3maufqxu7l22u)
+
+---
+
+@cnn.com
+
+As millions of Americans hit the road or take to the skies for the holidays, another seasonal traveler is picking up speed: influenza. https://cnn.it/3YIqvxB
+
+[2025-12-26 13:00:05](https://bsky.app/profile/cnn.com/post/3maufqvnoia25)
 
 ---
 
