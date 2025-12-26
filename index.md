@@ -1,9 +1,9 @@
-# [2025-12-27 03:30 updated](2025_12_27.md)
+# [2025-12-27 03:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A Medellín cartel kingpin’s mission to recast his legacy ft.trib.al/tf8j1iS <a href="https://bsky.app/profile/financialtimes.com/post/3mavwccr4wa2b" target="_blank">financialtimes.com</a> (2025-12-27 03:28:49)</span><span style="padding-right:50px;">２６日のユーロ圏金融・債券市場はボクシングデーのため休信します。 bit.ly/4qlV2gA <a href="https://bsky.app/profile/japan.reuters.com/post/3mavw7hehyd22" target="_blank">japan.reuters.com</a> (2025-12-27 03:27:13)</span><span style="padding-right:50px;">群馬  関越道で車50台以上からむ事故 1人死亡 26人けが https://news.web.nhk/newsweb/na/na-k10015015301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mavw7625wk2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 03:27:01)</span><span style="padding-right:50px;">The fate of a European dream of unity, what we learn from lyric sheets, economic irrationality and more. on.wsj.com/499VdEF <a href="https://bsky.app/profile/wsj.com/post/3mavw5dx4sg2g" target="_blank">wsj.com</a> (2025-12-27 03:26:02)</span><span style="padding-right:50px;">New York to require social media platforms to display mental health warnings reut.rs/4jh7Wdp <a href="https://bsky.app/profile/reuters.com/post/3mavw3qljxt2r" target="_blank">reuters.com</a> (2025-12-27 03:25:08)</span>
+<span style="padding-right:50px;">President Trump exempted a copper smelter in Arizona from air-quality rules. An EPA official provided guidance to the company, according to emails and documents reviewed by The New York Times. It’s one of many efforts by the Trump administration to weaken or waive environmental protections. <a href="https://bsky.app/profile/nytimes.com/post/3mavwwflf7k2x" target="_blank">nytimes.com</a> (2025-12-27 03:40:03)</span><span style="padding-right:50px;">Former ULA CEO Tory Bruno to join Blue Origin's new national security business reut.rs/49soCeC <a href="https://bsky.app/profile/reuters.com/post/3mavwnnrnrg2k" target="_blank">reuters.com</a> (2025-12-27 03:35:10)</span><span style="padding-right:50px;">"Bachelorette" alum Joelle "JoJo" Fletcher welcomed her first baby, a girl, with final rose recipient Jordan Rodgers. <a href="https://bsky.app/profile/usatoday.com/post/3mavweyi6gs2w" target="_blank">usatoday.com</a> (2025-12-27 03:30:19)</span><span style="padding-right:50px;">At least eight people were killed and 18 others injured in an explosion targeting a mosque in the Syrian city of Homs on Friday, the country's health ministry said. https://cnn.it/4pg9XYK <a href="https://bsky.app/profile/cnn.com/post/3mavwenw6y42b" target="_blank">cnn.com</a> (2025-12-27 03:30:08)</span><span style="padding-right:50px;">Attacks by unknown assailants entering Tajik territory appear to target Chinese businesses and workers. <a href="https://bsky.app/profile/aljazeera.com/post/3mavwej5ewo2l" target="_blank">aljazeera.com</a> (2025-12-27 03:30:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48615.80 (🔻96.67 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23610.01 (🔻35.90 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.52 (🔺1.56 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.55 (🔺0.74 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48659.32 (🔻53.15 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23629.54 (🔻16.37 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 192.02 (🔺2.06 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.49 (🔺0.68 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,15 +32,56 @@
 
 ## News Headlines
 
-- Cartel Kingpin Seeks to Recast His Legacy
-- European Financial Market Closed for Boxing Day
-- One Dead, 26 Injured in Multi-Vehicle Accident in Japan's Gunma Prefecture
+- Trump Exempts Copper Smelter in Arizona from Air-Quality Rules
+- Former ULA CEO to Join Blue Origin's National Security Business
+- Explosion in Syrian City of Homs Kills at Least Eight People
 - Israel Recognizes Somaliland as Independent State
-- US President Trump Orders Military Strikes Against ISIS in Nigeria
-- European Stocks Closed for Boxing Day
+- US Airline Cancellations Soar Ahead of Winter Storm
+- President Trump Orders Military Strikes Against ISIS in Nigeria
 
 
 ----
+
+@nytimes.com
+
+President Trump exempted a copper smelter in Arizona from air-quality rules. An EPA official provided guidance to the company, according to emails and documents reviewed by The New York Times. It’s one of many efforts by the Trump administration to weaken or waive environmental protections.
+
+[2025-12-27 03:40:03](https://bsky.app/profile/nytimes.com/post/3mavwwflf7k2x)
+
+---
+
+@reuters.com
+
+Former ULA CEO Tory Bruno to join Blue Origin's new national security business reut.rs/49soCeC
+
+[2025-12-27 03:35:10](https://bsky.app/profile/reuters.com/post/3mavwnnrnrg2k)
+
+---
+
+@usatoday.com
+
+"Bachelorette" alum Joelle "JoJo" Fletcher welcomed her first baby, a girl, with final rose recipient Jordan Rodgers.
+
+[2025-12-27 03:30:19](https://bsky.app/profile/usatoday.com/post/3mavweyi6gs2w)
+
+---
+
+@cnn.com
+
+At least eight people were killed and 18 others injured in an explosion targeting a mosque in the Syrian city of Homs on Friday, the country's health ministry said.
+https://cnn.it/4pg9XYK
+
+[2025-12-27 03:30:08](https://bsky.app/profile/cnn.com/post/3mavwenw6y42b)
+
+---
+
+@aljazeera.com
+
+Attacks by unknown assailants entering Tajik territory appear to target Chinese businesses and workers.
+
+[2025-12-27 03:30:03](https://bsky.app/profile/aljazeera.com/post/3mavwej5ewo2l)
+
+---
 
 @financialtimes.com
 
@@ -80,46 +121,6 @@ The fate of a European dream of unity, what we learn from lyric sheets, economic
 New York to require social media platforms to display mental health warnings reut.rs/4jh7Wdp
 
 [2025-12-27 03:25:08](https://bsky.app/profile/reuters.com/post/3mavw3qljxt2r)
-
----
-
-@nytimes.com
-
-After Israel sealed Gaza’s borders, a 12-year-old girl who suffered from celiac disease spent months seeking food and care. “I needed to be a millionaire to keep her alive,” her father said.
-
-[2025-12-27 03:25:05](https://bsky.app/profile/nytimes.com/post/3mavw3mtmhd2b)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>群馬 関越道で車50台以上からむ事故 1人死亡 26人けが</strong><br><strong>(2025-12-27 03:23:49) #ニュース</strong>
-
-[2025-12-27 03:24:13](https://bsky.app/profile/sokuho.news/post/3mavw23b44x2y)
-
----
-
-@financialtimes.com
-
-Why bomb Sokoto? Trump’s strikes baffle Nigerians ft.trib.al/2KW7bDZ
-
-[2025-12-27 03:21:57](https://bsky.app/profile/financialtimes.com/post/3mavvw2ckgf23)
-
----
-
-@japan.reuters.com
-
-２６日のロンドン株式市場はボクシングデーのため休場。 bit.ly/4b6uH1y
-
-[2025-12-27 03:20:36](https://bsky.app/profile/japan.reuters.com/post/3mavvtmldrj2f)
-
----
-
-@cnbc.com
-
-Airlines cancel more than 1,200 flights ahead of winter storm. Here’s what to know
-
-[2025-12-27 03:17:35](https://bsky.app/profile/cnbc.com/post/3mavvo7lchz2g)
 
 ---
 
