@@ -1,9 +1,9 @@
-# [2025-12-27 04:30 updated](2025_12_27.md)
+# [2025-12-27 04:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Ashlee Buzzard, the California mother charged with the shooting death of her 9-year-old daughter, pleads not guilty to first-degree murder. https://cnn.it/44KZHk1 <a href="https://bsky.app/profile/cnn.com/post/3mavzkt5qxl2x" target="_blank">cnn.com</a> (2025-12-27 04:27:16)</span><span style="padding-right:50px;">Egyptian-British activist Alaa Abd el-Fattah arrives in UK after release from Egyptian prison reut.rs/44Ju3TZ <a href="https://bsky.app/profile/reuters.com/post/3mavzgyomjf2x" target="_blank">reuters.com</a> (2025-12-27 04:25:07)</span><span style="padding-right:50px;">Arsenal is sitting in first place ahead of the Premier League’s glut of Christmas matches. But that rarely bodes well for the club—especially when Manchester City is lurking. <a href="https://bsky.app/profile/wsj.com/post/3mavyw77bip2t" target="_blank">wsj.com</a> (2025-12-27 04:15:44)</span><span style="padding-right:50px;">After walking away from his investment banking job at 34 with a $3 million net worth, early retiree Sam Dogen built passive income streams that now earn him about $80,000 a year.  Here are his top passive income ideas to help you make money while you sleep. <a href="https://bsky.app/profile/cnbc.com/post/3mavyrkt7vj2i" target="_blank">cnbc.com</a> (2025-12-27 04:13:08)</span><span style="padding-right:50px;">Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance' <a href="https://bsky.app/profile/yahoofinance.com/post/3mavyfbz32w26" target="_blank">yahoofinance.com</a> (2025-12-27 04:06:16)</span>
+<span style="padding-right:50px;">A 450-foot Prometheus. A 500-foot George Washington. Tech investors are racing to build colossal monuments celebrating Western power. <a href="https://bsky.app/profile/bloomberg.com/post/3maw2dkiiaa2z" target="_blank">bloomberg.com</a> (2025-12-27 04:41:06)</span><span style="padding-right:50px;">帰省ラッシュ始まる 各交通機関 朝から混雑の見通し https://news.web.nhk/newsweb/na/na-k10015015161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maw27whtzy2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 04:39:01)</span><span style="padding-right:50px;">Nvidia-Groq deal is structured to keep 'fiction of competition alive,' analyst says <a href="https://bsky.app/profile/cnbc.com/post/3mavzxh7y7i24" target="_blank">cnbc.com</a> (2025-12-27 04:34:20)</span><span style="padding-right:50px;">Here’s where you can still snag 4% yields on idle cash <a href="https://bsky.app/profile/cnbc.com/post/3mavzvcnwo32m" target="_blank">cnbc.com</a> (2025-12-27 04:33:08)</span><span style="padding-right:50px;">2 police officers injured, suspect killed during child custody exchange <a href="https://bsky.app/profile/cbsnews.com/post/3mavztwsgun2q" target="_blank">cbsnews.com</a> (2025-12-27 04:32:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48631.55 (🔻80.92 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23625.84 (🔻20.07 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 192.24 (🔺2.28 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.56 (🔺0.75 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48648.55 (🔻63.92 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23626.05 (🔻19.86 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 192.01 (🔺2.04 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.54 (🔺0.74 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-- California Mother Pleads Not Guilty to First-Degree Murder Charge
-- Egyptian-British Activist Alaa Abd el-Fattah Released from Egyptian Prison
-- Arsenal Leads Premier League Ahead of Christmas Matches
-- Early Retiree Earns $80,000 a Year from Passive Income Streams
-- Nvidia's AI Chip Deal Underlines Dominance in Market
-- Ukrainian President to Meet President Trump in Florida to Discuss Peace Plan
+- Tech investors racing to build colossal monuments celebrating Western power
+- Investors shrug off AI-fueled market warnings, push share prices to new highs
+- Winter storm to bring hazardous conditions to Northeast during post-holiday travel
+- Ukraine's president meets US diplomat, discusses draft peace plan with security guarantees
+- Gold, silver bulls taunt bitcoin investors amid parabolic rally
+- New York to require social media platforms to display mental health warnings
 
 
 ----
 
-@cnn.com
-
-Ashlee Buzzard, the California mother charged with the shooting death of her 9-year-old daughter, pleads not guilty to first-degree murder.
-https://cnn.it/44KZHk1
-
-[2025-12-27 04:27:16](https://bsky.app/profile/cnn.com/post/3mavzkt5qxl2x)
-
----
-
-@reuters.com
-
-Egyptian-British activist Alaa Abd el-Fattah arrives in UK after release from Egyptian prison reut.rs/44Ju3TZ
-
-[2025-12-27 04:25:07](https://bsky.app/profile/reuters.com/post/3mavzgyomjf2x)
-
----
-
-@wsj.com
-
-Arsenal is sitting in first place ahead of the Premier League’s glut of Christmas matches. But that rarely bodes well for the club—especially when Manchester City is lurking.
-
-[2025-12-27 04:15:44](https://bsky.app/profile/wsj.com/post/3mavyw77bip2t)
-
----
-
-@cnbc.com
-
-After walking away from his investment banking job at 34 with a $3 million net worth, early retiree Sam Dogen built passive income streams that now earn him about $80,000 a year.
-
-Here are his top passive income ideas to help you make money while you sleep.
-
-[2025-12-27 04:13:08](https://bsky.app/profile/cnbc.com/post/3mavyrkt7vj2i)
-
----
-
-@yahoofinance.com
-
-Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance'
-
-[2025-12-27 04:06:16](https://bsky.app/profile/yahoofinance.com/post/3mavyfbz32w26)
-
----
-
-@cnbc.com
-
-Time to sell silver and buy gold, says Carter Worth
-
-[2025-12-27 04:02:58](https://bsky.app/profile/cnbc.com/post/3mavy7f5qur24)
-
----
-
 @bloomberg.com
 
-SPACs are having a revival. Here's what to know about the blank-check companies (from October)
+A 450-foot Prometheus. A 500-foot George Washington. Tech investors are racing to build colossal monuments celebrating Western power.
 
-[2025-12-27 04:01:08](https://bsky.app/profile/bloomberg.com/post/3mavy43j2pl23)
+[2025-12-27 04:41:06](https://bsky.app/profile/bloomberg.com/post/3maw2dkiiaa2z)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+帰省ラッシュ始まる 各交通機関 朝から混雑の見通し
+https://news.web.nhk/newsweb/na/na-k10015015161000
+
+[2025-12-27 04:39:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maw27whtzy2x)
+
+---
+
+@cnbc.com
+
+Nvidia-Groq deal is structured to keep 'fiction of competition alive,' analyst says
+
+[2025-12-27 04:34:20](https://bsky.app/profile/cnbc.com/post/3mavzxh7y7i24)
+
+---
+
+@cnbc.com
+
+Here’s where you can still snag 4% yields on idle cash
+
+[2025-12-27 04:33:08](https://bsky.app/profile/cnbc.com/post/3mavzvcnwo32m)
+
+---
+
+@cbsnews.com
+
+2 police officers injured, suspect killed during child custody exchange
+
+[2025-12-27 04:32:22](https://bsky.app/profile/cbsnews.com/post/3mavztwsgun2q)
 
 ---
 
 @usatoday.com
 
-You never forget the year's most painful TV deaths. 2025 hit the dark mark with tragedy on "9-1-1," "White Lotus," "The Last of Us," "1923" and more.
+Caitlin Clark stars in a new Nike basketball commercial, featuring cameos from Jason and Travis Kelce, rapper Travis Scott and comedian Michael Che.
 
-[2025-12-27 04:00:51](https://bsky.app/profile/usatoday.com/post/3mavy3lsrdc2f)
+[2025-12-27 04:30:38](https://bsky.app/profile/usatoday.com/post/3mavzqtpnis2h)
 
 ---
 
-@apnews.com
+@reuters.com
 
-Volunteering with children can help them develop confidence and awareness that they can make a difference in their communities. Here's how to find opportunities that welcome small children.
+French police detain man after knife attack on three women in Paris centre reut.rs/4sjURV2
 
-[2025-12-27 04:00:21](https://bsky.app/profile/apnews.com/post/3mavy2p3yba2n)
+[2025-12-27 04:30:26](https://bsky.app/profile/reuters.com/post/3mavzqifwdv2r)
 
 ---
 
 @washingtonpost.com
 
-Ukrainian President Zelensky said he will meet President Trump in Florida on Sunday to discuss the latest draft of a peace plan, including security guarantees for Ukraine and prospects for future economic development. 
+A significant winter storm was bearing down on the Northeast early Friday, set to deliver potentially hazardous conditions coinciding with post-holiday travel.
 
-[2025-12-27 04:00:19](https://bsky.app/profile/washingtonpost.com/post/3mavy2nkfgr24)
+[2025-12-27 04:30:06](https://bsky.app/profile/washingtonpost.com/post/3mavzpvks6y2e)
+
+---
+
+@nytimes.com
+
+Investors in the A.I.-fueled stock market have largely shrugged off warnings about a bubble, pushing share prices to repeated new highs this year. But some say the debt market is telling a different story.
+
+[2025-12-27 04:30:03](https://bsky.app/profile/nytimes.com/post/3mavzpsvzrg2v)
+
+---
+
+@aljazeera.com
+
+Washington's top diplomat says he thanked Asfura, who was backed by Trump, for 'advocacy of US strategic objectives' https://aje.io/y24aje
+
+[2025-12-27 04:30:03](https://bsky.app/profile/aljazeera.com/post/3mavzpsnqxf2i)
 
 ---
 
