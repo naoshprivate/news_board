@@ -1,9 +1,9 @@
-# [2025-12-26 18:10 updated](2025_12_26.md)
+# [2025-12-26 18:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ウクライナのゼレンスキー大統領は２６日、トランプ米大統領との早期会談を予定していると述べ、ロシアとの戦争終結に向けた米国の外交努力が加速するなか、年内に多くのことが決定される可能性があるとの見通しを示した。 bit.ly/3MRh5NL <a href="https://bsky.app/profile/japan.reuters.com/post/3mauwu77ysz2q" target="_blank">japan.reuters.com</a> (2025-12-26 18:06:10)</span><span style="padding-right:50px;">Ukrainian President Volodymyr Zelensky had a “very good” conversation with US special envoy Steve Witkoff and President Donald Trump’s son-in-law Jared Kushner on Christmas Day as negotiations over the terms of a potential peace deal continued.  <a href="https://bsky.app/profile/cnn.com/post/3mauws642jp2k" target="_blank">cnn.com</a> (2025-12-26 18:05:01)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】工場で「5～6人が刺された」と通報 容疑者とみられる人物を確保 静岡・三島市 (2025-12-26 18:04) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauwrlo6nm2x" target="_blank">sokuho.news</a> (2025-12-26 18:04:42)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】JR吉備線 大安寺～備前一宮間の踏切で自動車が立ち往生 岡山～総社間で一部列車が運休【岡山 26日午後5時55分現在】 (2025-12-26 17:58:00) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mauwoip4ej2a" target="_blank">sokuho.news</a> (2025-12-26 18:02:58)</span><span style="padding-right:50px;">Google is rolling out a new feature allowing users to change their Gmail address <a href="https://bsky.app/profile/cnbc.com/post/3mauwoed5gr25" target="_blank">cnbc.com</a> (2025-12-26 18:02:54)</span>
+<span style="padding-right:50px;">さいたま地検の検事 交際相手に職務上の情報漏らし懲戒免職 https://news.web.nhk/newsweb/na/na-k10015014951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauxzm6d362b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 18:27:02)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  静岡 工場で「刃物で刺された」通報 14人けが 身柄確保 警察 (2025-12-26 18:26:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauxz3twl227" target="_blank">sokuho.news</a> (2025-12-26 18:26:47)</span><span style="padding-right:50px;">Russia's VTB says Jan-Nov net profit down 3.3%, maintains 2025 profit forecast reut.rs/48XhLK4 <a href="https://bsky.app/profile/reuters.com/post/3mauxw62ped2r" target="_blank">reuters.com</a> (2025-12-26 18:25:09)</span><span style="padding-right:50px;">円相場 値下がり 日銀による早期追加利上げの観測後退から https://news.web.nhk/newsweb/na/na-k10015015041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauxufgsi62v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 18:24:07)</span><span style="padding-right:50px;">岡山 鳥取道下り線 雪の影響などで一時 約100台の車が動けず https://news.web.nhk/newsweb/na/na-k10015015031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauxuaal5k2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 18:24:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.43 (🔺0.63 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.41 (🔺0.61 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,29 +32,67 @@
 
 ## News Headlines
 
-- Ukraine's President Zelensky expects early talks with Trump, may see many developments by year-end
-- Multiple people injured in stabbing at factory in Shizuoka prefecture
-- JR Setagaya Line suspended due to car stuck at level crossing in Okayama prefecture
-- Google introduces new feature for users to change their Gmail address
-- Ukraine reports damage to ships in Odesa and Mykolaiv regions
-- McDonald's CEO shares career guidance for those with 'thick skin'
+- Prosecutor Disciplined for Leaking Official Information
+- 14 Injured in Stabbing at Factory in Shizuoka Prefecture
+- VTB's Profit Drops 3.3% in November, Maintains 2025 Forecast
+- Bank of Japan Observes Slowing Down of Early Additional Monetary Easing
+- About 100 Cars Stranded on Okayama-Tottori Expressway Due to Snow
+- President Trump Launches Strikes Against Islamic State Militants in Nigeria
 
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-ウクライナのゼレンスキー大統領は２６日、トランプ米大統領との早期会談を予定していると述べ、ロシアとの戦争終結に向けた米国の外交努力が加速するなか、年内に多くのことが決定される可能性があるとの見通しを示した。 bit.ly/3MRh5NL
+さいたま地検の検事 交際相手に職務上の情報漏らし懲戒免職
+https://news.web.nhk/newsweb/na/na-k10015014951000
 
-[2025-12-26 18:06:10](https://bsky.app/profile/japan.reuters.com/post/3mauwu77ysz2q)
+[2025-12-26 18:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauxzm6d362b)
 
 ---
 
-@cnn.com
+@sokuho.news
 
-Ukrainian President Volodymyr Zelensky had a “very good” conversation with US special envoy Steve Witkoff and President Donald Trump’s son-in-law Jared Kushner on Christmas Day as negotiations over the terms of a potential peace deal continued. 
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>静岡 工場で「刃物で刺された」通報 14人けが 身柄確保 警察</strong><br><strong>(2025-12-26 18:26:24) #ニュース</strong>
 
-[2025-12-26 18:05:01](https://bsky.app/profile/cnn.com/post/3mauws642jp2k)
+[2025-12-26 18:26:47](https://bsky.app/profile/sokuho.news/post/3mauxz3twl227)
+
+---
+
+@reuters.com
+
+Russia's VTB says Jan-Nov net profit down 3.3%, maintains 2025 profit forecast reut.rs/48XhLK4
+
+[2025-12-26 18:25:09](https://bsky.app/profile/reuters.com/post/3mauxw62ped2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+円相場 値下がり 日銀による早期追加利上げの観測後退から
+https://news.web.nhk/newsweb/na/na-k10015015041000
+
+[2025-12-26 18:24:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauxufgsi62v)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+岡山 鳥取道下り線 雪の影響などで一時 約100台の車が動けず
+https://news.web.nhk/newsweb/na/na-k10015015031000
+
+[2025-12-26 18:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauxuaal5k2y)
+
+---
+
+@sokuho.news
+
+🔔NHKより【速報】です。
+
+静岡県三島市の工場で起きた事件 けが人14人に 全員意識あり 消防
+(2025-12-26 18:23) #ニュース
+
+[2025-12-26 18:23:19](https://bsky.app/profile/sokuho.news/post/3mauxsv7uit2y)
 
 ---
 
@@ -62,91 +100,35 @@ Ukrainian President Volodymyr Zelensky had a “very good” conversation with U
 
 🛎️NNNより【速報】です。
 
-【速報】工場で「5～6人が刺された」と通報 容疑者とみられる人物を確保 静岡・三島市
-(2025-12-26 18:04) #ニュース
+【速報】負傷者8人に…容体は不明 工場で「5～6人刺された」と通報 “容疑者”を確保 静岡・三島市
+(2025-12-26 18:21) #ニュース
 
-[2025-12-26 18:04:42](https://bsky.app/profile/sokuho.news/post/3mauwrlo6nm2x)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】JR吉備線 大安寺～備前一宮間の踏切で自動車が立ち往生 岡山～総社間で一部列車が運休【岡山 26日午後5時55分現在】
-(2025-12-26 17:58:00) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-26 18:02:58](https://bsky.app/profile/sokuho.news/post/3mauwoip4ej2a)
-
----
-
-@cnbc.com
-
-Google is rolling out a new feature allowing users to change their Gmail address
-
-[2025-12-26 18:02:54](https://bsky.app/profile/cnbc.com/post/3mauwoed5gr25)
-
----
-
-@japan.reuters.com
-
-ウクライナのクレバ副首相は２６日、オデーサ、ミコライウ両州で港に停泊していたスロバキア、パラオ、リベリア各船籍の船舶が損傷したと明らかにした。 bit.ly/48VNpYy
-
-[2025-12-26 18:02:52](https://bsky.app/profile/japan.reuters.com/post/3mauwocjpvc2n)
+[2025-12-26 18:21:35](https://bsky.app/profile/sokuho.news/post/3mauxpsbbh32y)
 
 ---
 
 @wsj.com
 
-Increasingly, women around the world are using concierge services to book multi-day beauty treatments in South Korea that involve salmon DNA and lots of lasers. 
+President Trump said the U.S. launched strikes against Islamic State militants in Nigeria, accusing them of targeting Christians.
 
-Here, a firsthand look at a "fountain of youth" vacation.
-
-🔗: on.wsj.com/48Va8Us
-
-[2025-12-26 18:02:32](https://bsky.app/profile/wsj.com/post/3mauwnpmeu52t)
+[2025-12-26 18:21:22](https://bsky.app/profile/wsj.com/post/3mauxpfi3my2z)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-[FT]誤りだった「文明の衝突」　紛争は仲間内から生じる
-www.nikkei.com/article/DGXZQO...
+静岡 工場から8人搬送「刃物で刺された」通報 身柄確保 警察
+https://news.web.nhk/newsweb/na/na-k10015015021000
 
-政治学者サミュエル・ハンチントン氏はなぜこれほどまでに読み違えたのか。
-
-彼は、あらゆる政治レベルに当てはまる真実を見落としていました。狂信者たちは憎悪を必ずしも敵対する相手に向けないのです。
-
-むしろ疑念を抱く者や分派論者が攻撃対象。自分たちの世界と全く関係ない者は簡単に無視できる一方、そこから逸脱する者は耐えられません。
-
-「ウォーク（社会正義に目覚めた）」活動家が排除しようとしたのは、あまり接点がない強硬右派ではなく、ごく一般的なリベラル派でした。
-
-[2025-12-26 18:00:40](https://bsky.app/profile/nikkei.com/post/3mauwkex77i2c)
+[2025-12-26 18:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauxouioa32l)
 
 ---
 
 @sokuho.news
 
-🛎️NNNより【速報】です。
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>静岡 工場から8人搬送「刃物で刺された」通報 身柄確保 警察</strong><br><strong>(2025-12-26 18:18:28) #ニュース</strong>
 
-【速報】横浜ゴム三島工場で「何者かが5～6人を刺しスプレーや液体をまいた」との通報 容疑者の身柄は確保
-(2025-12-26 18:00) #ニュース
-
-[2025-12-26 18:00:37](https://bsky.app/profile/sokuho.news/post/3mauwkch6sa2v)
-
----
-
-@sokuho.news
-
-🛎️FNNより【独自】です。
-
-【独自】無資格“アートメイク”に厚労省が「警察相談を」自治体に通達…アレルギーなどトラブル事案も
-(2025-12-26 17:56) #ニュース
-
-[2025-12-26 18:00:16](https://bsky.app/profile/sokuho.news/post/3mauwjogzgy2v)
+[2025-12-26 18:18:53](https://bsky.app/profile/sokuho.news/post/3mauxkxdtvs25)
 
 ---
 
