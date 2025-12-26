@@ -1,9 +1,9 @@
-# [2025-12-26 17:10 updated](2025_12_26.md)
+# [2025-12-26 17:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国株式市場では、上海総合指数が朝方の安値から戻し８営業日続伸。４月以降で最長の上昇となった。 bit.ly/4qqQWE0 <a href="https://bsky.app/profile/japan.reuters.com/post/3mautnh2zvs2p" target="_blank">japan.reuters.com</a> (2025-12-26 17:08:42)</span><span style="padding-right:50px;">Chinese pronouns are largely split between female and male – prompting LGBTQ activists to invent their own gender-neutral pronoun. That movement just took a big step forward. https://cnn.it/4jhyN9k <a href="https://bsky.app/profile/cnn.com/post/3mautkhpkf622" target="_blank">cnn.com</a> (2025-12-26 17:07:02)</span><span style="padding-right:50px;">市場筋によると、中国の大手国有銀行は２６日、オンショアのスポット市場で積極的にドルを買っている。 bit.ly/49bWD1s <a href="https://bsky.app/profile/japan.reuters.com/post/3mauth47fic2p" target="_blank">japan.reuters.com</a> (2025-12-26 17:05:09)</span><span style="padding-right:50px;">LG Energy Solution cancels 3.9 trillion won battery order with Freudenberg reut.rs/3N1vFlL <a href="https://bsky.app/profile/reuters.com/post/3mauth3u6hm2k" target="_blank">reuters.com</a> (2025-12-26 17:05:08)</span><span style="padding-right:50px;">The Trump-class battleship faces a large obstacle in its way: reality. <a href="https://bsky.app/profile/cnbc.com/post/3mautfqs34u2y" target="_blank">cnbc.com</a> (2025-12-26 17:04:23)</span>
+<span style="padding-right:50px;">ASIA GOLD Record gold rally cools Indian buying; China discounts narrow reut.rs/45d6gvK <a href="https://bsky.app/profile/reuters.com/post/3mauukumx7h2c" target="_blank">reuters.com</a> (2025-12-26 17:25:09)</span><span style="padding-right:50px;">フィリピン中央銀行は２６日、同国の今年の経常赤字が１５５億ドル（国内総生産＝ＧＤＰ＝比３．２％）になる見通しを示した。１０月時点の予測からやや縮小した。 bit.ly/45rnaXv <a href="https://bsky.app/profile/japan.reuters.com/post/3mauuku7iqs2n" target="_blank">japan.reuters.com</a> (2025-12-26 17:25:08)</span><span style="padding-right:50px;">スピードスケート男子500m 森重航が国内最高記録 五輪内定確実 https://news.web.nhk/newsweb/na/na-k10015014831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauudq7npv2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 17:21:07)</span><span style="padding-right:50px;">【ライブ】政府 来年度予算案決定 一般会計総額122兆3092億円 https://news.web.nhk/newsweb/na/na-k10015014121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauudlrau42s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 17:21:03)</span><span style="padding-right:50px;">中国国営中央テレビ（ＣＣＴＶ）は２６日、政府が半導体や先進製造業といった「ハードテクノロジー」分野に投資する３つのベンチャーキャピタル（ＶＣ）ファンドを立ち上げたと報じた。 bit.ly/3KNvYjF <a href="https://bsky.app/profile/japan.reuters.com/post/3mauubwlyro25" target="_blank">japan.reuters.com</a> (2025-12-26 17:20:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.42 (🔺0.62 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.36 (🔺0.56 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,98 +32,100 @@
 
 ## News Headlines
 
-- Shanghai Composite Index Extends Rally to 8 Trading Days, Reversing Morning Low
-- China Warns Solar Firms Against Price Collusion, Fraud
-- LG Energy Solution Cancels 3.9 Trillion Won Battery Order with Freudenberg
-- Cambodia Blames Thailand for 'Ruthless' Bombardment Amid Border Talks
-- China to Strengthen Oversight of New Copper and Aluminum Projects
-- India Prepares for Leadership Change as Modi's Term Draws Near
+- Record gold rally cools Indian buying; China discounts narrow
+- Philippines central bank forecasts 155 billion dollar deficit for 2025
+- Japan speed skater breaks national record in 500m event, secures Olympic spot
+- Japan government approves 122.3 trillion yen budget for 2026
+- China launches three venture capital funds for hard technology sector
+- Average price of rice in Japan reaches record high of 4337 yen per 5 kg
 
 
 ----
 
-@japan.reuters.com
+@reuters.com
 
-中国株式市場では、上海総合指数が朝方の安値から戻し８営業日続伸。４月以降で最長の上昇となった。 bit.ly/4qqQWE0
+ASIA GOLD Record gold rally cools Indian buying; China discounts narrow reut.rs/45d6gvK
 
-[2025-12-26 17:08:42](https://bsky.app/profile/japan.reuters.com/post/3mautnh2zvs2p)
-
----
-
-@cnn.com
-
-Chinese pronouns are largely split between female and male – prompting LGBTQ activists to invent their own gender-neutral pronoun. That movement just took a big step forward. https://cnn.it/4jhyN9k
-
-[2025-12-26 17:07:02](https://bsky.app/profile/cnn.com/post/3mautkhpkf622)
+[2025-12-26 17:25:09](https://bsky.app/profile/reuters.com/post/3mauukumx7h2c)
 
 ---
 
 @japan.reuters.com
 
-市場筋によると、中国の大手国有銀行は２６日、オンショアのスポット市場で積極的にドルを買っている。 bit.ly/49bWD1s
+フィリピン中央銀行は２６日、同国の今年の経常赤字が１５５億ドル（国内総生産＝ＧＤＰ＝比３．２％）になる見通しを示した。１０月時点の予測からやや縮小した。 bit.ly/45rnaXv
 
-[2025-12-26 17:05:09](https://bsky.app/profile/japan.reuters.com/post/3mauth47fic2p)
+[2025-12-26 17:25:08](https://bsky.app/profile/japan.reuters.com/post/3mauuku7iqs2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+スピードスケート男子500m 森重航が国内最高記録 五輪内定確実
+https://news.web.nhk/newsweb/na/na-k10015014831000
+
+[2025-12-26 17:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauudq7npv2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【ライブ】政府 来年度予算案決定 一般会計総額122兆3092億円
+https://news.web.nhk/newsweb/na/na-k10015014121000
+
+[2025-12-26 17:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauudlrau42s)
+
+---
+
+@japan.reuters.com
+
+中国国営中央テレビ（ＣＣＴＶ）は２６日、政府が半導体や先進製造業といった「ハードテクノロジー」分野に投資する３つのベンチャーキャピタル（ＶＣ）ファンドを立ち上げたと報じた。 bit.ly/3KNvYjF
+
+[2025-12-26 17:20:09](https://bsky.app/profile/japan.reuters.com/post/3mauubwlyro25)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+スーパーのコメ平均価格 5キロ4337円 最高値を更新
+https://news.web.nhk/newsweb/na/na-k10015014911000
+
+[2025-12-26 17:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauu67oz6v2b)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】コメ平均販売価格が最高値更新 5kgあたり4337円 全国スーパー約1000店舗
+(2025年12月26日 17:15) #ニュース
+
+[2025-12-26 17:15:22](https://bsky.app/profile/sokuho.news/post/3mautzeqr4z2b)
 
 ---
 
 @reuters.com
 
-LG Energy Solution cancels 3.9 trillion won battery order with Freudenberg reut.rs/3N1vFlL
+Russian drones damage foreign-flagged vessels in southern ports, Ukraine says reut.rs/49aqbga
 
-[2025-12-26 17:05:08](https://bsky.app/profile/reuters.com/post/3mauth3u6hm2k)
-
----
-
-@cnbc.com
-
-The Trump-class battleship faces a large obstacle in its way: reality.
-
-[2025-12-26 17:04:23](https://bsky.app/profile/cnbc.com/post/3mautfqs34u2y)
+[2025-12-26 17:15:10](https://bsky.app/profile/reuters.com/post/3mautyznsdi2i)
 
 ---
 
-@nikkei.com
+@sokuho.news
 
-北海道帯広のインデアンカレー、値上げでワンコイン突破も衰えぬ人気
-www.nikkei.com/article/DGXZQO...
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>スーパーのコメ平均価格 5キロ4337円 最高値を更新</strong><br><strong>(2025-12-26 17:14:35) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10015014911000</strong>
 
-帯広・釧路エリアで13店舗のみを展開。年末年始には、帰省する家族のために鍋を持ち込んで家に持ち帰る人も。
-
-ルーは3種類で、スパイスの配合を知るのは「歴代社長のみ」。冷凍のお土産や「インデアンまん」といった新展開も打ち出しています。
-
-[2025-12-26 17:00:51](https://bsky.app/profile/nikkei.com/post/3maut7gavfu2c)
+[2025-12-26 17:15:00](https://bsky.app/profile/sokuho.news/post/3mautypp5iz2z)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-片山さつき財務相は２６日の閣議後会見で、２０２６年度一般会計予算案について「経済規模にふさわしくない過大な数字ということは、どこからみても言えない」と指摘した。重要施策への予算を増額させるとともに財政規律にも配慮し、「強い経済の実現と財政の持続可能性を両立させる予算案にできた」とも評価した。 bit.ly/44NE2aS
+立民 安住幹事長“国民会議 政府と対等に議論できるなら参加”
+https://news.web.nhk/newsweb/na/na-k10015014841000
 
-[2025-12-26 17:00:32](https://bsky.app/profile/japan.reuters.com/post/3maut6ubw6s2c)
-
----
-
-@reuters.com
-
-China warns solar firms against price collusion, fraud reut.rs/45hXdJX
-
-[2025-12-26 17:00:25](https://bsky.app/profile/reuters.com/post/3maut6ndl562r)
-
----
-
-@washingtonpost.com
-
-The committee charged by Congress with overseeing federal construction is preparing to host a presentation on the White House ballroom building next month, the first public hearing for the controversial project.
-
-[2025-12-26 17:00:11](https://bsky.app/profile/washingtonpost.com/post/3maut6afvj52g)
-
----
-
-@aljazeera.com
-
-Cambodia blames Thailand for ‘ruthless’ bombardment amid border talks https://aje.io/945uch
-
-[2025-12-26 17:00:04](https://bsky.app/profile/aljazeera.com/post/3maut5zutoy27)
+[2025-12-26 17:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mautti54ka2x)
 
 ---
 
