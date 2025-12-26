@@ -1,9 +1,9 @@
-# [2025-12-26 13:30 updated](2025_12_26.md)
+# [2025-12-26 13:50 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】中央道 韮崎IC～長坂ICの下り線が通行止め 事故の影響 山梨 (2025-12-26 13:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauhbidp3h2v" target="_blank">sokuho.news</a> (2025-12-26 13:27:15)</span><span style="padding-right:50px;">中国国家統計局は２６日、２０２４年の国内総生産（ＧＤＰ）を名目ベースで１３４兆８０００億元（１９兆２３００億ドル）に下方改定した。 bit.ly/45jWZC7 <a href="https://bsky.app/profile/japan.reuters.com/post/3mauh5nt7b52u" target="_blank">japan.reuters.com</a> (2025-12-26 13:25:07)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】中央道 韮崎IC～長坂ICの下り線が通行止め 事故の影響 (2025-12-26 13:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maugydk4og27" target="_blank">sokuho.news</a> (2025-12-26 13:22:08)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR湖西線運転再開 今後も「強風の状況により運転見合わせが発生する可能性」 (2025-12-26 13:14) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3maugvsyp3f2y" target="_blank">sokuho.news</a> (2025-12-26 13:20:44)</span><span style="padding-right:50px;">中国は２６日、２０２６─２０３０年に粗鋼生産量を抑制し、生産能力の違法な拡大を引き続き禁止すると発表した。 bit.ly/3MSaGSu <a href="https://bsky.app/profile/japan.reuters.com/post/3maugvnisa527" target="_blank">japan.reuters.com</a> (2025-12-26 13:20:38)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】上・中越に「大雪警報」発表 26日夕方から夜遅くまで大雪に警戒《新潟》 (2025-12-26 13:46) #ニュース  🟨警報注意報 🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=150000 <a href="https://bsky.app/profile/sokuho.news/post/3mauihoyx7s2y" target="_blank">sokuho.news</a> (2025-12-26 13:48:37)</span><span style="padding-right:50px;">WBC 日本代表 ドジャース大谷翔平など 8人を選出 https://news.web.nhk/newsweb/na/na-k10015014611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauigppyno2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 13:48:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】上・中越に「大雪警報」発表 26日夕方から26日夜遅くまで大雪に警戒《新潟》 (2025-12-26 13:46) #ニュース  🟨警報注意報 🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=150000 <a href="https://bsky.app/profile/sokuho.news/post/3mauidv3adt2z" target="_blank">sokuho.news</a> (2025-12-26 13:46:30)</span><span style="padding-right:50px;">北朝鮮報道 キム総書記の“執事”国務委員会部長の死去伝える https://news.web.nhk/newsweb/na/na-k10015014591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maui3y6ial2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 13:42:02)</span><span style="padding-right:50px;">Rupee to track subdued Asian peers, shuffle around on corporate flows reut.rs/4pi3vk1 <a href="https://bsky.app/profile/reuters.com/post/3mauhymmpnr2r" target="_blank">reuters.com</a> (2025-12-26 13:40:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.48 (🔺309.35 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.16 (🔺0.36 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50839.04 (🔺311.91 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.14 (🔺0.34 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,12 +32,12 @@
 
 ## News Headlines
 
-- Traffic on the Chuo Expressway from Nirasaki IC to Nagasaka IC is closed due to an accident in Yamanashi
-- China's GDP is revised downward to 13.8 trillion yuan ($1.93 trillion) in nominal terms for 2024
-- JR Kosei Line resumes operation, but may be suspended due to strong winds
-- China announces plans to control steel output during 2026-2030 period
-- Russia's Foreign Ministry spokesperson criticizes US for reviving piracy in the Caribbean
-- Government announces 2026 defense budget of 9.035 trillion yen, a 3.8% increase from the previous year
+- Japan Issues Heavy Snow Warning for Niigata Prefecture
+- WBC Names Japanese Representative Team with Shohei Ohtani and 7 Other Players
+- North Korea Reports Death of Kim's 'Personal Secretary'
+- Rupee to Track Subdued Asian Peers, Corporate Flows to Shuffle
+- Japan's Mitsubishi Kinzoku to Split Shares in August 2026
+- Gold and Silver Prices Hit Record Highs on Safe-Haven Demand
 
 
 ----
@@ -46,18 +46,22 @@
 
 🛎️NNNより【速報】です。
 
-【速報】中央道 韮崎IC～長坂ICの下り線が通行止め 事故の影響 山梨
-(2025-12-26 13:21) #ニュース
+【速報】上・中越に「大雪警報」発表 26日夕方から夜遅くまで大雪に警戒《新潟》
+(2025-12-26 13:46) #ニュース
 
-[2025-12-26 13:27:15](https://bsky.app/profile/sokuho.news/post/3mauhbidp3h2v)
+🟨警報注意報
+🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=150000
+
+[2025-12-26 13:48:37](https://bsky.app/profile/sokuho.news/post/3mauihoyx7s2y)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-中国国家統計局は２６日、２０２４年の国内総生産（ＧＤＰ）を名目ベースで１３４兆８０００億元（１９兆２３００億ドル）に下方改定した。 bit.ly/45jWZC7
+WBC 日本代表 ドジャース大谷翔平など 8人を選出
+https://news.web.nhk/newsweb/na/na-k10015014611000
 
-[2025-12-26 13:25:07](https://bsky.app/profile/japan.reuters.com/post/3mauh5nt7b52u)
+[2025-12-26 13:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauigppyno2x)
 
 ---
 
@@ -65,78 +69,70 @@
 
 🛎️NNNより【速報】です。
 
-【速報】中央道 韮崎IC～長坂ICの下り線が通行止め 事故の影響
-(2025-12-26 13:21) #ニュース
+【速報】上・中越に「大雪警報」発表 26日夕方から26日夜遅くまで大雪に警戒《新潟》
+(2025-12-26 13:46) #ニュース
 
-[2025-12-26 13:22:08](https://bsky.app/profile/sokuho.news/post/3maugydk4og27)
+🟨警報注意報
+🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=150000
 
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】JR湖西線運転再開 今後も「強風の状況により運転見合わせが発生する可能性」
-(2025-12-26 13:14) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-26 13:20:44](https://bsky.app/profile/sokuho.news/post/3maugvsyp3f2y)
+[2025-12-26 13:46:30](https://bsky.app/profile/sokuho.news/post/3mauidv3adt2z)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-中国は２６日、２０２６─２０３０年に粗鋼生産量を抑制し、生産能力の違法な拡大を引き続き禁止すると発表した。 bit.ly/3MSaGSu
+北朝鮮報道 キム総書記の“執事”国務委員会部長の死去伝える
+https://news.web.nhk/newsweb/na/na-k10015014591000
 
-[2025-12-26 13:20:38](https://bsky.app/profile/japan.reuters.com/post/3maugvnisa527)
-
----
-
-@japan.reuters.com
-
-ロシア外務省のザハロワ報道官は２５日、ウクライナ紛争の解決に向けた米国との交渉はゆっくりではあるが着実に進展していると述べた。 bit.ly/44Gl6uz
-
-[2025-12-26 13:20:11](https://bsky.app/profile/japan.reuters.com/post/3maugutw3i52u)
+[2025-12-26 13:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maui3y6ial2w)
 
 ---
 
 @reuters.com
 
-Mainoo is the future of Man United, says Amorim reut.rs/4pdy3n1
+Rupee to track subdued Asian peers, shuffle around on corporate flows reut.rs/4pi3vk1
 
-[2025-12-26 13:20:10](https://bsky.app/profile/reuters.com/post/3maugusitxl2k)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】群馬県利根・沼田地域に大雪警報
-(2025-12-26 13:18) #ニュース
-
-🟨警報注意報
-🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=100000
-
-[2025-12-26 13:18:48](https://bsky.app/profile/sokuho.news/post/3maugseh3ab2e)
+[2025-12-26 13:40:12](https://bsky.app/profile/reuters.com/post/3mauhymmpnr2r)
 
 ---
 
 @japan.reuters.com
 
-総務省が２６日に発表した１２月の東京都区部消費者物価指数（生鮮食品を除く総合指数、コアＣＰＩ）は、前年比２．３％上昇した。伸び率は前月の２．８％から大きく縮小した。エネルギー価格が前年比下落に転じたほか、生鮮食品を除く食料の伸び率縮小が続いた。 bit.ly/49fk620
+三陽商会 は２６日、２０２６年８月３１日を基準日に株式を３分割すると発表した。効力発生日は９月１日。併せて株式優待制度を見直し、分割後６００株以上を保有する株主に同社の商品を購入できるポイントを付与する。 bit.ly/49bFrJu
 
-[2025-12-26 13:15:13](https://bsky.app/profile/japan.reuters.com/post/3mauglxe4ov2c)
+[2025-12-26 13:40:10](https://bsky.app/profile/japan.reuters.com/post/3mauhylhfab2p)
 
 ---
 
-@bloomberg.com
+@japan.reuters.com
 
-Currency intervention by the India's central bank has become more unpredictable, discouraging rupee traders from making speculative bets. But it also risks a deeper slump in the currency.
+金と銀が２６日、ともに最高値を更新した。安全資産需要の高まりや来年の米利下げ観測が背景。プラチナも最高値を更新、パラジウムも急伸している。 bit.ly/499cbTT
 
-[2025-12-26 13:13:19](https://bsky.app/profile/bloomberg.com/post/3maugiksmh72w)
+[2025-12-26 13:39:00](https://bsky.app/profile/japan.reuters.com/post/3mauhwig5rv22)
+
+---
+
+@japan.reuters.com
+
+２０２６年度国債発行計画の概要は以下の通り。カッコ内は対前年当初（▲はマイナス）。 bit.ly/45q0kiW
+
+[2025-12-26 13:35:09](https://bsky.app/profile/japan.reuters.com/post/3mauhplmicw27)
+
+---
+
+@japan.reuters.com
+
+米プロバスケットボール協会（ＮＢＡ）は２５日、各地で試合を行い、八村塁の所属するレーカーズはロケッツに９６─１１９で敗れて３連敗となった。 bit.ly/3MUvgBE
+
+[2025-12-26 13:33:38](https://bsky.app/profile/japan.reuters.com/post/3mauhmvhfah2q)
+
+---
+
+@japan.reuters.com
+
+中国国営中央テレビ（ＣＣＴＶ）は２６日、政府が半導体や先進製造業といった「ハードテクノロジー」分野に投資する３つのベンチャーキャピタル（ＶＣ）ファンドを立ち上げたと報じた。 bit.ly/3MUvetw
+
+[2025-12-26 13:32:36](https://bsky.app/profile/japan.reuters.com/post/3mauhkzz6jc2c)
 
 ---
 
