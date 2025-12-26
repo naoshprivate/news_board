@@ -1,9 +1,9 @@
-# [2025-12-27 00:10 updated](2025_12_27.md)
+# [2025-12-27 00:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Abel Ferrara’s movies are often driven by the consequences of extreme impulses. Much of his career has also been defined by a taste for immoderate behavior. on.wsj.com/44J5RB9 <a href="https://bsky.app/profile/wsj.com/post/3mavl3ae6x62g" target="_blank">wsj.com</a> (2025-12-27 00:08:00)</span><span style="padding-right:50px;">From metaphors for our behavior to demonstrations of our superior status, we use animals to help define ourselves. on.wsj.com/3Lc5Rmp <a href="https://bsky.app/profile/wsj.com/post/3mavl37tmsd2c" target="_blank">wsj.com</a> (2025-12-27 00:08:00)</span><span style="padding-right:50px;"> Why humans should be more like hedgehogs ft.trib.al/mcixFb0  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mavl374xjp24" target="_blank">financialtimes.com</a> (2025-12-27 00:07:59)</span><span style="padding-right:50px;">Homs: Deadly explosion during Friday prayers inside Syrian mosque <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mavkwhdgtr2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 00:05:19)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】米倉涼子さん“自宅に捜査機関が入りましたことは事実” HPでコメント 捜査に協力“一区切りついたと認識” (2025-12-27 00:03) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mavktlpqge25" target="_blank">sokuho.news</a> (2025-12-27 00:03:44)</span>
+<span style="padding-right:50px;">Target faces activist investor pressure amid sales decline, FT reports reut.rs/4s5MWua <a href="https://bsky.app/profile/reuters.com/post/3mavlzx5cni23" target="_blank">reuters.com</a> (2025-12-27 00:25:11)</span><span style="padding-right:50px;">A 23-year-old CVS employee was fatally stabbed on Long Island on Christmas, the Suffolk County Police said. Police are searching for a suspect in his 40s who fled on foot. <a href="https://bsky.app/profile/nytimes.com/post/3mavlzp2t7r2a" target="_blank">nytimes.com</a> (2025-12-27 00:25:02)</span><span style="padding-right:50px;">The domains of the Habsburgs formed a politcal and cultural patchwork that would come under increasing strain. on.wsj.com/4ayE75Y <a href="https://bsky.app/profile/wsj.com/post/3mavltfieio2g" target="_blank">wsj.com</a> (2025-12-27 00:21:31)</span><span style="padding-right:50px;">Opinion: Italy, often dismissed as Europe's weak link in the past, has become a success story. And this is shown clearly in the verdict of investors. on.ft.com/4oQM8Xq <a href="https://bsky.app/profile/financialtimes.com/post/3mavlqqmrw32b" target="_blank">financialtimes.com</a> (2025-12-27 00:20:02)</span><span style="padding-right:50px;">Shorn of the music they were written for, the lyrics of Johnny Cash and others may not leap off the page. But they say a lot about the songwriter’s obsessions. on.wsj.com/3KRf97r <a href="https://bsky.app/profile/wsj.com/post/3mavllcn73t2c" target="_blank">wsj.com</a> (2025-12-27 00:17:00)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48702.97 (🔻9.50 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23594.93 (🔻50.98 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.89 (🔺0.93 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔺0.54 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48718.52 (🔺6.05 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23614.69 (🔻31.21 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.69 (🔺1.73 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.36 (🔺0.56 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,96 +32,93 @@
 
 ## News Headlines
 
-- Abel Ferrara's Movies Often Reflect Extreme Impulses
-- Why We Use Animals to Define Ourselves
-- Deadly Explosion Hits Syrian Mosque During Friday Prayers
-- Investigation Confirmed at Japanese Actress' Home
-- Renewed Interest in US Graphite Mines
-- Boutique Shops Emerge Amid Swedish Candy Craze
+- Target Faces Pressure from Activist Investor Amid Sales Decline
+- Ukraine's Zelensky to Meet Trump in Florida for Talks on Russian Invasion
+- Malaysia Sentences Ex-Leader Najib Razak to 15 Years in Prison
+- China to Require Repatriation of Funds Raised Overseas Under New Rules
+- Pressure Grows on Target as Activist Investor Builds Stake
+- Abel Ferrara's Movies Driven by Consequences of Extreme Impulses
 
 
 ----
 
-@wsj.com
+@reuters.com
 
-Abel Ferrara’s movies are often driven by the consequences of extreme impulses. Much of his career has also been defined by a taste for immoderate behavior. on.wsj.com/44J5RB9
+Target faces activist investor pressure amid sales decline, FT reports reut.rs/4s5MWua
 
-[2025-12-27 00:08:00](https://bsky.app/profile/wsj.com/post/3mavl3ae6x62g)
+[2025-12-27 00:25:11](https://bsky.app/profile/reuters.com/post/3mavlzx5cni23)
+
+---
+
+@nytimes.com
+
+A 23-year-old CVS employee was fatally stabbed on Long Island on Christmas, the Suffolk County Police said. Police are searching for a suspect in his 40s who fled on foot.
+
+[2025-12-27 00:25:02](https://bsky.app/profile/nytimes.com/post/3mavlzp2t7r2a)
 
 ---
 
 @wsj.com
 
-From metaphors for our behavior to demonstrations of our superior status, we use animals to help define ourselves. on.wsj.com/3Lc5Rmp
+The domains of the Habsburgs formed a politcal and cultural patchwork that would come under increasing strain. on.wsj.com/4ayE75Y
 
-[2025-12-27 00:08:00](https://bsky.app/profile/wsj.com/post/3mavl37tmsd2c)
+[2025-12-27 00:21:31](https://bsky.app/profile/wsj.com/post/3mavltfieio2g)
 
 ---
 
 @financialtimes.com
 
- Why humans should be more like hedgehogs ft.trib.al/mcixFb0  | opinion
+Opinion: Italy, often dismissed as Europe's weak link in the past, has become a success story. And this is shown clearly in the verdict of investors. on.ft.com/4oQM8Xq
 
-[2025-12-27 00:07:59](https://bsky.app/profile/financialtimes.com/post/3mavl374xjp24)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Homs: Deadly explosion during Friday prayers inside Syrian mosque
-
-[2025-12-27 00:05:19](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mavkwhdgtr2b)
+[2025-12-27 00:20:02](https://bsky.app/profile/financialtimes.com/post/3mavlqqmrw32b)
 
 ---
 
-@sokuho.news
+@wsj.com
 
-🛎️NNNより【速報】です。
+Shorn of the music they were written for, the lyrics of Johnny Cash and others may not leap off the page. But they say a lot about the songwriter’s obsessions. on.wsj.com/3KRf97r
 
-【速報】米倉涼子さん“自宅に捜査機関が入りましたことは事実” HPでコメント 捜査に協力“一区切りついたと認識”
-(2025-12-27 00:03) #ニュース
-
-[2025-12-27 00:03:44](https://bsky.app/profile/sokuho.news/post/3mavktlpqge25)
+[2025-12-27 00:17:00](https://bsky.app/profile/wsj.com/post/3mavllcn73t2c)
 
 ---
 
-@usatoday.com
+@wsj.com
 
-Here's what Travis Kelce had to say after the Chiefs' final home game of the 2025 season.
+Adrienne Salinger’s photographs revealed her adolescent subjects through the spaces they could call their own. on.wsj.com/48UsGUV
 
-[2025-12-27 00:01:12](https://bsky.app/profile/usatoday.com/post/3mavkp37rcd2w)
-
----
-
-@apnews.com
-
-Graphite mines in the United States are seeing renewed interest after being largely closed for decades.
-
-[2025-12-27 00:00:48](https://bsky.app/profile/apnews.com/post/3mavkodslry2k)
+[2025-12-27 00:17:00](https://bsky.app/profile/wsj.com/post/3mavllcmwo52c)
 
 ---
 
-@washingtonpost.com
+@npr.org
 
-With a particular focus on viral Nordic candies a large wave of boutique, social-media-friendly shops are cropping up around the country off the back of the viral Swedish candy craze.
+The Trump administration wants to revamp U.S. childhood vaccination recommendations to align with some other peer nations, including one tiny country in northern Europe. n.pr/4atOAzx
 
-[2025-12-27 00:00:43](https://bsky.app/profile/washingtonpost.com/post/3mavko6z5oc2n)
-
----
-
-@cnbc.com
-
-At Berkshire Hathaway's annual shareholder's meeting, CEO Warren Buffett said he prioritizes getting his money's worth from investment, instead of dwelling on timing.
-
-[2025-12-27 00:00:21](https://bsky.app/profile/cnbc.com/post/3mavknkpmdr2y)
+[2025-12-27 00:16:43](https://bsky.app/profile/npr.org/post/3mavlkt4v7q2n)
 
 ---
 
-@nbcnews.com
+@japan.reuters.com
 
-Josephine Wentzel spent years tracking down the suspect in her daughter’s death and is now helping others grieving cold cases.
+ロシア大統領府のウシャコフ補佐官は、ウクライナ和平を巡る米国提案を受け取った後、米政府の一部高官と電話で協議した。大統領府のペスコフ報道官が明らかにしたもので、協議時期は明らかにしなかった。報道官は和平案文書について、分析しておりプーチン大統領に代わり米ロ政府の間で接触していると指摘。「協議の継続で合意した」と述べた。関係筋によると、ドミトリエフ大統領特別代表も米高官との協議に参加した。 bit.ly/3L9Ru1V
 
-[2025-12-27 00:00:18](https://bsky.app/profile/nbcnews.com/post/3mavknh6t3y2k)
+[2025-12-27 00:15:20](https://bsky.app/profile/japan.reuters.com/post/3mavlideq3s2v)
+
+---
+
+@reuters.com
+
+China to require repatriation of funds raised overseas under new rules reut.rs/3MRoX1P
+
+[2025-12-27 00:15:17](https://bsky.app/profile/reuters.com/post/3mavlibd4dt2b)
+
+---
+
+@wsj.com
+
+Malaysia’s High Court sentenced former leader Najib Razak to 15 years in prison after convicting him on charges of money laundering and abuse of power connected to the 1MDB sovereign-wealth fund.
+
+[2025-12-27 00:13:57](https://bsky.app/profile/wsj.com/post/3mavlfv37m62s)
 
 ---
 
