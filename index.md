@@ -1,9 +1,9 @@
-# [2025-12-27 01:30 updated](2025_12_27.md)
+# [2025-12-27 01:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Liverpool's Slot hails Ekitike impact at both ends of the pitch reut.rs/4pPiuTD <a href="https://bsky.app/profile/reuters.com/post/3mavpfauzms2r" target="_blank">reuters.com</a> (2025-12-27 01:25:11)</span><span style="padding-right:50px;">There are two risks the market isn’t pricing in heading into the new year, according to Apollo’s Torsten Slok <a href="https://bsky.app/profile/cnbc.com/post/3mavpbatkhg25" target="_blank">cnbc.com</a> (2025-12-27 01:22:57)</span><span style="padding-right:50px;">🇮🇱 Israel has formally recognised Somaliland as an "independent and sovereign state" and signed an agreement to establish diplomatic ties between the two countries, the office of Prime Minister Benjamin Netanyahu said.  ➡️ u.afp.com/S8mN <a href="https://bsky.app/profile/en.afp.com/post/3mavp3z67jw2y" target="_blank">en.afp.com</a> (2025-12-27 01:20:01)</span><span style="padding-right:50px;">The maker of Sally Hansen nail polishes and Marc Jacobs perfumes is resetting its supply chain to respond to fast-changing demand. <a href="https://bsky.app/profile/wsj.com/post/3mavonqzz7x2c" target="_blank">wsj.com</a> (2025-12-27 01:12:03)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】関越道の事故 50台以上が絡み1人死亡確認 月夜野IC～湯沢IC通行止め続く (2025年12月27日 01:10) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mavolrqc7a2e" target="_blank">sokuho.news</a> (2025-12-27 01:10:57)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】関越道の事故 50台以上が絡み1人死亡確認 月夜野IC～湯沢IC通行止め続く (2025年12月27日 01:42) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mavqfm54c22b" target="_blank">sokuho.news</a> (2025-12-27 01:43:17)</span><span style="padding-right:50px;">How old is too old to rejuvenate? At 66, Howard Chua-Eoan decided to get healthy again. <a href="https://bsky.app/profile/bloomberg.com/post/3mavqdivd6f27" target="_blank">bloomberg.com</a> (2025-12-27 01:42:06)</span><span style="padding-right:50px;">At home and abroad, President Trump has driven change at warp speed, upending policy and challenging democratic norms. Here are some of the most consequential moments from his first year back in the White House. <a href="https://bsky.app/profile/nytimes.com/post/3mavq7sjpbr2z" target="_blank">nytimes.com</a> (2025-12-27 01:40:02)</span><span style="padding-right:50px;">🕌 An explosion killed at least eight worshippers at a mosque in a predominantly Alawite area of Syria's Homs on Friday, state media said, with an Islamist militant group claiming responsibility.  ➡️ u.afp.com/S8mY <a href="https://bsky.app/profile/en.afp.com/post/3mavq7rk3tf2f" target="_blank">en.afp.com</a> (2025-12-27 01:40:01)</span><span style="padding-right:50px;">Mayor-elect Zohran Mamdani's plans to make New York City more affordable will take time — and in some cases the cooperation of state legislators. Lina Khan, a leading progressive scholar and the former chair of the FTC, has ideas for making a swift impact. <a href="https://bsky.app/profile/nytimes.com/post/3mavpu5jooi2x" target="_blank">nytimes.com</a> (2025-12-27 01:33:31)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48680.16 (🔻32.31 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23618.26 (🔻27.64 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.98 (🔺1.02 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.64 (🔺0.84 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48636.70 (🔻75.77 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23615.69 (🔻30.22 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.16 (🔺1.20 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.61 (🔺0.81 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,98 +32,101 @@
 
 ## News Headlines
 
-- Liverpool's Slot hails Ekitike impact at both ends of the pitch
-- Israel formally recognizes Somaliland as independent state, establishes diplomatic ties
-- Malaysia's former PM Najib Razak sentenced to 15 years in jail for abuse of power, money laundering
-- New York City's John F. Kennedy International Airport hit by over 300 flight cancellations due to winter storm
-- U.S. forces launch 'deadly strike' against Islamic State fighters in northwest Nigeria
-- Will Arnett finds humor in latest role as stressed-out dude, but it's no laughing matter
+- At Least Eight Killed in Mosque Bombing in Syria
+- Najib Razak Sentenced to 15 More Years in Jail
+- U.S. Forces Strike Islamic State Targets in Nigeria
+- Iran's Government Faces Tough Road Ahead as Currency Hits New Low
+- Rare Storms Bring Heavy Rain to Southern California
+- Wild Cat Rediscovered in Thailand After Three Decades
 
 
 ----
-
-@reuters.com
-
-Liverpool's Slot hails Ekitike impact at both ends of the pitch reut.rs/4pPiuTD
-
-[2025-12-27 01:25:11](https://bsky.app/profile/reuters.com/post/3mavpfauzms2r)
-
----
-
-@cnbc.com
-
-There are two risks the market isn’t pricing in heading into the new year, according to Apollo’s Torsten Slok
-
-[2025-12-27 01:22:57](https://bsky.app/profile/cnbc.com/post/3mavpbatkhg25)
-
----
-
-@en.afp.com
-
-🇮🇱 Israel has formally recognised Somaliland as an "independent and sovereign state" and signed an agreement to establish diplomatic ties between the two countries, the office of Prime Minister Benjamin Netanyahu said. 
-➡️ u.afp.com/S8mN
-
-[2025-12-27 01:20:01](https://bsky.app/profile/en.afp.com/post/3mavp3z67jw2y)
-
----
-
-@wsj.com
-
-The maker of Sally Hansen nail polishes and Marc Jacobs perfumes is resetting its supply chain to respond to fast-changing demand.
-
-[2025-12-27 01:12:03](https://bsky.app/profile/wsj.com/post/3mavonqzz7x2c)
-
----
 
 @sokuho.news
 
 🔔ANNより【速報】です。
 
 【速報】関越道の事故 50台以上が絡み1人死亡確認 月夜野IC～湯沢IC通行止め続く
-(2025年12月27日 01:10) #ニュース
+(2025年12月27日 01:42) #ニュース
 
-[2025-12-27 01:10:57](https://bsky.app/profile/sokuho.news/post/3mavolrqc7a2e)
+[2025-12-27 01:43:17](https://bsky.app/profile/sokuho.news/post/3mavqfm54c22b)
+
+---
+
+@bloomberg.com
+
+How old is too old to rejuvenate? At 66, Howard Chua-Eoan decided to get healthy again.
+
+[2025-12-27 01:42:06](https://bsky.app/profile/bloomberg.com/post/3mavqdivd6f27)
+
+---
+
+@nytimes.com
+
+At home and abroad, President Trump has driven change at warp speed, upending policy and challenging democratic norms. Here are some of the most consequential moments from his first year back in the White House.
+
+[2025-12-27 01:40:02](https://bsky.app/profile/nytimes.com/post/3mavq7sjpbr2z)
 
 ---
 
 @en.afp.com
 
-🇺🇸 🇳🇬 Nigeria has signalled that more strikes against jihadist groups were expected after a Christmas Day bombardment by US forces against militants in the north of the country, which it said was a joint operation with its military. 
-➡️ u.afp.com/S8mc
+🕌 An explosion killed at least eight worshippers at a mosque in a predominantly Alawite area of Syria's Homs on Friday, state media said, with an Islamist militant group claiming responsibility. 
+➡️ u.afp.com/S8mY
 
-[2025-12-27 01:10:01](https://bsky.app/profile/en.afp.com/post/3mavok52fwg2y)
+[2025-12-27 01:40:01](https://bsky.app/profile/en.afp.com/post/3mavq7rk3tf2f)
+
+---
+
+@nytimes.com
+
+Mayor-elect Zohran Mamdani's plans to make New York City more affordable will take time — and in some cases the cooperation of state legislators. Lina Khan, a leading progressive scholar and the former chair of the FTC, has ideas for making a swift impact.
+
+[2025-12-27 01:33:31](https://bsky.app/profile/nytimes.com/post/3mavpu5jooi2x)
+
+---
+
+@cnn.com
+
+After a year of surprises and upheaval, the airline industry is hoping 2026 brings something rare: a stretch of relative calm.
+
+Here are the trends set to shape air travel in 2026.
+https://cnn.it/45szFSG
+
+[2025-12-27 01:31:04](https://bsky.app/profile/cnn.com/post/3mavppr2jib2v)
+
+---
+
+@usatoday.com
+
+On Christmas Day, torrential rain in Southern California set new records in Los Angeles, Burbank and Santa Barbara, forecasters say.
+
+[2025-12-27 01:30:30](https://bsky.app/profile/usatoday.com/post/3mavpoqyojs2s)
+
+---
+
+@en.afp.com
+
+🇺🇦 Inside an abandoned control room at Ukraine's Chernobyl nuclear power plant, a worker in an orange hardhat gazed at a grey wall of seemingly endless dials, screens and gauges that were supposed to prevent disaster. 
+➡️ u.afp.com/S8mf
+
+[2025-12-27 01:30:09](https://bsky.app/profile/en.afp.com/post/3mavpo4l22f26)
+
+---
+
+@aljazeera.com
+
+Iran’s government budget reveals tough road ahead as currency hits new low https://aje.io/hhfji1
+
+[2025-12-27 01:30:03](https://bsky.app/profile/aljazeera.com/post/3mavpnxevvl2l)
 
 ---
 
 @reuters.com
 
-On a day of reckoning for arguably Malaysia's most divisive politician, Najib was found guilty of all four counts of abuse of power and all 21 money laundering charges, after a marathon legal battle that included multiple appeals and a partial royal pardon reut.rs/44MxjOp
+Liverpool's Slot hails Ekitike impact at both ends of the pitch reut.rs/4pPiuTD
 
-[2025-12-27 01:09:52](https://bsky.app/profile/reuters.com/post/3mavom4twkk2i)
-
----
-
-@reuters.com
-
-During a verdict that took five hours to deliver, high court judge Collin Lawrence Sequerah said Najib's contention that he was repeatedly deceived by others at 1MDB was implausible and to believe that would 'stretch the imagination into the realms of pure fantasy'
-
-[2025-12-27 01:09:52](https://bsky.app/profile/reuters.com/post/3mavolag7a22i)
-
----
-
-@reuters.com
-
-More than $1 billion allegedly made its way into accounts linked to 72-year-old Najib, who was first imprisoned in 2022 in another 1MDB case and has long insisted he's been made the scapegoat for Malaysia's biggest-ever financial scandal
-
-[2025-12-27 01:09:52](https://bsky.app/profile/reuters.com/post/3mavokoaa6k2i)
-
----
-
-@reuters.com
-
-Here are the details of the sprawling 1MDB scandal and cases brought against Razak reut.rs/4sas1q5
-
-[2025-12-27 01:09:52](https://bsky.app/profile/reuters.com/post/3mavokiphwk2i)
+[2025-12-27 01:25:11](https://bsky.app/profile/reuters.com/post/3mavpfauzms2r)
 
 ---
 
