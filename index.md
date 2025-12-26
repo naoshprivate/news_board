@@ -1,9 +1,9 @@
-# [2025-12-26 22:10 updated](2025_12_26.md)
+# [2025-12-26 22:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Resolutions to consider for a 2026 that brings you as few tax troubles as possible. <a href="https://bsky.app/profile/wsj.com/post/3maveciad2g2g" target="_blank">wsj.com</a> (2025-12-26 22:06:47)</span><span style="padding-right:50px;">🔊 Today on the Reuters World News podcast: - The US military targets Islamic State in Nigeria - Companies are hedging their bets on tariff refunds  - Is Trump's power fading heading into 2026? Listen now reut.rs/4qr1tz2 <a href="https://bsky.app/profile/reuters.com/post/3mave3zq6d22i" target="_blank">reuters.com</a> (2025-12-26 22:03:11)</span><span style="padding-right:50px;">ロシア大統領府のウシャコフ補佐官は、ウクライナ和平を巡る米国提案を受け取った後、米政府の一部高官と電話で協議した。大統領府のペスコフ報道官が明らかにしたもので、協議時期は明らかにしなかった。報道官は和平案文書について、分析しておりプーチン大統領に代わり米ロ政府の間で接触していると指摘。「協議の継続で合意した」と述べた。関係筋によると、ドミトリエフ大統領特別代表も米高官との協議に参加した。 bit.ly/4qp7NXJ <a href="https://bsky.app/profile/japan.reuters.com/post/3mave2vhzj22c" target="_blank">japan.reuters.com</a> (2025-12-26 22:02:33)</span><span style="padding-right:50px;">Nvidia's Groq deal, S&P's winning week, leather tariffs and more in Morning Squawk <a href="https://bsky.app/profile/cnbc.com/post/3mave2udwna2e" target="_blank">cnbc.com</a> (2025-12-26 22:02:32)</span><span style="padding-right:50px;">Spoiler alert! Everything you need to know about "Stranger Things" Season 5 Episode 5, as we get closer to the end. <a href="https://bsky.app/profile/usatoday.com/post/3mavdy73mfc2o" target="_blank">usatoday.com</a> (2025-12-26 22:01:02)</span>
+<span style="padding-right:50px;">Global dealmaking hits $4.5tn in second-best year on record ft.trib.al/55LHNFw <a href="https://bsky.app/profile/financialtimes.com/post/3mavffocfel2v" target="_blank">financialtimes.com</a> (2025-12-26 22:26:28)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - Renewables turn LNG glut into a sinkhole reut.rs/4jin4r5 <a href="https://bsky.app/profile/reuters.com/post/3mavfdesbh42y" target="_blank">reuters.com</a> (2025-12-26 22:25:11)</span><span style="padding-right:50px;">President Volodymyr Zelensky of Ukraine said Friday that he would meet soon with President Trump, as Ukraine and the U.S. try to keep momentum going in U.S.-led efforts to end the war with Russia. <a href="https://bsky.app/profile/nytimes.com/post/3mavfd4wlsw2r" target="_blank">nytimes.com</a> (2025-12-26 22:25:03)</span><span style="padding-right:50px;">BREAKING: Malaysia's former Prime Minister Najib Razak ordered to serve 15 years in jail after a court convicted him on multiple counts of abuse of power and money laundering over his role in the multibillion-dollar fraud scandal at 1MDB reut.rs/3Y8M36u <a href="https://bsky.app/profile/reuters.com/post/3mavf7xbo2s2i" target="_blank">reuters.com</a> (2025-12-26 22:23:16)</span><span style="padding-right:50px;">中国人民銀行（中央銀行）は２６日、年次金融安定報告を公表した声明で、積極的なマクロ経済政策の実施とともに流動性を潤沢に保ち、システミックリスクを警戒する方針を示した。 bit.ly/3MRuzsU <a href="https://bsky.app/profile/japan.reuters.com/post/3mavf6lyntp2q" target="_blank">japan.reuters.com</a> (2025-12-26 22:22:31)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.34 (🔺0.53 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.27 (🔺0.46 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,104 +32,93 @@
 
 ## News Headlines
 
-- US Military Targets Islamic State in Nigeria
-- Trump Orders Strikes on Islamic State Terrorists in Nigeria
-- Toyota to Produce Over 10 Million Units in 2026
-- Nvidia's Groq Deal and S&P's Winning Week
-- Malaysia's Ex-PM Najib and the 1MDB Scandal
-- Treasury Yields Little Changed as Traders Return from Christmas Holiday
+- Global dealmaking hits $4.5tn in second-best year on record
+- Renewables turn LNG glut into a sinkhole
+- Ukraine's Zelensky says to meet Trump soon
+- Malaysia's ex-PM Najib sentenced to 15 years in jail
+- China's central bank keeps liquidity ample amid macroeconomic stability
+- US targets Islamic State in Nigeria, Trump orders strikes
 
 
 ----
 
-@wsj.com
+@financialtimes.com
 
-Resolutions to consider for a 2026 that brings you as few tax troubles as possible.
+Global dealmaking hits $4.5tn in second-best year on record ft.trib.al/55LHNFw
 
-[2025-12-26 22:06:47](https://bsky.app/profile/wsj.com/post/3maveciad2g2g)
+[2025-12-26 22:26:28](https://bsky.app/profile/financialtimes.com/post/3mavffocfel2v)
 
 ---
 
 @reuters.com
 
-🔊 Today on the Reuters World News podcast:
-- The US military targets Islamic State in Nigeria
-- Companies are hedging their bets on tariff refunds 
-- Is Trump's power fading heading into 2026?
-Listen now reut.rs/4qr1tz2
+From Breakingviews - Breakingviews - Renewables turn LNG glut into a sinkhole reut.rs/4jin4r5
 
-[2025-12-26 22:03:11](https://bsky.app/profile/reuters.com/post/3mave3zq6d22i)
+[2025-12-26 22:25:11](https://bsky.app/profile/reuters.com/post/3mavfdesbh42y)
+
+---
+
+@nytimes.com
+
+President Volodymyr Zelensky of Ukraine said Friday that he would meet soon with President Trump, as Ukraine and the U.S. try to keep momentum going in U.S.-led efforts to end the war with Russia.
+
+[2025-12-26 22:25:03](https://bsky.app/profile/nytimes.com/post/3mavfd4wlsw2r)
+
+---
+
+@reuters.com
+
+<strong><span style="color: red;">BREAKING:</span> Malaysia's former Prime Minister Najib Razak ordered to serve 15 years in jail after a court convicted him on multiple counts of abuse of power and money laundering over his role in the multibillion-dollar fraud scandal at 1MDB reut.rs/3Y8M36u</strong>
+
+[2025-12-26 22:23:16](https://bsky.app/profile/reuters.com/post/3mavf7xbo2s2i)
 
 ---
 
 @japan.reuters.com
 
-ロシア大統領府のウシャコフ補佐官は、ウクライナ和平を巡る米国提案を受け取った後、米政府の一部高官と電話で協議した。大統領府のペスコフ報道官が明らかにしたもので、協議時期は明らかにしなかった。報道官は和平案文書について、分析しておりプーチン大統領に代わり米ロ政府の間で接触していると指摘。「協議の継続で合意した」と述べた。関係筋によると、ドミトリエフ大統領特別代表も米高官との協議に参加した。 bit.ly/4qp7NXJ
+中国人民銀行（中央銀行）は２６日、年次金融安定報告を公表した声明で、積極的なマクロ経済政策の実施とともに流動性を潤沢に保ち、システミックリスクを警戒する方針を示した。 bit.ly/3MRuzsU
 
-[2025-12-26 22:02:33](https://bsky.app/profile/japan.reuters.com/post/3mave2vhzj22c)
+[2025-12-26 22:22:31](https://bsky.app/profile/japan.reuters.com/post/3mavf6lyntp2q)
+
+---
+
+@npr.org
+
+Figuring out the insurance options for families often falls to women. Some say they're delaying marriage, taking side jobs, and putting their kids on Medicaid as premium prices shoot up in 2026. n.pr/4ay419W
+
+[2025-12-26 22:19:47](https://bsky.app/profile/npr.org/post/3mavezq5mu324)
+
+---
+
+@reuters.com
+
+From Breakingviews - Breakingviews - Chatbots find their voice as audio assistants rise reut.rs/3NheDAc
+
+[2025-12-26 22:15:14](https://bsky.app/profile/reuters.com/post/3maverl5p7m2k)
+
+---
+
+@japan.reuters.com
+
+ウクライナのゼレンスキー大統領は２６日、トランプ米大統領との早期会談を予定していると述べ、ロシアとの戦争終結に向けた米国の外交努力が加速するなか、年内に多くのことが決定される可能性があるとの見通しを示した。 bit.ly/4q5S5ko
+
+[2025-12-26 22:15:13](https://bsky.app/profile/japan.reuters.com/post/3maverku7wp2f)
 
 ---
 
 @cnbc.com
 
-Nvidia's Groq deal, S&P's winning week, leather tariffs and more in Morning Squawk
+Pilot Joe Sobczak's $698,000 home comes with a 3,600-square-foot airplane hangar, where he keeps a Beechcraft T-34 Mentor plane he can use to fly to SFO.
 
-[2025-12-26 22:02:32](https://bsky.app/profile/cnbc.com/post/3mave2udwna2e)
-
----
-
-@usatoday.com
-
-Spoiler alert! Everything you need to know about "Stranger Things" Season 5 Episode 5, as we get closer to the end.
-
-[2025-12-26 22:01:02](https://bsky.app/profile/usatoday.com/post/3mavdy73mfc2o)
+[2025-12-26 22:12:39](https://bsky.app/profile/cnbc.com/post/3mavemxhjf22e)
 
 ---
 
-@nikkei.com
+@japan.reuters.com
 
-「ボディビルダー」現代アメリカの閉塞と男性的な肉体　映画評13本
-www.nikkei.com/article/DGXZQO...
+２０２５年最後の週の米国株式市場は、最高値を更新してさらなる節目に近づき、強気基調で終えると期待されている。市場に影響を与えそうな注目材料は３０日発表の米連邦公開市場委員会（ＦＯＭＣ）議事要旨（１２月開催分）。年末のポートフォリオ調整も、取引が少ない中で市場の変動を大きくする可能性がある。 bit.ly/4jcbYE5
 
-公開中の「ボディビルダー」はボディビルに夢中になり栄光をめざす青年の苦闘と、日常生活からの逸脱のプロセスを生々しく描く力作。
-
-劇場版「緊急取調室 THE FINAL」をはじめ、年末年始に観たい映画13本を紹介します。
-
-[2025-12-26 22:00:39](https://bsky.app/profile/nikkei.com/post/3mavdxjaho42i)
-
----
-
-@apnews.com
-
-Defending champion and 100-foot supermaxi LawConnect led the Sydney to Hobart fleet out of Sydney harbor for the 80th running of the ocean race to the island state of Tasmania.
-
-[2025-12-26 22:00:34](https://bsky.app/profile/apnews.com/post/3mavdxdtrjl2x)
-
----
-
-@cnn.com
-
-Through the decades, downtown Kabul's Ariana Cinema had weathered revolution and war, emerging battered and bruised but still standing to entertain Afghans with Bollywood movies and American action flicks. Now, it is no more. https://cnn.it/4qwHorb
-
-[2025-12-26 22:00:27](https://bsky.app/profile/cnn.com/post/3mavdx5jfwb2v)
-
----
-
-@washingtonpost.com
-
-The coming year will be packed with stunning spectacles in the skies, starting and ending with meteor showers, a total solar eclipse and a total lunar eclipse.
-
-Here are the top astronomical events of 2026:
-
-[2025-12-26 22:00:26](https://bsky.app/profile/washingtonpost.com/post/3mavdx452xu2x)
-
----
-
-@nbcnews.com
-
-President Trump says he ordered “numerous” strikes on Islamic State terrorists in Nigeria he accused of killing Christians.
-
-[2025-12-26 22:00:10](https://bsky.app/profile/nbcnews.com/post/3mavdwn5imz2k)
+[2025-12-26 22:10:22](https://bsky.app/profile/japan.reuters.com/post/3maveiul47t2c)
 
 ---
 
