@@ -1,9 +1,9 @@
-# [2025-12-27 00:50 updated](2025_12_27.md)
+# [2025-12-27 01:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A bombing at a mosque located in the Syrian city of Homs killed at least eight people and wounded 18 others, authorities said. <a href="https://bsky.app/profile/cbsnews.com/post/3mavncexaq32j" target="_blank">cbsnews.com</a> (2025-12-27 00:47:48)</span><span style="padding-right:50px;">Drone attack kills two soldiers in Chad near Sudan border, sources say reut.rs/49fV4ji <a href="https://bsky.app/profile/reuters.com/post/3mavn5qybtw2c" target="_blank">reuters.com</a> (2025-12-27 00:45:12)</span><span style="padding-right:50px;">U.S. forces struck Islamic State targets in Nigeria, the U.S. and Nigerian governments said, acting after threats by President Trump to attack the country in an effort to stop what he has said are the killings of Christians. <a href="https://bsky.app/profile/washingtonpost.com/post/3mavn5kcroj2x" target="_blank">washingtonpost.com</a> (2025-12-27 00:45:05)</span><span style="padding-right:50px;">🇺🇸 Hundreds of Santas hit the ski slopes for charity in the US  Hundreds of people dressed as Santa Claus take to the South Ridge slope in Maine, US, skiing together to raise money for two local charities. <a href="https://bsky.app/profile/en.afp.com/post/3mavmvrb54t2y" target="_blank">en.afp.com</a> (2025-12-27 00:40:44)</span><span style="padding-right:50px;">Angola and Zimbabwe in 1-1 draw at Cup of Nations reut.rs/3YcSENb <a href="https://bsky.app/profile/reuters.com/post/3mavmlv5xow2r" target="_blank">reuters.com</a> (2025-12-27 00:35:13)</span>
+<span style="padding-right:50px;">The U.S. has launched a "deadly strike" against Islamic State fighters in northwest Nigeria, according to Trump. And, holiday spending was higher than expected this year. n.pr/3N1DpnQ <a href="https://bsky.app/profile/npr.org/post/3mavoitdpca2m" target="_blank">npr.org</a> (2025-12-27 01:09:18)</span><span style="padding-right:50px;">New York City’s John F. Kennedy International Airport is the hardest hit, with more than 300 flights scheduled for Friday already cancelled. <a href="https://bsky.app/profile/forbes.com/post/3mavobciacl2q" target="_blank">forbes.com</a> (2025-12-27 01:05:05)</span><span style="padding-right:50px;">Arsenal is sitting in first place ahead of the glut of Christmas matches. But that rarely bodes well for the club—especially when Manchester City is lurking. on.wsj.com/4b7fkGe <a href="https://bsky.app/profile/wsj.com/post/3mavo7td7zh2t" target="_blank">wsj.com</a> (2025-12-27 01:04:15)</span><span style="padding-right:50px;">The family of Imani Dia Smith, 26, said she was stabbed to death by her boyfriend. Officials said the man charged in her death knew Smith, but they did not elaborate. <a href="https://bsky.app/profile/nbcnews.com/post/3mavo3sdzjz2k" target="_blank">nbcnews.com</a> (2025-12-27 01:02:00)</span><span style="padding-right:50px;">Courts thus far have come to different conclusions about whether such policies are constitutional, which could pave the way for a Supreme Court case. <a href="https://bsky.app/profile/usatoday.com/post/3mavo2ffyjq2h" target="_blank">usatoday.com</a> (2025-12-27 01:01:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48718.47 (🔺6.00 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23624.69 (🔻21.22 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.86 (🔺1.90 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.41 (🔺0.61 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48692.31 (🔻20.16 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23624.17 (🔻21.74 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.41 (🔺1.45 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.50 (🔺0.69 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,97 +32,96 @@
 
 ## News Headlines
 
-- Bombing at Syria Mosque Kills Eight, Wounds 18
-- US Forces Strike IS Targets in Nigeria
-- Hundreds of Santas Hit Ski Slopes for Charity in Maine
-- Angola, Zimbabwe Draw in Africa Cup of Nations
-- China to Keep Monetary Policy Loose, Warns of Systemic Risks
-- Target Faces Pressure from Activist Investor Amid Sales Decline
+- US Forces Launch Deadly Strike Against ISIS in Nigeria
+- US Christmas Holiday Spending Higher Than Expected
+- Arsenal Sits at Top of League Table Ahead of Christmas Matches
+- Malaysian Ex-PM Najib Razak Sentenced to 15 Years in Prison
+- US Forces Strike Islamic State Targets in Nigeria After Trump Threats
+- Winter Storm to Bring Heavy Snow and Ice to Northeast US
 
 
 ----
 
-@cbsnews.com
+@npr.org
 
-A bombing at a mosque located in the Syrian city of Homs killed at least eight people and wounded 18 others, authorities said.
+The U.S. has launched a "deadly strike" against Islamic State fighters in northwest Nigeria, according to Trump. And, holiday spending was higher than expected this year. n.pr/3N1DpnQ
 
-[2025-12-27 00:47:48](https://bsky.app/profile/cbsnews.com/post/3mavncexaq32j)
-
----
-
-@reuters.com
-
-Drone attack kills two soldiers in Chad near Sudan border, sources say reut.rs/49fV4ji
-
-[2025-12-27 00:45:12](https://bsky.app/profile/reuters.com/post/3mavn5qybtw2c)
+[2025-12-27 01:09:18](https://bsky.app/profile/npr.org/post/3mavoitdpca2m)
 
 ---
 
-@washingtonpost.com
+@forbes.com
 
-U.S. forces struck Islamic State targets in Nigeria, the U.S. and Nigerian governments said, acting after threats by President Trump to attack the country in an effort to stop what he has said are the killings of Christians.
+New York City’s John F. Kennedy International Airport is the hardest hit, with more than 300 flights scheduled for Friday already cancelled.
 
-[2025-12-27 00:45:05](https://bsky.app/profile/washingtonpost.com/post/3mavn5kcroj2x)
-
----
-
-@en.afp.com
-
-🇺🇸 Hundreds of Santas hit the ski slopes for charity in the US
-
-Hundreds of people dressed as Santa Claus take to the South Ridge slope in Maine, US, skiing together to raise money for two local charities.
-
-[2025-12-27 00:40:44](https://bsky.app/profile/en.afp.com/post/3mavmvrb54t2y)
+[2025-12-27 01:05:05](https://bsky.app/profile/forbes.com/post/3mavobciacl2q)
 
 ---
 
-@reuters.com
+@wsj.com
 
-Angola and Zimbabwe in 1-1 draw at Cup of Nations reut.rs/3YcSENb
+Arsenal is sitting in first place ahead of the glut of Christmas matches. But that rarely bodes well for the club—especially when Manchester City is lurking. on.wsj.com/4b7fkGe
 
-[2025-12-27 00:35:13](https://bsky.app/profile/reuters.com/post/3mavmlv5xow2r)
-
----
-
-@japan.reuters.com
-
-中国人民銀行（中央銀行）は２６日、年次金融安定報告を公表した声明で、積極的なマクロ経済政策の実施とともに流動性を潤沢に保ち、システミックリスクを警戒する方針を示した。 bit.ly/4pdjksb
-
-[2025-12-27 00:30:33](https://bsky.app/profile/japan.reuters.com/post/3mavmdjvj6o22)
+[2025-12-27 01:04:15](https://bsky.app/profile/wsj.com/post/3mavo7td7zh2t)
 
 ---
 
-@reuters.com
+@nbcnews.com
 
-Man City ready for title push with injured players set to return, Guardiola says reut.rs/4q0ntRu
+The family of Imani Dia Smith, 26, said she was stabbed to death by her boyfriend. Officials said the man charged in her death knew Smith, but they did not elaborate.
 
-[2025-12-27 00:30:28](https://bsky.app/profile/reuters.com/post/3mavmdf7o2n2r)
+[2025-12-27 01:02:00](https://bsky.app/profile/nbcnews.com/post/3mavo3sdzjz2k)
 
 ---
 
 @usatoday.com
 
-Austin Reaves was ruled out of the remainder of the Lakers' game against the Rockets due to left calf soreness.
+Courts thus far have come to different conclusions about whether such policies are constitutional, which could pave the way for a Supreme Court case.
 
-[2025-12-27 00:30:26](https://bsky.app/profile/usatoday.com/post/3mavmddeu4j2c)
+[2025-12-27 01:01:13](https://bsky.app/profile/usatoday.com/post/3mavo2ffyjq2h)
 
 ---
 
-@cnn.com
+@reuters.com
 
-A winter storm is poised to bring heavy snow and ice to the Northeast Friday into early Saturday, with more than 23 million people under winter storm warnings — including New York City, which could see its biggest snowfall since 2022.
-https://cnn.it/3YLgorW
+Orlando City sign Brazilian teenager Luis Otavio reut.rs/3L8NzTc
 
-[2025-12-27 00:30:10](https://bsky.app/profile/cnn.com/post/3mavmcu4r2a25)
+[2025-12-27 01:00:47](https://bsky.app/profile/reuters.com/post/3mavnzmirzy2y)
+
+---
+
+@washingtonpost.com
+
+Over the course of his 30-year acting career, Will Arnett has become a welcome screen presence playing stressed-out dudes driven to extreme — and extremely funny — coping methods. 
+
+In his latest role, though, being funny is how he copes.
+
+[2025-12-27 01:00:33](https://bsky.app/profile/washingtonpost.com/post/3mavnz6uack2n)
+
+---
+
+@apnews.com
+
+The month after Christmas has been dubbed "Returnuary" for a reason.
+
+[2025-12-27 01:00:15](https://bsky.app/profile/apnews.com/post/3mavnynry6l25)
 
 ---
 
 @en.afp.com
 
-⚽ Veteran Knowledge Musona scored as Zimbabwe came from behind to draw 1-1 with Angola in Marrakesh on Friday as the second round of Africa Cup of Nations (AFCON) group matches kicked off. 
-➡️ u.afp.com/S8mS
+🇹🇭 An elusive wild cat long feared extinct in Thailand has been rediscovered three decades after the last recorded sighting, conservation authorities and an NGO said Friday. 
+➡️ u.afp.com/S8Wc
 
-[2025-12-27 00:30:08](https://bsky.app/profile/en.afp.com/post/3mavmcs3mxl2x)
+[2025-12-27 01:00:12](https://bsky.app/profile/en.afp.com/post/3mavnyku5ob2s)
+
+---
+
+@aljazeera.com
+
+Drone attacks hit fuel market in city that serves as headquarters for RSF's alternative government.
+
+[2025-12-27 01:00:02](https://bsky.app/profile/aljazeera.com/post/3mavnybe2gn27)
 
 ---
 
