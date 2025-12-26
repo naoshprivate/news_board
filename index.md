@@ -1,9 +1,9 @@
-# [2025-12-26 15:10 updated](2025_12_26.md)
+# [2025-12-26 15:30 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国国営中央テレビ（ＣＣＴＶ）が２６日に伝えたところによると、中国工業情報省は２０２５年の大企業の鉱工業生産が２４年比で５．９％増加すると予測している。 bit.ly/4paO7Ws <a href="https://bsky.app/profile/japan.reuters.com/post/3maumwukoc22p" target="_blank">japan.reuters.com</a> (2025-12-26 15:08:42)</span><span style="padding-right:50px;">NHK紅白歌合戦 最後を飾るのはMrs. GREEN APPLE https://news.web.nhk/newsweb/na/na-k10015008561000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maums77xyq2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 15:06:02)</span><span style="padding-right:50px;">Driven by a feeling they’ve lost control to screens, teens and twenty-somethings are resurrecting CDs, flip phones and digital cameras.  🔗: on.wsj.com/3YMZdpO <a href="https://bsky.app/profile/wsj.com/post/3maumq7hkvn2h" target="_blank">wsj.com</a> (2025-12-26 15:04:58)</span><span style="padding-right:50px;">The traditional Norwegian festive dish lutefisk, served with pea puree, potatoes and bacon here, is experiencing a revival. https://cnn.it/4qozRug <a href="https://bsky.app/profile/cnn.com/post/3maumkxivya2a" target="_blank">cnn.com</a> (2025-12-26 15:02:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】”名義貸し”など16件の法令違反 坂出市の運送会社に事業停止など行政処分 四国運輸局【香川】 (2025-12-26 14:50) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maumiwlcfh25" target="_blank">sokuho.news</a> (2025-12-26 15:00:54)</span>
+<span style="padding-right:50px;">WBC 日本代表に大谷翔平ら 8人を選出【一覧とコメント】 https://news.web.nhk/newsweb/na/na-k10015014611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maunxqqtnx24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 15:27:03)</span><span style="padding-right:50px;">政府は２６日、防衛力整備計画４年目に当たる２０２６年度の防衛予算案を前年比３．８％増の９兆０３５３億円に決定した。有人の武器に比べてコストが安い無人機の導入を各国が進める中、自衛隊も無人装備を大量に調達する。年明けに始まる通常国会で成立すれば過去最高を更新し、初めて９兆円台に乗せる。 bit.ly/4qkCFZo <a href="https://bsky.app/profile/japan.reuters.com/post/3maunldzt3e2s" target="_blank">japan.reuters.com</a> (2025-12-26 15:20:09)</span><span style="padding-right:50px;">防衛省 弾薬庫 全国で約130棟増設へ 来年度予算案に560億円 https://news.web.nhk/newsweb/na/na-k10015014381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maunhrhkyo2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 15:18:07)</span><span style="padding-right:50px;">石川 奥能登4自治体 能登半島地震後の自己都合退職者 101人に https://news.web.nhk/newsweb/na/na-k10015014391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maunhn6n5w2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 15:18:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】「ベルトコンベアに人が挟まれた」砕石場作業の50代男性か 死亡確認 北海道厚真町 (2025-12-26 15:16) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maunf7zmq32z" target="_blank">sokuho.news</a> (2025-12-26 15:16:43)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50664.21 (🔺137.08 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3369.00 (🔻8.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.13 (🔺0.32 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50659.47 (🔺132.34 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3372.00 (🔻5.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.21 (🔺0.41 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,15 +32,83 @@
 
 ## News Headlines
 
-- China Predicts 5.9% Increase in Industrial Production in 2025
-- NHK Red and White Song Battle to Feature Mrs. GREEN APPLE
-- Young People Reviving Old Tech: CDs, Flip Phones, Digital Cameras
-- Lutefisk, a Traditional Norwegian Dish, Experiencing a Revival
-- Transport Company in Japan Faces Administrative Penalties for Multiple Violations
-- Japan's 2026 Budget to Exceed 122 Trillion Yen, Largest in History
+- Japan Selects 8 Players for WBC Including Shohei Ohtani
+- Defense Budget to Reach Record High of 9.035 Trillion Yen
+- 130 Ammunition Storage Facilities to be Established Nationwide
+- 101 People in Hokuriku Region Choose to Retire Following Earthquake
+- Man Trapped in Conveyor Belt at Crushing Facility Confirmed Dead
+- IMF Cuts Yen's Nominal Effective Exchange Rate by 4%
 
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+WBC 日本代表に大谷翔平ら 8人を選出【一覧とコメント】
+https://news.web.nhk/newsweb/na/na-k10015014611000
+
+[2025-12-26 15:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maunxqqtnx24)
+
+---
+
+@japan.reuters.com
+
+政府は２６日、防衛力整備計画４年目に当たる２０２６年度の防衛予算案を前年比３．８％増の９兆０３５３億円に決定した。有人の武器に比べてコストが安い無人機の導入を各国が進める中、自衛隊も無人装備を大量に調達する。年明けに始まる通常国会で成立すれば過去最高を更新し、初めて９兆円台に乗せる。 bit.ly/4qkCFZo
+
+[2025-12-26 15:20:09](https://bsky.app/profile/japan.reuters.com/post/3maunldzt3e2s)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+防衛省 弾薬庫 全国で約130棟増設へ 来年度予算案に560億円
+https://news.web.nhk/newsweb/na/na-k10015014381000
+
+[2025-12-26 15:18:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maunhrhkyo2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+石川 奥能登4自治体 能登半島地震後の自己都合退職者 101人に
+https://news.web.nhk/newsweb/na/na-k10015014391000
+
+[2025-12-26 15:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maunhn6n5w2w)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】「ベルトコンベアに人が挟まれた」砕石場作業の50代男性か 死亡確認 北海道厚真町
+(2025-12-26 15:16) #ニュース
+
+[2025-12-26 15:16:43](https://bsky.app/profile/sokuho.news/post/3maunf7zmq32z)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】大雪による集中除雪で国道18号が通行止め開始 新潟県妙高市から長野市豊野町の間
+(2025-12-26 15:08:00) #ニュース
+
+❄️降雪量
+🔗https://www.jma.go.jp/bosai/snow/#zoom:7/lat:37.90222/lon:139.02361/colordepth:normal/elements:snowf24h
+
+[2025-12-26 15:10:43](https://bsky.app/profile/sokuho.news/post/3maun2ivnbj2a)
+
+---
+
+@japan.reuters.com
+
+２０２５年は多くの海外中央銀行が利下げを重ねた一方、日銀は１２月１９日、同年２度目の利上げを決定した。この金融政策の内外格差を踏まえ、２５年は円高観測もきかれたが、実際は円安が進行。国際通貨基金（ＩＭＦ）が算出する円の名目実効為替レート（ナロー・ベース）は年初より約４％も減価した。対スイスフランや対ユーロで史上最安値を更新したほか対ドルでも日米金利差に照らせば年央以降、大幅にドル高・円安方向へ乖離（かいり）している。ドルは他通貨に対して軟調に推移しており、この乖離も円安によるものとみるのが妥当だ。 bit.ly/3Le7zDX
+
+[2025-12-26 15:10:08](https://bsky.app/profile/japan.reuters.com/post/3maumzgn3mf2c)
+
+---
 
 @japan.reuters.com
 
@@ -66,70 +134,6 @@ Driven by a feeling they’ve lost control to screens, teens and twenty-somethin
 🔗: on.wsj.com/3YMZdpO
 
 [2025-12-26 15:04:58](https://bsky.app/profile/wsj.com/post/3maumq7hkvn2h)
-
----
-
-@cnn.com
-
-The traditional Norwegian festive dish lutefisk, served with pea puree, potatoes and bacon here, is experiencing a revival. https://cnn.it/4qozRug
-
-[2025-12-26 15:02:02](https://bsky.app/profile/cnn.com/post/3maumkxivya2a)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】”名義貸し”など16件の法令違反 坂出市の運送会社に事業停止など行政処分 四国運輸局【香川】
-(2025-12-26 14:50) #ニュース
-
-[2025-12-26 15:00:54](https://bsky.app/profile/sokuho.news/post/3maumiwlcfh25)
-
----
-
-@nikkei.com
-
-DICグラフィックス、色見本の「カラーチャート」改訂版を26年1月発売（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-販売価格は税抜き5500円。国内のオフセット印刷における色味の標準規格「JapanColor2011」の標準印刷を目指して製作しています。
-
-ダブルリング型に仕様を変更、使いやすさを向上させています。
-
-[2025-12-26 15:00:49](https://bsky.app/profile/nikkei.com/post/3maumiru2gi22)
-
----
-
-@japan.reuters.com
-
-政府は２６日、２０２６年度一般会計予算案を閣議決定した。予算規模は１２２兆円超と過去最大に膨らんだが、経済成長に伴う高税収を見込み、新規国債の発行額を抑制した。規模を追求する中でも公債依存度を２４．２％と１９９８年度以来の水準に抑え、「責任財政」に腐心した構成となった。 bit.ly/4p7VyO7
-
-[2025-12-26 15:00:17](https://bsky.app/profile/japan.reuters.com/post/3maumhthhpw2v)
-
----
-
-@bloomberg.com
-
-India’s astrology market has snowballed into a $7 billion industry as a younger generation seeks celestial guidance on life, love and even stock trading. (from the archive)
-
-[2025-12-26 15:00:12](https://bsky.app/profile/bloomberg.com/post/3maumhoqlch2g)
-
----
-
-@washingtonpost.com
-
-Column: I’m a longtime practitioner and teacher of loving kindness meditation. Here’s what you need to know about using meditation to become a kinder, more loving person.
-
-[2025-12-26 15:00:08](https://bsky.app/profile/washingtonpost.com/post/3maumhl6m422i)
-
----
-
-@financialtimes.com
-
-Elon Musk remains at the top of the list with a net worth that has risen nearly 50% to $645bn. ft.trib.al/ARjBBXC
-
-[2025-12-26 14:51:53](https://bsky.app/profile/financialtimes.com/post/3maulyskkt72p)
 
 ---
 
