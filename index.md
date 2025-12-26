@@ -1,9 +1,9 @@
-# [2025-12-26 16:30 updated](2025_12_26.md)
+# [2025-12-26 16:52 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】米軍が憲兵隊による単独パトロール再開の意向を外務省に伝える (2025-12-26 16:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maurapmjfy2a" target="_blank">sokuho.news</a> (2025-12-26 16:25:47)</span><span style="padding-right:50px;">England bowled out for 110 in reply to Australia's 152 in fourth Ashes test reut.rs/3L9qzmT <a href="https://bsky.app/profile/reuters.com/post/3maur7kuyq52s" target="_blank">reuters.com</a> (2025-12-26 16:25:08)</span><span style="padding-right:50px;">東邦銀行は２６日、大東銀行の株式を同行の筆頭株主、ＨＳホールディングスから取得すると発表した。取得後の持ち株比率は１９．６７％になる見込み。福島県を営業基盤とする両行が健全な競合関係を維持しながら、互いの強みを生かして連携することが重要と判断した。 bit.ly/49bQ3s3 <a href="https://bsky.app/profile/japan.reuters.com/post/3maur6k6tyi2u" target="_blank">japan.reuters.com</a> (2025-12-26 16:24:34)</span><span style="padding-right:50px;">悠仁さま 新年一般参賀に初参加へ https://news.web.nhk/newsweb/na/na-k10015014781000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maur5n5g6z2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 16:24:02)</span><span style="padding-right:50px;">東京株式市場で日経平均は続伸し、前営業日比３４２円６０銭高の５万０７５０円３９銭で取引を終えた。前日の米国市場が休場で手掛かりを欠いたが、きょうは１２月決算企業の権利付き最終売買日となり、配当権利取りを意識した買いが広がった。出遅れ銘柄の物色もみられた。 bit.ly/3YcDcAO <a href="https://bsky.app/profile/japan.reuters.com/post/3mauqwsbuzo27" target="_blank">japan.reuters.com</a> (2025-12-26 16:20:14)</span>
+<span style="padding-right:50px;">A one-time Roth conversion outperforms an equal-installments conversion or sticking with traditional IRAs and 401(k)s—regardless of the balance size and potential tax hit on.wsj.com/4aBxT5n <a href="https://bsky.app/profile/wsj.com/post/3mausjx7izs2o" target="_blank">wsj.com</a> (2025-12-26 16:48:50)</span><span style="padding-right:50px;">ソウル株式市場は反発して引けた。海外からの投資資金流入が主導する形で半導体株が上昇し、サムスン電子は史上最高値を付けた。 bit.ly/4sbGwd2 <a href="https://bsky.app/profile/japan.reuters.com/post/3mausd25eny2v" target="_blank">japan.reuters.com</a> (2025-12-26 16:44:59)</span><span style="padding-right:50px;">What are the stories that will define 2026? Martin Wolf, the FT's chief economics commentator, unwraps the big ideas shaping the year ahead.  A little gift from #FTEdit 🎁 Follow for more #FTEditpresents <a href="https://bsky.app/profile/ftedit.ft.com/post/3maus7obaac26" target="_blank">ftedit.ft.com</a> (2025-12-26 16:43:06)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】“音信不通”銚子のホテル社長が謝罪「前のオーナー管理のHPで予約可能に」リフォーム後に再オープンの意向も 千葉 (2025-12-26 16:26) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maus6zefya2z" target="_blank">sokuho.news</a> (2025-12-26 16:42:44)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】越前市長選挙に県土木部長の平林透氏が立候補へ 26日付で県庁を退職 (2025-12-26 16:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maus3q2w7b2y" target="_blank">sokuho.news</a> (2025-12-26 16:40:53)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.23 (🔺0.42 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔺0.56 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -30,100 +30,95 @@
 
 ---
 
-## News Headlines
+@wsj.com
 
-- US Military Informs Japanese Government of Plan to Resume Guard Patrols
-- England Bowled Out for 110 in Reply to Australia's 152 in Fourth Ashes Test
-- Tokyo Shares Continue to Rise on December 26th
-- Trump Administration to Announce Plans for Large Ballroom in White House
-- UK Judge Blocks Detention of British Social Media Campaigner
-- Thai Central Bank Sees Loan Guarantee Scheme Raising Credit by $3.2 Billion Over 1-2 Years
+A one-time Roth conversion outperforms an equal-installments conversion or sticking with traditional IRAs and 401(k)s—regardless of the balance size and potential tax hit on.wsj.com/4aBxT5n
 
+[2025-12-26 16:48:50](https://bsky.app/profile/wsj.com/post/3mausjx7izs2o)
 
-----
+---
+
+@japan.reuters.com
+
+ソウル株式市場は反発して引けた。海外からの投資資金流入が主導する形で半導体株が上昇し、サムスン電子は史上最高値を付けた。 bit.ly/4sbGwd2
+
+[2025-12-26 16:44:59](https://bsky.app/profile/japan.reuters.com/post/3mausd25eny2v)
+
+---
+
+@ftedit.ft.com
+
+What are the stories that will define 2026? Martin Wolf, the FT's chief economics commentator, unwraps the big ideas shaping the year ahead.
+
+A little gift from #FTEdit 🎁 Follow for more #FTEditpresents
+
+[2025-12-26 16:43:06](https://bsky.app/profile/ftedit.ft.com/post/3maus7obaac26)
+
+---
 
 @sokuho.news
 
 🛎️FNNより【速報】です。
 
-【速報】米軍が憲兵隊による単独パトロール再開の意向を外務省に伝える
-(2025-12-26 16:15) #ニュース
+【速報】“音信不通”銚子のホテル社長が謝罪「前のオーナー管理のHPで予約可能に」リフォーム後に再オープンの意向も 千葉
+(2025-12-26 16:26) #ニュース
 
-[2025-12-26 16:25:47](https://bsky.app/profile/sokuho.news/post/3maurapmjfy2a)
+[2025-12-26 16:42:44](https://bsky.app/profile/sokuho.news/post/3maus6zefya2z)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-England bowled out for 110 in reply to Australia's 152 in fourth Ashes test reut.rs/3L9qzmT
+🛎️FNNより【速報】です。
 
-[2025-12-26 16:25:08](https://bsky.app/profile/reuters.com/post/3maur7kuyq52s)
+【速報】越前市長選挙に県土木部長の平林透氏が立候補へ 26日付で県庁を退職
+(2025-12-26 16:30) #ニュース
+
+[2025-12-26 16:40:53](https://bsky.app/profile/sokuho.news/post/3maus3q2w7b2y)
 
 ---
 
 @japan.reuters.com
 
-東邦銀行は２６日、大東銀行の株式を同行の筆頭株主、ＨＳホールディングスから取得すると発表した。取得後の持ち株比率は１９．６７％になる見込み。福島県を営業基盤とする両行が健全な競合関係を維持しながら、互いの強みを生かして連携することが重要と判断した。 bit.ly/49bQ3s3
+中国国家発展改革委員会（発改委）は２６日、２０２６─３０年の次期５カ年計画で銅とアルミナの新規プロジェクトに対する監督を強化し、不合理な投資や無秩序な拡大を抑制する方針を示した。発改委のウェブサイトで明らかにした。 bit.ly/3KOoyN7
 
-[2025-12-26 16:24:34](https://bsky.app/profile/japan.reuters.com/post/3maur6k6tyi2u)
+[2025-12-26 16:40:10](https://bsky.app/profile/japan.reuters.com/post/3maus2ggegi2q)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-悠仁さま 新年一般参賀に初参加へ
-https://news.web.nhk/newsweb/na/na-k10015014781000
+“トマト3割高も キャベツは安く” 来月の野菜価格見通し
+https://news.web.nhk/newsweb/na/na-k10015014791000
 
-[2025-12-26 16:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maur5n5g6z2b)
-
----
-
-@japan.reuters.com
-
-東京株式市場で日経平均は続伸し、前営業日比３４２円６０銭高の５万０７５０円３９銭で取引を終えた。前日の米国市場が休場で手掛かりを欠いたが、きょうは１２月決算企業の権利付き最終売買日となり、配当権利取りを意識した買いが広がった。出遅れ銘柄の物色もみられた。 bit.ly/3YcDcAO
-
-[2025-12-26 16:20:14](https://bsky.app/profile/japan.reuters.com/post/3mauqwsbuzo27)
+[2025-12-26 16:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauryhytbu2b)
 
 ---
 
 @japan.reuters.com
 
-トランプ米政権は、ホワイトハウスの建物に巨大な宴会場（ボールルーム）を建設する計画について、来年１月８日に新たな詳細を公表する。 bit.ly/4scZzUp
+■レートは終値（前日比または前週末比）、安値─高値 bit.ly/3YKVjhi
 
-[2025-12-26 16:20:09](https://bsky.app/profile/japan.reuters.com/post/3mauqwnn27722)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-US judge blocks detention of British social media campaigner
-
-[2025-12-26 16:18:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mauqtoicgf2x)
+[2025-12-26 16:38:31](https://bsky.app/profile/japan.reuters.com/post/3maurxil5ad2c)
 
 ---
 
-@reuters.com
+@npr.org
 
-Turkey orders 29 more detained in widening betting probe reut.rs/4pfOyPf
+In an "alternative" message to the king's annual Christmas speech, Kimmel told British viewers that "from a fascism perspective, this has been a really great year," for the United States. n.pr/4q2rPru
 
-[2025-12-26 16:15:11](https://bsky.app/profile/reuters.com/post/3mauqnqvv4m23)
-
----
-
-@japan.reuters.com
-
-香港の投資ファンド、オアシス・マネジメントが小林製薬株の保有比率を１３．０６％に引き上げたことが、２６日提出の変更報告書で分かった。前回報告では１０．１０％だった。 bit.ly/4pfY4Cj
-
-[2025-12-26 16:14:50](https://bsky.app/profile/japan.reuters.com/post/3mauqn4ypjy2u)
+[2025-12-26 16:37:47](https://bsky.app/profile/npr.org/post/3maurw6todv24)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-スピードスケート 全日本選手権女子500m 吉田雪乃が初優勝
-https://news.web.nhk/newsweb/na/na-k10015014741000
+🛎️FNNより【速報】です。
 
-[2025-12-26 16:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauqia4xiq2x)
+【速報】越前市長選挙に県土木部長の平林透氏が立候補へ 26日付で県庁を辞職 27日に正式表明
+(2025-12-26 16:30) #ニュース
+
+[2025-12-26 16:35:50](https://bsky.app/profile/sokuho.news/post/3maursoyzam2b)
 
 ---
 
