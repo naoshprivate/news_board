@@ -1,9 +1,9 @@
-# [2025-12-26 10:30 updated](2025_12_26.md)
+# [2025-12-26 10:50 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Wrightwood community in San Bernardino County was hit by severe thunderstorms that triggered mudslides, rockslides and debris flows, leaving homes and cars buried in the muck.  Read more: https://cnn.it/495nRXz <a href="https://bsky.app/profile/cnn.com/post/3mau5bow24u25" target="_blank">cnn.com</a> (2025-12-26 10:28:25)</span><span style="padding-right:50px;">NPR's Leila Fadel tags along for lunch with Elazar Sontag, the Washington Post's new food critic. <a href="https://bsky.app/profile/npr.org/post/3mau4x63tak24" target="_blank">npr.org</a> (2025-12-26 10:22:32)</span><span style="padding-right:50px;">サッカーのイングランド・プレミアリーグ、ノッティンガム・フォレストは２５日、同クラブで活躍したジョン・ロバートソン氏が死去したと発表。７２歳だった。 bit.ly/496h1kz <a href="https://bsky.app/profile/japan.reuters.com/post/3mau4w3bzjx2q" target="_blank">japan.reuters.com</a> (2025-12-26 10:21:55)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR湖西線 和邇駅～近江今津駅間で列車の運転「一時取り止め」へ 強風の影響 (2025-12-26 10:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mau4u76ote2v" target="_blank">sokuho.news</a> (2025-12-26 10:20:52)</span><span style="padding-right:50px;">アメリカ就労ビザ「H-1B」　選考方法変更は26年2月27日、高賃金労働者を優遇（無料記事） www.nikkei.com/article/DGXZQO...  従来は申請者の賃金水準にかかわらず無作為に抽選を実施してきましたが、新たな選考方法では申請者を賃金水準で4段階に分類して抽選回数に差をつけます。  最も高賃金の水準なら4回抽選に参加できますが、最も低賃金の場合は1回しか抽選に参加できなくなります。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3mau4tstsmz2x" target="_blank">nikkei.com</a> (2025-12-26 10:20:39)</span>
+<span style="padding-right:50px;">ロシア外務省のザハロワ報道官は２５日、米国がベネズエラを海上封鎖することによってカリブ海で海賊行為を復活させていると批判し、トランプ米大統領のプラグマティズム（実用主義）が事態の収拾に役立つことを期待すると述べた。 bit.ly/49a0D2q <a href="https://bsky.app/profile/japan.reuters.com/post/3mau6gcg4oi27" target="_blank">japan.reuters.com</a> (2025-12-26 10:48:53)</span><span style="padding-right:50px;">２０２６年度国債発行計画の概要は以下の通り。カッコ内は対前年当初（▲はマイナス）。 bit.ly/4stkDWW <a href="https://bsky.app/profile/japan.reuters.com/post/3mau66llpnq27" target="_blank">japan.reuters.com</a> (2025-12-26 10:44:34)</span><span style="padding-right:50px;">The U.S. strikes against the Islamic State in Nigeria followed President Trump’s threat to take military action to protect Christians from attacks by Islamic militants. Trump did not specify which attacks he was referring to, nor did he cite evidence for the claim that Christians are being targeted. <a href="https://bsky.app/profile/nytimes.com/post/3mau65vwzyk2b" target="_blank">nytimes.com</a> (2025-12-26 10:44:12)</span><span style="padding-right:50px;">政府は２６日、防衛力整備計画４年目に当たる２０２６年度の防衛予算案を前年比３．８％増の９兆０３５３億円に決定した。有人の武器に比べてコストが安い無人機の導入を各国が進める中、自衛隊も無人装備を大量に調達する。年明けに始まる通常国会で成立すれば過去最高を更新し、初めて９兆円台に乗せる。 bit.ly/45eVLYO <a href="https://bsky.app/profile/japan.reuters.com/post/3mau62roufi22" target="_blank">japan.reuters.com</a> (2025-12-26 10:42:27)</span><span style="padding-right:50px;">楽天モバイル、全契約回線数1000万に　月収入増・地方開拓が課題（無料記事） www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3mau5xlp7dy2i" target="_blank">nikkei.com</a> (2025-12-26 10:40:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50862.76 (🔺335.63 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3385.00 (🔺8.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.21 (🔺0.41 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50870.65 (🔺343.52 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3391.00 (🔺14.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.32 (🔺0.51 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,115 +32,95 @@
 
 ## News Headlines
 
-- Severe Thunderstorms Devastate Wrightwood Community in San Bernardino County
-- Washington Post's New Food Critic Elazar Sontag's Lunch Experience
-- FNN Breaking News: JR Lake Line Train Service Temporarily Suspended Due to Strong Winds
-- US to Change H-1B Visa Selection Method, Favoring Higher-Paying Workers
-- Japanese Government Approves Record 122.3 Trillion Yen Budget for Next Fiscal Year
-- Bangladesh's Opposition Leader Returns Home After 17 Years in Exile
+- Russia Criticizes US over Venezuela Blockade, Sees Trump's Pragmatism Helping Resolve Situation
+- Japan's Defense Budget for 2026 Sets Record High of 9.035 Trillion Yen
+- Japan's Defense Budget for 2026 Sets Record High of 9.035 Trillion Yen
+- Russia Puts Off Goal to Increase LNG Production to 100 Million Tons by Several Years
+- Syrian Central Bank Announces Plan to Exchange Old and New Banknotes Starting from January 1, 2026
+- Japanese Government Approves Record-Breaking 122.3 Trillion Yen Budget for 2026
 
 
 ----
 
-@cnn.com
+@japan.reuters.com
 
-The Wrightwood community in San Bernardino County was hit by severe thunderstorms that triggered mudslides, rockslides and debris flows, leaving homes and cars buried in the muck.
+ロシア外務省のザハロワ報道官は２５日、米国がベネズエラを海上封鎖することによってカリブ海で海賊行為を復活させていると批判し、トランプ米大統領のプラグマティズム（実用主義）が事態の収拾に役立つことを期待すると述べた。 bit.ly/49a0D2q
 
-Read more: https://cnn.it/495nRXz
-
-[2025-12-26 10:28:25](https://bsky.app/profile/cnn.com/post/3mau5bow24u25)
-
----
-
-@npr.org
-
-NPR's Leila Fadel tags along for lunch with Elazar Sontag, the Washington Post's new food critic.
-
-[2025-12-26 10:22:32](https://bsky.app/profile/npr.org/post/3mau4x63tak24)
+[2025-12-26 10:48:53](https://bsky.app/profile/japan.reuters.com/post/3mau6gcg4oi27)
 
 ---
 
 @japan.reuters.com
 
-サッカーのイングランド・プレミアリーグ、ノッティンガム・フォレストは２５日、同クラブで活躍したジョン・ロバートソン氏が死去したと発表。７２歳だった。 bit.ly/496h1kz
+２０２６年度国債発行計画の概要は以下の通り。カッコ内は対前年当初（▲はマイナス）。 bit.ly/4stkDWW
 
-[2025-12-26 10:21:55](https://bsky.app/profile/japan.reuters.com/post/3mau4w3bzjx2q)
+[2025-12-26 10:44:34](https://bsky.app/profile/japan.reuters.com/post/3mau66llpnq27)
 
 ---
 
-@sokuho.news
+@nytimes.com
 
-🛎️FNNより【速報】です。
+The U.S. strikes against the Islamic State in Nigeria followed President Trump’s threat to take military action to protect Christians from attacks by Islamic militants. Trump did not specify which attacks he was referring to, nor did he cite evidence for the claim that Christians are being targeted.
 
-【速報】JR湖西線 和邇駅～近江今津駅間で列車の運転「一時取り止め」へ 強風の影響
-(2025-12-26 10:08) #ニュース
+[2025-12-26 10:44:12](https://bsky.app/profile/nytimes.com/post/3mau65vwzyk2b)
 
-[2025-12-26 10:20:52](https://bsky.app/profile/sokuho.news/post/3mau4u76ote2v)
+---
+
+@japan.reuters.com
+
+政府は２６日、防衛力整備計画４年目に当たる２０２６年度の防衛予算案を前年比３．８％増の９兆０３５３億円に決定した。有人の武器に比べてコストが安い無人機の導入を各国が進める中、自衛隊も無人装備を大量に調達する。年明けに始まる通常国会で成立すれば過去最高を更新し、初めて９兆円台に乗せる。 bit.ly/45eVLYO
+
+[2025-12-26 10:42:27](https://bsky.app/profile/japan.reuters.com/post/3mau62roufi22)
 
 ---
 
 @nikkei.com
 
-アメリカ就労ビザ「H-1B」　選考方法変更は26年2月27日、高賃金労働者を優遇（無料記事）
+楽天モバイル、全契約回線数1000万に　月収入増・地方開拓が課題（無料記事）
 www.nikkei.com/article/DGXZQO...
 
-従来は申請者の賃金水準にかかわらず無作為に抽選を実施してきましたが、新たな選考方法では申請者を賃金水準で4段階に分類して抽選回数に差をつけます。
-
-最も高賃金の水準なら4回抽選に参加できますが、最も低賃金の場合は1回しか抽選に参加できなくなります。
-
-#ニュース
-
-[2025-12-26 10:20:39](https://bsky.app/profile/nikkei.com/post/3mau4tstsmz2x)
-
----
-
-@sokuho.news
-
-🛎️ANNより【速報】です。
-
-【速報】来年度予算案122.3兆円を閣議決定 2年連続で過去最大 新規国債発行は30兆円弱
-(2025-12-26 10:08:53) #ニュース
-
-[2025-12-26 10:20:21](https://bsky.app/profile/sokuho.news/post/3mau4tbahbx2b)
+[2025-12-26 10:40:40](https://bsky.app/profile/nikkei.com/post/3mau5xlp7dy2i)
 
 ---
 
 @japan.reuters.com
 
-バングラデシュの主要政党、バングラデシュ民族主義党（ＢＮＰ）のタリク・ラーマン党首代行が２５日、英国から約１７年ぶりに帰国した。同国は来年２月に総選挙を予定しており、ＢＮＰが勝利しラーマン氏が次期首相に就任するとの観測が出ている。 bit.ly/3MOUfXb
+シリア中央銀行のフスリエ総裁は２５日、２０２６年１月１日から旧紙幣と新紙幣の交換を開始すると発表した。 bit.ly/4s9Pyrb
 
-[2025-12-26 10:20:14](https://bsky.app/profile/japan.reuters.com/post/3mau4t34f4a22)
+[2025-12-26 10:40:14](https://bsky.app/profile/japan.reuters.com/post/3mau5wt6ybq27)
 
 ---
 
-@sokuho.news
+@japan.reuters.com
 
-🛎️JNNより【速報】です。
+＜１０：２５＞　日経平均は４００円超高、主力株がしっかり　ＴＯＰＩＸは史上最高値更新 bit.ly/4s8uHEp
 
-【速報】『高市カラー』過去最大122.3兆円の来年度予算案を閣議決定 国債発行額は29.6兆円 国債依存度低下も4分の1占める PBは28年ぶり黒字化
-(2025-12-26 10:18:30) #ニュース
-
-[2025-12-26 10:19:41](https://bsky.app/profile/sokuho.news/post/3mau4s3blcp2b)
+[2025-12-26 10:38:09](https://bsky.app/profile/japan.reuters.com/post/3mau5t3oajf2p)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-卵の12月の平均価格 同月比で過去最高値 東京地区で
-https://news.web.nhk/newsweb/na/na-k10015014331000
+政府 来年度予算案を決定 一般会計総額122兆3092億円 過去最大
+https://news.web.nhk/newsweb/na/na-k10015014121000
 
-[2025-12-26 10:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mau4p6pdgr2d)
+[2025-12-26 10:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mau5pev6mk2u)
 
 ---
 
-@sokuho.news
+@japan.reuters.com
 
-🔔ANNより【速報】です。
+政府は２６日、２０２６年度一般会計予算案を閣議決定した。予算規模は１２２兆円超と過去最大に膨らんだが、経済成長に伴う高税収を見込み、新規国債の発行額を抑制した。規模を追求する中でも公債依存度を２４．２％と１９９８年度以来の水準に抑え、「責任財政」に腐心した構成となった。 bit.ly/48XiWcE
 
-【速報】来年度予算案122.3兆円を閣議決定 2年連続で過去最大 新規国債発行は30兆円弱
-(2025年12月26日 10:15) #ニュース
+[2025-12-26 10:32:47](https://bsky.app/profile/japan.reuters.com/post/3mau5jijsu72q)
 
-[2025-12-26 10:15:22](https://bsky.app/profile/sokuho.news/post/3mau4kescdn2s)
+---
+
+@japan.reuters.com
+
+ロシアのノバク副首相は２５日、国営テレビ「ロシア２４」に対し、液化天然ガス（ＬＮＧ）の生産を年間１億トンに増やす目標の達成時期が、計画から「数年」先送りされたと明らかにした。欧米によるロシアのエネルギー部門への制裁が影響したという。 bit.ly/3MQNqUZ
+
+[2025-12-26 10:30:24](https://bsky.app/profile/japan.reuters.com/post/3mau5farpms2q)
 
 ---
 
