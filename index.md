@@ -1,9 +1,9 @@
-# [2025-12-26 15:30 updated](2025_12_26.md)
+# [2025-12-26 15:50 updated](2025_12_26.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">WBC 日本代表に大谷翔平ら 8人を選出【一覧とコメント】 https://news.web.nhk/newsweb/na/na-k10015014611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maunxqqtnx24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 15:27:03)</span><span style="padding-right:50px;">政府は２６日、防衛力整備計画４年目に当たる２０２６年度の防衛予算案を前年比３．８％増の９兆０３５３億円に決定した。有人の武器に比べてコストが安い無人機の導入を各国が進める中、自衛隊も無人装備を大量に調達する。年明けに始まる通常国会で成立すれば過去最高を更新し、初めて９兆円台に乗せる。 bit.ly/4qkCFZo <a href="https://bsky.app/profile/japan.reuters.com/post/3maunldzt3e2s" target="_blank">japan.reuters.com</a> (2025-12-26 15:20:09)</span><span style="padding-right:50px;">防衛省 弾薬庫 全国で約130棟増設へ 来年度予算案に560億円 https://news.web.nhk/newsweb/na/na-k10015014381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maunhrhkyo2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 15:18:07)</span><span style="padding-right:50px;">石川 奥能登4自治体 能登半島地震後の自己都合退職者 101人に https://news.web.nhk/newsweb/na/na-k10015014391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maunhn6n5w2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-26 15:18:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】「ベルトコンベアに人が挟まれた」砕石場作業の50代男性か 死亡確認 北海道厚真町 (2025-12-26 15:16) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maunf7zmq32z" target="_blank">sokuho.news</a> (2025-12-26 15:16:43)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】国道18号通行止め 長野市大倉～新潟県妙高市までの間 大雪による集中除雪のため う回路なし 長野 (2025-12-26 15:32:00) #ニュース  ❄️降雪量 🔗https://www.jma.go.jp/bosai/snow/#zoom:7/lat:37.90222/lon:139.02361/colordepth:normal/elements:snowf24h <a href="https://bsky.app/profile/sokuho.news/post/3mauoztdhec2b" target="_blank">sokuho.news</a> (2025-12-26 15:46:08)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大津市の住宅で白骨化遺体が見つかった事件 母親の生存装い年金を詐取した疑いで息子（50）を再逮捕 (2025-12-26 15:40:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mauozjtqzf2z" target="_blank">sokuho.news</a> (2025-12-26 15:45:58)</span><span style="padding-right:50px;">午前中盤のインド株式市場は、年末の薄商いのなか下落している。アナリストは、株価の勢いは来年１月から始まる第４四半期に左右されるとしている。 bit.ly/3MP2Nxf <a href="https://bsky.app/profile/japan.reuters.com/post/3mauowtqui326" target="_blank">japan.reuters.com</a> (2025-12-26 15:44:28)</span><span style="padding-right:50px;">UAE welcomes Saudi efforts to support security in Yemen, foreign ministry says reut.rs/3Ni8gwv <a href="https://bsky.app/profile/reuters.com/post/3mauope4ihh2y" target="_blank">reuters.com</a> (2025-12-26 15:40:17)</span><span style="padding-right:50px;">ロシア外務省のザハロワ報道官は２５日、米国がベネズエラを海上封鎖することによってカリブ海で海賊行為を復活させていると批判し、トランプ米大統領のプラグマティズム（実用主義）が事態の収拾に役立つことを期待すると述べた。 bit.ly/4pa8RxG <a href="https://bsky.app/profile/japan.reuters.com/post/3mauop7dobg27" target="_blank">japan.reuters.com</a> (2025-12-26 15:40:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50659.47 (🔺132.34 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3372.00 (🔻5.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.21 (🔺0.41 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48731.16 (🔺306.45 : 2025-12-24)</span><span style="padding-right:50px;">NASDAQ: 23613.31 (🔺57.36 : 2025-12-24)</span><span style="padding-right:50px;">NVIDIA: 188.61 (🔺0.67 : 2025-12-24)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.26 (🔺0.45 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,59 +32,27 @@
 
 ## News Headlines
 
-- Japan Selects 8 Players for WBC Including Shohei Ohtani
-- Defense Budget to Reach Record High of 9.035 Trillion Yen
-- 130 Ammunition Storage Facilities to be Established Nationwide
-- 101 People in Hokuriku Region Choose to Retire Following Earthquake
-- Man Trapped in Conveyor Belt at Crushing Facility Confirmed Dead
-- IMF Cuts Yen's Nominal Effective Exchange Rate by 4%
+- Japan's Defense Ministry to Increase Number of Unmanned Equipment by 1,300 Units in Next Fiscal Year
+- China's Industrial Production Expected to Increase by 5.9% in 2025
+- Japan's GDP Growth Forecast Downgraded to 13.4 Trillion Yuan
+- Japan's Defense Spending to Increase by 3.8% to 9.035 Trillion Yen in 2026
+- India's Astrology Market Grows to $7 Billion
+- Norway's Traditional Dish Lutefisk Experiencing a Revival
 
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-WBC 日本代表に大谷翔平ら 8人を選出【一覧とコメント】
-https://news.web.nhk/newsweb/na/na-k10015014611000
-
-[2025-12-26 15:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maunxqqtnx24)
-
----
-
-@japan.reuters.com
-
-政府は２６日、防衛力整備計画４年目に当たる２０２６年度の防衛予算案を前年比３．８％増の９兆０３５３億円に決定した。有人の武器に比べてコストが安い無人機の導入を各国が進める中、自衛隊も無人装備を大量に調達する。年明けに始まる通常国会で成立すれば過去最高を更新し、初めて９兆円台に乗せる。 bit.ly/4qkCFZo
-
-[2025-12-26 15:20:09](https://bsky.app/profile/japan.reuters.com/post/3maunldzt3e2s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-防衛省 弾薬庫 全国で約130棟増設へ 来年度予算案に560億円
-https://news.web.nhk/newsweb/na/na-k10015014381000
-
-[2025-12-26 15:18:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maunhrhkyo2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-石川 奥能登4自治体 能登半島地震後の自己都合退職者 101人に
-https://news.web.nhk/newsweb/na/na-k10015014391000
-
-[2025-12-26 15:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maunhn6n5w2w)
-
----
-
 @sokuho.news
 
-🛎️NNNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】「ベルトコンベアに人が挟まれた」砕石場作業の50代男性か 死亡確認 北海道厚真町
-(2025-12-26 15:16) #ニュース
+【速報】国道18号通行止め 長野市大倉～新潟県妙高市までの間 大雪による集中除雪のため う回路なし 長野
+(2025-12-26 15:32:00) #ニュース
 
-[2025-12-26 15:16:43](https://bsky.app/profile/sokuho.news/post/3maunf7zmq32z)
+❄️降雪量
+🔗https://www.jma.go.jp/bosai/snow/#zoom:7/lat:37.90222/lon:139.02361/colordepth:normal/elements:snowf24h
+
+[2025-12-26 15:46:08](https://bsky.app/profile/sokuho.news/post/3mauoztdhec2b)
 
 ---
 
@@ -92,48 +60,85 @@ https://news.web.nhk/newsweb/na/na-k10015014391000
 
 🛎️JNNより【速報】です。
 
-【速報】大雪による集中除雪で国道18号が通行止め開始 新潟県妙高市から長野市豊野町の間
-(2025-12-26 15:08:00) #ニュース
+【速報】大津市の住宅で白骨化遺体が見つかった事件 母親の生存装い年金を詐取した疑いで息子（50）を再逮捕
+(2025-12-26 15:40:00) #ニュース
+
+[2025-12-26 15:45:58](https://bsky.app/profile/sokuho.news/post/3mauozjtqzf2z)
+
+---
+
+@japan.reuters.com
+
+午前中盤のインド株式市場は、年末の薄商いのなか下落している。アナリストは、株価の勢いは来年１月から始まる第４四半期に左右されるとしている。 bit.ly/3MP2Nxf
+
+[2025-12-26 15:44:28](https://bsky.app/profile/japan.reuters.com/post/3mauowtqui326)
+
+---
+
+@reuters.com
+
+UAE welcomes Saudi efforts to support security in Yemen, foreign ministry says reut.rs/3Ni8gwv
+
+[2025-12-26 15:40:17](https://bsky.app/profile/reuters.com/post/3mauope4ihh2y)
+
+---
+
+@japan.reuters.com
+
+ロシア外務省のザハロワ報道官は２５日、米国がベネズエラを海上封鎖することによってカリブ海で海賊行為を復活させていると批判し、トランプ米大統領のプラグマティズム（実用主義）が事態の収拾に役立つことを期待すると述べた。 bit.ly/4pa8RxG
+
+[2025-12-26 15:40:12](https://bsky.app/profile/japan.reuters.com/post/3mauop7dobg27)
+
+---
+
+@japan.reuters.com
+
+＜１５：２５＞　午後3時のドル156円前半へ上昇、上値追いは限定的 bit.ly/3MLD20R
+
+[2025-12-26 15:39:00](https://bsky.app/profile/japan.reuters.com/post/3mauon2mldb2n)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】国道18号 長野市大倉～新潟県妙高市までの間が通行止め 大雪による集中除雪のため う回路なし 長野
+(2025-12-26 15:32:00) #ニュース
 
 ❄️降雪量
 🔗https://www.jma.go.jp/bosai/snow/#zoom:7/lat:37.90222/lon:139.02361/colordepth:normal/elements:snowf24h
 
-[2025-12-26 15:10:43](https://bsky.app/profile/sokuho.news/post/3maun2ivnbj2a)
+[2025-12-26 15:36:32](https://bsky.app/profile/sokuho.news/post/3mauoinakez2b)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-２０２５年は多くの海外中央銀行が利下げを重ねた一方、日銀は１２月１９日、同年２度目の利上げを決定した。この金融政策の内外格差を踏まえ、２５年は円高観測もきかれたが、実際は円安が進行。国際通貨基金（ＩＭＦ）が算出する円の名目実効為替レート（ナロー・ベース）は年初より約４％も減価した。対スイスフランや対ユーロで史上最安値を更新したほか対ドルでも日米金利差に照らせば年央以降、大幅にドル高・円安方向へ乖離（かいり）している。ドルは他通貨に対して軟調に推移しており、この乖離も円安によるものとみるのが妥当だ。 bit.ly/3Le7zDX
+🛎️FNNより【速報】です。
 
-[2025-12-26 15:10:08](https://bsky.app/profile/japan.reuters.com/post/3maumzgn3mf2c)
+【速報】岡山市のトマト銀行 預金金利と短プラ2026年2月に引き上げへ【岡山】
+(2025-12-26 15:25) #ニュース
 
----
-
-@japan.reuters.com
-
-中国国営中央テレビ（ＣＣＴＶ）が２６日に伝えたところによると、中国工業情報省は２０２５年の大企業の鉱工業生産が２４年比で５．９％増加すると予測している。 bit.ly/4paO7Ws
-
-[2025-12-26 15:08:42](https://bsky.app/profile/japan.reuters.com/post/3maumwukoc22p)
+[2025-12-26 15:35:37](https://bsky.app/profile/sokuho.news/post/3mauogzpedg2a)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-NHK紅白歌合戦 最後を飾るのはMrs. GREEN APPLE
-https://news.web.nhk/newsweb/na/na-k10015008561000
+福島 東邦銀が大東銀の株式を新たに取得へ 連携検討か
+https://news.web.nhk/newsweb/na/na-k10015014751000
 
-[2025-12-26 15:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maums77xyq2v)
+[2025-12-26 15:33:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauocll2la2x)
 
 ---
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-Driven by a feeling they’ve lost control to screens, teens and twenty-somethings are resurrecting CDs, flip phones and digital cameras.
+【沖縄】お米券など食料品支援 自治体は
+https://news.web.nhk/newsweb/na/na-k10015014711000
 
-🔗: on.wsj.com/3YMZdpO
-
-[2025-12-26 15:04:58](https://bsky.app/profile/wsj.com/post/3maumq7hkvn2h)
+[2025-12-26 15:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mauocgxeyi2x)
 
 ---
 
