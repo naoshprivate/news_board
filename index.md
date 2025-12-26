@@ -1,9 +1,9 @@
-# [2025-12-27 05:10 updated](2025_12_27.md)
+# [2025-12-27 05:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">自民 防衛装備品の移転 「5類型」見直しの議論本格化へ https://news.web.nhk/newsweb/na/na-k10015015231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maw3vmenko24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 05:09:03)</span><span style="padding-right:50px;">Saudi warplanes struck a Yemeni militia backed by the United Arab Emirates on Friday, as tensions between the two Gulf powers rise over their competing positions in conflicts around the region. <a href="https://bsky.app/profile/wsj.com/post/3maw3tqyqxm2t" target="_blank">wsj.com</a> (2025-12-27 05:08:03)</span><span style="padding-right:50px;">Will WSJ’s House of the Month December winner be a New York mansion with a F1 car parked in the living room, a Connecticut home in a Midcentury Modern mecca or a Kiawah Island home on a Jack Nicklaus-designed course? on.wsj.com/49cDexq <a href="https://bsky.app/profile/wsj.com/post/3maw3kkbbdu2t" target="_blank">wsj.com</a> (2025-12-27 05:02:54)</span><span style="padding-right:50px;">Dove's new collab with 'Bridgerton' invites fans for a 'royal treatment' <a href="https://bsky.app/profile/usatoday.com/post/3maw3idhxwn25" target="_blank">usatoday.com</a> (2025-12-27 05:01:40)</span><span style="padding-right:50px;">First goalless draw at Cup of Nations leaves Comoros, Zambia in peril reut.rs/45glbVW <a href="https://bsky.app/profile/reuters.com/post/3maw3gvnc522b" target="_blank">reuters.com</a> (2025-12-27 05:00:52)</span>
+<span style="padding-right:50px;">Nvidia struck a non-exclusive deal with Groq worth $20 billion, marking Nvidia’s largest-ever deal. <a href="https://bsky.app/profile/yahoofinance.com/post/3maw4r45fje2h" target="_blank">yahoofinance.com</a> (2025-12-27 05:24:28)</span><span style="padding-right:50px;">Brazil's top court orders detention of ex- head of highway police after escape attempt reut.rs/4qjzOzO <a href="https://bsky.app/profile/reuters.com/post/3maw4aniotq2s" target="_blank">reuters.com</a> (2025-12-27 05:15:15)</span><span style="padding-right:50px;">2025 draws to a close next week as investors brace for a new year <a href="https://bsky.app/profile/cnbc.com/post/3maw4aaf2mf2i" target="_blank">cnbc.com</a> (2025-12-27 05:15:02)</span><span style="padding-right:50px;">"What makes Costco’s Champagne so great is that it isn’t made by Costco," our Wirecutter tester writes. "This Champagne is really, really good for the price." <a href="https://bsky.app/profile/nytimes.com/post/3maw42xguge2y" target="_blank">nytimes.com</a> (2025-12-27 05:12:05)</span><span style="padding-right:50px;">自民 防衛装備品の移転 「5類型」見直しの議論本格化へ https://news.web.nhk/newsweb/na/na-k10015015231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maw3vmenko24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 05:09:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48661.75 (🔻50.72 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23615.94 (🔻29.97 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.57 (🔺1.61 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.48 (🔺0.68 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48676.00 (🔻36.47 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23613.45 (🔻32.46 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 191.47 (🔺1.51 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.52 (🔺0.71 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,15 +32,47 @@
 
 ## News Headlines
 
-- Japan Self-Defense Forces to Review Defense Equipment Transfer Classification
-- Saudi Warplanes Strike Yemeni Militia Backed by UAE
-- WSJ Reveals Winner of House of the Month December
-- Dove Partners with 'Bridgerton' for Royal Treatment
-- Economists Optimistic About US Housing Market in 2026
-- US Judge Blocks Detention of British Anti-Disinformation Campaigner
+- Nvidia strikes $20 billion deal with Groq in largest-ever partnership
+- Brazil's ex-highway police chief ordered detained after escape attempt
+- 2025 draws to a close, investors prepare for new year
+- Costco's affordable Champagne praised by Wirecutter tester
+- Saudi warplanes strike Yemeni militia backed by UAE
+- WSJ's House of the Month winner to be announced in December
 
 
 ----
+
+@yahoofinance.com
+
+Nvidia struck a non-exclusive deal with Groq worth $20 billion, marking Nvidia’s largest-ever deal.
+
+[2025-12-27 05:24:28](https://bsky.app/profile/yahoofinance.com/post/3maw4r45fje2h)
+
+---
+
+@reuters.com
+
+Brazil's top court orders detention of ex- head of highway police after escape attempt reut.rs/4qjzOzO
+
+[2025-12-27 05:15:15](https://bsky.app/profile/reuters.com/post/3maw4aniotq2s)
+
+---
+
+@cnbc.com
+
+2025 draws to a close next week as investors brace for a new year
+
+[2025-12-27 05:15:02](https://bsky.app/profile/cnbc.com/post/3maw4aaf2mf2i)
+
+---
+
+@nytimes.com
+
+"What makes Costco’s Champagne so great is that it isn’t made by Costco," our Wirecutter tester writes. "This Champagne is really, really good for the price."
+
+[2025-12-27 05:12:05](https://bsky.app/profile/nytimes.com/post/3maw42xguge2y)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -89,42 +121,6 @@ Next year, many economists are optimistic about the housing market. Many anticip
 https://cnn.it/49p39Dr
 
 [2025-12-27 05:00:23](https://bsky.app/profile/cnn.com/post/3maw3g22jog2u)
-
----
-
-@washingtonpost.com
-
-Should you mention a group trip in advance to a friend who's not invited to give them a heads up? Or let her find out via social media?
-
-Asking Eric has advice: 
-
-[2025-12-27 05:00:21](https://bsky.app/profile/washingtonpost.com/post/3maw3fy2fqh2e)
-
----
-
-@apnews.com
-
-Days after Ghislaine Maxwell asked a judge to immediately free her from a 20-year prison sentence, the public release of grand jury transcripts from her sex trafficking case returned the spotlight to victims whose allegations helped land her behind bars.
-
-[2025-12-27 05:00:20](https://bsky.app/profile/apnews.com/post/3maw3fxoxy32q)
-
----
-
-@nbcnews.com
-
-A U.S. judge temporarily blocks the Trump administration from detaining British anti-disinformation campaigner Imran Ahmed, after the U.S. permanent resident sued officials over an entry ban.
-
-[2025-12-27 05:00:16](https://bsky.app/profile/nbcnews.com/post/3maw3fu2vgk23)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com
-
-“As 2025 limps toward its end, there are reasons to be hopeful,” our columnist Michelle Goldberg writes. “That’s because of millions of people throughout the country who have refused to surrender to this administration’s bullying.”
-
-[2025-12-27 05:00:05](https://bsky.app/profile/nytimes.com/post/3maw3fjmqzq2y)
 
 ---
 
