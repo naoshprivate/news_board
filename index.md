@@ -1,9 +1,9 @@
-# [2025-12-27 12:30 updated](2025_12_27.md)
+# [2025-12-27 12:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">「トケマッチ」元代表ら オンラインカジノ関係口座に送金か https://news.web.nhk/newsweb/na/na-k10015015411000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawu22nzjw2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 12:21:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】ファミリーレストランで火事 開店作業中に出火か 店内にいた店員は全員無事確認 大阪・吹田市 (2025-12-27 12:10) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mawtzwkhl42b" target="_blank">sokuho.news</a> (2025-12-27 12:21:00)</span><span style="padding-right:50px;">China's industrial profits tumble at fastest pace in over a year reut.rs/44JPBje <a href="https://bsky.app/profile/reuters.com/post/3mawtyjvzdy2i" target="_blank">reuters.com</a> (2025-12-27 12:20:13)</span><span style="padding-right:50px;">Excessive prescription refilling by mail-order pharmacies leaves piles of unneeded pills. “Every time, there are 15 extra pills.” on.wsj.com/4pYFPT0 <a href="https://bsky.app/profile/wsj.com/post/3mawtwpxaka2s" target="_blank">wsj.com</a> (2025-12-27 12:19:12)</span><span style="padding-right:50px;">A day after part of a missile fired by the United States hit their village, landing just meters from its only medical facility, the villagers of Jabo in northwest Nigeria are in a state of shock and confusion.  <a href="https://bsky.app/profile/cnn.com/post/3mawtnh6fn32t" target="_blank">cnn.com</a> (2025-12-27 12:14:01)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「友人1人が海中転落し流された。至急救助してください。」釣りをしていた男性が海に転落 行方不明に 山口・長門 (2025-12-27 12:23:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mawviltb4j2r" target="_blank">sokuho.news</a> (2025-12-27 12:47:06)</span><span style="padding-right:50px;">Two years ago, James Nnaji was drafted into the NBA. Now, after playing in the development league, he’s headed to college hoops instead. on.wsj.com/3L0uX7V <a href="https://bsky.app/profile/wsj.com/post/3mawv25dfoa2u" target="_blank">wsj.com</a> (2025-12-27 12:39:01)</span><span style="padding-right:50px;">１２月の金融政策決定会合で日銀が０．２５％の利上げをしたにもかかわらず、円安進行が止まらない。これから年末年始にかけて、やや投機的な取引が増えて予想以上に円安が進むのではないかと強く警戒される。筆者は、次の利上げが多くの人が考えるよりも前倒しで行われる可能性が高まっているとみる。 bit.ly/4b71Ytu <a href="https://bsky.app/profile/japan.reuters.com/post/3mawukttcty2c" target="_blank">japan.reuters.com</a> (2025-12-27 12:30:28)</span><span style="padding-right:50px;">At the summit of Mount Fuji, hot bowls of soup await with thick udon noodles swimming in broth.  Many climbers swear that the exhaustion makes the food taste better at 12,400 feet. Post photojournalist Salwan Georges wanted to find out if that was true. https://wapo.st/4b6EAMI <a href="https://bsky.app/profile/washingtonpost.com/post/3mawuk44euj2e" target="_blank">washingtonpost.com</a> (2025-12-27 12:30:03)</span><span style="padding-right:50px;">「トケマッチ」元代表ら オンラインカジノ関係口座に送金か https://news.web.nhk/newsweb/na/na-k10015015411000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawu22nzjw2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 12:21:02)</span>
   </div>
 </div>
 
@@ -32,15 +32,52 @@
 
 ## News Headlines
 
-- Japan's former Tokemachi leader suspected of sending money to online casino account
-- Fire at family restaurant in Osaka, Japan, may have been caused by an accident during opening preparations
-- China sees biggest drop in industrial profits in over a year
-- Excessive prescription refilling by mail-order pharmacies leaves piles of unneeded pills
-- Missile fired by US hits village in Nigeria, causing shock and confusion
-- Former employee suspected of stabbing 15 people at factory in Shizuoka, Japan
+- Missing Man Rescued After Falling into the Sea While Fishing in Yamaguchi Prefecture
+- James Nnaji Trades NBA for College Hoops
+- Bank of Japan's Interest Rate Hike Fails to Stem Yen's Decline
+- Fire Breaks Out at Family Restaurant in Osaka Prefecture
+- China's Industrial Profits Plummet at Fastest Pace in Over a Year
+- Trump Administration Wants to Regulate Data Centers' Access to Power Grid
 
 
 ----
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】「友人1人が海中転落し流された。至急救助してください。」釣りをしていた男性が海に転落 行方不明に 山口・長門
+(2025-12-27 12:23:00) #ニュース
+
+[2025-12-27 12:47:06](https://bsky.app/profile/sokuho.news/post/3mawviltb4j2r)
+
+---
+
+@wsj.com
+
+Two years ago, James Nnaji was drafted into the NBA. Now, after playing in the development league, he’s headed to college hoops instead. on.wsj.com/3L0uX7V
+
+[2025-12-27 12:39:01](https://bsky.app/profile/wsj.com/post/3mawv25dfoa2u)
+
+---
+
+@japan.reuters.com
+
+１２月の金融政策決定会合で日銀が０．２５％の利上げをしたにもかかわらず、円安進行が止まらない。これから年末年始にかけて、やや投機的な取引が増えて予想以上に円安が進むのではないかと強く警戒される。筆者は、次の利上げが多くの人が考えるよりも前倒しで行われる可能性が高まっているとみる。 bit.ly/4b71Ytu
+
+[2025-12-27 12:30:28](https://bsky.app/profile/japan.reuters.com/post/3mawukttcty2c)
+
+---
+
+@washingtonpost.com
+
+At the summit of Mount Fuji, hot bowls of soup await with thick udon noodles swimming in broth.
+
+Many climbers swear that the exhaustion makes the food taste better at 12,400 feet. Post photojournalist Salwan Georges wanted to find out if that was true. https://wapo.st/4b6EAMI
+
+[2025-12-27 12:30:03](https://bsky.app/profile/washingtonpost.com/post/3mawuk44euj2e)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -91,40 +128,6 @@ A day after part of a missile fired by the United States hit their village, land
 米プロバスケットボール協会（ＮＢＡ）マーベリックスのスターフォワード、アンソニー・デービス（３２）が、そけい部の軽度の筋損傷により数試合を欠場する可能性が高いと、米ＥＳＰＮが２６日に報じた。 bit.ly/4pezGRg
 
 [2025-12-27 12:09:57](https://bsky.app/profile/japan.reuters.com/post/3mawtg6fmpr2f)
-
----
-
-@nhknewsunofficial.bsky.social
-
-静岡 三島の工場 15人刺傷事件 容疑者は元従業員 経緯を捜査
-https://news.web.nhk/newsweb/na/na-k10015015371000
-
-[2025-12-27 12:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawt77ykxu2x)
-
----
-
-@wsj.com
-
-The Trump administration wants to control how data centers connect to the power grid. on.wsj.com/4q2lOem
-
-[2025-12-27 12:03:48](https://bsky.app/profile/wsj.com/post/3mawt36e5db2z)
-
----
-
-@wsj.com
-
-Lynn Lee bounced back with a new job after every previous layoff. Can she do it again? on.wsj.com/49cS9Yu
-
-[2025-12-27 12:03:39](https://bsky.app/profile/wsj.com/post/3mawt2vxqjv2g)
-
----
-
-@nhknewsunofficial.bsky.social
-
-帰省ラッシュ始まる 新幹線・航空・高速道路は混雑
-https://news.web.nhk/newsweb/na/na-k10015015161000
-
-[2025-12-27 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawszurzpr2y)
 
 ---
 
