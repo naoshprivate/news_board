@@ -1,9 +1,9 @@
-# [2025-12-28 06:10 updated](2025_12_28.md)
+# [2025-12-28 06:30 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">公立学校教員の採用倍率は2.9倍 4年連続で過去最低に https://news.web.nhk/newsweb/na/na-k10015015631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mayppt57is2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 06:09:03)</span><span style="padding-right:50px;">戦争体験で心に傷 元兵士ら約300人の医療記録 分析進める https://news.web.nhk/newsweb/na/na-k10015015661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maypkgc6wg24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 06:06:02)</span><span style="padding-right:50px;">Hockey Canada apologises for handshake oversight after win over Czechia reut.rs/4qsSNbq <a href="https://bsky.app/profile/reuters.com/post/3maypiqpj3d2k" target="_blank">reuters.com</a> (2025-12-28 06:05:08)</span><span style="padding-right:50px;">A second actor has sued the filmmaker Tyler Perry, accusing him of sexual assault and seeking $77 million in damages, according to a complaint filed Thursday in the Los Angeles Superior Court. <a href="https://bsky.app/profile/nytimes.com/post/3maypinwuuk2y" target="_blank">nytimes.com</a> (2025-12-28 06:05:05)</span><span style="padding-right:50px;">28日からミャンマー総選挙 軍が民主派排除 批判広がる https://news.web.nhk/newsweb/na/na-k10015015691000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maypf2qt5s2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 06:03:02)</span>
+<span style="padding-right:50px;">Comeback kings Villa turn the tables again, this time on Chelsea reut.rs/4qyEClf <a href="https://bsky.app/profile/reuters.com/post/3mayqmiusot2c" target="_blank">reuters.com</a> (2025-12-28 06:25:08)</span><span style="padding-right:50px;">The business executive and TV personality on his nomadic childhood, learning to be a marksman and his mother’s financial secret. on.wsj.com/3YMhAv2 <a href="https://bsky.app/profile/wsj.com/post/3maypuf7ppy2z" target="_blank">wsj.com</a> (2025-12-28 06:11:38)</span><span style="padding-right:50px;">Mickey Lee, a contestant on the latest season of the television show “Big Brother,” who was known for her vibrant personality and bold strategic moves to survive the game, died on Thursday. She was 35. <a href="https://bsky.app/profile/nytimes.com/post/3mayprmuatd2r" target="_blank">nytimes.com</a> (2025-12-28 06:10:06)</span><span style="padding-right:50px;">公立学校教員の採用倍率は2.9倍 4年連続で過去最低に https://news.web.nhk/newsweb/na/na-k10015015631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mayppt57is2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 06:09:03)</span><span style="padding-right:50px;">戦争体験で心に傷 元兵士ら約300人の医療記録 分析進める https://news.web.nhk/newsweb/na/na-k10015015661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maypkgc6wg24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 06:06:02)</span>
   </div>
 </div>
 
@@ -32,15 +32,39 @@
 
 ## News Headlines
 
-- Japanese Public School Teachers' Hiring Ratio Reaches 2.9 Times, Lowest in 4 Consecutive Years
-- War Experience Leaves Scars: Analysis of Medical Records of Approximately 300 Veterans
-- Hockey Canada Apologizes for Handshake Oversights After Win Over Czechia
-- Actor Sues Tyler Perry for $77 Million in Damages, Alleging Sexual Assault
-- Myanmar's Military to Exclude Opposition Parties from Upcoming Election
-- Tokyo Records First Winter Day of the Season with Temperature Below 0°C
+- Comeback Kings Villa Turn Tables Again on Chelsea
+- Business Executive Shares Life Story of Nomadic Childhood, Marksmanship, and Mother's Secret
+- Big Brother Contestant Mickey Lee Dies at 35
+- Hospital Records of 300 Soldiers to be Analyzed for War Trauma
+- Hockey Canada Apologizes for Handshake Oversight After Win Over Czechia
+- Second Actor Sues Tyler Perry for $77 Million Over Alleged Sexual Assault
 
 
 ----
+
+@reuters.com
+
+Comeback kings Villa turn the tables again, this time on Chelsea reut.rs/4qyEClf
+
+[2025-12-28 06:25:08](https://bsky.app/profile/reuters.com/post/3mayqmiusot2c)
+
+---
+
+@wsj.com
+
+The business executive and TV personality on his nomadic childhood, learning to be a marksman and his mother’s financial secret. on.wsj.com/3YMhAv2
+
+[2025-12-28 06:11:38](https://bsky.app/profile/wsj.com/post/3maypuf7ppy2z)
+
+---
+
+@nytimes.com
+
+Mickey Lee, a contestant on the latest season of the television show “Big Brother,” who was known for her vibrant personality and bold strategic moves to survive the game, died on Thursday. She was 35.
+
+[2025-12-28 06:10:06](https://bsky.app/profile/nytimes.com/post/3mayprmuatd2r)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -101,32 +125,6 @@ https://news.web.nhk/newsweb/na/na-k10015015691000
 A Cuban immigrant who had built a new life working at a Kentucky scrapyard died on Christmas Day from severe burns suffered in last month's UPS cargo plane crash, raising the death toll to 15, officials said. https://cnn.it/3YNSqw8
 
 [2025-12-28 06:01:02](https://bsky.app/profile/cnn.com/post/3maypbfznw32q)
-
----
-
-@usatoday.com
-
-The last Saturday of the calendar year is appropriately filled with college football games. A breakdown of the eight bowl matchups that fill the day.
-
-[2025-12-28 06:00:29](https://bsky.app/profile/usatoday.com/post/3maypaggthn2w)
-
----
-
-@cnbc.com
-
-Dhruv Amin and Marcus Lowe shut down their developer marketplace in 2023 after predicting that the AI revolution would render their business model obsolete.
-
-Then, they shuttered the whole thing to start over from scratch — all due to ChatGPT, says Amin.
-
-[2025-12-28 06:00:16](https://bsky.app/profile/cnbc.com/post/3maypa2epgq2m)
-
----
-
-@washingtonpost.com
-
-Gretchen Mogensen had a choice: tell the government where the baby giraffes were or go to jail. She chose jail. The whereabouts of the two giraffe calves remain a mystery and animal welfare activists have gone undercover to help.
-
-[2025-12-28 06:00:11](https://bsky.app/profile/washingtonpost.com/post/3mayp7vqbah2i)
 
 ---
 
