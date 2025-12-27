@@ -1,9 +1,9 @@
-# [2025-12-27 20:50 updated](2025_12_27.md)
+# [2025-12-27 21:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Drugs like Adderall and Ritalin appear to help children with ADHD by activating brain areas involved in alertness and motivation. n.pr/4jgkEJy <a href="https://bsky.app/profile/npr.org/post/3maxqcaqirm2n" target="_blank">npr.org</a> (2025-12-27 20:46:44)</span><span style="padding-right:50px;">関越道 多重事故 2人死亡 26人重軽傷 通行止め続く https://news.web.nhk/newsweb/na/na-k10015015301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxq7binmq2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 20:45:02)</span><span style="padding-right:50px;">北朝鮮の金正恩朝鮮労働党総書記はロシアのプーチン大統領に新年の祝賀メッセージを送った。北朝鮮国営朝鮮中央通信（ＫＣＮＡ）が２７日報じた。 bit.ly/3MUXexh <a href="https://bsky.app/profile/japan.reuters.com/post/3maxq2axdoe2u" target="_blank">japan.reuters.com</a> (2025-12-27 20:42:16)</span><span style="padding-right:50px;">おせち食材が続々最高値　イクラ2倍、供給減や円安響く www.nikkei.com/article/DGXZQO...  北米産の白身魚を原料とするかまぼこや、東南アジアで養殖したエビも1割値上がりしました。  食材高騰で、おせちの店頭価格を2割上げた業者も。  節約志向から1万円台のおせちと、株高による資産効果で5万円以上の豪華版が人気という二極化現象が生じています。 <a href="https://bsky.app/profile/nikkei.com/post/3maxpfihkq72m" target="_blank">nikkei.com</a> (2025-12-27 20:30:39)</span><span style="padding-right:50px;">南アフリカ東部の港町ダーバン。子ども３人を育てる父親ドゥバンドレラさん（５６）は、７月、２０歳の息子がロシアでのＶＩＰ警護の精鋭訓練に応募したとき、誇らしさで胸がいっぱいになった。 bit.ly/4jzmBRD <a href="https://bsky.app/profile/japan.reuters.com/post/3maxperg2wr2s" target="_blank">japan.reuters.com</a> (2025-12-27 20:30:15)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】広島市安芸区中野で住宅火災 (2025-12-27 20:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxreci6l32b" target="_blank">sokuho.news</a> (2025-12-27 21:05:46)</span><span style="padding-right:50px;">We're taking stock of this year's notable holiday movies, with titles including such gems as Oy to the World!, Christmas at the Catnip Cafe, A Merry Little Ex-Mas, and A Pickleball Christmas. <a href="https://bsky.app/profile/npr.org/post/3maxrdzr3vr23" target="_blank">npr.org</a> (2025-12-27 21:05:37)</span><span style="padding-right:50px;">When the screens are out of the way, kids are back to being kids—without the temptation to zone out electronically. on.wsj.com/4pVNKAl <a href="https://bsky.app/profile/wsj.com/post/3maxrabi25v2k" target="_blank">wsj.com</a> (2025-12-27 21:03:31)</span><span style="padding-right:50px;">Two exhibitions—the Philadelphia Art Museum’s ‘Dreamworld: Surrealism at 100’ and the Metropolitan Museum of Art’s ‘Man Ray: When Objects Dream’—highlight the movement’s weird, witty and wondrous creations. on.wsj.com/49bOpXo <a href="https://bsky.app/profile/wsj.com/post/3maxr7tryp42o" target="_blank">wsj.com</a> (2025-12-27 21:03:17)</span><span style="padding-right:50px;">駄菓子屋で買えた、あのスチロール製の飛行機「ソフトグライダー」。埼玉県戸田市にある「ツバメ玩具製作所」は、国内に残る唯一のメーカーです。 www.nikkei.com/article/DGXZQO...  #2025年読まれた記事 <a href="https://bsky.app/profile/nikkei.com/post/3maxr372yxp2m" target="_blank">nikkei.com</a> (2025-12-27 21:00:41)</span>
   </div>
 </div>
 
@@ -32,15 +32,88 @@
 
 ## News Headlines
 
-- Drugs like Adderall and Ritalin help children with ADHD by activating brain areas involved in alertness and motivation
-- 2 dead and 26 injured in multiple accidents on Japan's Kan-Etsu Expressway
-- North Korea's Kim sends New Year's greetings to Russian President Putin
-- Seafood prices surge to record highs ahead of New Year's celebrations
-- Ukrainian President Zelenskyy to meet with US President Biden on January 28
-- Thai and Cambodian militaries agree to ceasefire after deadly border clashes
+- Multiple Accidents on Kanetsu Expressway in Japan
+- Ukrainian President Zelenskyy to Meet with US President Trump
+- Glaciers in Tajikistan Resist Melting Due to Mysterious Ice Cores
+- Multiple Fatalities in Japan's Kanetsu Expressway Accident
+- Zelenskyy Accuses Russia of Inflicting Suffering on Ukraine
+- North Korea's Kim Sends New Year's Greeting to Putin
 
 
 ----
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】広島市安芸区中野で住宅火災
+(2025-12-27 20:45) #ニュース
+
+[2025-12-27 21:05:46](https://bsky.app/profile/sokuho.news/post/3maxreci6l32b)
+
+---
+
+@npr.org
+
+We're taking stock of this year's notable holiday movies, with titles including such gems as Oy to the World!, Christmas at the Catnip Cafe, A Merry Little Ex-Mas, and A Pickleball Christmas.
+
+[2025-12-27 21:05:37](https://bsky.app/profile/npr.org/post/3maxrdzr3vr23)
+
+---
+
+@wsj.com
+
+When the screens are out of the way, kids are back to being kids—without the temptation to zone out electronically. on.wsj.com/4pVNKAl
+
+[2025-12-27 21:03:31](https://bsky.app/profile/wsj.com/post/3maxrabi25v2k)
+
+---
+
+@wsj.com
+
+Two exhibitions—the Philadelphia Art Museum’s ‘Dreamworld: Surrealism at 100’ and the Metropolitan Museum of Art’s ‘Man Ray: When Objects Dream’—highlight the movement’s weird, witty and wondrous creations. on.wsj.com/49bOpXo
+
+[2025-12-27 21:03:17](https://bsky.app/profile/wsj.com/post/3maxr7tryp42o)
+
+---
+
+@nikkei.com
+
+駄菓子屋で買えた、あのスチロール製の飛行機「ソフトグライダー」。埼玉県戸田市にある「ツバメ玩具製作所」は、国内に残る唯一のメーカーです。
+www.nikkei.com/article/DGXZQO...
+
+#2025年読まれた記事
+
+[2025-12-27 21:00:41](https://bsky.app/profile/nikkei.com/post/3maxr372yxp2m)
+
+---
+
+@usatoday.com
+
+These aren't the best shows, movies or productions of the year. We're talking about individual performances in 2025. Here are the best.
+
+[2025-12-27 21:00:23](https://bsky.app/profile/usatoday.com/post/3maxr2nklea25)
+
+---
+
+@en.afp.com
+
+🧊 The ice cores that could help save the world's glaciers
+
+Glaciologists hope fist-sized chunks of ice could help them understand why the glaciers in Tajikistan are the only ones to resist rapid melting seen almost everywhere else.
+
+[2025-12-27 21:00:11](https://bsky.app/profile/en.afp.com/post/3maxr2cf7ek2x)
+
+---
+
+@cnn.com
+
+"The Federal Reserve’s policy decisions in recent years have exacerbated economic inequality in America, and some of the central bank’s policymakers say it’s not a problem they can easily fix," Bryan Mena writes | Analysis
+https://cnn.it/3YMQFPQ
+
+[2025-12-27 21:00:09](https://bsky.app/profile/cnn.com/post/3maxr2ahbav25)
+
+---
 
 @npr.org
 
@@ -56,83 +129,6 @@ Drugs like Adderall and Ritalin appear to help children with ADHD by activating 
 https://news.web.nhk/newsweb/na/na-k10015015301000
 
 [2025-12-27 20:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxq7binmq2d)
-
----
-
-@japan.reuters.com
-
-北朝鮮の金正恩朝鮮労働党総書記はロシアのプーチン大統領に新年の祝賀メッセージを送った。北朝鮮国営朝鮮中央通信（ＫＣＮＡ）が２７日報じた。 bit.ly/3MUXexh
-
-[2025-12-27 20:42:16](https://bsky.app/profile/japan.reuters.com/post/3maxq2axdoe2u)
-
----
-
-@nikkei.com
-
-おせち食材が続々最高値　イクラ2倍、供給減や円安響く
-www.nikkei.com/article/DGXZQO...
-
-北米産の白身魚を原料とするかまぼこや、東南アジアで養殖したエビも1割値上がりしました。
-
-食材高騰で、おせちの店頭価格を2割上げた業者も。
-
-節約志向から1万円台のおせちと、株高による資産効果で5万円以上の豪華版が人気という二極化現象が生じています。
-
-[2025-12-27 20:30:39](https://bsky.app/profile/nikkei.com/post/3maxpfihkq72m)
-
----
-
-@japan.reuters.com
-
-南アフリカ東部の港町ダーバン。子ども３人を育てる父親ドゥバンドレラさん（５６）は、７月、２０歳の息子がロシアでのＶＩＰ警護の精鋭訓練に応募したとき、誇らしさで胸がいっぱいになった。 bit.ly/4jzmBRD
-
-[2025-12-27 20:30:15](https://bsky.app/profile/japan.reuters.com/post/3maxperg2wr2s)
-
----
-
-@apnews.com
-
-Ukrainian President Volodymyr Zelenskyy says several key issues remain unresolved in negotiations with the United States over a framework to end Russia's war.
-
-[2025-12-27 20:30:13](https://bsky.app/profile/apnews.com/post/3maxpepitxp2u)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】JR中央線快速電車の東京駅－高尾駅（上下線）などで運転見合わせ 荻窪駅の人身事故の影響 午後8時50分頃の再開見込み
-(2025-12-27 20:27:24) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-27 20:30:09](https://bsky.app/profile/sokuho.news/post/3maxpemh5ky2b)
-
----
-
-@aljazeera.com
-
-Zelenskyy accuses Russia's leadership of using 'every opportunity' to inflict 'greater suffering' on Ukraine.
-
-[2025-12-27 20:30:04](https://bsky.app/profile/aljazeera.com/post/3maxpegwcys2e)
-
----
-
-@reuters.com
-
-FIS president sees progress in Livigno's 2026 Winter Games preparation reut.rs/4peKGOy
-
-[2025-12-27 20:25:07](https://bsky.app/profile/reuters.com/post/3maxp3lrrp324)
-
----
-
-@wsj.com
-
-Retirement is out of the question for Lynn Lee, 65 and laid off from a soybean plant. Now she is competing with a legion of other job seekers.
-
-[2025-12-27 20:17:30](https://bsky.app/profile/wsj.com/post/3maxonxtuvq2z)
 
 ---
 
