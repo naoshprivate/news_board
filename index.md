@@ -1,9 +1,9 @@
-# [2025-12-27 20:30 updated](2025_12_27.md)
+# [2025-12-27 20:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">FIS president sees progress in Livigno's 2026 Winter Games preparation reut.rs/4peKGOy <a href="https://bsky.app/profile/reuters.com/post/3maxp3lrrp324" target="_blank">reuters.com</a> (2025-12-27 20:25:07)</span><span style="padding-right:50px;">Retirement is out of the question for Lynn Lee, 65 and laid off from a soybean plant. Now she is competing with a legion of other job seekers. <a href="https://bsky.app/profile/wsj.com/post/3maxonxtuvq2z" target="_blank">wsj.com</a> (2025-12-27 20:17:30)</span><span style="padding-right:50px;">Spanish family missing after boat sinks off Indonesia reut.rs/45rxsH4 <a href="https://bsky.app/profile/reuters.com/post/3maxojshgnp2k" target="_blank">reuters.com</a> (2025-12-27 20:15:10)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】安芸区中野で建物火災 消防車9台が出動し消火活動 広島 (2025-12-27 20:06:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxo7qlqfe2y" target="_blank">sokuho.news</a> (2025-12-27 20:09:32)</span><span style="padding-right:50px;">ゼレンスキー大統領 トランプ大統領と28日会談へ 詰めの協議を https://news.web.nhk/newsweb/na/na-k10015015601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxo6wasy32m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 20:09:03)</span>
+<span style="padding-right:50px;">Drugs like Adderall and Ritalin appear to help children with ADHD by activating brain areas involved in alertness and motivation. n.pr/4jgkEJy <a href="https://bsky.app/profile/npr.org/post/3maxqcaqirm2n" target="_blank">npr.org</a> (2025-12-27 20:46:44)</span><span style="padding-right:50px;">関越道 多重事故 2人死亡 26人重軽傷 通行止め続く https://news.web.nhk/newsweb/na/na-k10015015301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxq7binmq2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 20:45:02)</span><span style="padding-right:50px;">北朝鮮の金正恩朝鮮労働党総書記はロシアのプーチン大統領に新年の祝賀メッセージを送った。北朝鮮国営朝鮮中央通信（ＫＣＮＡ）が２７日報じた。 bit.ly/3MUXexh <a href="https://bsky.app/profile/japan.reuters.com/post/3maxq2axdoe2u" target="_blank">japan.reuters.com</a> (2025-12-27 20:42:16)</span><span style="padding-right:50px;">おせち食材が続々最高値　イクラ2倍、供給減や円安響く www.nikkei.com/article/DGXZQO...  北米産の白身魚を原料とするかまぼこや、東南アジアで養殖したエビも1割値上がりしました。  食材高騰で、おせちの店頭価格を2割上げた業者も。  節約志向から1万円台のおせちと、株高による資産効果で5万円以上の豪華版が人気という二極化現象が生じています。 <a href="https://bsky.app/profile/nikkei.com/post/3maxpfihkq72m" target="_blank">nikkei.com</a> (2025-12-27 20:30:39)</span><span style="padding-right:50px;">南アフリカ東部の港町ダーバン。子ども３人を育てる父親ドゥバンドレラさん（５６）は、７月、２０歳の息子がロシアでのＶＩＰ警護の精鋭訓練に応募したとき、誇らしさで胸がいっぱいになった。 bit.ly/4jzmBRD <a href="https://bsky.app/profile/japan.reuters.com/post/3maxperg2wr2s" target="_blank">japan.reuters.com</a> (2025-12-27 20:30:15)</span>
   </div>
 </div>
 
@@ -32,15 +32,93 @@
 
 ## News Headlines
 
-- FIS President Sees Progress in Livigno's 2026 Winter Games Preparation
-- Retiree Competes with Younger Job Seekers After Laid Off from Soybean Plant
-- Spanish Family Goes Missing After Boat Sinks Off Indonesia
-- Zelenskyy to Meet Trump for Talks as Ukraine Faces Ongoing Russian Attacks
-- Multiple-Car Pileup on Japan's Kanetsu Expressway Causes Delays
-- Rare Flat-Headed Cat Sighted on Malaysia's Borneo Island
+- Drugs like Adderall and Ritalin help children with ADHD by activating brain areas involved in alertness and motivation
+- 2 dead and 26 injured in multiple accidents on Japan's Kan-Etsu Expressway
+- North Korea's Kim sends New Year's greetings to Russian President Putin
+- Seafood prices surge to record highs ahead of New Year's celebrations
+- Ukrainian President Zelenskyy to meet with US President Biden on January 28
+- Thai and Cambodian militaries agree to ceasefire after deadly border clashes
 
 
 ----
+
+@npr.org
+
+Drugs like Adderall and Ritalin appear to help children with ADHD by activating brain areas involved in alertness and motivation. n.pr/4jgkEJy
+
+[2025-12-27 20:46:44](https://bsky.app/profile/npr.org/post/3maxqcaqirm2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+関越道 多重事故 2人死亡 26人重軽傷 通行止め続く
+https://news.web.nhk/newsweb/na/na-k10015015301000
+
+[2025-12-27 20:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxq7binmq2d)
+
+---
+
+@japan.reuters.com
+
+北朝鮮の金正恩朝鮮労働党総書記はロシアのプーチン大統領に新年の祝賀メッセージを送った。北朝鮮国営朝鮮中央通信（ＫＣＮＡ）が２７日報じた。 bit.ly/3MUXexh
+
+[2025-12-27 20:42:16](https://bsky.app/profile/japan.reuters.com/post/3maxq2axdoe2u)
+
+---
+
+@nikkei.com
+
+おせち食材が続々最高値　イクラ2倍、供給減や円安響く
+www.nikkei.com/article/DGXZQO...
+
+北米産の白身魚を原料とするかまぼこや、東南アジアで養殖したエビも1割値上がりしました。
+
+食材高騰で、おせちの店頭価格を2割上げた業者も。
+
+節約志向から1万円台のおせちと、株高による資産効果で5万円以上の豪華版が人気という二極化現象が生じています。
+
+[2025-12-27 20:30:39](https://bsky.app/profile/nikkei.com/post/3maxpfihkq72m)
+
+---
+
+@japan.reuters.com
+
+南アフリカ東部の港町ダーバン。子ども３人を育てる父親ドゥバンドレラさん（５６）は、７月、２０歳の息子がロシアでのＶＩＰ警護の精鋭訓練に応募したとき、誇らしさで胸がいっぱいになった。 bit.ly/4jzmBRD
+
+[2025-12-27 20:30:15](https://bsky.app/profile/japan.reuters.com/post/3maxperg2wr2s)
+
+---
+
+@apnews.com
+
+Ukrainian President Volodymyr Zelenskyy says several key issues remain unresolved in negotiations with the United States over a framework to end Russia's war.
+
+[2025-12-27 20:30:13](https://bsky.app/profile/apnews.com/post/3maxpepitxp2u)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】JR中央線快速電車の東京駅－高尾駅（上下線）などで運転見合わせ 荻窪駅の人身事故の影響 午後8時50分頃の再開見込み
+(2025-12-27 20:27:24) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-27 20:30:09](https://bsky.app/profile/sokuho.news/post/3maxpemh5ky2b)
+
+---
+
+@aljazeera.com
+
+Zelenskyy accuses Russia's leadership of using 'every opportunity' to inflict 'greater suffering' on Ukraine.
+
+[2025-12-27 20:30:04](https://bsky.app/profile/aljazeera.com/post/3maxpegwcys2e)
+
+---
 
 @reuters.com
 
@@ -55,86 +133,6 @@ FIS president sees progress in Livigno's 2026 Winter Games preparation reut.rs/4
 Retirement is out of the question for Lynn Lee, 65 and laid off from a soybean plant. Now she is competing with a legion of other job seekers.
 
 [2025-12-27 20:17:30](https://bsky.app/profile/wsj.com/post/3maxonxtuvq2z)
-
----
-
-@reuters.com
-
-Spanish family missing after boat sinks off Indonesia reut.rs/45rxsH4
-
-[2025-12-27 20:15:10](https://bsky.app/profile/reuters.com/post/3maxojshgnp2k)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】安芸区中野で建物火災 消防車9台が出動し消火活動 広島
-(2025-12-27 20:06:00) #ニュース
-
-[2025-12-27 20:09:32](https://bsky.app/profile/sokuho.news/post/3maxo7qlqfe2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ゼレンスキー大統領 トランプ大統領と28日会談へ 詰めの協議を
-https://news.web.nhk/newsweb/na/na-k10015015601000
-
-[2025-12-27 20:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxo6wasy32m)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】関越道67台の多重事故 「27日中の通行止め解除は難しい」NEXCO東日本 午後7時現在
-(2025-12-27 20:00:41) #ニュース
-
-[2025-12-27 20:04:49](https://bsky.app/profile/sokuho.news/post/3maxnxckzli2a)
-
----
-
-@sokuho.news
-
-🛎️産経より【独自】です。
-
-＜独自＞武器輸出、協定締結国条件に 「5類型」撤廃の歯止め 政府・与党
-(2025/12/27 19:59) #ニュース
-https://www.sankei.com/article/20251227-XBRVCDF5BFPFPCWWSHOMBXJ4JU/
-
-[2025-12-27 20:02:10](https://bsky.app/profile/sokuho.news/post/3maxnslbg6l2s)
-
----
-
-@nikkei.com
-
-「ピンクは女性の色」思い込みは第2次大戦後、米国から
-www.nikkei.com/article/DGXZQO...
-
-#2025年読まれた記事
-
-[2025-12-27 20:00:51](https://bsky.app/profile/nikkei.com/post/3maxnq7mzha2x)
-
----
-
-@cnbc.com
-
-Nabeel Khan was methodical in building his career at Amazon, rising the ranks quickly from operations manager to project manager to product manager.
-
-Here’s how he built his career at the tech giant and made the transition to entrepreneurship, and a look at his life in Brooklyn, New York.
-
-[2025-12-27 20:00:15](https://bsky.app/profile/cnbc.com/post/3maxnp55lil2e)
-
----
-
-@bloomberg.com
-
-Here's how Taiwan's planned T-Dome defense shield would ward off Chinese aerial attacks 
-
-[2025-12-27 20:00:14](https://bsky.app/profile/bloomberg.com/post/3maxnp4ckje23)
 
 ---
 
