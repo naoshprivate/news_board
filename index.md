@@ -1,9 +1,9 @@
-# [2025-12-27 13:50 updated](2025_12_27.md)
+# [2025-12-27 14:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】高松市屋島西町の海岸で男性の遺体がみつかる【香川】 (2025-12-27 13:33:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mawyujmfrw27" target="_blank">sokuho.news</a> (2025-12-27 13:47:27)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】軍事衝突のタイとカンボジア “停戦合意”の共同声明 両国防相が会談 (2025-12-27 13:43:19) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mawyovomhs2x" target="_blank">sokuho.news</a> (2025-12-27 13:44:19)</span><span style="padding-right:50px;">At least 7 killed in Vietnam after bus overturns reut.rs/49cUUci <a href="https://bsky.app/profile/reuters.com/post/3mawyhiar5t2i" target="_blank">reuters.com</a> (2025-12-27 13:40:10)</span><span style="padding-right:50px;">タイとカンボジアの軍事衝突 停戦で合意 https://news.web.nhk/newsweb/na/na-k10015015471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawyfklnzp26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 13:39:03)</span><span style="padding-right:50px;">群馬 関越道で多重事故 車内から新たに1人の遺体 死者2人に https://news.web.nhk/newsweb/na/na-k10015015301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawya6okes24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 13:36:02)</span>
+<span style="padding-right:50px;"> Aldi’s cut-price Napa Cab is a bad omen for northern California wine ft.trib.al/Xt2nDy4  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mawzya37xn2p" target="_blank">financialtimes.com</a> (2025-12-27 14:07:25)</span><span style="padding-right:50px;"> The curious signal sent by HSBC ft.trib.al/Rn4fdGg  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mawzy7okst2w" target="_blank">financialtimes.com</a> (2025-12-27 14:07:25)</span><span style="padding-right:50px;">夫婦別々「セパレート帰省」6割　義実家行かず www.nikkei.com/article/DGXZQO...  女性や20〜30代の若年世代を中心に支持を集めています。  理由は「金銭負担を抑えられる」「気苦労から解放される」など様々。  帰省を迎える側でも、「子や孫に会えれば十分」との考えが広まりつつあるようです。 <a href="https://bsky.app/profile/nikkei.com/post/3mawzmjwbk422" target="_blank">nikkei.com</a> (2025-12-27 14:00:53)</span><span style="padding-right:50px;">Some doctors say the chemicals all around us—from golf courses to dry cleaners—may be increasing our risk of Parkinson’s disease, the fastest-growing neurodegenerative disease in the world.  Read more: on.wsj.com/3LeGBfq <a href="https://bsky.app/profile/wsj.com/post/3mawzmdx77v2i" target="_blank">wsj.com</a> (2025-12-27 14:00:46)</span><span style="padding-right:50px;">England 98 runs from victory at tea, eight wickets in hand reut.rs/3Liy0bC <a href="https://bsky.app/profile/reuters.com/post/3mawzm6u3tc2s" target="_blank">reuters.com</a> (2025-12-27 14:00:41)</span>
   </div>
 </div>
 
@@ -32,101 +32,107 @@
 
 ## News Headlines
 
-- Body found on coast in Takamatsu, Japan
+- Aldi’s cut-price Napa Cab is a bad omen for northern California wine
+- HSBC sends a curious signal
+- Most couples now return to their hometowns separately, with 6 in 10 not visiting their in-laws
+- Chemicals in the environment may be linked to increase in Parkinson’s disease
+- England on the brink of victory with 98 runs needed to win
 - Thailand and Cambodia agree on ceasefire
-- 7 killed in Vietnam bus crash
-- Multiple fatalities in triple car accident on Japan's Joshin'etsu Expressway
-- Longtime guitarist and keyboardist for The Cure dies at 65
-- US officials consider boarding oil tanker in international waters near Venezuela
 
 
 ----
 
-@sokuho.news
+@financialtimes.com
 
-🛎️JNNより【速報】です。
+ Aldi’s cut-price Napa Cab is a bad omen for northern California wine ft.trib.al/Xt2nDy4  | opinion
 
-【速報】高松市屋島西町の海岸で男性の遺体がみつかる【香川】
-(2025-12-27 13:33:00) #ニュース
-
-[2025-12-27 13:47:27](https://bsky.app/profile/sokuho.news/post/3mawyujmfrw27)
+[2025-12-27 14:07:25](https://bsky.app/profile/financialtimes.com/post/3mawzya37xn2p)
 
 ---
 
-@sokuho.news
+@financialtimes.com
 
-🛎️JNNより【速報】です。
+ The curious signal sent by HSBC ft.trib.al/Rn4fdGg  | opinion
 
-【速報】軍事衝突のタイとカンボジア “停戦合意”の共同声明 両国防相が会談
-(2025-12-27 13:43:19) #ニュース
-
-[2025-12-27 13:44:19](https://bsky.app/profile/sokuho.news/post/3mawyovomhs2x)
+[2025-12-27 14:07:25](https://bsky.app/profile/financialtimes.com/post/3mawzy7okst2w)
 
 ---
 
-@reuters.com
+@nikkei.com
 
-At least 7 killed in Vietnam after bus overturns reut.rs/49cUUci
+夫婦別々「セパレート帰省」6割　義実家行かず
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-27 13:40:10](https://bsky.app/profile/reuters.com/post/3mawyhiar5t2i)
+女性や20〜30代の若年世代を中心に支持を集めています。
 
----
+理由は「金銭負担を抑えられる」「気苦労から解放される」など様々。
 
-@nhknewsunofficial.bsky.social
+帰省を迎える側でも、「子や孫に会えれば十分」との考えが広まりつつあるようです。
 
-タイとカンボジアの軍事衝突 停戦で合意
-https://news.web.nhk/newsweb/na/na-k10015015471000
-
-[2025-12-27 13:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawyfklnzp26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-群馬 関越道で多重事故 車内から新たに1人の遺体 死者2人に
-https://news.web.nhk/newsweb/na/na-k10015015301000
-
-[2025-12-27 13:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawya6okes24)
-
----
-
-@cnn.com
-
-Perry Archangelo Bamonte, longtime guitarist and keyboardist for the influential goth band The Cure, has died. He was 65. https://cnn.it/4sgVCxR
-
-[2025-12-27 13:31:02](https://bsky.app/profile/cnn.com/post/3mawxx5ko5t2u)
-
----
-
-@reuters.com
-
-China revises aviation law to regulate drones, tighten safety rules reut.rs/4qu9nrr
-
-[2025-12-27 13:30:19](https://bsky.app/profile/reuters.com/post/3mawxvulwoe2k)
-
----
-
-@aljazeera.com
-
-Thailand and Cambodia agree on ceasefire, Cambodia Defence Ministry says https://aje.io/tzveip
-
-[2025-12-27 13:30:02](https://bsky.app/profile/aljazeera.com/post/3mawxveugvi2h)
+[2025-12-27 14:00:53](https://bsky.app/profile/nikkei.com/post/3mawzmjwbk422)
 
 ---
 
 @wsj.com
 
-The country’s exports to the U.S. have surged since President Trump imposed new import duties on every country this year. on.wsj.com/49aDsFr
+Some doctors say the chemicals all around us—from golf courses to dry cleaners—may be increasing our risk of Parkinson’s disease, the fastest-growing neurodegenerative disease in the world.
 
-[2025-12-27 13:27:26](https://bsky.app/profile/wsj.com/post/3mawxqq75ll2c)
+Read more: on.wsj.com/3LeGBfq
+
+[2025-12-27 14:00:46](https://bsky.app/profile/wsj.com/post/3mawzmdx77v2i)
 
 ---
 
-@japan.reuters.com
+@reuters.com
 
-カンボジア国防省は２７日、タイとカンボジアは、国境地帯での軍事衝突を巡り、停戦に合意したと明らかにした。 bit.ly/48TiX16
+England 98 runs from victory at tea, eight wickets in hand reut.rs/3Liy0bC
 
-[2025-12-27 13:20:55](https://bsky.app/profile/japan.reuters.com/post/3mawxf3ilg225)
+[2025-12-27 14:00:41](https://bsky.app/profile/reuters.com/post/3mawzm6u3tc2s)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【独自】です。
+
+【独自解説】父は金日成主席の護衛・義父は“北の金庫番”…北朝鮮の元エリート外交官はなぜ脱北を決意したのか？知られざる北朝鮮の実態を激白
+(2025-12-27 14:00) #ニュース
+
+[2025-12-27 14:00:37](https://bsky.app/profile/sokuho.news/post/3mawzm2r5ei2b)
+
+---
+
+@cnbc.com
+
+Here are four key practices these longevity experts all say they prioritize to live longer, healthier lives.
+
+[2025-12-27 14:00:26](https://bsky.app/profile/cnbc.com/post/3mawzlqnmrc23)
+
+---
+
+@bloomberg.com
+
+The Renters’ Rights Bill marks the biggest shake-up for UK landlords and buy-to-let investors in decades
+
+[2025-12-27 14:00:15](https://bsky.app/profile/bloomberg.com/post/3mawzlfmmrb2g)
+
+---
+
+@washingtonpost.com
+
+Over 100 years after a 3,400-year-old bust of Queen Nefertiti was first taken to Berlin, the largest effort to bring her back to her homeland is underway.
+
+But German museum authorities are hardly eager to hand over one of the country’s most famous artifacts.
+
+[2025-12-27 14:00:05](https://bsky.app/profile/washingtonpost.com/post/3mawzl4en6g2i)
+
+---
+
+@reuters.com
+
+California drops lawsuit challenging Trump decision to pull $4 billion in high speed rail funding reut.rs/3KS5IVj
+
+[2025-12-27 13:50:12](https://bsky.app/profile/reuters.com/post/3mawyzgx6zy2o)
 
 ---
 
