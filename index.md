@@ -1,9 +1,9 @@
-# [2025-12-27 16:50 updated](2025_12_27.md)
+# [2025-12-27 17:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【中継】大阪 なんば駅近く 車が複数の歩行者と衝突 3人けが https://news.web.nhk/newsweb/na/na-k10015015511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxcxiaayt2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 16:48:02)</span><span style="padding-right:50px;">【ライブ】大阪 なんば駅近く 車が複数の歩行者と衝突 3人けが https://news.web.nhk/newsweb/na/na-k10015015511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxcmqj2ln2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 16:42:01)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】太陽SCは決勝ラウンド進出もベスト16で敗退 全日本U-12サッカー選手権大会 (2025-12-27 16:36) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxcdvlbm625" target="_blank">sokuho.news</a> (2025-12-27 16:37:07)</span><span style="padding-right:50px;">リカちゃん、3分の1サイズ登場　サンリオなどと2026年2月にコラボ（無料記事） www.nikkei.com/article/DGXZQO...  高さ約7cmと机に置いたり持ち運んだりしやすい大きさで、大人の需要を見込みます。  まずはサンリオのキャラクターをデザインした衣装を着た商品など12種を出します。 <a href="https://bsky.app/profile/nikkei.com/post/3maxbyffjlk2c" target="_blank">nikkei.com</a> (2025-12-27 16:30:41)</span><span style="padding-right:50px;">Key Bolsonaro ally arrested in Paraguay while trying to flee to El Salvador https://aje.io/mk5pqw <a href="https://bsky.app/profile/aljazeera.com/post/3maxbxaild727" target="_blank">aljazeera.com</a> (2025-12-27 16:30:02)</span>
+<span style="padding-right:50px;">As Christian artists embrace a wider variety of sounds and market songs savvily on social media, they are rapidly widening their reach   🔗: on.wsj.com/49dn6fh <a href="https://bsky.app/profile/wsj.com/post/3maxdpk2hch2e" target="_blank">wsj.com</a> (2025-12-27 17:01:31)</span><span style="padding-right:50px;">In addition to ending fighting, the agreement calls for no further military movements by either side and no violations of either side's airspace for military purposes. n.pr/3MSlu33 <a href="https://bsky.app/profile/npr.org/post/3maxdpgpcfv23" target="_blank">npr.org</a> (2025-12-27 17:01:28)</span><span style="padding-right:50px;">【マーケティング責任者に調査】 「AIに人の心を動かすものは創造できない」68% www.nikkei.com/article/DGXZQO...  電通グループが世界14カ国のCMO1950人に調査し、前年より19ポイント上昇しました。  AIの技術進歩や普及が進む中でも、ブランドの世界観の表現や訴求力は人間がAIを上回ると考えるCMOが多いようです。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3maxdogs7ol2m" target="_blank">nikkei.com</a> (2025-12-27 17:00:54)</span><span style="padding-right:50px;">ポーランド南東部のジェシュフ空港とルブリン空港が一時閉鎖された。ポーランド航空管制局（ＰＡＮＳＡ）が２７日、Ｘに投稿した。ロシアによるウクライナへの攻撃を受け、ポーランド軍が戦闘機を緊急発進させたことに伴う措置。 bit.ly/4jfqpHa <a href="https://bsky.app/profile/japan.reuters.com/post/3maxdnkjnwb2u" target="_blank">japan.reuters.com</a> (2025-12-27 17:00:25)</span><span style="padding-right:50px;">大阪 なんば駅近く 車が複数の歩行者と衝突 3人けが https://news.web.nhk/newsweb/na/na-k10015015511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxdhloopa24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 16:57:02)</span>
   </div>
 </div>
 
@@ -32,15 +32,86 @@
 
 ## News Headlines
 
-- Three injured in car crash near Osaka's Namba Station
-- Japan's central bank warns of potential yen drop ahead of year-end
-- Thai, Cambodian armies agree to ceasefire after deadly clashes
-- China passes revised foreign trade law to bolster trade war capabilities
-- US-backed airstrikes hit ISIS-linked camps in Nigeria
-- Thousands of US flights disrupted as winter storm looms
+- Christian Artists Widening Reach with Diverse Sounds and Social Media Savvy
+- Ceasefire Agreement Reached Between Thailand and Cambodia After Weeks of Deadly Clashes
+- China Passes Revised Foreign Trade Law to Bolster Trade War Capabilities
+- US-Backed Airstrikes Hit ISIS-Linked Camps in Nigeria
+- Susanna Liew: Malaysian Pastor's Wife Who Took on Government Over Missing Husband
+- UK Plans to Boost Armed Forces Ranks with Paid Military Experience for Young People
 
 
 ----
+
+@wsj.com
+
+As Christian artists embrace a wider variety of sounds and market songs savvily on social media, they are rapidly widening their reach 
+
+🔗: on.wsj.com/49dn6fh
+
+[2025-12-27 17:01:31](https://bsky.app/profile/wsj.com/post/3maxdpk2hch2e)
+
+---
+
+@npr.org
+
+In addition to ending fighting, the agreement calls for no further military movements by either side and no violations of either side's airspace for military purposes. n.pr/3MSlu33
+
+[2025-12-27 17:01:28](https://bsky.app/profile/npr.org/post/3maxdpgpcfv23)
+
+---
+
+@nikkei.com
+
+【マーケティング責任者に調査】
+「AIに人の心を動かすものは創造できない」68%
+www.nikkei.com/article/DGXZQO...
+
+電通グループが世界14カ国のCMO1950人に調査し、前年より19ポイント上昇しました。
+
+AIの技術進歩や普及が進む中でも、ブランドの世界観の表現や訴求力は人間がAIを上回ると考えるCMOが多いようです。
+
+#ニュース
+
+[2025-12-27 17:00:54](https://bsky.app/profile/nikkei.com/post/3maxdogs7ol2m)
+
+---
+
+@japan.reuters.com
+
+ポーランド南東部のジェシュフ空港とルブリン空港が一時閉鎖された。ポーランド航空管制局（ＰＡＮＳＡ）が２７日、Ｘに投稿した。ロシアによるウクライナへの攻撃を受け、ポーランド軍が戦闘機を緊急発進させたことに伴う措置。 bit.ly/4jfqpHa
+
+[2025-12-27 17:00:25](https://bsky.app/profile/japan.reuters.com/post/3maxdnkjnwb2u)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+大阪 なんば駅近く 車が複数の歩行者と衝突 3人けが
+https://news.web.nhk/newsweb/na/na-k10015015511000
+
+[2025-12-27 16:57:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxdhloopa24)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】大阪・難波の御堂筋で車が木をなぎ倒し歩道に 2人が軽傷
+(2025-12-27 16:35) #ニュース
+
+[2025-12-27 16:55:58](https://bsky.app/profile/sokuho.news/post/3maxdfm7mcc2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+神奈川 逗子 住宅1棟が全焼 焼け跡から2人の遺体
+https://news.web.nhk/newsweb/na/na-k10015015501000
+
+[2025-12-27 16:51:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxd4twejo22)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -68,68 +139,6 @@ https://news.web.nhk/newsweb/na/na-k10015015511000
 (2025-12-27 16:36) #ニュース
 
 [2025-12-27 16:37:07](https://bsky.app/profile/sokuho.news/post/3maxcdvlbm625)
-
----
-
-@nikkei.com
-
-リカちゃん、3分の1サイズ登場　サンリオなどと2026年2月にコラボ（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-高さ約7cmと机に置いたり持ち運んだりしやすい大きさで、大人の需要を見込みます。
-
-まずはサンリオのキャラクターをデザインした衣装を着た商品など12種を出します。
-
-[2025-12-27 16:30:41](https://bsky.app/profile/nikkei.com/post/3maxbyffjlk2c)
-
----
-
-@aljazeera.com
-
-Key Bolsonaro ally arrested in Paraguay while trying to flee to El Salvador https://aje.io/mk5pqw
-
-[2025-12-27 16:30:02](https://bsky.app/profile/aljazeera.com/post/3maxbxaild727)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【中継】大阪 なんば駅近く 車が歩道に乗り上げる
-https://news.web.nhk/newsweb/na/na-k10015015511000
-
-[2025-12-27 16:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxbxchzd22y)
-
----
-
-@cnbc.com
-
-One year on from the UK's grand AI plan: has its infrastructure buildout been a success?
-
-[2025-12-27 16:14:43](https://bsky.app/profile/cnbc.com/post/3maxb3tnzi22g)
-
----
-
-@cnbc.com
-
-Europe at 'fork in the road' between AI competition and climate: fund managers
-
-[2025-12-27 16:12:37](https://bsky.app/profile/cnbc.com/post/3maxay3kac22b)
-
----
-
-@reuters.com
-
-The hidden victims of Congo's war reut.rs/49u2TD9
-
-[2025-12-27 16:05:08](https://bsky.app/profile/reuters.com/post/3maxakpwrov2i)
-
----
-
-@cnn.com
-
-A group of Venezuelans who were sent to a maximum-security El Salvador prison from the US and then returned to Venezuela called for the US to comply with a ruling that would allow them to challenge their deportation in US courts. 
-
-[2025-12-27 16:02:01](https://bsky.app/profile/cnn.com/post/3maxaf5jawm2x)
 
 ---
 
