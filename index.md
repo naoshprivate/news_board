@@ -1,9 +1,9 @@
-# [2025-12-28 07:10 updated](2025_12_28.md)
+# [2025-12-28 07:30 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">避難所の段ボールベッド 早期設置で血栓割合低く 能登半島地震 https://news.web.nhk/newsweb/na/na-k10015015641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mayt32zasp22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 07:09:02)</span><span style="padding-right:50px;">千代田線 代々木上原～霞ケ関 運転見合わせ https://news.web.nhk/newsweb/na/na-k10015015731000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maysvpms2x2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 07:06:02)</span><span style="padding-right:50px;">Nigeria left three goals slip before edging past Tunisia reut.rs/45trzJv <a href="https://bsky.app/profile/reuters.com/post/3maysu3qvfk2i" target="_blank">reuters.com</a> (2025-12-28 07:05:10)</span><span style="padding-right:50px;">The National Kidney Registry has matched thousands of kidney donors with recipients. At the same time, the privately run registry has created a multimillion-dollar business with considerable power over the flow of thousands of organs, according to interviews and a review of business records. <a href="https://bsky.app/profile/nytimes.com/post/3maystwnbac2b" target="_blank">nytimes.com</a> (2025-12-28 07:05:04)</span><span style="padding-right:50px;">Not sure where your charitable donations end up? These groups let you know exactly who you're helping. https://cnn.it/4sxORIr <a href="https://bsky.app/profile/cnn.com/post/3maysoicrdm25" target="_blank">cnn.com</a> (2025-12-28 07:02:02)</span>
+<span style="padding-right:50px;">An expanding body of evidence suggests that the age of an ovary, not just the eggs it contains, is important to reproduction and healthy aging. <a href="https://bsky.app/profile/nytimes.com/post/3maytxq2max2e" target="_blank">nytimes.com</a> (2025-12-28 07:25:05)</span><span style="padding-right:50px;">New York City got more than four inches of snow for the first time since January 2022 overnight, with higher totals reported in the wider region on Saturday. trib.al/ycUVCXi <a href="https://bsky.app/profile/nytimes.com/post/3maytrc5spc2p" target="_blank">nytimes.com</a> (2025-12-28 07:21:30)</span><span style="padding-right:50px;">東京メトロ千代田線 代々木上原～霞ケ関 運転見合わせ https://news.web.nhk/newsweb/na/na-k10015015731000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maytagtfec2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 07:12:02)</span><span style="padding-right:50px;">Christmas tree still up? You could always decorate it for Valentine’s Day, St. Patrick's Day and Flag Day.  Tree-trimming has turned into a year-round pursuit, Veronica Dagher wrote in 2024. “There’s always something to celebrate.”  🎄 Read more: on.wsj.com/4sbUSdv <a href="https://bsky.app/profile/wsj.com/post/3maytabpb342t" target="_blank">wsj.com</a> (2025-12-28 07:11:58)</span><span style="padding-right:50px;">避難所の段ボールベッド 早期設置で血栓割合低く 能登半島地震 https://news.web.nhk/newsweb/na/na-k10015015641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mayt32zasp22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 07:09:02)</span>
   </div>
 </div>
 
@@ -32,15 +32,52 @@
 
 ## News Headlines
 
-- Disaster Relief Tents with Cardboard Beds Show Lower Risk of Blood Clots after Early Setup in Japan Earthquake
-- Tokyo Metro Line to Suspend Service Between Ikebukuro and Koganei
-- Canada Announces Additional 2.5 Billion Canadian Dollars to Support Ukraine
-- China Approves Revisions to Foreign Trade Law to Safeguard National Sovereignty
-- Memorable Meals: A Combination of Four Key Factors
-- California to Get Brief Reprieve from Holiday Storms Before New Year's Eve
+- Ovary Age Found to be Key to Reproduction and Healthy Aging
+- New York City Experiences First Snowfall Since January 2022
+- Decorate Your Christmas Tree Year-Round: Experts Say It's a Thing
+- Early Setup of Cardboard Beds in Evacuation Centers Reduces Blood Clot Risk
+- Nigeria Edges Past Tunisia in Thrilling Match
+- US Foreign Assistance Takes a U-Turn Under Trump's Administration
 
 
 ----
+
+@nytimes.com
+
+An expanding body of evidence suggests that the age of an ovary, not just the eggs it contains, is important to reproduction and healthy aging.
+
+[2025-12-28 07:25:05](https://bsky.app/profile/nytimes.com/post/3maytxq2max2e)
+
+---
+
+@nytimes.com
+
+New York City got more than four inches of snow for the first time since January 2022 overnight, with higher totals reported in the wider region on Saturday. trib.al/ycUVCXi
+
+[2025-12-28 07:21:30](https://bsky.app/profile/nytimes.com/post/3maytrc5spc2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+東京メトロ千代田線 代々木上原～霞ケ関 運転見合わせ
+https://news.web.nhk/newsweb/na/na-k10015015731000
+
+[2025-12-28 07:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maytagtfec2y)
+
+---
+
+@wsj.com
+
+Christmas tree still up? You could always decorate it for Valentine’s Day, St. Patrick's Day and Flag Day.
+
+Tree-trimming has turned into a year-round pursuit, Veronica Dagher wrote in 2024. “There’s always something to celebrate.”
+
+🎄 Read more: on.wsj.com/4sbUSdv
+
+[2025-12-28 07:11:58](https://bsky.app/profile/wsj.com/post/3maytabpb342t)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -89,41 +126,6 @@ Not sure where your charitable donations end up? These groups let you know exact
 The crew at No Laying Up has been asking for followers to post their most "unusable golf gift from your non-golfer relative."
 
 [2025-12-28 07:00:42](https://bsky.app/profile/usatoday.com/post/3maysm4dcdc2g)
-
----
-
-@washingtonpost.com
-
-The going-gray process happens at different speeds for different people, but most of us start to notice increasing gray hair sometime in our 30s or 40s, according to the American Academy of Dermatology.
-
-Here’s what you should know:
-
-[2025-12-28 07:00:08](https://bsky.app/profile/washingtonpost.com/post/3maysl3ynut25)
-
----
-
-@apnews.com
-
-Senegal has a new star.
-
-[2025-12-28 07:00:07](https://bsky.app/profile/apnews.com/post/3maysl2ogem23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【随時更新】ロシア ウクライナに軍事侵攻（12月28日の動き）
-https://news.web.nhk/newsweb/na/na-k10014990751000
-
-[2025-12-28 06:57:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maysfnahfw22)
-
----
-
-@japan.reuters.com
-
-ウクライナのゼレンスキー大統領は２７日、トランプ大統領との会談のために米国に向かう途中、カナダのハリファクスに立ち寄り、カーニー首相と会談した。カーニー首相はウクライナに２５億カナダドル（１８億３０００万ドル）の追加支援を提供すると発表した。 bit.ly/48U3TQQ
-
-[2025-12-28 06:54:39](https://bsky.app/profile/japan.reuters.com/post/3maysbbpusx25)
 
 ---
 
