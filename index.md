@@ -1,9 +1,9 @@
-# [2025-12-27 23:30 updated](2025_12_27.md)
+# [2025-12-27 23:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The California High-Speed Rail Authority has dropped its lawsuit against the Trump administration over the termination of $4 billion in federal grants for the state's high-speed rail project, opting instead to pursue private investment. <a href="https://bsky.app/profile/nytimes.com/post/3maxz5cloyb26" target="_blank">nytimes.com</a> (2025-12-27 23:25:02)</span><span style="padding-right:50px;">労働組合の組織率 推定16.0％ 4年連続で過去最低 厚労省調査 https://news.web.nhk/newsweb/na/na-k10015015611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxz3lij6v2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 23:24:02)</span><span style="padding-right:50px;">🇸🇦 🇾🇪 Saudi Arabia warned it would back Yemen's government in any military confrontation with separatist forces and urged them to withdraw "peacefully" from recently-seized provinces.  ➡️ u.afp.com/S8eo <a href="https://bsky.app/profile/en.afp.com/post/3maxyueai2c2f" target="_blank">en.afp.com</a> (2025-12-27 23:20:01)</span><span style="padding-right:50px;">New York City received its most significant snowfall in several years this weekend. Central Park saw more than four inches of snow for the first time since January 2022, with higher totals in the wider metropolitan region. <a href="https://bsky.app/profile/nytimes.com/post/3maxylhriss27" target="_blank">nytimes.com</a> (2025-12-27 23:15:03)</span><span style="padding-right:50px;">Why mortgage rates are stuck at 6.2% — and might stay there <a href="https://bsky.app/profile/yahoofinance.com/post/3maxy3hrdcw26" target="_blank">yahoofinance.com</a> (2025-12-27 23:06:06)</span>
+<span style="padding-right:50px;">How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. trib.al/FNyvLYD <a href="https://bsky.app/profile/nytimes.com/post/3may2dh6wmc26" target="_blank">nytimes.com</a> (2025-12-27 23:46:22)</span><span style="padding-right:50px;">The United States airstrikes that targeted Islamic State group militants in northwestern Nigeria on Thursday marked a major escalation in an offensive that the West African’s overstretched military has struggled with for years. <a href="https://bsky.app/profile/apnews.com/post/3may2baaoop2p" target="_blank">apnews.com</a> (2025-12-27 23:45:07)</span><span style="padding-right:50px;">Man City go top with 2-1 win at Forest after Cherki heroics reut.rs/3LiPHYA <a href="https://bsky.app/profile/reuters.com/post/3maxzyiodco2r" target="_blank">reuters.com</a> (2025-12-27 23:40:14)</span><span style="padding-right:50px;">Here are 380+ great reads from 2025 handpicked just for you by NPR staffers and trusted critics. <a href="https://bsky.app/profile/npr.org/post/3maxzr66b7v2d" target="_blank">npr.org</a> (2025-12-27 23:36:08)</span><span style="padding-right:50px;">フェンシング全日本選手権 谷下尚弥と寺山珠樹 それぞれ初優勝 https://news.web.nhk/newsweb/na/na-k10015015621000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxzr37i7g2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 23:36:03)</span>
   </div>
 </div>
 
@@ -32,15 +32,64 @@
 
 ## News Headlines
 
-- California High-Speed Rail Project Drops Lawsuit Against Trump Administration
-- US and Nigeria Agree on Strikes Against Islamic State-Linked Targets
-- New York City Receives Significant Snowfall
-- Waymo's San Francisco Outage Raises Doubts Over Robotaxi Readiness
-- Oklahoma Man Accused of Shooting Woman and Child on Christmas Day
-- Ivory Coast Holds Legislative Elections After Presidential Ballot
+- US Strikes Islamic State in Nigeria, Marking Escalation of Years-Long Conflict
+- Manchester City Go Top of the Table with 2-1 Win at Nottingham Forest
+- California High-Speed Rail Authority Drops Lawsuit Against Trump Administration
+- Saudi Arabia Warns Yemen Separatist Forces of Military Confrontation
+- New York City Receives Significant Snowfall, Largest in Several Years
+- US and Nigeria Agree on Strikes Targeting Islamic State in Nigeria
 
 
 ----
+
+@nytimes.com
+
+How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. trib.al/FNyvLYD
+
+[2025-12-27 23:46:22](https://bsky.app/profile/nytimes.com/post/3may2dh6wmc26)
+
+---
+
+@apnews.com
+
+The United States airstrikes that targeted Islamic State group militants in northwestern Nigeria on Thursday marked a major escalation in an offensive that the West African’s overstretched military has struggled with for years.
+
+[2025-12-27 23:45:07](https://bsky.app/profile/apnews.com/post/3may2baaoop2p)
+
+---
+
+@reuters.com
+
+Man City go top with 2-1 win at Forest after Cherki heroics reut.rs/3LiPHYA
+
+[2025-12-27 23:40:14](https://bsky.app/profile/reuters.com/post/3maxzyiodco2r)
+
+---
+
+@npr.org
+
+Here are 380+ great reads from 2025 handpicked just for you by NPR staffers and trusted critics.
+
+[2025-12-27 23:36:08](https://bsky.app/profile/npr.org/post/3maxzr66b7v2d)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+フェンシング全日本選手権 谷下尚弥と寺山珠樹 それぞれ初優勝
+https://news.web.nhk/newsweb/na/na-k10015015621000
+
+[2025-12-27 23:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxzr37i7g2w)
+
+---
+
+@usatoday.com
+
+How did Snoop Dogg land his own college football bowl game sponsorship? Here's what to know on the Snoop Dogg Arizona Bowl:
+
+[2025-12-27 23:30:14](https://bsky.app/profile/usatoday.com/post/3maxzgmpmil2w)
+
+---
 
 @nytimes.com
 
@@ -73,57 +122,6 @@ https://news.web.nhk/newsweb/na/na-k10015015611000
 New York City received its most significant snowfall in several years this weekend. Central Park saw more than four inches of snow for the first time since January 2022, with higher totals in the wider metropolitan region.
 
 [2025-12-27 23:15:03](https://bsky.app/profile/nytimes.com/post/3maxylhriss27)
-
----
-
-@yahoofinance.com
-
-Why mortgage rates are stuck at 6.2% — and might stay there
-
-[2025-12-27 23:06:06](https://bsky.app/profile/yahoofinance.com/post/3maxy3hrdcw26)
-
----
-
-@reuters.com
-
-Waymo's San Francisco outage raises doubts over robotaxi readiness during crises reut.rs/4jzsxtT
-
-[2025-12-27 23:05:08](https://bsky.app/profile/reuters.com/post/3maxxzq647o2s)
-
----
-
-@wsj.com
-
-Dramatic pink wallpaper and tropical flourishes bring ‘Old Florida’ charm to this Manalapan space. on.wsj.com/4b8Il4l
-
-[2025-12-27 23:04:46](https://bsky.app/profile/wsj.com/post/3maxxz33mts2t)
-
----
-
-@nikkei.com
-
-スマホで撮影しながら通報「映像110番」　逮捕に結実も
-www.nikkei.com/article/DGXZQO...
-
-#2025年読まれた記事
-
-[2025-12-27 23:00:53](https://bsky.app/profile/nikkei.com/post/3maxxs56qey2m)
-
----
-
-@reuters.com
-
-Austrian Scheib claims home win in giant slalom in Semmering reut.rs/4pPbqX4
-
-[2025-12-27 23:00:53](https://bsky.app/profile/reuters.com/post/3maxxs4rrw524)
-
----
-
-@usatoday.com
-
-New England needs its top weapon on offense in Week 17 to keep pace in the race for the No. 1 seed. Here's the latest on his status.
-
-[2025-12-27 23:00:32](https://bsky.app/profile/usatoday.com/post/3maxxrj3zfp2f)
 
 ---
 
