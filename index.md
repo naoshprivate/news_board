@@ -1,9 +1,9 @@
-# [2025-12-27 08:50 updated](2025_12_27.md)
+# [2025-12-27 09:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">映画「国宝」 年末年始も約400館で上映 異例のロングラン https://news.web.nhk/newsweb/na/na-k10015015341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawi572xrs2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 08:48:02)</span><span style="padding-right:50px;">Raiders' Maxx Crosby upset that he will sit out vs. Giants reut.rs/3YMx3eG <a href="https://bsky.app/profile/reuters.com/post/3mawhxzkzj62i" target="_blank">reuters.com</a> (2025-12-27 08:45:11)</span><span style="padding-right:50px;">In his first Christmas Day address, Pope Leo XIV highlighted conditions in Gaza, saying its inhabitants “have nothing left and have lost everything,” as he called for peace talks to end conflicts around the world, including those in Africa and Ukraine.   <a href="https://bsky.app/profile/washingtonpost.com/post/3mawhxqrvv423" target="_blank">washingtonpost.com</a> (2025-12-27 08:45:02)</span><span style="padding-right:50px;">So much has happened since President Trump took office again that it can be hard to keep track of it all. New York Times reporters reflected on Trump’s most consequential actions in his first year back in the White House. <a href="https://bsky.app/profile/nytimes.com/post/3mawhovhuqr27" target="_blank">nytimes.com</a> (2025-12-27 08:40:05)</span><span style="padding-right:50px;">鈴木宗男議員 ロシア外務省高官に「北方墓参」再開を要求 https://news.web.nhk/newsweb/na/na-k10015015331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawhnaeg7i2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 08:39:07)</span>
+<span style="padding-right:50px;">Russia says it captures village in Zaporizhzhia, Ukraine defending major town reut.rs/3Yebcwv <a href="https://bsky.app/profile/reuters.com/post/3mawj3q36x42o" target="_blank">reuters.com</a> (2025-12-27 09:05:09)</span><span style="padding-right:50px;">Perry Bamonte, a guitarist and keyboard player in the Cure, has died. He was 65. <a href="https://bsky.app/profile/nytimes.com/post/3mawj3iwvlb2s" target="_blank">nytimes.com</a> (2025-12-27 09:05:02)</span><span style="padding-right:50px;">ウクライナのゼレンスキー大統領は２６日、アクシオスに対し、２８日のトランプ米大統領との会談では、ウクライナ軍がドンバスから完全撤退するという米国の提案について、トランプ米大統領を説得して譲歩させたいと考えていると語った。領土譲歩問題で米国を強硬姿勢に持っていくことができなければ、米国主導の「２０項目和平案」を国民投票にかけることに前向きだと語った（訂正）。ただし、その条件は、ウクライナが国民投票の準備と実施を行えるよう、ロシアが６０日間の停戦に同意することだとした。 bit.ly/49cYnb1 <a href="https://bsky.app/profile/japan.reuters.com/post/3mawiuf6pz62q" target="_blank">japan.reuters.com</a> (2025-12-27 09:01:03)</span><span style="padding-right:50px;">自動音声でだます「ボイスフィッシング」再燃 www.nikkei.com/article/DGXZQO...  金融機関をかたる電話で企業の口座情報が盗まれる被害が増えています。  3月に多発していったん沈静化。11月以降に50社以上がだまされ、口座から22億円超が不正送金されたとみられます。 <a href="https://bsky.app/profile/nikkei.com/post/3mawiu3a6yk2g" target="_blank">nikkei.com</a> (2025-12-27 09:00:52)</span><span style="padding-right:50px;">If your past was chaotic, inconsistent, and confusing, then you may be drawn to those same relationship dynamics again and again.   Here are five signs that the chemistry you feel might actually be a red flag. <a href="https://bsky.app/profile/cnbc.com/post/3mawittlphh2y" target="_blank">cnbc.com</a> (2025-12-27 09:00:44)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48710.97 (🔻1.50 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23593.10 (🔻52.81 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.53 (🔺0.57 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.56 (🔺0.75 : 2025-12-26)</span>
+<span style="padding-right:50px;">NIKKEI: 50750.39 (🔺223.26 : 2025-12-26)</span><span style="padding-right:50px;">DOW: 48710.97 (🔻1.50 : 2025-12-26)</span><span style="padding-right:50px;">NASDAQ: 23593.10 (🔻52.81 : 2025-12-26)</span><span style="padding-right:50px;">NVIDIA: 190.53 (🔺0.57 : 2025-12-26)</span><span style="padding-right:50px;">トヨタ自動車: 3380.00 (🔺3.00 : 2025-12-26)</span><span style="padding-right:50px;">USD/JPY: 156.09 (🔻0.08 : 2025-12-26)</span>
   </div>
 </div>
 
@@ -32,98 +32,102 @@
 
 ## News Headlines
 
-- Movie 'National Treasure' to be shown in over 400 theaters during year-end and New Year
-- Raiders' Maxx Crosby to sit out against Giants
-- Pope Leo XIV highlights Gaza's struggles in Christmas Day address
-- New York Times reports on Trump's consequential actions in first year back in White House
-- Lawmakers urge Japan to resume 'Northern Territories' pilgrimage
-- Thai and Cambodian forces clash, ceasefire talks in doubt
+- Russia says it captures village in Zaporizhzhia, Ukraine defending major town
+- Guitarist and keyboard player Perry Bamonte dies at 65
+- Zelenskyy wants to persuade Trump to accept Ukraine's territorial concessions
+- Financial institution targeted by 'voice phishing' scams, resulting in over 22 billion yen stolen
+- New York Times recalls Trump's consequential actions in first year back in office
+- Backpacks and other goods shipped to the U.S. are being smashed or blocked at customs
 
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-映画「国宝」 年末年始も約400館で上映 異例のロングラン
-https://news.web.nhk/newsweb/na/na-k10015015341000
-
-[2025-12-27 08:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawi572xrs2s)
-
----
-
 @reuters.com
 
-Raiders' Maxx Crosby upset that he will sit out vs. Giants reut.rs/3YMx3eG
+Russia says it captures village in Zaporizhzhia, Ukraine defending major town reut.rs/3Yebcwv
 
-[2025-12-27 08:45:11](https://bsky.app/profile/reuters.com/post/3mawhxzkzj62i)
-
----
-
-@washingtonpost.com
-
-In his first Christmas Day address, Pope Leo XIV highlighted conditions in Gaza, saying its inhabitants “have nothing left and have lost everything,” as he called for peace talks to end conflicts around the world, including those in Africa and Ukraine. 
-
-
-[2025-12-27 08:45:02](https://bsky.app/profile/washingtonpost.com/post/3mawhxqrvv423)
+[2025-12-27 09:05:09](https://bsky.app/profile/reuters.com/post/3mawj3q36x42o)
 
 ---
 
 @nytimes.com
 
-So much has happened since President Trump took office again that it can be hard to keep track of it all. New York Times reporters reflected on Trump’s most consequential actions in his first year back in the White House.
+Perry Bamonte, a guitarist and keyboard player in the Cure, has died. He was 65.
 
-[2025-12-27 08:40:05](https://bsky.app/profile/nytimes.com/post/3mawhovhuqr27)
-
----
-
-@nhknewsunofficial.bsky.social
-
-鈴木宗男議員 ロシア外務省高官に「北方墓参」再開を要求
-https://news.web.nhk/newsweb/na/na-k10015015331000
-
-[2025-12-27 08:39:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawhnaeg7i2w)
+[2025-12-27 09:05:02](https://bsky.app/profile/nytimes.com/post/3mawj3iwvlb2s)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@japan.reuters.com
 
-タイとカンボジア軍事衝突 国防相協議で停戦合意できるか焦点
-https://news.web.nhk/newsweb/na/na-k10015015271000
+ウクライナのゼレンスキー大統領は２６日、アクシオスに対し、２８日のトランプ米大統領との会談では、ウクライナ軍がドンバスから完全撤退するという米国の提案について、トランプ米大統領を説得して譲歩させたいと考えていると語った。領土譲歩問題で米国を強硬姿勢に持っていくことができなければ、米国主導の「２０項目和平案」を国民投票にかけることに前向きだと語った（訂正）。ただし、その条件は、ウクライナが国民投票の準備と実施を行えるよう、ロシアが６０日間の停戦に同意することだとした。 bit.ly/49cYnb1
 
-[2025-12-27 08:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawhn3xfkf2l)
+[2025-12-27 09:01:03](https://bsky.app/profile/japan.reuters.com/post/3mawiuf6pz62q)
 
 ---
 
-@wsj.com
+@nikkei.com
 
-Backpacks from Japan, Milka chocolate biscuits from Europe and other goods shipped to the U.S. aren’t just being blocked from entering the country. Some are smashed to bits. on.wsj.com/3MRJZxk
+自動音声でだます「ボイスフィッシング」再燃
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-27 08:30:51](https://bsky.app/profile/wsj.com/post/3mawh6frw2a2q)
+金融機関をかたる電話で企業の口座情報が盗まれる被害が増えています。
+
+3月に多発していったん沈静化。11月以降に50社以上がだまされ、口座から22億円超が不正送金されたとみられます。
+
+[2025-12-27 09:00:52](https://bsky.app/profile/nikkei.com/post/3mawiu3a6yk2g)
+
+---
+
+@cnbc.com
+
+If your past was chaotic, inconsistent, and confusing, then you may be drawn to those same relationship dynamics again and again. 
+
+Here are five signs that the chemistry you feel might actually be a red flag.
+
+[2025-12-27 09:00:44](https://bsky.app/profile/cnbc.com/post/3mawittlphh2y)
 
 ---
 
 @usatoday.com
 
-Julianne Hough is open to dating – but with a few important specifications for her new partner.
+3 retirement savings mistakes every 50-something should avoid in 2026
 
-[2025-12-27 08:30:19](https://bsky.app/profile/usatoday.com/post/3mawh5h26li2o)
+[2025-12-27 09:00:41](https://bsky.app/profile/usatoday.com/post/3mawitqaunp2l)
 
 ---
 
-@aljazeera.com
+@bloomberg.com
 
-Israeli forces kill Palestinian in Gaza, carry out raids across West Bank https://aje.io/t285fu
+Nightclub owners are opening up wellness facilities, and hotels are throwing alcohol-free full moon parties, as drinking falls out of favor with the health-conscious. 
 
-[2025-12-27 08:30:04](https://bsky.app/profile/aljazeera.com/post/3mawh4ymje32p)
+[2025-12-27 09:00:28](https://bsky.app/profile/bloomberg.com/post/3mawitec5k324)
+
+---
+
+@nbcnews.com
+
+Ashlee Buzzard has been arraigned on a murder charge after the body of her 9-year-old daughter was found in a rural area of Utah more than two months after she went missing.
+
+[2025-12-27 09:00:24](https://bsky.app/profile/nbcnews.com/post/3mawitai3sw2p)
+
+---
+
+@cnn.com
+
+Human evolution’s biggest mystery, which emerged 15 years ago from a 60,000-year-old pinkie finger bone, finally started to unravel in 2025.
+https://cnn.it/499BBRj
+
+[2025-12-27 09:00:13](https://bsky.app/profile/cnn.com/post/3mawisvmkhg2k)
 
 ---
 
 @washingtonpost.com
 
-Since taking office, President Trump has suffered multiple losses in his efforts to strip security clearances from political opponents and prestigious Washington law firms. The issue could become one of the next Supreme Court fights over presidential power. 
+The Trump administration is widening efforts to screen visa applicants for online speech considered “anti-American” as the government moves to restrict legal migration.
 
 
-[2025-12-27 08:30:04](https://bsky.app/profile/washingtonpost.com/post/3mawh4y5ixf2g)
+[2025-12-27 09:00:11](https://bsky.app/profile/washingtonpost.com/post/3mawistpmmn2p)
 
 ---
 
