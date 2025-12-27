@@ -1,9 +1,9 @@
-# [2025-12-27 19:10 updated](2025_12_27.md)
+# [2025-12-27 19:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Both of these influencers are successful - but only one is human <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxk2awo5s2z" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 18:54:53)</span><span style="padding-right:50px;">Guinea and Central African Republic elections: Leaders aim to consolidate power at  in two polls in Africa <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxjyednk22b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 18:53:49)</span><span style="padding-right:50px;">ラグビー リーグワン 第3節 クボタスピアーズが開幕3連勝 https://news.web.nhk/newsweb/na/na-k10015015581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjo7dsr72v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 18:48:07)</span><span style="padding-right:50px;">関越道で多重事故 2人死亡 26人重軽傷 通行止め長引く見込み https://news.web.nhk/newsweb/na/na-k10015015301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjo2hqff26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 18:48:02)</span><span style="padding-right:50px;">The agreement, signed by Thai Defense Minister Natthaphon Narkphanit and his Cambodian counterpart Tea Seiha, ended 20 days of fighting that has killed at least 101 people and displaced more than half a million on both sides. https://cnn.it/4b60rE2 <a href="https://bsky.app/profile/cnn.com/post/3maxjklvs6526" target="_blank">cnn.com</a> (2025-12-27 18:46:08)</span>
+<span style="padding-right:50px;">Resolutions to consider for a 2026 that brings you as few tax troubles as possible. on.wsj.com/44MuyfY <a href="https://bsky.app/profile/wsj.com/post/3maxlt6aibd2e" target="_blank">wsj.com</a> (2025-12-27 19:26:43)</span><span style="padding-right:50px;">🇸🇦 Saudi belly dancers shake off taboos behind closed doors  In a Riyadh fitness studio, dozens of women move to Arabic music, practising belly dance in secret. Despite their enthusiasm, none reveal their names or faces -— a reflection of the deep stigma that surrounds the dance in Saudi Arabia. <a href="https://bsky.app/profile/en.afp.com/post/3maxlhbeu6u2v" target="_blank">en.afp.com</a> (2025-12-27 19:20:04)</span><span style="padding-right:50px;">ポーランド南東部のジェシュフ空港とルブリン空港が一時閉鎖された。ポーランド航空管制局（ＰＡＮＳＡ）が２７日、Ｘに投稿した。ロシアによるウクライナへの攻撃を受け、ポーランド軍が戦闘機を緊急発進させたことに伴う措置。 bit.ly/3MVxiBx <a href="https://bsky.app/profile/japan.reuters.com/post/3maxl6kdig72n" target="_blank">japan.reuters.com</a> (2025-12-27 19:15:11)</span><span style="padding-right:50px;">スピードスケート女子1000m高木が優勝 2位の吉田 代表内定確実 https://news.web.nhk/newsweb/na/na-k10015015591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxktnficl2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 19:09:03)</span><span style="padding-right:50px;">Meteor lights up sky over Japan's Mount Fuji <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxksktuyo2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 19:08:28)</span>
   </div>
 </div>
 
@@ -32,105 +32,103 @@
 
 ## News Headlines
 
-- Guinea and Central African Republic elections: Leaders aim to consolidate power
-- Thai and Cambodian forces agree to ceasefire in border conflict
-- One person killed, multiple injured as Russian drone and missile barrage hits Kyiv
-- Student and teacher rebuild disaster-hit town two years after Hokuriku earthquake
-- Russia-Ukraine conflict: UN renews ceasefire appeal over 'unimaginable suffering' of civilians
-- Donald Trump's return to the White House, a fragile ceasefire in Gaza, and war in Ukraine among 2025's top stories
+- Resolutions to consider for a 2026 that brings you as few tax troubles as possible
+- Saudi women secretly practice belly dance in Riyadh
+- Poland closes airports in response to Russian strikes on Ukraine
+- Japanese skater takes gold in women's 1000m speed skating
+- Tiny Australian fish has been hiding in river for millions of years
+- Mountain gorillas face new perils as numbers rebound in Virunga mountains
 
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@wsj.com
 
-Both of these influencers are successful - but only one is human
+Resolutions to consider for a 2026 that brings you as few tax troubles as possible. on.wsj.com/44MuyfY
 
-[2025-12-27 18:54:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxk2awo5s2z)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Guinea and Central African Republic elections: Leaders aim to consolidate power at  in two polls in Africa
-
-[2025-12-27 18:53:49](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxjyednk22b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ラグビー リーグワン 第3節 クボタスピアーズが開幕3連勝
-https://news.web.nhk/newsweb/na/na-k10015015581000
-
-[2025-12-27 18:48:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjo7dsr72v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-関越道で多重事故 2人死亡 26人重軽傷 通行止め長引く見込み
-https://news.web.nhk/newsweb/na/na-k10015015301000
-
-[2025-12-27 18:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjo2hqff26)
-
----
-
-@cnn.com
-
-The agreement, signed by Thai Defense Minister Natthaphon Narkphanit and his Cambodian counterpart Tea Seiha, ended 20 days of fighting that has killed at least 101 people and displaced more than half a million on both sides.
-https://cnn.it/4b60rE2
-
-[2025-12-27 18:46:08](https://bsky.app/profile/cnn.com/post/3maxjklvs6526)
-
----
-
-@nhknewsunofficial.bsky.social
-
-富山 氷見 大地震から2年 学生とともに歩む過疎地の災害復興
-https://news.web.nhk/newsweb/na/na-k10015015351000
-
-[2025-12-27 18:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjipfbxg2s)
+[2025-12-27 19:26:43](https://bsky.app/profile/wsj.com/post/3maxlt6aibd2e)
 
 ---
 
 @en.afp.com
 
-🇺🇦 🇷🇺 A Russian drone and missile barrage on Kyiv and its suburbs Saturday killed one person, wounded two dozen and cut off heating and electricity for hundreds of thousands of people left in freezing temperatures. 
-➡️ u.afp.com/S8sV
+🇸🇦 Saudi belly dancers shake off taboos behind closed doors
 
-[2025-12-27 18:43:11](https://bsky.app/profile/en.afp.com/post/3maxjfdiy6p2q)
+In a Riyadh fitness studio, dozens of women move to Arabic music, practising belly dance in secret. Despite their enthusiasm, none reveal their names or faces -— a reflection of the deep stigma that surrounds the dance in Saudi Arabia.
+
+[2025-12-27 19:20:04](https://bsky.app/profile/en.afp.com/post/3maxlhbeu6u2v)
 
 ---
 
-@reuters.com
+@japan.reuters.com
 
-Ashes captains unimpressed with Melbourne's wicket ways reut.rs/4qq6EiB
+ポーランド南東部のジェシュフ空港とルブリン空港が一時閉鎖された。ポーランド航空管制局（ＰＡＮＳＡ）が２７日、Ｘに投稿した。ロシアによるウクライナへの攻撃を受け、ポーランド軍が戦闘機を緊急発進させたことに伴う措置。 bit.ly/3MVxiBx
 
-[2025-12-27 18:35:08](https://bsky.app/profile/reuters.com/post/3maxiwwqpla2p)
+[2025-12-27 19:15:11](https://bsky.app/profile/japan.reuters.com/post/3maxl6kdig72n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+スピードスケート女子1000m高木が優勝 2位の吉田 代表内定確実
+https://news.web.nhk/newsweb/na/na-k10015015591000
+
+[2025-12-27 19:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxktnficl2y)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Meteor lights up sky over Japan's Mount Fuji
+
+[2025-12-27 19:08:28](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxksktuyo2b)
+
+---
+
+@npr.org
+
+Online prediction markets, like Polymarket and Kalshi, were under intense scrutiny in the Biden administration. But Trump officials are embracing the controversial apps, raising new fears about election interference ahead of the midterms. n.pr/4sfSvX5
+
+[2025-12-27 19:06:55](https://bsky.app/profile/npr.org/post/3maxkprj6uy2n)
+
+---
+
+@cnn.com
+
+Along a nine-mile stretch of river between two waterfalls in the Australian rainforest lives a tiny fish that’s been there for millions of years, hiding between rocks along the riverbank by day and emerging at night to feed. https://cnn.it/45tLMPp
+
+[2025-12-27 19:02:12](https://bsky.app/profile/cnn.com/post/3maxkhdmoir2k)
+
+---
+
+@en.afp.com
+
+🦍 Mountain gorillas face new perils as numbers rebound
+
+In the Virunga mountains between Uganda, the Democratic Republic of the Congo and Rwanda, the gorilla population has grown but the rising numbers have led to increased conflict between rival clans and risk of diseases.
+
+[2025-12-27 19:01:00](https://bsky.app/profile/en.afp.com/post/3maxkf6krvt2u)
 
 ---
 
 @nikkei.com
 
-ビュッフェ満喫の極意　最適な席や食べる順番は？
+時代小説・SF…　目利きが選んだ「3冊」はこれだ!
 www.nikkei.com/article/DGXZQO...
 
-最初に店内を1周して必ず食べたい料理を決める。
+以下の9人に選んでもらいました。
 
-席選びは落ち着いた場所がいいのか、料理の取りやすさを優先したいのか、目的に応じて――。
+東えりかさん（書評家）、小谷真理さん（ファンタジー評論家）、藤島大さん（スポーツライター）、大矢博子さん（文芸評論家）、速水健朗さん（評論家）、竹内薫さん（サイエンス作家）、野崎六助さん（評論家）、入山章栄さん（経営学者）、陣野俊史さん（批評家）
 
-ホテルのビュッフェ店長に聞きました。
-
-[2025-12-27 18:30:40](https://bsky.app/profile/nikkei.com/post/3maxiowrsvz2c)
+[2025-12-27 19:00:40](https://bsky.app/profile/nikkei.com/post/3maxkem3znz2x)
 
 ---
 
-@aljazeera.com
+@apnews.com
 
-Turkish Defence Minister Yasar Guler and military chief Selcuk Bayraktaroglu attend ceremony at an airbase near Ankara.
+The lurch in the media business has changed America over the last two decades.
 
-[2025-12-27 18:30:04](https://bsky.app/profile/aljazeera.com/post/3maxinv5mck2p)
+[2025-12-27 19:00:15](https://bsky.app/profile/apnews.com/post/3maxkdu7eqm23)
 
 ---
 
