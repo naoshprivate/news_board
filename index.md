@@ -1,9 +1,9 @@
-# [2025-12-28 00:30 updated](2025_12_28.md)
+# [2025-12-28 00:50 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Nine arrested in Italy for allegedly raising millions for Hamas <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3may4obmlfw2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-28 00:28:12)</span><span style="padding-right:50px;">Little to no additional snow accumulation is expected after some New York City areas were hit with the heaviest snowfall in years, forecasters said.  <a href="https://bsky.app/profile/forbes.com/post/3may47qlgdw2z" target="_blank">forbes.com</a> (2025-12-28 00:20:04)</span><span style="padding-right:50px;">【地震速報】沖縄 石垣島 竹富町の黒島 与那国島で震度３ https://news.web.nhk/newsweb/na/na-k10015014341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3may445uhs52k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 00:18:02)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:台湾付近, 深さ:40km マグニチュード:6.7, 最大震度:3 📍https://www.google.com/maps?q=24.7,122.1&ll=24.7,122.1&z=7&t=h 地震発生日時:2025-12-28 00:06頃 (10倍速▶600s→60s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3may42y4ntf2x" target="_blank">sokuho.news</a> (2025-12-28 00:17:24)</span><span style="padding-right:50px;">Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/Nr5FQSD <a href="https://bsky.app/profile/nytimes.com/post/3may42vz6ms26" target="_blank">nytimes.com</a> (2025-12-28 00:17:23)</span>
+<span style="padding-right:50px;">Forbes Favorites 2025: The Year’s Best SportsMoney Stories  From the billionaire revolutionizing women’s sports to the barnstorming baseball team now worth $500 million, here are the biggest and most popular sports business stories of 2025. www.forbes.com/sites/brettk... Photo: Ethan Pines <a href="https://bsky.app/profile/forbes.com/post/3may5nblyas23" target="_blank">forbes.com</a> (2025-12-28 00:45:33)</span><span style="padding-right:50px;">From @theathletic.com: As 2025 draws to a close, it’s time to look back at the year’s biggest feats. Teams broke records and individuals etched their name into the history books. We selected 25 photos to tell the story of the year in sports. nyti.ms/4pHKNU0 <a href="https://bsky.app/profile/nytimes.com/post/3may5mgb4u52v" target="_blank">nytimes.com</a> (2025-12-28 00:45:04)</span><span style="padding-right:50px;">【地震情報】沖縄 石垣島 竹富町の黒島 与那国島で震度３ https://news.web.nhk/newsweb/na/na-k10015014341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3may5mgikh522" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 00:45:02)</span><span style="padding-right:50px;">A quarter-century ago, the teams in the four major North American leagues were worth a collective $30 billion. Now, they’re valued at more than $500 billion—and one has seen appreciation of more than 6,400%. www.forbes.com/sites/brettk... (Photo: Elsa/Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3may5lyxous23" target="_blank">forbes.com</a> (2025-12-28 00:44:50)</span><span style="padding-right:50px;">The Best Of Forbes Photography 2025 www.forbes.com/sites/forbes... (Photo: Levon Biss for Forbes) <a href="https://bsky.app/profile/forbes.com/post/3may5kqj26223" target="_blank">forbes.com</a> (2025-12-28 00:44:08)</span>
   </div>
 </div>
 
@@ -32,113 +32,103 @@
 
 ## News Headlines
 
-- Nine arrested in Italy for allegedly raising millions for Hamas
-- No significant snow accumulation expected after New York City snowfall
-- 6.7-magnitude earthquake hits Taiwan region, causes tsunami warning in Japan
-- Russia attacks Ukraine with hundreds of drones ahead of talks
-- Austria's Marco Schwarz wins World Cup super-G event
-- Ukraine's Benin wins Africa Cup of Nations finals
+- Teams Break Records and Make History in 2025 Sports Year in Review
+- Ukraine Capital Hit by Russia's Missile and Drone Attack
+- Taiwan Earthquake Rattles Northeast Asia
+- Negotiations Between Ukraine and US Continue Amid Ongoing Conflict
+- Ukraine's President Meets with US Leader Donald Trump for Talks
+- Olympic Team's Doctor Shares Tips for Avoiding Airplane Illness
 
 
 ----
 
-@bbcnews-world-rss.bsky.social
-
-Nine arrested in Italy for allegedly raising millions for Hamas
-
-[2025-12-28 00:28:12](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3may4obmlfw2r)
-
----
-
 @forbes.com
 
-Little to no additional snow accumulation is expected after some New York City areas were hit with the heaviest snowfall in years, forecasters said. 
+Forbes Favorites 2025: The Year’s Best SportsMoney Stories
 
-[2025-12-28 00:20:04](https://bsky.app/profile/forbes.com/post/3may47qlgdw2z)
+From the billionaire revolutionizing women’s sports to the barnstorming baseball team now worth $500 million, here are the biggest and most popular sports business stories of 2025.
+www.forbes.com/sites/brettk... Photo: Ethan Pines
 
----
-
-@nhknewsunofficial.bsky.social
-
-【地震速報】沖縄 石垣島 竹富町の黒島 与那国島で震度３
-https://news.web.nhk/newsweb/na/na-k10015014341000
-
-[2025-12-28 00:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3may445uhs52k)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:台湾付近, 深さ:40km
-マグニチュード:6.7, 最大震度:3
-📍https://www.google.com/maps?q=24.7,122.1&ll=24.7,122.1&z=7&t=h
-地震発生日時:2025-12-28 00:06頃
-(10倍速▶600s→60s) #地震
-
-[2025-12-28 00:17:24](https://bsky.app/profile/sokuho.news/post/3may42y4ntf2x)
+[2025-12-28 00:45:33](https://bsky.app/profile/forbes.com/post/3may5nblyas23)
 
 ---
 
 @nytimes.com
 
-Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/Nr5FQSD
+From @theathletic.com: As 2025 draws to a close, it’s time to look back at the year’s biggest feats. Teams broke records and individuals etched their name into the history books. We selected 25 photos to tell the story of the year in sports. nyti.ms/4pHKNU0
 
-[2025-12-28 00:17:23](https://bsky.app/profile/nytimes.com/post/3may42vz6ms26)
-
----
-
-@npr.org
-
-A federal judge this week canceled the trial of Kilmar Abrego Garcia, and scheduled a hearing on whether the prosecution is being vindictive in pursuing a human smuggling case against him. n.pr/3L3sZng
-
-[2025-12-28 00:17:16](https://bsky.app/profile/npr.org/post/3may42pujph2x)
+[2025-12-28 00:45:04](https://bsky.app/profile/nytimes.com/post/3may5mgb4u52v)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【地震速報】沖縄 石垣島地方 与那国島 西表島で震度３
+【地震情報】沖縄 石垣島 竹富町の黒島 与那国島で震度３
 https://news.web.nhk/newsweb/na/na-k10015014341000
 
-[2025-12-28 00:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3may3wrm6yp24)
+[2025-12-28 00:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3may5mgikh522)
 
 ---
 
-@sokuho.news
+@forbes.com
 
-🔔防災科研より【強震モニタ】動画です。
+A quarter-century ago, the teams in the four major North American leagues were worth a collective $30 billion. Now, they’re valued at more than $500 billion—and one has seen appreciation of more than 6,400%.
+www.forbes.com/sites/brettk... (Photo: Elsa/Getty Images)
 
-震源:台湾付近, 深さ:40km
-マグニチュード:6.7, 最大震度:3
-📍https://www.google.com/maps?q=24.7,122.1&ll=24.7,122.1&z=7&t=h
-地震発生日時:2025-12-28 00:06頃
-(10倍速▶300s→30s) #地震
-
-[2025-12-28 00:12:04](https://bsky.app/profile/sokuho.news/post/3may3rglr4n2b)
+[2025-12-28 00:44:50](https://bsky.app/profile/forbes.com/post/3may5lyxous23)
 
 ---
 
-@sokuho.news
+@forbes.com
 
-🔔気象庁より【地震速報】です。
+The Best Of Forbes Photography 2025
+www.forbes.com/sites/forbes... (Photo: Levon Biss for Forbes)
 
-0時6分頃、沖縄県で最大震度3の地震を観測しました。
-震源:台湾付近, 深さ:40km, 規模:M6.7
-この地震により、日本の沿岸では若干の海面変動があるかもしれませ…
-(2025-12-28 00:11:08) #地震
-
-[2025-12-28 00:11:10](https://bsky.app/profile/sokuho.news/post/3may3psip5h2b)
+[2025-12-28 00:44:08](https://bsky.app/profile/forbes.com/post/3may5kqj26223)
 
 ---
 
-@en.afp.com
+@forbes.com
 
-🇺🇦 🇷🇺 Russia pummelled Ukraine's capital with drones and missiles on Saturday, killing a woman and cutting power to hundreds of thousands, ahead of President Volodymyr Zelensky's latest talks with US leader Donald Trump. 
-➡️ u.afp.com/S8ew
+What Interest Rates, Markets And The 2026 Economic Outlook Mean For Your Money
+www.forbes.com/sites/emmawa... (Photo: AFP via Getty Images)
 
-[2025-12-28 00:11:07](https://bsky.app/profile/en.afp.com/post/3may3pppoba2h)
+[2025-12-28 00:43:40](https://bsky.app/profile/forbes.com/post/3may5jwpuvc23)
+
+---
+
+@forbes.com
+
+Tax Moves You Can Still Make To Trim Your Bill Before The Year Ends
+www.forbes.com/sites/kellyp... (Photo: Getty Images)
+
+[2025-12-28 00:43:15](https://bsky.app/profile/forbes.com/post/3may5j673mc23)
+
+---
+
+@forbes.com
+
+The Most Notable Career Crashes Of 2025
+www.forbes.com/sites/mariag... (Illustration by Max-o-Matic for Forbes)
+
+[2025-12-28 00:42:53](https://bsky.app/profile/forbes.com/post/3may5ijg7ak23)
+
+---
+
+@forbes.com
+
+Philippine Tycoon Lucio Tan’s PNB Prepares To List $1.4 Billion Property Arm
+www.forbes.com/sites/iansay... (Photo: Courtesy of PNB)
+
+[2025-12-28 00:42:26](https://bsky.app/profile/forbes.com/post/3may5hpj22223)
+
+---
+
+@nytimes.com
+
+Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — Easy, Medium and Hard — so you can solve at your own speed, in any order you want. trib.al/I086aqW
+
+[2025-12-28 00:35:22](https://bsky.app/profile/nytimes.com/post/3may533ahdk2x)
 
 ---
 
