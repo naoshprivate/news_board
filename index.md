@@ -1,9 +1,9 @@
-# [2025-12-28 01:10 updated](2025_12_28.md)
+# [2025-12-28 01:30 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">6 under-the-radar stocks to play the AI boom in 2026: BofA <a href="https://bsky.app/profile/yahoofinance.com/post/3may6s2huis2q" target="_blank">yahoofinance.com</a> (2025-12-28 01:06:07)</span><span style="padding-right:50px;">TSMC says some facilities evacuated after quake reut.rs/4qrVvOe <a href="https://bsky.app/profile/reuters.com/post/3may6qdh4pt2r" target="_blank">reuters.com</a> (2025-12-28 01:05:09)</span><span style="padding-right:50px;">Neither investors nor industrial buyers can get enough of the precious metal, while a glut of crude has swamped energy markets and depressed fuel prices. on.wsj.com/4px61mN <a href="https://bsky.app/profile/wsj.com/post/3may6kouhtm2z" target="_blank">wsj.com</a> (2025-12-28 01:01:59)</span><span style="padding-right:50px;">More than 3,000 flights delayed and nearly 700 canceled as snowstorm jams post-Christmas travel. https://cnn.it/3MX9gWQ <a href="https://bsky.app/profile/cnn.com/post/3may6j2omqj23" target="_blank">cnn.com</a> (2025-12-28 01:01:05)</span><span style="padding-right:50px;">Pronounced “Old Lang Zyne,” experts say it started as a poem, and has since become a song that is now a staple in New Year’s celebrations. <a href="https://bsky.app/profile/usatoday.com/post/3may6ifwmeb2q" target="_blank">usatoday.com</a> (2025-12-28 01:00:43)</span>
+<span style="padding-right:50px;">How rape is being used as a weapon of war in Congo, on this weekend's On Assignment reut.rs/4sgUCK4 <a href="https://bsky.app/profile/reuters.com/post/3maya2xquks2q" target="_blank">reuters.com</a> (2025-12-28 01:28:59)</span><span style="padding-right:50px;">Russia launches air attack on Kyiv as Zelenskyy prepares for Trump meeting ft.trib.al/AKGSRh6 <a href="https://bsky.app/profile/financialtimes.com/post/3maya2pozqi2f" target="_blank">financialtimes.com</a> (2025-12-28 01:28:51)</span><span style="padding-right:50px;">ロシア、無人機やミサイルでウクライナの首都キーウ攻撃 www.nikkei.com/article/DGXZQO...  12月28日の米ウクライナ首脳会談を前にした攻撃に、住民は「和平が実現するとは思えない」と憤りました。 <a href="https://bsky.app/profile/nikkei.com/post/3may7vs5u7h2x" target="_blank">nikkei.com</a> (2025-12-28 01:26:06)</span><span style="padding-right:50px;">Jazz rookie F Ace Bailey dealing with left hip strain reut.rs/3YaPM3t <a href="https://bsky.app/profile/reuters.com/post/3may7u3w3jb2o" target="_blank">reuters.com</a> (2025-12-28 01:25:09)</span><span style="padding-right:50px;">Russia launched waves of missiles and attack drones on Kyiv on Saturday. The hourslong assault came as President Volodymyr Zelensky of Ukraine prepared to meet with President Trump on Sunday to discuss a plan to end the war. <a href="https://bsky.app/profile/nytimes.com/post/3may7txypoy25" target="_blank">nytimes.com</a> (2025-12-28 01:25:05)</span>
   </div>
 </div>
 
@@ -32,95 +32,105 @@
 
 ## News Headlines
 
-- A 7.0 magnitude quake rattles Taiwan, TSMC says some facilities evacuated
-- Israel's Netanyahu to meet US President Trump in Florida for Gaza truce plan
-- Rayan Cherki's late goal helps Manchester City seal 2-1 win at Nottingham Forest
-- Russia attacks Ukraine's capital with missiles and drones, killing one and wounding over 20 people
+- Russia launches air attack on Kyiv as Zelenskyy prepares for Trump meeting
+- Russia launched waves of missiles and attack drones on Kyiv on Saturday
+- Ukraine's capital hit by Russian missile and drone attack before US talks
 - Thailand and Cambodia agree to ceasefire after deadly border clashes
-- More than 3,000 flights delayed and nearly 700 canceled as snowstorm jams post-Christmas travel
+- Winter storm causes over 3,000 flight delays and nearly 700 cancellations
+- Myanmar's military rulers hold general election amid country's civil war
 
 
 ----
 
-@yahoofinance.com
+@reuters.com
 
-6 under-the-radar stocks to play the AI boom in 2026: BofA
+How rape is being used as a weapon of war in Congo, on this weekend's On Assignment reut.rs/4sgUCK4
 
-[2025-12-28 01:06:07](https://bsky.app/profile/yahoofinance.com/post/3may6s2huis2q)
+[2025-12-28 01:28:59](https://bsky.app/profile/reuters.com/post/3maya2xquks2q)
+
+---
+
+@financialtimes.com
+
+Russia launches air attack on Kyiv as Zelenskyy prepares for Trump meeting ft.trib.al/AKGSRh6
+
+[2025-12-28 01:28:51](https://bsky.app/profile/financialtimes.com/post/3maya2pozqi2f)
+
+---
+
+@nikkei.com
+
+ロシア、無人機やミサイルでウクライナの首都キーウ攻撃
+www.nikkei.com/article/DGXZQO...
+
+12月28日の米ウクライナ首脳会談を前にした攻撃に、住民は「和平が実現するとは思えない」と憤りました。
+
+[2025-12-28 01:26:06](https://bsky.app/profile/nikkei.com/post/3may7vs5u7h2x)
 
 ---
 
 @reuters.com
 
-TSMC says some facilities evacuated after quake reut.rs/4qrVvOe
+Jazz rookie F Ace Bailey dealing with left hip strain reut.rs/3YaPM3t
 
-[2025-12-28 01:05:09](https://bsky.app/profile/reuters.com/post/3may6qdh4pt2r)
+[2025-12-28 01:25:09](https://bsky.app/profile/reuters.com/post/3may7u3w3jb2o)
 
 ---
 
-@wsj.com
+@nytimes.com
 
-Neither investors nor industrial buyers can get enough of the precious metal, while a glut of crude has swamped energy markets and depressed fuel prices. on.wsj.com/4px61mN
+Russia launched waves of missiles and attack drones on Kyiv on Saturday. The hourslong assault came as President Volodymyr Zelensky of Ukraine prepared to meet with President Trump on Sunday to discuss a plan to end the war.
 
-[2025-12-28 01:01:59](https://bsky.app/profile/wsj.com/post/3may6kouhtm2z)
+[2025-12-28 01:25:05](https://bsky.app/profile/nytimes.com/post/3may7txypoy25)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】関越道多重事故 通行止め一部区間で解除
+(01:23) #ニュース
+
+[2025-12-28 01:24:19](https://bsky.app/profile/sokuho.news/post/3may7smd4yu2b)
+
+---
+
+@en.afp.com
+
+⚽ Two of Diogo Jota's children were mascots at Anfield on Saturday as Liverpool and Wolves paid tribute to their former forward. 
+➡️ u.afp.com/S8ec
+
+[2025-12-28 01:22:51](https://bsky.app/profile/en.afp.com/post/3may7pxxuqp26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ボクシング 井上尚弥 判定勝ち 4団体統一王座6回目の防衛
+https://news.web.nhk/newsweb/na/na-k10015015711000
+
+[2025-12-28 01:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3may7mt6oyg2d)
 
 ---
 
 @cnn.com
 
 More than 3,000 flights delayed and nearly 700 canceled as snowstorm jams post-Christmas travel.
-https://cnn.it/3MX9gWQ
+cnn.it/3MX9gWQ
 
-[2025-12-28 01:01:05](https://bsky.app/profile/cnn.com/post/3may6j2omqj23)
-
----
-
-@usatoday.com
-
-Pronounced “Old Lang Zyne,” experts say it started as a poem, and has since become a song that is now a staple in New Year’s celebrations.
-
-[2025-12-28 01:00:43](https://bsky.app/profile/usatoday.com/post/3may6ifwmeb2q)
+[2025-12-28 01:15:09](https://bsky.app/profile/cnn.com/post/3may7ca2vks26)
 
 ---
 
-@apnews.com
+@sokuho.news
 
-After soaring to the NFC's top playoff seed last season, the Detroit Lions won't be returning to the postseason this year, and they could end up at the bottom of the NFC North.
+🔔ANNより【速報】です。
 
-[2025-12-28 01:00:22](https://bsky.app/profile/apnews.com/post/3may6hrsfuw22)
+【速報】関越道の多重事故による通行止めが28日午前1時ごろ一部解除 NEXCO東日本
+(2025年12月28日 01:11) #ニュース
 
----
-
-@washingtonpost.com
-
-Review: In some ways, this dramedy is a familiar story about midlife crises and marital dissatisfaction, but it quickly swerves in a fresh direction, resulting in a movie that’s both resonant and hilarious.
-
-[2025-12-28 01:00:18](https://bsky.app/profile/washingtonpost.com/post/3may6hnpp4j2y)
-
----
-
-@en.afp.com
-
-🥊 Japan's unbeaten Naoya Inoue said he was exhausted after defeating Mexico's Alan Picasso by unanimous decision in Riyadh on Saturday for his fourth win of 2025. 
-➡️ u.afp.com/S8eT
-
-[2025-12-28 01:00:05](https://bsky.app/profile/en.afp.com/post/3may6hbuoja2j)
-
----
-
-@npr.org
-
-These stunning photos include a polar bear in a Chinese zoo, a teen in Zambia facing an uncertain future, Mongolian kids watching TV in a tent, a chef prepping a bowl of good-for-you soup. n.pr/4jdj7DT
-
-[2025-12-28 00:55:25](https://bsky.app/profile/npr.org/post/3may66wvr2724)
-
----
-
-@nytimes.com
-
-Karoline Leavitt, the White House press secretary, announced on Friday that she was pregnant with a daughter who is due in May.
-
-[2025-12-28 00:55:06](https://bsky.app/profile/nytimes.com/post/3may66exa7s2b)
+[2025-12-28 01:11:46](https://bsky.app/profile/sokuho.news/post/3may746m4ci2v)
 
 ---
 
