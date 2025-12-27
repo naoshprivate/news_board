@@ -1,9 +1,9 @@
-# [2025-12-27 21:10 updated](2025_12_27.md)
+# [2025-12-27 21:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】広島市安芸区中野で住宅火災 (2025-12-27 20:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxreci6l32b" target="_blank">sokuho.news</a> (2025-12-27 21:05:46)</span><span style="padding-right:50px;">We're taking stock of this year's notable holiday movies, with titles including such gems as Oy to the World!, Christmas at the Catnip Cafe, A Merry Little Ex-Mas, and A Pickleball Christmas. <a href="https://bsky.app/profile/npr.org/post/3maxrdzr3vr23" target="_blank">npr.org</a> (2025-12-27 21:05:37)</span><span style="padding-right:50px;">When the screens are out of the way, kids are back to being kids—without the temptation to zone out electronically. on.wsj.com/4pVNKAl <a href="https://bsky.app/profile/wsj.com/post/3maxrabi25v2k" target="_blank">wsj.com</a> (2025-12-27 21:03:31)</span><span style="padding-right:50px;">Two exhibitions—the Philadelphia Art Museum’s ‘Dreamworld: Surrealism at 100’ and the Metropolitan Museum of Art’s ‘Man Ray: When Objects Dream’—highlight the movement’s weird, witty and wondrous creations. on.wsj.com/49bOpXo <a href="https://bsky.app/profile/wsj.com/post/3maxr7tryp42o" target="_blank">wsj.com</a> (2025-12-27 21:03:17)</span><span style="padding-right:50px;">駄菓子屋で買えた、あのスチロール製の飛行機「ソフトグライダー」。埼玉県戸田市にある「ツバメ玩具製作所」は、国内に残る唯一のメーカーです。 www.nikkei.com/article/DGXZQO...  #2025年読まれた記事 <a href="https://bsky.app/profile/nikkei.com/post/3maxr372yxp2m" target="_blank">nikkei.com</a> (2025-12-27 21:00:41)</span>
+<span style="padding-right:50px;">Four hikers found dead after avalanche in central Greece <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxsmqx7ga2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 21:28:23)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】広島市安芸区中野で住宅火災 (2025-12-27 20:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxreci6l32b" target="_blank">sokuho.news</a> (2025-12-27 21:05:46)</span><span style="padding-right:50px;">We're taking stock of this year's notable holiday movies, with titles including such gems as Oy to the World!, Christmas at the Catnip Cafe, A Merry Little Ex-Mas, and A Pickleball Christmas. <a href="https://bsky.app/profile/npr.org/post/3maxrdzr3vr23" target="_blank">npr.org</a> (2025-12-27 21:05:37)</span><span style="padding-right:50px;">When the screens are out of the way, kids are back to being kids—without the temptation to zone out electronically. on.wsj.com/4pVNKAl <a href="https://bsky.app/profile/wsj.com/post/3maxrabi25v2k" target="_blank">wsj.com</a> (2025-12-27 21:03:31)</span><span style="padding-right:50px;">Two exhibitions—the Philadelphia Art Museum’s ‘Dreamworld: Surrealism at 100’ and the Metropolitan Museum of Art’s ‘Man Ray: When Objects Dream’—highlight the movement’s weird, witty and wondrous creations. on.wsj.com/49bOpXo <a href="https://bsky.app/profile/wsj.com/post/3maxr7tryp42o" target="_blank">wsj.com</a> (2025-12-27 21:03:17)</span>
   </div>
 </div>
 
@@ -32,15 +32,23 @@
 
 ## News Headlines
 
-- Multiple Accidents on Kanetsu Expressway in Japan
-- Ukrainian President Zelenskyy to Meet with US President Trump
-- Glaciers in Tajikistan Resist Melting Due to Mysterious Ice Cores
-- Multiple Fatalities in Japan's Kanetsu Expressway Accident
-- Zelenskyy Accuses Russia of Inflicting Suffering on Ukraine
-- North Korea's Kim Sends New Year's Greeting to Putin
+- Four hikers found dead after avalanche in central Greece
+- Multiple people injured in 67-car pileup on Japan's Kanetsu highway
+- Ukraine's Zelenskyy to meet with US President Biden on Dec 28
+- Taiwan's planned T-Dome defense shield could ward off Chinese aerial attacks
+- Thailand and Cambodia agree to ceasefire after deadly border clashes
+- Malaysia's Borneo island sees rare sighting of world's rarest felines
 
 
 ----
+
+@bbcnews-world-rss.bsky.social
+
+Four hikers found dead after avalanche in central Greece
+
+[2025-12-27 21:28:23](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxsmqx7ga2b)
+
+---
 
 @sokuho.news
 
@@ -120,15 +128,6 @@ https://cnn.it/3YMQFPQ
 Drugs like Adderall and Ritalin appear to help children with ADHD by activating brain areas involved in alertness and motivation. n.pr/4jgkEJy
 
 [2025-12-27 20:46:44](https://bsky.app/profile/npr.org/post/3maxqcaqirm2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-関越道 多重事故 2人死亡 26人重軽傷 通行止め続く
-https://news.web.nhk/newsweb/na/na-k10015015301000
-
-[2025-12-27 20:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxq7binmq2d)
 
 ---
 
