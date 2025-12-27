@@ -1,9 +1,9 @@
-# [2025-12-28 00:10 updated](2025_12_28.md)
+# [2025-12-28 00:30 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔NHKより【地震速報】です。  ■震度3■ 石垣島地方 与那国島 西表島 (2025-12-28 00:06) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3may3k3cn6327" target="_blank">sokuho.news</a> (2025-12-28 00:07:58)</span><span style="padding-right:50px;">🔔気象庁より【震度速報】です。  0時6分頃、沖縄県で最大震度3の地震を観測しました。 今後の情報に注意してください。 (2025-12-28 00:07:43) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/28/2025-12-28-00-06-13.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3may3jpw6fe2b" target="_blank">sokuho.news</a> (2025-12-28 00:07:45)</span><span style="padding-right:50px;">🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥 🔔 #緊急地震速報 【警報】 🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥  🚨台湾付近で地震⚠️沖縄で強い揺れ 🚨強い揺れに警戒してください。 (2025-12-28 00:06:25)  (NIED/強震モニタ/予測震度画像 +60秒) <a href="https://bsky.app/profile/sokuho.news/post/3may3jcpdir2x" target="_blank">sokuho.news</a> (2025-12-28 00:07:32)</span><span style="padding-right:50px;">🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥 🔔 #緊急地震速報 【警報】 🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥  🚨台湾付近で地震⚠️沖縄で強い揺れ 🚨強い揺れに警戒してください。 (2025-12-28 00:06:25)  (NIED/強震モニタ/予測震度画像 +30秒) <a href="https://bsky.app/profile/sokuho.news/post/3may3ig2qs42b" target="_blank">sokuho.news</a> (2025-12-28 00:07:02)</span><span style="padding-right:50px;">🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥 🔔 #緊急地震速報 【警報】 🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥  🚨台湾付近で地震⚠️沖縄で強い揺れ 🚨強い揺れに警戒してください。 (2025-12-28 00:06:25)  (NIED/強震モニタ/予測震度画像 +10秒) <a href="https://bsky.app/profile/sokuho.news/post/3may3hsnjvf2a" target="_blank">sokuho.news</a> (2025-12-28 00:06:41)</span>
+<span style="padding-right:50px;">Nine arrested in Italy for allegedly raising millions for Hamas <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3may4obmlfw2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-28 00:28:12)</span><span style="padding-right:50px;">Little to no additional snow accumulation is expected after some New York City areas were hit with the heaviest snowfall in years, forecasters said.  <a href="https://bsky.app/profile/forbes.com/post/3may47qlgdw2z" target="_blank">forbes.com</a> (2025-12-28 00:20:04)</span><span style="padding-right:50px;">【地震速報】沖縄 石垣島 竹富町の黒島 与那国島で震度３ https://news.web.nhk/newsweb/na/na-k10015014341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3may445uhs52k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 00:18:02)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:台湾付近, 深さ:40km マグニチュード:6.7, 最大震度:3 📍https://www.google.com/maps?q=24.7,122.1&ll=24.7,122.1&z=7&t=h 地震発生日時:2025-12-28 00:06頃 (10倍速▶600s→60s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3may42y4ntf2x" target="_blank">sokuho.news</a> (2025-12-28 00:17:24)</span><span style="padding-right:50px;">Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/Nr5FQSD <a href="https://bsky.app/profile/nytimes.com/post/3may42vz6ms26" target="_blank">nytimes.com</a> (2025-12-28 00:17:23)</span>
   </div>
 </div>
 
@@ -32,158 +32,113 @@
 
 ## News Headlines
 
-- Epicenter of 3.0 Magnitude Earthquake Spotted in Okinawa, Japan
-- Taiwan Region Hit by Earthquake, Strong Shakes Felt in Okinawa
-- US Olympic Team Doctor Shares Tips to Stay Healthy on Plane
-- University of Hawaii Grad Struggles to Find Job after Graduation
-- Benin Wins Maiden Africa Cup of Nations Finals
-- Rich Nations Lack Skilled Engineers for AI-Powered Electricity Grids
+- Nine arrested in Italy for allegedly raising millions for Hamas
+- No significant snow accumulation expected after New York City snowfall
+- 6.7-magnitude earthquake hits Taiwan region, causes tsunami warning in Japan
+- Russia attacks Ukraine with hundreds of drones ahead of talks
+- Austria's Marco Schwarz wins World Cup super-G event
+- Ukraine's Benin wins Africa Cup of Nations finals
 
 
 ----
 
-@sokuho.news
+@bbcnews-world-rss.bsky.social
 
-🔔NHKより【地震速報】です。
+Nine arrested in Italy for allegedly raising millions for Hamas
 
-■震度3■
-石垣島地方 与那国島 西表島
-(2025-12-28 00:06) #地震
+[2025-12-28 00:28:12](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3may4obmlfw2r)
 
-[2025-12-28 00:07:58](https://bsky.app/profile/sokuho.news/post/3may3k3cn6327)
+---
+
+@forbes.com
+
+Little to no additional snow accumulation is expected after some New York City areas were hit with the heaviest snowfall in years, forecasters said. 
+
+[2025-12-28 00:20:04](https://bsky.app/profile/forbes.com/post/3may47qlgdw2z)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震速報】沖縄 石垣島 竹富町の黒島 与那国島で震度３
+https://news.web.nhk/newsweb/na/na-k10015014341000
+
+[2025-12-28 00:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3may445uhs52k)
 
 ---
 
 @sokuho.news
 
-🔔気象庁より【震度速報】です。
+🔔防災科研より【強震モニタ】動画です。
+
+震源:台湾付近, 深さ:40km
+マグニチュード:6.7, 最大震度:3
+📍https://www.google.com/maps?q=24.7,122.1&ll=24.7,122.1&z=7&t=h
+地震発生日時:2025-12-28 00:06頃
+(10倍速▶600s→60s) #地震
+
+[2025-12-28 00:17:24](https://bsky.app/profile/sokuho.news/post/3may42y4ntf2x)
+
+---
+
+@nytimes.com
+
+Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/Nr5FQSD
+
+[2025-12-28 00:17:23](https://bsky.app/profile/nytimes.com/post/3may42vz6ms26)
+
+---
+
+@npr.org
+
+A federal judge this week canceled the trial of Kilmar Abrego Garcia, and scheduled a hearing on whether the prosecution is being vindictive in pursuing a human smuggling case against him. n.pr/3L3sZng
+
+[2025-12-28 00:17:16](https://bsky.app/profile/npr.org/post/3may42pujph2x)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震速報】沖縄 石垣島地方 与那国島 西表島で震度３
+https://news.web.nhk/newsweb/na/na-k10015014341000
+
+[2025-12-28 00:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3may3wrm6yp24)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:台湾付近, 深さ:40km
+マグニチュード:6.7, 最大震度:3
+📍https://www.google.com/maps?q=24.7,122.1&ll=24.7,122.1&z=7&t=h
+地震発生日時:2025-12-28 00:06頃
+(10倍速▶300s→30s) #地震
+
+[2025-12-28 00:12:04](https://bsky.app/profile/sokuho.news/post/3may3rglr4n2b)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
 
 0時6分頃、沖縄県で最大震度3の地震を観測しました。
-今後の情報に注意してください。
-(2025-12-28 00:07:43) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/28/2025-12-28-00-06-13.html?xlarge_image=1
+震源:台湾付近, 深さ:40km, 規模:M6.7
+この地震により、日本の沿岸では若干の海面変動があるかもしれませ…
+(2025-12-28 00:11:08) #地震
 
-[2025-12-28 00:07:45](https://bsky.app/profile/sokuho.news/post/3may3jpw6fe2b)
-
----
-
-@sokuho.news
-
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
-🔔 #緊急地震速報 【警報】
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
-
-🚨台湾付近で地震⚠️沖縄で強い揺れ
-🚨強い揺れに警戒してください。
-(2025-12-28 00:06:25)
-
-(NIED/強震モニタ/予測震度画像 +60秒)
-
-[2025-12-28 00:07:32](https://bsky.app/profile/sokuho.news/post/3may3jcpdir2x)
+[2025-12-28 00:11:10](https://bsky.app/profile/sokuho.news/post/3may3psip5h2b)
 
 ---
 
-@sokuho.news
+@en.afp.com
 
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
-🔔 #緊急地震速報 【警報】
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
+🇺🇦 🇷🇺 Russia pummelled Ukraine's capital with drones and missiles on Saturday, killing a woman and cutting power to hundreds of thousands, ahead of President Volodymyr Zelensky's latest talks with US leader Donald Trump. 
+➡️ u.afp.com/S8ew
 
-🚨台湾付近で地震⚠️沖縄で強い揺れ
-🚨強い揺れに警戒してください。
-(2025-12-28 00:06:25)
-
-(NIED/強震モニタ/予測震度画像 +30秒)
-
-[2025-12-28 00:07:02](https://bsky.app/profile/sokuho.news/post/3may3ig2qs42b)
-
----
-
-@sokuho.news
-
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
-🔔 #緊急地震速報 【警報】
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
-
-🚨台湾付近で地震⚠️沖縄で強い揺れ
-🚨強い揺れに警戒してください。
-(2025-12-28 00:06:25)
-
-(NIED/強震モニタ/予測震度画像 +10秒)
-
-[2025-12-28 00:06:41](https://bsky.app/profile/sokuho.news/post/3may3hsnjvf2a)
-
----
-
-@sokuho.news
-
-🔔NHKより【地震速報】です。
-
-■緊急地震速報(気象庁発表)■
-台湾付近付近で地震 強い揺れに警戒
-(2025-12-28 00:05) #地震
-
-[2025-12-28 00:06:33](https://bsky.app/profile/sokuho.news/post/3may3hkxdli2y)
-
----
-
-@sokuho.news
-
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
-🔔 #緊急地震速報 【警報】
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
-
-🚨台湾付近で地震⚠️沖縄で強い揺れ
-🚨強い揺れに警戒してください。
-(2025-12-28 00:06:25)
-
-(NIED/強震モニタ/予測震度画像)
-
-[2025-12-28 00:06:31](https://bsky.app/profile/sokuho.news/post/3may3hj43kk2r)
-
----
-
-@sokuho.news
-
-↑(続き)
-
-【対象地域】
-⚠️沖縄県与那国島⚠️沖縄県西表島⚠️沖縄県石垣島
-
-[2025-12-28 00:06:25](https://bsky.app/profile/sokuho.news/post/3may3hczb242y)
-
----
-
-@sokuho.news
-
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
-🔔 #緊急地震速報 【警報】
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
-
-🚨台湾付近で地震⚠️沖縄で強い揺れ
-🚨強い揺れに警戒してください。
-(2025-12-28 00:06:25)
-
-【対象都道府県】
-⚠️八重山
-
-↓(続く)
-
-[2025-12-28 00:06:25](https://bsky.app/profile/sokuho.news/post/3may3hct2db2z)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-28 00:06:17) #緊急地震速報
-
-[2025-12-28 00:06:23](https://bsky.app/profile/sokuho.news/post/3may3hbhckc2r)
+[2025-12-28 00:11:07](https://bsky.app/profile/en.afp.com/post/3may3pppoba2h)
 
 ---
 
