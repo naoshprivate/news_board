@@ -1,9 +1,9 @@
-# [2025-12-28 06:50 updated](2025_12_28.md)
+# [2025-12-28 07:10 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">China’s legislature approved revisions to the country’s foreign trade law, incorporating provisions to safeguard national sovereignty, security and development interests <a href="https://bsky.app/profile/bloomberg.com/post/3mayrxe3esb2h" target="_blank">bloomberg.com</a> (2025-12-28 06:49:05)</span><span style="padding-right:50px;">What makes a truly memorable meal? Consider these four factors <a href="https://bsky.app/profile/bloomberg.com/post/3mayrtrsd6j2p" target="_blank">bloomberg.com</a> (2025-12-28 06:47:06)</span><span style="padding-right:50px;">Operators of Lukoil-branded gas stations in the US have been ensnared by sanctions imposed on the Russian company following Moscow's invasion of Ukraine. <a href="https://bsky.app/profile/bloomberg.com/post/3mayrqbkeqd2e" target="_blank">bloomberg.com</a> (2025-12-28 06:45:08)</span><span style="padding-right:50px;">California is in for a brief weekend reprieve from damaging holiday storms that killed four people and hobbled Christmas travel, but weather officials warned of more wet weather heading to the rain-soaked state starting on New Year’s Eve. <a href="https://bsky.app/profile/bloomberg.com/post/3mayrogkrld24" target="_blank">bloomberg.com</a> (2025-12-28 06:44:06)</span><span style="padding-right:50px;">Austin Reaves is expected to miss multiple weeks for the Los Angeles Lakers after exiting their Christmas Day contest with an injury. <a href="https://bsky.app/profile/usatoday.com/post/3mayqvsifif2g" target="_blank">usatoday.com</a> (2025-12-28 06:30:20)</span>
+<span style="padding-right:50px;">避難所の段ボールベッド 早期設置で血栓割合低く 能登半島地震 https://news.web.nhk/newsweb/na/na-k10015015641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mayt32zasp22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 07:09:02)</span><span style="padding-right:50px;">千代田線 代々木上原～霞ケ関 運転見合わせ https://news.web.nhk/newsweb/na/na-k10015015731000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maysvpms2x2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 07:06:02)</span><span style="padding-right:50px;">Nigeria left three goals slip before edging past Tunisia reut.rs/45trzJv <a href="https://bsky.app/profile/reuters.com/post/3maysu3qvfk2i" target="_blank">reuters.com</a> (2025-12-28 07:05:10)</span><span style="padding-right:50px;">The National Kidney Registry has matched thousands of kidney donors with recipients. At the same time, the privately run registry has created a multimillion-dollar business with considerable power over the flow of thousands of organs, according to interviews and a review of business records. <a href="https://bsky.app/profile/nytimes.com/post/3maystwnbac2b" target="_blank">nytimes.com</a> (2025-12-28 07:05:04)</span><span style="padding-right:50px;">Not sure where your charitable donations end up? These groups let you know exactly who you're helping. https://cnn.it/4sxORIr <a href="https://bsky.app/profile/cnn.com/post/3maysoicrdm25" target="_blank">cnn.com</a> (2025-12-28 07:02:02)</span>
   </div>
 </div>
 
@@ -32,93 +32,98 @@
 
 ## News Headlines
 
-- China Approves Revisions to Foreign Trade Law to Safeguard National Interests
-- Factors That Make a Meal Truly Memorable
-- Lukoil-Branded Gas Stations in US Caught in Sanctions on Russia
-- California Braces for More Rain as Holiday Storms Ease
-- Austin Reaves Expected to Miss Multiple Weeks Due to Injury
-- Iran Warns Israel and US of More Decisive Response if Attacked Again
+- Disaster Relief Tents with Cardboard Beds Show Lower Risk of Blood Clots after Early Setup in Japan Earthquake
+- Tokyo Metro Line to Suspend Service Between Ikebukuro and Koganei
+- Canada Announces Additional 2.5 Billion Canadian Dollars to Support Ukraine
+- China Approves Revisions to Foreign Trade Law to Safeguard National Sovereignty
+- Memorable Meals: A Combination of Four Key Factors
+- California to Get Brief Reprieve from Holiday Storms Before New Year's Eve
 
 
 ----
 
-@bloomberg.com
+@nhknewsunofficial.bsky.social
 
-China’s legislature approved revisions to the country’s foreign trade law, incorporating provisions to safeguard national sovereignty, security and development interests
+避難所の段ボールベッド 早期設置で血栓割合低く 能登半島地震
+https://news.web.nhk/newsweb/na/na-k10015015641000
 
-[2025-12-28 06:49:05](https://bsky.app/profile/bloomberg.com/post/3mayrxe3esb2h)
-
----
-
-@bloomberg.com
-
-What makes a truly memorable meal? Consider these four factors
-
-[2025-12-28 06:47:06](https://bsky.app/profile/bloomberg.com/post/3mayrtrsd6j2p)
+[2025-12-28 07:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mayt32zasp22)
 
 ---
 
-@bloomberg.com
+@nhknewsunofficial.bsky.social
 
-Operators of Lukoil-branded gas stations in the US have been ensnared by sanctions imposed on the Russian company following Moscow's invasion of Ukraine.
+千代田線 代々木上原～霞ケ関 運転見合わせ
+https://news.web.nhk/newsweb/na/na-k10015015731000
 
-[2025-12-28 06:45:08](https://bsky.app/profile/bloomberg.com/post/3mayrqbkeqd2e)
-
----
-
-@bloomberg.com
-
-California is in for a brief weekend reprieve from damaging holiday storms that killed four people and hobbled Christmas travel, but weather officials warned of more wet weather heading to the rain-soaked state starting on New Year’s Eve.
-
-[2025-12-28 06:44:06](https://bsky.app/profile/bloomberg.com/post/3mayrogkrld24)
-
----
-
-@usatoday.com
-
-Austin Reaves is expected to miss multiple weeks for the Los Angeles Lakers after exiting their Christmas Day contest with an injury.
-
-[2025-12-28 06:30:20](https://bsky.app/profile/usatoday.com/post/3mayqvsifif2g)
-
----
-
-@aljazeera.com
-
-If Israel and the US were to attack Iran again, they would 'face a more decisive response', Pezeshkian warns.
-
-[2025-12-28 06:30:04](https://bsky.app/profile/aljazeera.com/post/3mayqvdmtdy2i)
-
----
-
-@forbes.com
-
-The podcaster, who endorsed Trump in the lead-up to the 2024 election, has criticized the president a number of times over the last year.
-
-[2025-12-28 06:30:04](https://bsky.app/profile/forbes.com/post/3mayqvdf6rl2o)
+[2025-12-28 07:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maysvpms2x2s)
 
 ---
 
 @reuters.com
 
-Comeback kings Villa turn the tables again, this time on Chelsea reut.rs/4qyEClf
+Nigeria left three goals slip before edging past Tunisia reut.rs/45trzJv
 
-[2025-12-28 06:25:08](https://bsky.app/profile/reuters.com/post/3mayqmiusot2c)
-
----
-
-@wsj.com
-
-The business executive and TV personality on his nomadic childhood, learning to be a marksman and his mother’s financial secret. on.wsj.com/3YMhAv2
-
-[2025-12-28 06:11:38](https://bsky.app/profile/wsj.com/post/3maypuf7ppy2z)
+[2025-12-28 07:05:10](https://bsky.app/profile/reuters.com/post/3maysu3qvfk2i)
 
 ---
 
 @nytimes.com
 
-Mickey Lee, a contestant on the latest season of the television show “Big Brother,” who was known for her vibrant personality and bold strategic moves to survive the game, died on Thursday. She was 35.
+The National Kidney Registry has matched thousands of kidney donors with recipients. At the same time, the privately run registry has created a multimillion-dollar business with considerable power over the flow of thousands of organs, according to interviews and a review of business records.
 
-[2025-12-28 06:10:06](https://bsky.app/profile/nytimes.com/post/3mayprmuatd2r)
+[2025-12-28 07:05:04](https://bsky.app/profile/nytimes.com/post/3maystwnbac2b)
+
+---
+
+@cnn.com
+
+Not sure where your charitable donations end up? These groups let you know exactly who you're helping. https://cnn.it/4sxORIr
+
+[2025-12-28 07:02:02](https://bsky.app/profile/cnn.com/post/3maysoicrdm25)
+
+---
+
+@usatoday.com
+
+The crew at No Laying Up has been asking for followers to post their most "unusable golf gift from your non-golfer relative."
+
+[2025-12-28 07:00:42](https://bsky.app/profile/usatoday.com/post/3maysm4dcdc2g)
+
+---
+
+@washingtonpost.com
+
+The going-gray process happens at different speeds for different people, but most of us start to notice increasing gray hair sometime in our 30s or 40s, according to the American Academy of Dermatology.
+
+Here’s what you should know:
+
+[2025-12-28 07:00:08](https://bsky.app/profile/washingtonpost.com/post/3maysl3ynut25)
+
+---
+
+@apnews.com
+
+Senegal has a new star.
+
+[2025-12-28 07:00:07](https://bsky.app/profile/apnews.com/post/3maysl2ogem23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【随時更新】ロシア ウクライナに軍事侵攻（12月28日の動き）
+https://news.web.nhk/newsweb/na/na-k10014990751000
+
+[2025-12-28 06:57:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maysfnahfw22)
+
+---
+
+@japan.reuters.com
+
+ウクライナのゼレンスキー大統領は２７日、トランプ大統領との会談のために米国に向かう途中、カナダのハリファクスに立ち寄り、カーニー首相と会談した。カーニー首相はウクライナに２５億カナダドル（１８億３０００万ドル）の追加支援を提供すると発表した。 bit.ly/48U3TQQ
+
+[2025-12-28 06:54:39](https://bsky.app/profile/japan.reuters.com/post/3maysbbpusx25)
 
 ---
 
