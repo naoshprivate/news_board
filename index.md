@@ -1,9 +1,9 @@
-# [2025-12-27 09:50 updated](2025_12_27.md)
+# [2025-12-27 10:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">サッカーのベルギー１部は２６日、各地で試合を行い、ゲンクの伊東純也は復帰戦となったホームのクラブ・ブリュージュ戦でゴールを決めた。 bit.ly/4sktCJW <a href="https://bsky.app/profile/japan.reuters.com/post/3mawlens6sv25" target="_blank">japan.reuters.com</a> (2025-12-27 09:45:56)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山形新幹線の窓ガラスにヒビ つばさ128号が山形～新庄間で終日運休 (2025-12-27 09:41:00) #ニュース  🚄鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mawleeifhg2b" target="_blank">sokuho.news</a> (2025-12-27 09:45:46)</span><span style="padding-right:50px;">２０２５年最後の週の米国株式市場は、最高値を更新してさらなる節目に近づき、強気基調で終えると期待されている。市場に影響を与えそうな注目材料は３０日発表の米連邦公開市場委員会（ＦＯＭＣ）議事要旨（１２月開催分）。年末のポートフォリオ調整も、取引が少ない中で市場の変動を大きくする可能性がある。 bit.ly/4p6Dx2J <a href="https://bsky.app/profile/japan.reuters.com/post/3mawldeu3kf2s" target="_blank">japan.reuters.com</a> (2025-12-27 09:45:13)</span><span style="padding-right:50px;">England bowler Atkinson comes off injured in Melbourne test reut.rs/4p98e7H <a href="https://bsky.app/profile/reuters.com/post/3mawl2lzbb52p" target="_blank">reuters.com</a> (2025-12-27 09:40:19)</span><span style="padding-right:50px;">サッカーのイングランド・プレミアリーグは２６日、１試合を行い、マンチェスター・ユナイテッド（マンＵ）はホームでニューカッスルを１─０で下した。 bit.ly/4poyriM <a href="https://bsky.app/profile/japan.reuters.com/post/3mawkyyu7y52f" target="_blank">japan.reuters.com</a> (2025-12-27 09:39:25)</span>
+<span style="padding-right:50px;">Folding iPhones, home robots, mind-reading tech and EV supercars are all heading your way—along with AI-induced challenges in healthcare and cybersecurity on.wsj.com/44LPe7N <a href="https://bsky.app/profile/wsj.com/post/3mawmfq26lf2c" target="_blank">wsj.com</a> (2025-12-27 10:04:26)</span><span style="padding-right:50px;">Tips for improving focus, staying connected and finding ‘high-kick joy’ in 2026. on.wsj.com/4qvYxkM <a href="https://bsky.app/profile/wsj.com/post/3mawmbo7j7m2o" target="_blank">wsj.com</a> (2025-12-27 10:02:10)</span><span style="padding-right:50px;">It was in decline, but a flurry of new restaurants and chic cocktail bars is putting the neighborhood back on the tourist map as the place to be on Friday night. on.wsj.com/4qmmwTi <a href="https://bsky.app/profile/wsj.com/post/3mawmbncebn2h" target="_blank">wsj.com</a> (2025-12-27 10:02:09)</span><span style="padding-right:50px;">Hawaii's Big Island is banning people from feeding feral cats in an effort to protect native species, including an endangered goose. <a href="https://bsky.app/profile/apnews.com/post/3mawm7ts3lm2p" target="_blank">apnews.com</a> (2025-12-27 10:01:08)</span><span style="padding-right:50px;">｢夫婦で住宅ローン｣、離婚と収入減で窮地に www.nikkei.com/article/DGXZQO...  「早く引っ越して生活を安定させないと」。埼玉県郊外の2階建て4LDK、築5年の家で3人の子どもと暮らす30代女性の表情は切迫していた。  約2500万円の35年ローンで連帯保証人となり、わずか1年後に夫から「彼女ができたから別れたい」。  マイホームを手放す決断をした人たちの実情に迫りました。 <a href="https://bsky.app/profile/nikkei.com/post/3mawm6yenen2y" target="_blank">nikkei.com</a> (2025-12-27 10:00:40)</span>
   </div>
 </div>
 
@@ -32,111 +32,102 @@
 
 ## News Headlines
 
-- Belgian Football Team Scores First Home Win
-- Train Collision Forces Hokkaido Train to Halt Operations
-- US Stock Market Rises to Record High Ahead of FOMC Meeting
-- England Cricketer Atkinson Injured in Melbourne Test
-- Manchester United Beats Newcastle United 1-0 in Premier League
-- Earthquake Hits Hokkaido, Japan, No Tsunami Warning Issued
+- Folding iPhones, home robots, mind-reading tech and EV supercars on the horizon
+- Tips for improving focus, staying connected and finding ‘high-kick joy’ in 2026
+- Neighborhood's rebirth: new restaurants and bars put it back on the map
+- Hawaii's Big Island bans feeding feral cats to protect native species
+- New research reveals discreet biological subtypes of autism
+- England's Atkinson injured in Melbourne test
 
 
 ----
 
-@japan.reuters.com
+@wsj.com
 
-サッカーのベルギー１部は２６日、各地で試合を行い、ゲンクの伊東純也は復帰戦となったホームのクラブ・ブリュージュ戦でゴールを決めた。 bit.ly/4sktCJW
+Folding iPhones, home robots, mind-reading tech and EV supercars are all heading your way—along with AI-induced challenges in healthcare and cybersecurity on.wsj.com/44LPe7N
 
-[2025-12-27 09:45:56](https://bsky.app/profile/japan.reuters.com/post/3mawlens6sv25)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】山形新幹線の窓ガラスにヒビ つばさ128号が山形～新庄間で終日運休
-(2025-12-27 09:41:00) #ニュース
-
-🚄鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-27 09:45:46](https://bsky.app/profile/sokuho.news/post/3mawleeifhg2b)
-
----
-
-@japan.reuters.com
-
-２０２５年最後の週の米国株式市場は、最高値を更新してさらなる節目に近づき、強気基調で終えると期待されている。市場に影響を与えそうな注目材料は３０日発表の米連邦公開市場委員会（ＦＯＭＣ）議事要旨（１２月開催分）。年末のポートフォリオ調整も、取引が少ない中で市場の変動を大きくする可能性がある。 bit.ly/4p6Dx2J
-
-[2025-12-27 09:45:13](https://bsky.app/profile/japan.reuters.com/post/3mawldeu3kf2s)
-
----
-
-@reuters.com
-
-England bowler Atkinson comes off injured in Melbourne test reut.rs/4p98e7H
-
-[2025-12-27 09:40:19](https://bsky.app/profile/reuters.com/post/3mawl2lzbb52p)
-
----
-
-@japan.reuters.com
-
-サッカーのイングランド・プレミアリーグは２６日、１試合を行い、マンチェスター・ユナイテッド（マンＵ）はホームでニューカッスルを１─０で下した。 bit.ly/4poyriM
-
-[2025-12-27 09:39:25](https://bsky.app/profile/japan.reuters.com/post/3mawkyyu7y52f)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:釧路沖, 深さ:50km
-マグニチュード:3.6, 最大震度:1
-📍https://www.google.com/maps?q=42.7,144.6&ll=42.7,144.6&z=7&t=h
-地震発生日時:2025-12-27 09:33頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-27 09:36:50](https://bsky.app/profile/sokuho.news/post/3mawkuf75rt2e)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-9時33分頃、北海道で最大震度1の地震を観測しました。
-震源:釧路沖, 深さ:50km, 規模:M3.6
-この地震による津波の心配はありません。
-(2025-12-27 09:36:23) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/27/2025-12-27-09-33-49.html?xlarge_image=1
-
-[2025-12-27 09:36:24](https://bsky.app/profile/sokuho.news/post/3mawktmnvd62x)
-
----
-
-@japan.reuters.com
-
-野球の日本代表「侍ジャパン」を率いる井端弘和監督は２６日、来年３月に連覇に挑戦するワールド・ベースボール・クラシック（ＷＢＣ）のメンバーのうち８選手を発表し、米大リーグ（ＭＬＢ）ドジャースの大谷翔平選手らが名を連ねた。 bit.ly/4qpRgCR
-
-[2025-12-27 09:33:56](https://bsky.app/profile/japan.reuters.com/post/3mawkp6xvpn2s)
+[2025-12-27 10:04:26](https://bsky.app/profile/wsj.com/post/3mawmfq26lf2c)
 
 ---
 
 @wsj.com
 
-Rolex has a plan to put watch flippers out of business—even if it means leaving money on the table. on.wsj.com/4qvEIKs
+Tips for improving focus, staying connected and finding ‘high-kick joy’ in 2026. on.wsj.com/4qvYxkM
 
-[2025-12-27 09:32:23](https://bsky.app/profile/wsj.com/post/3mawkmg7hpz2o)
+[2025-12-27 10:02:10](https://bsky.app/profile/wsj.com/post/3mawmbo7j7m2o)
 
 ---
 
-@japan.reuters.com
+@wsj.com
 
-内戦が続く中東のイエメンで２６日、分離派「南部暫定評議会」（ＳＴＣ）がサウジアラビアによる撤退の呼びかけを拒否し、東部のハドラマウト州とマハラ州の治安維持を続けると表明した。 bit.ly/4pVwHOX
+It was in decline, but a flurry of new restaurants and chic cocktail bars is putting the neighborhood back on the tourist map as the place to be on Friday night. on.wsj.com/4qmmwTi
 
-[2025-12-27 09:30:49](https://bsky.app/profile/japan.reuters.com/post/3mawkjmtjff2u)
+[2025-12-27 10:02:09](https://bsky.app/profile/wsj.com/post/3mawmbncebn2h)
+
+---
+
+@apnews.com
+
+Hawaii's Big Island is banning people from feeding feral cats in an effort to protect native species, including an endangered goose.
+
+[2025-12-27 10:01:08](https://bsky.app/profile/apnews.com/post/3mawm7ts3lm2p)
+
+---
+
+@nikkei.com
+
+｢夫婦で住宅ローン｣、離婚と収入減で窮地に
+www.nikkei.com/article/DGXZQO...
+
+「早く引っ越して生活を安定させないと」。埼玉県郊外の2階建て4LDK、築5年の家で3人の子どもと暮らす30代女性の表情は切迫していた。
+
+約2500万円の35年ローンで連帯保証人となり、わずか1年後に夫から「彼女ができたから別れたい」。
+
+マイホームを手放す決断をした人たちの実情に迫りました。
+
+[2025-12-27 10:00:40](https://bsky.app/profile/nikkei.com/post/3mawm6yenen2y)
+
+---
+
+@usatoday.com
+
+White House Press Secretary Karoline Leavitt announced that she's having a baby girl, calling it "the greatest Christmas gift we could ever ask for."
+
+[2025-12-27 10:00:31](https://bsky.app/profile/usatoday.com/post/3mawm6q7xoy2h)
+
+---
+
+@cnbc.com
+
+Falling rents and rising vacancies are giving renters more room to negotiate prices heading into early 2026. 
+
+[2025-12-27 10:00:24](https://bsky.app/profile/cnbc.com/post/3mawm6je7qc24)
+
+---
+
+@washingtonpost.com
+
+For decades, autism has been described as a spectrum. Now, advances in science are revealing discreet biological subtypes.
+
+The discoveries could one day lead to more accurate diagnoses and treatments.
+
+[2025-12-27 10:00:09](https://bsky.app/profile/washingtonpost.com/post/3mawm634nmc24)
+
+---
+
+@cbsnews.com
+
+Maps show winter storm forecast for ice and snow from Great Lakes to Northeast.
+
+[2025-12-27 10:00:00](https://bsky.app/profile/cbsnews.com/post/3mawm5syem52b)
+
+---
+
+@nytimes.com
+
+Annette Dionne, who shared in her siblings’ fame as one of the first quintuplets known to survive infancy, died on Wednesday at 91. She was the last surviving sister.
+
+[2025-12-27 09:55:37](https://bsky.app/profile/nytimes.com/post/3mawlvxtubr2a)
 
 ---
 
