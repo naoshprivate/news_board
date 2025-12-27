@@ -1,9 +1,9 @@
-# [2025-12-27 13:30 updated](2025_12_27.md)
+# [2025-12-27 13:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The country’s exports to the U.S. have surged since President Trump imposed new import duties on every country this year. on.wsj.com/49aDsFr <a href="https://bsky.app/profile/wsj.com/post/3mawxqq75ll2c" target="_blank">wsj.com</a> (2025-12-27 13:27:26)</span><span style="padding-right:50px;">カンボジア国防省は２７日、タイとカンボジアは、国境地帯での軍事衝突を巡り、停戦に合意したと明らかにした。 bit.ly/48TiX16 <a href="https://bsky.app/profile/japan.reuters.com/post/3mawxf3ilg225" target="_blank">japan.reuters.com</a> (2025-12-27 13:20:55)</span><span style="padding-right:50px;">بيان لوزارة الدفاع الكمبودية: تايلاند وكمبوديا توقعان اتفاقا لوقف إطلاق النار reut.rs/4b3xNn6 <a href="https://bsky.app/profile/reuters.com/post/3mawxdrvsa72b" target="_blank">reuters.com</a> (2025-12-27 13:20:12)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】タイとカンボジアの国防相が協議 国境地帯の衝突で停戦合意 タイメディア (2025年12月27日 13:19) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mawxct3zvd2x" target="_blank">sokuho.news</a> (2025-12-27 13:19:40)</span><span style="padding-right:50px;">イスラエル、ソマリランドを国家承認　ガザ市民の移送検討と報道 www.nikkei.com/article/DGXZQO...  ロイター通信によると、ソマリランドを国家承認する国はイスラエルが初めて。   イエメンの親イラン武装組織フーシを抑える上でも重要な足がかりとなる可能性があります。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3mawx5gurrc2y" target="_blank">nikkei.com</a> (2025-12-27 13:16:39)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】高松市屋島西町の海岸で男性の遺体がみつかる【香川】 (2025-12-27 13:33:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mawyujmfrw27" target="_blank">sokuho.news</a> (2025-12-27 13:47:27)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】軍事衝突のタイとカンボジア “停戦合意”の共同声明 両国防相が会談 (2025-12-27 13:43:19) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mawyovomhs2x" target="_blank">sokuho.news</a> (2025-12-27 13:44:19)</span><span style="padding-right:50px;">At least 7 killed in Vietnam after bus overturns reut.rs/49cUUci <a href="https://bsky.app/profile/reuters.com/post/3mawyhiar5t2i" target="_blank">reuters.com</a> (2025-12-27 13:40:10)</span><span style="padding-right:50px;">タイとカンボジアの軍事衝突 停戦で合意 https://news.web.nhk/newsweb/na/na-k10015015471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawyfklnzp26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 13:39:03)</span><span style="padding-right:50px;">群馬 関越道で多重事故 車内から新たに1人の遺体 死者2人に https://news.web.nhk/newsweb/na/na-k10015015301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawya6okes24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 13:36:02)</span>
   </div>
 </div>
 
@@ -32,15 +32,87 @@
 
 ## News Headlines
 
-- Cambodia, Thailand Agree to Ceasefire in Border Conflict
-- Russia Using Belarus Territory to Bypass Ukraine's Defenses
-- US Officials Consider Forcing Boarding of Oil Tanker Near Venezuela
-- Trump Administration Wants to Control Data Centers' Power Grid Connections
-- Pakistani Officials Unfazed by Close Ties with US, China
-- Over 40 Million Americans Under Winter Storm Warnings or Advisories
+- Body found on coast in Takamatsu, Japan
+- Thailand and Cambodia agree on ceasefire
+- 7 killed in Vietnam bus crash
+- Multiple fatalities in triple car accident on Japan's Joshin'etsu Expressway
+- Longtime guitarist and keyboardist for The Cure dies at 65
+- US officials consider boarding oil tanker in international waters near Venezuela
 
 
 ----
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】高松市屋島西町の海岸で男性の遺体がみつかる【香川】
+(2025-12-27 13:33:00) #ニュース
+
+[2025-12-27 13:47:27](https://bsky.app/profile/sokuho.news/post/3mawyujmfrw27)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】軍事衝突のタイとカンボジア “停戦合意”の共同声明 両国防相が会談
+(2025-12-27 13:43:19) #ニュース
+
+[2025-12-27 13:44:19](https://bsky.app/profile/sokuho.news/post/3mawyovomhs2x)
+
+---
+
+@reuters.com
+
+At least 7 killed in Vietnam after bus overturns reut.rs/49cUUci
+
+[2025-12-27 13:40:10](https://bsky.app/profile/reuters.com/post/3mawyhiar5t2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+タイとカンボジアの軍事衝突 停戦で合意
+https://news.web.nhk/newsweb/na/na-k10015015471000
+
+[2025-12-27 13:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawyfklnzp26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+群馬 関越道で多重事故 車内から新たに1人の遺体 死者2人に
+https://news.web.nhk/newsweb/na/na-k10015015301000
+
+[2025-12-27 13:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawya6okes24)
+
+---
+
+@cnn.com
+
+Perry Archangelo Bamonte, longtime guitarist and keyboardist for the influential goth band The Cure, has died. He was 65. https://cnn.it/4sgVCxR
+
+[2025-12-27 13:31:02](https://bsky.app/profile/cnn.com/post/3mawxx5ko5t2u)
+
+---
+
+@reuters.com
+
+China revises aviation law to regulate drones, tighten safety rules reut.rs/4qu9nrr
+
+[2025-12-27 13:30:19](https://bsky.app/profile/reuters.com/post/3mawxvulwoe2k)
+
+---
+
+@aljazeera.com
+
+Thailand and Cambodia agree on ceasefire, Cambodia Defence Ministry says https://aje.io/tzveip
+
+[2025-12-27 13:30:02](https://bsky.app/profile/aljazeera.com/post/3mawxveugvi2h)
+
+---
 
 @wsj.com
 
@@ -55,83 +127,6 @@ The country’s exports to the U.S. have surged since President Trump imposed ne
 カンボジア国防省は２７日、タイとカンボジアは、国境地帯での軍事衝突を巡り、停戦に合意したと明らかにした。 bit.ly/48TiX16
 
 [2025-12-27 13:20:55](https://bsky.app/profile/japan.reuters.com/post/3mawxf3ilg225)
-
----
-
-@reuters.com
-
-بيان لوزارة الدفاع الكمبودية: تايلاند وكمبوديا توقعان اتفاقا لوقف إطلاق النار reut.rs/4b3xNn6
-
-[2025-12-27 13:20:12](https://bsky.app/profile/reuters.com/post/3mawxdrvsa72b)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】タイとカンボジアの国防相が協議 国境地帯の衝突で停戦合意 タイメディア
-(2025年12月27日 13:19) #ニュース
-
-[2025-12-27 13:19:40](https://bsky.app/profile/sokuho.news/post/3mawxct3zvd2x)
-
----
-
-@nikkei.com
-
-イスラエル、ソマリランドを国家承認　ガザ市民の移送検討と報道
-www.nikkei.com/article/DGXZQO...
-
-ロイター通信によると、ソマリランドを国家承認する国はイスラエルが初めて。
- 
-イエメンの親イラン武装組織フーシを抑える上でも重要な足がかりとなる可能性があります。
-
-#ニュース
-
-[2025-12-27 13:16:39](https://bsky.app/profile/nikkei.com/post/3mawx5gurrc2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-“トランプ大統領 ISへの攻撃 クリスマスに変更” 米メディア
-https://news.web.nhk/newsweb/na/na-k10015015431000
-
-[2025-12-27 13:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawx2mzntq2v)
-
----
-
-@nbcnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Michigan Wolverines hire Utah's Kyle Whittingham to be the next head football coach after the firing and arrest of former coach Sherrone Moore.</strong>
-
-[2025-12-27 13:10:11](https://bsky.app/profile/nbcnews.com/post/3mawwrux3272k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-キム総書記がプーチン大統領に祝電 “同盟関係は永遠の財産”
-https://news.web.nhk/newsweb/na/na-k10015015421000
-
-[2025-12-27 13:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawwpw7beb2l)
-
----
-
-@nhknewsunofficial.bsky.social
-
-米国務省 台湾への武器売却めぐる中国の制裁 “強く反対”
-https://news.web.nhk/newsweb/na/na-k10015015401000
-
-[2025-12-27 13:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawwkjfoxo2b)
-
----
-
-@reuters.com
-
-بيان لوزارة الدفاع الكمبودية: تايلاند وكمبوديا توقعان اتفاقا لوقف إطلاق النار reut.rs/3YNaZAA
-
-[2025-12-27 13:01:06](https://bsky.app/profile/reuters.com/post/3mawwbnea6w2x)
 
 ---
 
