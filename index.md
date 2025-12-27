@@ -1,9 +1,9 @@
-# [2025-12-27 19:50 updated](2025_12_27.md)
+# [2025-12-27 20:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ウクライナの首都キーウで２７日、ロシアによる大規模な攻撃があった。市内では爆発音が響き、防空システムが作動した。ウクライナ軍は、ミサイルが投入されたと明らかにした。 bit.ly/4pWdyMV <a href="https://bsky.app/profile/japan.reuters.com/post/3maxmu7bbpu26" target="_blank">japan.reuters.com</a> (2025-12-27 19:45:11)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】広島市安芸区で山火事 現在も消火中 (2025-12-27 19:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxmmige4r2y" target="_blank">sokuho.news</a> (2025-12-27 19:40:52)</span><span style="padding-right:50px;">🇲🇾 One of the world's rarest felines sighted on Malaysia's Borneo island   Images show the flat-headed cat, one of the world's rarest and most threatened wild felines, wandering around the Tangkulap Forest Reserve on the island of Borneo in February and August 2024. <a href="https://bsky.app/profile/en.afp.com/post/3maxmlmfry22f" target="_blank">en.afp.com</a> (2025-12-27 19:40:23)</span><span style="padding-right:50px;">Dhaka assistant coach Zaki dies after collapsing before BPL game reut.rs/3KORrsv <a href="https://bsky.app/profile/reuters.com/post/3maxmc7iext2o" target="_blank">reuters.com</a> (2025-12-27 19:35:07)</span><span style="padding-right:50px;">‘It’s been an expensive year’: Meituan counts cost of China’s delivery wars ft.trib.al/XqAlwgR <a href="https://bsky.app/profile/financialtimes.com/post/3maxm7qeegi2k" target="_blank">financialtimes.com</a> (2025-12-27 19:33:45)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】安芸区中野で建物火災 消防車9台が出動し消火活動 広島 (2025-12-27 20:06:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxo7qlqfe2y" target="_blank">sokuho.news</a> (2025-12-27 20:09:32)</span><span style="padding-right:50px;">ゼレンスキー大統領 トランプ大統領と28日会談へ 詰めの協議を https://news.web.nhk/newsweb/na/na-k10015015601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxo6wasy32m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 20:09:03)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】関越道67台の多重事故 「27日中の通行止め解除は難しい」NEXCO東日本 午後7時現在 (2025-12-27 20:00:41) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxnxckzli2a" target="_blank">sokuho.news</a> (2025-12-27 20:04:49)</span><span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞武器輸出、協定締結国条件に 「5類型」撤廃の歯止め 政府・与党 (2025/12/27 19:59) #ニュース https://www.sankei.com/article/20251227-XBRVCDF5BFPFPCWWSHOMBXJ4JU/ <a href="https://bsky.app/profile/sokuho.news/post/3maxnslbg6l2s" target="_blank">sokuho.news</a> (2025-12-27 20:02:10)</span><span style="padding-right:50px;">「ピンクは女性の色」思い込みは第2次大戦後、米国から www.nikkei.com/article/DGXZQO...  #2025年読まれた記事 <a href="https://bsky.app/profile/nikkei.com/post/3maxnq7mzha2x" target="_blank">nikkei.com</a> (2025-12-27 20:00:51)</span>
   </div>
 </div>
 
@@ -32,104 +32,110 @@
 
 ## News Headlines
 
-- Russian drone and missile barrage kills one, wounds dozens in Kyiv and its suburbs
-- Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks
+- Multiple car accident on K̈saka Sky Highway, 27-day traffic restriction likely
+- Ukraine's capital Kyiv hit by large-scale Russian attack, explosions heard and air defense system activated
+- Thai and Cambodian armies agree to ceasefire, ending weeks of border clashes
+- Somalia demands Israel withdraw recognition of Somaliland
+- Poland closes two airports due to Russia's attack on Ukraine
 - Rare flat-headed cat spotted on Malaysia's Borneo island
-- Mountain gorillas face new perils as numbers rebound in Virunga mountains
-- Meituan counts cost of China's delivery wars as year ends
-- Belly dancers shake off taboos in Saudi Arabia behind closed doors
 
 
 ----
 
-@japan.reuters.com
-
-ウクライナの首都キーウで２７日、ロシアによる大規模な攻撃があった。市内では爆発音が響き、防空システムが作動した。ウクライナ軍は、ミサイルが投入されたと明らかにした。 bit.ly/4pWdyMV
-
-[2025-12-27 19:45:11](https://bsky.app/profile/japan.reuters.com/post/3maxmu7bbpu26)
-
----
-
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】広島市安芸区で山火事 現在も消火中
-(2025-12-27 19:30) #ニュース
+【速報】安芸区中野で建物火災 消防車9台が出動し消火活動 広島
+(2025-12-27 20:06:00) #ニュース
 
-[2025-12-27 19:40:52](https://bsky.app/profile/sokuho.news/post/3maxmmige4r2y)
-
----
-
-@en.afp.com
-
-🇲🇾 One of the world's rarest felines sighted on Malaysia's Borneo island 
-
-Images show the flat-headed cat, one of the world's rarest and most threatened wild felines, wandering around the Tangkulap Forest Reserve on the island of Borneo in February and August 2024.
-
-[2025-12-27 19:40:23](https://bsky.app/profile/en.afp.com/post/3maxmlmfry22f)
-
----
-
-@reuters.com
-
-Dhaka assistant coach Zaki dies after collapsing before BPL game reut.rs/3KORrsv
-
-[2025-12-27 19:35:07](https://bsky.app/profile/reuters.com/post/3maxmc7iext2o)
-
----
-
-@financialtimes.com
-
-‘It’s been an expensive year’: Meituan counts cost of China’s delivery wars ft.trib.al/XqAlwgR
-
-[2025-12-27 19:33:45](https://bsky.app/profile/financialtimes.com/post/3maxm7qeegi2k)
-
----
-
-@nikkei.com
-
-【クイズにチャレンジ！】
-Z世代の次「α(アルファ) 世代」のこと、どこまで知っていますか？
-vdata.nikkei.com/newsgraphics...
-
-[2025-12-27 19:30:47](https://bsky.app/profile/nikkei.com/post/3maxm2h7pfg2y)
-
----
-
-@cnn.com
-
-Kennedy Center president Richard Grenell lambasted a performer's decision to cancel an annual Christmas Eve jazz concert, following the addition of President Donald Trump's name to the Washington, DC, arts venue.
-https://cnn.it/4b8Atjj
-
-[2025-12-27 19:30:05](https://bsky.app/profile/cnn.com/post/3maxlz76mcy2x)
+[2025-12-27 20:09:32](https://bsky.app/profile/sokuho.news/post/3maxo7qlqfe2y)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-静岡 三島の工場 15人刺傷事件 容疑者は車で入り込んだか
-https://news.web.nhk/newsweb/na/na-k10015015371000
+ゼレンスキー大統領 トランプ大統領と28日会談へ 詰めの協議を
+https://news.web.nhk/newsweb/na/na-k10015015601000
 
-[2025-12-27 19:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxlz5trhl2w)
+[2025-12-27 20:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxo6wasy32m)
 
 ---
 
-@wsj.com
+@sokuho.news
 
-Resolutions to consider for a 2026 that brings you as few tax troubles as possible. on.wsj.com/44MuyfY
+🛎️JNNより【速報】です。
 
-[2025-12-27 19:26:43](https://bsky.app/profile/wsj.com/post/3maxlt6aibd2e)
+【速報】関越道67台の多重事故 「27日中の通行止め解除は難しい」NEXCO東日本 午後7時現在
+(2025-12-27 20:00:41) #ニュース
+
+[2025-12-27 20:04:49](https://bsky.app/profile/sokuho.news/post/3maxnxckzli2a)
+
+---
+
+@sokuho.news
+
+🛎️産経より【独自】です。
+
+＜独自＞武器輸出、協定締結国条件に 「5類型」撤廃の歯止め 政府・与党
+(2025/12/27 19:59) #ニュース
+https://www.sankei.com/article/20251227-XBRVCDF5BFPFPCWWSHOMBXJ4JU/
+
+[2025-12-27 20:02:10](https://bsky.app/profile/sokuho.news/post/3maxnslbg6l2s)
+
+---
+
+@nikkei.com
+
+「ピンクは女性の色」思い込みは第2次大戦後、米国から
+www.nikkei.com/article/DGXZQO...
+
+#2025年読まれた記事
+
+[2025-12-27 20:00:51](https://bsky.app/profile/nikkei.com/post/3maxnq7mzha2x)
+
+---
+
+@cnbc.com
+
+Nabeel Khan was methodical in building his career at Amazon, rising the ranks quickly from operations manager to project manager to product manager.
+
+Here’s how he built his career at the tech giant and made the transition to entrepreneurship, and a look at his life in Brooklyn, New York.
+
+[2025-12-27 20:00:15](https://bsky.app/profile/cnbc.com/post/3maxnp55lil2e)
+
+---
+
+@bloomberg.com
+
+Here's how Taiwan's planned T-Dome defense shield would ward off Chinese aerial attacks 
+
+[2025-12-27 20:00:14](https://bsky.app/profile/bloomberg.com/post/3maxnp4ckje23)
+
+---
+
+@cnn.com
+
+"It was hard to pick only 25. But it was easier than it used to be," Daniel Dale writes. https://cnn.it/49bMv9c
+
+[2025-12-27 20:00:11](https://bsky.app/profile/cnn.com/post/3maxnoz5w6z2b)
+
+---
+
+@washingtonpost.com
+
+If you enjoy dark chocolate or coffee, or both, you may be benefiting from a substance found in these products that is linked to a reduction in cellular aging.
+
+[2025-12-27 20:00:10](https://bsky.app/profile/washingtonpost.com/post/3maxnoxtodj2e)
 
 ---
 
 @en.afp.com
 
-🇸🇦 Saudi belly dancers shake off taboos behind closed doors
+🇹🇭 🇰🇭 Thailand and Cambodia have agreed to an "immediate" ceasefire, the two countries said in a joint statement, pledging to end weeks of deadly border clashes. 
+➡️ u.afp.com/S8sC
 
-In a Riyadh fitness studio, dozens of women move to Arabic music, practising belly dance in secret. Despite their enthusiasm, none reveal their names or faces -— a reflection of the deep stigma that surrounds the dance in Saudi Arabia.
-
-[2025-12-27 19:20:04](https://bsky.app/profile/en.afp.com/post/3maxlhbeu6u2v)
+[2025-12-27 20:00:05](https://bsky.app/profile/en.afp.com/post/3maxnott3kf2x)
 
 ---
 
