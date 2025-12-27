@@ -1,9 +1,9 @@
-# [2025-12-28 08:10 updated](2025_12_28.md)
+# [2025-12-28 08:30 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A 7.0 magnitude earthquake struck some 20 miles off Taiwan’s northeastern coastal city of Yilan on Saturday, the island’s weather administration said, with no immediate reports of major damage. https://cnn.it/49t9PAl <a href="https://bsky.app/profile/cnn.com/post/3mayvztk54k2u" target="_blank">cnn.com</a> (2025-12-28 08:02:04)</span><span style="padding-right:50px;">NEC、4G・5G基地局の機器開発中止　防衛・次世代向けは継続 www.nikkei.com/article/DGXZQO...  ソフトウエアに開発を絞ります。5G市場は通信キャリアの設備投資が想定より進まず、NECの5G基地局事業は赤字が続いていました。  通信の要となる基地局の国産化は後退します。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3mayvxqibau22" target="_blank">nikkei.com</a> (2025-12-28 08:00:53)</span><span style="padding-right:50px;">The flu season is hitting in full force, especially in New York, Colorado and Louisiana, where flu-like activity is very high, according to the CDC. <a href="https://bsky.app/profile/usatoday.com/post/3mayvx364rb2t" target="_blank">usatoday.com</a> (2025-12-28 08:00:31)</span><span style="padding-right:50px;">UK secures migrant return deal with Angola, Namibia reut.rs/4piaQQL <a href="https://bsky.app/profile/reuters.com/post/3mayvwytnpq2o" target="_blank">reuters.com</a> (2025-12-28 08:00:28)</span><span style="padding-right:50px;">Here are the top internet stock picks for next year according to JPMorgan. <a href="https://bsky.app/profile/cnbc.com/post/3mayvwndlqp23" target="_blank">cnbc.com</a> (2025-12-28 08:00:17)</span>
+<span style="padding-right:50px;">A powerful winter storm is impacting parts of the U.S. with major snowfall, ice, and below zero wind chills. The conditions are disrupting holiday travel and could last through next week. n.pr/4jgdW6h <a href="https://bsky.app/profile/npr.org/post/3mayxjlujma25" target="_blank">npr.org</a> (2025-12-28 08:28:46)</span><span style="padding-right:50px;">Bob Kafka was an organizer with ADAPT (American Disabled for Attendant Programs Today), a group which advocates for policy change to support people with disabilities. n.pr/4pWshr5 <a href="https://bsky.app/profile/npr.org/post/3maywo6aayn24" target="_blank">npr.org</a> (2025-12-28 08:13:26)</span><span style="padding-right:50px;">New details of White House deliberations reveal how aides with overlapping agendas drove the U.S. toward a militarized confrontation with Venezuela. <a href="https://bsky.app/profile/nytimes.com/post/3maywi5b4rz2b" target="_blank">nytimes.com</a> (2025-12-28 08:10:04)</span><span style="padding-right:50px;">A 7.0 magnitude earthquake struck some 20 miles off Taiwan’s northeastern coastal city of Yilan on Saturday, the island’s weather administration said, with no immediate reports of major damage. https://cnn.it/49t9PAl <a href="https://bsky.app/profile/cnn.com/post/3mayvztk54k2u" target="_blank">cnn.com</a> (2025-12-28 08:02:04)</span><span style="padding-right:50px;">NEC、4G・5G基地局の機器開発中止　防衛・次世代向けは継続 www.nikkei.com/article/DGXZQO...  ソフトウエアに開発を絞ります。5G市場は通信キャリアの設備投資が想定より進まず、NECの5G基地局事業は赤字が続いていました。  通信の要となる基地局の国産化は後退します。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3mayvxqibau22" target="_blank">nikkei.com</a> (2025-12-28 08:00:53)</span>
   </div>
 </div>
 
@@ -32,15 +32,39 @@
 
 ## News Headlines
 
-- Taiwan Hit by 7.0 Magnitude Earthquake, No Immediate Reports of Major Damage
-- NEC Halts Development of 4G, 5G Base Stations, Shifts Focus to Software
-- UK Secures Migrant Return Deal with Angola
-- JPMorgan Reveals Top Internet Stock Picks for Next Year
-- Taiwan Hit by 6.6 Magnitude Earthquake, Follows Previous Quake
-- Nigeria Edges Past Tunisia in International Soccer Match
+- Winter Storm Brings Major Snowfall and Ice to US, Disrupting Holiday Travel
+- US Aides Contributed to Militarized Confrontation with Venezuela
+- 7.0 Magnitude Earthquake Hits Taiwan's Northeastern Coast
+- NEC to Stop Developing 4G and 5G Base Station Equipment
+- UK Secures Migrant Return Deal with Angola and Namibia
+- US Geological Survey Reports 6.6 Earthquake Off Taiwan's Northeast Coast
 
 
 ----
+
+@npr.org
+
+A powerful winter storm is impacting parts of the U.S. with major snowfall, ice, and below zero wind chills. The conditions are disrupting holiday travel and could last through next week. n.pr/4jgdW6h
+
+[2025-12-28 08:28:46](https://bsky.app/profile/npr.org/post/3mayxjlujma25)
+
+---
+
+@npr.org
+
+Bob Kafka was an organizer with ADAPT (American Disabled for Attendant Programs Today), a group which advocates for policy change to support people with disabilities. n.pr/4pWshr5
+
+[2025-12-28 08:13:26](https://bsky.app/profile/npr.org/post/3maywo6aayn24)
+
+---
+
+@nytimes.com
+
+New details of White House deliberations reveal how aides with overlapping agendas drove the U.S. toward a militarized confrontation with Venezuela.
+
+[2025-12-28 08:10:04](https://bsky.app/profile/nytimes.com/post/3maywi5b4rz2b)
+
+---
 
 @cnn.com
 
@@ -102,30 +126,6 @@ See if the high annual fees on the Chase Sapphire Reserve or American Express Pl
 The U.S. Geological Survey says a magnitude 6.6 earthquake has hit Taiwan just off its northeast coast.
 
 [2025-12-28 08:00:10](https://bsky.app/profile/apnews.com/post/3mayvwhaodq26)
-
----
-
-@washingtonpost.com
-
-The partygoers in Seoul bopped their heads to club beats. The vibes were just like a typical night out. Except it was 9 o’clock. In the morning. And the drinks? Iced Americanos.
-
-[2025-12-28 08:00:08](https://bsky.app/profile/washingtonpost.com/post/3mayvwf3jm22b)
-
----
-
-@aljazeera.com
-
-Authorities in the enclave warn that the downpour could intensify into a full-blown storm.
-
-[2025-12-28 08:00:04](https://bsky.app/profile/aljazeera.com/post/3mayvwbards2d)
-
----
-
-@japan.reuters.com
-
-中国南部の海南島では、黄花梨と呼ばれる希少なローズウッドの樹木を撮影し、デジタル資産に転換する取り組みが進んでいる。 bit.ly/4jbQqao
-
-[2025-12-28 07:57:05](https://bsky.app/profile/japan.reuters.com/post/3mayvqwqrx52f)
 
 ---
 
