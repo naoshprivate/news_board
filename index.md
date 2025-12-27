@@ -1,9 +1,9 @@
-# [2025-12-27 21:30 updated](2025_12_27.md)
+# [2025-12-27 21:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Four hikers found dead after avalanche in central Greece <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxsmqx7ga2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 21:28:23)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】広島市安芸区中野で住宅火災 (2025-12-27 20:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxreci6l32b" target="_blank">sokuho.news</a> (2025-12-27 21:05:46)</span><span style="padding-right:50px;">We're taking stock of this year's notable holiday movies, with titles including such gems as Oy to the World!, Christmas at the Catnip Cafe, A Merry Little Ex-Mas, and A Pickleball Christmas. <a href="https://bsky.app/profile/npr.org/post/3maxrdzr3vr23" target="_blank">npr.org</a> (2025-12-27 21:05:37)</span><span style="padding-right:50px;">When the screens are out of the way, kids are back to being kids—without the temptation to zone out electronically. on.wsj.com/4pVNKAl <a href="https://bsky.app/profile/wsj.com/post/3maxrabi25v2k" target="_blank">wsj.com</a> (2025-12-27 21:03:31)</span><span style="padding-right:50px;">Two exhibitions—the Philadelphia Art Museum’s ‘Dreamworld: Surrealism at 100’ and the Metropolitan Museum of Art’s ‘Man Ray: When Objects Dream’—highlight the movement’s weird, witty and wondrous creations. on.wsj.com/49bOpXo <a href="https://bsky.app/profile/wsj.com/post/3maxr7tryp42o" target="_blank">wsj.com</a> (2025-12-27 21:03:17)</span>
+<span style="padding-right:50px;">The true story of two strangers and an extraordinary act of courage ft.trib.al/ezPy9p7 <a href="https://bsky.app/profile/financialtimes.com/post/3maxtpya5pr23" target="_blank">financialtimes.com</a> (2025-12-27 21:48:06)</span><span style="padding-right:50px;">人手不足の閉店、後悔すらできず　記者が見た危機 www.nikkei.com/article/DGXZQO...  何度か行ったことのある近所の焼肉店が閉店し、張り紙には人手不足の文字が赤字で強調されていました。  こうした閉店は消費者側の「もっと行っておけば防げたかも」という後悔すら成り立ちません――。  人手不足や、揺らぐ生活インフラを追うコラム「労働臨界」の編集後記です。 <a href="https://bsky.app/profile/nikkei.com/post/3maxtnfandc24" target="_blank">nikkei.com</a> (2025-12-27 21:46:39)</span><span style="padding-right:50px;">🇮🇷 Iran's women bikers take the road despite legal, social obstacles  Maryam Ghelich has helped hundreds of women to navigate not only Tehran's gridlocked streets but the barriers facing female motorcyclists in the conservative Islamic republic. <a href="https://bsky.app/profile/en.afp.com/post/3maxtbmcrsp2x" target="_blank">en.afp.com</a> (2025-12-27 21:40:04)</span><span style="padding-right:50px;">Forecasters say a weekend storm could bring New York City’s biggest snowfall in three years. Freezing rain was falling in Lancaster, Pennsylvania, and in New York, an emergency was declared for much of the state ahead of widespread snowfall expected Friday night into Saturday morning. <a href="https://bsky.app/profile/apnews.com/post/3maxsyqfaw523" target="_blank">apnews.com</a> (2025-12-27 21:35:06)</span><span style="padding-right:50px;">Two dead in 50-vehicle pile up on Japan highway <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxsucpwbi2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 21:32:37)</span>
   </div>
 </div>
 
@@ -32,15 +32,87 @@
 
 ## News Headlines
 
-- Four hikers found dead after avalanche in central Greece
-- Multiple people injured in 67-car pileup on Japan's Kanetsu highway
-- Ukraine's Zelenskyy to meet with US President Biden on Dec 28
-- Taiwan's planned T-Dome defense shield could ward off Chinese aerial attacks
-- Thailand and Cambodia agree to ceasefire after deadly border clashes
-- Malaysia's Borneo island sees rare sighting of world's rarest felines
+- Iranian Women Defy Legal and Social Barriers with their Biking Culture
+- New York City Braces for Its Biggest Snowfall in Three Years
+- Two Dead in 50-Vehicle Pileup on Japan Highway
+- Argentina's Economic Growth Due to Austerity Measures
+- Hikers Found Dead After Avalanche in Central Greece
+- Glaciers in Tajikistan Resist Melting as Scientists Study Ice Cores to Understand the Phenomenon
 
 
 ----
+
+@financialtimes.com
+
+The true story of two strangers and an extraordinary act of courage ft.trib.al/ezPy9p7
+
+[2025-12-27 21:48:06](https://bsky.app/profile/financialtimes.com/post/3maxtpya5pr23)
+
+---
+
+@nikkei.com
+
+人手不足の閉店、後悔すらできず　記者が見た危機
+www.nikkei.com/article/DGXZQO...
+
+何度か行ったことのある近所の焼肉店が閉店し、張り紙には人手不足の文字が赤字で強調されていました。
+
+こうした閉店は消費者側の「もっと行っておけば防げたかも」という後悔すら成り立ちません――。
+
+人手不足や、揺らぐ生活インフラを追うコラム「労働臨界」の編集後記です。
+
+[2025-12-27 21:46:39](https://bsky.app/profile/nikkei.com/post/3maxtnfandc24)
+
+---
+
+@en.afp.com
+
+🇮🇷 Iran's women bikers take the road despite legal, social obstacles
+
+Maryam Ghelich has helped hundreds of women to navigate not only Tehran's gridlocked streets but the barriers facing female motorcyclists in the conservative Islamic republic.
+
+[2025-12-27 21:40:04](https://bsky.app/profile/en.afp.com/post/3maxtbmcrsp2x)
+
+---
+
+@apnews.com
+
+Forecasters say a weekend storm could bring New York City’s biggest snowfall in three years. Freezing rain was falling in Lancaster, Pennsylvania, and in New York, an emergency was declared for much of the state ahead of widespread snowfall expected Friday night into Saturday morning.
+
+[2025-12-27 21:35:06](https://bsky.app/profile/apnews.com/post/3maxsyqfaw523)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Two dead in 50-vehicle pile up on Japan highway
+
+[2025-12-27 21:32:37](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxsucpwbi2b)
+
+---
+
+@nikkei.com
+
+アルゼンチン、緊縮財政で経済成長　インフレ率は200→30％台に
+www.nikkei.com/article/DGXZQO...
+
+「我々には金がない」。ミレイ大統領はこのスローガンで政府予算を3割、公務員を6万人削減しました。
+
+政治経験が乏しく、しがらみがないことが大胆な政策を可能に。既得権益層を改革の障害と位置づける主張で、一定の支持を集めてきました。
+
+一方で失業率は上昇し、国民には疲弊も広がります。
+
+[2025-12-27 21:30:39](https://bsky.app/profile/nikkei.com/post/3maxsqrhxt626)
+
+---
+
+@usatoday.com
+
+The USA opened defense of its back-to-back world junior championships titles with a win against Germany. Highlights from the game:
+
+[2025-12-27 21:30:12](https://bsky.app/profile/usatoday.com/post/3maxspy2lqd2q)
+
+---
 
 @bbcnews-world-rss.bsky.social
 
@@ -66,68 +138,6 @@ Four hikers found dead after avalanche in central Greece
 We're taking stock of this year's notable holiday movies, with titles including such gems as Oy to the World!, Christmas at the Catnip Cafe, A Merry Little Ex-Mas, and A Pickleball Christmas.
 
 [2025-12-27 21:05:37](https://bsky.app/profile/npr.org/post/3maxrdzr3vr23)
-
----
-
-@wsj.com
-
-When the screens are out of the way, kids are back to being kids—without the temptation to zone out electronically. on.wsj.com/4pVNKAl
-
-[2025-12-27 21:03:31](https://bsky.app/profile/wsj.com/post/3maxrabi25v2k)
-
----
-
-@wsj.com
-
-Two exhibitions—the Philadelphia Art Museum’s ‘Dreamworld: Surrealism at 100’ and the Metropolitan Museum of Art’s ‘Man Ray: When Objects Dream’—highlight the movement’s weird, witty and wondrous creations. on.wsj.com/49bOpXo
-
-[2025-12-27 21:03:17](https://bsky.app/profile/wsj.com/post/3maxr7tryp42o)
-
----
-
-@nikkei.com
-
-駄菓子屋で買えた、あのスチロール製の飛行機「ソフトグライダー」。埼玉県戸田市にある「ツバメ玩具製作所」は、国内に残る唯一のメーカーです。
-www.nikkei.com/article/DGXZQO...
-
-#2025年読まれた記事
-
-[2025-12-27 21:00:41](https://bsky.app/profile/nikkei.com/post/3maxr372yxp2m)
-
----
-
-@usatoday.com
-
-These aren't the best shows, movies or productions of the year. We're talking about individual performances in 2025. Here are the best.
-
-[2025-12-27 21:00:23](https://bsky.app/profile/usatoday.com/post/3maxr2nklea25)
-
----
-
-@en.afp.com
-
-🧊 The ice cores that could help save the world's glaciers
-
-Glaciologists hope fist-sized chunks of ice could help them understand why the glaciers in Tajikistan are the only ones to resist rapid melting seen almost everywhere else.
-
-[2025-12-27 21:00:11](https://bsky.app/profile/en.afp.com/post/3maxr2cf7ek2x)
-
----
-
-@cnn.com
-
-"The Federal Reserve’s policy decisions in recent years have exacerbated economic inequality in America, and some of the central bank’s policymakers say it’s not a problem they can easily fix," Bryan Mena writes | Analysis
-https://cnn.it/3YMQFPQ
-
-[2025-12-27 21:00:09](https://bsky.app/profile/cnn.com/post/3maxr2ahbav25)
-
----
-
-@npr.org
-
-Drugs like Adderall and Ritalin appear to help children with ADHD by activating brain areas involved in alertness and motivation. n.pr/4jgkEJy
-
-[2025-12-27 20:46:44](https://bsky.app/profile/npr.org/post/3maxqcaqirm2n)
 
 ---
 
