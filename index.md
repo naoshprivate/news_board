@@ -1,9 +1,9 @@
-# [2025-12-28 01:30 updated](2025_12_28.md)
+# [2025-12-28 01:50 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">How rape is being used as a weapon of war in Congo, on this weekend's On Assignment reut.rs/4sgUCK4 <a href="https://bsky.app/profile/reuters.com/post/3maya2xquks2q" target="_blank">reuters.com</a> (2025-12-28 01:28:59)</span><span style="padding-right:50px;">Russia launches air attack on Kyiv as Zelenskyy prepares for Trump meeting ft.trib.al/AKGSRh6 <a href="https://bsky.app/profile/financialtimes.com/post/3maya2pozqi2f" target="_blank">financialtimes.com</a> (2025-12-28 01:28:51)</span><span style="padding-right:50px;">ロシア、無人機やミサイルでウクライナの首都キーウ攻撃 www.nikkei.com/article/DGXZQO...  12月28日の米ウクライナ首脳会談を前にした攻撃に、住民は「和平が実現するとは思えない」と憤りました。 <a href="https://bsky.app/profile/nikkei.com/post/3may7vs5u7h2x" target="_blank">nikkei.com</a> (2025-12-28 01:26:06)</span><span style="padding-right:50px;">Jazz rookie F Ace Bailey dealing with left hip strain reut.rs/3YaPM3t <a href="https://bsky.app/profile/reuters.com/post/3may7u3w3jb2o" target="_blank">reuters.com</a> (2025-12-28 01:25:09)</span><span style="padding-right:50px;">Russia launched waves of missiles and attack drones on Kyiv on Saturday. The hourslong assault came as President Volodymyr Zelensky of Ukraine prepared to meet with President Trump on Sunday to discuss a plan to end the war. <a href="https://bsky.app/profile/nytimes.com/post/3may7txypoy25" target="_blank">nytimes.com</a> (2025-12-28 01:25:05)</span>
+<span style="padding-right:50px;">🇺🇦 🇷🇺 Russia pummelled Ukraine's capital with drones and missiles on Saturday as President Volodymyr Zelensky was headed to the US to meet with President Donald Trump.  ➡️ u.afp.com/S8ew <a href="https://bsky.app/profile/en.afp.com/post/3mayazspfrm2x" target="_blank">en.afp.com</a> (2025-12-28 01:46:14)</span><span style="padding-right:50px;">In “Marty Supreme,” the new film about an ambitious young table tennis player in the 1950s, the director Josh Safdie enlisted professionals to choreograph the action. “Realizing that this sport has a history, and a rich one, just dignified the sport in a way that I found to be fascinating,” he said. <a href="https://bsky.app/profile/nytimes.com/post/3mayavl5bu22s" target="_blank">nytimes.com</a> (2025-12-28 01:43:52)</span><span style="padding-right:50px;">🇬🇧 The UK will launch a military "gap year" scheme, as part of efforts to boost recruitment and reconnect young people with defence, the government said Saturday.  ➡️ u.afp.com/S8eN <a href="https://bsky.app/profile/en.afp.com/post/3mayaoowmjg2s" target="_blank">en.afp.com</a> (2025-12-28 01:40:01)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】関越道で67台多重事故 下りの通行止め区間は月夜野IC－水上IC間に縮小 上りは追い越し車線を車線規制 NEXCO東日本 午前0時45分現在 (2025-12-28 01:38:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mayanmrvym2b" target="_blank">sokuho.news</a> (2025-12-28 01:39:25)</span><span style="padding-right:50px;">X-rays negative for Hornets rookie Kon Knueppel (ankle) reut.rs/4sfRIoV <a href="https://bsky.app/profile/reuters.com/post/3mayag2zgnu2y" target="_blank">reuters.com</a> (2025-12-28 01:35:12)</span>
   </div>
 </div>
 
@@ -33,14 +33,76 @@
 ## News Headlines
 
 - Russia launches air attack on Kyiv as Zelenskyy prepares for Trump meeting
-- Russia launched waves of missiles and attack drones on Kyiv on Saturday
-- Ukraine's capital hit by Russian missile and drone attack before US talks
-- Thailand and Cambodia agree to ceasefire after deadly border clashes
-- Winter storm causes over 3,000 flight delays and nearly 700 cancellations
-- Myanmar's military rulers hold general election amid country's civil war
+- Russia pummelled Ukraine's capital with drones and missiles on Saturday
+- UK to launch military 'gap year' scheme to boost recruitment
+- More than 3,000 flights delayed and nearly 700 canceled due to snowstorm
+- Myanmar's military rulers hold general election amid civil war
+- Japan's Naoya Inoue defeats Mexico's Alan Picasso by unanimous decision
 
 
 ----
+
+@en.afp.com
+
+🇺🇦 🇷🇺 Russia pummelled Ukraine's capital with drones and missiles on Saturday as President Volodymyr Zelensky was headed to the US to meet with President Donald Trump. 
+➡️ u.afp.com/S8ew
+
+[2025-12-28 01:46:14](https://bsky.app/profile/en.afp.com/post/3mayazspfrm2x)
+
+---
+
+@nytimes.com
+
+In “Marty Supreme,” the new film about an ambitious young table tennis player in the 1950s, the director Josh Safdie enlisted professionals to choreograph the action. “Realizing that this sport has a history, and a rich one, just dignified the sport in a way that I found to be fascinating,” he said.
+
+[2025-12-28 01:43:52](https://bsky.app/profile/nytimes.com/post/3mayavl5bu22s)
+
+---
+
+@en.afp.com
+
+🇬🇧 The UK will launch a military "gap year" scheme, as part of efforts to boost recruitment and reconnect young people with defence, the government said Saturday. 
+➡️ u.afp.com/S8eN
+
+[2025-12-28 01:40:01](https://bsky.app/profile/en.afp.com/post/3mayaoowmjg2s)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】関越道で67台多重事故 下りの通行止め区間は月夜野IC－水上IC間に縮小 上りは追い越し車線を車線規制 NEXCO東日本 午前0時45分現在
+(2025-12-28 01:38:21) #ニュース
+
+[2025-12-28 01:39:25](https://bsky.app/profile/sokuho.news/post/3mayanmrvym2b)
+
+---
+
+@reuters.com
+
+X-rays negative for Hornets rookie Kon Knueppel (ankle) reut.rs/4sfRIoV
+
+[2025-12-28 01:35:12](https://bsky.app/profile/reuters.com/post/3mayag2zgnu2y)
+
+---
+
+@usatoday.com
+
+No matter how you make it, mac and cheese is a comfort food that pairs well with the coziness of the holidays. Here's what to serve with it.
+
+[2025-12-28 01:30:11](https://bsky.app/profile/usatoday.com/post/3maya544jtl2f)
+
+---
+
+@cnn.com
+
+Warren Buffett became the the world's most famous investor because of his sage investment wisdom at the helm of Berkshire Hathaway. That wasn't his only job: He's also the company's best pitchman.
+https://cnn.it/44LzSQM
+
+[2025-12-28 01:30:06](https://bsky.app/profile/cnn.com/post/3maya4x5myd26)
+
+---
 
 @reuters.com
 
@@ -66,71 +128,6 @@ www.nikkei.com/article/DGXZQO...
 12月28日の米ウクライナ首脳会談を前にした攻撃に、住民は「和平が実現するとは思えない」と憤りました。
 
 [2025-12-28 01:26:06](https://bsky.app/profile/nikkei.com/post/3may7vs5u7h2x)
-
----
-
-@reuters.com
-
-Jazz rookie F Ace Bailey dealing with left hip strain reut.rs/3YaPM3t
-
-[2025-12-28 01:25:09](https://bsky.app/profile/reuters.com/post/3may7u3w3jb2o)
-
----
-
-@nytimes.com
-
-Russia launched waves of missiles and attack drones on Kyiv on Saturday. The hourslong assault came as President Volodymyr Zelensky of Ukraine prepared to meet with President Trump on Sunday to discuss a plan to end the war.
-
-[2025-12-28 01:25:05](https://bsky.app/profile/nytimes.com/post/3may7txypoy25)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】関越道多重事故 通行止め一部区間で解除
-(01:23) #ニュース
-
-[2025-12-28 01:24:19](https://bsky.app/profile/sokuho.news/post/3may7smd4yu2b)
-
----
-
-@en.afp.com
-
-⚽ Two of Diogo Jota's children were mascots at Anfield on Saturday as Liverpool and Wolves paid tribute to their former forward. 
-➡️ u.afp.com/S8ec
-
-[2025-12-28 01:22:51](https://bsky.app/profile/en.afp.com/post/3may7pxxuqp26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ボクシング 井上尚弥 判定勝ち 4団体統一王座6回目の防衛
-https://news.web.nhk/newsweb/na/na-k10015015711000
-
-[2025-12-28 01:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3may7mt6oyg2d)
-
----
-
-@cnn.com
-
-More than 3,000 flights delayed and nearly 700 canceled as snowstorm jams post-Christmas travel.
-cnn.it/3MX9gWQ
-
-[2025-12-28 01:15:09](https://bsky.app/profile/cnn.com/post/3may7ca2vks26)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】関越道の多重事故による通行止めが28日午前1時ごろ一部解除 NEXCO東日本
-(2025年12月28日 01:11) #ニュース
-
-[2025-12-28 01:11:46](https://bsky.app/profile/sokuho.news/post/3may746m4ci2v)
 
 ---
 
