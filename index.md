@@ -1,9 +1,9 @@
-# [2025-12-27 21:50 updated](2025_12_27.md)
+# [2025-12-27 22:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The true story of two strangers and an extraordinary act of courage ft.trib.al/ezPy9p7 <a href="https://bsky.app/profile/financialtimes.com/post/3maxtpya5pr23" target="_blank">financialtimes.com</a> (2025-12-27 21:48:06)</span><span style="padding-right:50px;">人手不足の閉店、後悔すらできず　記者が見た危機 www.nikkei.com/article/DGXZQO...  何度か行ったことのある近所の焼肉店が閉店し、張り紙には人手不足の文字が赤字で強調されていました。  こうした閉店は消費者側の「もっと行っておけば防げたかも」という後悔すら成り立ちません――。  人手不足や、揺らぐ生活インフラを追うコラム「労働臨界」の編集後記です。 <a href="https://bsky.app/profile/nikkei.com/post/3maxtnfandc24" target="_blank">nikkei.com</a> (2025-12-27 21:46:39)</span><span style="padding-right:50px;">🇮🇷 Iran's women bikers take the road despite legal, social obstacles  Maryam Ghelich has helped hundreds of women to navigate not only Tehran's gridlocked streets but the barriers facing female motorcyclists in the conservative Islamic republic. <a href="https://bsky.app/profile/en.afp.com/post/3maxtbmcrsp2x" target="_blank">en.afp.com</a> (2025-12-27 21:40:04)</span><span style="padding-right:50px;">Forecasters say a weekend storm could bring New York City’s biggest snowfall in three years. Freezing rain was falling in Lancaster, Pennsylvania, and in New York, an emergency was declared for much of the state ahead of widespread snowfall expected Friday night into Saturday morning. <a href="https://bsky.app/profile/apnews.com/post/3maxsyqfaw523" target="_blank">apnews.com</a> (2025-12-27 21:35:06)</span><span style="padding-right:50px;">Two dead in 50-vehicle pile up on Japan highway <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxsucpwbi2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 21:32:37)</span>
+<span style="padding-right:50px;">K-Pop groups before “Demon Hunters” sold millions of albums, but weren’t household names. on.wsj.com/3Yg3P7T <a href="https://bsky.app/profile/wsj.com/post/3maxumi74342r" target="_blank">wsj.com</a> (2025-12-27 22:04:02)</span><span style="padding-right:50px;">🇨🇮 Ivory Coast is holding  legislative elections on Saturday, two months after 83-year-old Alassane Ouattara won a presidential ballot that extended his 14-year rule.  ➡️ u.afp.com/S8eZ <a href="https://bsky.app/profile/en.afp.com/post/3maxuly4o742v" target="_blank">en.afp.com</a> (2025-12-27 22:03:45)</span><span style="padding-right:50px;">記憶を忘れるのはなぜ？　「大事な情報」残すメカニズム www.nikkei.com/article/DGXZQO...  #2025年読まれた記事 <a href="https://bsky.app/profile/nikkei.com/post/3maxuggiied2m" target="_blank">nikkei.com</a> (2025-12-27 22:00:39)</span><span style="padding-right:50px;">Pakistan's first female central bank head  Shamshad Akhtar dies at 71 reut.rs/49gUyS8 <a href="https://bsky.app/profile/reuters.com/post/3maxugb4hwy2r" target="_blank">reuters.com</a> (2025-12-27 22:00:33)</span><span style="padding-right:50px;">Former Meta COO Sheryl Sandberg warned that public displays of misogyny and “tech bro” rhetoric are damaging corporate culture.  She says corporate climate is 'one of the worst' ever and there is no excuse for companies to backslide on efforts to level career playing field. <a href="https://bsky.app/profile/cnbc.com/post/3maxufpw6tb2e" target="_blank">cnbc.com</a> (2025-12-27 22:00:15)</span>
   </div>
 </div>
 
@@ -32,112 +32,103 @@
 
 ## News Headlines
 
-- Iranian Women Defy Legal and Social Barriers with their Biking Culture
-- New York City Braces for Its Biggest Snowfall in Three Years
-- Two Dead in 50-Vehicle Pileup on Japan Highway
-- Argentina's Economic Growth Due to Austerity Measures
-- Hikers Found Dead After Avalanche in Central Greece
-- Glaciers in Tajikistan Resist Melting as Scientists Study Ice Cores to Understand the Phenomenon
+- Ivory Coast Holds Legislative Elections Amid Extended Rule of Alassane Ouattara
+- Pakistan's First Female Central Bank Head Shamshad Akhtar Dies at 71
+- Public Displays of Misogyny Damage Corporate Culture, Warns Sheryl Sandberg
+- Denver Broncos Clinch Playoff Spot, But Coach Sean Payton Insists Goals Remain Unmet
+- Ukraine's Mental Health System Overwhelmed by Reality of War, Turns to Nature for Healing
+- Rare Earths in the Cook Islands: US and China Court Small Pacific Nation
 
 
 ----
 
-@financialtimes.com
+@wsj.com
 
-The true story of two strangers and an extraordinary act of courage ft.trib.al/ezPy9p7
+K-Pop groups before “Demon Hunters” sold millions of albums, but weren’t household names. on.wsj.com/3Yg3P7T
 
-[2025-12-27 21:48:06](https://bsky.app/profile/financialtimes.com/post/3maxtpya5pr23)
-
----
-
-@nikkei.com
-
-人手不足の閉店、後悔すらできず　記者が見た危機
-www.nikkei.com/article/DGXZQO...
-
-何度か行ったことのある近所の焼肉店が閉店し、張り紙には人手不足の文字が赤字で強調されていました。
-
-こうした閉店は消費者側の「もっと行っておけば防げたかも」という後悔すら成り立ちません――。
-
-人手不足や、揺らぐ生活インフラを追うコラム「労働臨界」の編集後記です。
-
-[2025-12-27 21:46:39](https://bsky.app/profile/nikkei.com/post/3maxtnfandc24)
+[2025-12-27 22:04:02](https://bsky.app/profile/wsj.com/post/3maxumi74342r)
 
 ---
 
 @en.afp.com
 
-🇮🇷 Iran's women bikers take the road despite legal, social obstacles
+🇨🇮 Ivory Coast is holding  legislative elections on Saturday, two months after 83-year-old Alassane Ouattara won a presidential ballot that extended his 14-year rule. 
+➡️ u.afp.com/S8eZ
 
-Maryam Ghelich has helped hundreds of women to navigate not only Tehran's gridlocked streets but the barriers facing female motorcyclists in the conservative Islamic republic.
-
-[2025-12-27 21:40:04](https://bsky.app/profile/en.afp.com/post/3maxtbmcrsp2x)
-
----
-
-@apnews.com
-
-Forecasters say a weekend storm could bring New York City’s biggest snowfall in three years. Freezing rain was falling in Lancaster, Pennsylvania, and in New York, an emergency was declared for much of the state ahead of widespread snowfall expected Friday night into Saturday morning.
-
-[2025-12-27 21:35:06](https://bsky.app/profile/apnews.com/post/3maxsyqfaw523)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Two dead in 50-vehicle pile up on Japan highway
-
-[2025-12-27 21:32:37](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxsucpwbi2b)
+[2025-12-27 22:03:45](https://bsky.app/profile/en.afp.com/post/3maxuly4o742v)
 
 ---
 
 @nikkei.com
 
-アルゼンチン、緊縮財政で経済成長　インフレ率は200→30％台に
+記憶を忘れるのはなぜ？　「大事な情報」残すメカニズム
 www.nikkei.com/article/DGXZQO...
 
-「我々には金がない」。ミレイ大統領はこのスローガンで政府予算を3割、公務員を6万人削減しました。
+#2025年読まれた記事
 
-政治経験が乏しく、しがらみがないことが大胆な政策を可能に。既得権益層を改革の障害と位置づける主張で、一定の支持を集めてきました。
-
-一方で失業率は上昇し、国民には疲弊も広がります。
-
-[2025-12-27 21:30:39](https://bsky.app/profile/nikkei.com/post/3maxsqrhxt626)
+[2025-12-27 22:00:39](https://bsky.app/profile/nikkei.com/post/3maxuggiied2m)
 
 ---
 
-@usatoday.com
+@reuters.com
 
-The USA opened defense of its back-to-back world junior championships titles with a win against Germany. Highlights from the game:
+Pakistan's first female central bank head  Shamshad Akhtar dies at 71 reut.rs/49gUyS8
 
-[2025-12-27 21:30:12](https://bsky.app/profile/usatoday.com/post/3maxspy2lqd2q)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Four hikers found dead after avalanche in central Greece
-
-[2025-12-27 21:28:23](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxsmqx7ga2b)
+[2025-12-27 22:00:33](https://bsky.app/profile/reuters.com/post/3maxugb4hwy2r)
 
 ---
 
-@sokuho.news
+@cnbc.com
 
-🛎️FNNより【速報】です。
+Former Meta COO Sheryl Sandberg warned that public displays of misogyny and “tech bro” rhetoric are damaging corporate culture.
 
-【速報】広島市安芸区中野で住宅火災
-(2025-12-27 20:45) #ニュース
+She says corporate climate is 'one of the worst' ever and there is no excuse for companies to backslide on efforts to level career playing field.
 
-[2025-12-27 21:05:46](https://bsky.app/profile/sokuho.news/post/3maxreci6l32b)
+[2025-12-27 22:00:15](https://bsky.app/profile/cnbc.com/post/3maxufpw6tb2e)
+
+---
+
+@apnews.com
+
+The Denver Broncos have clinched a playoff spot, but coach Sean Payton insists their goals remain unmet.
+
+[2025-12-27 22:00:13](https://bsky.app/profile/apnews.com/post/3maxufnitlj2r)
+
+---
+
+@washingtonpost.com
+
+The reality of war is inescapable for Ukrainians, and the country’s mental health system is overwhelmed. 
+
+In response, a growing number of organizations are turning to nature as an alternative path toward healing.
+
+[2025-12-27 22:00:10](https://bsky.app/profile/washingtonpost.com/post/3maxufkkcta2e)
+
+---
+
+@bloomberg.com
+
+Sharpen your focus with today’s Alphadots puzzle — the daily word game from Bloomberg.
+
+🎯 Play now:
+
+[2025-12-27 22:00:09](https://bsky.app/profile/bloomberg.com/post/3maxufk43ye24)
+
+---
+
+@wsj.com
+
+The Cook Islands—population 15,000—are being courted by the U.S. and China as the two superpowers hunt for rare earths.
+
+[2025-12-27 21:54:32](https://bsky.app/profile/wsj.com/post/3maxu3ix3mh2i)
 
 ---
 
 @npr.org
 
-We're taking stock of this year's notable holiday movies, with titles including such gems as Oy to the World!, Christmas at the Catnip Cafe, A Merry Little Ex-Mas, and A Pickleball Christmas.
+This is the first time Pantone has chosen a shade of white. The company says it's "a lofty white that serves as a symbol of calming influence in a society rediscovering the value of quiet reflection."
 
-[2025-12-27 21:05:37](https://bsky.app/profile/npr.org/post/3maxrdzr3vr23)
+[2025-12-27 21:54:30](https://bsky.app/profile/npr.org/post/3maxu3gycoy2g)
 
 ---
 
