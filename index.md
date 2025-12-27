@@ -1,9 +1,9 @@
-# [2025-12-28 00:50 updated](2025_12_28.md)
+# [2025-12-28 01:10 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Forbes Favorites 2025: The Year’s Best SportsMoney Stories  From the billionaire revolutionizing women’s sports to the barnstorming baseball team now worth $500 million, here are the biggest and most popular sports business stories of 2025. www.forbes.com/sites/brettk... Photo: Ethan Pines <a href="https://bsky.app/profile/forbes.com/post/3may5nblyas23" target="_blank">forbes.com</a> (2025-12-28 00:45:33)</span><span style="padding-right:50px;">From @theathletic.com: As 2025 draws to a close, it’s time to look back at the year’s biggest feats. Teams broke records and individuals etched their name into the history books. We selected 25 photos to tell the story of the year in sports. nyti.ms/4pHKNU0 <a href="https://bsky.app/profile/nytimes.com/post/3may5mgb4u52v" target="_blank">nytimes.com</a> (2025-12-28 00:45:04)</span><span style="padding-right:50px;">【地震情報】沖縄 石垣島 竹富町の黒島 与那国島で震度３ https://news.web.nhk/newsweb/na/na-k10015014341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3may5mgikh522" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 00:45:02)</span><span style="padding-right:50px;">A quarter-century ago, the teams in the four major North American leagues were worth a collective $30 billion. Now, they’re valued at more than $500 billion—and one has seen appreciation of more than 6,400%. www.forbes.com/sites/brettk... (Photo: Elsa/Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3may5lyxous23" target="_blank">forbes.com</a> (2025-12-28 00:44:50)</span><span style="padding-right:50px;">The Best Of Forbes Photography 2025 www.forbes.com/sites/forbes... (Photo: Levon Biss for Forbes) <a href="https://bsky.app/profile/forbes.com/post/3may5kqj26223" target="_blank">forbes.com</a> (2025-12-28 00:44:08)</span>
+<span style="padding-right:50px;">6 under-the-radar stocks to play the AI boom in 2026: BofA <a href="https://bsky.app/profile/yahoofinance.com/post/3may6s2huis2q" target="_blank">yahoofinance.com</a> (2025-12-28 01:06:07)</span><span style="padding-right:50px;">TSMC says some facilities evacuated after quake reut.rs/4qrVvOe <a href="https://bsky.app/profile/reuters.com/post/3may6qdh4pt2r" target="_blank">reuters.com</a> (2025-12-28 01:05:09)</span><span style="padding-right:50px;">Neither investors nor industrial buyers can get enough of the precious metal, while a glut of crude has swamped energy markets and depressed fuel prices. on.wsj.com/4px61mN <a href="https://bsky.app/profile/wsj.com/post/3may6kouhtm2z" target="_blank">wsj.com</a> (2025-12-28 01:01:59)</span><span style="padding-right:50px;">More than 3,000 flights delayed and nearly 700 canceled as snowstorm jams post-Christmas travel. https://cnn.it/3MX9gWQ <a href="https://bsky.app/profile/cnn.com/post/3may6j2omqj23" target="_blank">cnn.com</a> (2025-12-28 01:01:05)</span><span style="padding-right:50px;">Pronounced “Old Lang Zyne,” experts say it started as a poem, and has since become a song that is now a staple in New Year’s celebrations. <a href="https://bsky.app/profile/usatoday.com/post/3may6ifwmeb2q" target="_blank">usatoday.com</a> (2025-12-28 01:00:43)</span>
   </div>
 </div>
 
@@ -32,103 +32,95 @@
 
 ## News Headlines
 
-- Teams Break Records and Make History in 2025 Sports Year in Review
-- Ukraine Capital Hit by Russia's Missile and Drone Attack
-- Taiwan Earthquake Rattles Northeast Asia
-- Negotiations Between Ukraine and US Continue Amid Ongoing Conflict
-- Ukraine's President Meets with US Leader Donald Trump for Talks
-- Olympic Team's Doctor Shares Tips for Avoiding Airplane Illness
+- A 7.0 magnitude quake rattles Taiwan, TSMC says some facilities evacuated
+- Israel's Netanyahu to meet US President Trump in Florida for Gaza truce plan
+- Rayan Cherki's late goal helps Manchester City seal 2-1 win at Nottingham Forest
+- Russia attacks Ukraine's capital with missiles and drones, killing one and wounding over 20 people
+- Thailand and Cambodia agree to ceasefire after deadly border clashes
+- More than 3,000 flights delayed and nearly 700 canceled as snowstorm jams post-Christmas travel
 
 
 ----
 
-@forbes.com
+@yahoofinance.com
 
-Forbes Favorites 2025: The Year’s Best SportsMoney Stories
+6 under-the-radar stocks to play the AI boom in 2026: BofA
 
-From the billionaire revolutionizing women’s sports to the barnstorming baseball team now worth $500 million, here are the biggest and most popular sports business stories of 2025.
-www.forbes.com/sites/brettk... Photo: Ethan Pines
+[2025-12-28 01:06:07](https://bsky.app/profile/yahoofinance.com/post/3may6s2huis2q)
 
-[2025-12-28 00:45:33](https://bsky.app/profile/forbes.com/post/3may5nblyas23)
+---
+
+@reuters.com
+
+TSMC says some facilities evacuated after quake reut.rs/4qrVvOe
+
+[2025-12-28 01:05:09](https://bsky.app/profile/reuters.com/post/3may6qdh4pt2r)
+
+---
+
+@wsj.com
+
+Neither investors nor industrial buyers can get enough of the precious metal, while a glut of crude has swamped energy markets and depressed fuel prices. on.wsj.com/4px61mN
+
+[2025-12-28 01:01:59](https://bsky.app/profile/wsj.com/post/3may6kouhtm2z)
+
+---
+
+@cnn.com
+
+More than 3,000 flights delayed and nearly 700 canceled as snowstorm jams post-Christmas travel.
+https://cnn.it/3MX9gWQ
+
+[2025-12-28 01:01:05](https://bsky.app/profile/cnn.com/post/3may6j2omqj23)
+
+---
+
+@usatoday.com
+
+Pronounced “Old Lang Zyne,” experts say it started as a poem, and has since become a song that is now a staple in New Year’s celebrations.
+
+[2025-12-28 01:00:43](https://bsky.app/profile/usatoday.com/post/3may6ifwmeb2q)
+
+---
+
+@apnews.com
+
+After soaring to the NFC's top playoff seed last season, the Detroit Lions won't be returning to the postseason this year, and they could end up at the bottom of the NFC North.
+
+[2025-12-28 01:00:22](https://bsky.app/profile/apnews.com/post/3may6hrsfuw22)
+
+---
+
+@washingtonpost.com
+
+Review: In some ways, this dramedy is a familiar story about midlife crises and marital dissatisfaction, but it quickly swerves in a fresh direction, resulting in a movie that’s both resonant and hilarious.
+
+[2025-12-28 01:00:18](https://bsky.app/profile/washingtonpost.com/post/3may6hnpp4j2y)
+
+---
+
+@en.afp.com
+
+🥊 Japan's unbeaten Naoya Inoue said he was exhausted after defeating Mexico's Alan Picasso by unanimous decision in Riyadh on Saturday for his fourth win of 2025. 
+➡️ u.afp.com/S8eT
+
+[2025-12-28 01:00:05](https://bsky.app/profile/en.afp.com/post/3may6hbuoja2j)
+
+---
+
+@npr.org
+
+These stunning photos include a polar bear in a Chinese zoo, a teen in Zambia facing an uncertain future, Mongolian kids watching TV in a tent, a chef prepping a bowl of good-for-you soup. n.pr/4jdj7DT
+
+[2025-12-28 00:55:25](https://bsky.app/profile/npr.org/post/3may66wvr2724)
 
 ---
 
 @nytimes.com
 
-From @theathletic.com: As 2025 draws to a close, it’s time to look back at the year’s biggest feats. Teams broke records and individuals etched their name into the history books. We selected 25 photos to tell the story of the year in sports. nyti.ms/4pHKNU0
+Karoline Leavitt, the White House press secretary, announced on Friday that she was pregnant with a daughter who is due in May.
 
-[2025-12-28 00:45:04](https://bsky.app/profile/nytimes.com/post/3may5mgb4u52v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震情報】沖縄 石垣島 竹富町の黒島 与那国島で震度３
-https://news.web.nhk/newsweb/na/na-k10015014341000
-
-[2025-12-28 00:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3may5mgikh522)
-
----
-
-@forbes.com
-
-A quarter-century ago, the teams in the four major North American leagues were worth a collective $30 billion. Now, they’re valued at more than $500 billion—and one has seen appreciation of more than 6,400%.
-www.forbes.com/sites/brettk... (Photo: Elsa/Getty Images)
-
-[2025-12-28 00:44:50](https://bsky.app/profile/forbes.com/post/3may5lyxous23)
-
----
-
-@forbes.com
-
-The Best Of Forbes Photography 2025
-www.forbes.com/sites/forbes... (Photo: Levon Biss for Forbes)
-
-[2025-12-28 00:44:08](https://bsky.app/profile/forbes.com/post/3may5kqj26223)
-
----
-
-@forbes.com
-
-What Interest Rates, Markets And The 2026 Economic Outlook Mean For Your Money
-www.forbes.com/sites/emmawa... (Photo: AFP via Getty Images)
-
-[2025-12-28 00:43:40](https://bsky.app/profile/forbes.com/post/3may5jwpuvc23)
-
----
-
-@forbes.com
-
-Tax Moves You Can Still Make To Trim Your Bill Before The Year Ends
-www.forbes.com/sites/kellyp... (Photo: Getty Images)
-
-[2025-12-28 00:43:15](https://bsky.app/profile/forbes.com/post/3may5j673mc23)
-
----
-
-@forbes.com
-
-The Most Notable Career Crashes Of 2025
-www.forbes.com/sites/mariag... (Illustration by Max-o-Matic for Forbes)
-
-[2025-12-28 00:42:53](https://bsky.app/profile/forbes.com/post/3may5ijg7ak23)
-
----
-
-@forbes.com
-
-Philippine Tycoon Lucio Tan’s PNB Prepares To List $1.4 Billion Property Arm
-www.forbes.com/sites/iansay... (Photo: Courtesy of PNB)
-
-[2025-12-28 00:42:26](https://bsky.app/profile/forbes.com/post/3may5hpj22223)
-
----
-
-@nytimes.com
-
-Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — Easy, Medium and Hard — so you can solve at your own speed, in any order you want. trib.al/I086aqW
-
-[2025-12-28 00:35:22](https://bsky.app/profile/nytimes.com/post/3may533ahdk2x)
+[2025-12-28 00:55:06](https://bsky.app/profile/nytimes.com/post/3may66exa7s2b)
 
 ---
 
