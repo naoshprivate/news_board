@@ -1,9 +1,9 @@
-# [2025-12-27 17:30 updated](2025_12_27.md)
+# [2025-12-27 17:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">地震で「備え」より「予言」が… 不安あおる“デマ” 徹底検証 https://news.web.nhk/newsweb/na/na-k10015014311000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxf57zzf22b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 17:27:01)</span><span style="padding-right:50px;">石川 輪島 仮設住宅で住民が交流 「水引」を作る催し https://news.web.nhk/newsweb/na/na-k10015015531000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxen4kfs42y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 17:18:02)</span><span style="padding-right:50px;">Officials from Myanmar’s Union Election Commission prepped polling stations on Saturday for the following day’s election. <a href="https://bsky.app/profile/apnews.com/post/3maxehudiyw2k" target="_blank">apnews.com</a> (2025-12-27 17:15:07)</span><span style="padding-right:50px;">Russia launched large-scale overnight strikes less than 24 hours after Zelensky said he plans to meet Trump in Florida Sunday.  https://cnn.it/4qsff4s <a href="https://bsky.app/profile/cnn.com/post/3maxegi7trn2u" target="_blank">cnn.com</a> (2025-12-27 17:14:21)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】大阪・ミナミの交差点で乗用車が歩道に乗り上げる事故 10台未満の女の子を含む3人が軽傷 (2025-12-27 17:10) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxega7ivf2b" target="_blank">sokuho.news</a> (2025-12-27 17:14:13)</span>
+<span style="padding-right:50px;">「トケマッチ」元代表ら 解散直前 預かり本数増やそうとしたか https://news.web.nhk/newsweb/na/na-k10015015481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxgcrysot26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 17:48:02)</span><span style="padding-right:50px;">Melbourne test hero Tongue says he considered retirement due to injuries reut.rs/4pVm6U2 <a href="https://bsky.app/profile/reuters.com/post/3maxfulxe4m2i" target="_blank">reuters.com</a> (2025-12-27 17:40:08)</span><span style="padding-right:50px;">全国高校ラグビー大会 開幕 東海大大阪仰星が初戦快勝 2回戦へ https://news.web.nhk/newsweb/na/na-k10015015541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxfstvv6224" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 17:39:03)</span><span style="padding-right:50px;">Sabalenka, Kyrgios relishing 'Battle of the Sexes' challenge reut.rs/497O6fZ <a href="https://bsky.app/profile/reuters.com/post/3maxflmnfqg2r" target="_blank">reuters.com</a> (2025-12-27 17:35:07)</span><span style="padding-right:50px;">2026年は9月に「土曜日＋4連休」（無料記事） www.nikkei.com/article/DGXZQO...  敬老の日（9月21日）と秋分の日（23日）に挟まれた22日が祝日法の規定で休日となります。 <a href="https://bsky.app/profile/nikkei.com/post/3maxfdmvv5w2n" target="_blank">nikkei.com</a> (2025-12-27 17:30:39)</span>
   </div>
 </div>
 
@@ -32,15 +32,93 @@
 
 ## News Headlines
 
-- Earthquake Precautions vs Predictions: Fact-Checking Spreads Fear
-- Residents Rebuild and Socialize in Temporary Housing in Japan
-- Myanmar Election Officials Prepare for Upcoming Polls
-- Russia Launches Large-Scale Strikes After Ukraine Conflict
-- China Proposes Draft Rules to Regulate AI Interactions
-- Congo's Hidden Victims of War
+- Tokemachi founder considered dissolving company before increasing stock reserves
+- Melbourne test hero Tongue considered retirement due to injuries
+- National High School Rugby Tournament opens with Otemon Gakuin Osaka Aoyama scoring a landslide victory
+- Sabalenka and Kyrgios relish 'Battle of the Sexes' challenge
+- Fishermen in Cyprus target invasive lionfish spreading from the Red Sea to the Mediterranean
+- UN renews Sudan ceasefire appeal over 'unimaginable suffering' of civilians
 
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+「トケマッチ」元代表ら 解散直前 預かり本数増やそうとしたか
+https://news.web.nhk/newsweb/na/na-k10015015481000
+
+[2025-12-27 17:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxgcrysot26)
+
+---
+
+@reuters.com
+
+Melbourne test hero Tongue says he considered retirement due to injuries reut.rs/4pVm6U2
+
+[2025-12-27 17:40:08](https://bsky.app/profile/reuters.com/post/3maxfulxe4m2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+全国高校ラグビー大会 開幕 東海大大阪仰星が初戦快勝 2回戦へ
+https://news.web.nhk/newsweb/na/na-k10015015541000
+
+[2025-12-27 17:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxfstvv6224)
+
+---
+
+@reuters.com
+
+Sabalenka, Kyrgios relishing 'Battle of the Sexes' challenge reut.rs/497O6fZ
+
+[2025-12-27 17:35:07](https://bsky.app/profile/reuters.com/post/3maxflmnfqg2r)
+
+---
+
+@nikkei.com
+
+2026年は9月に「土曜日＋4連休」（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+敬老の日（9月21日）と秋分の日（23日）に挟まれた22日が祝日法の規定で休日となります。
+
+[2025-12-27 17:30:39](https://bsky.app/profile/nikkei.com/post/3maxfdmvv5w2n)
+
+---
+
+@japan.reuters.com
+
+ウクライナの首都キーウで２７日、ロシアによる大規模な攻撃があった。市内では爆発音が響き、防空システムが作動した。ウクライナ軍は、ミサイルが投入されたと明らかにした。 bit.ly/3YdPdG4
+
+[2025-12-27 17:30:16](https://bsky.app/profile/japan.reuters.com/post/3maxfcx355u2c)
+
+---
+
+@apnews.com
+
+Fishermen in Cyprus are now targeting invasive lionfish, which have spread from the Red Sea to the Mediterranean.
+
+[2025-12-27 17:30:13](https://bsky.app/profile/apnews.com/post/3maxfctmtca2q)
+
+---
+
+@aljazeera.com
+
+UN renews Sudan ceasefire appeal over ‘unimaginable suffering’ of civilians https://aje.io/5tf357
+
+[2025-12-27 17:30:04](https://bsky.app/profile/aljazeera.com/post/3maxfcm4g722i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+タイ 来年2月の総選挙 立候補の届け出始まる 選挙戦が本格化
+https://news.web.nhk/newsweb/na/na-k10015015551000
+
+[2025-12-27 17:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxfclzdn32y)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -48,90 +126,6 @@
 https://news.web.nhk/newsweb/na/na-k10015014311000
 
 [2025-12-27 17:27:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxf57zzf22b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-石川 輪島 仮設住宅で住民が交流 「水引」を作る催し
-https://news.web.nhk/newsweb/na/na-k10015015531000
-
-[2025-12-27 17:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxen4kfs42y)
-
----
-
-@apnews.com
-
-Officials from Myanmar’s Union Election Commission prepped polling stations on Saturday for the following day’s election.
-
-[2025-12-27 17:15:07](https://bsky.app/profile/apnews.com/post/3maxehudiyw2k)
-
----
-
-@cnn.com
-
-Russia launched large-scale overnight strikes less than 24 hours after Zelensky said he plans to meet Trump in Florida Sunday.  https://cnn.it/4qsff4s
-
-[2025-12-27 17:14:21](https://bsky.app/profile/cnn.com/post/3maxegi7trn2u)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】大阪・ミナミの交差点で乗用車が歩道に乗り上げる事故 10台未満の女の子を含む3人が軽傷
-(2025-12-27 17:10) #ニュース
-
-[2025-12-27 17:14:13](https://bsky.app/profile/sokuho.news/post/3maxega7ivf2b)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】大阪・ミナミの交差点で乗用車が歩道に乗り上げる事故 子ども含む3人が軽傷
-(2025-12-27 17:10) #ニュース
-
-[2025-12-27 17:11:01](https://bsky.app/profile/sokuho.news/post/3maxeajgu6b2v)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】宮城・村田町で建物火災「建物から炎と煙見える」
-(2025-12-27 17:05:00) #ニュース
-
-[2025-12-27 17:10:50](https://bsky.app/profile/sokuho.news/post/3maxea6zuc22x)
-
----
-
-@reuters.com
-
-China issues drafts rules to regulate AI with human-like interaction reut.rs/4q2tPzY
-
-[2025-12-27 17:10:09](https://bsky.app/profile/reuters.com/post/3maxe6xpruy2b)
-
----
-
-@wsj.com
-
-As Christian artists embrace a wider variety of sounds and market songs savvily on social media, they are rapidly widening their reach 
-
-🔗: on.wsj.com/49dn6fh
-
-[2025-12-27 17:01:31](https://bsky.app/profile/wsj.com/post/3maxdpk2hch2e)
-
----
-
-@npr.org
-
-In addition to ending fighting, the agreement calls for no further military movements by either side and no violations of either side's airspace for military purposes. n.pr/3MSlu33
-
-[2025-12-27 17:01:28](https://bsky.app/profile/npr.org/post/3maxdpgpcfv23)
 
 ---
 
