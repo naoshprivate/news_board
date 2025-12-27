@@ -1,9 +1,9 @@
-# [2025-12-27 15:30 updated](2025_12_27.md)
+# [2025-12-27 15:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】長崎ヴェルカ ホームで千葉ジェッツに競り勝つ《長崎》 (2025-12-27 15:29) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3max6ks5cnq2y" target="_blank">sokuho.news</a> (2025-12-27 15:29:23)</span><span style="padding-right:50px;">Thailand and Cambodia agree ceasefire after weeks of deadly clashes <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3max6jnghzp2a" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 15:28:44)</span><span style="padding-right:50px;">タイとカンボジアの軍事衝突 即時停戦で合意 https://news.web.nhk/newsweb/na/na-k10015015471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3max6bcst7l2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 15:24:03)</span><span style="padding-right:50px;">戦争の記憶伝える語り部への依頼 戦後80年の今年度急増 https://news.web.nhk/newsweb/na/na-k10015013241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3max63wktqk2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 15:21:02)</span><span style="padding-right:50px;">China passes revised foreign trade law to bolster trade war capabilities reut.rs/45grRDw <a href="https://bsky.app/profile/reuters.com/post/3max5rfhuel2x" target="_blank">reuters.com</a> (2025-12-27 15:15:11)</span>
+<span style="padding-right:50px;">Bowl roundup: Minnesota nips New Mexico in OT reut.rs/49aLuhz <a href="https://bsky.app/profile/reuters.com/post/3max7h2n2mz2b" target="_blank">reuters.com</a> (2025-12-27 15:45:11)</span><span style="padding-right:50px;">米プロバスケットボール協会（ＮＢＡ）は２６日、各地で試合を行い、東地区首位のピストンズはジャズに１２９─１３１で競り負けた。 bit.ly/3NisWEB <a href="https://bsky.app/profile/japan.reuters.com/post/3max75n7pug2n" target="_blank">japan.reuters.com</a> (2025-12-27 15:39:56)</span><span style="padding-right:50px;">南アフリカ東部の港町ダーバン。子ども３人を育てる父親ドゥバンドレラさん（５６）は、７月、２０歳の息子がロシアでのＶＩＰ警護の精鋭訓練に応募したとき、誇らしさで胸がいっぱいになった。 bit.ly/3MUQZtl <a href="https://bsky.app/profile/japan.reuters.com/post/3max73qbjp32c" target="_blank">japan.reuters.com</a> (2025-12-27 15:38:52)</span><span style="padding-right:50px;">Thousands of US flights disrupted as winter storm looms <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3max6zemokk2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 15:37:31)</span><span style="padding-right:50px;">BREAKING: Thailand and Cambodia said they have signed a ⁠ceasefire ​agreement to end weeks of fierce fighting along their border that has killed more than 100 people and displaced more than half a million civilians in both countries aje.io/hu2v3f <a href="https://bsky.app/profile/aljazeera.com/post/3max6pfookk2o" target="_blank">aljazeera.com</a> (2025-12-27 15:31:58)</span>
   </div>
 </div>
 
@@ -32,98 +32,100 @@
 
 ## News Headlines
 
-- Thailand and Cambodia Agree to Ceasefire After Weeks of Deadly Clashes
-- Japan's Central Bank Raises Interest Rate to 0.25%, but Yen Continues to Weaken
-- Russia Launches Large-Scale Attack on Ukraine's Capital, Kyiv
-- Yemen's Saudi-Led Coalition Says It Will Deal with Military Moves in Hadramout
-- NBA: Jaylen Brown Extends Scoring Streak as Celtics Top Pacers
-- Thailand Returns 18 Cambodian Soldiers Captured in Earlier Fighting
+- Thousands of US flights disrupted as winter storm looms
+- Thailand and Cambodia agree ceasefire after weeks of deadly clashes
+- China passes revised foreign trade law to bolster trade war capabilities
+- Ukraine's capital Kiev hit by large-scale Russian attack
+- NBA roundup: Jaylen Brown extends scoring streak as Celtics top Pacers
+- Thailand and Cambodia sign ceasefire to end border conflict
 
 
 ----
 
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】長崎ヴェルカ ホームで千葉ジェッツに競り勝つ《長崎》
-(2025-12-27 15:29) #ニュース
-
-[2025-12-27 15:29:23](https://bsky.app/profile/sokuho.news/post/3max6ks5cnq2y)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Thailand and Cambodia agree ceasefire after weeks of deadly clashes
-
-[2025-12-27 15:28:44](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3max6jnghzp2a)
-
----
-
-@nhknewsunofficial.bsky.social
-
-タイとカンボジアの軍事衝突 即時停戦で合意
-https://news.web.nhk/newsweb/na/na-k10015015471000
-
-[2025-12-27 15:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3max6bcst7l2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-戦争の記憶伝える語り部への依頼 戦後80年の今年度急増
-https://news.web.nhk/newsweb/na/na-k10015013241000
-
-[2025-12-27 15:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3max63wktqk2m)
-
----
-
 @reuters.com
 
-China passes revised foreign trade law to bolster trade war capabilities reut.rs/45grRDw
+Bowl roundup: Minnesota nips New Mexico in OT reut.rs/49aLuhz
 
-[2025-12-27 15:15:11](https://bsky.app/profile/reuters.com/post/3max5rfhuel2x)
-
----
-
-@wsj.com
-
-Shale drillers have turned the Permian Basin of West Texas and New Mexico into a pressure cooker that is literally bursting at the seams. on.wsj.com/4jcoOSx
-
-[2025-12-27 15:10:45](https://bsky.app/profile/wsj.com/post/3max5jidq3f2u)
-
----
-
-@reuters.com
-
-Panthers LB Trevin Wallace has shoulder surgery, done for season reut.rs/4aAk0En
-
-[2025-12-27 15:10:09](https://bsky.app/profile/reuters.com/post/3max5ifkiux2r)
-
----
-
-@reuters.com
-
-Yemen's Saudi-led coalition says it will deal with military moves in Hadramout reut.rs/4pf4PEj
-
-[2025-12-27 15:05:09](https://bsky.app/profile/reuters.com/post/3max57he3ja2c)
+[2025-12-27 15:45:11](https://bsky.app/profile/reuters.com/post/3max7h2n2mz2b)
 
 ---
 
 @japan.reuters.com
 
-ウクライナの首都キーウで２７日、ロシアによる大規模な攻撃があった。市内では爆発音が響き、防空システムが作動した。ウクライナ軍は、ミサイルが投入されたと明らかにした。 bit.ly/44N2rNI
+米プロバスケットボール協会（ＮＢＡ）は２６日、各地で試合を行い、東地区首位のピストンズはジャズに１２９─１３１で競り負けた。 bit.ly/3NisWEB
 
-[2025-12-27 15:02:15](https://bsky.app/profile/japan.reuters.com/post/3max52bgpha2u)
+[2025-12-27 15:39:56](https://bsky.app/profile/japan.reuters.com/post/3max75n7pug2n)
 
 ---
 
-@cnn.com
+@japan.reuters.com
 
-A man accused of fatally shooting a Delaware State Police trooper at a DMV office allowed customers to leave and then fired at approaching officers before being killed, investigators said. 
+南アフリカ東部の港町ダーバン。子ども３人を育てる父親ドゥバンドレラさん（５６）は、７月、２０歳の息子がロシアでのＶＩＰ警護の精鋭訓練に応募したとき、誇らしさで胸がいっぱいになった。 bit.ly/3MUQZtl
 
-[2025-12-27 15:01:01](https://bsky.app/profile/cnn.com/post/3max4y2yd2y2a)
+[2025-12-27 15:38:52](https://bsky.app/profile/japan.reuters.com/post/3max73qbjp32c)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Thousands of US flights disrupted as winter storm looms
+
+[2025-12-27 15:37:31](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3max6zemokk2e)
+
+---
+
+@aljazeera.com
+
+<strong><span style="color: red;">BREAKING:</span> Thailand and Cambodia said they have signed a ⁠ceasefire ​agreement to end weeks of fierce fighting along their border that has killed more than 100 people and displaced more than half a million civilians in both countries aje.io/hu2v3f</strong>
+
+[2025-12-27 15:31:58](https://bsky.app/profile/aljazeera.com/post/3max6pfookk2o)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Susanna Liew: The pastor's wife who took on Malaysia's government over her missing husband Raymond Koh
+
+[2025-12-27 15:30:54](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3max6njbm7q27)
+
+---
+
+@nikkei.com
+
+マネーフォワード経営陣　「1冊全部読もうとしない」
+www.nikkei.com/article/DGXZQO...
+
+読書量の多い伊藤さんは「本の構成には起伏がある。そこをつかめれば1ページ熟読するだけでもいい」
+ 
+一方、竹田さんは判断の軸になる知識を、信頼できる1冊から深く得るスタイルです。
+
+中出さんはオーディオブックで耳から情報を入れるタイプ。三者三様の読書形式に迫ります。
+
+[2025-12-27 15:30:40](https://bsky.app/profile/nikkei.com/post/3max6n3437n2n)
+
+---
+
+@reuters.com
+
+U.S.-backed airstrikes in Nigeria hit two ISIS-linked camps, government says reut.rs/48TZPQC
+
+[2025-12-27 15:30:20](https://bsky.app/profile/reuters.com/post/3max6mipbjy2y)
+
+---
+
+@japan.reuters.com
+
+カンボジア国防省は２７日、タイとカンボジアは、国境地帯での軍事衝突を巡り、停戦に合意したと明らかにした。 bit.ly/4pe03a6
+
+[2025-12-27 15:30:16](https://bsky.app/profile/japan.reuters.com/post/3max6meluyb25)
+
+---
+
+@aljazeera.com
+
+UK plans to boost ranks of armed forces by offering young people paid military experience amid growing Russian threats.
+
+[2025-12-27 15:30:03](https://bsky.app/profile/aljazeera.com/post/3max6ly3l232h)
 
 ---
 
