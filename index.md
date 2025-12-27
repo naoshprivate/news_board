@@ -1,9 +1,9 @@
-# [2025-12-27 15:10 updated](2025_12_27.md)
+# [2025-12-27 15:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Yemen's Saudi-led coalition says it will deal with military moves in Hadramout reut.rs/4pf4PEj <a href="https://bsky.app/profile/reuters.com/post/3max57he3ja2c" target="_blank">reuters.com</a> (2025-12-27 15:05:09)</span><span style="padding-right:50px;">ウクライナの首都キーウで２７日、ロシアによる大規模な攻撃があった。市内では爆発音が響き、防空システムが作動した。ウクライナ軍は、ミサイルが投入されたと明らかにした。 bit.ly/44N2rNI <a href="https://bsky.app/profile/japan.reuters.com/post/3max52bgpha2u" target="_blank">japan.reuters.com</a> (2025-12-27 15:02:15)</span><span style="padding-right:50px;">A man accused of fatally shooting a Delaware State Police trooper at a DMV office allowed customers to leave and then fired at approaching officers before being killed, investigators said.  <a href="https://bsky.app/profile/cnn.com/post/3max4y2yd2y2a" target="_blank">cnn.com</a> (2025-12-27 15:01:01)</span><span style="padding-right:50px;">NBA roundup: Jaylen Brown extends scoring streak as Celtics top Pacers reut.rs/4pZrSUT <a href="https://bsky.app/profile/reuters.com/post/3max4x56gqd2r" target="_blank">reuters.com</a> (2025-12-27 15:00:30)</span><span style="padding-right:50px;">１２月の金融政策決定会合で日銀が０．２５％の利上げをしたにもかかわらず、円安進行が止まらない。これから年末年始にかけて、やや投機的な取引が増えて予想以上に円安が進むのではないかと強く警戒される。筆者は、次の利上げが多くの人が考えるよりも前倒しで行われる可能性が高まっているとみる。 bit.ly/45tIgEG <a href="https://bsky.app/profile/japan.reuters.com/post/3max4wx5szw2f" target="_blank">japan.reuters.com</a> (2025-12-27 15:00:24)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】長崎ヴェルカ ホームで千葉ジェッツに競り勝つ《長崎》 (2025-12-27 15:29) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3max6ks5cnq2y" target="_blank">sokuho.news</a> (2025-12-27 15:29:23)</span><span style="padding-right:50px;">Thailand and Cambodia agree ceasefire after weeks of deadly clashes <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3max6jnghzp2a" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 15:28:44)</span><span style="padding-right:50px;">タイとカンボジアの軍事衝突 即時停戦で合意 https://news.web.nhk/newsweb/na/na-k10015015471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3max6bcst7l2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 15:24:03)</span><span style="padding-right:50px;">戦争の記憶伝える語り部への依頼 戦後80年の今年度急増 https://news.web.nhk/newsweb/na/na-k10015013241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3max63wktqk2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 15:21:02)</span><span style="padding-right:50px;">China passes revised foreign trade law to bolster trade war capabilities reut.rs/45grRDw <a href="https://bsky.app/profile/reuters.com/post/3max5rfhuel2x" target="_blank">reuters.com</a> (2025-12-27 15:15:11)</span>
   </div>
 </div>
 
@@ -32,15 +32,76 @@
 
 ## News Headlines
 
-- Yemen's Saudi-led coalition says it will deal with military moves in Hadramout
-- Major Russian attack hits Ukraine's capital Kyiv
-- Man accused of fatally shooting Delaware State Police trooper
-- Japan's central bank raises interest rate to 0.25%
-- Thailand and Cambodia sign ceasefire to end border conflict
-- Winter storm bears down on U.S. Northeast, disrupting airline travel
+- Thailand and Cambodia Agree to Ceasefire After Weeks of Deadly Clashes
+- Japan's Central Bank Raises Interest Rate to 0.25%, but Yen Continues to Weaken
+- Russia Launches Large-Scale Attack on Ukraine's Capital, Kyiv
+- Yemen's Saudi-Led Coalition Says It Will Deal with Military Moves in Hadramout
+- NBA: Jaylen Brown Extends Scoring Streak as Celtics Top Pacers
+- Thailand Returns 18 Cambodian Soldiers Captured in Earlier Fighting
 
 
 ----
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】長崎ヴェルカ ホームで千葉ジェッツに競り勝つ《長崎》
+(2025-12-27 15:29) #ニュース
+
+[2025-12-27 15:29:23](https://bsky.app/profile/sokuho.news/post/3max6ks5cnq2y)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Thailand and Cambodia agree ceasefire after weeks of deadly clashes
+
+[2025-12-27 15:28:44](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3max6jnghzp2a)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+タイとカンボジアの軍事衝突 即時停戦で合意
+https://news.web.nhk/newsweb/na/na-k10015015471000
+
+[2025-12-27 15:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3max6bcst7l2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+戦争の記憶伝える語り部への依頼 戦後80年の今年度急増
+https://news.web.nhk/newsweb/na/na-k10015013241000
+
+[2025-12-27 15:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3max63wktqk2m)
+
+---
+
+@reuters.com
+
+China passes revised foreign trade law to bolster trade war capabilities reut.rs/45grRDw
+
+[2025-12-27 15:15:11](https://bsky.app/profile/reuters.com/post/3max5rfhuel2x)
+
+---
+
+@wsj.com
+
+Shale drillers have turned the Permian Basin of West Texas and New Mexico into a pressure cooker that is literally bursting at the seams. on.wsj.com/4jcoOSx
+
+[2025-12-27 15:10:45](https://bsky.app/profile/wsj.com/post/3max5jidq3f2u)
+
+---
+
+@reuters.com
+
+Panthers LB Trevin Wallace has shoulder surgery, done for season reut.rs/4aAk0En
+
+[2025-12-27 15:10:09](https://bsky.app/profile/reuters.com/post/3max5ifkiux2r)
+
+---
 
 @reuters.com
 
@@ -63,63 +124,6 @@ Yemen's Saudi-led coalition says it will deal with military moves in Hadramout r
 A man accused of fatally shooting a Delaware State Police trooper at a DMV office allowed customers to leave and then fired at approaching officers before being killed, investigators said. 
 
 [2025-12-27 15:01:01](https://bsky.app/profile/cnn.com/post/3max4y2yd2y2a)
-
----
-
-@reuters.com
-
-NBA roundup: Jaylen Brown extends scoring streak as Celtics top Pacers reut.rs/4pZrSUT
-
-[2025-12-27 15:00:30](https://bsky.app/profile/reuters.com/post/3max4x56gqd2r)
-
----
-
-@japan.reuters.com
-
-１２月の金融政策決定会合で日銀が０．２５％の利上げをしたにもかかわらず、円安進行が止まらない。これから年末年始にかけて、やや投機的な取引が増えて予想以上に円安が進むのではないかと強く警戒される。筆者は、次の利上げが多くの人が考えるよりも前倒しで行われる可能性が高まっているとみる。 bit.ly/45tIgEG
-
-[2025-12-27 15:00:24](https://bsky.app/profile/japan.reuters.com/post/3max4wx5szw2f)
-
----
-
-@bloomberg.com
-
-The vast majority of Indians don't have any kind of formal pension and depend on gold for everything from health insurance to social security. (from the archive)
-
-[2025-12-27 15:00:12](https://bsky.app/profile/bloomberg.com/post/3max4wmbtqs23)
-
----
-
-@washingtonpost.com
-
-Despite his father’s initial reluctance for a memorial, a son took up the challenge of riding in El Tour de Tucson after finding out it was his dad's last wish was for their family. 
-
-
-[2025-12-27 15:00:08](https://bsky.app/profile/washingtonpost.com/post/3max4whudk624)
-
----
-
-@aljazeera.com
-
-President Touadera's decision to stand for a third term has drawn criticism from opposition groups and civil society.
-
-[2025-12-27 15:00:04](https://bsky.app/profile/aljazeera.com/post/3max4wevinj27)
-
----
-
-@financialtimes.com
-
-Data centres turn to aircraft engines to avoid grid connection delays ft.trib.al/N1NLaCs
-
-[2025-12-27 14:54:37](https://bsky.app/profile/financialtimes.com/post/3max4mn2qes2c)
-
----
-
-@japan.reuters.com
-
-ポーランド南東部のジェシュフ空港とルブリン空港が一時閉鎖された。ポーランド航空管制局（ＰＡＮＳＡ）が２７日、Ｘに投稿した。ロシアによるウクライナへの攻撃を受け、ポーランド軍が戦闘機を緊急発進させたことに伴う措置。 bit.ly/4b9GWuh
-
-[2025-12-27 14:54:37](https://bsky.app/profile/japan.reuters.com/post/3max4mmc3kr2c)
 
 ---
 
