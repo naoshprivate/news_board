@@ -1,9 +1,9 @@
-# [2025-12-27 19:30 updated](2025_12_27.md)
+# [2025-12-27 19:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Resolutions to consider for a 2026 that brings you as few tax troubles as possible. on.wsj.com/44MuyfY <a href="https://bsky.app/profile/wsj.com/post/3maxlt6aibd2e" target="_blank">wsj.com</a> (2025-12-27 19:26:43)</span><span style="padding-right:50px;">🇸🇦 Saudi belly dancers shake off taboos behind closed doors  In a Riyadh fitness studio, dozens of women move to Arabic music, practising belly dance in secret. Despite their enthusiasm, none reveal their names or faces -— a reflection of the deep stigma that surrounds the dance in Saudi Arabia. <a href="https://bsky.app/profile/en.afp.com/post/3maxlhbeu6u2v" target="_blank">en.afp.com</a> (2025-12-27 19:20:04)</span><span style="padding-right:50px;">ポーランド南東部のジェシュフ空港とルブリン空港が一時閉鎖された。ポーランド航空管制局（ＰＡＮＳＡ）が２７日、Ｘに投稿した。ロシアによるウクライナへの攻撃を受け、ポーランド軍が戦闘機を緊急発進させたことに伴う措置。 bit.ly/3MVxiBx <a href="https://bsky.app/profile/japan.reuters.com/post/3maxl6kdig72n" target="_blank">japan.reuters.com</a> (2025-12-27 19:15:11)</span><span style="padding-right:50px;">スピードスケート女子1000m高木が優勝 2位の吉田 代表内定確実 https://news.web.nhk/newsweb/na/na-k10015015591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxktnficl2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 19:09:03)</span><span style="padding-right:50px;">Meteor lights up sky over Japan's Mount Fuji <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxksktuyo2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 19:08:28)</span>
+<span style="padding-right:50px;">ウクライナの首都キーウで２７日、ロシアによる大規模な攻撃があった。市内では爆発音が響き、防空システムが作動した。ウクライナ軍は、ミサイルが投入されたと明らかにした。 bit.ly/4pWdyMV <a href="https://bsky.app/profile/japan.reuters.com/post/3maxmu7bbpu26" target="_blank">japan.reuters.com</a> (2025-12-27 19:45:11)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】広島市安芸区で山火事 現在も消火中 (2025-12-27 19:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxmmige4r2y" target="_blank">sokuho.news</a> (2025-12-27 19:40:52)</span><span style="padding-right:50px;">🇲🇾 One of the world's rarest felines sighted on Malaysia's Borneo island   Images show the flat-headed cat, one of the world's rarest and most threatened wild felines, wandering around the Tangkulap Forest Reserve on the island of Borneo in February and August 2024. <a href="https://bsky.app/profile/en.afp.com/post/3maxmlmfry22f" target="_blank">en.afp.com</a> (2025-12-27 19:40:23)</span><span style="padding-right:50px;">Dhaka assistant coach Zaki dies after collapsing before BPL game reut.rs/3KORrsv <a href="https://bsky.app/profile/reuters.com/post/3maxmc7iext2o" target="_blank">reuters.com</a> (2025-12-27 19:35:07)</span><span style="padding-right:50px;">‘It’s been an expensive year’: Meituan counts cost of China’s delivery wars ft.trib.al/XqAlwgR <a href="https://bsky.app/profile/financialtimes.com/post/3maxm7qeegi2k" target="_blank">financialtimes.com</a> (2025-12-27 19:33:45)</span>
   </div>
 </div>
 
@@ -32,15 +32,88 @@
 
 ## News Headlines
 
-- Resolutions to consider for a 2026 that brings you as few tax troubles as possible
-- Saudi women secretly practice belly dance in Riyadh
-- Poland closes airports in response to Russian strikes on Ukraine
-- Japanese skater takes gold in women's 1000m speed skating
-- Tiny Australian fish has been hiding in river for millions of years
+- Russian drone and missile barrage kills one, wounds dozens in Kyiv and its suburbs
+- Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks
+- Rare flat-headed cat spotted on Malaysia's Borneo island
 - Mountain gorillas face new perils as numbers rebound in Virunga mountains
+- Meituan counts cost of China's delivery wars as year ends
+- Belly dancers shake off taboos in Saudi Arabia behind closed doors
 
 
 ----
+
+@japan.reuters.com
+
+ウクライナの首都キーウで２７日、ロシアによる大規模な攻撃があった。市内では爆発音が響き、防空システムが作動した。ウクライナ軍は、ミサイルが投入されたと明らかにした。 bit.ly/4pWdyMV
+
+[2025-12-27 19:45:11](https://bsky.app/profile/japan.reuters.com/post/3maxmu7bbpu26)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】広島市安芸区で山火事 現在も消火中
+(2025-12-27 19:30) #ニュース
+
+[2025-12-27 19:40:52](https://bsky.app/profile/sokuho.news/post/3maxmmige4r2y)
+
+---
+
+@en.afp.com
+
+🇲🇾 One of the world's rarest felines sighted on Malaysia's Borneo island 
+
+Images show the flat-headed cat, one of the world's rarest and most threatened wild felines, wandering around the Tangkulap Forest Reserve on the island of Borneo in February and August 2024.
+
+[2025-12-27 19:40:23](https://bsky.app/profile/en.afp.com/post/3maxmlmfry22f)
+
+---
+
+@reuters.com
+
+Dhaka assistant coach Zaki dies after collapsing before BPL game reut.rs/3KORrsv
+
+[2025-12-27 19:35:07](https://bsky.app/profile/reuters.com/post/3maxmc7iext2o)
+
+---
+
+@financialtimes.com
+
+‘It’s been an expensive year’: Meituan counts cost of China’s delivery wars ft.trib.al/XqAlwgR
+
+[2025-12-27 19:33:45](https://bsky.app/profile/financialtimes.com/post/3maxm7qeegi2k)
+
+---
+
+@nikkei.com
+
+【クイズにチャレンジ！】
+Z世代の次「α(アルファ) 世代」のこと、どこまで知っていますか？
+vdata.nikkei.com/newsgraphics...
+
+[2025-12-27 19:30:47](https://bsky.app/profile/nikkei.com/post/3maxm2h7pfg2y)
+
+---
+
+@cnn.com
+
+Kennedy Center president Richard Grenell lambasted a performer's decision to cancel an annual Christmas Eve jazz concert, following the addition of President Donald Trump's name to the Washington, DC, arts venue.
+https://cnn.it/4b8Atjj
+
+[2025-12-27 19:30:05](https://bsky.app/profile/cnn.com/post/3maxlz76mcy2x)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+静岡 三島の工場 15人刺傷事件 容疑者は車で入り込んだか
+https://news.web.nhk/newsweb/na/na-k10015015371000
+
+[2025-12-27 19:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxlz5trhl2w)
+
+---
 
 @wsj.com
 
@@ -57,78 +130,6 @@ Resolutions to consider for a 2026 that brings you as few tax troubles as possib
 In a Riyadh fitness studio, dozens of women move to Arabic music, practising belly dance in secret. Despite their enthusiasm, none reveal their names or faces -— a reflection of the deep stigma that surrounds the dance in Saudi Arabia.
 
 [2025-12-27 19:20:04](https://bsky.app/profile/en.afp.com/post/3maxlhbeu6u2v)
-
----
-
-@japan.reuters.com
-
-ポーランド南東部のジェシュフ空港とルブリン空港が一時閉鎖された。ポーランド航空管制局（ＰＡＮＳＡ）が２７日、Ｘに投稿した。ロシアによるウクライナへの攻撃を受け、ポーランド軍が戦闘機を緊急発進させたことに伴う措置。 bit.ly/3MVxiBx
-
-[2025-12-27 19:15:11](https://bsky.app/profile/japan.reuters.com/post/3maxl6kdig72n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スピードスケート女子1000m高木が優勝 2位の吉田 代表内定確実
-https://news.web.nhk/newsweb/na/na-k10015015591000
-
-[2025-12-27 19:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxktnficl2y)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Meteor lights up sky over Japan's Mount Fuji
-
-[2025-12-27 19:08:28](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxksktuyo2b)
-
----
-
-@npr.org
-
-Online prediction markets, like Polymarket and Kalshi, were under intense scrutiny in the Biden administration. But Trump officials are embracing the controversial apps, raising new fears about election interference ahead of the midterms. n.pr/4sfSvX5
-
-[2025-12-27 19:06:55](https://bsky.app/profile/npr.org/post/3maxkprj6uy2n)
-
----
-
-@cnn.com
-
-Along a nine-mile stretch of river between two waterfalls in the Australian rainforest lives a tiny fish that’s been there for millions of years, hiding between rocks along the riverbank by day and emerging at night to feed. https://cnn.it/45tLMPp
-
-[2025-12-27 19:02:12](https://bsky.app/profile/cnn.com/post/3maxkhdmoir2k)
-
----
-
-@en.afp.com
-
-🦍 Mountain gorillas face new perils as numbers rebound
-
-In the Virunga mountains between Uganda, the Democratic Republic of the Congo and Rwanda, the gorilla population has grown but the rising numbers have led to increased conflict between rival clans and risk of diseases.
-
-[2025-12-27 19:01:00](https://bsky.app/profile/en.afp.com/post/3maxkf6krvt2u)
-
----
-
-@nikkei.com
-
-時代小説・SF…　目利きが選んだ「3冊」はこれだ!
-www.nikkei.com/article/DGXZQO...
-
-以下の9人に選んでもらいました。
-
-東えりかさん（書評家）、小谷真理さん（ファンタジー評論家）、藤島大さん（スポーツライター）、大矢博子さん（文芸評論家）、速水健朗さん（評論家）、竹内薫さん（サイエンス作家）、野崎六助さん（評論家）、入山章栄さん（経営学者）、陣野俊史さん（批評家）
-
-[2025-12-27 19:00:40](https://bsky.app/profile/nikkei.com/post/3maxkem3znz2x)
-
----
-
-@apnews.com
-
-The lurch in the media business has changed America over the last two decades.
-
-[2025-12-27 19:00:15](https://bsky.app/profile/apnews.com/post/3maxkdu7eqm23)
 
 ---
 
