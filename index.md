@@ -1,9 +1,9 @@
-# [2025-12-27 14:10 updated](2025_12_27.md)
+# [2025-12-27 14:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> Aldi’s cut-price Napa Cab is a bad omen for northern California wine ft.trib.al/Xt2nDy4  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mawzya37xn2p" target="_blank">financialtimes.com</a> (2025-12-27 14:07:25)</span><span style="padding-right:50px;"> The curious signal sent by HSBC ft.trib.al/Rn4fdGg  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mawzy7okst2w" target="_blank">financialtimes.com</a> (2025-12-27 14:07:25)</span><span style="padding-right:50px;">夫婦別々「セパレート帰省」6割　義実家行かず www.nikkei.com/article/DGXZQO...  女性や20〜30代の若年世代を中心に支持を集めています。  理由は「金銭負担を抑えられる」「気苦労から解放される」など様々。  帰省を迎える側でも、「子や孫に会えれば十分」との考えが広まりつつあるようです。 <a href="https://bsky.app/profile/nikkei.com/post/3mawzmjwbk422" target="_blank">nikkei.com</a> (2025-12-27 14:00:53)</span><span style="padding-right:50px;">Some doctors say the chemicals all around us—from golf courses to dry cleaners—may be increasing our risk of Parkinson’s disease, the fastest-growing neurodegenerative disease in the world.  Read more: on.wsj.com/3LeGBfq <a href="https://bsky.app/profile/wsj.com/post/3mawzmdx77v2i" target="_blank">wsj.com</a> (2025-12-27 14:00:46)</span><span style="padding-right:50px;">England 98 runs from victory at tea, eight wickets in hand reut.rs/3Liy0bC <a href="https://bsky.app/profile/reuters.com/post/3mawzm6u3tc2s" target="_blank">reuters.com</a> (2025-12-27 14:00:41)</span>
+<span style="padding-right:50px;">Skin-care enthusiasts lament lousy experiences with "holy grail" ingredients like hyaluronic acid, vitamin C and niacinamide. The problem? They’re using them incorrectly.   Here are some expert tips: 🔗 on.wsj.com/3NdA70O <a href="https://bsky.app/profile/wsj.com/post/3max2vrnrtl2q" target="_blank">wsj.com</a> (2025-12-27 14:23:57)</span><span style="padding-right:50px;">Russian drones, missiles pound Ukraine before Zelenskiy-Trump meeting reut.rs/4avmrbn <a href="https://bsky.app/profile/reuters.com/post/3max2oz3nc22r" target="_blank">reuters.com</a> (2025-12-27 14:20:10)</span><span style="padding-right:50px;">Italy and Spain shake off ‘periphery’ tag as borrowing premiums hit 16-year low ft.trib.al/Vcv50iH <a href="https://bsky.app/profile/financialtimes.com/post/3max2efgbjb2o" target="_blank">financialtimes.com</a> (2025-12-27 14:14:14)</span><span style="padding-right:50px;">Morgan Scalley, Kyle Whittingham’s Utah successor, to coach bowl game reut.rs/4ph9GEN <a href="https://bsky.app/profile/reuters.com/post/3max255d2qv2i" target="_blank">reuters.com</a> (2025-12-27 14:10:10)</span><span style="padding-right:50px;"> Aldi’s cut-price Napa Cab is a bad omen for northern California wine ft.trib.al/Xt2nDy4  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mawzya37xn2p" target="_blank">financialtimes.com</a> (2025-12-27 14:07:25)</span>
   </div>
 </div>
 
@@ -32,15 +32,49 @@
 
 ## News Headlines
 
-- Aldi’s cut-price Napa Cab is a bad omen for northern California wine
-- HSBC sends a curious signal
-- Most couples now return to their hometowns separately, with 6 in 10 not visiting their in-laws
-- Chemicals in the environment may be linked to increase in Parkinson’s disease
-- England on the brink of victory with 98 runs needed to win
-- Thailand and Cambodia agree on ceasefire
+- Ukrainian Civilians Lament 'Lousy' Skin-Care Routines
+- Italy and Spain Shake Off 'Periphery' Tag as Borrowing Premiums Hit 16-Year Low
+- Thai-Cambodian Ceasefire Agreement Reaches After Talks Between Defense Ministers
+- China Revises Aviation Law to Regulate Drones, Tighten Safety Rules
+- California Drops Lawsuit Challenging Trump Decision to Pull $4 Billion in High-Speed Rail Funding
+- Russia Using Belarus Territory to Bypass Ukraine's Defenses, Says Zelenskyy
 
 
 ----
+
+@wsj.com
+
+Skin-care enthusiasts lament lousy experiences with "holy grail" ingredients like hyaluronic acid, vitamin C and niacinamide. The problem? They’re using them incorrectly. 
+
+Here are some expert tips: 🔗 on.wsj.com/3NdA70O
+
+[2025-12-27 14:23:57](https://bsky.app/profile/wsj.com/post/3max2vrnrtl2q)
+
+---
+
+@reuters.com
+
+Russian drones, missiles pound Ukraine before Zelenskiy-Trump meeting reut.rs/4avmrbn
+
+[2025-12-27 14:20:10](https://bsky.app/profile/reuters.com/post/3max2oz3nc22r)
+
+---
+
+@financialtimes.com
+
+Italy and Spain shake off ‘periphery’ tag as borrowing premiums hit 16-year low ft.trib.al/Vcv50iH
+
+[2025-12-27 14:14:14](https://bsky.app/profile/financialtimes.com/post/3max2efgbjb2o)
+
+---
+
+@reuters.com
+
+Morgan Scalley, Kyle Whittingham’s Utah successor, to coach bowl game reut.rs/4ph9GEN
+
+[2025-12-27 14:10:10](https://bsky.app/profile/reuters.com/post/3max255d2qv2i)
+
+---
 
 @financialtimes.com
 
@@ -99,40 +133,6 @@ England 98 runs from victory at tea, eight wickets in hand reut.rs/3Liy0bC
 (2025-12-27 14:00) #ニュース
 
 [2025-12-27 14:00:37](https://bsky.app/profile/sokuho.news/post/3mawzm2r5ei2b)
-
----
-
-@cnbc.com
-
-Here are four key practices these longevity experts all say they prioritize to live longer, healthier lives.
-
-[2025-12-27 14:00:26](https://bsky.app/profile/cnbc.com/post/3mawzlqnmrc23)
-
----
-
-@bloomberg.com
-
-The Renters’ Rights Bill marks the biggest shake-up for UK landlords and buy-to-let investors in decades
-
-[2025-12-27 14:00:15](https://bsky.app/profile/bloomberg.com/post/3mawzlfmmrb2g)
-
----
-
-@washingtonpost.com
-
-Over 100 years after a 3,400-year-old bust of Queen Nefertiti was first taken to Berlin, the largest effort to bring her back to her homeland is underway.
-
-But German museum authorities are hardly eager to hand over one of the country’s most famous artifacts.
-
-[2025-12-27 14:00:05](https://bsky.app/profile/washingtonpost.com/post/3mawzl4en6g2i)
-
----
-
-@reuters.com
-
-California drops lawsuit challenging Trump decision to pull $4 billion in high speed rail funding reut.rs/3KS5IVj
-
-[2025-12-27 13:50:12](https://bsky.app/profile/reuters.com/post/3mawyzgx6zy2o)
 
 ---
 
