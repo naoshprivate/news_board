@@ -1,9 +1,9 @@
-# [2025-12-28 02:30 updated](2025_12_28.md)
+# [2025-12-28 02:50 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Mane scores for Senegal to see them come back to draw with DR Congo reut.rs/45lVCCX <a href="https://bsky.app/profile/reuters.com/post/3mayd7dvcci2o" target="_blank">reuters.com</a> (2025-12-28 02:25:08)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:熊本県阿蘇地方, 深さ:10km マグニチュード:2.8, 最大震度:2 📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h 地震発生日時:2025-12-28 02:19頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3mayd3ugsqo2r" target="_blank">sokuho.news</a> (2025-12-28 02:23:10)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  2時19分頃、熊本県・大分県で最大震度2の地震を観測しました。 震源:熊本県阿蘇地方, 深さ:10km, 規模:M2.8 この地震による津波の心配はありません。 (2025-12-28 02:22:40) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/28/2025-12-28-02-19-55.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3mayd2ynjlm2e" target="_blank">sokuho.news</a> (2025-12-28 02:22:42)</span><span style="padding-right:50px;">Liverpool condemn Wolves to record for longest winless Premier League start reut.rs/4jjaub2 <a href="https://bsky.app/profile/reuters.com/post/3maycnkidcd2y" target="_blank">reuters.com</a> (2025-12-28 02:15:10)</span><span style="padding-right:50px;">President Trump promised radical change this term. Here’s how his first year back in office compared with his campaign pledges. <a href="https://bsky.app/profile/nytimes.com/post/3maycnhfs7k2v" target="_blank">nytimes.com</a> (2025-12-28 02:15:07)</span>
+<span style="padding-right:50px;">Algeria's Mandi backs move to hold AFCON every four years reut.rs/495On4B <a href="https://bsky.app/profile/reuters.com/post/3maye2astbd2s" target="_blank">reuters.com</a> (2025-12-28 02:40:10)</span><span style="padding-right:50px;">自転車「青切符」前に 世代ごとのガイドライン作成 警察庁 https://news.web.nhk/newsweb/na/na-k10015015651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maydnjr2kj2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 02:33:02)</span><span style="padding-right:50px;">The California Highway Patrol warned drivers to be cautious because "'making memories’ shouldn’t include us pulling you out of a snowbank." <a href="https://bsky.app/profile/usatoday.com/post/3maydiljtt32h" target="_blank">usatoday.com</a> (2025-12-28 02:30:18)</span><span style="padding-right:50px;">Our journalists are joining nearly 40 scientists on a two-month expedition to Antarctica’s fastest-melting glaciers.   Learn more about the trip: trib.al/m5FCPom Follow along with their dispatches and send us your questions: trib.al/hmpnb4J <a href="https://bsky.app/profile/nytimes.com/post/3maydhnjoqs26" target="_blank">nytimes.com</a> (2025-12-28 02:29:46)</span><span style="padding-right:50px;">Mane scores for Senegal to see them come back to draw with DR Congo reut.rs/45lVCCX <a href="https://bsky.app/profile/reuters.com/post/3mayd7dvcci2o" target="_blank">reuters.com</a> (2025-12-28 02:25:08)</span>
   </div>
 </div>
 
@@ -32,15 +32,51 @@
 
 ## News Headlines
 
-- Senegal Scores to Draw with DR Congo
-- Massive Earthquake Hits Kyushu, Japan
-- Liverpool's Winless Streak in Premier League Reaches Record
-- Arsenal Reclaims Top Spot in Premier League
-- Robot Startups Face Daunting Technical Challenges
-- Russia Pounds Ukraine with Missile and Drone Strikes
+- Algeria backs move to hold AFCON every four years
+- Japan to create guidelines for bicycle lanes for each generation
+- California Highway Patrol warns drivers to be cautious due to snow
+- Senegal comes back to draw with DR Congo through Mane's goal
+- Russia launches massive attack on Ukraine ahead of Trump-Zelenskiy talks
+- Thailand and Cambodia agree to 72-hour ceasefire
 
 
 ----
+
+@reuters.com
+
+Algeria's Mandi backs move to hold AFCON every four years reut.rs/495On4B
+
+[2025-12-28 02:40:10](https://bsky.app/profile/reuters.com/post/3maye2astbd2s)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自転車「青切符」前に 世代ごとのガイドライン作成 警察庁
+https://news.web.nhk/newsweb/na/na-k10015015651000
+
+[2025-12-28 02:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maydnjr2kj2x)
+
+---
+
+@usatoday.com
+
+The California Highway Patrol warned drivers to be cautious because "'making memories’ shouldn’t include us pulling you out of a snowbank."
+
+[2025-12-28 02:30:18](https://bsky.app/profile/usatoday.com/post/3maydiljtt32h)
+
+---
+
+@nytimes.com
+
+Our journalists are joining nearly 40 scientists on a two-month expedition to Antarctica’s fastest-melting glaciers. 
+
+Learn more about the trip: trib.al/m5FCPom
+Follow along with their dispatches and send us your questions: trib.al/hmpnb4J
+
+[2025-12-28 02:29:46](https://bsky.app/profile/nytimes.com/post/3maydhnjoqs26)
+
+---
 
 @reuters.com
 
@@ -99,38 +135,6 @@ President Trump promised radical change this term. Here’s how his first year b
 Odegaard back on target as Arsenal reclaim top spot reut.rs/3Yi5lq2
 
 [2025-12-28 02:10:09](https://bsky.app/profile/reuters.com/post/3maycelhjo42b)
-
----
-
-@wsj.com
-
-Despite billions in investment, humanoid robot startups​ say androids still face daunting technical challenges before they move from science experiments to a replacement for human workers. on.wsj.com/3N2cpEK
-
-[2025-12-28 02:04:55](https://bsky.app/profile/wsj.com/post/3mayc37prxb2h)
-
----
-
-@reuters.com
-
-Russia has pounded Ukraine with missile and drone strikes ahead of Trump-Zelenskiy talks on ending the war. Hear the latest on today's episode of the Reuters World News podcast reut.rs/49gA0ZT
-
-[2025-12-28 02:04:16](https://bsky.app/profile/reuters.com/post/3mayc224uxs2q)
-
----
-
-@usatoday.com
-
-Police say a woman in Oklahoma was killed on Christmas Day by a stray bullet from a handgun being used for target practice just blocks away.
-
-[2025-12-28 02:01:20](https://bsky.app/profile/usatoday.com/post/3maybuss4kx2t)
-
----
-
-@apnews.com
-
-Indonesian rescuers are searching for a Spanish soccer coach and his three children after a tour boat sank near Padar Island.
-
-[2025-12-28 02:01:07](https://bsky.app/profile/apnews.com/post/3maybug2kgw23)
 
 ---
 
