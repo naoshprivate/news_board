@@ -1,9 +1,9 @@
-# [2025-12-28 07:30 updated](2025_12_28.md)
+# [2025-12-28 07:50 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">An expanding body of evidence suggests that the age of an ovary, not just the eggs it contains, is important to reproduction and healthy aging. <a href="https://bsky.app/profile/nytimes.com/post/3maytxq2max2e" target="_blank">nytimes.com</a> (2025-12-28 07:25:05)</span><span style="padding-right:50px;">New York City got more than four inches of snow for the first time since January 2022 overnight, with higher totals reported in the wider region on Saturday. trib.al/ycUVCXi <a href="https://bsky.app/profile/nytimes.com/post/3maytrc5spc2p" target="_blank">nytimes.com</a> (2025-12-28 07:21:30)</span><span style="padding-right:50px;">東京メトロ千代田線 代々木上原～霞ケ関 運転見合わせ https://news.web.nhk/newsweb/na/na-k10015015731000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maytagtfec2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 07:12:02)</span><span style="padding-right:50px;">Christmas tree still up? You could always decorate it for Valentine’s Day, St. Patrick's Day and Flag Day.  Tree-trimming has turned into a year-round pursuit, Veronica Dagher wrote in 2024. “There’s always something to celebrate.”  🎄 Read more: on.wsj.com/4sbUSdv <a href="https://bsky.app/profile/wsj.com/post/3maytabpb342t" target="_blank">wsj.com</a> (2025-12-28 07:11:58)</span><span style="padding-right:50px;">避難所の段ボールベッド 早期設置で血栓割合低く 能登半島地震 https://news.web.nhk/newsweb/na/na-k10015015641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mayt32zasp22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 07:09:02)</span>
+<span style="padding-right:50px;">ロシアのプーチン大統領は、ウクライナは紛争の平和的終結を急いでいないと指摘し、ウクライナが紛争の平和的解決を望まないのなら、ロシアは「特別軍事作戦」の全ての目標を武力で達成することになると述べた。インタファクス通信やタス通信が２７日報じた。 bit.ly/4qoqISr <a href="https://bsky.app/profile/japan.reuters.com/post/3mayvbiw7qy2c" target="_blank">japan.reuters.com</a> (2025-12-28 07:48:27)</span><span style="padding-right:50px;">Pantomimes are plays based on a well-known story — often a fairy tale — which are given a bawdy twist. The audience is expected to join in throughout, shouting as loudly as they can. n.pr/4qrqt9l <a href="https://bsky.app/profile/npr.org/post/3mayv43xkb42m" target="_blank">npr.org</a> (2025-12-28 07:45:26)</span><span style="padding-right:50px;">中南米金融市場は、薄商いの中小動き。 bit.ly/49dGFnA <a href="https://bsky.app/profile/japan.reuters.com/post/3mayuej6dez2v" target="_blank">japan.reuters.com</a> (2025-12-28 07:32:15)</span><span style="padding-right:50px;">Harry Styles fans are gearing up for a 2026 comeback after the "As It Was" singer posted an over eight-minute video titled "Forever, Forever." <a href="https://bsky.app/profile/usatoday.com/post/3mayuax7olz2c" target="_blank">usatoday.com</a> (2025-12-28 07:30:15)</span><span style="padding-right:50px;">An expanding body of evidence suggests that the age of an ovary, not just the eggs it contains, is important to reproduction and healthy aging. <a href="https://bsky.app/profile/nytimes.com/post/3maytxq2max2e" target="_blank">nytimes.com</a> (2025-12-28 07:25:05)</span>
   </div>
 </div>
 
@@ -32,15 +32,47 @@
 
 ## News Headlines
 
-- Ovary Age Found to be Key to Reproduction and Healthy Aging
-- New York City Experiences First Snowfall Since January 2022
-- Decorate Your Christmas Tree Year-Round: Experts Say It's a Thing
-- Early Setup of Cardboard Beds in Evacuation Centers Reduces Blood Clot Risk
-- Nigeria Edges Past Tunisia in Thrilling Match
-- US Foreign Assistance Takes a U-Turn Under Trump's Administration
+- Putin Suggests Russia May Use Force to Achieve All Military Objectives if Ukraine Doesn't Seek Peaceful Resolution
+- New York City Gets Rare Over 4 Inches of Snow for First Time Since January 2022
+- Ukraine's Zelenskyy Meets with Trudeau in Canada, Secures $1.8 Billion in Aid
+- China Approves Revisions to Foreign Trade Law to Safeguard National Interests
+- Operators of Lukoil-Branded Gas Stations in US Caught Up in Russian Sanctions
+- California to Get Brief Reprieve from Holiday Storms Before More Wet Weather Arrives
 
 
 ----
+
+@japan.reuters.com
+
+ロシアのプーチン大統領は、ウクライナは紛争の平和的終結を急いでいないと指摘し、ウクライナが紛争の平和的解決を望まないのなら、ロシアは「特別軍事作戦」の全ての目標を武力で達成することになると述べた。インタファクス通信やタス通信が２７日報じた。 bit.ly/4qoqISr
+
+[2025-12-28 07:48:27](https://bsky.app/profile/japan.reuters.com/post/3mayvbiw7qy2c)
+
+---
+
+@npr.org
+
+Pantomimes are plays based on a well-known story — often a fairy tale — which are given a bawdy twist. The audience is expected to join in throughout, shouting as loudly as they can. n.pr/4qrqt9l
+
+[2025-12-28 07:45:26](https://bsky.app/profile/npr.org/post/3mayv43xkb42m)
+
+---
+
+@japan.reuters.com
+
+中南米金融市場は、薄商いの中小動き。 bit.ly/49dGFnA
+
+[2025-12-28 07:32:15](https://bsky.app/profile/japan.reuters.com/post/3mayuej6dez2v)
+
+---
+
+@usatoday.com
+
+Harry Styles fans are gearing up for a 2026 comeback after the "As It Was" singer posted an over eight-minute video titled "Forever, Forever."
+
+[2025-12-28 07:30:15](https://bsky.app/profile/usatoday.com/post/3mayuax7olz2c)
+
+---
 
 @nytimes.com
 
@@ -94,38 +126,6 @@ https://news.web.nhk/newsweb/na/na-k10015015641000
 https://news.web.nhk/newsweb/na/na-k10015015731000
 
 [2025-12-28 07:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maysvpms2x2s)
-
----
-
-@reuters.com
-
-Nigeria left three goals slip before edging past Tunisia reut.rs/45trzJv
-
-[2025-12-28 07:05:10](https://bsky.app/profile/reuters.com/post/3maysu3qvfk2i)
-
----
-
-@nytimes.com
-
-The National Kidney Registry has matched thousands of kidney donors with recipients. At the same time, the privately run registry has created a multimillion-dollar business with considerable power over the flow of thousands of organs, according to interviews and a review of business records.
-
-[2025-12-28 07:05:04](https://bsky.app/profile/nytimes.com/post/3maystwnbac2b)
-
----
-
-@cnn.com
-
-Not sure where your charitable donations end up? These groups let you know exactly who you're helping. https://cnn.it/4sxORIr
-
-[2025-12-28 07:02:02](https://bsky.app/profile/cnn.com/post/3maysoicrdm25)
-
----
-
-@usatoday.com
-
-The crew at No Laying Up has been asking for followers to post their most "unusable golf gift from your non-golfer relative."
-
-[2025-12-28 07:00:42](https://bsky.app/profile/usatoday.com/post/3maysm4dcdc2g)
 
 ---
 
