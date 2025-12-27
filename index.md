@@ -1,9 +1,9 @@
-# [2025-12-27 20:10 updated](2025_12_27.md)
+# [2025-12-27 20:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】安芸区中野で建物火災 消防車9台が出動し消火活動 広島 (2025-12-27 20:06:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxo7qlqfe2y" target="_blank">sokuho.news</a> (2025-12-27 20:09:32)</span><span style="padding-right:50px;">ゼレンスキー大統領 トランプ大統領と28日会談へ 詰めの協議を https://news.web.nhk/newsweb/na/na-k10015015601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxo6wasy32m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 20:09:03)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】関越道67台の多重事故 「27日中の通行止め解除は難しい」NEXCO東日本 午後7時現在 (2025-12-27 20:00:41) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxnxckzli2a" target="_blank">sokuho.news</a> (2025-12-27 20:04:49)</span><span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞武器輸出、協定締結国条件に 「5類型」撤廃の歯止め 政府・与党 (2025/12/27 19:59) #ニュース https://www.sankei.com/article/20251227-XBRVCDF5BFPFPCWWSHOMBXJ4JU/ <a href="https://bsky.app/profile/sokuho.news/post/3maxnslbg6l2s" target="_blank">sokuho.news</a> (2025-12-27 20:02:10)</span><span style="padding-right:50px;">「ピンクは女性の色」思い込みは第2次大戦後、米国から www.nikkei.com/article/DGXZQO...  #2025年読まれた記事 <a href="https://bsky.app/profile/nikkei.com/post/3maxnq7mzha2x" target="_blank">nikkei.com</a> (2025-12-27 20:00:51)</span>
+<span style="padding-right:50px;">FIS president sees progress in Livigno's 2026 Winter Games preparation reut.rs/4peKGOy <a href="https://bsky.app/profile/reuters.com/post/3maxp3lrrp324" target="_blank">reuters.com</a> (2025-12-27 20:25:07)</span><span style="padding-right:50px;">Retirement is out of the question for Lynn Lee, 65 and laid off from a soybean plant. Now she is competing with a legion of other job seekers. <a href="https://bsky.app/profile/wsj.com/post/3maxonxtuvq2z" target="_blank">wsj.com</a> (2025-12-27 20:17:30)</span><span style="padding-right:50px;">Spanish family missing after boat sinks off Indonesia reut.rs/45rxsH4 <a href="https://bsky.app/profile/reuters.com/post/3maxojshgnp2k" target="_blank">reuters.com</a> (2025-12-27 20:15:10)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】安芸区中野で建物火災 消防車9台が出動し消火活動 広島 (2025-12-27 20:06:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxo7qlqfe2y" target="_blank">sokuho.news</a> (2025-12-27 20:09:32)</span><span style="padding-right:50px;">ゼレンスキー大統領 トランプ大統領と28日会談へ 詰めの協議を https://news.web.nhk/newsweb/na/na-k10015015601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxo6wasy32m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 20:09:03)</span>
   </div>
 </div>
 
@@ -32,15 +32,39 @@
 
 ## News Headlines
 
-- Multiple car accident on K̈saka Sky Highway, 27-day traffic restriction likely
-- Ukraine's capital Kyiv hit by large-scale Russian attack, explosions heard and air defense system activated
-- Thai and Cambodian armies agree to ceasefire, ending weeks of border clashes
-- Somalia demands Israel withdraw recognition of Somaliland
-- Poland closes two airports due to Russia's attack on Ukraine
-- Rare flat-headed cat spotted on Malaysia's Borneo island
+- FIS President Sees Progress in Livigno's 2026 Winter Games Preparation
+- Retiree Competes with Younger Job Seekers After Laid Off from Soybean Plant
+- Spanish Family Goes Missing After Boat Sinks Off Indonesia
+- Zelenskyy to Meet Trump for Talks as Ukraine Faces Ongoing Russian Attacks
+- Multiple-Car Pileup on Japan's Kanetsu Expressway Causes Delays
+- Rare Flat-Headed Cat Sighted on Malaysia's Borneo Island
 
 
 ----
+
+@reuters.com
+
+FIS president sees progress in Livigno's 2026 Winter Games preparation reut.rs/4peKGOy
+
+[2025-12-27 20:25:07](https://bsky.app/profile/reuters.com/post/3maxp3lrrp324)
+
+---
+
+@wsj.com
+
+Retirement is out of the question for Lynn Lee, 65 and laid off from a soybean plant. Now she is competing with a legion of other job seekers.
+
+[2025-12-27 20:17:30](https://bsky.app/profile/wsj.com/post/3maxonxtuvq2z)
+
+---
+
+@reuters.com
+
+Spanish family missing after boat sinks off Indonesia reut.rs/45rxsH4
+
+[2025-12-27 20:15:10](https://bsky.app/profile/reuters.com/post/3maxojshgnp2k)
+
+---
 
 @sokuho.news
 
@@ -111,31 +135,6 @@ Here’s how he built his career at the tech giant and made the transition to en
 Here's how Taiwan's planned T-Dome defense shield would ward off Chinese aerial attacks 
 
 [2025-12-27 20:00:14](https://bsky.app/profile/bloomberg.com/post/3maxnp4ckje23)
-
----
-
-@cnn.com
-
-"It was hard to pick only 25. But it was easier than it used to be," Daniel Dale writes. https://cnn.it/49bMv9c
-
-[2025-12-27 20:00:11](https://bsky.app/profile/cnn.com/post/3maxnoz5w6z2b)
-
----
-
-@washingtonpost.com
-
-If you enjoy dark chocolate or coffee, or both, you may be benefiting from a substance found in these products that is linked to a reduction in cellular aging.
-
-[2025-12-27 20:00:10](https://bsky.app/profile/washingtonpost.com/post/3maxnoxtodj2e)
-
----
-
-@en.afp.com
-
-🇹🇭 🇰🇭 Thailand and Cambodia have agreed to an "immediate" ceasefire, the two countries said in a joint statement, pledging to end weeks of deadly border clashes. 
-➡️ u.afp.com/S8sC
-
-[2025-12-27 20:00:05](https://bsky.app/profile/en.afp.com/post/3maxnott3kf2x)
 
 ---
 
