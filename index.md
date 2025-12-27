@@ -1,9 +1,9 @@
-# [2025-12-27 16:30 updated](2025_12_27.md)
+# [2025-12-27 16:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">One year on from the UK's grand AI plan: has its infrastructure buildout been a success? <a href="https://bsky.app/profile/cnbc.com/post/3maxb3tnzi22g" target="_blank">cnbc.com</a> (2025-12-27 16:14:43)</span><span style="padding-right:50px;">Europe at 'fork in the road' between AI competition and climate: fund managers <a href="https://bsky.app/profile/cnbc.com/post/3maxay3kac22b" target="_blank">cnbc.com</a> (2025-12-27 16:12:37)</span><span style="padding-right:50px;">The hidden victims of Congo's war reut.rs/49u2TD9 <a href="https://bsky.app/profile/reuters.com/post/3maxakpwrov2i" target="_blank">reuters.com</a> (2025-12-27 16:05:08)</span><span style="padding-right:50px;">A group of Venezuelans who were sent to a maximum-security El Salvador prison from the US and then returned to Venezuela called for the US to comply with a ruling that would allow them to challenge their deportation in US courts.  <a href="https://bsky.app/profile/cnn.com/post/3maxaf5jawm2x" target="_blank">cnn.com</a> (2025-12-27 16:02:01)</span><span style="padding-right:50px;">🛎️文春より【スクープ】です。  《林芳正・総務大臣がお詫び釈明》週刊文春がつかんだ「運動員買収」疑惑の実態…秘書らが組織的に関与していた！ 現役市議の“重要証言”「指示があって、お金が来るから」 (2025-12-27 16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxacvq6eu2r" target="_blank">sokuho.news</a> (2025-12-27 16:00:46)</span>
+<span style="padding-right:50px;">【中継】大阪 なんば駅近く 車が複数の歩行者と衝突 3人けが https://news.web.nhk/newsweb/na/na-k10015015511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxcxiaayt2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 16:48:02)</span><span style="padding-right:50px;">【ライブ】大阪 なんば駅近く 車が複数の歩行者と衝突 3人けが https://news.web.nhk/newsweb/na/na-k10015015511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxcmqj2ln2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 16:42:01)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】太陽SCは決勝ラウンド進出もベスト16で敗退 全日本U-12サッカー選手権大会 (2025-12-27 16:36) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxcdvlbm625" target="_blank">sokuho.news</a> (2025-12-27 16:37:07)</span><span style="padding-right:50px;">リカちゃん、3分の1サイズ登場　サンリオなどと2026年2月にコラボ（無料記事） www.nikkei.com/article/DGXZQO...  高さ約7cmと机に置いたり持ち運んだりしやすい大きさで、大人の需要を見込みます。  まずはサンリオのキャラクターをデザインした衣装を着た商品など12種を出します。 <a href="https://bsky.app/profile/nikkei.com/post/3maxbyffjlk2c" target="_blank">nikkei.com</a> (2025-12-27 16:30:41)</span><span style="padding-right:50px;">Key Bolsonaro ally arrested in Paraguay while trying to flee to El Salvador https://aje.io/mk5pqw <a href="https://bsky.app/profile/aljazeera.com/post/3maxbxaild727" target="_blank">aljazeera.com</a> (2025-12-27 16:30:02)</span>
   </div>
 </div>
 
@@ -32,15 +32,74 @@
 
 ## News Headlines
 
-- UK's AI Infrastructure Buildout One Year On: Success or Failure?
-- Europe at Crossroads Between AI Competition and Climate Goals
-- Venezuelans Call for US to Allow Them to Challenge Deportation in Court
-- Japan's Minister of Internal Affairs Apologizes Over 'Athlete Bribery' Scandal
-- Red Lobster's Youngest CEO Says Strengths and Weaknesses Key to Success
-- US-Backed Airstrikes Hit ISIS-Linked Camps in Nigeria
+- Three injured in car crash near Osaka's Namba Station
+- Japan's central bank warns of potential yen drop ahead of year-end
+- Thai, Cambodian armies agree to ceasefire after deadly clashes
+- China passes revised foreign trade law to bolster trade war capabilities
+- US-backed airstrikes hit ISIS-linked camps in Nigeria
+- Thousands of US flights disrupted as winter storm looms
 
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+【中継】大阪 なんば駅近く 車が複数の歩行者と衝突 3人けが
+https://news.web.nhk/newsweb/na/na-k10015015511000
+
+[2025-12-27 16:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxcxiaayt2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【ライブ】大阪 なんば駅近く 車が複数の歩行者と衝突 3人けが
+https://news.web.nhk/newsweb/na/na-k10015015511000
+
+[2025-12-27 16:42:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxcmqj2ln2b)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】太陽SCは決勝ラウンド進出もベスト16で敗退 全日本U-12サッカー選手権大会
+(2025-12-27 16:36) #ニュース
+
+[2025-12-27 16:37:07](https://bsky.app/profile/sokuho.news/post/3maxcdvlbm625)
+
+---
+
+@nikkei.com
+
+リカちゃん、3分の1サイズ登場　サンリオなどと2026年2月にコラボ（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+高さ約7cmと机に置いたり持ち運んだりしやすい大きさで、大人の需要を見込みます。
+
+まずはサンリオのキャラクターをデザインした衣装を着た商品など12種を出します。
+
+[2025-12-27 16:30:41](https://bsky.app/profile/nikkei.com/post/3maxbyffjlk2c)
+
+---
+
+@aljazeera.com
+
+Key Bolsonaro ally arrested in Paraguay while trying to flee to El Salvador https://aje.io/mk5pqw
+
+[2025-12-27 16:30:02](https://bsky.app/profile/aljazeera.com/post/3maxbxaild727)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【中継】大阪 なんば駅近く 車が歩道に乗り上げる
+https://news.web.nhk/newsweb/na/na-k10015015511000
+
+[2025-12-27 16:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxbxchzd22y)
+
+---
 
 @cnbc.com
 
@@ -71,62 +130,6 @@ The hidden victims of Congo's war reut.rs/49u2TD9
 A group of Venezuelans who were sent to a maximum-security El Salvador prison from the US and then returned to Venezuela called for the US to comply with a ruling that would allow them to challenge their deportation in US courts. 
 
 [2025-12-27 16:02:01](https://bsky.app/profile/cnn.com/post/3maxaf5jawm2x)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-《林芳正・総務大臣がお詫び釈明》週刊文春がつかんだ「運動員買収」疑惑の実態…秘書らが組織的に関与していた！ 現役市議の“重要証言”「指示があって、お金が来るから」
-(2025-12-27 16:00) #ニュース
-
-[2025-12-27 16:00:46](https://bsky.app/profile/sokuho.news/post/3maxacvq6eu2r)
-
----
-
-@cnbc.com
-
-Damola Adamolekun rose to popularity after becoming Red Lobster’s youngest CEO in August 2024, helping the restaurant chain recover from Chapter 11 bankruptcy.
-
-“In anything you do, you need to recognize your strengths and your weaknesses,” the 36-year-old says.
-
-[2025-12-27 16:00:42](https://bsky.app/profile/cnbc.com/post/3maxacryqrv24)
-
----
-
-@reuters.com
-
-Root hails England's bravery in Melbourne Ashes win reut.rs/4pfU1pA
-
-[2025-12-27 16:00:38](https://bsky.app/profile/reuters.com/post/3maxaco4bqe2i)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-〈林芳正総務大臣が謝罪〉訂正を行った「実態のない労務費」とは？→架空の「ポスター監視代」が支払われていた スタッフは「監視なんて、しとらんよ」【“公選法違反”疑惑】
-(2025-12-27 16:00) #ニュース
-
-[2025-12-27 16:00:27](https://bsky.app/profile/sokuho.news/post/3maxacddwdp2b)
-
----
-
-@apnews.com
-
-Tyler Perry faces a lawsuit for sexual assault by actor Mario Rodriguez, marking the second such case against him recently.
-
-[2025-12-27 16:00:09](https://bsky.app/profile/apnews.com/post/3maxabstcjc22)
-
----
-
-@wsj.com
-
-Dealmakers are setting up trusts in the state to avoid paying taxes on carried interest. on.wsj.com/4pZnHsb
-
-[2025-12-27 15:59:30](https://bsky.app/profile/wsj.com/post/3maxaansgjy2t)
 
 ---
 
