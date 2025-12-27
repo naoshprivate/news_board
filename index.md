@@ -1,9 +1,9 @@
-# [2025-12-27 14:50 updated](2025_12_27.md)
+# [2025-12-27 15:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Michigan hires Utah coach Kyle Whittingham to replace Sherrone Moore reut.rs/3MUPNpR <a href="https://bsky.app/profile/reuters.com/post/3max3srih772i" target="_blank">reuters.com</a> (2025-12-27 14:40:10)</span><span style="padding-right:50px;">Remember when laughter was supposed to be the best medicine? Now a team of scientists has found that physical intimacy may speed up healing.   🔗 Read more: on.wsj.com/3YGEeVJ <a href="https://bsky.app/profile/wsj.com/post/3max3qynhmn2h" target="_blank">wsj.com</a> (2025-12-27 14:39:10)</span><span style="padding-right:50px;"> What makes a perfect holiday film? ft.trib.al/iEAu9RK  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3max3o42lte2q" target="_blank">financialtimes.com</a> (2025-12-27 14:37:33)</span><span style="padding-right:50px;"> Year in a word: Stablecoins ft.trib.al/Wz4Al6j  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3max3o334ws2f" target="_blank">financialtimes.com</a> (2025-12-27 14:37:32)</span><span style="padding-right:50px;"> Noodles worth getting weird about — Jay Rayner reviews Maneki Ramen, Birmingham ft.trib.al/xvcfT2b  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3max3nxy6dh25" target="_blank">financialtimes.com</a> (2025-12-27 14:37:29)</span>
+<span style="padding-right:50px;">Yemen's Saudi-led coalition says it will deal with military moves in Hadramout reut.rs/4pf4PEj <a href="https://bsky.app/profile/reuters.com/post/3max57he3ja2c" target="_blank">reuters.com</a> (2025-12-27 15:05:09)</span><span style="padding-right:50px;">ウクライナの首都キーウで２７日、ロシアによる大規模な攻撃があった。市内では爆発音が響き、防空システムが作動した。ウクライナ軍は、ミサイルが投入されたと明らかにした。 bit.ly/44N2rNI <a href="https://bsky.app/profile/japan.reuters.com/post/3max52bgpha2u" target="_blank">japan.reuters.com</a> (2025-12-27 15:02:15)</span><span style="padding-right:50px;">A man accused of fatally shooting a Delaware State Police trooper at a DMV office allowed customers to leave and then fired at approaching officers before being killed, investigators said.  <a href="https://bsky.app/profile/cnn.com/post/3max4y2yd2y2a" target="_blank">cnn.com</a> (2025-12-27 15:01:01)</span><span style="padding-right:50px;">NBA roundup: Jaylen Brown extends scoring streak as Celtics top Pacers reut.rs/4pZrSUT <a href="https://bsky.app/profile/reuters.com/post/3max4x56gqd2r" target="_blank">reuters.com</a> (2025-12-27 15:00:30)</span><span style="padding-right:50px;">１２月の金融政策決定会合で日銀が０．２５％の利上げをしたにもかかわらず、円安進行が止まらない。これから年末年始にかけて、やや投機的な取引が増えて予想以上に円安が進むのではないかと強く警戒される。筆者は、次の利上げが多くの人が考えるよりも前倒しで行われる可能性が高まっているとみる。 bit.ly/45tIgEG <a href="https://bsky.app/profile/japan.reuters.com/post/3max4wx5szw2f" target="_blank">japan.reuters.com</a> (2025-12-27 15:00:24)</span>
   </div>
 </div>
 
@@ -32,102 +32,94 @@
 
 ## News Headlines
 
-- Michigan hires Utah coach Kyle Whittingham to replace Sherrone Moore
-- Scientists find physical intimacy may speed up healing
-- Italy and Spain shake off 'periphery' tag as borrowing premiums hit 16-year low
-- Over 100 years after Queen Nefertiti bust was taken to Berlin, Germany, an effort to bring it back to Egypt is underway
-- California drops lawsuit challenging Trump decision to pull $4 billion in high speed rail funding
-- Thailand and Cambodia agree on ceasefire, Cambodia Defence Ministry says
+- Yemen's Saudi-led coalition says it will deal with military moves in Hadramout
+- Major Russian attack hits Ukraine's capital Kyiv
+- Man accused of fatally shooting Delaware State Police trooper
+- Japan's central bank raises interest rate to 0.25%
+- Thailand and Cambodia sign ceasefire to end border conflict
+- Winter storm bears down on U.S. Northeast, disrupting airline travel
 
 
 ----
 
 @reuters.com
 
-Michigan hires Utah coach Kyle Whittingham to replace Sherrone Moore reut.rs/3MUPNpR
+Yemen's Saudi-led coalition says it will deal with military moves in Hadramout reut.rs/4pf4PEj
 
-[2025-12-27 14:40:10](https://bsky.app/profile/reuters.com/post/3max3srih772i)
+[2025-12-27 15:05:09](https://bsky.app/profile/reuters.com/post/3max57he3ja2c)
 
 ---
 
-@wsj.com
+@japan.reuters.com
 
-Remember when laughter was supposed to be the best medicine? Now a team of scientists has found that physical intimacy may speed up healing. 
+ウクライナの首都キーウで２７日、ロシアによる大規模な攻撃があった。市内では爆発音が響き、防空システムが作動した。ウクライナ軍は、ミサイルが投入されたと明らかにした。 bit.ly/44N2rNI
 
-🔗 Read more: on.wsj.com/3YGEeVJ
+[2025-12-27 15:02:15](https://bsky.app/profile/japan.reuters.com/post/3max52bgpha2u)
 
-[2025-12-27 14:39:10](https://bsky.app/profile/wsj.com/post/3max3qynhmn2h)
+---
+
+@cnn.com
+
+A man accused of fatally shooting a Delaware State Police trooper at a DMV office allowed customers to leave and then fired at approaching officers before being killed, investigators said. 
+
+[2025-12-27 15:01:01](https://bsky.app/profile/cnn.com/post/3max4y2yd2y2a)
+
+---
+
+@reuters.com
+
+NBA roundup: Jaylen Brown extends scoring streak as Celtics top Pacers reut.rs/4pZrSUT
+
+[2025-12-27 15:00:30](https://bsky.app/profile/reuters.com/post/3max4x56gqd2r)
+
+---
+
+@japan.reuters.com
+
+１２月の金融政策決定会合で日銀が０．２５％の利上げをしたにもかかわらず、円安進行が止まらない。これから年末年始にかけて、やや投機的な取引が増えて予想以上に円安が進むのではないかと強く警戒される。筆者は、次の利上げが多くの人が考えるよりも前倒しで行われる可能性が高まっているとみる。 bit.ly/45tIgEG
+
+[2025-12-27 15:00:24](https://bsky.app/profile/japan.reuters.com/post/3max4wx5szw2f)
+
+---
+
+@bloomberg.com
+
+The vast majority of Indians don't have any kind of formal pension and depend on gold for everything from health insurance to social security. (from the archive)
+
+[2025-12-27 15:00:12](https://bsky.app/profile/bloomberg.com/post/3max4wmbtqs23)
+
+---
+
+@washingtonpost.com
+
+Despite his father’s initial reluctance for a memorial, a son took up the challenge of riding in El Tour de Tucson after finding out it was his dad's last wish was for their family. 
+
+
+[2025-12-27 15:00:08](https://bsky.app/profile/washingtonpost.com/post/3max4whudk624)
+
+---
+
+@aljazeera.com
+
+President Touadera's decision to stand for a third term has drawn criticism from opposition groups and civil society.
+
+[2025-12-27 15:00:04](https://bsky.app/profile/aljazeera.com/post/3max4wevinj27)
 
 ---
 
 @financialtimes.com
 
- What makes a perfect holiday film? ft.trib.al/iEAu9RK  | opinion
+Data centres turn to aircraft engines to avoid grid connection delays ft.trib.al/N1NLaCs
 
-[2025-12-27 14:37:33](https://bsky.app/profile/financialtimes.com/post/3max3o42lte2q)
-
----
-
-@financialtimes.com
-
- Year in a word: Stablecoins ft.trib.al/Wz4Al6j  | opinion
-
-[2025-12-27 14:37:32](https://bsky.app/profile/financialtimes.com/post/3max3o334ws2f)
+[2025-12-27 14:54:37](https://bsky.app/profile/financialtimes.com/post/3max4mn2qes2c)
 
 ---
 
-@financialtimes.com
+@japan.reuters.com
 
- Noodles worth getting weird about — Jay Rayner reviews Maneki Ramen, Birmingham ft.trib.al/xvcfT2b  | opinion
+ポーランド南東部のジェシュフ空港とルブリン空港が一時閉鎖された。ポーランド航空管制局（ＰＡＮＳＡ）が２７日、Ｘに投稿した。ロシアによるウクライナへの攻撃を受け、ポーランド軍が戦闘機を緊急発進させたことに伴う措置。 bit.ly/4b9GWuh
 
-[2025-12-27 14:37:29](https://bsky.app/profile/financialtimes.com/post/3max3nxy6dh25)
-
----
-
-@financialtimes.com
-
- The gift that cannot be bought ft.trib.al/qd8iU6A  | opinion
-
-[2025-12-27 14:37:29](https://bsky.app/profile/financialtimes.com/post/3max3nxwv4u2w)
-
----
-
-@financialtimes.com
-
- Weight-loss drugs come for Fluffy and Fido ft.trib.al/avKZodd  | opinion
-
-[2025-12-27 14:37:28](https://bsky.app/profile/financialtimes.com/post/3max3nwus4c2f)
-
----
-
-@financialtimes.com
-
- The political weaponisation of sleep ft.trib.al/V4NcoLM  | opinion
-
-[2025-12-27 14:37:28](https://bsky.app/profile/financialtimes.com/post/3max3nwvi2224)
-
----
-
-@financialtimes.com
-
- Compulsive tracking doesn’t measure what really counts ft.trib.al/A97zUG0  | opinion
-
-[2025-12-27 14:34:57](https://bsky.app/profile/financialtimes.com/post/3max3jhiie723)
-
----
-
-@nikkei.com
-
-東武鉄道、愛犬とケージレスで乗れる貸し切り列車　2026年2月に運行（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-とうきょうスカイツリー駅から東武ワールドスクウェア駅まで団体・臨時電車用車両「スカイツリートレイン」を使用します。
-
-往路ではクイズ大会や参加者同士で交流できるプログラムを予定。
-
-ペット専用に制作したオリジナルの東武鉄道駅員の制服を愛犬に着用させての記念撮影もできます。
-
-[2025-12-27 14:30:40](https://bsky.app/profile/nikkei.com/post/3max3brsm3k2y)
+[2025-12-27 14:54:37](https://bsky.app/profile/japan.reuters.com/post/3max4mmc3kr2c)
 
 ---
 
