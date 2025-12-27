@@ -1,9 +1,9 @@
-# [2025-12-27 10:50 updated](2025_12_27.md)
+# [2025-12-27 11:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">餅がのどに詰まったら… https://news.web.nhk/newsweb/na/na-k10015014011000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawoizqvnu2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 10:42:02)</span><span style="padding-right:50px;">Argentina's Congress approves 2026 budget reut.rs/49ryKEu <a href="https://bsky.app/profile/reuters.com/post/3mawofown5u2k" target="_blank">reuters.com</a> (2025-12-27 10:40:12)</span><span style="padding-right:50px;">男子テニスで世界ランキング１０位のジャック・ドレーパー（２４、英国）が２６日、腕の故障により来年１月の四大大会初戦、全豪オープン（ＯＰ）を欠場すると発表した。 bit.ly/4qkny2e <a href="https://bsky.app/profile/japan.reuters.com/post/3mawoeuhexw2q" target="_blank">japan.reuters.com</a> (2025-12-27 10:39:44)</span><span style="padding-right:50px;">【ライブ配信中】年末年始 帰省ラッシュ 高速道路の状況は https://news.web.nhk/newsweb/na/na-k10015015361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawnywlbnu24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 10:33:02)</span><span style="padding-right:50px;">航空便追跡サイト「ＦｌｉｇｈｔＡｗａｒｅ」によると、米航空各社では休暇旅行のピーク期にあたる２６日、冬の気象警報の影響で航空便の欠航・遅延が発生した。米東部時間午後０時３０分現在、１１３９便が欠航、３８０８便が遅延している。 bit.ly/4pcsBAQ <a href="https://bsky.app/profile/japan.reuters.com/post/3mawnuksnxn2c" target="_blank">japan.reuters.com</a> (2025-12-27 10:30:37)</span>
+<span style="padding-right:50px;">イスラエル 独立を一方的に宣言する“ソマリランド”国家承認 https://news.web.nhk/newsweb/na/na-k10015015381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawpzdcrs52v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 11:09:03)</span><span style="padding-right:50px;">米プロバスケットボール協会（ＮＢＡ）で八村塁が所属するレーカーズの主力ガード、オースティン・リーブスが左ふくらはぎを痛めたため、２６日にＭＲＩ検査を受けると米ＥＳＰＮなど複数メディアが同日に発表した。 bit.ly/3L0XdY3 <a href="https://bsky.app/profile/japan.reuters.com/post/3mawpoqtiue2u" target="_blank">japan.reuters.com</a> (2025-12-27 11:03:10)</span><span style="padding-right:50px;">Excessive prescription refilling by mail-order pharmacies leaves piles of unneeded pills. “Every time, there are 15 extra pills.” on.wsj.com/4ph4jp7 <a href="https://bsky.app/profile/wsj.com/post/3mawpob7fwj2t" target="_blank">wsj.com</a> (2025-12-27 11:02:53)</span><span style="padding-right:50px;">India’s Bengal tigers have made an extraordinary comeback. Conservation wins, soaring safari demand, and new luxury lodges are reshaping the country’s wildest places. (from the archive) <a href="https://bsky.app/profile/bloomberg.com/post/3mawpliwcqx2f" target="_blank">bloomberg.com</a> (2025-12-27 11:01:21)</span><span style="padding-right:50px;">「江戸走り」みんなでスタタタタ www.nikkei.com/article/DGXZQO...  顔を正面に向けたまま、横向きに走る――。「江戸走り」が若者を魅了しています。  仕掛け人の大場克則さんは、文献や浮世絵などを頼りに、11年間研究を重ねました。  講習会も開かれ、ある大学生は「SNSを見て酔った勢いで予約した」といいます。 <a href="https://bsky.app/profile/nikkei.com/post/3mawpklytgc2g" target="_blank">nikkei.com</a> (2025-12-27 11:00:51)</span>
   </div>
 </div>
 
@@ -32,95 +32,106 @@
 
 ## News Headlines
 
-- Argentina's Congress Approves 2026 Budget
-- Japan Has Record Low Legislative Output in First Year of New Presidency
-- World No. 10 Tennis Player Jack Draper to Miss Australian Open Due to Injury
-- Winter Storm Forecast: Ice and Snow Expected From Great Lakes to Northeast
-- Feral Cats on Hawaii's Big Island Face Ban on Being Fed by Humans
-- England Bowler Atkinson Comes Off Injured in Melbourne Test
+- Somaliland declares independence unilaterally, gets recognition from Israel
+- NBA's Leakers' key player Austin Reaves suffers hamstring injury
+- Excessive prescription refilling by mail-order pharmacies leaves piles of unneeded pills
+- India's Bengal tigers make an extraordinary comeback
+- Conservative Democrats try to counter Trump and progressive influence in their own party
+- US stocks end flat on Christmas holiday, but weekly gain recorded
 
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-餅がのどに詰まったら…
-https://news.web.nhk/newsweb/na/na-k10015014011000
+イスラエル 独立を一方的に宣言する“ソマリランド”国家承認
+https://news.web.nhk/newsweb/na/na-k10015015381000
 
-[2025-12-27 10:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawoizqvnu2l)
-
----
-
-@reuters.com
-
-Argentina's Congress approves 2026 budget reut.rs/49ryKEu
-
-[2025-12-27 10:40:12](https://bsky.app/profile/reuters.com/post/3mawofown5u2k)
+[2025-12-27 11:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawpzdcrs52v)
 
 ---
 
 @japan.reuters.com
 
-男子テニスで世界ランキング１０位のジャック・ドレーパー（２４、英国）が２６日、腕の故障により来年１月の四大大会初戦、全豪オープン（ＯＰ）を欠場すると発表した。 bit.ly/4qkny2e
+米プロバスケットボール協会（ＮＢＡ）で八村塁が所属するレーカーズの主力ガード、オースティン・リーブスが左ふくらはぎを痛めたため、２６日にＭＲＩ検査を受けると米ＥＳＰＮなど複数メディアが同日に発表した。 bit.ly/3L0XdY3
 
-[2025-12-27 10:39:44](https://bsky.app/profile/japan.reuters.com/post/3mawoeuhexw2q)
+[2025-12-27 11:03:10](https://bsky.app/profile/japan.reuters.com/post/3mawpoqtiue2u)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-【ライブ配信中】年末年始 帰省ラッシュ 高速道路の状況は
-https://news.web.nhk/newsweb/na/na-k10015015361000
+Excessive prescription refilling by mail-order pharmacies leaves piles of unneeded pills. “Every time, there are 15 extra pills.” on.wsj.com/4ph4jp7
 
-[2025-12-27 10:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawnywlbnu24)
+[2025-12-27 11:02:53](https://bsky.app/profile/wsj.com/post/3mawpob7fwj2t)
+
+---
+
+@bloomberg.com
+
+India’s Bengal tigers have made an extraordinary comeback. Conservation wins, soaring safari demand, and new luxury lodges are reshaping the country’s wildest places. (from the archive)
+
+[2025-12-27 11:01:21](https://bsky.app/profile/bloomberg.com/post/3mawpliwcqx2f)
+
+---
+
+@nikkei.com
+
+「江戸走り」みんなでスタタタタ
+www.nikkei.com/article/DGXZQO...
+
+顔を正面に向けたまま、横向きに走る――。「江戸走り」が若者を魅了しています。
+
+仕掛け人の大場克則さんは、文献や浮世絵などを頼りに、11年間研究を重ねました。
+
+講習会も開かれ、ある大学生は「SNSを見て酔った勢いで予約した」といいます。
+
+[2025-12-27 11:00:51](https://bsky.app/profile/nikkei.com/post/3mawpklytgc2g)
+
+---
+
+@wsj.com
+
+A crop of moderate Democrats are trying to counter President Trump and progressive influence in their own party. on.wsj.com/4pYFOyq
+
+[2025-12-27 11:00:47](https://bsky.app/profile/wsj.com/post/3mawpkiwpwv2q)
 
 ---
 
 @japan.reuters.com
 
-航空便追跡サイト「ＦｌｉｇｈｔＡｗａｒｅ」によると、米航空各社では休暇旅行のピーク期にあたる２６日、冬の気象警報の影響で航空便の欠航・遅延が発生した。米東部時間午後０時３０分現在、１１３９便が欠航、３８０８便が遅延している。 bit.ly/4pcsBAQ
+米国株式市場はクリスマス後で取引量が少ない中、ほぼ横ばいで取引を終えた。主要３株価指数は週次では上昇を記録した。 bit.ly/4qeFjAx
 
-[2025-12-27 10:30:37](https://bsky.app/profile/japan.reuters.com/post/3mawnuksnxn2c)
+[2025-12-27 11:00:37](https://bsky.app/profile/japan.reuters.com/post/3mawpk7ac3f2c)
+
+---
+
+@cnbc.com
+
+The problem with punishment is that breeds fear, which can then breed more lying.
+
+Alyssa Blask Campbell spent her career educating parents, teachers and caregivers about early childhood development.
+
+Here’s the advice she gives them when they catch their kids lying.
+
+[2025-12-27 11:00:20](https://bsky.app/profile/cnbc.com/post/3mawpjoqfmr2e)
 
 ---
 
 @usatoday.com
 
-You know them, you guess their shape every year. 2026 is almost here, and with it brings the newest design of New Year's Eve glasses.
+Tyler Perry is facing another allegation of sexual assault, after actor Mario Rodriguez accused the movie mogul of unwanted sexual advances.
 
-[2025-12-27 10:30:22](https://bsky.app/profile/usatoday.com/post/3mawnu4jh6q2w)
-
----
-
-@nytimes.com
-
-A fire in November at a Hong Kong apartment complex killed 161 people and displaced thousands. Records show how government departments played down residents’ warnings about corrupt practices and substandard materials that fueled the deadly blaze.
-
-[2025-12-27 10:30:06](https://bsky.app/profile/nytimes.com/post/3mawntmqg5u2b)
+[2025-12-27 11:00:16](https://bsky.app/profile/usatoday.com/post/3mawpjklimy2l)
 
 ---
 
-@washingtonpost.com
+@cnn.com
 
-With fewer than 40 bills signed into law as of Dec. 22, the House and Senate set a modern record for lowest legislative output in the first year of a new presidency, according to data maintained by C-SPAN and Purdue University. https://wapo.st/3YPTQGo
+"The worry built up enough that I stopped riding and eventually sold the bike," writes Dr. Jamin Brahmbhatt.
+https://cnn.it/3LktERc
 
-[2025-12-27 10:30:05](https://bsky.app/profile/washingtonpost.com/post/3mawntm2itp25)
-
----
-
-@aljazeera.com
-
-Russia-Ukraine war: List of key events, day 1,402 https://aje.io/4z6l9q
-
-[2025-12-27 10:30:05](https://bsky.app/profile/aljazeera.com/post/3mawntlyonk2p)
-
----
-
-@financialtimes.com
-
-​Argentina’s Senate hands Milei a win as it approves budget ft.trib.al/1KNLhCt
-
-[2025-12-27 10:29:17](https://bsky.app/profile/financialtimes.com/post/3mawns647pk2p)
+[2025-12-27 11:00:08](https://bsky.app/profile/cnn.com/post/3mawpjdg2rg2c)
 
 ---
 
