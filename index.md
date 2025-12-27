@@ -1,9 +1,9 @@
-# [2025-12-27 11:50 updated](2025_12_27.md)
+# [2025-12-27 12:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Mexico braced for a tariff hit when Trump raised trade barriers. Instead, its exports to the U.S. surged—helped by lower rates than rivals. <a href="https://bsky.app/profile/wsj.com/post/3mawrigwg532k" target="_blank">wsj.com</a> (2025-12-27 11:35:25)</span><span style="padding-right:50px;">Police say Jason Kenney was drinking and watching football when he got mad at his wife, killed her and shot her 13-year-old daughter. <a href="https://bsky.app/profile/usatoday.com/post/3mawrfplp5d2q" target="_blank">usatoday.com</a> (2025-12-27 11:33:54)</span><span style="padding-right:50px;">トランプ米大統領は、週末に予定されている...ウクライナのゼレンスキー大統領との会談を前に、「私が承認するまで、彼は何もできない」と語った。ポリティコのインタビューに応じた。 bit.ly/4scW7ck <a href="https://bsky.app/profile/japan.reuters.com/post/3mawr7nxean2c" target="_blank">japan.reuters.com</a> (2025-12-27 11:30:31)</span><span style="padding-right:50px;">"It's all about the love," Dua Lipa writes in a holiday Instagram post showing off her cooking skills with fiance Callum Turner. <a href="https://bsky.app/profile/usatoday.com/post/3mawr7e3fsc2c" target="_blank">usatoday.com</a> (2025-12-27 11:30:21)</span><span style="padding-right:50px;">An independent counsel has demanded a 10-year prison term for South Korea's ousted President Yoon Suk Yeol. <a href="https://bsky.app/profile/apnews.com/post/3mawr6zkppp2d" target="_blank">apnews.com</a> (2025-12-27 11:30:10)</span>
+<span style="padding-right:50px;">静岡 三島の工場 15人刺傷事件 容疑者は元従業員 経緯を捜査 https://news.web.nhk/newsweb/na/na-k10015015371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawt77ykxu2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 12:06:02)</span><span style="padding-right:50px;">The Trump administration wants to control how data centers connect to the power grid. on.wsj.com/4q2lOem <a href="https://bsky.app/profile/wsj.com/post/3mawt36e5db2z" target="_blank">wsj.com</a> (2025-12-27 12:03:48)</span><span style="padding-right:50px;">Lynn Lee bounced back with a new job after every previous layoff. Can she do it again? on.wsj.com/49cS9Yu <a href="https://bsky.app/profile/wsj.com/post/3mawt2vxqjv2g" target="_blank">wsj.com</a> (2025-12-27 12:03:39)</span><span style="padding-right:50px;">帰省ラッシュ始まる 新幹線・航空・高速道路は混雑 https://news.web.nhk/newsweb/na/na-k10015015161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawszurzpr2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 12:03:02)</span><span style="padding-right:50px;">Taylor Sheridan's oil drama "Landman" premiered Nov. 16 to record-breaking numbers, setting new viewership records, Paramount+ said. <a href="https://bsky.app/profile/usatoday.com/post/3mawsxk3ko42z" target="_blank">usatoday.com</a> (2025-12-27 12:01:46)</span>
   </div>
 </div>
 
@@ -32,94 +32,105 @@
 
 ## News Headlines
 
-- Mexico’s Exports to US Surge Despite Tariff Fears
-- Man Kills Wife and Daughter After Football Game
-- Trump Says Zelensky Can’t Do Anything Without His Approval
-- Dua Lipa Shares Holiday Cooking Post
-- South Korea’s Ousted President Faces 10-Year Prison Term
-- Man Cleared in Shooting at Kentucky State University
+- Former employee suspected in stabbing incident at Shizuoka factory
+- US seeks to control data center connections to power grid
+- New child care programs passed in over two dozen states
+- More than 40 million Americans under winter storm warnings or advisories
+- Mexico's exports to US surge despite Trump tariffs
+- Trump says Democrats worked with Epstein, demands their names be released
 
 
 ----
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-Mexico braced for a tariff hit when Trump raised trade barriers. Instead, its exports to the U.S. surged—helped by lower rates than rivals.
+静岡 三島の工場 15人刺傷事件 容疑者は元従業員 経緯を捜査
+https://news.web.nhk/newsweb/na/na-k10015015371000
 
-[2025-12-27 11:35:25](https://bsky.app/profile/wsj.com/post/3mawrigwg532k)
-
----
-
-@usatoday.com
-
-Police say Jason Kenney was drinking and watching football when he got mad at his wife, killed her and shot her 13-year-old daughter.
-
-[2025-12-27 11:33:54](https://bsky.app/profile/usatoday.com/post/3mawrfplp5d2q)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領は、週末に予定されている...ウクライナのゼレンスキー大統領との会談を前に、「私が承認するまで、彼は何もできない」と語った。ポリティコのインタビューに応じた。 bit.ly/4scW7ck
-
-[2025-12-27 11:30:31](https://bsky.app/profile/japan.reuters.com/post/3mawr7nxean2c)
-
----
-
-@usatoday.com
-
-"It's all about the love," Dua Lipa writes in a holiday Instagram post showing off her cooking skills with fiance Callum Turner.
-
-[2025-12-27 11:30:21](https://bsky.app/profile/usatoday.com/post/3mawr7e3fsc2c)
-
----
-
-@apnews.com
-
-An independent counsel has demanded a 10-year prison term for South Korea's ousted President Yoon Suk Yeol.
-
-[2025-12-27 11:30:10](https://bsky.app/profile/apnews.com/post/3mawr6zkppp2d)
-
----
-
-@nytimes.com
-
-A grand jury has decided not to indict a man who had been charged with murder in the shooting of a student at Kentucky State University this month, a local prosecutor said on Friday.
-
-[2025-12-27 11:20:03](https://bsky.app/profile/nytimes.com/post/3mawqmxcc4f2y)
+[2025-12-27 12:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawt77ykxu2x)
 
 ---
 
 @wsj.com
 
-Excessive prescription refilling by pharmacies cost Medicare and patients $3 billion. “Every time, there are 15 extra pills.”
+The Trump administration wants to control how data centers connect to the power grid. on.wsj.com/4q2lOem
 
-[2025-12-27 11:15:26](https://bsky.app/profile/wsj.com/post/3mawqep6gq72e)
+[2025-12-27 12:03:48](https://bsky.app/profile/wsj.com/post/3mawt36e5db2z)
+
+---
+
+@wsj.com
+
+Lynn Lee bounced back with a new job after every previous layoff. Can she do it again? on.wsj.com/49cS9Yu
+
+[2025-12-27 12:03:39](https://bsky.app/profile/wsj.com/post/3mawt2vxqjv2g)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-イスラエル 独立を一方的に宣言する“ソマリランド”国家承認
-https://news.web.nhk/newsweb/na/na-k10015015381000
+帰省ラッシュ始まる 新幹線・航空・高速道路は混雑
+https://news.web.nhk/newsweb/na/na-k10015015161000
 
-[2025-12-27 11:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawpzdcrs52v)
-
----
-
-@japan.reuters.com
-
-米プロバスケットボール協会（ＮＢＡ）で八村塁が所属するレーカーズの主力ガード、オースティン・リーブスが左ふくらはぎを痛めたため、２６日にＭＲＩ検査を受けると米ＥＳＰＮなど複数メディアが同日に発表した。 bit.ly/3L0XdY3
-
-[2025-12-27 11:03:10](https://bsky.app/profile/japan.reuters.com/post/3mawpoqtiue2u)
+[2025-12-27 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawszurzpr2y)
 
 ---
 
-@wsj.com
+@usatoday.com
 
-Excessive prescription refilling by mail-order pharmacies leaves piles of unneeded pills. “Every time, there are 15 extra pills.” on.wsj.com/4ph4jp7
+Taylor Sheridan's oil drama "Landman" premiered Nov. 16 to record-breaking numbers, setting new viewership records, Paramount+ said.
 
-[2025-12-27 11:02:53](https://bsky.app/profile/wsj.com/post/3mawpob7fwj2t)
+[2025-12-27 12:01:46](https://bsky.app/profile/usatoday.com/post/3mawsxk3ko42z)
+
+---
+
+@nikkei.com
+
+22世紀に火星移住や天気操作？　東京都が予想
+www.nikkei.com/article/DGXZQO...
+
+「暴風を防ぐ」「獣と会話する」――。
+
+1901年に報知新聞の「二十世紀の予言」に掲載された内容です。
+
+今も達成していない技術ですが、果たして100年後にはどんなことができるようになるのでしょうか。
+
+[2025-12-27 12:00:40](https://bsky.app/profile/nikkei.com/post/3mawsvl7tji2x)
+
+---
+
+@bloomberg.com
+
+Pakistani officials for their part say they see no issues in maintaining close ties with both superpowers. (from the archive)
+
+[2025-12-27 12:00:12](https://bsky.app/profile/bloomberg.com/post/3mawsuqn3jj2p)
+
+---
+
+@washingtonpost.com
+
+Lawmakers in about two dozen states passed new child care programs this year, often backed by business leaders concerned with recruiting and retaining workers.
+
+See which states help subsidize child care:
+
+[2025-12-27 12:00:05](https://bsky.app/profile/washingtonpost.com/post/3mawsujxrnr2e)
+
+---
+
+@aljazeera.com
+
+More than 40 million Americans under winter storm warnings or weather advisories as heavy snow expected.
+
+[2025-12-27 12:00:04](https://bsky.app/profile/aljazeera.com/post/3mawsuj6er522)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+保護司“引き受けたくない”80％超 内閣府の世論調査
+https://news.web.nhk/newsweb/na/na-k10015015391000
+
+[2025-12-27 11:57:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawsp4vwwp2s)
 
 ---
 
