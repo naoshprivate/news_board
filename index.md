@@ -1,9 +1,9 @@
-# [2025-12-27 23:10 updated](2025_12_27.md)
+# [2025-12-27 23:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Why mortgage rates are stuck at 6.2% — and might stay there <a href="https://bsky.app/profile/yahoofinance.com/post/3maxy3hrdcw26" target="_blank">yahoofinance.com</a> (2025-12-27 23:06:06)</span><span style="padding-right:50px;">Waymo's San Francisco outage raises doubts over robotaxi readiness during crises reut.rs/4jzsxtT <a href="https://bsky.app/profile/reuters.com/post/3maxxzq647o2s" target="_blank">reuters.com</a> (2025-12-27 23:05:08)</span><span style="padding-right:50px;">Dramatic pink wallpaper and tropical flourishes bring ‘Old Florida’ charm to this Manalapan space. on.wsj.com/4b8Il4l <a href="https://bsky.app/profile/wsj.com/post/3maxxz33mts2t" target="_blank">wsj.com</a> (2025-12-27 23:04:46)</span><span style="padding-right:50px;">スマホで撮影しながら通報「映像110番」　逮捕に結実も www.nikkei.com/article/DGXZQO...  #2025年読まれた記事 <a href="https://bsky.app/profile/nikkei.com/post/3maxxs56qey2m" target="_blank">nikkei.com</a> (2025-12-27 23:00:53)</span><span style="padding-right:50px;">Austrian Scheib claims home win in giant slalom in Semmering reut.rs/4pPbqX4 <a href="https://bsky.app/profile/reuters.com/post/3maxxs4rrw524" target="_blank">reuters.com</a> (2025-12-27 23:00:53)</span>
+<span style="padding-right:50px;">The California High-Speed Rail Authority has dropped its lawsuit against the Trump administration over the termination of $4 billion in federal grants for the state's high-speed rail project, opting instead to pursue private investment. <a href="https://bsky.app/profile/nytimes.com/post/3maxz5cloyb26" target="_blank">nytimes.com</a> (2025-12-27 23:25:02)</span><span style="padding-right:50px;">労働組合の組織率 推定16.0％ 4年連続で過去最低 厚労省調査 https://news.web.nhk/newsweb/na/na-k10015015611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxz3lij6v2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 23:24:02)</span><span style="padding-right:50px;">🇸🇦 🇾🇪 Saudi Arabia warned it would back Yemen's government in any military confrontation with separatist forces and urged them to withdraw "peacefully" from recently-seized provinces.  ➡️ u.afp.com/S8eo <a href="https://bsky.app/profile/en.afp.com/post/3maxyueai2c2f" target="_blank">en.afp.com</a> (2025-12-27 23:20:01)</span><span style="padding-right:50px;">New York City received its most significant snowfall in several years this weekend. Central Park saw more than four inches of snow for the first time since January 2022, with higher totals in the wider metropolitan region. <a href="https://bsky.app/profile/nytimes.com/post/3maxylhriss27" target="_blank">nytimes.com</a> (2025-12-27 23:15:03)</span><span style="padding-right:50px;">Why mortgage rates are stuck at 6.2% — and might stay there <a href="https://bsky.app/profile/yahoofinance.com/post/3maxy3hrdcw26" target="_blank">yahoofinance.com</a> (2025-12-27 23:06:06)</span>
   </div>
 </div>
 
@@ -32,15 +32,49 @@
 
 ## News Headlines
 
-- Mortgage rates stuck at 6.2% and might stay there
-- Waymo's San Francisco outage raises doubts over robotaxi readiness during crises
-- Austrian skier Scheib claims home win in giant slalom in Semmering
-- New England needs its top weapon on offense in Week 17 to keep pace in the race for the No. 1 seed
-- Chris Williams fulfills lifelong dream of spending a day journeying to the stars on Thanksgiving
-- Iran's women bikers take the road despite legal, social obstacles
+- California High-Speed Rail Project Drops Lawsuit Against Trump Administration
+- US and Nigeria Agree on Strikes Against Islamic State-Linked Targets
+- New York City Receives Significant Snowfall
+- Waymo's San Francisco Outage Raises Doubts Over Robotaxi Readiness
+- Oklahoma Man Accused of Shooting Woman and Child on Christmas Day
+- Ivory Coast Holds Legislative Elections After Presidential Ballot
 
 
 ----
+
+@nytimes.com
+
+The California High-Speed Rail Authority has dropped its lawsuit against the Trump administration over the termination of $4 billion in federal grants for the state's high-speed rail project, opting instead to pursue private investment.
+
+[2025-12-27 23:25:02](https://bsky.app/profile/nytimes.com/post/3maxz5cloyb26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+労働組合の組織率 推定16.0％ 4年連続で過去最低 厚労省調査
+https://news.web.nhk/newsweb/na/na-k10015015611000
+
+[2025-12-27 23:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxz3lij6v2y)
+
+---
+
+@en.afp.com
+
+🇸🇦 🇾🇪 Saudi Arabia warned it would back Yemen's government in any military confrontation with separatist forces and urged them to withdraw "peacefully" from recently-seized provinces. 
+➡️ u.afp.com/S8eo
+
+[2025-12-27 23:20:01](https://bsky.app/profile/en.afp.com/post/3maxyueai2c2f)
+
+---
+
+@nytimes.com
+
+New York City received its most significant snowfall in several years this weekend. Central Park saw more than four inches of snow for the first time since January 2022, with higher totals in the wider metropolitan region.
+
+[2025-12-27 23:15:03](https://bsky.app/profile/nytimes.com/post/3maxylhriss27)
+
+---
 
 @yahoofinance.com
 
@@ -90,38 +124,6 @@ Austrian Scheib claims home win in giant slalom in Semmering reut.rs/4pPbqX4
 New England needs its top weapon on offense in Week 17 to keep pace in the race for the No. 1 seed. Here's the latest on his status.
 
 [2025-12-27 23:00:32](https://bsky.app/profile/usatoday.com/post/3maxxrj3zfp2f)
-
----
-
-@washingtonpost.com
-
-While most people spent Thanksgiving with their feet firmly on the ground, Chris Williams finally got to spend a day journeying to the stars, fulfilling a lifelong dream.
-
-[2025-12-27 23:00:19](https://bsky.app/profile/washingtonpost.com/post/3maxxr4nyhn2g)
-
----
-
-@apnews.com
-
-Soprano Asmik Grigorian is to sing the title role in Georges Bizet's "Carmen," a mezzo-soprano touchstone, for the first time at the Salzburg Festival this summer.
-
-[2025-12-27 23:00:10](https://bsky.app/profile/apnews.com/post/3maxxqtxqo42k)
-
----
-
-@aljazeera.com
-
-Incursion follows Israeli defence minister's order for military to 'act forcefully' against the Palestinian town https://aje.io/v4vw6n
-
-[2025-12-27 23:00:05](https://bsky.app/profile/aljazeera.com/post/3maxxqpjqgd2i)
-
----
-
-@npr.org
-
-Let the sunshine in: After a decade of chilly trap beats and freaky club tales, the tide is turning on the genre's dominant sound.
-
-[2025-12-27 22:51:34](https://bsky.app/profile/npr.org/post/3maxxbhyxxi2x)
 
 ---
 
