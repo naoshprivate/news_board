@@ -1,9 +1,9 @@
-# [2025-12-28 03:10 updated](2025_12_28.md)
+# [2025-12-28 03:30 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Ralf Etienne, a 36-year-old investment banker training to compete in the Winter Paralymics, juggles long workdays and intense training in the Alps that was delayed by changes in U.S. immigration policy. on.wsj.com/48ULGTf <a href="https://bsky.app/profile/wsj.com/post/3mayfkzsikb2s" target="_blank">wsj.com</a> (2025-12-28 03:07:27)</span><span style="padding-right:50px;">Reports: Reds reach deal with OF JJ Bleday reut.rs/4pSQHl7 <a href="https://bsky.app/profile/reuters.com/post/3mayfgv3xap2x" target="_blank">reuters.com</a> (2025-12-28 03:05:08)</span><span style="padding-right:50px;">Tyler Perry was sued for sexual assault by an actor who appeared in "Boo! A Madea Halloween," marking the second lawsuit in recent months accusing the filmmaker and studio mogul of leveraging his power in Hollywood to make sexual advances. https://cnn.it/4qyVKY9 <a href="https://bsky.app/profile/cnn.com/post/3mayf7kggrk22" target="_blank">cnn.com</a> (2025-12-28 03:01:02)</span><span style="padding-right:50px;">On Christmas Day, a 15-year-old girl took her dog for a walk but didn’t return at her usual time. Authorities credit her father's quick response. <a href="https://bsky.app/profile/usatoday.com/post/3mayf7ci54u2o" target="_blank">usatoday.com</a> (2025-12-28 03:00:54)</span><span style="padding-right:50px;">Jeffrey R. Holland, a senior official in the Church of Jesus Christ of Latter-day Saints, has died at 85. <a href="https://bsky.app/profile/apnews.com/post/3mayf6esv5x23" target="_blank">apnews.com</a> (2025-12-28 03:00:23)</span>
+<span style="padding-right:50px;">The leader of the John F. Kennedy Center for the Performing Arts in Washington has sent a letter threatening litigation against a musician who canceled an annual Christmas Eve jazz concert in protest of the site’s new name. <a href="https://bsky.app/profile/nytimes.com/post/3maygkmjwjt2x" target="_blank">nytimes.com</a> (2025-12-28 03:25:07)</span><span style="padding-right:50px;">If you're tempted to bail on potentially fun events becuase you feel awkward, read this. Level up your small talk game and practice social courage with six tips from psychologists. <a href="https://bsky.app/profile/npr.org/post/3mayfvhwj3v2i" target="_blank">npr.org</a> (2025-12-28 03:13:18)</span><span style="padding-right:50px;">Nicolás Maduro is using U.S. military pressure to crack down on internal dissent w/Ana Vanessa Herrero in Caracas  www.washingtonpost.com/world/2025/1... <a href="https://bsky.app/profile/matthewhaybrown.bsky.social/post/3mayfudedec23" target="_blank">matthewhaybrown.bsky.social</a> (2025-12-28 03:12:39)</span><span style="padding-right:50px;">Ronaldo double drives Al Nassr to record 10th straight win reut.rs/49e0KKI <a href="https://bsky.app/profile/reuters.com/post/3mayfpvaif32b" target="_blank">reuters.com</a> (2025-12-28 03:10:10)</span><span style="padding-right:50px;">Ralf Etienne, a 36-year-old investment banker training to compete in the Winter Paralymics, juggles long workdays and intense training in the Alps that was delayed by changes in U.S. immigration policy. on.wsj.com/48ULGTf <a href="https://bsky.app/profile/wsj.com/post/3mayfkzsikb2s" target="_blank">wsj.com</a> (2025-12-28 03:07:27)</span>
   </div>
 </div>
 
@@ -32,15 +32,49 @@
 
 ## News Headlines
 
-- US Investor Ralf Etienne Balances Work and Winter Paralympics Training
-- Reds Agree to Deal with Outfielder JJ Bleday
-- Tyler Perry Sued for Alleged Sexual Assault
-- 15-Year-Old Girl's Quick-Thinking Father Helps Solve Christmas Day Mystery
-- Algeria's Mandi Supports Proposal to Hold AFCON Every Four Years
-- Myanmar's Military Seeks to Consolidate Power as China Backs Stability
+- US Blows Up Semisubmersible Carrying Convicted Trafficker, Destroys Evidence
+- Russia Pounds Ukraine with Missile and Drone Strikes Ahead of Trump-Zelenskiy Talks
+- Thailand and Cambodia Agree to 'Immediate' Ceasefire After Deadly Border Clashes
+- Russia Launches Massive Attack on Civilian Infrastructure in Ukraine
+- McDonald's CEO Offers Career Guidance: 'You Have to Have Thick Skin'
+- Iran's President Says US, Israel, Europe Waging 'Total War' Against His Country
 
 
 ----
+
+@nytimes.com
+
+The leader of the John F. Kennedy Center for the Performing Arts in Washington has sent a letter threatening litigation against a musician who canceled an annual Christmas Eve jazz concert in protest of the site’s new name.
+
+[2025-12-28 03:25:07](https://bsky.app/profile/nytimes.com/post/3maygkmjwjt2x)
+
+---
+
+@npr.org
+
+If you're tempted to bail on potentially fun events becuase you feel awkward, read this. Level up your small talk game and practice social courage with six tips from psychologists.
+
+[2025-12-28 03:13:18](https://bsky.app/profile/npr.org/post/3mayfvhwj3v2i)
+
+---
+
+@matthewhaybrown.bsky.social
+
+Nicolás Maduro is using U.S. military pressure to crack down on internal dissent w/Ana Vanessa Herrero in Caracas
+
+www.washingtonpost.com/world/2025/1...
+
+[2025-12-28 03:12:39](https://bsky.app/profile/matthewhaybrown.bsky.social/post/3mayfudedec23)
+
+---
+
+@reuters.com
+
+Ronaldo double drives Al Nassr to record 10th straight win reut.rs/49e0KKI
+
+[2025-12-28 03:10:10](https://bsky.app/profile/reuters.com/post/3mayfpvaif32b)
+
+---
 
 @wsj.com
 
@@ -88,39 +122,6 @@ Jeffrey R. Holland, a senior official in the Church of Jesus Christ of Latter-da
 A former ESPN pundit, Pablo Torre’s show became a phenomenon this year with aggressive reporting that uncovered seismic stories in American sports — and it’s ruffling feathers across the industry. 
 
 [2025-12-28 03:00:14](https://bsky.app/profile/washingtonpost.com/post/3mayf655npe2x)
-
----
-
-@aljazeera.com
-
-Myanmar’s military seeks to entrench rule as it begins to claw back territory and China presses for stability.
-
-[2025-12-28 03:00:05](https://bsky.app/profile/aljazeera.com/post/3mayf5u2ic32e)
-
----
-
-@reuters.com
-
-Algeria's Mandi backs move to hold AFCON every four years reut.rs/495On4B
-
-[2025-12-28 02:40:10](https://bsky.app/profile/reuters.com/post/3maye2astbd2s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自転車「青切符」前に 世代ごとのガイドライン作成 警察庁
-https://news.web.nhk/newsweb/na/na-k10015015651000
-
-[2025-12-28 02:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maydnjr2kj2x)
-
----
-
-@usatoday.com
-
-The California Highway Patrol warned drivers to be cautious because "'making memories’ shouldn’t include us pulling you out of a snowbank."
-
-[2025-12-28 02:30:18](https://bsky.app/profile/usatoday.com/post/3maydiljtt32h)
 
 ---
 
