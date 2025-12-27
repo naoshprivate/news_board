@@ -1,9 +1,9 @@
-# [2025-12-27 13:10 updated](2025_12_27.md)
+# [2025-12-27 13:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">キム総書記がプーチン大統領に祝電 “同盟関係は永遠の財産” https://news.web.nhk/newsweb/na/na-k10015015421000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawwpw7beb2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 13:09:03)</span><span style="padding-right:50px;">米国務省 台湾への武器売却めぐる中国の制裁 “強く反対” https://news.web.nhk/newsweb/na/na-k10015015401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawwkjfoxo2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 13:06:02)</span><span style="padding-right:50px;">بيان لوزارة الدفاع الكمبودية: تايلاند وكمبوديا توقعان اتفاقا لوقف إطلاق النار reut.rs/3YNaZAA <a href="https://bsky.app/profile/reuters.com/post/3mawwbnea6w2x" target="_blank">reuters.com</a> (2025-12-27 13:01:06)</span><span style="padding-right:50px;">「痛風」起こす高尿酸血症、患者3割に遺伝子の影響（無料記事） www.nikkei.com/article/DGXZQO...  痛風は大量の飲酒、肥満などの特徴がある中高年の男性で発症しやすいことが知られます。  防衛医科大学校の研究で、影響を及ぼす「ABCG2」遺伝子の状態に個人差があることと、尿酸を細胞外に排出する機能の低下が関係していることが分かりました。 <a href="https://bsky.app/profile/nikkei.com/post/3mawwau4ej524" target="_blank">nikkei.com</a> (2025-12-27 13:00:40)</span><span style="padding-right:50px;">Gifts are incredibly fun, but the holidays present an opportunity for other types of giving that could make you feel great as well.  “Acts of kindness trigger a release of dopamine, the brain’s reward and motivation chemical,” Jennifer Moss, a former member of the Global Happiness Council says. <a href="https://bsky.app/profile/cnbc.com/post/3mawwahjn6224" target="_blank">cnbc.com</a> (2025-12-27 13:00:27)</span>
+<span style="padding-right:50px;">The country’s exports to the U.S. have surged since President Trump imposed new import duties on every country this year. on.wsj.com/49aDsFr <a href="https://bsky.app/profile/wsj.com/post/3mawxqq75ll2c" target="_blank">wsj.com</a> (2025-12-27 13:27:26)</span><span style="padding-right:50px;">カンボジア国防省は２７日、タイとカンボジアは、国境地帯での軍事衝突を巡り、停戦に合意したと明らかにした。 bit.ly/48TiX16 <a href="https://bsky.app/profile/japan.reuters.com/post/3mawxf3ilg225" target="_blank">japan.reuters.com</a> (2025-12-27 13:20:55)</span><span style="padding-right:50px;">بيان لوزارة الدفاع الكمبودية: تايلاند وكمبوديا توقعان اتفاقا لوقف إطلاق النار reut.rs/4b3xNn6 <a href="https://bsky.app/profile/reuters.com/post/3mawxdrvsa72b" target="_blank">reuters.com</a> (2025-12-27 13:20:12)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】タイとカンボジアの国防相が協議 国境地帯の衝突で停戦合意 タイメディア (2025年12月27日 13:19) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mawxct3zvd2x" target="_blank">sokuho.news</a> (2025-12-27 13:19:40)</span><span style="padding-right:50px;">イスラエル、ソマリランドを国家承認　ガザ市民の移送検討と報道 www.nikkei.com/article/DGXZQO...  ロイター通信によると、ソマリランドを国家承認する国はイスラエルが初めて。   イエメンの親イラン武装組織フーシを抑える上でも重要な足がかりとなる可能性があります。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3mawx5gurrc2y" target="_blank">nikkei.com</a> (2025-12-27 13:16:39)</span>
   </div>
 </div>
 
@@ -32,15 +32,82 @@
 
 ## News Headlines
 
-- North Korea's Kim sends congratulatory message to Putin on alliance relations
-- US strongly opposes China's sanctions over arms sales to Taiwan
-- Cambodia, Thailand sign agreement to end fighting
-- One-third of gout patients have genetic influence on high uric acid levels
-- US still chasing oil tanker into international waters near Venezuela
-- Russia using Belarus territory to bypass Ukraine's defenses: Zelenskyy
+- Cambodia, Thailand Agree to Ceasefire in Border Conflict
+- Russia Using Belarus Territory to Bypass Ukraine's Defenses
+- US Officials Consider Forcing Boarding of Oil Tanker Near Venezuela
+- Trump Administration Wants to Control Data Centers' Power Grid Connections
+- Pakistani Officials Unfazed by Close Ties with US, China
+- Over 40 Million Americans Under Winter Storm Warnings or Advisories
 
 
 ----
+
+@wsj.com
+
+The country’s exports to the U.S. have surged since President Trump imposed new import duties on every country this year. on.wsj.com/49aDsFr
+
+[2025-12-27 13:27:26](https://bsky.app/profile/wsj.com/post/3mawxqq75ll2c)
+
+---
+
+@japan.reuters.com
+
+カンボジア国防省は２７日、タイとカンボジアは、国境地帯での軍事衝突を巡り、停戦に合意したと明らかにした。 bit.ly/48TiX16
+
+[2025-12-27 13:20:55](https://bsky.app/profile/japan.reuters.com/post/3mawxf3ilg225)
+
+---
+
+@reuters.com
+
+بيان لوزارة الدفاع الكمبودية: تايلاند وكمبوديا توقعان اتفاقا لوقف إطلاق النار reut.rs/4b3xNn6
+
+[2025-12-27 13:20:12](https://bsky.app/profile/reuters.com/post/3mawxdrvsa72b)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】タイとカンボジアの国防相が協議 国境地帯の衝突で停戦合意 タイメディア
+(2025年12月27日 13:19) #ニュース
+
+[2025-12-27 13:19:40](https://bsky.app/profile/sokuho.news/post/3mawxct3zvd2x)
+
+---
+
+@nikkei.com
+
+イスラエル、ソマリランドを国家承認　ガザ市民の移送検討と報道
+www.nikkei.com/article/DGXZQO...
+
+ロイター通信によると、ソマリランドを国家承認する国はイスラエルが初めて。
+ 
+イエメンの親イラン武装組織フーシを抑える上でも重要な足がかりとなる可能性があります。
+
+#ニュース
+
+[2025-12-27 13:16:39](https://bsky.app/profile/nikkei.com/post/3mawx5gurrc2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+“トランプ大統領 ISへの攻撃 クリスマスに変更” 米メディア
+https://news.web.nhk/newsweb/na/na-k10015015431000
+
+[2025-12-27 13:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawx2mzntq2v)
+
+---
+
+@nbcnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Michigan Wolverines hire Utah's Kyle Whittingham to be the next head football coach after the firing and arrest of former coach Sherrone Moore.</strong>
+
+[2025-12-27 13:10:11](https://bsky.app/profile/nbcnews.com/post/3mawwrux3272k)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -65,77 +132,6 @@ https://news.web.nhk/newsweb/na/na-k10015015401000
 بيان لوزارة الدفاع الكمبودية: تايلاند وكمبوديا توقعان اتفاقا لوقف إطلاق النار reut.rs/3YNaZAA
 
 [2025-12-27 13:01:06](https://bsky.app/profile/reuters.com/post/3mawwbnea6w2x)
-
----
-
-@nikkei.com
-
-「痛風」起こす高尿酸血症、患者3割に遺伝子の影響（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-痛風は大量の飲酒、肥満などの特徴がある中高年の男性で発症しやすいことが知られます。
-
-防衛医科大学校の研究で、影響を及ぼす「ABCG2」遺伝子の状態に個人差があることと、尿酸を細胞外に排出する機能の低下が関係していることが分かりました。
-
-[2025-12-27 13:00:40](https://bsky.app/profile/nikkei.com/post/3mawwau4ej524)
-
----
-
-@cnbc.com
-
-Gifts are incredibly fun, but the holidays present an opportunity for other types of giving that could make you feel great as well.
-
-“Acts of kindness trigger a release of dopamine, the brain’s reward and motivation chemical,” Jennifer Moss, a former member of the Global Happiness Council says.
-
-[2025-12-27 13:00:27](https://bsky.app/profile/cnbc.com/post/3mawwahjn6224)
-
----
-
-@apnews.com
-
-Attorneys for the man accused of killing iconic rapper Tupac Shakur are pushing to suppress evidence that was collected in what they say was an unlawful nighttime search.
-
-[2025-12-27 13:00:13](https://bsky.app/profile/apnews.com/post/3mawwa2rjbz23)
-
----
-
-@cnn.com
-
-The United States hasn’t given up its pursuit of the massive, rusted oil tanker it chased into international waters near Venezuela last weekend, and officials are now contemplating moving additional resources into the area to forcibly board the ship, people familiar with the matter said. 
-
-[2025-12-27 13:00:05](https://bsky.app/profile/cnn.com/post/3maww7tgo5l2q)
-
----
-
-@washingtonpost.com
-
-After the holiday shopping season, experts are inspecting spending data to extract any insights into whether consumers will continue to hold up the economy in 2026.
-
-The consensus? There really isn’t one.
-
-[2025-12-27 13:00:04](https://bsky.app/profile/washingtonpost.com/post/3maww7sh7j72g)
-
----
-
-@aljazeera.com
-
-Russia using Belarus territory to bypass Ukraine’s defences, says Zelenskyy https://aje.io/d1il5l
-
-[2025-12-27 13:00:03](https://bsky.app/profile/aljazeera.com/post/3maww7s3gfj27)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:釧路沖, 深さ:40km
-マグニチュード:4.2, 最大震度:2
-📍https://www.google.com/maps?q=42.9,145.5&ll=42.9,145.5&z=7&t=h
-地震発生日時:2025-12-27 12:55頃
-(10倍速▶180s→18s) #地震
-
-[2025-12-27 12:59:12](https://bsky.app/profile/sokuho.news/post/3maww6aj7lj2y)
 
 ---
 
