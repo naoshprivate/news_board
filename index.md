@@ -1,9 +1,9 @@
-# [2025-12-28 06:30 updated](2025_12_28.md)
+# [2025-12-28 06:50 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Comeback kings Villa turn the tables again, this time on Chelsea reut.rs/4qyEClf <a href="https://bsky.app/profile/reuters.com/post/3mayqmiusot2c" target="_blank">reuters.com</a> (2025-12-28 06:25:08)</span><span style="padding-right:50px;">The business executive and TV personality on his nomadic childhood, learning to be a marksman and his mother’s financial secret. on.wsj.com/3YMhAv2 <a href="https://bsky.app/profile/wsj.com/post/3maypuf7ppy2z" target="_blank">wsj.com</a> (2025-12-28 06:11:38)</span><span style="padding-right:50px;">Mickey Lee, a contestant on the latest season of the television show “Big Brother,” who was known for her vibrant personality and bold strategic moves to survive the game, died on Thursday. She was 35. <a href="https://bsky.app/profile/nytimes.com/post/3mayprmuatd2r" target="_blank">nytimes.com</a> (2025-12-28 06:10:06)</span><span style="padding-right:50px;">公立学校教員の採用倍率は2.9倍 4年連続で過去最低に https://news.web.nhk/newsweb/na/na-k10015015631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mayppt57is2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 06:09:03)</span><span style="padding-right:50px;">戦争体験で心に傷 元兵士ら約300人の医療記録 分析進める https://news.web.nhk/newsweb/na/na-k10015015661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maypkgc6wg24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 06:06:02)</span>
+<span style="padding-right:50px;">China’s legislature approved revisions to the country’s foreign trade law, incorporating provisions to safeguard national sovereignty, security and development interests <a href="https://bsky.app/profile/bloomberg.com/post/3mayrxe3esb2h" target="_blank">bloomberg.com</a> (2025-12-28 06:49:05)</span><span style="padding-right:50px;">What makes a truly memorable meal? Consider these four factors <a href="https://bsky.app/profile/bloomberg.com/post/3mayrtrsd6j2p" target="_blank">bloomberg.com</a> (2025-12-28 06:47:06)</span><span style="padding-right:50px;">Operators of Lukoil-branded gas stations in the US have been ensnared by sanctions imposed on the Russian company following Moscow's invasion of Ukraine. <a href="https://bsky.app/profile/bloomberg.com/post/3mayrqbkeqd2e" target="_blank">bloomberg.com</a> (2025-12-28 06:45:08)</span><span style="padding-right:50px;">California is in for a brief weekend reprieve from damaging holiday storms that killed four people and hobbled Christmas travel, but weather officials warned of more wet weather heading to the rain-soaked state starting on New Year’s Eve. <a href="https://bsky.app/profile/bloomberg.com/post/3mayrogkrld24" target="_blank">bloomberg.com</a> (2025-12-28 06:44:06)</span><span style="padding-right:50px;">Austin Reaves is expected to miss multiple weeks for the Los Angeles Lakers after exiting their Christmas Day contest with an injury. <a href="https://bsky.app/profile/usatoday.com/post/3mayqvsifif2g" target="_blank">usatoday.com</a> (2025-12-28 06:30:20)</span>
   </div>
 </div>
 
@@ -32,15 +32,71 @@
 
 ## News Headlines
 
-- Comeback Kings Villa Turn Tables Again on Chelsea
-- Business Executive Shares Life Story of Nomadic Childhood, Marksmanship, and Mother's Secret
-- Big Brother Contestant Mickey Lee Dies at 35
-- Hospital Records of 300 Soldiers to be Analyzed for War Trauma
-- Hockey Canada Apologizes for Handshake Oversight After Win Over Czechia
-- Second Actor Sues Tyler Perry for $77 Million Over Alleged Sexual Assault
+- China Approves Revisions to Foreign Trade Law to Safeguard National Interests
+- Factors That Make a Meal Truly Memorable
+- Lukoil-Branded Gas Stations in US Caught in Sanctions on Russia
+- California Braces for More Rain as Holiday Storms Ease
+- Austin Reaves Expected to Miss Multiple Weeks Due to Injury
+- Iran Warns Israel and US of More Decisive Response if Attacked Again
 
 
 ----
+
+@bloomberg.com
+
+China’s legislature approved revisions to the country’s foreign trade law, incorporating provisions to safeguard national sovereignty, security and development interests
+
+[2025-12-28 06:49:05](https://bsky.app/profile/bloomberg.com/post/3mayrxe3esb2h)
+
+---
+
+@bloomberg.com
+
+What makes a truly memorable meal? Consider these four factors
+
+[2025-12-28 06:47:06](https://bsky.app/profile/bloomberg.com/post/3mayrtrsd6j2p)
+
+---
+
+@bloomberg.com
+
+Operators of Lukoil-branded gas stations in the US have been ensnared by sanctions imposed on the Russian company following Moscow's invasion of Ukraine.
+
+[2025-12-28 06:45:08](https://bsky.app/profile/bloomberg.com/post/3mayrqbkeqd2e)
+
+---
+
+@bloomberg.com
+
+California is in for a brief weekend reprieve from damaging holiday storms that killed four people and hobbled Christmas travel, but weather officials warned of more wet weather heading to the rain-soaked state starting on New Year’s Eve.
+
+[2025-12-28 06:44:06](https://bsky.app/profile/bloomberg.com/post/3mayrogkrld24)
+
+---
+
+@usatoday.com
+
+Austin Reaves is expected to miss multiple weeks for the Los Angeles Lakers after exiting their Christmas Day contest with an injury.
+
+[2025-12-28 06:30:20](https://bsky.app/profile/usatoday.com/post/3mayqvsifif2g)
+
+---
+
+@aljazeera.com
+
+If Israel and the US were to attack Iran again, they would 'face a more decisive response', Pezeshkian warns.
+
+[2025-12-28 06:30:04](https://bsky.app/profile/aljazeera.com/post/3mayqvdmtdy2i)
+
+---
+
+@forbes.com
+
+The podcaster, who endorsed Trump in the lead-up to the 2024 election, has criticized the president a number of times over the last year.
+
+[2025-12-28 06:30:04](https://bsky.app/profile/forbes.com/post/3mayqvdf6rl2o)
+
+---
 
 @reuters.com
 
@@ -63,68 +119,6 @@ The business executive and TV personality on his nomadic childhood, learning to 
 Mickey Lee, a contestant on the latest season of the television show “Big Brother,” who was known for her vibrant personality and bold strategic moves to survive the game, died on Thursday. She was 35.
 
 [2025-12-28 06:10:06](https://bsky.app/profile/nytimes.com/post/3mayprmuatd2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-公立学校教員の採用倍率は2.9倍 4年連続で過去最低に
-https://news.web.nhk/newsweb/na/na-k10015015631000
-
-[2025-12-28 06:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mayppt57is2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-戦争体験で心に傷 元兵士ら約300人の医療記録 分析進める
-https://news.web.nhk/newsweb/na/na-k10015015661000
-
-[2025-12-28 06:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maypkgc6wg24)
-
----
-
-@reuters.com
-
-Hockey Canada apologises for handshake oversight after win over Czechia reut.rs/4qsSNbq
-
-[2025-12-28 06:05:08](https://bsky.app/profile/reuters.com/post/3maypiqpj3d2k)
-
----
-
-@nytimes.com
-
-A second actor has sued the filmmaker Tyler Perry, accusing him of sexual assault and seeking $77 million in damages, according to a complaint filed Thursday in the Los Angeles Superior Court.
-
-[2025-12-28 06:05:05](https://bsky.app/profile/nytimes.com/post/3maypinwuuk2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-28日からミャンマー総選挙 軍が民主派排除 批判広がる
-https://news.web.nhk/newsweb/na/na-k10015015691000
-
-[2025-12-28 06:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maypf2qt5s2b)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】東京都心 気温が0℃を下回る 今シーズン初めての冬日 気象庁
-(2025年12月28日 06:00) #ニュース
-
-[2025-12-28 06:01:20](https://bsky.app/profile/sokuho.news/post/3maypbx4w3j2b)
-
----
-
-@cnn.com
-
-A Cuban immigrant who had built a new life working at a Kentucky scrapyard died on Christmas Day from severe burns suffered in last month's UPS cargo plane crash, raising the death toll to 15, officials said. https://cnn.it/3YNSqw8
-
-[2025-12-28 06:01:02](https://bsky.app/profile/cnn.com/post/3maypbfznw32q)
 
 ---
 
