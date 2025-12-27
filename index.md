@@ -1,9 +1,9 @@
-# [2025-12-28 02:10 updated](2025_12_28.md)
+# [2025-12-28 02:30 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Despite billions in investment, humanoid robot startups​ say androids still face daunting technical challenges before they move from science experiments to a replacement for human workers. on.wsj.com/3N2cpEK <a href="https://bsky.app/profile/wsj.com/post/3mayc37prxb2h" target="_blank">wsj.com</a> (2025-12-28 02:04:55)</span><span style="padding-right:50px;">Russia has pounded Ukraine with missile and drone strikes ahead of Trump-Zelenskiy talks on ending the war. Hear the latest on today's episode of the Reuters World News podcast reut.rs/49gA0ZT <a href="https://bsky.app/profile/reuters.com/post/3mayc224uxs2q" target="_blank">reuters.com</a> (2025-12-28 02:04:16)</span><span style="padding-right:50px;">Police say a woman in Oklahoma was killed on Christmas Day by a stray bullet from a handgun being used for target practice just blocks away. <a href="https://bsky.app/profile/usatoday.com/post/3maybuss4kx2t" target="_blank">usatoday.com</a> (2025-12-28 02:01:20)</span><span style="padding-right:50px;">Indonesian rescuers are searching for a Spanish soccer coach and his three children after a tour boat sank near Padar Island. <a href="https://bsky.app/profile/apnews.com/post/3maybug2kgw23" target="_blank">apnews.com</a> (2025-12-28 02:01:07)</span><span style="padding-right:50px;">🇹🇭 🇰🇭 Thailand and Cambodia agree to 'immediate' ceasefire  Thailand announces that it has agreed to an "immediate" 72-hour ceasefire with Cambodia, potentially bringing an end to weeks of deadly border clashes which have killed 47 people and displaced over a million, according to official tallies. <a href="https://bsky.app/profile/en.afp.com/post/3maybuc7b2k2j" target="_blank">en.afp.com</a> (2025-12-28 02:01:03)</span>
+<span style="padding-right:50px;">Mane scores for Senegal to see them come back to draw with DR Congo reut.rs/45lVCCX <a href="https://bsky.app/profile/reuters.com/post/3mayd7dvcci2o" target="_blank">reuters.com</a> (2025-12-28 02:25:08)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:熊本県阿蘇地方, 深さ:10km マグニチュード:2.8, 最大震度:2 📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h 地震発生日時:2025-12-28 02:19頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3mayd3ugsqo2r" target="_blank">sokuho.news</a> (2025-12-28 02:23:10)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  2時19分頃、熊本県・大分県で最大震度2の地震を観測しました。 震源:熊本県阿蘇地方, 深さ:10km, 規模:M2.8 この地震による津波の心配はありません。 (2025-12-28 02:22:40) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/28/2025-12-28-02-19-55.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3mayd2ynjlm2e" target="_blank">sokuho.news</a> (2025-12-28 02:22:42)</span><span style="padding-right:50px;">Liverpool condemn Wolves to record for longest winless Premier League start reut.rs/4jjaub2 <a href="https://bsky.app/profile/reuters.com/post/3maycnkidcd2y" target="_blank">reuters.com</a> (2025-12-28 02:15:10)</span><span style="padding-right:50px;">President Trump promised radical change this term. Here’s how his first year back in office compared with his campaign pledges. <a href="https://bsky.app/profile/nytimes.com/post/3maycnhfs7k2v" target="_blank">nytimes.com</a> (2025-12-28 02:15:07)</span>
   </div>
 </div>
 
@@ -32,15 +32,75 @@
 
 ## News Headlines
 
-- Humanoid robots face daunting technical challenges before replacing human workers
-- Russia launches massive attack on Ukraine's capital city
-- Woman killed by stray bullet during Christmas Day target practice
-- Indonesian rescuers search for Spanish soccer coach and children after tour boat sinks
-- Thailand and Cambodia agree to 72-hour ceasefire
-- Russia launches air attack on Kyiv as Ukraine's Zelenskyy prepares to meet with Trump
+- Senegal Scores to Draw with DR Congo
+- Massive Earthquake Hits Kyushu, Japan
+- Liverpool's Winless Streak in Premier League Reaches Record
+- Arsenal Reclaims Top Spot in Premier League
+- Robot Startups Face Daunting Technical Challenges
+- Russia Pounds Ukraine with Missile and Drone Strikes
 
 
 ----
+
+@reuters.com
+
+Mane scores for Senegal to see them come back to draw with DR Congo reut.rs/45lVCCX
+
+[2025-12-28 02:25:08](https://bsky.app/profile/reuters.com/post/3mayd7dvcci2o)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:熊本県阿蘇地方, 深さ:10km
+マグニチュード:2.8, 最大震度:2
+📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
+地震発生日時:2025-12-28 02:19頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-28 02:23:10](https://bsky.app/profile/sokuho.news/post/3mayd3ugsqo2r)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+2時19分頃、熊本県・大分県で最大震度2の地震を観測しました。
+震源:熊本県阿蘇地方, 深さ:10km, 規模:M2.8
+この地震による津波の心配はありません。
+(2025-12-28 02:22:40) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/28/2025-12-28-02-19-55.html?xlarge_image=1
+
+[2025-12-28 02:22:42](https://bsky.app/profile/sokuho.news/post/3mayd2ynjlm2e)
+
+---
+
+@reuters.com
+
+Liverpool condemn Wolves to record for longest winless Premier League start reut.rs/4jjaub2
+
+[2025-12-28 02:15:10](https://bsky.app/profile/reuters.com/post/3maycnkidcd2y)
+
+---
+
+@nytimes.com
+
+President Trump promised radical change this term. Here’s how his first year back in office compared with his campaign pledges.
+
+[2025-12-28 02:15:07](https://bsky.app/profile/nytimes.com/post/3maycnhfs7k2v)
+
+---
+
+@reuters.com
+
+Odegaard back on target as Arsenal reclaim top spot reut.rs/3Yi5lq2
+
+[2025-12-28 02:10:09](https://bsky.app/profile/reuters.com/post/3maycelhjo42b)
+
+---
 
 @wsj.com
 
@@ -71,57 +131,6 @@ Police say a woman in Oklahoma was killed on Christmas Day by a stray bullet fro
 Indonesian rescuers are searching for a Spanish soccer coach and his three children after a tour boat sank near Padar Island.
 
 [2025-12-28 02:01:07](https://bsky.app/profile/apnews.com/post/3maybug2kgw23)
-
----
-
-@en.afp.com
-
-🇹🇭 🇰🇭 Thailand and Cambodia agree to 'immediate' ceasefire
-
-Thailand announces that it has agreed to an "immediate" 72-hour ceasefire with Cambodia, potentially bringing an end to weeks of deadly border clashes which have killed 47 people and displaced over a million, according to official tallies.
-
-[2025-12-28 02:01:03](https://bsky.app/profile/en.afp.com/post/3maybuc7b2k2j)
-
----
-
-@cnbc.com
-
-McDonald’s CEO Chris Kempczinski has some career guidance to share, provided you have “thick skin.”
-
-[2025-12-28 02:00:27](https://bsky.app/profile/cnbc.com/post/3maybtabjoz2g)
-
----
-
-@washingtonpost.com
-
-Russia launched a massive attack on civilian infrastructure in Ukraine Saturday, targeting the Kyiv region’s energy grid and leaving one-third of the capital without heating, Foreign Minister Andrii Sybiha said.
-
-[2025-12-28 02:00:23](https://bsky.app/profile/washingtonpost.com/post/3maybt3xn3j2n)
-
----
-
-@bloomberg.com
-
-From mega-backdoors to well-timed conversions, these Roth account strategies can turbocharge your savings (from August)
-
-[2025-12-28 02:00:21](https://bsky.app/profile/bloomberg.com/post/3maybszx2sp27)
-
----
-
-@aljazeera.com
-
-Saudi defence minister urges Yemen's STC to withdraw "peacefully" from seized provinces, Hadramout and al-Mahra.
-
-[2025-12-28 02:00:04](https://bsky.app/profile/aljazeera.com/post/3maybskgafh2z)
-
----
-
-@nhknewsunofficial.bsky.social
-
-群馬 関越道 多重事故 下り線は通行止め解除の見通したたず
-https://news.web.nhk/newsweb/na/na-k10015015681000
-
-[2025-12-28 01:54:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maybhtirak2k)
 
 ---
 
