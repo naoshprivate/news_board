@@ -1,9 +1,9 @@
-# [2025-12-27 14:30 updated](2025_12_27.md)
+# [2025-12-27 14:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Skin-care enthusiasts lament lousy experiences with "holy grail" ingredients like hyaluronic acid, vitamin C and niacinamide. The problem? They’re using them incorrectly.   Here are some expert tips: 🔗 on.wsj.com/3NdA70O <a href="https://bsky.app/profile/wsj.com/post/3max2vrnrtl2q" target="_blank">wsj.com</a> (2025-12-27 14:23:57)</span><span style="padding-right:50px;">Russian drones, missiles pound Ukraine before Zelenskiy-Trump meeting reut.rs/4avmrbn <a href="https://bsky.app/profile/reuters.com/post/3max2oz3nc22r" target="_blank">reuters.com</a> (2025-12-27 14:20:10)</span><span style="padding-right:50px;">Italy and Spain shake off ‘periphery’ tag as borrowing premiums hit 16-year low ft.trib.al/Vcv50iH <a href="https://bsky.app/profile/financialtimes.com/post/3max2efgbjb2o" target="_blank">financialtimes.com</a> (2025-12-27 14:14:14)</span><span style="padding-right:50px;">Morgan Scalley, Kyle Whittingham’s Utah successor, to coach bowl game reut.rs/4ph9GEN <a href="https://bsky.app/profile/reuters.com/post/3max255d2qv2i" target="_blank">reuters.com</a> (2025-12-27 14:10:10)</span><span style="padding-right:50px;"> Aldi’s cut-price Napa Cab is a bad omen for northern California wine ft.trib.al/Xt2nDy4  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mawzya37xn2p" target="_blank">financialtimes.com</a> (2025-12-27 14:07:25)</span>
+<span style="padding-right:50px;">Michigan hires Utah coach Kyle Whittingham to replace Sherrone Moore reut.rs/3MUPNpR <a href="https://bsky.app/profile/reuters.com/post/3max3srih772i" target="_blank">reuters.com</a> (2025-12-27 14:40:10)</span><span style="padding-right:50px;">Remember when laughter was supposed to be the best medicine? Now a team of scientists has found that physical intimacy may speed up healing.   🔗 Read more: on.wsj.com/3YGEeVJ <a href="https://bsky.app/profile/wsj.com/post/3max3qynhmn2h" target="_blank">wsj.com</a> (2025-12-27 14:39:10)</span><span style="padding-right:50px;"> What makes a perfect holiday film? ft.trib.al/iEAu9RK  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3max3o42lte2q" target="_blank">financialtimes.com</a> (2025-12-27 14:37:33)</span><span style="padding-right:50px;"> Year in a word: Stablecoins ft.trib.al/Wz4Al6j  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3max3o334ws2f" target="_blank">financialtimes.com</a> (2025-12-27 14:37:32)</span><span style="padding-right:50px;"> Noodles worth getting weird about — Jay Rayner reviews Maneki Ramen, Birmingham ft.trib.al/xvcfT2b  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3max3nxy6dh25" target="_blank">financialtimes.com</a> (2025-12-27 14:37:29)</span>
   </div>
 </div>
 
@@ -32,107 +32,102 @@
 
 ## News Headlines
 
-- Ukrainian Civilians Lament 'Lousy' Skin-Care Routines
-- Italy and Spain Shake Off 'Periphery' Tag as Borrowing Premiums Hit 16-Year Low
-- Thai-Cambodian Ceasefire Agreement Reaches After Talks Between Defense Ministers
-- China Revises Aviation Law to Regulate Drones, Tighten Safety Rules
-- California Drops Lawsuit Challenging Trump Decision to Pull $4 Billion in High-Speed Rail Funding
-- Russia Using Belarus Territory to Bypass Ukraine's Defenses, Says Zelenskyy
+- Michigan hires Utah coach Kyle Whittingham to replace Sherrone Moore
+- Scientists find physical intimacy may speed up healing
+- Italy and Spain shake off 'periphery' tag as borrowing premiums hit 16-year low
+- Over 100 years after Queen Nefertiti bust was taken to Berlin, Germany, an effort to bring it back to Egypt is underway
+- California drops lawsuit challenging Trump decision to pull $4 billion in high speed rail funding
+- Thailand and Cambodia agree on ceasefire, Cambodia Defence Ministry says
 
 
 ----
 
+@reuters.com
+
+Michigan hires Utah coach Kyle Whittingham to replace Sherrone Moore reut.rs/3MUPNpR
+
+[2025-12-27 14:40:10](https://bsky.app/profile/reuters.com/post/3max3srih772i)
+
+---
+
 @wsj.com
 
-Skin-care enthusiasts lament lousy experiences with "holy grail" ingredients like hyaluronic acid, vitamin C and niacinamide. The problem? They’re using them incorrectly. 
+Remember when laughter was supposed to be the best medicine? Now a team of scientists has found that physical intimacy may speed up healing. 
 
-Here are some expert tips: 🔗 on.wsj.com/3NdA70O
+🔗 Read more: on.wsj.com/3YGEeVJ
 
-[2025-12-27 14:23:57](https://bsky.app/profile/wsj.com/post/3max2vrnrtl2q)
-
----
-
-@reuters.com
-
-Russian drones, missiles pound Ukraine before Zelenskiy-Trump meeting reut.rs/4avmrbn
-
-[2025-12-27 14:20:10](https://bsky.app/profile/reuters.com/post/3max2oz3nc22r)
+[2025-12-27 14:39:10](https://bsky.app/profile/wsj.com/post/3max3qynhmn2h)
 
 ---
 
 @financialtimes.com
 
-Italy and Spain shake off ‘periphery’ tag as borrowing premiums hit 16-year low ft.trib.al/Vcv50iH
+ What makes a perfect holiday film? ft.trib.al/iEAu9RK  | opinion
 
-[2025-12-27 14:14:14](https://bsky.app/profile/financialtimes.com/post/3max2efgbjb2o)
-
----
-
-@reuters.com
-
-Morgan Scalley, Kyle Whittingham’s Utah successor, to coach bowl game reut.rs/4ph9GEN
-
-[2025-12-27 14:10:10](https://bsky.app/profile/reuters.com/post/3max255d2qv2i)
+[2025-12-27 14:37:33](https://bsky.app/profile/financialtimes.com/post/3max3o42lte2q)
 
 ---
 
 @financialtimes.com
 
- Aldi’s cut-price Napa Cab is a bad omen for northern California wine ft.trib.al/Xt2nDy4  | opinion
+ Year in a word: Stablecoins ft.trib.al/Wz4Al6j  | opinion
 
-[2025-12-27 14:07:25](https://bsky.app/profile/financialtimes.com/post/3mawzya37xn2p)
+[2025-12-27 14:37:32](https://bsky.app/profile/financialtimes.com/post/3max3o334ws2f)
 
 ---
 
 @financialtimes.com
 
- The curious signal sent by HSBC ft.trib.al/Rn4fdGg  | opinion
+ Noodles worth getting weird about — Jay Rayner reviews Maneki Ramen, Birmingham ft.trib.al/xvcfT2b  | opinion
 
-[2025-12-27 14:07:25](https://bsky.app/profile/financialtimes.com/post/3mawzy7okst2w)
+[2025-12-27 14:37:29](https://bsky.app/profile/financialtimes.com/post/3max3nxy6dh25)
+
+---
+
+@financialtimes.com
+
+ The gift that cannot be bought ft.trib.al/qd8iU6A  | opinion
+
+[2025-12-27 14:37:29](https://bsky.app/profile/financialtimes.com/post/3max3nxwv4u2w)
+
+---
+
+@financialtimes.com
+
+ Weight-loss drugs come for Fluffy and Fido ft.trib.al/avKZodd  | opinion
+
+[2025-12-27 14:37:28](https://bsky.app/profile/financialtimes.com/post/3max3nwus4c2f)
+
+---
+
+@financialtimes.com
+
+ The political weaponisation of sleep ft.trib.al/V4NcoLM  | opinion
+
+[2025-12-27 14:37:28](https://bsky.app/profile/financialtimes.com/post/3max3nwvi2224)
+
+---
+
+@financialtimes.com
+
+ Compulsive tracking doesn’t measure what really counts ft.trib.al/A97zUG0  | opinion
+
+[2025-12-27 14:34:57](https://bsky.app/profile/financialtimes.com/post/3max3jhiie723)
 
 ---
 
 @nikkei.com
 
-夫婦別々「セパレート帰省」6割　義実家行かず
+東武鉄道、愛犬とケージレスで乗れる貸し切り列車　2026年2月に運行（無料記事）
 www.nikkei.com/article/DGXZQO...
 
-女性や20〜30代の若年世代を中心に支持を集めています。
+とうきょうスカイツリー駅から東武ワールドスクウェア駅まで団体・臨時電車用車両「スカイツリートレイン」を使用します。
 
-理由は「金銭負担を抑えられる」「気苦労から解放される」など様々。
+往路ではクイズ大会や参加者同士で交流できるプログラムを予定。
 
-帰省を迎える側でも、「子や孫に会えれば十分」との考えが広まりつつあるようです。
+ペット専用に制作したオリジナルの東武鉄道駅員の制服を愛犬に着用させての記念撮影もできます。
 
-[2025-12-27 14:00:53](https://bsky.app/profile/nikkei.com/post/3mawzmjwbk422)
-
----
-
-@wsj.com
-
-Some doctors say the chemicals all around us—from golf courses to dry cleaners—may be increasing our risk of Parkinson’s disease, the fastest-growing neurodegenerative disease in the world.
-
-Read more: on.wsj.com/3LeGBfq
-
-[2025-12-27 14:00:46](https://bsky.app/profile/wsj.com/post/3mawzmdx77v2i)
-
----
-
-@reuters.com
-
-England 98 runs from victory at tea, eight wickets in hand reut.rs/3Liy0bC
-
-[2025-12-27 14:00:41](https://bsky.app/profile/reuters.com/post/3mawzm6u3tc2s)
-
----
-
-@sokuho.news
-
-🛎️NNNより【独自】です。
-
-【独自解説】父は金日成主席の護衛・義父は“北の金庫番”…北朝鮮の元エリート外交官はなぜ脱北を決意したのか？知られざる北朝鮮の実態を激白
-(2025-12-27 14:00) #ニュース
-
-[2025-12-27 14:00:37](https://bsky.app/profile/sokuho.news/post/3mawzm2r5ei2b)
+[2025-12-27 14:30:40](https://bsky.app/profile/nikkei.com/post/3max3brsm3k2y)
 
 ---
 
