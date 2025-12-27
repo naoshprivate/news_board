@@ -1,9 +1,9 @@
-# [2025-12-28 07:50 updated](2025_12_28.md)
+# [2025-12-28 08:10 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ロシアのプーチン大統領は、ウクライナは紛争の平和的終結を急いでいないと指摘し、ウクライナが紛争の平和的解決を望まないのなら、ロシアは「特別軍事作戦」の全ての目標を武力で達成することになると述べた。インタファクス通信やタス通信が２７日報じた。 bit.ly/4qoqISr <a href="https://bsky.app/profile/japan.reuters.com/post/3mayvbiw7qy2c" target="_blank">japan.reuters.com</a> (2025-12-28 07:48:27)</span><span style="padding-right:50px;">Pantomimes are plays based on a well-known story — often a fairy tale — which are given a bawdy twist. The audience is expected to join in throughout, shouting as loudly as they can. n.pr/4qrqt9l <a href="https://bsky.app/profile/npr.org/post/3mayv43xkb42m" target="_blank">npr.org</a> (2025-12-28 07:45:26)</span><span style="padding-right:50px;">中南米金融市場は、薄商いの中小動き。 bit.ly/49dGFnA <a href="https://bsky.app/profile/japan.reuters.com/post/3mayuej6dez2v" target="_blank">japan.reuters.com</a> (2025-12-28 07:32:15)</span><span style="padding-right:50px;">Harry Styles fans are gearing up for a 2026 comeback after the "As It Was" singer posted an over eight-minute video titled "Forever, Forever." <a href="https://bsky.app/profile/usatoday.com/post/3mayuax7olz2c" target="_blank">usatoday.com</a> (2025-12-28 07:30:15)</span><span style="padding-right:50px;">An expanding body of evidence suggests that the age of an ovary, not just the eggs it contains, is important to reproduction and healthy aging. <a href="https://bsky.app/profile/nytimes.com/post/3maytxq2max2e" target="_blank">nytimes.com</a> (2025-12-28 07:25:05)</span>
+<span style="padding-right:50px;">A 7.0 magnitude earthquake struck some 20 miles off Taiwan’s northeastern coastal city of Yilan on Saturday, the island’s weather administration said, with no immediate reports of major damage. https://cnn.it/49t9PAl <a href="https://bsky.app/profile/cnn.com/post/3mayvztk54k2u" target="_blank">cnn.com</a> (2025-12-28 08:02:04)</span><span style="padding-right:50px;">NEC、4G・5G基地局の機器開発中止　防衛・次世代向けは継続 www.nikkei.com/article/DGXZQO...  ソフトウエアに開発を絞ります。5G市場は通信キャリアの設備投資が想定より進まず、NECの5G基地局事業は赤字が続いていました。  通信の要となる基地局の国産化は後退します。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3mayvxqibau22" target="_blank">nikkei.com</a> (2025-12-28 08:00:53)</span><span style="padding-right:50px;">The flu season is hitting in full force, especially in New York, Colorado and Louisiana, where flu-like activity is very high, according to the CDC. <a href="https://bsky.app/profile/usatoday.com/post/3mayvx364rb2t" target="_blank">usatoday.com</a> (2025-12-28 08:00:31)</span><span style="padding-right:50px;">UK secures migrant return deal with Angola, Namibia reut.rs/4piaQQL <a href="https://bsky.app/profile/reuters.com/post/3mayvwytnpq2o" target="_blank">reuters.com</a> (2025-12-28 08:00:28)</span><span style="padding-right:50px;">Here are the top internet stock picks for next year according to JPMorgan. <a href="https://bsky.app/profile/cnbc.com/post/3mayvwndlqp23" target="_blank">cnbc.com</a> (2025-12-28 08:00:17)</span>
   </div>
 </div>
 
@@ -32,100 +32,100 @@
 
 ## News Headlines
 
-- Putin Suggests Russia May Use Force to Achieve All Military Objectives if Ukraine Doesn't Seek Peaceful Resolution
-- New York City Gets Rare Over 4 Inches of Snow for First Time Since January 2022
-- Ukraine's Zelenskyy Meets with Trudeau in Canada, Secures $1.8 Billion in Aid
-- China Approves Revisions to Foreign Trade Law to Safeguard National Interests
-- Operators of Lukoil-Branded Gas Stations in US Caught Up in Russian Sanctions
-- California to Get Brief Reprieve from Holiday Storms Before More Wet Weather Arrives
+- Taiwan Hit by 7.0 Magnitude Earthquake, No Immediate Reports of Major Damage
+- NEC Halts Development of 4G, 5G Base Stations, Shifts Focus to Software
+- UK Secures Migrant Return Deal with Angola
+- JPMorgan Reveals Top Internet Stock Picks for Next Year
+- Taiwan Hit by 6.6 Magnitude Earthquake, Follows Previous Quake
+- Nigeria Edges Past Tunisia in International Soccer Match
 
 
 ----
 
-@japan.reuters.com
+@cnn.com
 
-ロシアのプーチン大統領は、ウクライナは紛争の平和的終結を急いでいないと指摘し、ウクライナが紛争の平和的解決を望まないのなら、ロシアは「特別軍事作戦」の全ての目標を武力で達成することになると述べた。インタファクス通信やタス通信が２７日報じた。 bit.ly/4qoqISr
+A 7.0 magnitude earthquake struck some 20 miles off Taiwan’s northeastern coastal city of Yilan on Saturday, the island’s weather administration said, with no immediate reports of major damage. https://cnn.it/49t9PAl
 
-[2025-12-28 07:48:27](https://bsky.app/profile/japan.reuters.com/post/3mayvbiw7qy2c)
-
----
-
-@npr.org
-
-Pantomimes are plays based on a well-known story — often a fairy tale — which are given a bawdy twist. The audience is expected to join in throughout, shouting as loudly as they can. n.pr/4qrqt9l
-
-[2025-12-28 07:45:26](https://bsky.app/profile/npr.org/post/3mayv43xkb42m)
+[2025-12-28 08:02:04](https://bsky.app/profile/cnn.com/post/3mayvztk54k2u)
 
 ---
 
-@japan.reuters.com
+@nikkei.com
 
-中南米金融市場は、薄商いの中小動き。 bit.ly/49dGFnA
+NEC、4G・5G基地局の機器開発中止　防衛・次世代向けは継続
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-28 07:32:15](https://bsky.app/profile/japan.reuters.com/post/3mayuej6dez2v)
+ソフトウエアに開発を絞ります。5G市場は通信キャリアの設備投資が想定より進まず、NECの5G基地局事業は赤字が続いていました。
+
+通信の要となる基地局の国産化は後退します。
+
+#ニュース
+
+[2025-12-28 08:00:53](https://bsky.app/profile/nikkei.com/post/3mayvxqibau22)
 
 ---
 
 @usatoday.com
 
-Harry Styles fans are gearing up for a 2026 comeback after the "As It Was" singer posted an over eight-minute video titled "Forever, Forever."
+The flu season is hitting in full force, especially in New York, Colorado and Louisiana, where flu-like activity is very high, according to the CDC.
 
-[2025-12-28 07:30:15](https://bsky.app/profile/usatoday.com/post/3mayuax7olz2c)
-
----
-
-@nytimes.com
-
-An expanding body of evidence suggests that the age of an ovary, not just the eggs it contains, is important to reproduction and healthy aging.
-
-[2025-12-28 07:25:05](https://bsky.app/profile/nytimes.com/post/3maytxq2max2e)
+[2025-12-28 08:00:31](https://bsky.app/profile/usatoday.com/post/3mayvx364rb2t)
 
 ---
 
-@nytimes.com
+@reuters.com
 
-New York City got more than four inches of snow for the first time since January 2022 overnight, with higher totals reported in the wider region on Saturday. trib.al/ycUVCXi
+UK secures migrant return deal with Angola, Namibia reut.rs/4piaQQL
 
-[2025-12-28 07:21:30](https://bsky.app/profile/nytimes.com/post/3maytrc5spc2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-東京メトロ千代田線 代々木上原～霞ケ関 運転見合わせ
-https://news.web.nhk/newsweb/na/na-k10015015731000
-
-[2025-12-28 07:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maytagtfec2y)
+[2025-12-28 08:00:28](https://bsky.app/profile/reuters.com/post/3mayvwytnpq2o)
 
 ---
 
-@wsj.com
+@cnbc.com
 
-Christmas tree still up? You could always decorate it for Valentine’s Day, St. Patrick's Day and Flag Day.
+Here are the top internet stock picks for next year according to JPMorgan.
 
-Tree-trimming has turned into a year-round pursuit, Veronica Dagher wrote in 2024. “There’s always something to celebrate.”
-
-🎄 Read more: on.wsj.com/4sbUSdv
-
-[2025-12-28 07:11:58](https://bsky.app/profile/wsj.com/post/3maytabpb342t)
+[2025-12-28 08:00:17](https://bsky.app/profile/cnbc.com/post/3mayvwndlqp23)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@bloomberg.com
 
-避難所の段ボールベッド 早期設置で血栓割合低く 能登半島地震
-https://news.web.nhk/newsweb/na/na-k10015015641000
+See if the high annual fees on the Chase Sapphire Reserve or American Express Platinum deliver enough travel and other benefits for your spending habits
 
-[2025-12-28 07:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mayt32zasp22)
+[2025-12-28 08:00:16](https://bsky.app/profile/bloomberg.com/post/3mayvwmsywu2w)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@apnews.com
 
-千代田線 代々木上原～霞ケ関 運転見合わせ
-https://news.web.nhk/newsweb/na/na-k10015015731000
+The U.S. Geological Survey says a magnitude 6.6 earthquake has hit Taiwan just off its northeast coast.
 
-[2025-12-28 07:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maysvpms2x2s)
+[2025-12-28 08:00:10](https://bsky.app/profile/apnews.com/post/3mayvwhaodq26)
+
+---
+
+@washingtonpost.com
+
+The partygoers in Seoul bopped their heads to club beats. The vibes were just like a typical night out. Except it was 9 o’clock. In the morning. And the drinks? Iced Americanos.
+
+[2025-12-28 08:00:08](https://bsky.app/profile/washingtonpost.com/post/3mayvwf3jm22b)
+
+---
+
+@aljazeera.com
+
+Authorities in the enclave warn that the downpour could intensify into a full-blown storm.
+
+[2025-12-28 08:00:04](https://bsky.app/profile/aljazeera.com/post/3mayvwbards2d)
+
+---
+
+@japan.reuters.com
+
+中国南部の海南島では、黄花梨と呼ばれる希少なローズウッドの樹木を撮影し、デジタル資産に転換する取り組みが進んでいる。 bit.ly/4jbQqao
+
+[2025-12-28 07:57:05](https://bsky.app/profile/japan.reuters.com/post/3mayvqwqrx52f)
 
 ---
 
