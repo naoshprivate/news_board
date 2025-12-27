@@ -1,9 +1,9 @@
-# [2025-12-28 05:30 updated](2025_12_28.md)
+# [2025-12-28 05:50 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Brazil's former President Bolsonaro has surgery to treat hiccups, wife says reut.rs/3L4JYFO <a href="https://bsky.app/profile/reuters.com/post/3maynbad56g24" target="_blank">reuters.com</a> (2025-12-28 05:25:08)</span><span style="padding-right:50px;">The rapid build-out of data centers is stoking fears of a growing bubble in AI infrastructure <a href="https://bsky.app/profile/wsj.com/post/3maymgn7xyw2i" target="_blank">wsj.com</a> (2025-12-28 05:10:16)</span><span style="padding-right:50px;">India's Zepto files for IPO as quick-commerce race heats up reut.rs/4sbxUmR <a href="https://bsky.app/profile/reuters.com/post/3maym5hcahv2y" target="_blank">reuters.com</a> (2025-12-28 05:05:08)</span><span style="padding-right:50px;">AI-powered children’s toys have hit shelves, claiming to rely on sophisticated chatbots to animate interactive robots and stuffed animals that can converse with kids. NBC News' Kevin Collier, along with the Public Interest Research Group, tested AI toys for kids and asked each toy questions. <a href="https://bsky.app/profile/nbcnews.com/post/3maylxswlr42x" target="_blank">nbcnews.com</a> (2025-12-28 05:01:59)</span><span style="padding-right:50px;">You might expect sunny-all-year states to offer the best elite golf courses, but there are possible surprises within the Golfweek's Best rankings. <a href="https://bsky.app/profile/usatoday.com/post/3maylvp7yd32s" target="_blank">usatoday.com</a> (2025-12-28 05:00:48)</span>
+<span style="padding-right:50px;">On the night of his inauguration, President Trump signed an executive order that froze almost all international assistance. Now, the future of U.S. foreign assistance looks very different. <a href="https://bsky.app/profile/npr.org/post/3mayoe7ptma25" target="_blank">npr.org</a> (2025-12-28 05:44:42)</span><span style="padding-right:50px;">From booming metros to culture-defining exports, the South has become a demographic powerhouse — and a battleground for American identity <a href="https://bsky.app/profile/bloomberg.com/post/3maynwmjt5e27" target="_blank">bloomberg.com</a> (2025-12-28 05:37:06)</span><span style="padding-right:50px;">Chevy Chase revealed he was in a coma for eight days after experiencing heart failure, new CNN documentary "I'm Chevy Chase and You're Not" revealed. <a href="https://bsky.app/profile/usatoday.com/post/3maynkbtxnw2t" target="_blank">usatoday.com</a> (2025-12-28 05:30:12)</span><span style="padding-right:50px;">Brazil's former President Bolsonaro has surgery to treat hiccups, wife says reut.rs/3L4JYFO <a href="https://bsky.app/profile/reuters.com/post/3maynbad56g24" target="_blank">reuters.com</a> (2025-12-28 05:25:08)</span><span style="padding-right:50px;">The rapid build-out of data centers is stoking fears of a growing bubble in AI infrastructure <a href="https://bsky.app/profile/wsj.com/post/3maymgn7xyw2i" target="_blank">wsj.com</a> (2025-12-28 05:10:16)</span>
   </div>
 </div>
 
@@ -32,15 +32,39 @@
 
 ## News Headlines
 
-- Brazil's Former President Bolsonaro Undergoes Surgery for Hiccups
-- India's Zepto Files for IPO Amid Quick-Commerce Boom
-- AI-Powered Toys for Kids Claim to Promote Interactive Learning
-- New York City Mayor Promises Reform Amid Police Department's Stability
-- US Destroys Alleged Narco-Terrorist Vessel, Repatriates Survivors
-- Major Airlines Cancel Hundreds of Flights Ahead of Heavy Snowstorm
+- US Freezes International Assistance on Trump's Inauguration Night
+- The South: A Demographic Powerhouse and Battleground for American Identity
+- Chevy Chase Reveals Heart Failure Coma in New CNN Documentary
+- Brazil's Ex-President Bolsonaro Undergoes Surgery for Hiccups
+- Growing Concerns Over AI Infrastructure Bubble
+- New AI-Powered Children's Toys Raise Concerns Over Kids' Interactions
 
 
 ----
+
+@npr.org
+
+On the night of his inauguration, President Trump signed an executive order that froze almost all international assistance. Now, the future of U.S. foreign assistance looks very different.
+
+[2025-12-28 05:44:42](https://bsky.app/profile/npr.org/post/3mayoe7ptma25)
+
+---
+
+@bloomberg.com
+
+From booming metros to culture-defining exports, the South has become a demographic powerhouse — and a battleground for American identity
+
+[2025-12-28 05:37:06](https://bsky.app/profile/bloomberg.com/post/3maynwmjt5e27)
+
+---
+
+@usatoday.com
+
+Chevy Chase revealed he was in a coma for eight days after experiencing heart failure, new CNN documentary "I'm Chevy Chase and You're Not" revealed.
+
+[2025-12-28 05:30:12](https://bsky.app/profile/usatoday.com/post/3maynkbtxnw2t)
+
+---
 
 @reuters.com
 
@@ -96,30 +120,6 @@ https://cnn.it/4qsn2iI
 In blowing up an alleged narco-terrorists’ boat, destroying evidence and repatriating the survivors, the U.S. cut short a process that’s helped bring down traffickers.
 
 [2025-12-28 05:00:12](https://bsky.app/profile/washingtonpost.com/post/3maylumyd3y2e)
-
----
-
-@npr.org
-
-Fresh Air's book critic says her picks tilt a bit to nonfiction, but the novels that made the cut redress the imbalance by their sweep and intensity. Karen Russell's The Antidote was her favorite.
-
-[2025-12-28 04:59:32](https://bsky.app/profile/npr.org/post/3mayltgxia32g)
-
----
-
-@nytimes.com
-
-To avoid the ripple effects of the heavy snow forecast to fall in the New York City area on Friday and Saturday, major airlines said they pre-emptively canceled hundreds of flights. The worst of the storm missed the city, but many holiday travelers were still left struggling to change their plans.
-
-[2025-12-28 04:53:59](https://bsky.app/profile/nytimes.com/post/3mayljjbjuc26)
-
----
-
-@reuters.com
-
-Late drama as Uganda and Tanzania settle for 1-1 draw in Rabat reut.rs/3KSJ1Al
-
-[2025-12-28 04:45:10](https://bsky.app/profile/reuters.com/post/3maykzrkd2b2y)
 
 ---
 
