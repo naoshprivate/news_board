@@ -1,9 +1,9 @@
-# [2025-12-27 15:50 updated](2025_12_27.md)
+# [2025-12-27 16:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Bowl roundup: Minnesota nips New Mexico in OT reut.rs/49aLuhz <a href="https://bsky.app/profile/reuters.com/post/3max7h2n2mz2b" target="_blank">reuters.com</a> (2025-12-27 15:45:11)</span><span style="padding-right:50px;">米プロバスケットボール協会（ＮＢＡ）は２６日、各地で試合を行い、東地区首位のピストンズはジャズに１２９─１３１で競り負けた。 bit.ly/3NisWEB <a href="https://bsky.app/profile/japan.reuters.com/post/3max75n7pug2n" target="_blank">japan.reuters.com</a> (2025-12-27 15:39:56)</span><span style="padding-right:50px;">南アフリカ東部の港町ダーバン。子ども３人を育てる父親ドゥバンドレラさん（５６）は、７月、２０歳の息子がロシアでのＶＩＰ警護の精鋭訓練に応募したとき、誇らしさで胸がいっぱいになった。 bit.ly/3MUQZtl <a href="https://bsky.app/profile/japan.reuters.com/post/3max73qbjp32c" target="_blank">japan.reuters.com</a> (2025-12-27 15:38:52)</span><span style="padding-right:50px;">Thousands of US flights disrupted as winter storm looms <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3max6zemokk2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 15:37:31)</span><span style="padding-right:50px;">BREAKING: Thailand and Cambodia said they have signed a ⁠ceasefire ​agreement to end weeks of fierce fighting along their border that has killed more than 100 people and displaced more than half a million civilians in both countries aje.io/hu2v3f <a href="https://bsky.app/profile/aljazeera.com/post/3max6pfookk2o" target="_blank">aljazeera.com</a> (2025-12-27 15:31:58)</span>
+<span style="padding-right:50px;">The hidden victims of Congo's war reut.rs/49u2TD9 <a href="https://bsky.app/profile/reuters.com/post/3maxakpwrov2i" target="_blank">reuters.com</a> (2025-12-27 16:05:08)</span><span style="padding-right:50px;">A group of Venezuelans who were sent to a maximum-security El Salvador prison from the US and then returned to Venezuela called for the US to comply with a ruling that would allow them to challenge their deportation in US courts.  <a href="https://bsky.app/profile/cnn.com/post/3maxaf5jawm2x" target="_blank">cnn.com</a> (2025-12-27 16:02:01)</span><span style="padding-right:50px;">🛎️文春より【スクープ】です。  《林芳正・総務大臣がお詫び釈明》週刊文春がつかんだ「運動員買収」疑惑の実態…秘書らが組織的に関与していた！ 現役市議の“重要証言”「指示があって、お金が来るから」 (2025-12-27 16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxacvq6eu2r" target="_blank">sokuho.news</a> (2025-12-27 16:00:46)</span><span style="padding-right:50px;">Damola Adamolekun rose to popularity after becoming Red Lobster’s youngest CEO in August 2024, helping the restaurant chain recover from Chapter 11 bankruptcy.  “In anything you do, you need to recognize your strengths and your weaknesses,” the 36-year-old says. <a href="https://bsky.app/profile/cnbc.com/post/3maxacryqrv24" target="_blank">cnbc.com</a> (2025-12-27 16:00:42)</span><span style="padding-right:50px;">Root hails England's bravery in Melbourne Ashes win reut.rs/4pfU1pA <a href="https://bsky.app/profile/reuters.com/post/3maxaco4bqe2i" target="_blank">reuters.com</a> (2025-12-27 16:00:38)</span>
   </div>
 </div>
 
@@ -33,14 +33,86 @@
 ## News Headlines
 
 - Thousands of US flights disrupted as winter storm looms
+- US-backed airstrikes in Nigeria hit two ISIS-linked camps, government says
 - Thailand and Cambodia agree ceasefire after weeks of deadly clashes
 - China passes revised foreign trade law to bolster trade war capabilities
-- Ukraine's capital Kiev hit by large-scale Russian attack
-- NBA roundup: Jaylen Brown extends scoring streak as Celtics top Pacers
-- Thailand and Cambodia sign ceasefire to end border conflict
+- Shale drillers have turned the Permian Basin of West Texas and New Mexico into a pressure cooker that is literally bursting at the seams
+- President Touadera's decision to stand for a third term has drawn criticism from opposition groups and civil society
 
 
 ----
+
+@reuters.com
+
+The hidden victims of Congo's war reut.rs/49u2TD9
+
+[2025-12-27 16:05:08](https://bsky.app/profile/reuters.com/post/3maxakpwrov2i)
+
+---
+
+@cnn.com
+
+A group of Venezuelans who were sent to a maximum-security El Salvador prison from the US and then returned to Venezuela called for the US to comply with a ruling that would allow them to challenge their deportation in US courts. 
+
+[2025-12-27 16:02:01](https://bsky.app/profile/cnn.com/post/3maxaf5jawm2x)
+
+---
+
+@sokuho.news
+
+🛎️文春より【スクープ】です。
+
+《林芳正・総務大臣がお詫び釈明》週刊文春がつかんだ「運動員買収」疑惑の実態…秘書らが組織的に関与していた！ 現役市議の“重要証言”「指示があって、お金が来るから」
+(2025-12-27 16:00) #ニュース
+
+[2025-12-27 16:00:46](https://bsky.app/profile/sokuho.news/post/3maxacvq6eu2r)
+
+---
+
+@cnbc.com
+
+Damola Adamolekun rose to popularity after becoming Red Lobster’s youngest CEO in August 2024, helping the restaurant chain recover from Chapter 11 bankruptcy.
+
+“In anything you do, you need to recognize your strengths and your weaknesses,” the 36-year-old says.
+
+[2025-12-27 16:00:42](https://bsky.app/profile/cnbc.com/post/3maxacryqrv24)
+
+---
+
+@reuters.com
+
+Root hails England's bravery in Melbourne Ashes win reut.rs/4pfU1pA
+
+[2025-12-27 16:00:38](https://bsky.app/profile/reuters.com/post/3maxaco4bqe2i)
+
+---
+
+@sokuho.news
+
+🛎️文春より【スクープ】です。
+
+〈林芳正総務大臣が謝罪〉訂正を行った「実態のない労務費」とは？→架空の「ポスター監視代」が支払われていた スタッフは「監視なんて、しとらんよ」【“公選法違反”疑惑】
+(2025-12-27 16:00) #ニュース
+
+[2025-12-27 16:00:27](https://bsky.app/profile/sokuho.news/post/3maxacddwdp2b)
+
+---
+
+@apnews.com
+
+Tyler Perry faces a lawsuit for sexual assault by actor Mario Rodriguez, marking the second such case against him recently.
+
+[2025-12-27 16:00:09](https://bsky.app/profile/apnews.com/post/3maxabstcjc22)
+
+---
+
+@wsj.com
+
+Dealmakers are setting up trusts in the state to avoid paying taxes on carried interest. on.wsj.com/4pZnHsb
+
+[2025-12-27 15:59:30](https://bsky.app/profile/wsj.com/post/3maxaansgjy2t)
+
+---
 
 @reuters.com
 
@@ -55,77 +127,6 @@ Bowl roundup: Minnesota nips New Mexico in OT reut.rs/49aLuhz
 米プロバスケットボール協会（ＮＢＡ）は２６日、各地で試合を行い、東地区首位のピストンズはジャズに１２９─１３１で競り負けた。 bit.ly/3NisWEB
 
 [2025-12-27 15:39:56](https://bsky.app/profile/japan.reuters.com/post/3max75n7pug2n)
-
----
-
-@japan.reuters.com
-
-南アフリカ東部の港町ダーバン。子ども３人を育てる父親ドゥバンドレラさん（５６）は、７月、２０歳の息子がロシアでのＶＩＰ警護の精鋭訓練に応募したとき、誇らしさで胸がいっぱいになった。 bit.ly/3MUQZtl
-
-[2025-12-27 15:38:52](https://bsky.app/profile/japan.reuters.com/post/3max73qbjp32c)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Thousands of US flights disrupted as winter storm looms
-
-[2025-12-27 15:37:31](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3max6zemokk2e)
-
----
-
-@aljazeera.com
-
-<strong><span style="color: red;">BREAKING:</span> Thailand and Cambodia said they have signed a ⁠ceasefire ​agreement to end weeks of fierce fighting along their border that has killed more than 100 people and displaced more than half a million civilians in both countries aje.io/hu2v3f</strong>
-
-[2025-12-27 15:31:58](https://bsky.app/profile/aljazeera.com/post/3max6pfookk2o)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Susanna Liew: The pastor's wife who took on Malaysia's government over her missing husband Raymond Koh
-
-[2025-12-27 15:30:54](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3max6njbm7q27)
-
----
-
-@nikkei.com
-
-マネーフォワード経営陣　「1冊全部読もうとしない」
-www.nikkei.com/article/DGXZQO...
-
-読書量の多い伊藤さんは「本の構成には起伏がある。そこをつかめれば1ページ熟読するだけでもいい」
- 
-一方、竹田さんは判断の軸になる知識を、信頼できる1冊から深く得るスタイルです。
-
-中出さんはオーディオブックで耳から情報を入れるタイプ。三者三様の読書形式に迫ります。
-
-[2025-12-27 15:30:40](https://bsky.app/profile/nikkei.com/post/3max6n3437n2n)
-
----
-
-@reuters.com
-
-U.S.-backed airstrikes in Nigeria hit two ISIS-linked camps, government says reut.rs/48TZPQC
-
-[2025-12-27 15:30:20](https://bsky.app/profile/reuters.com/post/3max6mipbjy2y)
-
----
-
-@japan.reuters.com
-
-カンボジア国防省は２７日、タイとカンボジアは、国境地帯での軍事衝突を巡り、停戦に合意したと明らかにした。 bit.ly/4pe03a6
-
-[2025-12-27 15:30:16](https://bsky.app/profile/japan.reuters.com/post/3max6meluyb25)
-
----
-
-@aljazeera.com
-
-UK plans to boost ranks of armed forces by offering young people paid military experience amid growing Russian threats.
-
-[2025-12-27 15:30:03](https://bsky.app/profile/aljazeera.com/post/3max6ly3l232h)
 
 ---
 
