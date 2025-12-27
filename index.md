@@ -1,9 +1,9 @@
-# [2025-12-27 22:10 updated](2025_12_27.md)
+# [2025-12-27 22:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">K-Pop groups before “Demon Hunters” sold millions of albums, but weren’t household names. on.wsj.com/3Yg3P7T <a href="https://bsky.app/profile/wsj.com/post/3maxumi74342r" target="_blank">wsj.com</a> (2025-12-27 22:04:02)</span><span style="padding-right:50px;">🇨🇮 Ivory Coast is holding  legislative elections on Saturday, two months after 83-year-old Alassane Ouattara won a presidential ballot that extended his 14-year rule.  ➡️ u.afp.com/S8eZ <a href="https://bsky.app/profile/en.afp.com/post/3maxuly4o742v" target="_blank">en.afp.com</a> (2025-12-27 22:03:45)</span><span style="padding-right:50px;">記憶を忘れるのはなぜ？　「大事な情報」残すメカニズム www.nikkei.com/article/DGXZQO...  #2025年読まれた記事 <a href="https://bsky.app/profile/nikkei.com/post/3maxuggiied2m" target="_blank">nikkei.com</a> (2025-12-27 22:00:39)</span><span style="padding-right:50px;">Pakistan's first female central bank head  Shamshad Akhtar dies at 71 reut.rs/49gUyS8 <a href="https://bsky.app/profile/reuters.com/post/3maxugb4hwy2r" target="_blank">reuters.com</a> (2025-12-27 22:00:33)</span><span style="padding-right:50px;">Former Meta COO Sheryl Sandberg warned that public displays of misogyny and “tech bro” rhetoric are damaging corporate culture.  She says corporate climate is 'one of the worst' ever and there is no excuse for companies to backslide on efforts to level career playing field. <a href="https://bsky.app/profile/cnbc.com/post/3maxufpw6tb2e" target="_blank">cnbc.com</a> (2025-12-27 22:00:15)</span>
+<span style="padding-right:50px;">Facing sanctions pressure and still reeling from war with Israel, Iran’s regime is tolerating women shunning hijabs, even as it cracks down on political dissent. <a href="https://bsky.app/profile/wsj.com/post/3maxvplwgku2s" target="_blank">wsj.com</a> (2025-12-27 22:23:40)</span><span style="padding-right:50px;">At least 15 dead, 19 injured in Guatemala bus accident reut.rs/3YKiubt <a href="https://bsky.app/profile/reuters.com/post/3maxuxlqgsk2i" target="_blank">reuters.com</a> (2025-12-27 22:10:15)</span><span style="padding-right:50px;">K-Pop groups before “Demon Hunters” sold millions of albums, but weren’t household names. on.wsj.com/3Yg3P7T <a href="https://bsky.app/profile/wsj.com/post/3maxumi74342r" target="_blank">wsj.com</a> (2025-12-27 22:04:02)</span><span style="padding-right:50px;">🇨🇮 Ivory Coast is holding  legislative elections on Saturday, two months after 83-year-old Alassane Ouattara won a presidential ballot that extended his 14-year rule.  ➡️ u.afp.com/S8eZ <a href="https://bsky.app/profile/en.afp.com/post/3maxuly4o742v" target="_blank">en.afp.com</a> (2025-12-27 22:03:45)</span><span style="padding-right:50px;">記憶を忘れるのはなぜ？　「大事な情報」残すメカニズム www.nikkei.com/article/DGXZQO...  #2025年読まれた記事 <a href="https://bsky.app/profile/nikkei.com/post/3maxuggiied2m" target="_blank">nikkei.com</a> (2025-12-27 22:00:39)</span>
   </div>
 </div>
 
@@ -32,15 +32,31 @@
 
 ## News Headlines
 
-- Ivory Coast Holds Legislative Elections Amid Extended Rule of Alassane Ouattara
-- Pakistan's First Female Central Bank Head Shamshad Akhtar Dies at 71
-- Public Displays of Misogyny Damage Corporate Culture, Warns Sheryl Sandberg
-- Denver Broncos Clinch Playoff Spot, But Coach Sean Payton Insists Goals Remain Unmet
-- Ukraine's Mental Health System Overwhelmed by Reality of War, Turns to Nature for Healing
-- Rare Earths in the Cook Islands: US and China Court Small Pacific Nation
+- Iran tolerates women shunning hijabs as regime faces sanctions pressure
+- At least 15 dead, 19 injured in Guatemala bus accident
+- Ivory Coast to hold legislative elections after presidential win
+- Pakistan's first female central bank head dies at 71
+- Ukrainian mental health system overwhelmed by war realities
+- Cook Islands courted by US and China for rare earth resources
 
 
 ----
+
+@wsj.com
+
+Facing sanctions pressure and still reeling from war with Israel, Iran’s regime is tolerating women shunning hijabs, even as it cracks down on political dissent.
+
+[2025-12-27 22:23:40](https://bsky.app/profile/wsj.com/post/3maxvplwgku2s)
+
+---
+
+@reuters.com
+
+At least 15 dead, 19 injured in Guatemala bus accident reut.rs/3YKiubt
+
+[2025-12-27 22:10:15](https://bsky.app/profile/reuters.com/post/3maxuxlqgsk2i)
+
+---
 
 @wsj.com
 
@@ -113,22 +129,6 @@ Sharpen your focus with today’s Alphadots puzzle — the daily word game from 
 🎯 Play now:
 
 [2025-12-27 22:00:09](https://bsky.app/profile/bloomberg.com/post/3maxufk43ye24)
-
----
-
-@wsj.com
-
-The Cook Islands—population 15,000—are being courted by the U.S. and China as the two superpowers hunt for rare earths.
-
-[2025-12-27 21:54:32](https://bsky.app/profile/wsj.com/post/3maxu3ix3mh2i)
-
----
-
-@npr.org
-
-This is the first time Pantone has chosen a shade of white. The company says it's "a lofty white that serves as a symbol of calming influence in a society rediscovering the value of quiet reflection."
-
-[2025-12-27 21:54:30](https://bsky.app/profile/npr.org/post/3maxu3gycoy2g)
 
 ---
 
