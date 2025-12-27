@@ -1,9 +1,9 @@
-# [2025-12-27 09:30 updated](2025_12_27.md)
+# [2025-12-27 09:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Amorim praises Man United spirit in win over Newcastle reut.rs/4b98U9B <a href="https://bsky.app/profile/reuters.com/post/3mawk7hes4n2y" target="_blank">reuters.com</a> (2025-12-27 09:25:08)</span><span style="padding-right:50px;">トランプ米大統領は、週末に予定されている...ウクライナのゼレンスキー大統領との会談を前に、「私が承認するまで、彼は何もできない」と語った。ポリティコのインタビューに応じた。 bit.ly/4jlrAVW <a href="https://bsky.app/profile/japan.reuters.com/post/3mawjnr54s42c" target="_blank">japan.reuters.com</a> (2025-12-27 09:15:14)</span><span style="padding-right:50px;">Union chief backs calls for a UK-EU customs union ft.trib.al/USXd1eF <a href="https://bsky.app/profile/financialtimes.com/post/3mawjiznu3d2y" target="_blank">financialtimes.com</a> (2025-12-27 09:12:35)</span><span style="padding-right:50px;">Ryan Wedding rose to fame as a Canadian Olympic athlete. The authorities say he became one of the world’s biggest drug lords, who ordered an informant executed. <a href="https://bsky.app/profile/nytimes.com/post/3mawjegjx6f2b" target="_blank">nytimes.com</a> (2025-12-27 09:10:01)</span><span style="padding-right:50px;">Russia says it captures village in Zaporizhzhia, Ukraine defending major town reut.rs/3Yebcwv <a href="https://bsky.app/profile/reuters.com/post/3mawj3q36x42o" target="_blank">reuters.com</a> (2025-12-27 09:05:09)</span>
+<span style="padding-right:50px;">サッカーのベルギー１部は２６日、各地で試合を行い、ゲンクの伊東純也は復帰戦となったホームのクラブ・ブリュージュ戦でゴールを決めた。 bit.ly/4sktCJW <a href="https://bsky.app/profile/japan.reuters.com/post/3mawlens6sv25" target="_blank">japan.reuters.com</a> (2025-12-27 09:45:56)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山形新幹線の窓ガラスにヒビ つばさ128号が山形～新庄間で終日運休 (2025-12-27 09:41:00) #ニュース  🚄鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3mawleeifhg2b" target="_blank">sokuho.news</a> (2025-12-27 09:45:46)</span><span style="padding-right:50px;">２０２５年最後の週の米国株式市場は、最高値を更新してさらなる節目に近づき、強気基調で終えると期待されている。市場に影響を与えそうな注目材料は３０日発表の米連邦公開市場委員会（ＦＯＭＣ）議事要旨（１２月開催分）。年末のポートフォリオ調整も、取引が少ない中で市場の変動を大きくする可能性がある。 bit.ly/4p6Dx2J <a href="https://bsky.app/profile/japan.reuters.com/post/3mawldeu3kf2s" target="_blank">japan.reuters.com</a> (2025-12-27 09:45:13)</span><span style="padding-right:50px;">England bowler Atkinson comes off injured in Melbourne test reut.rs/4p98e7H <a href="https://bsky.app/profile/reuters.com/post/3mawl2lzbb52p" target="_blank">reuters.com</a> (2025-12-27 09:40:19)</span><span style="padding-right:50px;">サッカーのイングランド・プレミアリーグは２６日、１試合を行い、マンチェスター・ユナイテッド（マンＵ）はホームでニューカッスルを１─０で下した。 bit.ly/4poyriM <a href="https://bsky.app/profile/japan.reuters.com/post/3mawkyyu7y52f" target="_blank">japan.reuters.com</a> (2025-12-27 09:39:25)</span>
   </div>
 </div>
 
@@ -32,100 +32,111 @@
 
 ## News Headlines
 
-- Amorim praises Man United spirit in win over Newcastle
-- Trump says Zelensky can't do anything without US approval
-- UK-EU customs union backed by union chief
-- Russia captures village in Zaporizhzhia, Ukraine
-- Perry Bamonte, guitarist and keyboardist for The Cure, dies at 65
-- US to screen visa applicants for anti-American online speech
+- Belgian Football Team Scores First Home Win
+- Train Collision Forces Hokkaido Train to Halt Operations
+- US Stock Market Rises to Record High Ahead of FOMC Meeting
+- England Cricketer Atkinson Injured in Melbourne Test
+- Manchester United Beats Newcastle United 1-0 in Premier League
+- Earthquake Hits Hokkaido, Japan, No Tsunami Warning Issued
 
 
 ----
 
-@reuters.com
+@japan.reuters.com
 
-Amorim praises Man United spirit in win over Newcastle reut.rs/4b98U9B
+サッカーのベルギー１部は２６日、各地で試合を行い、ゲンクの伊東純也は復帰戦となったホームのクラブ・ブリュージュ戦でゴールを決めた。 bit.ly/4sktCJW
 
-[2025-12-27 09:25:08](https://bsky.app/profile/reuters.com/post/3mawk7hes4n2y)
+[2025-12-27 09:45:56](https://bsky.app/profile/japan.reuters.com/post/3mawlens6sv25)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】山形新幹線の窓ガラスにヒビ つばさ128号が山形～新庄間で終日運休
+(2025-12-27 09:41:00) #ニュース
+
+🚄鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-27 09:45:46](https://bsky.app/profile/sokuho.news/post/3mawleeifhg2b)
 
 ---
 
 @japan.reuters.com
 
-トランプ米大統領は、週末に予定されている...ウクライナのゼレンスキー大統領との会談を前に、「私が承認するまで、彼は何もできない」と語った。ポリティコのインタビューに応じた。 bit.ly/4jlrAVW
+２０２５年最後の週の米国株式市場は、最高値を更新してさらなる節目に近づき、強気基調で終えると期待されている。市場に影響を与えそうな注目材料は３０日発表の米連邦公開市場委員会（ＦＯＭＣ）議事要旨（１２月開催分）。年末のポートフォリオ調整も、取引が少ない中で市場の変動を大きくする可能性がある。 bit.ly/4p6Dx2J
 
-[2025-12-27 09:15:14](https://bsky.app/profile/japan.reuters.com/post/3mawjnr54s42c)
-
----
-
-@financialtimes.com
-
-Union chief backs calls for a UK-EU customs union ft.trib.al/USXd1eF
-
-[2025-12-27 09:12:35](https://bsky.app/profile/financialtimes.com/post/3mawjiznu3d2y)
-
----
-
-@nytimes.com
-
-Ryan Wedding rose to fame as a Canadian Olympic athlete. The authorities say he became one of the world’s biggest drug lords, who ordered an informant executed.
-
-[2025-12-27 09:10:01](https://bsky.app/profile/nytimes.com/post/3mawjegjx6f2b)
+[2025-12-27 09:45:13](https://bsky.app/profile/japan.reuters.com/post/3mawldeu3kf2s)
 
 ---
 
 @reuters.com
 
-Russia says it captures village in Zaporizhzhia, Ukraine defending major town reut.rs/3Yebcwv
+England bowler Atkinson comes off injured in Melbourne test reut.rs/4p98e7H
 
-[2025-12-27 09:05:09](https://bsky.app/profile/reuters.com/post/3mawj3q36x42o)
-
----
-
-@nytimes.com
-
-Perry Bamonte, a guitarist and keyboard player in the Cure, has died. He was 65.
-
-[2025-12-27 09:05:02](https://bsky.app/profile/nytimes.com/post/3mawj3iwvlb2s)
+[2025-12-27 09:40:19](https://bsky.app/profile/reuters.com/post/3mawl2lzbb52p)
 
 ---
 
 @japan.reuters.com
 
-ウクライナのゼレンスキー大統領は２６日、アクシオスに対し、２８日のトランプ米大統領との会談では、ウクライナ軍がドンバスから完全撤退するという米国の提案について、トランプ米大統領を説得して譲歩させたいと考えていると語った。領土譲歩問題で米国を強硬姿勢に持っていくことができなければ、米国主導の「２０項目和平案」を国民投票にかけることに前向きだと語った（訂正）。ただし、その条件は、ウクライナが国民投票の準備と実施を行えるよう、ロシアが６０日間の停戦に同意することだとした。 bit.ly/49cYnb1
+サッカーのイングランド・プレミアリーグは２６日、１試合を行い、マンチェスター・ユナイテッド（マンＵ）はホームでニューカッスルを１─０で下した。 bit.ly/4poyriM
 
-[2025-12-27 09:01:03](https://bsky.app/profile/japan.reuters.com/post/3mawiuf6pz62q)
-
----
-
-@nikkei.com
-
-自動音声でだます「ボイスフィッシング」再燃
-www.nikkei.com/article/DGXZQO...
-
-金融機関をかたる電話で企業の口座情報が盗まれる被害が増えています。
-
-3月に多発していったん沈静化。11月以降に50社以上がだまされ、口座から22億円超が不正送金されたとみられます。
-
-[2025-12-27 09:00:52](https://bsky.app/profile/nikkei.com/post/3mawiu3a6yk2g)
+[2025-12-27 09:39:25](https://bsky.app/profile/japan.reuters.com/post/3mawkyyu7y52f)
 
 ---
 
-@cnbc.com
+@sokuho.news
 
-If your past was chaotic, inconsistent, and confusing, then you may be drawn to those same relationship dynamics again and again. 
+🔔防災科研より【強震モニタ】動画です。
 
-Here are five signs that the chemistry you feel might actually be a red flag.
+震源:釧路沖, 深さ:50km
+マグニチュード:3.6, 最大震度:1
+📍https://www.google.com/maps?q=42.7,144.6&ll=42.7,144.6&z=7&t=h
+地震発生日時:2025-12-27 09:33頃
+(10倍速▶120s→12s) #地震
 
-[2025-12-27 09:00:44](https://bsky.app/profile/cnbc.com/post/3mawittlphh2y)
+[2025-12-27 09:36:50](https://bsky.app/profile/sokuho.news/post/3mawkuf75rt2e)
 
 ---
 
-@usatoday.com
+@sokuho.news
 
-3 retirement savings mistakes every 50-something should avoid in 2026
+🔔気象庁より【地震速報】です。
 
-[2025-12-27 09:00:41](https://bsky.app/profile/usatoday.com/post/3mawitqaunp2l)
+9時33分頃、北海道で最大震度1の地震を観測しました。
+震源:釧路沖, 深さ:50km, 規模:M3.6
+この地震による津波の心配はありません。
+(2025-12-27 09:36:23) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/27/2025-12-27-09-33-49.html?xlarge_image=1
+
+[2025-12-27 09:36:24](https://bsky.app/profile/sokuho.news/post/3mawktmnvd62x)
+
+---
+
+@japan.reuters.com
+
+野球の日本代表「侍ジャパン」を率いる井端弘和監督は２６日、来年３月に連覇に挑戦するワールド・ベースボール・クラシック（ＷＢＣ）のメンバーのうち８選手を発表し、米大リーグ（ＭＬＢ）ドジャースの大谷翔平選手らが名を連ねた。 bit.ly/4qpRgCR
+
+[2025-12-27 09:33:56](https://bsky.app/profile/japan.reuters.com/post/3mawkp6xvpn2s)
+
+---
+
+@wsj.com
+
+Rolex has a plan to put watch flippers out of business—even if it means leaving money on the table. on.wsj.com/4qvEIKs
+
+[2025-12-27 09:32:23](https://bsky.app/profile/wsj.com/post/3mawkmg7hpz2o)
+
+---
+
+@japan.reuters.com
+
+内戦が続く中東のイエメンで２６日、分離派「南部暫定評議会」（ＳＴＣ）がサウジアラビアによる撤退の呼びかけを拒否し、東部のハドラマウト州とマハラ州の治安維持を続けると表明した。 bit.ly/4pVwHOX
+
+[2025-12-27 09:30:49](https://bsky.app/profile/japan.reuters.com/post/3mawkjmtjff2u)
 
 ---
 
