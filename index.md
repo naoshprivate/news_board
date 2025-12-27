@@ -1,9 +1,9 @@
-# [2025-12-28 04:10 updated](2025_12_28.md)
+# [2025-12-28 04:30 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">"Seasons" is the new buzzword for young conservative women who want to start a family earlier in life and focus on professional advancement later on.wsj.com/3Ldjcei <a href="https://bsky.app/profile/wsj.com/post/3mayiztusfm23" target="_blank">wsj.com</a> (2025-12-28 04:09:25)</span><span style="padding-right:50px;">Charlie Chang started several of his passive income streams — which now gross an average of $114,000 per month — with $0 down.  He shares four passive income businesses you can start for "less than $100." <a href="https://bsky.app/profile/cnbc.com/post/3mayik4udvx2y" target="_blank">cnbc.com</a> (2025-12-28 04:00:38)</span><span style="padding-right:50px;">Top gamers leave e-sports brand on Christmas. What is FaZe Clan? <a href="https://bsky.app/profile/usatoday.com/post/3mayijnic4b2w" target="_blank">usatoday.com</a> (2025-12-28 04:00:22)</span><span style="padding-right:50px;">A fire tore through the historic Old Port waterfront in Portland, Maine, on Friday night, damaging aging buildings and several boats along Custom House Wharf, authorities said. <a href="https://bsky.app/profile/apnews.com/post/3mayijlobiu2d" target="_blank">apnews.com</a> (2025-12-28 04:00:20)</span><span style="padding-right:50px;">Corporate bankruptcies surged in 2025, rivaling levels not seen since the immediate aftermath of the Great Recession, as import-dependent businesses absorbed the highest tariffs in decades. <a href="https://bsky.app/profile/washingtonpost.com/post/3mayijej74j2g" target="_blank">washingtonpost.com</a> (2025-12-28 04:00:12)</span>
+<span style="padding-right:50px;">Jeffrey Holland, next in line to lead the Church of Jesus Christ of Latter-Day Saints, dies at 85 reut.rs/4p9Y2eT <a href="https://bsky.app/profile/reuters.com/post/3mayjvxetht2i" target="_blank">reuters.com</a> (2025-12-28 04:25:09)</span><span style="padding-right:50px;">Photographs help us look back on the moments that defined the year. Taken by NPR photojournalists nationwide, this collection goes beyond the headlines to reveal quietly powerful human stories. <a href="https://bsky.app/profile/npr.org/post/3mayjcy5p2c2e" target="_blank">npr.org</a> (2025-12-28 04:14:32)</span><span style="padding-right:50px;">"Seasons" is the new buzzword for young conservative women who want to start a family earlier in life and focus on professional advancement later on.wsj.com/3Ldjcei <a href="https://bsky.app/profile/wsj.com/post/3mayiztusfm23" target="_blank">wsj.com</a> (2025-12-28 04:09:25)</span><span style="padding-right:50px;">Charlie Chang started several of his passive income streams — which now gross an average of $114,000 per month — with $0 down.  He shares four passive income businesses you can start for "less than $100." <a href="https://bsky.app/profile/cnbc.com/post/3mayik4udvx2y" target="_blank">cnbc.com</a> (2025-12-28 04:00:38)</span><span style="padding-right:50px;">Top gamers leave e-sports brand on Christmas. What is FaZe Clan? <a href="https://bsky.app/profile/usatoday.com/post/3mayijnic4b2w" target="_blank">usatoday.com</a> (2025-12-28 04:00:22)</span>
   </div>
 </div>
 
@@ -32,15 +32,31 @@
 
 ## News Headlines
 
-- Young Conservative Women Embracing 'Seasons' Lifestyle for Family and Career
-- Top Gamers Leave E-Sports Brand FaZe Clan on Christmas
-- Historic Fire Destroys Old Port Waterfront in Portland, Maine
-- Global Corporate Bankruptcies Surge to Levels Seen Since Great Recession
-- Israel's Recognition of Somaliland Sparks Global Backlash
-- Australia's Social Media Ban for Children Under 16 Sparks International Debate
+- Senior Church of Jesus Christ of Latter-Day Saints Official Dies at 85
+- Photographs Capture Quietly Powerful Human Stories
+- Young Conservative Women Embracing 'Seasons' Lifestyle
+- Top Gamers Leave E-Sports Brand FaZe Clan
+- Corporate Bankruptcies Surge, Rivaling Great Recession Levels
+- Israel's Recognition of Somaliland Sparks International Outrage
 
 
 ----
+
+@reuters.com
+
+Jeffrey Holland, next in line to lead the Church of Jesus Christ of Latter-Day Saints, dies at 85 reut.rs/4p9Y2eT
+
+[2025-12-28 04:25:09](https://bsky.app/profile/reuters.com/post/3mayjvxetht2i)
+
+---
+
+@npr.org
+
+Photographs help us look back on the moments that defined the year. Taken by NPR photojournalists nationwide, this collection goes beyond the headlines to reveal quietly powerful human stories.
+
+[2025-12-28 04:14:32](https://bsky.app/profile/npr.org/post/3mayjcy5p2c2e)
+
+---
 
 @wsj.com
 
@@ -105,22 +121,6 @@ Since Australia this month barred children under 16 from using social media, par
 WRPAUP 1 Soccer-Arsenal respond to Man City challenge with narrow win reut.rs/48TTTXO
 
 [2025-12-28 03:45:10](https://bsky.app/profile/reuters.com/post/3mayhoi5vmo2o)
-
----
-
-@reuters.com
-
-Italy arrests nine over alleged Hamas funding through charities reut.rs/3Lg5BTz
-
-[2025-12-28 03:35:08](https://bsky.app/profile/reuters.com/post/3mayh4jjutf2c)
-
----
-
-@usatoday.com
-
-Perry Bamonte, a celebrated guitarist and keyboardist who performed with The Cure, has died. He was 65.
-
-[2025-12-28 03:30:22](https://bsky.app/profile/usatoday.com/post/3maygtytnlz2h)
 
 ---
 
