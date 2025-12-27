@@ -1,9 +1,9 @@
-# [2025-12-27 12:10 updated](2025_12_27.md)
+# [2025-12-27 12:30 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">静岡 三島の工場 15人刺傷事件 容疑者は元従業員 経緯を捜査 https://news.web.nhk/newsweb/na/na-k10015015371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawt77ykxu2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 12:06:02)</span><span style="padding-right:50px;">The Trump administration wants to control how data centers connect to the power grid. on.wsj.com/4q2lOem <a href="https://bsky.app/profile/wsj.com/post/3mawt36e5db2z" target="_blank">wsj.com</a> (2025-12-27 12:03:48)</span><span style="padding-right:50px;">Lynn Lee bounced back with a new job after every previous layoff. Can she do it again? on.wsj.com/49cS9Yu <a href="https://bsky.app/profile/wsj.com/post/3mawt2vxqjv2g" target="_blank">wsj.com</a> (2025-12-27 12:03:39)</span><span style="padding-right:50px;">帰省ラッシュ始まる 新幹線・航空・高速道路は混雑 https://news.web.nhk/newsweb/na/na-k10015015161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawszurzpr2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 12:03:02)</span><span style="padding-right:50px;">Taylor Sheridan's oil drama "Landman" premiered Nov. 16 to record-breaking numbers, setting new viewership records, Paramount+ said. <a href="https://bsky.app/profile/usatoday.com/post/3mawsxk3ko42z" target="_blank">usatoday.com</a> (2025-12-27 12:01:46)</span>
+<span style="padding-right:50px;">「トケマッチ」元代表ら オンラインカジノ関係口座に送金か https://news.web.nhk/newsweb/na/na-k10015015411000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawu22nzjw2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 12:21:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】ファミリーレストランで火事 開店作業中に出火か 店内にいた店員は全員無事確認 大阪・吹田市 (2025-12-27 12:10) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mawtzwkhl42b" target="_blank">sokuho.news</a> (2025-12-27 12:21:00)</span><span style="padding-right:50px;">China's industrial profits tumble at fastest pace in over a year reut.rs/44JPBje <a href="https://bsky.app/profile/reuters.com/post/3mawtyjvzdy2i" target="_blank">reuters.com</a> (2025-12-27 12:20:13)</span><span style="padding-right:50px;">Excessive prescription refilling by mail-order pharmacies leaves piles of unneeded pills. “Every time, there are 15 extra pills.” on.wsj.com/4pYFPT0 <a href="https://bsky.app/profile/wsj.com/post/3mawtwpxaka2s" target="_blank">wsj.com</a> (2025-12-27 12:19:12)</span><span style="padding-right:50px;">A day after part of a missile fired by the United States hit their village, landing just meters from its only medical facility, the villagers of Jabo in northwest Nigeria are in a state of shock and confusion.  <a href="https://bsky.app/profile/cnn.com/post/3mawtnh6fn32t" target="_blank">cnn.com</a> (2025-12-27 12:14:01)</span>
   </div>
 </div>
 
@@ -32,15 +32,67 @@
 
 ## News Headlines
 
-- Former employee suspected in stabbing incident at Shizuoka factory
-- US seeks to control data center connections to power grid
-- New child care programs passed in over two dozen states
-- More than 40 million Americans under winter storm warnings or advisories
-- Mexico's exports to US surge despite Trump tariffs
-- Trump says Democrats worked with Epstein, demands their names be released
+- Japan's former Tokemachi leader suspected of sending money to online casino account
+- Fire at family restaurant in Osaka, Japan, may have been caused by an accident during opening preparations
+- China sees biggest drop in industrial profits in over a year
+- Excessive prescription refilling by mail-order pharmacies leaves piles of unneeded pills
+- Missile fired by US hits village in Nigeria, causing shock and confusion
+- Former employee suspected of stabbing 15 people at factory in Shizuoka, Japan
 
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+「トケマッチ」元代表ら オンラインカジノ関係口座に送金か
+https://news.web.nhk/newsweb/na/na-k10015015411000
+
+[2025-12-27 12:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawu22nzjw2u)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】ファミリーレストランで火事 開店作業中に出火か 店内にいた店員は全員無事確認 大阪・吹田市
+(2025-12-27 12:10) #ニュース
+
+[2025-12-27 12:21:00](https://bsky.app/profile/sokuho.news/post/3mawtzwkhl42b)
+
+---
+
+@reuters.com
+
+China's industrial profits tumble at fastest pace in over a year reut.rs/44JPBje
+
+[2025-12-27 12:20:13](https://bsky.app/profile/reuters.com/post/3mawtyjvzdy2i)
+
+---
+
+@wsj.com
+
+Excessive prescription refilling by mail-order pharmacies leaves piles of unneeded pills. “Every time, there are 15 extra pills.” on.wsj.com/4pYFPT0
+
+[2025-12-27 12:19:12](https://bsky.app/profile/wsj.com/post/3mawtwpxaka2s)
+
+---
+
+@cnn.com
+
+A day after part of a missile fired by the United States hit their village, landing just meters from its only medical facility, the villagers of Jabo in northwest Nigeria are in a state of shock and confusion. 
+
+[2025-12-27 12:14:01](https://bsky.app/profile/cnn.com/post/3mawtnh6fn32t)
+
+---
+
+@japan.reuters.com
+
+米プロバスケットボール協会（ＮＢＡ）マーベリックスのスターフォワード、アンソニー・デービス（３２）が、そけい部の軽度の筋損傷により数試合を欠場する可能性が高いと、米ＥＳＰＮが２６日に報じた。 bit.ly/4pezGRg
+
+[2025-12-27 12:09:57](https://bsky.app/profile/japan.reuters.com/post/3mawtg6fmpr2f)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -73,64 +125,6 @@ Lynn Lee bounced back with a new job after every previous layoff. Can she do it 
 https://news.web.nhk/newsweb/na/na-k10015015161000
 
 [2025-12-27 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawszurzpr2y)
-
----
-
-@usatoday.com
-
-Taylor Sheridan's oil drama "Landman" premiered Nov. 16 to record-breaking numbers, setting new viewership records, Paramount+ said.
-
-[2025-12-27 12:01:46](https://bsky.app/profile/usatoday.com/post/3mawsxk3ko42z)
-
----
-
-@nikkei.com
-
-22世紀に火星移住や天気操作？　東京都が予想
-www.nikkei.com/article/DGXZQO...
-
-「暴風を防ぐ」「獣と会話する」――。
-
-1901年に報知新聞の「二十世紀の予言」に掲載された内容です。
-
-今も達成していない技術ですが、果たして100年後にはどんなことができるようになるのでしょうか。
-
-[2025-12-27 12:00:40](https://bsky.app/profile/nikkei.com/post/3mawsvl7tji2x)
-
----
-
-@bloomberg.com
-
-Pakistani officials for their part say they see no issues in maintaining close ties with both superpowers. (from the archive)
-
-[2025-12-27 12:00:12](https://bsky.app/profile/bloomberg.com/post/3mawsuqn3jj2p)
-
----
-
-@washingtonpost.com
-
-Lawmakers in about two dozen states passed new child care programs this year, often backed by business leaders concerned with recruiting and retaining workers.
-
-See which states help subsidize child care:
-
-[2025-12-27 12:00:05](https://bsky.app/profile/washingtonpost.com/post/3mawsujxrnr2e)
-
----
-
-@aljazeera.com
-
-More than 40 million Americans under winter storm warnings or weather advisories as heavy snow expected.
-
-[2025-12-27 12:00:04](https://bsky.app/profile/aljazeera.com/post/3mawsuj6er522)
-
----
-
-@nhknewsunofficial.bsky.social
-
-保護司“引き受けたくない”80％超 内閣府の世論調査
-https://news.web.nhk/newsweb/na/na-k10015015391000
-
-[2025-12-27 11:57:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mawsp4vwwp2s)
 
 ---
 
