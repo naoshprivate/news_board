@@ -1,9 +1,9 @@
-# [2025-12-27 17:50 updated](2025_12_27.md)
+# [2025-12-27 18:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">「トケマッチ」元代表ら 解散直前 預かり本数増やそうとしたか https://news.web.nhk/newsweb/na/na-k10015015481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxgcrysot26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 17:48:02)</span><span style="padding-right:50px;">Melbourne test hero Tongue says he considered retirement due to injuries reut.rs/4pVm6U2 <a href="https://bsky.app/profile/reuters.com/post/3maxfulxe4m2i" target="_blank">reuters.com</a> (2025-12-27 17:40:08)</span><span style="padding-right:50px;">全国高校ラグビー大会 開幕 東海大大阪仰星が初戦快勝 2回戦へ https://news.web.nhk/newsweb/na/na-k10015015541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxfstvv6224" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 17:39:03)</span><span style="padding-right:50px;">Sabalenka, Kyrgios relishing 'Battle of the Sexes' challenge reut.rs/497O6fZ <a href="https://bsky.app/profile/reuters.com/post/3maxflmnfqg2r" target="_blank">reuters.com</a> (2025-12-27 17:35:07)</span><span style="padding-right:50px;">2026年は9月に「土曜日＋4連休」（無料記事） www.nikkei.com/article/DGXZQO...  敬老の日（9月21日）と秋分の日（23日）に挟まれた22日が祝日法の規定で休日となります。 <a href="https://bsky.app/profile/nikkei.com/post/3maxfdmvv5w2n" target="_blank">nikkei.com</a> (2025-12-27 17:30:39)</span>
+<span style="padding-right:50px;">Veterans of investing in Russia’s volatile economy are skeptical that it is the vast land of business opportunities the Trump administration thinks it is. on.wsj.com/44JkNiy <a href="https://bsky.app/profile/wsj.com/post/3maxhj4ckbp2h" target="_blank">wsj.com</a> (2025-12-27 18:09:30)</span><span style="padding-right:50px;">The city of Milwaukee says it has finalized its efforts to stabilize nearly 100 public schools that were identified as having lead paint hazards earlier this year.  <a href="https://bsky.app/profile/cnn.com/post/3maxh7chxwu2o" target="_blank">cnn.com</a> (2025-12-27 18:04:01)</span><span style="padding-right:50px;">大阪 なんば駅近く 車が歩道に乗り上げ歩行者と衝突 3人けが https://news.web.nhk/newsweb/na/na-k10015015511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxh5lhkz42b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 18:03:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「山に火が燃え移った」安芸区上瀬野町で山火事 消防が消火活動にあたる 広島 (2025-12-27 17:57:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxh3er2jz2b" target="_blank">sokuho.news</a> (2025-12-27 18:01:49)</span><span style="padding-right:50px;">年末年始の出国ラッシュ始まる　最大9連休「思い切って海外へ」（無料記事） www.nikkei.com/article/DGXZQO...  JTBの推計によると、海外旅行に出かける人は24年から3割増の100万人に。ハワイや欧州など比較的遠方を訪れる人が増えているといいます。  鉄道の混雑も本格化。JR東海によると、東海道新幹線のピークは下りが12月27日で上りが1月3日になる見通しです。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3maxgzcnbci2m" target="_blank">nikkei.com</a> (2025-12-27 18:00:40)</span>
   </div>
 </div>
 
@@ -32,15 +32,92 @@
 
 ## News Headlines
 
-- Tokemachi founder considered dissolving company before increasing stock reserves
-- Melbourne test hero Tongue considered retirement due to injuries
-- National High School Rugby Tournament opens with Otemon Gakuin Osaka Aoyama scoring a landslide victory
-- Sabalenka and Kyrgios relish 'Battle of the Sexes' challenge
-- Fishermen in Cyprus target invasive lionfish spreading from the Red Sea to the Mediterranean
-- UN renews Sudan ceasefire appeal over 'unimaginable suffering' of civilians
+- Veterans wary of Russia's business opportunities
+- Milwaukee finalizes efforts to stabilize lead-painted schools
+- Car crashes into pedestrians near Osaka's Namba Station
+- Fire breaks out in Miyagi's Murata town
+- Fishermen target invasive lionfish in Cyprus
+- UN renews Sudan ceasefire appeal
 
 
 ----
+
+@wsj.com
+
+Veterans of investing in Russia’s volatile economy are skeptical that it is the vast land of business opportunities the Trump administration thinks it is. on.wsj.com/44JkNiy
+
+[2025-12-27 18:09:30](https://bsky.app/profile/wsj.com/post/3maxhj4ckbp2h)
+
+---
+
+@cnn.com
+
+The city of Milwaukee says it has finalized its efforts to stabilize nearly 100 public schools that were identified as having lead paint hazards earlier this year. 
+
+[2025-12-27 18:04:01](https://bsky.app/profile/cnn.com/post/3maxh7chxwu2o)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+大阪 なんば駅近く 車が歩道に乗り上げ歩行者と衝突 3人けが
+https://news.web.nhk/newsweb/na/na-k10015015511000
+
+[2025-12-27 18:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxh5lhkz42b)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】「山に火が燃え移った」安芸区上瀬野町で山火事 消防が消火活動にあたる 広島
+(2025-12-27 17:57:00) #ニュース
+
+[2025-12-27 18:01:49](https://bsky.app/profile/sokuho.news/post/3maxh3er2jz2b)
+
+---
+
+@nikkei.com
+
+年末年始の出国ラッシュ始まる　最大9連休「思い切って海外へ」（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+JTBの推計によると、海外旅行に出かける人は24年から3割増の100万人に。ハワイや欧州など比較的遠方を訪れる人が増えているといいます。
+
+鉄道の混雑も本格化。JR東海によると、東海道新幹線のピークは下りが12月27日で上りが1月3日になる見通しです。
+
+#ニュース
+
+[2025-12-27 18:00:40](https://bsky.app/profile/nikkei.com/post/3maxgzcnbci2m)
+
+---
+
+@japan.reuters.com
+
+カンボジア国防省は２７日、タイとカンボジアは、国境地帯での軍事衝突を巡り、停戦に合意したと明らかにした。 bit.ly/4qxZJEh
+
+[2025-12-27 18:00:27](https://bsky.app/profile/japan.reuters.com/post/3maxgyw4oqo2q)
+
+---
+
+@cnbc.com
+
+Frida CEO Chelsea Hirschhorn shared how she got comfortable taking risks.
+
+Her penchant for “organization and thoughtfulness” doesn’t hold her back, said Hirschhorn.
+
+[2025-12-27 18:00:18](https://bsky.app/profile/cnbc.com/post/3maxgynelap24)
+
+---
+
+@wsj.com
+
+A crop of moderate Democrats, including Sens. Mark Kelly and Ruben Gallego of Arizona, are trying to counter President Trump and progressive influence in their own party.
+
+[2025-12-27 17:50:43](https://bsky.app/profile/wsj.com/post/3maxghjet2t2k)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -56,76 +133,6 @@ https://news.web.nhk/newsweb/na/na-k10015015481000
 Melbourne test hero Tongue says he considered retirement due to injuries reut.rs/4pVm6U2
 
 [2025-12-27 17:40:08](https://bsky.app/profile/reuters.com/post/3maxfulxe4m2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-全国高校ラグビー大会 開幕 東海大大阪仰星が初戦快勝 2回戦へ
-https://news.web.nhk/newsweb/na/na-k10015015541000
-
-[2025-12-27 17:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxfstvv6224)
-
----
-
-@reuters.com
-
-Sabalenka, Kyrgios relishing 'Battle of the Sexes' challenge reut.rs/497O6fZ
-
-[2025-12-27 17:35:07](https://bsky.app/profile/reuters.com/post/3maxflmnfqg2r)
-
----
-
-@nikkei.com
-
-2026年は9月に「土曜日＋4連休」（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-敬老の日（9月21日）と秋分の日（23日）に挟まれた22日が祝日法の規定で休日となります。
-
-[2025-12-27 17:30:39](https://bsky.app/profile/nikkei.com/post/3maxfdmvv5w2n)
-
----
-
-@japan.reuters.com
-
-ウクライナの首都キーウで２７日、ロシアによる大規模な攻撃があった。市内では爆発音が響き、防空システムが作動した。ウクライナ軍は、ミサイルが投入されたと明らかにした。 bit.ly/3YdPdG4
-
-[2025-12-27 17:30:16](https://bsky.app/profile/japan.reuters.com/post/3maxfcx355u2c)
-
----
-
-@apnews.com
-
-Fishermen in Cyprus are now targeting invasive lionfish, which have spread from the Red Sea to the Mediterranean.
-
-[2025-12-27 17:30:13](https://bsky.app/profile/apnews.com/post/3maxfctmtca2q)
-
----
-
-@aljazeera.com
-
-UN renews Sudan ceasefire appeal over ‘unimaginable suffering’ of civilians https://aje.io/5tf357
-
-[2025-12-27 17:30:04](https://bsky.app/profile/aljazeera.com/post/3maxfcm4g722i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-タイ 来年2月の総選挙 立候補の届け出始まる 選挙戦が本格化
-https://news.web.nhk/newsweb/na/na-k10015015551000
-
-[2025-12-27 17:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxfclzdn32y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-地震で「備え」より「予言」が… 不安あおる“デマ” 徹底検証
-https://news.web.nhk/newsweb/na/na-k10015014311000
-
-[2025-12-27 17:27:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxf57zzf22b)
 
 ---
 
