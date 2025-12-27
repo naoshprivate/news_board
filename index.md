@@ -1,9 +1,9 @@
-# [2025-12-27 18:30 updated](2025_12_27.md)
+# [2025-12-27 18:50 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Perry Archangelo Bamonte, longtime guitarist and keyboardist for the influential goth band The Cure, has died. He was 65. The band announced his death on their official website on Friday. n.pr/4aAOyGc <a href="https://bsky.app/profile/npr.org/post/3maxil63ccl2p" target="_blank">npr.org</a> (2025-12-27 18:28:33)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】徳島市国府町で民家全焼 1階から1人の遺体発見【徳島】 (2025-12-27 18:22) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maxiia22t42x" target="_blank">sokuho.news</a> (2025-12-27 18:26:54)</span><span style="padding-right:50px;">Dealmakers are setting up trusts in South Dakota to avoid paying taxes on carried interest. <a href="https://bsky.app/profile/wsj.com/post/3maxihhrktj2u" target="_blank">wsj.com</a> (2025-12-27 18:26:28)</span><span style="padding-right:50px;">ECHL players go on strike; games postponed reut.rs/3YebEuI <a href="https://bsky.app/profile/reuters.com/post/3maxiezq24g2i" target="_blank">reuters.com</a> (2025-12-27 18:25:07)</span><span style="padding-right:50px;">サッカー日本代表 森保監督 出身地 長崎でサッカー教室に参加 https://news.web.nhk/newsweb/na/na-k10015015561000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxid5oflw24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 18:24:02)</span>
+<span style="padding-right:50px;">ラグビー リーグワン 第3節 クボタスピアーズが開幕3連勝 https://news.web.nhk/newsweb/na/na-k10015015581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjo7dsr72v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 18:48:07)</span><span style="padding-right:50px;">関越道で多重事故 2人死亡 26人重軽傷 通行止め長引く見込み https://news.web.nhk/newsweb/na/na-k10015015301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjo2hqff26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 18:48:02)</span><span style="padding-right:50px;">The agreement, signed by Thai Defense Minister Natthaphon Narkphanit and his Cambodian counterpart Tea Seiha, ended 20 days of fighting that has killed at least 101 people and displaced more than half a million on both sides. https://cnn.it/4b60rE2 <a href="https://bsky.app/profile/cnn.com/post/3maxjklvs6526" target="_blank">cnn.com</a> (2025-12-27 18:46:08)</span><span style="padding-right:50px;">富山 氷見 大地震から2年 学生とともに歩む過疎地の災害復興 https://news.web.nhk/newsweb/na/na-k10015015351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjipfbxg2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 18:45:02)</span><span style="padding-right:50px;">🇺🇦 🇷🇺 A Russian drone and missile barrage on Kyiv and its suburbs Saturday killed one person, wounded two dozen and cut off heating and electricity for hundreds of thousands of people left in freezing temperatures.  ➡️ u.afp.com/S8sV <a href="https://bsky.app/profile/en.afp.com/post/3maxjfdiy6p2q" target="_blank">en.afp.com</a> (2025-12-27 18:43:11)</span>
   </div>
 </div>
 
@@ -32,102 +32,106 @@
 
 ## News Headlines
 
-- Perry Archangelo Bamonte, guitarist and keyboardist for influential goth band The Cure, dies at 65
-- House in Kochi city's Kita-ku engulfed in flames, one body found on first floor
-- ECHL players go on strike, games postponed
-- Veterans skeptical of Russia's business opportunities
-- Milwaukee finalizes efforts to stabilize nearly 100 public schools with lead paint hazards
+- Thai and Cambodian forces sign ceasefire deal
+- Russian drone and missile attack kills one in Kyiv
+- Milwaukee finalizes efforts to stabilize public schools with lead paint hazards
+- Large-scale Russian strikes hit Kyiv, Ukraine
 - Fishermen in Cyprus target invasive lionfish in the Mediterranean
+- Nine-day holiday period to start in 2026
 
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+ラグビー リーグワン 第3節 クボタスピアーズが開幕3連勝
+https://news.web.nhk/newsweb/na/na-k10015015581000
+
+[2025-12-27 18:48:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjo7dsr72v)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+関越道で多重事故 2人死亡 26人重軽傷 通行止め長引く見込み
+https://news.web.nhk/newsweb/na/na-k10015015301000
+
+[2025-12-27 18:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjo2hqff26)
+
+---
+
+@cnn.com
+
+The agreement, signed by Thai Defense Minister Natthaphon Narkphanit and his Cambodian counterpart Tea Seiha, ended 20 days of fighting that has killed at least 101 people and displaced more than half a million on both sides.
+https://cnn.it/4b60rE2
+
+[2025-12-27 18:46:08](https://bsky.app/profile/cnn.com/post/3maxjklvs6526)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+富山 氷見 大地震から2年 学生とともに歩む過疎地の災害復興
+https://news.web.nhk/newsweb/na/na-k10015015351000
+
+[2025-12-27 18:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjipfbxg2s)
+
+---
+
+@en.afp.com
+
+🇺🇦 🇷🇺 A Russian drone and missile barrage on Kyiv and its suburbs Saturday killed one person, wounded two dozen and cut off heating and electricity for hundreds of thousands of people left in freezing temperatures. 
+➡️ u.afp.com/S8sV
+
+[2025-12-27 18:43:11](https://bsky.app/profile/en.afp.com/post/3maxjfdiy6p2q)
+
+---
+
+@reuters.com
+
+Ashes captains unimpressed with Melbourne's wicket ways reut.rs/4qq6EiB
+
+[2025-12-27 18:35:08](https://bsky.app/profile/reuters.com/post/3maxiwwqpla2p)
+
+---
+
+@nikkei.com
+
+ビュッフェ満喫の極意　最適な席や食べる順番は？
+www.nikkei.com/article/DGXZQO...
+
+最初に店内を1周して必ず食べたい料理を決める。
+
+席選びは落ち着いた場所がいいのか、料理の取りやすさを優先したいのか、目的に応じて――。
+
+ホテルのビュッフェ店長に聞きました。
+
+[2025-12-27 18:30:40](https://bsky.app/profile/nikkei.com/post/3maxiowrsvz2c)
+
+---
+
+@aljazeera.com
+
+Turkish Defence Minister Yasar Guler and military chief Selcuk Bayraktaroglu attend ceremony at an airbase near Ankara.
+
+[2025-12-27 18:30:04](https://bsky.app/profile/aljazeera.com/post/3maxinv5mck2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+“誤情報に惑わされない” アイデアを表彰するコンテスト
+https://news.web.nhk/newsweb/na/na-k10015015521000
+
+[2025-12-27 18:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxinvm3qc2b)
+
+---
 
 @npr.org
 
 Perry Archangelo Bamonte, longtime guitarist and keyboardist for the influential goth band The Cure, has died. He was 65. The band announced his death on their official website on Friday. n.pr/4aAOyGc
 
 [2025-12-27 18:28:33](https://bsky.app/profile/npr.org/post/3maxil63ccl2p)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】徳島市国府町で民家全焼 1階から1人の遺体発見【徳島】
-(2025-12-27 18:22) #ニュース
-
-[2025-12-27 18:26:54](https://bsky.app/profile/sokuho.news/post/3maxiia22t42x)
-
----
-
-@wsj.com
-
-Dealmakers are setting up trusts in South Dakota to avoid paying taxes on carried interest.
-
-[2025-12-27 18:26:28](https://bsky.app/profile/wsj.com/post/3maxihhrktj2u)
-
----
-
-@reuters.com
-
-ECHL players go on strike; games postponed reut.rs/3YebEuI
-
-[2025-12-27 18:25:07](https://bsky.app/profile/reuters.com/post/3maxiezq24g2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-サッカー日本代表 森保監督 出身地 長崎でサッカー教室に参加
-https://news.web.nhk/newsweb/na/na-k10015015561000
-
-[2025-12-27 18:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxid5oflw24)
-
----
-
-@en.afp.com
-
-🗓️ Looking back on 2025
-
-Donald Trump's return to the White House, a fragile ceasefire in Gaza, war in Ukraine and Sudan, a new pope and Gen Z protests around the world.
-
- Watch the full video on events that marked the year: u.afp.com/backon2025
-
-[2025-12-27 18:20:44](https://bsky.app/profile/en.afp.com/post/3maxi56tgdg2h)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スピードスケート男子1500m 野々村太陽が大会新 五輪内定確実
-https://news.web.nhk/newsweb/na/na-k10015015571000
-
-[2025-12-27 18:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxhyhghiv2b)
-
----
-
-@japan.reuters.com
-
-南アフリカ東部の港町ダーバン。子ども３人を育てる父親ドゥバンドレラさん（５６）は、７月、２０歳の息子がロシアでのＶＩＰ警護の精鋭訓練に応募したとき、誇らしさで胸がいっぱいになった。 bit.ly/4b79Nzm
-
-[2025-12-27 18:15:09](https://bsky.app/profile/japan.reuters.com/post/3maxht7cyae2q)
-
----
-
-@wsj.com
-
-Veterans of investing in Russia’s volatile economy are skeptical that it is the vast land of business opportunities the Trump administration thinks it is. on.wsj.com/44JkNiy
-
-[2025-12-27 18:09:30](https://bsky.app/profile/wsj.com/post/3maxhj4ckbp2h)
-
----
-
-@cnn.com
-
-The city of Milwaukee says it has finalized its efforts to stabilize nearly 100 public schools that were identified as having lead paint hazards earlier this year. 
-
-[2025-12-27 18:04:01](https://bsky.app/profile/cnn.com/post/3maxh7chxwu2o)
 
 ---
 
