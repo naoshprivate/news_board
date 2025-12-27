@@ -1,9 +1,9 @@
-# [2025-12-28 03:50 updated](2025_12_28.md)
+# [2025-12-28 04:10 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">WRPAUP 1 Soccer-Arsenal respond to Man City challenge with narrow win reut.rs/48TTTXO <a href="https://bsky.app/profile/reuters.com/post/3mayhoi5vmo2o" target="_blank">reuters.com</a> (2025-12-28 03:45:10)</span><span style="padding-right:50px;">Italy arrests nine over alleged Hamas funding through charities reut.rs/3Lg5BTz <a href="https://bsky.app/profile/reuters.com/post/3mayh4jjutf2c" target="_blank">reuters.com</a> (2025-12-28 03:35:08)</span><span style="padding-right:50px;">Perry Bamonte, a celebrated guitarist and keyboardist who performed with The Cure, has died. He was 65. <a href="https://bsky.app/profile/usatoday.com/post/3maygtytnlz2h" target="_blank">usatoday.com</a> (2025-12-28 03:30:22)</span><span style="padding-right:50px;">The weather administration said damage from the quake should be limited because it was deep and hit offshore. <a href="https://bsky.app/profile/aljazeera.com/post/3maygthavoe2z" target="_blank">aljazeera.com</a> (2025-12-28 03:30:03)</span><span style="padding-right:50px;">The leader of the John F. Kennedy Center for the Performing Arts in Washington has sent a letter threatening litigation against a musician who canceled an annual Christmas Eve jazz concert in protest of the site’s new name. <a href="https://bsky.app/profile/nytimes.com/post/3maygkmjwjt2x" target="_blank">nytimes.com</a> (2025-12-28 03:25:07)</span>
+<span style="padding-right:50px;">"Seasons" is the new buzzword for young conservative women who want to start a family earlier in life and focus on professional advancement later on.wsj.com/3Ldjcei <a href="https://bsky.app/profile/wsj.com/post/3mayiztusfm23" target="_blank">wsj.com</a> (2025-12-28 04:09:25)</span><span style="padding-right:50px;">Charlie Chang started several of his passive income streams — which now gross an average of $114,000 per month — with $0 down.  He shares four passive income businesses you can start for "less than $100." <a href="https://bsky.app/profile/cnbc.com/post/3mayik4udvx2y" target="_blank">cnbc.com</a> (2025-12-28 04:00:38)</span><span style="padding-right:50px;">Top gamers leave e-sports brand on Christmas. What is FaZe Clan? <a href="https://bsky.app/profile/usatoday.com/post/3mayijnic4b2w" target="_blank">usatoday.com</a> (2025-12-28 04:00:22)</span><span style="padding-right:50px;">A fire tore through the historic Old Port waterfront in Portland, Maine, on Friday night, damaging aging buildings and several boats along Custom House Wharf, authorities said. <a href="https://bsky.app/profile/apnews.com/post/3mayijlobiu2d" target="_blank">apnews.com</a> (2025-12-28 04:00:20)</span><span style="padding-right:50px;">Corporate bankruptcies surged in 2025, rivaling levels not seen since the immediate aftermath of the Great Recession, as import-dependent businesses absorbed the highest tariffs in decades. <a href="https://bsky.app/profile/washingtonpost.com/post/3mayijej74j2g" target="_blank">washingtonpost.com</a> (2025-12-28 04:00:12)</span>
   </div>
 </div>
 
@@ -32,15 +32,73 @@
 
 ## News Headlines
 
-- Arsenal Respond to Man City Challenge with Narrow Win
-- Italy Arrests Nine Over Alleged Hamas Funding Through Charities
-- Perry Bamonte, Guitarist and Keyboardist, Dies at 65
-- Leader Threatens Litigation Over Canceled Christmas Eve Concert
-- Maduro Uses US Pressure to Crack Down on Internal Dissent in Venezuela
-- Ronaldo Scores Double for Al Nassr in 10th Straight Win
+- Young Conservative Women Embracing 'Seasons' Lifestyle for Family and Career
+- Top Gamers Leave E-Sports Brand FaZe Clan on Christmas
+- Historic Fire Destroys Old Port Waterfront in Portland, Maine
+- Global Corporate Bankruptcies Surge to Levels Seen Since Great Recession
+- Israel's Recognition of Somaliland Sparks Global Backlash
+- Australia's Social Media Ban for Children Under 16 Sparks International Debate
 
 
 ----
+
+@wsj.com
+
+"Seasons" is the new buzzword for young conservative women who want to start a family earlier in life and focus on professional advancement later on.wsj.com/3Ldjcei
+
+[2025-12-28 04:09:25](https://bsky.app/profile/wsj.com/post/3mayiztusfm23)
+
+---
+
+@cnbc.com
+
+Charlie Chang started several of his passive income streams — which now gross an average of $114,000 per month — with $0 down.
+
+He shares four passive income businesses you can start for "less than $100."
+
+[2025-12-28 04:00:38](https://bsky.app/profile/cnbc.com/post/3mayik4udvx2y)
+
+---
+
+@usatoday.com
+
+Top gamers leave e-sports brand on Christmas. What is FaZe Clan?
+
+[2025-12-28 04:00:22](https://bsky.app/profile/usatoday.com/post/3mayijnic4b2w)
+
+---
+
+@apnews.com
+
+A fire tore through the historic Old Port waterfront in Portland, Maine, on Friday night, damaging aging buildings and several boats along Custom House Wharf, authorities said.
+
+[2025-12-28 04:00:20](https://bsky.app/profile/apnews.com/post/3mayijlobiu2d)
+
+---
+
+@washingtonpost.com
+
+Corporate bankruptcies surged in 2025, rivaling levels not seen since the immediate aftermath of the Great Recession, as import-dependent businesses absorbed the highest tariffs in decades.
+
+[2025-12-28 04:00:12](https://bsky.app/profile/washingtonpost.com/post/3mayijej74j2g)
+
+---
+
+@aljazeera.com
+
+Israel’s recognition of Somaliland slammed across world capitals https://aje.io/lxt7ld
+
+[2025-12-28 04:00:04](https://bsky.app/profile/aljazeera.com/post/3mayij4xl3y27)
+
+---
+
+@nytimes.com
+
+Since Australia this month barred children under 16 from using social media, parents around the world have been debating whether similarly tough action is needed in their own countries.
+
+[2025-12-28 03:52:45](https://bsky.app/profile/nytimes.com/post/3mayi3zseak22)
+
+---
 
 @reuters.com
 
@@ -63,64 +121,6 @@ Italy arrests nine over alleged Hamas funding through charities reut.rs/3Lg5BTz
 Perry Bamonte, a celebrated guitarist and keyboardist who performed with The Cure, has died. He was 65.
 
 [2025-12-28 03:30:22](https://bsky.app/profile/usatoday.com/post/3maygtytnlz2h)
-
----
-
-@aljazeera.com
-
-The weather administration said damage from the quake should be limited because it was deep and hit offshore.
-
-[2025-12-28 03:30:03](https://bsky.app/profile/aljazeera.com/post/3maygthavoe2z)
-
----
-
-@nytimes.com
-
-The leader of the John F. Kennedy Center for the Performing Arts in Washington has sent a letter threatening litigation against a musician who canceled an annual Christmas Eve jazz concert in protest of the site’s new name.
-
-[2025-12-28 03:25:07](https://bsky.app/profile/nytimes.com/post/3maygkmjwjt2x)
-
----
-
-@npr.org
-
-If you're tempted to bail on potentially fun events becuase you feel awkward, read this. Level up your small talk game and practice social courage with six tips from psychologists.
-
-[2025-12-28 03:13:18](https://bsky.app/profile/npr.org/post/3mayfvhwj3v2i)
-
----
-
-@matthewhaybrown.bsky.social
-
-Nicolás Maduro is using U.S. military pressure to crack down on internal dissent w/Ana Vanessa Herrero in Caracas
-
-www.washingtonpost.com/world/2025/1...
-
-[2025-12-28 03:12:39](https://bsky.app/profile/matthewhaybrown.bsky.social/post/3mayfudedec23)
-
----
-
-@reuters.com
-
-Ronaldo double drives Al Nassr to record 10th straight win reut.rs/49e0KKI
-
-[2025-12-28 03:10:10](https://bsky.app/profile/reuters.com/post/3mayfpvaif32b)
-
----
-
-@wsj.com
-
-Ralf Etienne, a 36-year-old investment banker training to compete in the Winter Paralymics, juggles long workdays and intense training in the Alps that was delayed by changes in U.S. immigration policy. on.wsj.com/48ULGTf
-
-[2025-12-28 03:07:27](https://bsky.app/profile/wsj.com/post/3mayfkzsikb2s)
-
----
-
-@reuters.com
-
-Reports: Reds reach deal with OF JJ Bleday reut.rs/4pSQHl7
-
-[2025-12-28 03:05:08](https://bsky.app/profile/reuters.com/post/3mayfgv3xap2x)
 
 ---
 
