@@ -1,9 +1,9 @@
-# [2025-12-28 04:30 updated](2025_12_28.md)
+# [2025-12-28 04:50 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Jeffrey Holland, next in line to lead the Church of Jesus Christ of Latter-Day Saints, dies at 85 reut.rs/4p9Y2eT <a href="https://bsky.app/profile/reuters.com/post/3mayjvxetht2i" target="_blank">reuters.com</a> (2025-12-28 04:25:09)</span><span style="padding-right:50px;">Photographs help us look back on the moments that defined the year. Taken by NPR photojournalists nationwide, this collection goes beyond the headlines to reveal quietly powerful human stories. <a href="https://bsky.app/profile/npr.org/post/3mayjcy5p2c2e" target="_blank">npr.org</a> (2025-12-28 04:14:32)</span><span style="padding-right:50px;">"Seasons" is the new buzzword for young conservative women who want to start a family earlier in life and focus on professional advancement later on.wsj.com/3Ldjcei <a href="https://bsky.app/profile/wsj.com/post/3mayiztusfm23" target="_blank">wsj.com</a> (2025-12-28 04:09:25)</span><span style="padding-right:50px;">Charlie Chang started several of his passive income streams — which now gross an average of $114,000 per month — with $0 down.  He shares four passive income businesses you can start for "less than $100." <a href="https://bsky.app/profile/cnbc.com/post/3mayik4udvx2y" target="_blank">cnbc.com</a> (2025-12-28 04:00:38)</span><span style="padding-right:50px;">Top gamers leave e-sports brand on Christmas. What is FaZe Clan? <a href="https://bsky.app/profile/usatoday.com/post/3mayijnic4b2w" target="_blank">usatoday.com</a> (2025-12-28 04:00:22)</span>
+<span style="padding-right:50px;">Late drama as Uganda and Tanzania settle for 1-1 draw in Rabat reut.rs/3KSJ1Al <a href="https://bsky.app/profile/reuters.com/post/3maykzrkd2b2y" target="_blank">reuters.com</a> (2025-12-28 04:45:10)</span><span style="padding-right:50px;">Villa come from behind to beat Chelsea 2-1 reut.rs/4pclrwk <a href="https://bsky.app/profile/reuters.com/post/3maykqt6kh72o" target="_blank">reuters.com</a> (2025-12-28 04:40:10)</span><span style="padding-right:50px;">The Kennedy Center is planning legal action after jazz musician Chuck Redd canceled an annual holiday concert. Redd pulled out after President Trump's name appeared on the building. n.pr/49tB0uS <a href="https://bsky.app/profile/npr.org/post/3maykpdyr3i2x" target="_blank">npr.org</a> (2025-12-28 04:39:21)</span><span style="padding-right:50px;">The earthquake was felt in the capital of Taipei just after 11 p.m. local time. <a href="https://bsky.app/profile/usatoday.com/post/3mayk7fugh32h" target="_blank">usatoday.com</a> (2025-12-28 04:30:26)</span><span style="padding-right:50px;">Jeffrey Holland, next in line to lead the Church of Jesus Christ of Latter-Day Saints, dies at 85 reut.rs/4p9Y2eT <a href="https://bsky.app/profile/reuters.com/post/3mayjvxetht2i" target="_blank">reuters.com</a> (2025-12-28 04:25:09)</span>
   </div>
 </div>
 
@@ -32,15 +32,47 @@
 
 ## News Headlines
 
-- Senior Church of Jesus Christ of Latter-Day Saints Official Dies at 85
-- Photographs Capture Quietly Powerful Human Stories
-- Young Conservative Women Embracing 'Seasons' Lifestyle
-- Top Gamers Leave E-Sports Brand FaZe Clan
-- Corporate Bankruptcies Surge, Rivaling Great Recession Levels
-- Israel's Recognition of Somaliland Sparks International Outrage
+- Uganda and Tanzania Draw 1-1 in Rabat
+- Villa Come from Behind to Beat Chelsea 2-1
+- Church of Jesus Christ of Latter-Day Saints Leader Dies at 85
+- Israel's Recognition of Somaliland Sparks Global Backlash
+- US Blows Up Semisubmersible Suspected of Carrying Drugs
+- Record-Breaking Win Streak for Al Nassr with Ronaldo's Double
 
 
 ----
+
+@reuters.com
+
+Late drama as Uganda and Tanzania settle for 1-1 draw in Rabat reut.rs/3KSJ1Al
+
+[2025-12-28 04:45:10](https://bsky.app/profile/reuters.com/post/3maykzrkd2b2y)
+
+---
+
+@reuters.com
+
+Villa come from behind to beat Chelsea 2-1 reut.rs/4pclrwk
+
+[2025-12-28 04:40:10](https://bsky.app/profile/reuters.com/post/3maykqt6kh72o)
+
+---
+
+@npr.org
+
+The Kennedy Center is planning legal action after jazz musician Chuck Redd canceled an annual holiday concert. Redd pulled out after President Trump's name appeared on the building. n.pr/49tB0uS
+
+[2025-12-28 04:39:21](https://bsky.app/profile/npr.org/post/3maykpdyr3i2x)
+
+---
+
+@usatoday.com
+
+The earthquake was felt in the capital of Taipei just after 11 p.m. local time.
+
+[2025-12-28 04:30:26](https://bsky.app/profile/usatoday.com/post/3mayk7fugh32h)
+
+---
 
 @reuters.com
 
@@ -89,38 +121,6 @@ Top gamers leave e-sports brand on Christmas. What is FaZe Clan?
 A fire tore through the historic Old Port waterfront in Portland, Maine, on Friday night, damaging aging buildings and several boats along Custom House Wharf, authorities said.
 
 [2025-12-28 04:00:20](https://bsky.app/profile/apnews.com/post/3mayijlobiu2d)
-
----
-
-@washingtonpost.com
-
-Corporate bankruptcies surged in 2025, rivaling levels not seen since the immediate aftermath of the Great Recession, as import-dependent businesses absorbed the highest tariffs in decades.
-
-[2025-12-28 04:00:12](https://bsky.app/profile/washingtonpost.com/post/3mayijej74j2g)
-
----
-
-@aljazeera.com
-
-Israel’s recognition of Somaliland slammed across world capitals https://aje.io/lxt7ld
-
-[2025-12-28 04:00:04](https://bsky.app/profile/aljazeera.com/post/3mayij4xl3y27)
-
----
-
-@nytimes.com
-
-Since Australia this month barred children under 16 from using social media, parents around the world have been debating whether similarly tough action is needed in their own countries.
-
-[2025-12-28 03:52:45](https://bsky.app/profile/nytimes.com/post/3mayi3zseak22)
-
----
-
-@reuters.com
-
-WRPAUP 1 Soccer-Arsenal respond to Man City challenge with narrow win reut.rs/48TTTXO
-
-[2025-12-28 03:45:10](https://bsky.app/profile/reuters.com/post/3mayhoi5vmo2o)
 
 ---
 
