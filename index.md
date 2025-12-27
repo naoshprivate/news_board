@@ -1,9 +1,9 @@
-# [2025-12-28 01:50 updated](2025_12_28.md)
+# [2025-12-28 02:10 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🇺🇦 🇷🇺 Russia pummelled Ukraine's capital with drones and missiles on Saturday as President Volodymyr Zelensky was headed to the US to meet with President Donald Trump.  ➡️ u.afp.com/S8ew <a href="https://bsky.app/profile/en.afp.com/post/3mayazspfrm2x" target="_blank">en.afp.com</a> (2025-12-28 01:46:14)</span><span style="padding-right:50px;">In “Marty Supreme,” the new film about an ambitious young table tennis player in the 1950s, the director Josh Safdie enlisted professionals to choreograph the action. “Realizing that this sport has a history, and a rich one, just dignified the sport in a way that I found to be fascinating,” he said. <a href="https://bsky.app/profile/nytimes.com/post/3mayavl5bu22s" target="_blank">nytimes.com</a> (2025-12-28 01:43:52)</span><span style="padding-right:50px;">🇬🇧 The UK will launch a military "gap year" scheme, as part of efforts to boost recruitment and reconnect young people with defence, the government said Saturday.  ➡️ u.afp.com/S8eN <a href="https://bsky.app/profile/en.afp.com/post/3mayaoowmjg2s" target="_blank">en.afp.com</a> (2025-12-28 01:40:01)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】関越道で67台多重事故 下りの通行止め区間は月夜野IC－水上IC間に縮小 上りは追い越し車線を車線規制 NEXCO東日本 午前0時45分現在 (2025-12-28 01:38:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mayanmrvym2b" target="_blank">sokuho.news</a> (2025-12-28 01:39:25)</span><span style="padding-right:50px;">X-rays negative for Hornets rookie Kon Knueppel (ankle) reut.rs/4sfRIoV <a href="https://bsky.app/profile/reuters.com/post/3mayag2zgnu2y" target="_blank">reuters.com</a> (2025-12-28 01:35:12)</span>
+<span style="padding-right:50px;">Despite billions in investment, humanoid robot startups​ say androids still face daunting technical challenges before they move from science experiments to a replacement for human workers. on.wsj.com/3N2cpEK <a href="https://bsky.app/profile/wsj.com/post/3mayc37prxb2h" target="_blank">wsj.com</a> (2025-12-28 02:04:55)</span><span style="padding-right:50px;">Russia has pounded Ukraine with missile and drone strikes ahead of Trump-Zelenskiy talks on ending the war. Hear the latest on today's episode of the Reuters World News podcast reut.rs/49gA0ZT <a href="https://bsky.app/profile/reuters.com/post/3mayc224uxs2q" target="_blank">reuters.com</a> (2025-12-28 02:04:16)</span><span style="padding-right:50px;">Police say a woman in Oklahoma was killed on Christmas Day by a stray bullet from a handgun being used for target practice just blocks away. <a href="https://bsky.app/profile/usatoday.com/post/3maybuss4kx2t" target="_blank">usatoday.com</a> (2025-12-28 02:01:20)</span><span style="padding-right:50px;">Indonesian rescuers are searching for a Spanish soccer coach and his three children after a tour boat sank near Padar Island. <a href="https://bsky.app/profile/apnews.com/post/3maybug2kgw23" target="_blank">apnews.com</a> (2025-12-28 02:01:07)</span><span style="padding-right:50px;">🇹🇭 🇰🇭 Thailand and Cambodia agree to 'immediate' ceasefire  Thailand announces that it has agreed to an "immediate" 72-hour ceasefire with Cambodia, potentially bringing an end to weeks of deadly border clashes which have killed 47 people and displaced over a million, according to official tallies. <a href="https://bsky.app/profile/en.afp.com/post/3maybuc7b2k2j" target="_blank">en.afp.com</a> (2025-12-28 02:01:03)</span>
   </div>
 </div>
 
@@ -32,102 +32,96 @@
 
 ## News Headlines
 
-- Russia launches air attack on Kyiv as Zelenskyy prepares for Trump meeting
-- Russia pummelled Ukraine's capital with drones and missiles on Saturday
-- UK to launch military 'gap year' scheme to boost recruitment
-- More than 3,000 flights delayed and nearly 700 canceled due to snowstorm
-- Myanmar's military rulers hold general election amid civil war
-- Japan's Naoya Inoue defeats Mexico's Alan Picasso by unanimous decision
+- Humanoid robots face daunting technical challenges before replacing human workers
+- Russia launches massive attack on Ukraine's capital city
+- Woman killed by stray bullet during Christmas Day target practice
+- Indonesian rescuers search for Spanish soccer coach and children after tour boat sinks
+- Thailand and Cambodia agree to 72-hour ceasefire
+- Russia launches air attack on Kyiv as Ukraine's Zelenskyy prepares to meet with Trump
 
 
 ----
 
-@en.afp.com
+@wsj.com
 
-🇺🇦 🇷🇺 Russia pummelled Ukraine's capital with drones and missiles on Saturday as President Volodymyr Zelensky was headed to the US to meet with President Donald Trump. 
-➡️ u.afp.com/S8ew
+Despite billions in investment, humanoid robot startups​ say androids still face daunting technical challenges before they move from science experiments to a replacement for human workers. on.wsj.com/3N2cpEK
 
-[2025-12-28 01:46:14](https://bsky.app/profile/en.afp.com/post/3mayazspfrm2x)
-
----
-
-@nytimes.com
-
-In “Marty Supreme,” the new film about an ambitious young table tennis player in the 1950s, the director Josh Safdie enlisted professionals to choreograph the action. “Realizing that this sport has a history, and a rich one, just dignified the sport in a way that I found to be fascinating,” he said.
-
-[2025-12-28 01:43:52](https://bsky.app/profile/nytimes.com/post/3mayavl5bu22s)
-
----
-
-@en.afp.com
-
-🇬🇧 The UK will launch a military "gap year" scheme, as part of efforts to boost recruitment and reconnect young people with defence, the government said Saturday. 
-➡️ u.afp.com/S8eN
-
-[2025-12-28 01:40:01](https://bsky.app/profile/en.afp.com/post/3mayaoowmjg2s)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】関越道で67台多重事故 下りの通行止め区間は月夜野IC－水上IC間に縮小 上りは追い越し車線を車線規制 NEXCO東日本 午前0時45分現在
-(2025-12-28 01:38:21) #ニュース
-
-[2025-12-28 01:39:25](https://bsky.app/profile/sokuho.news/post/3mayanmrvym2b)
+[2025-12-28 02:04:55](https://bsky.app/profile/wsj.com/post/3mayc37prxb2h)
 
 ---
 
 @reuters.com
 
-X-rays negative for Hornets rookie Kon Knueppel (ankle) reut.rs/4sfRIoV
+Russia has pounded Ukraine with missile and drone strikes ahead of Trump-Zelenskiy talks on ending the war. Hear the latest on today's episode of the Reuters World News podcast reut.rs/49gA0ZT
 
-[2025-12-28 01:35:12](https://bsky.app/profile/reuters.com/post/3mayag2zgnu2y)
+[2025-12-28 02:04:16](https://bsky.app/profile/reuters.com/post/3mayc224uxs2q)
 
 ---
 
 @usatoday.com
 
-No matter how you make it, mac and cheese is a comfort food that pairs well with the coziness of the holidays. Here's what to serve with it.
+Police say a woman in Oklahoma was killed on Christmas Day by a stray bullet from a handgun being used for target practice just blocks away.
 
-[2025-12-28 01:30:11](https://bsky.app/profile/usatoday.com/post/3maya544jtl2f)
-
----
-
-@cnn.com
-
-Warren Buffett became the the world's most famous investor because of his sage investment wisdom at the helm of Berkshire Hathaway. That wasn't his only job: He's also the company's best pitchman.
-https://cnn.it/44LzSQM
-
-[2025-12-28 01:30:06](https://bsky.app/profile/cnn.com/post/3maya4x5myd26)
+[2025-12-28 02:01:20](https://bsky.app/profile/usatoday.com/post/3maybuss4kx2t)
 
 ---
 
-@reuters.com
+@apnews.com
 
-How rape is being used as a weapon of war in Congo, on this weekend's On Assignment reut.rs/4sgUCK4
+Indonesian rescuers are searching for a Spanish soccer coach and his three children after a tour boat sank near Padar Island.
 
-[2025-12-28 01:28:59](https://bsky.app/profile/reuters.com/post/3maya2xquks2q)
-
----
-
-@financialtimes.com
-
-Russia launches air attack on Kyiv as Zelenskyy prepares for Trump meeting ft.trib.al/AKGSRh6
-
-[2025-12-28 01:28:51](https://bsky.app/profile/financialtimes.com/post/3maya2pozqi2f)
+[2025-12-28 02:01:07](https://bsky.app/profile/apnews.com/post/3maybug2kgw23)
 
 ---
 
-@nikkei.com
+@en.afp.com
 
-ロシア、無人機やミサイルでウクライナの首都キーウ攻撃
-www.nikkei.com/article/DGXZQO...
+🇹🇭 🇰🇭 Thailand and Cambodia agree to 'immediate' ceasefire
 
-12月28日の米ウクライナ首脳会談を前にした攻撃に、住民は「和平が実現するとは思えない」と憤りました。
+Thailand announces that it has agreed to an "immediate" 72-hour ceasefire with Cambodia, potentially bringing an end to weeks of deadly border clashes which have killed 47 people and displaced over a million, according to official tallies.
 
-[2025-12-28 01:26:06](https://bsky.app/profile/nikkei.com/post/3may7vs5u7h2x)
+[2025-12-28 02:01:03](https://bsky.app/profile/en.afp.com/post/3maybuc7b2k2j)
+
+---
+
+@cnbc.com
+
+McDonald’s CEO Chris Kempczinski has some career guidance to share, provided you have “thick skin.”
+
+[2025-12-28 02:00:27](https://bsky.app/profile/cnbc.com/post/3maybtabjoz2g)
+
+---
+
+@washingtonpost.com
+
+Russia launched a massive attack on civilian infrastructure in Ukraine Saturday, targeting the Kyiv region’s energy grid and leaving one-third of the capital without heating, Foreign Minister Andrii Sybiha said.
+
+[2025-12-28 02:00:23](https://bsky.app/profile/washingtonpost.com/post/3maybt3xn3j2n)
+
+---
+
+@bloomberg.com
+
+From mega-backdoors to well-timed conversions, these Roth account strategies can turbocharge your savings (from August)
+
+[2025-12-28 02:00:21](https://bsky.app/profile/bloomberg.com/post/3maybszx2sp27)
+
+---
+
+@aljazeera.com
+
+Saudi defence minister urges Yemen's STC to withdraw "peacefully" from seized provinces, Hadramout and al-Mahra.
+
+[2025-12-28 02:00:04](https://bsky.app/profile/aljazeera.com/post/3maybskgafh2z)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+群馬 関越道 多重事故 下り線は通行止め解除の見通したたず
+https://news.web.nhk/newsweb/na/na-k10015015681000
+
+[2025-12-28 01:54:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maybhtirak2k)
 
 ---
 
