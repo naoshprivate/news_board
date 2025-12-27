@@ -1,9 +1,9 @@
-# [2025-12-27 18:50 updated](2025_12_27.md)
+# [2025-12-27 19:10 updated](2025_12_27.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ラグビー リーグワン 第3節 クボタスピアーズが開幕3連勝 https://news.web.nhk/newsweb/na/na-k10015015581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjo7dsr72v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 18:48:07)</span><span style="padding-right:50px;">関越道で多重事故 2人死亡 26人重軽傷 通行止め長引く見込み https://news.web.nhk/newsweb/na/na-k10015015301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjo2hqff26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 18:48:02)</span><span style="padding-right:50px;">The agreement, signed by Thai Defense Minister Natthaphon Narkphanit and his Cambodian counterpart Tea Seiha, ended 20 days of fighting that has killed at least 101 people and displaced more than half a million on both sides. https://cnn.it/4b60rE2 <a href="https://bsky.app/profile/cnn.com/post/3maxjklvs6526" target="_blank">cnn.com</a> (2025-12-27 18:46:08)</span><span style="padding-right:50px;">富山 氷見 大地震から2年 学生とともに歩む過疎地の災害復興 https://news.web.nhk/newsweb/na/na-k10015015351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjipfbxg2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 18:45:02)</span><span style="padding-right:50px;">🇺🇦 🇷🇺 A Russian drone and missile barrage on Kyiv and its suburbs Saturday killed one person, wounded two dozen and cut off heating and electricity for hundreds of thousands of people left in freezing temperatures.  ➡️ u.afp.com/S8sV <a href="https://bsky.app/profile/en.afp.com/post/3maxjfdiy6p2q" target="_blank">en.afp.com</a> (2025-12-27 18:43:11)</span>
+<span style="padding-right:50px;">Both of these influencers are successful - but only one is human <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxk2awo5s2z" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 18:54:53)</span><span style="padding-right:50px;">Guinea and Central African Republic elections: Leaders aim to consolidate power at  in two polls in Africa <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxjyednk22b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-27 18:53:49)</span><span style="padding-right:50px;">ラグビー リーグワン 第3節 クボタスピアーズが開幕3連勝 https://news.web.nhk/newsweb/na/na-k10015015581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjo7dsr72v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 18:48:07)</span><span style="padding-right:50px;">関越道で多重事故 2人死亡 26人重軽傷 通行止め長引く見込み https://news.web.nhk/newsweb/na/na-k10015015301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxjo2hqff26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-27 18:48:02)</span><span style="padding-right:50px;">The agreement, signed by Thai Defense Minister Natthaphon Narkphanit and his Cambodian counterpart Tea Seiha, ended 20 days of fighting that has killed at least 101 people and displaced more than half a million on both sides. https://cnn.it/4b60rE2 <a href="https://bsky.app/profile/cnn.com/post/3maxjklvs6526" target="_blank">cnn.com</a> (2025-12-27 18:46:08)</span>
   </div>
 </div>
 
@@ -32,15 +32,31 @@
 
 ## News Headlines
 
-- Thai and Cambodian forces sign ceasefire deal
-- Russian drone and missile attack kills one in Kyiv
-- Milwaukee finalizes efforts to stabilize public schools with lead paint hazards
-- Large-scale Russian strikes hit Kyiv, Ukraine
-- Fishermen in Cyprus target invasive lionfish in the Mediterranean
-- Nine-day holiday period to start in 2026
+- Guinea and Central African Republic elections: Leaders aim to consolidate power
+- Thai and Cambodian forces agree to ceasefire in border conflict
+- One person killed, multiple injured as Russian drone and missile barrage hits Kyiv
+- Student and teacher rebuild disaster-hit town two years after Hokuriku earthquake
+- Russia-Ukraine conflict: UN renews ceasefire appeal over 'unimaginable suffering' of civilians
+- Donald Trump's return to the White House, a fragile ceasefire in Gaza, and war in Ukraine among 2025's top stories
 
 
 ----
+
+@bbcnews-world-rss.bsky.social
+
+Both of these influencers are successful - but only one is human
+
+[2025-12-27 18:54:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxk2awo5s2z)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Guinea and Central African Republic elections: Leaders aim to consolidate power at  in two polls in Africa
+
+[2025-12-27 18:53:49](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maxjyednk22b)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -115,23 +131,6 @@ www.nikkei.com/article/DGXZQO...
 Turkish Defence Minister Yasar Guler and military chief Selcuk Bayraktaroglu attend ceremony at an airbase near Ankara.
 
 [2025-12-27 18:30:04](https://bsky.app/profile/aljazeera.com/post/3maxinv5mck2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-“誤情報に惑わされない” アイデアを表彰するコンテスト
-https://news.web.nhk/newsweb/na/na-k10015015521000
-
-[2025-12-27 18:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maxinvm3qc2b)
-
----
-
-@npr.org
-
-Perry Archangelo Bamonte, longtime guitarist and keyboardist for the influential goth band The Cure, has died. He was 65. The band announced his death on their official website on Friday. n.pr/4aAOyGc
-
-[2025-12-27 18:28:33](https://bsky.app/profile/npr.org/post/3maxil63ccl2p)
 
 ---
 
