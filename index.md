@@ -1,9 +1,9 @@
-# [2025-12-28 02:50 updated](2025_12_28.md)
+# [2025-12-28 03:10 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Algeria's Mandi backs move to hold AFCON every four years reut.rs/495On4B <a href="https://bsky.app/profile/reuters.com/post/3maye2astbd2s" target="_blank">reuters.com</a> (2025-12-28 02:40:10)</span><span style="padding-right:50px;">自転車「青切符」前に 世代ごとのガイドライン作成 警察庁 https://news.web.nhk/newsweb/na/na-k10015015651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maydnjr2kj2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 02:33:02)</span><span style="padding-right:50px;">The California Highway Patrol warned drivers to be cautious because "'making memories’ shouldn’t include us pulling you out of a snowbank." <a href="https://bsky.app/profile/usatoday.com/post/3maydiljtt32h" target="_blank">usatoday.com</a> (2025-12-28 02:30:18)</span><span style="padding-right:50px;">Our journalists are joining nearly 40 scientists on a two-month expedition to Antarctica’s fastest-melting glaciers.   Learn more about the trip: trib.al/m5FCPom Follow along with their dispatches and send us your questions: trib.al/hmpnb4J <a href="https://bsky.app/profile/nytimes.com/post/3maydhnjoqs26" target="_blank">nytimes.com</a> (2025-12-28 02:29:46)</span><span style="padding-right:50px;">Mane scores for Senegal to see them come back to draw with DR Congo reut.rs/45lVCCX <a href="https://bsky.app/profile/reuters.com/post/3mayd7dvcci2o" target="_blank">reuters.com</a> (2025-12-28 02:25:08)</span>
+<span style="padding-right:50px;">Ralf Etienne, a 36-year-old investment banker training to compete in the Winter Paralymics, juggles long workdays and intense training in the Alps that was delayed by changes in U.S. immigration policy. on.wsj.com/48ULGTf <a href="https://bsky.app/profile/wsj.com/post/3mayfkzsikb2s" target="_blank">wsj.com</a> (2025-12-28 03:07:27)</span><span style="padding-right:50px;">Reports: Reds reach deal with OF JJ Bleday reut.rs/4pSQHl7 <a href="https://bsky.app/profile/reuters.com/post/3mayfgv3xap2x" target="_blank">reuters.com</a> (2025-12-28 03:05:08)</span><span style="padding-right:50px;">Tyler Perry was sued for sexual assault by an actor who appeared in "Boo! A Madea Halloween," marking the second lawsuit in recent months accusing the filmmaker and studio mogul of leveraging his power in Hollywood to make sexual advances. https://cnn.it/4qyVKY9 <a href="https://bsky.app/profile/cnn.com/post/3mayf7kggrk22" target="_blank">cnn.com</a> (2025-12-28 03:01:02)</span><span style="padding-right:50px;">On Christmas Day, a 15-year-old girl took her dog for a walk but didn’t return at her usual time. Authorities credit her father's quick response. <a href="https://bsky.app/profile/usatoday.com/post/3mayf7ci54u2o" target="_blank">usatoday.com</a> (2025-12-28 03:00:54)</span><span style="padding-right:50px;">Jeffrey R. Holland, a senior official in the Church of Jesus Christ of Latter-day Saints, has died at 85. <a href="https://bsky.app/profile/apnews.com/post/3mayf6esv5x23" target="_blank">apnews.com</a> (2025-12-28 03:00:23)</span>
   </div>
 </div>
 
@@ -32,15 +32,72 @@
 
 ## News Headlines
 
-- Algeria backs move to hold AFCON every four years
-- Japan to create guidelines for bicycle lanes for each generation
-- California Highway Patrol warns drivers to be cautious due to snow
-- Senegal comes back to draw with DR Congo through Mane's goal
-- Russia launches massive attack on Ukraine ahead of Trump-Zelenskiy talks
-- Thailand and Cambodia agree to 72-hour ceasefire
+- US Investor Ralf Etienne Balances Work and Winter Paralympics Training
+- Reds Agree to Deal with Outfielder JJ Bleday
+- Tyler Perry Sued for Alleged Sexual Assault
+- 15-Year-Old Girl's Quick-Thinking Father Helps Solve Christmas Day Mystery
+- Algeria's Mandi Supports Proposal to Hold AFCON Every Four Years
+- Myanmar's Military Seeks to Consolidate Power as China Backs Stability
 
 
 ----
+
+@wsj.com
+
+Ralf Etienne, a 36-year-old investment banker training to compete in the Winter Paralymics, juggles long workdays and intense training in the Alps that was delayed by changes in U.S. immigration policy. on.wsj.com/48ULGTf
+
+[2025-12-28 03:07:27](https://bsky.app/profile/wsj.com/post/3mayfkzsikb2s)
+
+---
+
+@reuters.com
+
+Reports: Reds reach deal with OF JJ Bleday reut.rs/4pSQHl7
+
+[2025-12-28 03:05:08](https://bsky.app/profile/reuters.com/post/3mayfgv3xap2x)
+
+---
+
+@cnn.com
+
+Tyler Perry was sued for sexual assault by an actor who appeared in "Boo! A Madea Halloween," marking the second lawsuit in recent months accusing the filmmaker and studio mogul of leveraging his power in Hollywood to make sexual advances.
+https://cnn.it/4qyVKY9
+
+[2025-12-28 03:01:02](https://bsky.app/profile/cnn.com/post/3mayf7kggrk22)
+
+---
+
+@usatoday.com
+
+On Christmas Day, a 15-year-old girl took her dog for a walk but didn’t return at her usual time. Authorities credit her father's quick response.
+
+[2025-12-28 03:00:54](https://bsky.app/profile/usatoday.com/post/3mayf7ci54u2o)
+
+---
+
+@apnews.com
+
+Jeffrey R. Holland, a senior official in the Church of Jesus Christ of Latter-day Saints, has died at 85.
+
+[2025-12-28 03:00:23](https://bsky.app/profile/apnews.com/post/3mayf6esv5x23)
+
+---
+
+@washingtonpost.com
+
+A former ESPN pundit, Pablo Torre’s show became a phenomenon this year with aggressive reporting that uncovered seismic stories in American sports — and it’s ruffling feathers across the industry. 
+
+[2025-12-28 03:00:14](https://bsky.app/profile/washingtonpost.com/post/3mayf655npe2x)
+
+---
+
+@aljazeera.com
+
+Myanmar’s military seeks to entrench rule as it begins to claw back territory and China presses for stability.
+
+[2025-12-28 03:00:05](https://bsky.app/profile/aljazeera.com/post/3mayf5u2ic32e)
+
+---
 
 @reuters.com
 
@@ -64,77 +121,6 @@ https://news.web.nhk/newsweb/na/na-k10015015651000
 The California Highway Patrol warned drivers to be cautious because "'making memories’ shouldn’t include us pulling you out of a snowbank."
 
 [2025-12-28 02:30:18](https://bsky.app/profile/usatoday.com/post/3maydiljtt32h)
-
----
-
-@nytimes.com
-
-Our journalists are joining nearly 40 scientists on a two-month expedition to Antarctica’s fastest-melting glaciers. 
-
-Learn more about the trip: trib.al/m5FCPom
-Follow along with their dispatches and send us your questions: trib.al/hmpnb4J
-
-[2025-12-28 02:29:46](https://bsky.app/profile/nytimes.com/post/3maydhnjoqs26)
-
----
-
-@reuters.com
-
-Mane scores for Senegal to see them come back to draw with DR Congo reut.rs/45lVCCX
-
-[2025-12-28 02:25:08](https://bsky.app/profile/reuters.com/post/3mayd7dvcci2o)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:熊本県阿蘇地方, 深さ:10km
-マグニチュード:2.8, 最大震度:2
-📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
-地震発生日時:2025-12-28 02:19頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-28 02:23:10](https://bsky.app/profile/sokuho.news/post/3mayd3ugsqo2r)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-2時19分頃、熊本県・大分県で最大震度2の地震を観測しました。
-震源:熊本県阿蘇地方, 深さ:10km, 規模:M2.8
-この地震による津波の心配はありません。
-(2025-12-28 02:22:40) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/28/2025-12-28-02-19-55.html?xlarge_image=1
-
-[2025-12-28 02:22:42](https://bsky.app/profile/sokuho.news/post/3mayd2ynjlm2e)
-
----
-
-@reuters.com
-
-Liverpool condemn Wolves to record for longest winless Premier League start reut.rs/4jjaub2
-
-[2025-12-28 02:15:10](https://bsky.app/profile/reuters.com/post/3maycnkidcd2y)
-
----
-
-@nytimes.com
-
-President Trump promised radical change this term. Here’s how his first year back in office compared with his campaign pledges.
-
-[2025-12-28 02:15:07](https://bsky.app/profile/nytimes.com/post/3maycnhfs7k2v)
-
----
-
-@reuters.com
-
-Odegaard back on target as Arsenal reclaim top spot reut.rs/3Yi5lq2
-
-[2025-12-28 02:10:09](https://bsky.app/profile/reuters.com/post/3maycelhjo42b)
 
 ---
 
