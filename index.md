@@ -1,9 +1,9 @@
-# [2025-12-28 09:30 updated](2025_12_28.md)
+# [2025-12-28 09:50 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Mysteries and thrillers are enjoyable no matter the season, but there's something extra satisfying about curling up in the winter with a warm drink and an all-engrossing read. Here's what we suggest. <a href="https://bsky.app/profile/npr.org/post/3maz2ky7b5q2m" target="_blank">npr.org</a> (2025-12-28 09:23:14)</span><span style="padding-right:50px;">米国務省は２６日、台湾への武器売却承認を受けて中国が米防衛企業などに制裁を科したことに「強く反対する」と述べた。 bit.ly/4qx0DAU <a href="https://bsky.app/profile/japan.reuters.com/post/3maz2gyb2gc2u" target="_blank">japan.reuters.com</a> (2025-12-28 09:21:00)</span><span style="padding-right:50px;">東京メトロ千代田線 運転再開 https://news.web.nhk/newsweb/na/na-k10015015731000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maz24exx3p2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 09:15:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「大金ださんと殺すぞ」駅前のコンビニで強盗か イヤホンなど強奪した疑い 31歳男を逮捕 山口・防府 (2025-12-28 08:57:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maz2235qok2y" target="_blank">sokuho.news</a> (2025-12-28 09:13:47)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:福島県会津, 深さ:10km マグニチュード:1.8, 最大震度:1 📍https://www.google.com/maps?q=37.1,139.4&ll=37.1,139.4&z=7&t=h 地震発生日時:2025-12-28 09:02頃 (10倍速▶90s→9s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3mayzmdgc6n2b" target="_blank">sokuho.news</a> (2025-12-28 09:06:06)</span>
+<span style="padding-right:50px;">In @nytopinion.nytimes.com   So much went wrong this year, our columnist Nicholas Kristof writes. But “measured by child mortality, education, nutrition or women’s rights, we humans are probably in the best decade in the past 300,000 years.” <a href="https://bsky.app/profile/nytimes.com/post/3maz3rzzmhn2r" target="_blank">nytimes.com</a> (2025-12-28 09:45:04)</span><span style="padding-right:50px;">ボクシングの世界スーパーバンタム級主要４団体タイトルマッチが２７日、サウジアラビアのリヤドで行われ、統一王者の井上尚弥（３２）が世界ボクシング評議会（ＷＢＣ）同級２位のアラン・ピカソ（２５、メキシコ）に３─０の判定勝ちを収め、防衛に成功した。 bit.ly/48XQHKS <a href="https://bsky.app/profile/japan.reuters.com/post/3maz3i3f7lv2s" target="_blank">japan.reuters.com</a> (2025-12-28 09:39:30)</span><span style="padding-right:50px;">Lightning sign D J.J. Moser to 8-year, $54 million extension reut.rs/3N0eyRl <a href="https://bsky.app/profile/reuters.com/post/3maz3abf2bg2i" target="_blank">reuters.com</a> (2025-12-28 09:35:08)</span><span style="padding-right:50px;">国際ボクシング連盟（ＩＢＦ）フライ級タイトルマッチ１２回戦が２７日、愛知県国際展示場で行われ、王者の矢吹正道（３３）が初防衛を果たした。 bit.ly/4jh2kA0 <a href="https://bsky.app/profile/japan.reuters.com/post/3maz36ehyxc22" target="_blank">japan.reuters.com</a> (2025-12-28 09:34:04)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】関越道 多重事故による通行止め 28日午後1時に全面解除へ 26日(金)以来42時間ぶり (2025-12-28 09:28:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maz35vbizq2b" target="_blank">sokuho.news</a> (2025-12-28 09:33:48)</span>
   </div>
 </div>
 
@@ -32,15 +32,77 @@
 
 ## News Headlines
 
-- US Condemns China's Sanctions on US Defense Companies
-- Tokyo Metro Line Reopens After Closure
-- Taiwan Hit by Magnitude 6.6 Earthquake
-- 15 Killed, 19 Injured in Guatemala Bus Crash
-- Canada to Provide Additional Aid to Ukraine
-- White House Aides Drove US Toward Confrontation with Venezuela
+- World Boxing Council Title Match Held in Riyadh, Japan's Iyo Wins
+- Lightning Signs D J.J. Moser to 8-Year, $54 Million Extension
+- IBF Flyweight Title Match in Aichi Prefecture, Japan's Yaotsu Wins
+- Japan's Kaido Expressway to Reopen After 42-Hour Closure
+- US Approves Taiwan Arms Sale, China Imposes Sanctions on US Companies
+- Multiple Fatalities in Guatemala Bus Accident
 
 
 ----
+
+@nytimes.com
+
+In @nytopinion.nytimes.com 
+
+So much went wrong this year, our columnist Nicholas Kristof writes. But “measured by child mortality, education, nutrition or women’s rights, we humans are probably in the best decade in the past 300,000 years.”
+
+[2025-12-28 09:45:04](https://bsky.app/profile/nytimes.com/post/3maz3rzzmhn2r)
+
+---
+
+@japan.reuters.com
+
+ボクシングの世界スーパーバンタム級主要４団体タイトルマッチが２７日、サウジアラビアのリヤドで行われ、統一王者の井上尚弥（３２）が世界ボクシング評議会（ＷＢＣ）同級２位のアラン・ピカソ（２５、メキシコ）に３─０の判定勝ちを収め、防衛に成功した。 bit.ly/48XQHKS
+
+[2025-12-28 09:39:30](https://bsky.app/profile/japan.reuters.com/post/3maz3i3f7lv2s)
+
+---
+
+@reuters.com
+
+Lightning sign D J.J. Moser to 8-year, $54 million extension reut.rs/3N0eyRl
+
+[2025-12-28 09:35:08](https://bsky.app/profile/reuters.com/post/3maz3abf2bg2i)
+
+---
+
+@japan.reuters.com
+
+国際ボクシング連盟（ＩＢＦ）フライ級タイトルマッチ１２回戦が２７日、愛知県国際展示場で行われ、王者の矢吹正道（３３）が初防衛を果たした。 bit.ly/4jh2kA0
+
+[2025-12-28 09:34:04](https://bsky.app/profile/japan.reuters.com/post/3maz36ehyxc22)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】関越道 多重事故による通行止め 28日午後1時に全面解除へ 26日(金)以来42時間ぶり
+(2025-12-28 09:28:00) #ニュース
+
+[2025-12-28 09:33:48](https://bsky.app/profile/sokuho.news/post/3maz35vbizq2b)
+
+---
+
+@nikkei.com
+
+宮城県で新種のクラゲ、伊達政宗にちなんで命名　東北大学（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+[2025-12-28 09:30:39](https://bsky.app/profile/nikkei.com/post/3maz2yaktkn2c)
+
+---
+
+@usatoday.com
+
+Which underclassmen are entering the 2026 NFL Draft? Follow along with our live tracker.
+
+[2025-12-28 09:30:16](https://bsky.app/profile/usatoday.com/post/3maz2xkryyt2o)
+
+---
 
 @npr.org
 
@@ -64,82 +126,6 @@ Mysteries and thrillers are enjoyable no matter the season, but there's somethin
 https://news.web.nhk/newsweb/na/na-k10015015731000
 
 [2025-12-28 09:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maz24exx3p2s)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】「大金ださんと殺すぞ」駅前のコンビニで強盗か イヤホンなど強奪した疑い 31歳男を逮捕 山口・防府
-(2025-12-28 08:57:00) #ニュース
-
-[2025-12-28 09:13:47](https://bsky.app/profile/sokuho.news/post/3maz2235qok2y)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:福島県会津, 深さ:10km
-マグニチュード:1.8, 最大震度:1
-📍https://www.google.com/maps?q=37.1,139.4&ll=37.1,139.4&z=7&t=h
-地震発生日時:2025-12-28 09:02頃
-(10倍速▶90s→9s) #地震
-
-[2025-12-28 09:06:06](https://bsky.app/profile/sokuho.news/post/3mayzmdgc6n2b)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-9時2分頃、福島県で最大震度1の地震を観測しました。
-震源:福島県会津, 深さ:10km, 規模:M1.8
-この地震による津波の心配はありません。
-(2025-12-28 09:05:43) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/28/2025-12-28-09-02-24.html?xlarge_image=1
-
-[2025-12-28 09:05:43](https://bsky.app/profile/sokuho.news/post/3mayzlovtpe2y)
-
----
-
-@cnn.com
-
-At least 15 people were killed and 19 injured after a passenger bus plunged into a ravine on the Inter-American Highway in western Guatemala, authorities said on Saturday. 
-
-[2025-12-28 09:02:01](https://bsky.app/profile/cnn.com/post/3mayzf27ov725)
-
----
-
-@wsj.com
-
-A concerted lobbying push by a cannabis CEO, a Florida sheriff and a Mar-a-Lago member helped persuade the president. on.wsj.com/4jgq9YJ
-
-[2025-12-28 09:01:10](https://bsky.app/profile/wsj.com/post/3mayzdk6oeh2i)
-
----
-
-@bloomberg.com
-
-Gold has surged in a record-breaking rally tied in part to eroding confidence in the US dollar. We look at what is driving its rise and what it means for the global financial system.  (from the archive)
-
-[2025-12-28 09:00:58](https://bsky.app/profile/bloomberg.com/post/3mayzd64oq523)
-
----
-
-@nikkei.com
-
-国債30兆円超え回避に奇策　26年度予算案、地方交付税を7000億円減額
-www.nikkei.com/article/DGXZQO...
-
-表向きは国債の大幅な増発を避け、財政規律への配慮を演出した形です。
-
-財政の持続可能性に市場から信認を得られなければ、金利の上昇圧力が高まり、利払い費が膨らむリスクも。
-
-[2025-12-28 09:00:40](https://bsky.app/profile/nikkei.com/post/3mayzcms5wo2x)
 
 ---
 
