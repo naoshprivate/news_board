@@ -1,9 +1,9 @@
-# [2025-12-28 09:10 updated](2025_12_28.md)
+# [2025-12-28 09:30 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:福島県会津, 深さ:10km マグニチュード:1.8, 最大震度:1 📍https://www.google.com/maps?q=37.1,139.4&ll=37.1,139.4&z=7&t=h 地震発生日時:2025-12-28 09:02頃 (10倍速▶90s→9s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3mayzmdgc6n2b" target="_blank">sokuho.news</a> (2025-12-28 09:06:06)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  9時2分頃、福島県で最大震度1の地震を観測しました。 震源:福島県会津, 深さ:10km, 規模:M1.8 この地震による津波の心配はありません。 (2025-12-28 09:05:43) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/28/2025-12-28-09-02-24.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3mayzlovtpe2y" target="_blank">sokuho.news</a> (2025-12-28 09:05:43)</span><span style="padding-right:50px;">At least 15 people were killed and 19 injured after a passenger bus plunged into a ravine on the Inter-American Highway in western Guatemala, authorities said on Saturday.  <a href="https://bsky.app/profile/cnn.com/post/3mayzf27ov725" target="_blank">cnn.com</a> (2025-12-28 09:02:01)</span><span style="padding-right:50px;">A concerted lobbying push by a cannabis CEO, a Florida sheriff and a Mar-a-Lago member helped persuade the president. on.wsj.com/4jgq9YJ <a href="https://bsky.app/profile/wsj.com/post/3mayzdk6oeh2i" target="_blank">wsj.com</a> (2025-12-28 09:01:10)</span><span style="padding-right:50px;">Gold has surged in a record-breaking rally tied in part to eroding confidence in the US dollar. We look at what is driving its rise and what it means for the global financial system.  (from the archive) <a href="https://bsky.app/profile/bloomberg.com/post/3mayzd64oq523" target="_blank">bloomberg.com</a> (2025-12-28 09:00:58)</span>
+<span style="padding-right:50px;">Mysteries and thrillers are enjoyable no matter the season, but there's something extra satisfying about curling up in the winter with a warm drink and an all-engrossing read. Here's what we suggest. <a href="https://bsky.app/profile/npr.org/post/3maz2ky7b5q2m" target="_blank">npr.org</a> (2025-12-28 09:23:14)</span><span style="padding-right:50px;">米国務省は２６日、台湾への武器売却承認を受けて中国が米防衛企業などに制裁を科したことに「強く反対する」と述べた。 bit.ly/4qx0DAU <a href="https://bsky.app/profile/japan.reuters.com/post/3maz2gyb2gc2u" target="_blank">japan.reuters.com</a> (2025-12-28 09:21:00)</span><span style="padding-right:50px;">東京メトロ千代田線 運転再開 https://news.web.nhk/newsweb/na/na-k10015015731000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maz24exx3p2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 09:15:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「大金ださんと殺すぞ」駅前のコンビニで強盗か イヤホンなど強奪した疑い 31歳男を逮捕 山口・防府 (2025-12-28 08:57:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maz2235qok2y" target="_blank">sokuho.news</a> (2025-12-28 09:13:47)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:福島県会津, 深さ:10km マグニチュード:1.8, 最大震度:1 📍https://www.google.com/maps?q=37.1,139.4&ll=37.1,139.4&z=7&t=h 地震発生日時:2025-12-28 09:02頃 (10倍速▶90s→9s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3mayzmdgc6n2b" target="_blank">sokuho.news</a> (2025-12-28 09:06:06)</span>
   </div>
 </div>
 
@@ -32,15 +32,51 @@
 
 ## News Headlines
 
-- At least 15 killed in Guatemala bus crash
-- Gold surges in record-breaking rally tied to eroding confidence in US dollar
-- Japan's NEC halts 4G, 5G base station equipment development
-- Taiwan hit by magnitude 6.6 earthquake: US Geological Survey
-- Russia's Putin says Ukraine not seeking peaceful resolution to conflict
-- UK secures migrant return deal with Angola, Namibia
+- US Condemns China's Sanctions on US Defense Companies
+- Tokyo Metro Line Reopens After Closure
+- Taiwan Hit by Magnitude 6.6 Earthquake
+- 15 Killed, 19 Injured in Guatemala Bus Crash
+- Canada to Provide Additional Aid to Ukraine
+- White House Aides Drove US Toward Confrontation with Venezuela
 
 
 ----
+
+@npr.org
+
+Mysteries and thrillers are enjoyable no matter the season, but there's something extra satisfying about curling up in the winter with a warm drink and an all-engrossing read. Here's what we suggest.
+
+[2025-12-28 09:23:14](https://bsky.app/profile/npr.org/post/3maz2ky7b5q2m)
+
+---
+
+@japan.reuters.com
+
+米国務省は２６日、台湾への武器売却承認を受けて中国が米防衛企業などに制裁を科したことに「強く反対する」と述べた。 bit.ly/4qx0DAU
+
+[2025-12-28 09:21:00](https://bsky.app/profile/japan.reuters.com/post/3maz2gyb2gc2u)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+東京メトロ千代田線 運転再開
+https://news.web.nhk/newsweb/na/na-k10015015731000
+
+[2025-12-28 09:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maz24exx3p2s)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】「大金ださんと殺すぞ」駅前のコンビニで強盗か イヤホンなど強奪した疑い 31歳男を逮捕 山口・防府
+(2025-12-28 08:57:00) #ニュース
+
+[2025-12-28 09:13:47](https://bsky.app/profile/sokuho.news/post/3maz2235qok2y)
+
+---
 
 @sokuho.news
 
@@ -104,38 +140,6 @@ www.nikkei.com/article/DGXZQO...
 財政の持続可能性に市場から信認を得られなければ、金利の上昇圧力が高まり、利払い費が膨らむリスクも。
 
 [2025-12-28 09:00:40](https://bsky.app/profile/nikkei.com/post/3mayzcms5wo2x)
-
----
-
-@japan.reuters.com
-
-ウクライナのゼレンスキー大統領は２７日、トランプ大統領との会談のために米国に向かう途中、カナダのハリファクスに立ち寄り、カーニー首相と会談した。カーニー首相はウクライナに２５億カナダドル（１８億３０００万ドル）の追加支援を提供すると発表した。 bit.ly/49ufo1v
-
-[2025-12-28 09:00:35](https://bsky.app/profile/japan.reuters.com/post/3mayzchztko25)
-
----
-
-@usatoday.com
-
-Gordon Ramsay's daughter Holly Anna Ramsay and Olympic swimmer Adam Peaty got married at at Bath Abbey in England.
-
-[2025-12-28 09:00:22](https://bsky.app/profile/usatoday.com/post/3mayzc3aarj2l)
-
----
-
-@apnews.com
-
-An intermunicipal bus in Guatemala veered off a road and fell into a deep ravine, killing 15 passengers and injuring at least 15 others.
-
-[2025-12-28 09:00:13](https://bsky.app/profile/apnews.com/post/3mayzbtgupw24)
-
----
-
-@washingtonpost.com
-
-Column: Who will President Trump choose to succeed Jerome H. Powell as the chair of the Federal Reserve? Powell has stressed the importance of the Fed’s independence. But in truth, it is not clear that it was ever as insulated from politics as it claims to be.
-
-[2025-12-28 09:00:06](https://bsky.app/profile/washingtonpost.com/post/3mayzbmgtdy2e)
 
 ---
 
