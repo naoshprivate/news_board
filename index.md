@@ -1,9 +1,9 @@
-# [2025-12-28 09:50 updated](2025_12_28.md)
+# [2025-12-28 10:10 updated](2025_12_28.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">In @nytopinion.nytimes.com   So much went wrong this year, our columnist Nicholas Kristof writes. But “measured by child mortality, education, nutrition or women’s rights, we humans are probably in the best decade in the past 300,000 years.” <a href="https://bsky.app/profile/nytimes.com/post/3maz3rzzmhn2r" target="_blank">nytimes.com</a> (2025-12-28 09:45:04)</span><span style="padding-right:50px;">ボクシングの世界スーパーバンタム級主要４団体タイトルマッチが２７日、サウジアラビアのリヤドで行われ、統一王者の井上尚弥（３２）が世界ボクシング評議会（ＷＢＣ）同級２位のアラン・ピカソ（２５、メキシコ）に３─０の判定勝ちを収め、防衛に成功した。 bit.ly/48XQHKS <a href="https://bsky.app/profile/japan.reuters.com/post/3maz3i3f7lv2s" target="_blank">japan.reuters.com</a> (2025-12-28 09:39:30)</span><span style="padding-right:50px;">Lightning sign D J.J. Moser to 8-year, $54 million extension reut.rs/3N0eyRl <a href="https://bsky.app/profile/reuters.com/post/3maz3abf2bg2i" target="_blank">reuters.com</a> (2025-12-28 09:35:08)</span><span style="padding-right:50px;">国際ボクシング連盟（ＩＢＦ）フライ級タイトルマッチ１２回戦が２７日、愛知県国際展示場で行われ、王者の矢吹正道（３３）が初防衛を果たした。 bit.ly/4jh2kA0 <a href="https://bsky.app/profile/japan.reuters.com/post/3maz36ehyxc22" target="_blank">japan.reuters.com</a> (2025-12-28 09:34:04)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】関越道 多重事故による通行止め 28日午後1時に全面解除へ 26日(金)以来42時間ぶり (2025-12-28 09:28:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maz35vbizq2b" target="_blank">sokuho.news</a> (2025-12-28 09:33:48)</span>
+<span style="padding-right:50px;">群馬 関越道の多重事故 下り線は午後1時に解除の見通し https://news.web.nhk/newsweb/na/na-k10015015681000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maz4xkyqut2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 10:06:02)</span><span style="padding-right:50px;">Imani Smith, who once played a young Nala in Disney’s “The Lion King” on Broadway, has died, according to the Middlesex County, New Jersey, Prosecutor’s Office. https://cnn.it/3Laa4qI <a href="https://bsky.app/profile/cnn.com/post/3maz4vr5cue26" target="_blank">cnn.com</a> (2025-12-28 10:05:03)</span><span style="padding-right:50px;">With wait lists in the thousands, the state’s vo-tech campuses are highly sought after, even attracting many college-bound students. on.wsj.com/3N3DYxs <a href="https://bsky.app/profile/wsj.com/post/3maz4ucuzsx2u" target="_blank">wsj.com</a> (2025-12-28 10:04:14)</span><span style="padding-right:50px;">群馬 関越道 多重事故 下り線は午後1時に解除の見通し https://news.web.nhk/newsweb/na/na-k10015015681000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maz4s7gc7v2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-28 10:03:02)</span><span style="padding-right:50px;">おせち・雑煮の「豆」知識クイズ　全10問 www.nikkei.com/article/DGXZQO...  現在の正式なおせちとされるお重詰めの形ができたのはいつ?お雑煮にサケとイクラを入れるのはどの地域?･･･1000人に出題し、知られていない順にランキングしました。 <a href="https://bsky.app/profile/nikkei.com/post/3maz4nwpspo2x" target="_blank">nikkei.com</a> (2025-12-28 10:00:41)</span>
   </div>
 </div>
 
@@ -32,100 +32,98 @@
 
 ## News Headlines
 
-- World Boxing Council Title Match Held in Riyadh, Japan's Iyo Wins
-- Lightning Signs D J.J. Moser to 8-Year, $54 Million Extension
-- IBF Flyweight Title Match in Aichi Prefecture, Japan's Yaotsu Wins
-- Japan's Kaido Expressway to Reopen After 42-Hour Closure
-- US Approves Taiwan Arms Sale, China Imposes Sanctions on US Companies
-- Multiple Fatalities in Guatemala Bus Accident
+- Multiple Car Accidents on Japan's Kanetsu Highway Expected to be Cleared by 1 pm
+- Disney's 'The Lion King' Broadway Star Imani Smith Dies
+- Vo-Tech Campuses in High Demand, Attracting College-Bound Students
+- Middle-Aged Man Arrested in Japan for Robbery at Convenience Store
+- Ukraine's Zelensky Visits Canada, Receives $1.8 Billion in Aid
+- Guatemala Bus Crash Kills 15, Injures 19
 
 
 ----
 
-@nytimes.com
+@nhknewsunofficial.bsky.social
 
-In @nytopinion.nytimes.com 
+群馬 関越道の多重事故 下り線は午後1時に解除の見通し
+https://news.web.nhk/newsweb/na/na-k10015015681000
 
-So much went wrong this year, our columnist Nicholas Kristof writes. But “measured by child mortality, education, nutrition or women’s rights, we humans are probably in the best decade in the past 300,000 years.”
-
-[2025-12-28 09:45:04](https://bsky.app/profile/nytimes.com/post/3maz3rzzmhn2r)
-
----
-
-@japan.reuters.com
-
-ボクシングの世界スーパーバンタム級主要４団体タイトルマッチが２７日、サウジアラビアのリヤドで行われ、統一王者の井上尚弥（３２）が世界ボクシング評議会（ＷＢＣ）同級２位のアラン・ピカソ（２５、メキシコ）に３─０の判定勝ちを収め、防衛に成功した。 bit.ly/48XQHKS
-
-[2025-12-28 09:39:30](https://bsky.app/profile/japan.reuters.com/post/3maz3i3f7lv2s)
+[2025-12-28 10:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maz4xkyqut2b)
 
 ---
 
-@reuters.com
+@cnn.com
 
-Lightning sign D J.J. Moser to 8-year, $54 million extension reut.rs/3N0eyRl
+Imani Smith, who once played a young Nala in Disney’s “The Lion King” on Broadway, has died, according to the Middlesex County, New Jersey, Prosecutor’s Office. https://cnn.it/3Laa4qI
 
-[2025-12-28 09:35:08](https://bsky.app/profile/reuters.com/post/3maz3abf2bg2i)
-
----
-
-@japan.reuters.com
-
-国際ボクシング連盟（ＩＢＦ）フライ級タイトルマッチ１２回戦が２７日、愛知県国際展示場で行われ、王者の矢吹正道（３３）が初防衛を果たした。 bit.ly/4jh2kA0
-
-[2025-12-28 09:34:04](https://bsky.app/profile/japan.reuters.com/post/3maz36ehyxc22)
+[2025-12-28 10:05:03](https://bsky.app/profile/cnn.com/post/3maz4vr5cue26)
 
 ---
 
-@sokuho.news
+@wsj.com
 
-🛎️JNNより【速報】です。
+With wait lists in the thousands, the state’s vo-tech campuses are highly sought after, even attracting many college-bound students. on.wsj.com/3N3DYxs
 
-【速報】関越道 多重事故による通行止め 28日午後1時に全面解除へ 26日(金)以来42時間ぶり
-(2025-12-28 09:28:00) #ニュース
-
-[2025-12-28 09:33:48](https://bsky.app/profile/sokuho.news/post/3maz35vbizq2b)
-
----
-
-@nikkei.com
-
-宮城県で新種のクラゲ、伊達政宗にちなんで命名　東北大学（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-[2025-12-28 09:30:39](https://bsky.app/profile/nikkei.com/post/3maz2yaktkn2c)
-
----
-
-@usatoday.com
-
-Which underclassmen are entering the 2026 NFL Draft? Follow along with our live tracker.
-
-[2025-12-28 09:30:16](https://bsky.app/profile/usatoday.com/post/3maz2xkryyt2o)
-
----
-
-@npr.org
-
-Mysteries and thrillers are enjoyable no matter the season, but there's something extra satisfying about curling up in the winter with a warm drink and an all-engrossing read. Here's what we suggest.
-
-[2025-12-28 09:23:14](https://bsky.app/profile/npr.org/post/3maz2ky7b5q2m)
-
----
-
-@japan.reuters.com
-
-米国務省は２６日、台湾への武器売却承認を受けて中国が米防衛企業などに制裁を科したことに「強く反対する」と述べた。 bit.ly/4qx0DAU
-
-[2025-12-28 09:21:00](https://bsky.app/profile/japan.reuters.com/post/3maz2gyb2gc2u)
+[2025-12-28 10:04:14](https://bsky.app/profile/wsj.com/post/3maz4ucuzsx2u)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-東京メトロ千代田線 運転再開
-https://news.web.nhk/newsweb/na/na-k10015015731000
+群馬 関越道 多重事故 下り線は午後1時に解除の見通し
+https://news.web.nhk/newsweb/na/na-k10015015681000
 
-[2025-12-28 09:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maz24exx3p2s)
+[2025-12-28 10:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maz4s7gc7v2u)
+
+---
+
+@nikkei.com
+
+おせち・雑煮の「豆」知識クイズ　全10問
+www.nikkei.com/article/DGXZQO...
+
+現在の正式なおせちとされるお重詰めの形ができたのはいつ?お雑煮にサケとイクラを入れるのはどの地域?･･･1000人に出題し、知られていない順にランキングしました。
+
+[2025-12-28 10:00:41](https://bsky.app/profile/nikkei.com/post/3maz4nwpspo2x)
+
+---
+
+@japan.reuters.com
+
+１２月１９日の日銀金融政策決定会合を経て、「利上げしたのになぜ円安になったのか」という照会を筆者は頻繁に受けている。この点、日銀における公表文や植田和男総裁の会見など、情報発信のまずさに終始する議論が目立つが、そもそも限られた手札で戦わされている日銀に過剰な期待を寄せ過ぎるのも正しくないはずである。 bit.ly/49qZHrX
+
+[2025-12-28 10:00:32](https://bsky.app/profile/japan.reuters.com/post/3maz4nonts32c)
+
+---
+
+@usatoday.com
+
+The players are striking in-season for the first time in the 38-year-old league's history. Here's why as explained by Blades union rep Logan Lambdin.
+
+[2025-12-28 10:00:29](https://bsky.app/profile/usatoday.com/post/3maz4nm3cwb2w)
+
+---
+
+@bloomberg.com
+
+China has invested billions of dollars in building ports around the globe, giving Beijing a strategic advantage as trade tensions rise, and sparking security concerns for the rest of the world. (from the archive)
+
+[2025-12-28 10:00:18](https://bsky.app/profile/bloomberg.com/post/3maz4nb6we42x)
+
+---
+
+@cnbc.com
+
+With $1.5 million saved at 37, Florence Poirel shares the spending habits that helped her build wealth before her "mini retirement."
+
+[2025-12-28 10:00:13](https://bsky.app/profile/cnbc.com/post/3maz4n4su6y24)
+
+---
+
+@apnews.com
+
+Chaston Ditta threw two second-half touchdown passes, and East Carolina overcame an inadvertent whistle that negated a long touchdown in a 23-17 victory over Pittsburgh in the Military Bowl.
+
+[2025-12-28 10:00:10](https://bsky.app/profile/apnews.com/post/3maz4mztyqq26)
 
 ---
 
